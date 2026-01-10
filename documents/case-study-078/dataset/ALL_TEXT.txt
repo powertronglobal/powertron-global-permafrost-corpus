@@ -1,0 +1,285 @@
+================================================================================
+DOCUMENT: Case Study 078
+DOC_ID: pdf_072
+SHA256: f0270e9e9a269881aca6188b06325e619bd8797460aca7e255b3d85b38da9aac
+================================================================================
+
+═══ PAGE 001 ═══
+
+®
+Energy Science Division
+COMPANY C - LOCATION B
+Comprehensive HVAC/R Capacity Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 002 ═══
+
+Energy Performance Report
+Company C - Location B
+April 23, 2013
+Product Brief
+         Our multi patented surface science nanotechnology is a sustainable surface science technology that 
+lasts for the remaining useful life of any type of system in which it’s installed.  All types, designs and 
+configurations of HVACR equipment qualifies for the benefit of treatment as long as the equipment 
+utilizes refrigerant-based cooling as part of the design.
+PermaFrost NMR® is a Nanotechnology that uses the patented Nucleo Molecular Regenerative (NMR) 
+technology as its core agent. When installed into the low side refrigerant port, the product immediately 
+goes to work restoring optimal heat transfer characteristics to the coils. Through polar synthesis, PermaFrost NMR® embeds into the microscopic lattice structure of metal surfaces within the refrigeration circuit as a thermal transfer agent, forming a passive nano-magnetic film. This process enhances the conductivity of the metal and creates a permanent thermal coating that maintains optimal heat transfer efficiency for the remaining life cycle of the equipment.
+The direct benefits of PermaFrost NMR® are improved cooling performance through increased capacity, 
+and enhanced laminar refrigerant flow – all of which allows a system to achieve set point temperatures 
+faster resulting in reduced compressor cycle periods and /or increased compressor unloading. 
+The indirect benefits resulting from the enhanced thermodynamic characteristics following treatment 
+include reduced run time, less kW hours used, less amp draw at the compressor and longer overall 
+equipment life.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 003 ═══
+
+Energy Science Division
+Executive Summary
+        This report contains specific information regarding the installation of the energy control measure 
+(ECM) PermaFrost NMR® for Company B/Location B in Miami, FL. Detailed forensic performance testing 
+(outlined later in this report) was performed on a 7.5 ton American Standard split-system DX unit equipped 
+with R-22 refrigerant. 
+Immediately following the baseline testing, the units was treated 
+with the proper amount and type of PermaFrost NMR® product 
+formulated for R-22 DX systems. Since there were no other 
+ECM’s going on during this pilot project, the improvement in 
+efficiency and restored capacity gained directly at the units is 
+solely attributable to the PermaFrost NMR® ECM. The unit(s) 
+now provides cooler/drier supply air while using less power. 
+This greater operational efficiency is due to the restoration of the 
+heat transfer ability of the evaporator and condenser coils.
+Following treatment of PermaFrost NMR® the unit showed an 
+increase in coil capacity of 7,956 Btuh or 7.8% improvement 
+overall system efficiency. The unit also showed a reduction in 
+Watts/Ton of 6.5% and a 7.8% improvement in the Enthalpy 
+Delta. Additionally, the unit showed a 6.9% improvement in 
+EER. The Delta T improved by 1.1 degrees which is another 
+measurable way to view the thermodynamic enhancement of the 
+PermaFrost NMR® ECM. 
+The results table of the ECM improvements is available for 
+review at the end of this report.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 004 ═══
+
+Measurement and Veriﬁcation Protocol
+The International Performance Measurement and Verification Protocol (IPMVP) is used to develop this 
+report. The Association of Energy Engineers (AEE), American Society of Heating, Refrigeration and 
+Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization (EVO) accept the 
+IPMVP as a global methodology for determining the effectiveness of energy conservation methods and 
+products.
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize. They 
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report.
+Retrofit Isolation (Option B) is defined as: All parameter measurement with the boundary of the ECM 
+(PermaFrost NMR®) as the single source of measurement. Savings are determined by field measurement of 
+the energy use of the energy conservation method affected equipment or system and any performance 
+enhancements versus the baseline data.
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the 
+savings and the length of the reporting period.  For the boundary utilized for Option B short-term 
+measurements are very useful as data when the variables are contained. The savings are calculated by 
+short-term measurements of baseline and reporting period energy, and /or engineering computations using 
+measurements of proxies of energy use.
+The final computation follows the formula:
+The final computation follows the formula:
+Energy Science Division
+Option B savings = Baseline Energy – Reporting Period Energy
++ - Routine Adjustments + - Non-Routine Adjustments
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 005 ═══
+
+Energy Conservation Method (ECM) Content
+The content of the following report will demonstrate the effects of PermaFrost NMR®’s ability to correct the 
+effects of thermal degradation and fouling on the heat exchange surfaces. 
+It was determined with Li Gurau M.E. for Company C to treat the American Standard 
+split-system DX unit. A diagnostic examination of the pilot equipment is implemented to determine if the 
+unit’s operational conditions are satisfactory. Baseline measurements will be recorded and then the proper 
+amount and type of PermaFrost NMR® will be injected. The product will be allowed 4 weeks to seat itself 
+into the metal surfaces before post measurements were taken to establish the efficiency gains. 
+The following report produces the utilization of the IPMVP International Performance Measurement and 
+Verification Protocol as the M&V plan. The final calculations were performed by Powertron Global’s Senior 
+Energy Engineer [Senior Energy Engineer] ME/CEM/CMC/CMVP.
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+kW = Volts X Amps * .9 Single Phase or 1.47 Three Phase / 1000
+ 
+Enthalpy =  Return Air WB Deg. F and Supply Air WB Deg. F Converted to Enthalpy
+ 
+Actual Btuh Capacity = Measured CFM X 4.5 * Enthalpy Delta 
+ 
+System Eﬃciency % = Actual Coil Capacity Btuh / Nominal Coil Capacity Btuh
+ 
+EER = Btuh / Watts
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 006 ═══
+
+Energy Science Division
+Make
+Model (indoor unit / outdoor unit)
+Serial
+Refrigerant Type
+Age
+Nominal Cooling Capacity Btuh 
+Tonnage
+CFM
+American Standard
+TWE090 / TTA090
+2254PH15H / 2343PXRA
+ R-22
+ 2002
+ 90,000
+ 7.5
+ 3000
+System Description / Design Characteristics
+Baseline Measurement Period Selection
+The following data was recorded on 3/12/13 using recently calibrated devices to insure measurement 
+accuracy. The following results were recorded as a result of the implementation of the IPMVP Protocol.
+Voltage Indoor / Outdoor
+Amperage Indoor / Outdoor
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Entering Air Temp DB
+Leaving Air Temp DB
+Entering Air Temp WB
+Leaving Air Temp WB
+Actual CFM
+Actual Coil Capacity Btuh / Tons
+Enthalpy Delta
+Total Watts
+Watts per Ton
+OAT / RH%
+239.1 / 240.8
+8.9 / 19.6
+41.5 deg F
+101.7 deg F
+76 deg F
+62 deg F
+ 69.3 deg F
+60.5 deg F
+3400
+102,510 Btu / 8.54 Tons
+6.7
+8,853 CTW
+1,036 WPT
+82.1 deg F / 67.7% 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 007 ═══
+
+Energy Reporting Period
+The identical IPMVP data recordings from the baseline were recorded on date using the same recently NIST 
+calibrated devices to insure measurement accuracy. The measurements are as follows: 
+The DB temperature (76 deg. F) entering the coil was matched exactly to the baseline period. After matching 
+this temperature the post readings were taken to ensure that the work the coil had to do was the same in the 
+baseline. 
+Energy Science Division
+Voltage Indoor / Outdoor
+Amperage Indoor / Outdoor
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Entering Air Temp DB
+Leaving Air Temp DB
+Entering Air Temp WB
+Leaving Air Temp WB
+Actual CFM
+Actual Coil Capacity Btuh / Tons
+Enthalpy Delta
+Total Watts
+Watts per Ton
+OAT / RH%
+239.1 / 240.8
+8.9 / 19.8
+39.6 deg F
+ 102.6 deg F
+76 deg F
+ 60.9 deg F
+ 67.5 deg F
+57.5 deg F
+3400
+110,466 Btu / 9.21 Tons
+7.22
+8,924 W
+969 WPT
+82 deg F / 65%
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 008 ═══
+
+Energy Science Division
+Eﬃciency Improvements
+Adjusted Total Watts
+Adjusted Watts per Ton
+Btuh Capacity
+System Eﬃciency %
+Enthalpy Delta
+EER
+6.5%
+6.5%
+7.8 %
+ 7.7%
+7.5 %
+6.9 %
+Energy Reporting Period
+8,924
+969
+110,466
+117.5%
+7.2
+12.4
+Baseline
+9,542
+1,036
+102,510
+109.1%
+6.7
+11.6
+Conclusion
+The IPMVP calculations and results for the referenced American Standard Split HVAC system model # 
+TTA090 Condenser and the TWE090 air handler do not reflect the initial published design performance 
+intent. This is indicative of many systems due to the variables that effect performance in-situ. 
+The ARI Standards for determining the capacity of forced air coils AHRI-410-2001 sets standards for testing 
+that qualify the printed statements of manufacturers. Equipment in-situ rarely matches these standard tests. 
+Therefore although there are capacity levels within this report that do not coincide with published data 
+from the respective manufacturer it is due to the following:
+1. CFM is greater than the design intent.
+2. Entering air for the evaporator coil is cooler than design intent.
+3. Entering air for the condenser coil is cooler than the design intent.
+All of the above in-situ conditions have altered the performance expected baseline and post analysis but 
+since these conditions were repeated during the post analysis or avoided energy cost period the level of 
+uncertainty is acceptable within the confines of the IPMVP.
+The facility at Arcola Park has been used off and on in the last ten years with limited usage hours from area 
+community groups. The park is almost never open before 12:00 PM. This unit is an older machine but do to 
+Results
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 009 ═══
+
+Energy Science Division
+its application of cooling a room that isn’t occupied very often we believe this unit doesn’t have the typical 
+runtime on it that a unit of this age and geography would therefore it has not degraded in efficiency in 
+respect to the issues associated with thermal inefficiency. This unit may not be the norm of the Company C portfolio.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+

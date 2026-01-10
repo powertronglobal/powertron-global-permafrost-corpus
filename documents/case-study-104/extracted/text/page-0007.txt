@@ -1,0 +1,55 @@
+HVAC Performance Comparison: kW/Ton
+Major US Retailer DHU 9 Kit 4 TESTED
+kW/Ton Comparison 
+OSA Temp.
+Base kW/Ton
+Post kW/Ton
+74 degF
+1.22 kW/Ton
+1.04 kw/Ton
+75 degF
+1.06 kW/Ton
+0.79 kw/Ton
+76 degF
+1.05 kW/Ton
+0.84 kw/Ton
+77 degF
+0.92 kW/Ton
+0.81 kw/Ton
+78 degF
+0.88 kW/Ton
+0.76 kw/Ton
+79 degF
+0.91 kW/Ton
+0.77 kw/Ton
+80 degF
+0.95 kW/Ton
+0.72 kw/Ton
+81 degF
+0.91 kW/Ton
+0.75 kw/Ton
+82 degF
+0.91 kW/Ton
+0.78 kw/Ton
+83 degF
+0.96 kW/Ton
+0.88 kw/Ton
+84 degF
+0.89 kW/Ton
+0.76 kw/Ton
+85 degF
+1.17 kW/Ton
+0.79 kw/Ton
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+74 degF - 85 degF
+68.0 degF - 72.0 degF
+0.5 - 1.0
+5s
+47362 samples
+45537 samples

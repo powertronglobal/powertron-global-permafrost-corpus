@@ -1,0 +1,33 @@
+Baseline 09/01/2024 12:00 AM - 09/15/2024 12:00 AM VS Post 10/10/2024 12:00 AM -
+10/24/2024 12:00 AM
+kW/Ton
+Temperature
+kw/ton
+kW/Ton
+baseline
+post
+74
+76
+78
+80
+82
+84
+86
+88
+90
+92
+94
+96
+98
+100
+102
+104
+0.8
+1
+1.2
+1.4
+1.6
+1.8
+2
+powertronglobal.com
+510 National Convenience Store Chain Post - 2704091 - CK02

@@ -1,0 +1,45 @@
+{
+  "doc_id": "pdf_027",
+  "terms": [
+    {
+      "term": "Technologies",
+      "abbreviation": "EET",
+      "definition": null
+    },
+    {
+      "term": "Energy Conservation Measure",
+      "abbreviation": "ECM",
+      "definition": null
+    },
+    {
+      "term": "Circuit Master",
+      "abbreviation": "CM",
+      "definition": null
+    },
+    {
+      "term": "Computer Room Air Conditioning",
+      "abbreviation": "CRAC",
+      "definition": null
+    },
+    {
+      "term": "Reduce amp draw and peak demand charges",
+      "abbreviation": "KVA",
+      "definition": null
+    },
+    {
+      "term": "Underwriters \nLaboratories",
+      "abbreviation": "UL",
+      "definition": null
+    },
+    {
+      "term": "Network Operations Center",
+      "abbreviation": "NOC",
+      "definition": null
+    },
+    {
+      "term": "Performance",
+      "abbreviation": "COP",
+      "definition": null
+    }
+  ]
+}

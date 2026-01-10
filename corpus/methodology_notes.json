@@ -1,0 +1,131 @@
+{
+  "title": "Measurement Methodology & Case Selection Criteria",
+  "version": "1.0.0",
+  "last_updated": "2025-12-28",
+  "overview": {
+    "protocol": "IPMVP Option B (Retrofit Isolation: All Parameter Measurement)",
+    "m_and_v_patent": "US11062404B2 - Determining Savings in Climate Control Systems",
+    "inventors": ["Peter Nathan Albee", "Kevin Carriere"],
+    "total_measurements": 254,
+    "usable_measurements": 192,
+    "pe_certified_case_studies": 125
+  },
+  "case_selection_criteria": {
+    "inclusion_criteria": [
+      "Equipment operating as designed without mechanical issues",
+      "Equipment meeting minimum operating conditions for valid M&V",
+      "Complete pre-treatment and post-treatment measurement data",
+      "PE certification obtainable for the measurement",
+      "Customer consent and participation in measurement process"
+    ],
+    "exclusion_criteria": [
+      "Equipment with mechanical failures or broken components",
+      "Equipment operating outside acceptable engineering criteria",
+      "Incomplete baseline or post-treatment data",
+      "Sites where client withdrew before completion",
+      "Equipment with refrigerant leaks or charge issues",
+      "Compressor or motor failures discovered during testing"
+    ],
+    "rationale": "PermaFrost NMR is a chemical surface treatment. When applied to mechanically functional equipment operating within design parameters, the treatment reliably restores thermal transfer efficiency by removing oil fouling from heat exchanger surfaces and creating a permanent thermal barrier. Excluding equipment with mechanical issues is standard IPMVP practice - you cannot measure the effect of a chemical treatment on equipment with unrelated mechanical failures.",
+    "pe_role": "Licensed Professional Engineers reviewed each case and excluded measurements that lacked minimum operating conditions for valid M&V assessment per IPMVP protocols"
+  },
+  "success_rate_explanation": {
+    "observed_rate": "100% success rate on included case studies",
+    "scientific_basis": [
+      "PermaFrost NMR is a chemical treatment, not a mechanical repair",
+      "Oil fouling affects virtually all refrigeration systems over time (ASHRAE RP-751)",
+      "Treatment chemically displaces oil from metal surfaces",
+      "Treatment creates permanent molecular bond with metal (nano-molecular heat sink)",
+      "If equipment is mechanically functional, oil fouling exists, therefore treatment works"
+    ],
+    "third_party_validation": {
+      "labs_confirming_efficacy": 5,
+      "organizations": [
+        "NSF International",
+        "Underwriters Laboratories (UL)",
+        "China National Lab A (China National Lab)",
+        "Major OEM Electronics A",
+        "Major Appliance Mfg A Home Products"
+      ],
+      "note": "All five independent labs confirmed measurable efficiency improvements"
+    },
+    "why_100_percent_is_expected": "The 100% success rate is not anomalous - it reflects the nature of the treatment. A chemical that removes oil fouling will improve thermal transfer on any system that has oil fouling. Since oil fouling is universal in refrigeration systems (documented in ASHRAE research RP-751 and RP-601), the treatment is effective on any mechanically functional system."
+  },
+  "outlier_explanation": {
+    "high_savings_cases": {
+      "description": "Savings exceeding 50% are possible when equipment has accumulated significant contaminants due to poor maintenance practices",
+      "mechanism": "The treatment removes accumulated thermal barriers, resulting in dramatic efficiency restoration",
+      "example": {
+        "case_id": "PMF-0109",
+        "savings_percent": 62.8,
+        "capacity_before_tons": 2.6,
+        "capacity_after_tons": 5.85,
+        "explanation": "Severe contamination from deferred maintenance. Capacity restoration from 2.6 to 5.85 tons reflects removal of accumulated thermal barriers that had reduced the system to 44% of design capacity."
+      }
+    },
+    "note": "High savings indicate severely degraded equipment that was still mechanically functional - the treatment restored it to near-design efficiency"
+  },
+  "unusable_records": {
+    "count": 62,
+    "percentage": "24.4%",
+    "categories": [
+      {
+        "reason": "Incomplete baseline data",
+        "description": "Baseline measurements interrupted or incomplete"
+      },
+      {
+        "reason": "Measurement equipment calibration issues",
+        "description": "Instrumentation errors discovered during analysis"
+      },
+      {
+        "reason": "Equipment mechanical issues discovered during testing",
+        "description": "Compressor failures, refrigerant leaks, or motor issues found"
+      },
+      {
+        "reason": "Client site access restrictions",
+        "description": "Post-measurement access denied or limited"
+      }
+    ],
+    "transparency_note": "These records are retained in the raw data for transparency but excluded from statistical analysis per IPMVP protocols"
+  },
+  "measurement_methodology": {
+    "instrumentation": {
+      "calibration": "NIST-traceable calibration",
+      "accuracy": "Per ASHRAE 37 and AHRI 340/360 requirements"
+    },
+    "key_measurements": [
+      "Suction line temperature and pressure",
+      "Discharge line temperature and pressure",
+      "Supply air temperature (dry bulb and wet bulb)",
+      "Return air temperature (dry bulb and wet bulb)",
+      "Voltage, amperage, and power factor",
+      "Runtime hours"
+    ],
+    "calculations": {
+      "capacity": "Enthalpy-based calculation per ASHRAE methodology",
+      "efficiency": "COP, EER, kW/ton as applicable",
+      "savings": "Delta between baseline and post-treatment normalized for conditions"
+    },
+    "weather_normalization": "Applied using TMY3 data and degree-day methodology where applicable"
+  },
+  "references": {
+    "ashrae_research": [
+      {
+        "id": "RP-751",
+        "title": "Heat Transfer and Pressure Drop Effects of Oil in Refrigerant Evaporators",
+        "key_finding": "1-2% oil by weight causes 33% reduction in heat transfer coefficient"
+      },
+      {
+        "id": "RP-601",
+        "title": "The Effect of Oil on Heat Transfer in Refrigerant Systems",
+        "key_finding": "Documented thermal barrier effect of lubricant on heat exchanger surfaces"
+      }
+    ],
+    "standards": [
+      "IPMVP (International Performance Measurement and Verification Protocol)",
+      "ASHRAE Guideline 14 - Measurement of Energy, Demand, and Water Savings",
+      "ANSI/AHRI Standard 340/360",
+      "ANSI/ASHRAE Standard 37"
+    ]
+  }
+}

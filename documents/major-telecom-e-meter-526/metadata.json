@@ -1,0 +1,86 @@
+{
+  "doc_id": "major-telecom-e-meter-526",
+  "slug": "major-telecom-e-meter-526",
+  "title": "Major Telecom E 526 Field Study",
+  "source_type": "tabular",
+  "source_folder": "Major Telecom E Cell Tower Hub Meter 526 Murrieta CA ",
+  "source_files": [
+    {
+      "filename": "meter_526_final_configuration.csv",
+      "type": "csv",
+      "rows": 32,
+      "period": "unknown",
+      "size_bytes": 1074
+    },
+    {
+      "filename": "meter_526_final_hourly_data.csv",
+      "type": "csv",
+      "rows": 672,
+      "period": "unknown",
+      "size_bytes": 29704
+    },
+    {
+      "filename": "meter_526_final_performance.csv",
+      "type": "csv",
+      "rows": 12,
+      "period": "unknown",
+      "size_bytes": 537
+    },
+    {
+      "filename": "meter_526_final_recommendations.csv",
+      "type": "csv",
+      "rows": 8,
+      "period": "unknown",
+      "size_bytes": 808
+    },
+    {
+      "filename": "meter_526_final_statistics.csv",
+      "type": "csv",
+      "rows": 10,
+      "period": "unknown",
+      "size_bytes": 459
+    },
+    {
+      "filename": "meter_526_final_temperature_bins.csv",
+      "type": "csv",
+      "rows": 21,
+      "period": "unknown",
+      "size_bytes": 865
+    },
+    {
+      "filename": "meter_526_final_zone_analysis.csv",
+      "type": "csv",
+      "rows": 4,
+      "period": "unknown",
+      "size_bytes": 394
+    },
+    {
+      "filename": "Baseline_526 FMV.csv",
+      "type": "csv",
+      "rows": 31294,
+      "period": "baseline",
+      "size_bytes": 7476130
+    },
+    {
+      "filename": "Post_526 FMV.csv",
+      "type": "csv",
+      "rows": 35494,
+      "period": "post",
+      "size_bytes": 10089319
+    }
+  ],
+  "data_resolution": {
+    "type": "time_series",
+    "total_rows": 67547
+  },
+  "company": {
+    "name": "Major Telecom E",
+    "industry": "Telecommunications"
+  },
+  "created_at": "2026-01-05T21:28:27.785217",
+  "processing_version": "1.0.0",
+  "ashrae_compliance": {
+    "standard": "ASHRAE Guideline 14-2014",
+    "note": "High-resolution time-series data supports detailed analysis"
+  }
+}

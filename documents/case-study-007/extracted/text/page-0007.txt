@@ -1,0 +1,165 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+518 
+193.61 
+159.59 
+17.6% 
+Cell Hut 7 
+519 
+N/A 
+N/A 
+N/A 
+ 
+520 
+768.92 
+557.68 
+29.1% 
+Cell Hut 8 
+521 
+388.4 
+235.2 
+39.4% 
+ 
+522 
+341.5 
+259.1 
+24.1% 
+Cell Hut 9 
+523 
+245.4 
+224.6 
+8.5% 
+ 
+524 
+220.7 
+200.13 
+9.3% 
+Cell Hut 10 
+525 
+856.85 
+661.12 
+22.8% 
+ 
+526 
+726.02 
+579.2 
+20.2% 
+                  
+ 
+ 
+J. Runtime *Minutes Per Unit Per Hut 
+ 
+ 
+ 
+Runtime Mins 
+Baseline 
+Post 
+Diff% 
+Cell Hut 1 
+507 
+7534.85 
+5972.89 
+20.5% 
+ 
+508 
+7853.56 
+5954.55 
+20.5% 
+Cell Hut 2 
+509 
+2942.53 
+3588.94 
+23.25% 
+ 
+510 
+4801.53 
+1406.11 
+23.25% 
+Cell Hut 3 
+511 
+4839.28 
+4099.96 
+15.3% 
+ 
+512 
+4681.76 
+4203.99 
+10.2% 
+Cell Hut 4 
+513 
+8457.43 
+7992.65 
+5.5% 
+ 
+514 
+6910.36 
+6965.15 
+-0.8% 
+Cell Hut 5 
+515 
+2664.76 
+2283.11 
+14.3% 
+ 
+516 
+3209.83 
+2533.92 
+21.1% 
+Cell Hut 6 
+517 
+2613.23 
+2141.72 
+18.0% 
+ 
+518 
+2543.22 
+2145.73 
+15.6% 
+Cell Hut 7 
+519 
+ 
+N/A 
+N/A 
+ 
+520 
+8516.65 
+6174.64 
+29.1% 
+Cell Hut 8 
+521 
+5311.64 
+3476.03 
+34.6% 
+ 
+522 
+3727.41 
+2821.42 
+24.3% 
+Cell Hut 9 
+523 
+3546.33 
+3118.66 
+12.1% 
+ 
+524 
+3180.46 
+2849.51 
+10.4% 
+Cell Hut 10 
+525 
+10386.15 
+8382.12 
+19.3% 
+ 
+526 
+9043.82 
+7835.12 
+13.4% 
+*Total runtime was reduced by 18,818 minutes in the same weather 
+conditions.  Runtime reduction was within 1% of kWh reduction. 
+ 
+ 
+ 
+ 

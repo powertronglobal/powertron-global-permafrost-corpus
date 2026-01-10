@@ -1,0 +1,49 @@
+42        Other Common M&V Issues 
+ 
+8.1.2 Marginal Price 
+An alternative procedure for valuing savings involves multiplying energy units saved by the 
+marginal price of energy. Be careful to ensure that the marginal price is valid for the level of 
+consumption and demand of both the baseline and reporting periods.  
+Average, or blended prices, determined by dividing billed cost by billed consumption, are often 
+different from marginal prices. In this situation average prices create inaccurate statements of 
+cost savings and should not be used. 
+8.1.3 Fuel Switching and Price Schedule Changes 
+The Chapter 8.1 general strategy of applying the same price schedule to baseline and reporting 
+period energy introduces some special considerations when the ECM creates a change in fuel 
+type or a change in price schedule between the baseline and reporting periods. Such situations 
+arise, for example, when an ECM includes a change to a lower cost fuel, or shifts the energy 
+use pattern such that the facility qualifies for a different price schedule.  
+In such situations, use the price schedule of the baseline commodity to determine Cb in 
+Equation 2). The price schedule of the reporting-period commodity should be used in 
+determining Cr. However, both commodity-price schedules would be for the same time period, 
+usually the reporting period.  
+For example, the heating source is changed from electricity to gas, and you intend to use 
+reporting period prices. Then Cb would use the reporting period’s electricity-price schedule for all 
+electricity. Cr would use the reporting period’s gas-price schedule, for the new gas load, and the 
+reporting period’s electricity-price schedule for any remaining electricity use.  
+However, this treatment of an intentional change of price schedule does not apply if the change 
+was not part of the ECM(s) being assessed. For example, if the utility changed its price 
+structures for no reason related to the ECM(s) being assessed, the Chapter 8.1 general 
+principle of using the same price schedule for Cb and Cr still applies. 
+8.2  Baseline Adjustments (Non-Routine) 
+Conditions, which vary in a predictable fashion and are significant to energy use within the 
+measurement boundary, are normally included within the mathematical model used for routine 
+adjustments, described in Chapter 4.6.  Where unexpected or one-time changes occur in 
+conditions within the measurement boundary, which are otherwise static (static factors), non-
+routine adjustments, also called baseline adjustments, must be made (see also Chapter 4.6).   
+Non-routine adjustments are needed where a change occurs to equipment or operations within 
+the measurement boundary after the baseline period. Such change occurs to a static factor not 
+to independent variables. For example, an ECM improved the efficeincy of a large number of 
+light fixtures. When more light fixtures were installed, after ECM installation, a non-routine 
+adjustment was made. The estimated energy of the extra fixtures was added to the baseline 
+energy so that the ECM’s true savings were still reported. 
+Values estimated for use in IPMVP Option A are usually chosen to eliminate the need for 
+adjustments when changes happen within the measurement boundary (see Chapter 4.8.1). 
+Therefore non-routine adjustments can be avoided using Option A. For example, a chiller plant’s 
+cooling load was estimated rather than measured in order to determine Option A savings 
+created by a chiller efficiency ECM. After retrofit, a facility addition increased the actual cooling 
+load within the measurement boundary. However since Option A was chosen using a fixed 
+cooling load, reported savings are unchanged. The use of Option A avoided the need for a non-
+routine adjustment. 
+Baseline conditions need to be fully documented in the M&V Plan so that changes in static 
+factors can be identified and proper non-routine adjustments made.  It is important to have a 

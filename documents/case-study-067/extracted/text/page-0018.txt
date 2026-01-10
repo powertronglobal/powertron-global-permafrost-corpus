@@ -1,0 +1,46 @@
+®
+17
+Recovered Wasted Energy with ECM
+The chart to the right illustrates the performance
+restoration the ECM created in the treated Rack-B.   
+The average cost to operate this Rack system before 
+it was treated with PermaFrost NMR®, as calculated 
+in kW/ton, was 1.41.
+The specific cost to operate Rack-B after it was 
+treated with PermaFrost NMR®, as calculated in 
+kW/ton, is currently 1.15. This equates to an 18.4%
+reduction in kW/ton.
+The delta of the refrigeration kW/ton ratings measured in-situ were expected as they fell within the 
+average improvement savings shown over more than 125,000 installations globally.  
+Energy Consumption Baseline Vs Post
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the Grocery Chain A pilot Med Temp Rack-B.
+Baseline Energy Consumption of Med Temp Rack-B
+Baseline kWh as Measured Over 12 Hours: 219.1 kWh
+Cost to Run Baseline: 219.1 kWh * $.095 * 365 * 2 = $15,194.59
+Post Energy Consumption of Med Temp Rack-B
+Post kWh Post as Measured Over 12 Hours: 179.3kWh
+Cost to Run Post: 179.3 kWh * $.095 *365 * 2 = $12,434.46
+Savings Per Year on Med Temp Rack-B
+Avoided Energy Cost (savings) Per Year: $15,194.59 - $12,434.46 = $2,760.13
+The savings above is strictly based on reduced measured kWh over similar 12 hour periods and then extrapolated out 
+over an entire year. The efficiency gains and capacity restoration achieved in Rack-B may also allow Grocery Chain A to install 
+an additional perishable food case off of Rack-B under its current configuration simply by tapping off the current 
+piping.
+0.0
+0.3
+0.6
+0.9
+1.2
+1.5
+Recovered
+Energy
+Cost to Operate
+Baseline
+Post ECM
+kW/ton
+.26 kw/ton
+1.41
+1.15
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

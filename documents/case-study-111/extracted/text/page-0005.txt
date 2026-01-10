@@ -1,0 +1,47 @@
+Objectives
+The four key objectives for this jointly-conducted PermaFrost NMR® pilot study between EET, Powertron Global 
+and Data Center Provider/Data Center REIT were all achieved.  They included: 
+ 
+1. Determine that the “as-is” capacity and efﬁciency of the pilot CRAC systems supporting the Data Center Provider/Data Center REIT 
+ 
+    suite had degraded by at least 10% after 14 years in operation.  
+ 
+2. Demonstrate at least 12% performance improvement in tonnage and/or corresponding kW/ton and 
+ 
+    energy reduction in the pilot CRAC cooling systems 250 hours or more after PermaFrost NMR® and the 
+ 
+    Circuit Master devices were installed. 
+ 
+3. Demonstrate the ability of the CRAC pilot systems to produce cooler, drier air as measured in both Dry 
+ 
+    Bulb and Wet Bulb deltas after being treated.  
+ 
+4. To support an effective business case for further deployments of the ECMs within the Data Center Provider/Data Center REIT  
+    
+ 
+    portfolio of properties, demonstrate ﬁnancial beneﬁts associated with efﬁciency improvements 
+ 
+    realized over the duration of the study. These beneﬁts must be equivalent to a 24-month or less 
+ 
+    payback to Data Center Provider/Data Center REIT on their initial project costs.  
+ECM Product Briefs
+PermaFrost NMR®
+PermaFrost NMR® is a multi-patented surface science nanotechnology that uses 
+Nucleo Molecular Regenerative (NMR®) technology as its core agent. A 
+sustainable, one-time treatment with no down time required, PermaFrost NMR® 
+lasts for the remaining life of any type of climate control system in which it is 
+installed. The direct beneﬁts of PermaFrost NMR® are increased capacity 
+resulting in improved system efﬁciency.  
+ 
+Circuit Master®
+Circuit Master® is a product that blocks distortions in electrical power above 
+and below the normal signal range and contains line ﬁlter capacitors to improve 
+power factor. This allows induction power equipment such as HVAC, 
+refrigeration, motors and pumps to use less energy.  Equipment lifespan is also 
+increased and maintenance costs are reduced. This equipment is installed at the 
+electrical disconnect for each machine or at each compressor in a dual-circuit 
+HVAC unit where both compressors run an extensive amount of time annually.
+  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+5

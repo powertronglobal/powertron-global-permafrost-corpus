@@ -1,0 +1,55 @@
+ 
+Other Common M&V Issues       43 
+ 
+method of tracking and reporting changes in these same static factors. This tracking of 
+conditions may be performed by one or more of: the facility owner, the agent creating savings, 
+or a third party verifier. It should be established in the M&V Plan who will track and report each 
+static factor. 
+Where the nature of future changes can be anticipated, methods for making the relevant non-
+routine adjustments should be included in the M&V Plan. 
+Non-routine adjustments are determined from actual or assumed physical changes in 
+equipment or operations (static factors). Sometimes it may be difficult to quantify the impact of 
+changes, for example, if they are numerous or not well documented. If the facility's energy 
+consumption record is used to quantify the impact of such changes, the impact of the ECMs on 
+the facilitiy’s energy consumption must first be removed by Option B techniques. Option C 
+cannot be used to determine savings when the facilitiy’s energy meter is also used to quantify 
+the impact of changes to static factors. 
+8.3  The Role Of Uncertainty (Accuracy) 
+The measurement of any physical quantity includes errors because no measurement instrument 
+is 100% accurate. Errors are the differences between observed and true energy use. In a 
+savings-determination process, errors prevent the exact determination of savings. Equation 1) 
+usually involves at least two such measurement errors (baseline and reporting period energy), 
+and whatever error exists in the computed adjustments. To ensure that the resultant error 
+(uncertainty) is acceptable to the users of a savings report, be certain to manage the errors 
+inherent in measurement and analysis when developing and implementing the M&V Plan.   
+Characteristics of a savings determination process which should be carefully reviewed to 
+manage accuracy or uncertainty are: 
+ 
+Instrumentation – measurement equipment errors are due to calibration, inexact 
+measurement, or improper meter selection installation or operation.   
+ 
+Modeling – the inability to find mathematical forms that fully account for all variations in 
+energy use. Modeling errors can be due to inappropriate functional form, inclusion of 
+irrelevant variables, or exclusion of relevant variables. 
+ 
+Sampling – use of a sample of the full population of items or events to represent the entire 
+population introduces error as a result of: the variation in values within the population, or 
+biased sampling. Sampling17 may be done in either a physical sense (i.e., only 2% of the 
+lighting fixtures are measured) or a temporal sense (instantaneous measurement only once 
+per hour).   
+ 
+Interactive effects (beyond the measurement boundary) that are not fully included in the 
+savings computation methodology.  
+ 
+Estimation of parameters using Option A, rather than measurement. You can minimize the 
+variation between the parameter’s estimated value and its true value through careful review 
+of the ECM design, careful estimating of the parameter, and careful ECM inspection after 
+installation.  
+Methods of quantifying, evaluating and reducing some of these uncertainties are discussed in 
+this document’s  Appendix B. Appendix C lists some references from different regions about 
+applying standard-error-analysis methods to the typical savings determination. These 
+quantification tools should only be used to develop the M&V Plan, in order to test the inherent 
+uncertainty associated with optional M&V program characteristics.  
+                                                  
+17 As used in this Protocol, sampling does not refer to rigorous statistical procedures, but to the best practices as 
+addressed in Appendix B-3.   

@@ -1,0 +1,26 @@
+ 
+M&V Reporting       39 
+ 
+CHAPTER 6   M&V  REPORTING  
+M&V Reports should be prepared and presented as defined in the M&V Plan (Chapter 5) 
+Complete M&V reports should include at least: 
+ 
+Observed data of the reporting period: the measurement period start and end points in time, 
+the energy data, and the values of the independent variables 
+ 
+Description and justification for any corrections made to observed data 
+ 
+For Option A the agreed estimated values 
+ 
+Energy price schedule used 
+ 
+All details of any baseline non-routine adjustment performed. Details should include an 
+explanation of the change in conditions since the baseline period, all observed facts and 
+assumptions, and the engineering calculations leading to the adjustment. 
+ 
+Computed savings in energy and monetary units. 
+M&V reports should be written to their readers’ levels of understanding. 
+Energy managers should review the M&V reports with the facility’s operating staff. Such reviews 
+may uncover useful information about how the facility uses energy, or where operating staff 
+could benefit from more knowledge of the energy-consumption characteristics of their facility. 
+ 

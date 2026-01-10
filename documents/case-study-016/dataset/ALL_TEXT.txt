@@ -1,0 +1,334 @@
+================================================================================
+DOCUMENT: Case Study 016
+DOC_ID: pdf_025
+SHA256: 1840fe1f92c08a8e189594ce61c78a1fadc15eaa92d40fd18a1e4f8cc727ebac
+================================================================================
+
+═══ PAGE 001 ═══
+
+Energy Science Division
+®
+MAJOR FOOD MANUFACTURER
+Comprehensive HVAC/R Capacity Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 002 ═══
+
+PermaFrost NMR® Performance Report
+Major Food Manufacturer
+August, 2013 
+Executive Summary
+         This report contains specific information regarding the installation of the energy control measure 
+(ECM) PermaFrost NMR® into one of seven refrigeration systems supporting the critical Major Food Manufacturer 
+Provisions refrigerated  distribution facility at 17 Parkway Place, Edison, NJ. This system supplies two large 
+evaporators. Detailed forensic performance testing (outlined later in this report) was performed on the 
+entire system using R22 as the refrigerant. Following testing, the system was treated with the proper 
+amount and type of the PermaFrost NMR® technology specially formulated for these types of refrigeration 
+systems.  Measurement and Verification (M&V) was conducted pre-installation and post-gestation.
+The improvement in efficiency and restored capacity 
+gained directly at the units was solely attributable to the 
+PermaFrost NMR® ECM. This is a result of the reversal of 
+thermal inefficiency on heat exchange surfaces.  
+Following treatment with the PermaFrost NMR® 
+technology, the refrigeration system showed an effective 
+net average 35% reduction in kW/ton based on the exact 
+capacity measured in the baseline M&V and the post 
+gestation M&V when operating at 100% load. The effective 
+kWh dropped by 4.8% while simultaneously producing an 
+average increase in system efficiency of 46.5%. Prior to the 
+ECM, the evaporators combined produced 6.06 tons of 
+cooling as measured in-situ, or 66% of design. After the 
+ECM, the average combined tonnage produced increased 
+to 8.88 tons or 96.7% of original design specifications. This 
+46.5% average capacity increase from the baseline 
+performance levels led to an effective average increase in 
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 003 ═══
+
+COP of 53.9%. All of these factors directly correlate to 
+what Major Food Manufacturer will realize in energy savings as they 
+operate this refrigeration system in the future as well as 
+other HVACR equipment like Roof Top Units and Chillers 
+under the similar parameters.
+Following treatment with the PermaFrost NMR® 
+technology, the two CRAC units also showed a slight 
+reduction in measured Amps while at the same time 
+producing more cooling. This is illustrated by the 46.5% 
+increase in the combined entering and leaving Dry Bulb 
+Delta in the Post versus the Baseline, which is a critical 
+refrigeration measurement used to determine the 
+thermodynamic enhancement brought about by the 
+PermaFrost NMR® ECM.  The result of the ECM 
+improvement is an ROI to Major Food Manufacturer that is measured in 
+a few short months. The tables of data used to determine 
+the financial payback are available for review at the end of 
+this report. 
+Energy Science Division
+Unit #4 of 7 total units supporting this distribution 
+facility was put into service 1998. It serves two 
+evaporator coils inside the loading dock area. Evaporator 
+R is located near the end of the dock where the smaller 
+vans pull in and more outside air gets in. Evaporator L 
+(pictured above) is closer to the middle of the dock and 
+right above the opening to the cooler area. While Unit #9 
+on right has been in operation since 2007. The difference 
+in age and total runtime clearly presented itself during 
+the testing since both are key variables directly related to 
+the amount thermal inefficiency in a system and the 
+corresponding loss of performance over time. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 004 ═══
+
+Product Brief
+         PermaFrost NMR® is a multi-patented nanotechnology surface chemistry Energy Control Measure 
+(ECM) that uses Nucleo Molecular Regenerative® (NMR™) technology as its core agent. A sustainable, 
+one-time treatment with no down time required, PermaFrost NMR® lasts for at least 10 years in any 
+type of system in which it is installed. Examples of the types of commercial HVACR systems and 
+equipment that PermaFrost NMR® has proven success with are direct expansion air systems (DX); 
+chilled water systems (both flooded and DX; air and water cooled); ice making equipment; ammonia 
+refrigeration plants (single compressor and cascade) and variable refrigerant flow (VRF) designs. The 
+equipment utilized in these systems within our expanding portfolio of clients includes centrifugal (single 
+and multi-stage), scroll, reciprocating and screw configurations.
+The direct benefits of PermaFrost NMR® in any type of HVACR system are improved cooling 
+performance, increased capacity and improved refrigerant velocity – all of which allow systems to 
+achieve set point temperatures in a more rapid fashion which reduces compressor operating periods. 
+The indirect benefits resulting from the enhanced thermodynamic characteristics following treatment 
+include reduced run time, less kW hours used, less amp draw at the compressor, longer equipment life 
+cycle time and a reduced carbon footprint for Major Food Manufacturer.
+Energy Science Division
+BOUNDARY LAYER
+OIL REMOVED
+BEFORE TREATMENT
+AFTER TREATMENT
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 005 ═══
+
+Measurement and Veriﬁcation Protocol
+The International Performance Measurement and Verification Protocol (IPMVP) was utilized in the 
+development of this report. The Association of Energy Engineers (AEE), The American Society of Heating, 
+Refrigeration and Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization 
+(EVO) accept the IPMVP as a global methodology for determining the effectiveness of energy conservation 
+methods and products.
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize. They 
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report. Option B is 
+defined as: All parameter measurements with the boundary of the ECM (PermaFrost NMR®) as the single 
+source of measurement. Savings are determined by field measurement of the energy use of the ECM 
+affected equipment or system and any performance enhancements versus the baseline data.
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the 
+savings and the length of the reporting period.  For the boundary utilized for Option B short-term 
+measurements are very useful as data when the variables are contained. The savings are calculated by 
+short-term measurements of baseline and energy reporting period (post), and /or engineering computations 
+using measurements of proxies of energy use. 
+The final computation follows the formula:
+Energy Science Division
+Option B savings = Baseline Energy – Reporting Period Energy
++/ - Routine adjustments  + /- Non-Routine Adjustments
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 006 ═══
+
+Energy Conservation Method (ECM) Content
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the 
+effects of thermal degradation and fouling on the heat exchange surfaces. 
+A diagnostic examination of the pilot equipment was 
+implemented to determine if the operational conditions of 
+the system was satisfactory. Baseline M&V were recorded 
+on both evaporators and the supporting compressor and 
+then the proper amount and type of PermaFrost NMR® 
+was injected. The gestation period for the Major Food Manufacturer pilot 
+was just 3 weeks due to the heavy amount of runtime the 
+system gets. Prior to taking Post measurements, systems 
+need to achieve ~250 hours of runtime to ensure adequate 
+performance improvement time. At the end of this 
+gestation period, Post M&V results were taken in the 
+identical manner as in the baseline, taking special care to match the same or very similar entering air dry 
+bulb and compressor discharge pressures. These are two of the most critical variables to contend with in an 
+in-situ refrigeration testing situation. When analyzing all of the data baseline and post data, no adjustments 
+for weather were necessary. 
+The following report produces the utilization of the International Performance Measurement and 
+Verification Protocol (IPMVP) as the M&V plan. Major Food Manufacturer Distribution Manager [Client Representative] and 
+S&S Refrigeration Engineer & Owner, Charles Sternberg witnessed the collection of all the data used in this 
+report. The final calculations were performed by Powertron Global®’s Forensic Mechanical Engineer, 
+[Senior Energy Engineer].  
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 007 ═══
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+BTUH = CFM * 1.08  * Dry Bulb Delta
+ 
+kW/Ton = kW / Actual Tonnage 
+ 
+Percentage Eﬃciency = Measured BTUH / Manufacturers Design BTUH
+ 
+Coeﬃcient of Performance (COP) = (12 / kW per ton /3.412)
+       Detailed Results for Refrigeration System #4  
+System Description / Design Characteristics
+These units provide critical cooling for the Major Food Manufacturer Provisions Distribution Center located 17 Parkway 
+Place, Edison, NJ.  Given the required internal load of the facility, it is estimated that the system runs ~4,500 
+hours or more each per year prior to the ECM being implemented.  
+Energy Science Division
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling Capacity in Tons  
+Average Annual Runtime Hours
+Date Installed
+Kramer
+KS21200H22
+G9853558-081
+R22
+9.18 Tons
+4,500
+1998
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 008 ═══
+
+Energy Science Division
+Baseline & Post Measurements
+The identical IPMVP following data points were recorded for Baseline and Post on 7/15/13 and 8/5/13 
+respectively using recently NIST calibrated devices to insure measurement accuracy. The Return Air dry 
+bulb entering the coil were very similar in both periods as were the discharge pressures of the compressor 
+so no adjustments were made to the calculations. The measurements are as follows: 
+POST
+BASELINE
+Voltage  
+Amperage  
+Suction Refrigerant Temp
+Suction Refrigerant Pressure
+Discharge Refrigerant Temp
+Discharge Refrigerant Pressure
+Entering Air DB Temp Evap R
+Leaving Air DB Temp Evap R
+Entering Air DB Temp Evap L
+Leaving Air DB Temp Evap L
+Combined Avg CFM Across Coils
+Operating Tons Per Hour 
+Total DB Delta Across both Evap
+Total kW
+Calculated kW / Ton  
+Coeﬃcient of Performance (COP)
+O.A.T.
+472.95 V
+28.46 A
+28.2 F
+52.5 PSI
+121.1 F
+262.5 PSI
+57.7 F
+49.61 F
+51.31 F
+47.6 F
+5706
+6.06 Tons
+11.80
+19.79 kW
+3.265
+1.08
+90 F
+472.95 V 
+27.10 A 
+ 20.7 F
+ 43.9 PSI
+ 115.7 F
+262 PSI
+ 56.7 F
+ 46.5 F
+51.52 F
+44.43 F
+5706
+ 8.88 Tons
+17.29
+18.84 kW
+2.122
+1.66
+80 F
+MEASUREMENT
+Refrigeration System #4
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 009 ═══
+
+Results
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period of Refrigeration System #4 prior to using regression analysis. 
+PermaFrost NMR®: Determining the Payback Period for Major Food Manufacturer
+Utilizing data in the above charts, to obtain a true avoided energy cost and subsequent payback period for Major Food Manufacturer 
+for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in capacity. This greater capacity reduces the runtime hours and in turn 
+reduces the annual kWh expended in the Post. The true ROI comes from determining what the cost to run the units 
+was when operating at their original energy profile to produce the newly restored amount of tonnage and then 
+subtracting the new cost to run the units at this same newly restored tonnage after the PermaFrost NMR® ECM was 
+installed. This regression calculation is the most scientific method of accounting for the reduced number of hours the 
+units will now run due to their increased capacity which allows the units to reach set temperatures quicker and shut 
+off sooner.
+Avg. Adjusted kW Baseline        3.265 kW/ton * 8.88 tons = 28.99 kW
+Avg. Adjusted Baseline kWh        28.99 kW * 4,500 Annual Operating Hrs = 130,455 kWh
+Avg. Revised Cost to Run Baseline        130,455 kWh * $.12 = $15,654.60
+Energy Science Division
+Improvements
+kW / Ton  
+Total DB Delta of both Evaps
+Operating Tons Per Hour
+COP
+Unit Eﬃciency Per Design
+35.2%
+46.5%
+46.5 %
+53.7%
+46.5%
+Post
+2.12
+17.29
+8.88
+1.66
+96.7%
+Baseline
+3.27 
+11.80
+6.06 
+1.08
+66%
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 010 ═══
+
+Energy Science Division
+Avg. kW Post        2.122 kW/ton * 8.88 tons = 18.84 kW
+Avg. Annual kWh Post         18.84 kW * 4,500 hours = 84,780 kWh
+Avg. Annual Cost Post         84,780 kWh * .12 cents = $10,173.60
+Avoided Energy Cost (savings) Per Month       ($15,654.60 - $10,173.60)/12 = $456.75
+Cost of PermaFrost NMR® installed per System        $2,800
+Avg. Payback Period for Major Food Manufacturer on System #4        $2,800 / $456.75 = 6.1 months
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+

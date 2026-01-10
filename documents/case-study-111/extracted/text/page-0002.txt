@@ -1,0 +1,45 @@
+Purpose of the Study
+This report is the third and ﬁnal in a series of stringent triplicate pilot testing methodologies employed by 
+Data Center Provider/Data Center REIT as a requirement prior to general adoption of PermaFrost NMR®.  For this test, Circuit Master® ECM was 
+added to the testing to measure the beneﬁt and ROI of using the two technologies together.  The beneﬁts are 
+complementary but also mutually exclusive.  
+Summaries of Previous Studies
+Listed below are the summary details of the past PermaFrost NMR® pilots conducted at the Data Center Provider/Data Center REIT 
+Trust (Data Center REIT) data center facilities in other cities. 
+ 
+1. Conducted by Data Center Provider and Powertron Global in 2014 on a single 1998 Computer Room Air Conditioning 
+ 
+(CRAC) system in a facility in New Jersey using the IPMVP (International Measurement and Veriﬁcation 
+ 
+Protocol). The IPMVP is endorsed by the US Department of Energy as the best method to test HVAC 
+ 
+systems in the ﬁeld for capacity and efﬁciency. This ﬁrst pilot produced an increase in capacity of 35%, an 
+ 
+increase in COP (Coefﬁcient of Performance) of 32.5%, and an increase in efﬁciency (calculated as  
+ 
+kW/ton) of 24.7%.
+ 
+2. Conducted by Data Center Provider and Powertron Global in the summer of 2015, but on a much larger scale in a 
+ 
+mission critical location in downtown [NYC Location]. The pilot involved testing and treating 35 CRAC 
+ 
+units averaging 10-years of age using the same IPMVP methodologies as in the ﬁrst pilot. The second 
+ 
+pilot produced an average increase in capacity across all 35 units of 24.7%, and increase in COP of 27.2%, 
+ 
+and an increase in efﬁciency of 21.5%.
+Summary of this Study
+As detailed below in this report, the third pilot involved testing and treating four CRAC units and produced an 
+increase of 21.4% in capacity and other very similar increases in COP and efﬁciency directly attributable to the 
+PermaFrost NMR® ECM as in the previous two pilots. 
+At the request of Data Center Provider/Data Center REIT, the third pilot included the Circuit Master ECM that works to save energy by better 
+utilizing the incoming power to the CRAC systems. When combined with the PermaFrost NMR ECM, Circuit 
+Master can create additional power savings. The combined beneﬁts of the two ECM's produced an initial payback 
+of less than 12 months.
+The engineering ﬁrm EET was included as an additional member of the measurement and veriﬁcation team. EET’s role 
+was to provide a secondary method (detailed in this report) for documenting the energy savings produced by 
+PermaFrost NMR®a nd Circuit Masters®. EET certiﬁed the accuracy of the data and the methodologies used to collect it. 
+ 
+2
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

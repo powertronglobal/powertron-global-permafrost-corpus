@@ -1,0 +1,57 @@
+{
+  "doc_id": "major-telecom-e-meter-597-kwh",
+  "slug": "major-telecom-e-meter-597-kwh",
+  "source_type": "tabular",
+  "extracted_at": "2026-01-05T21:31:05.738371",
+  "summary": {
+    "total_files": 3,
+    "baseline_files": 1,
+    "post_files": 1,
+    "total_rows": 254427,
+    "baseline_rows": 65363,
+    "post_rows": 189034
+  },
+  "file_statistics": [
+    {
+      "period": "baseline",
+      "rows": 65363,
+      "columns": 5,
+      "column_names": [
+        "BASELINE Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4"
+      ],
+      "metrics": {},
+      "source_file": "597 kWh baseline_extended.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 189034,
+      "columns": 5,
+      "column_names": [
+        "POST Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4"
+      ],
+      "metrics": {},
+      "source_file": "597 kWh post EXTENDED.xlsx"
+    },
+    {
+      "period": "unknown",
+      "rows": 30,
+      "columns": 4,
+      "column_names": [
+        "Temperature Bin",
+        "2024 Count",
+        "2025 Count",
+        "Total Records"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A 597 - Meter1_kWh_by_Temperature_Bins.xlsx"
+    }
+  ]
+}

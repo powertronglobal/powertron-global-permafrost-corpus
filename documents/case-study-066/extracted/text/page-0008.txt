@@ -1,0 +1,39 @@
+Make
+Model
+Serial Number(s)
+Refrigerant Type
+Nominal Cooling Capacity in Tons  
+Age
+HVAC Equipment Manufacturer
+WCH150
+Z38102086D
+R-22
+12.5
+2002
+Bard
+AV604-400C
+1015291B3
+R-22
+5
+2001
+       Detailed Results
+System Description / Design Characteristics
+The Lobby unit is a heat pump and the efficiency gains brought about by PermaFrost NMR® can be utilized in 
+both heating and cooling mode. Given the internal load of the facility and national weather BIN data, it is 
+estimated that this RTU runs ~4,380 hours per year prior to the ECM being implemented. The elevator room unit 
+has a constant heat load and runs year around at an estimated ~4,500 hours per year prior to the ECM being 
+implemented.
+Baseline and Post Measurements
+The identical IPMVP following data points were recorded for Baseline and Post on 8/8/13 and 9/13/13 
+respectively using recently NIST-calibrated devices to insure measurement accuracy. For the Elevator Room 
+unit (Bard) the outside air temperatures as well as dry bulb temperatures entering the coil were the same in 
+both periods so no adjustments to the data was necessary. However, for the Lobby Unit (HVAC Equipment Manufacturer) the OAT was 
+higher in the post period for the Lobby unit therefore a weather adjustment was made and the amps were 
+adjusted slightly downwards by 5.4%. The adjustment only accounted for the post weather being 78 deg. F 
+(not 80) in the post due to the standard deviation +/- 2 degrees. The DB entering temps were matched. The 
+measurements are as follows: 
+Energy Science Division
+Elevator Room RTU
+Lobby RTU
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

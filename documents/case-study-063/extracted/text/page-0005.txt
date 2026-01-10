@@ -1,0 +1,56 @@
+®
+• The Chiller was operating @ 432 tons of cooling capacity prior to
+  installing ECM
+• The Chiller now has 60.4 tons of restored cooling capacity after ECM
+  equating to a 14% increase
+• The Chiller was operating @ 5.10 COP prior to the ECM and
+  5.86 following the ECM
+• The COP of the Chiller has increased by 14.9% following the ECM
+5.10
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+432
+tons
+Baseline
+100%
+CAPACITY @
+100% LOAD
+5.10
+5.86
+432
+492.4
+5.86
+Post ECM COP
+492.4
+tons Post ECM
+14.9%
+Improvement
+in COP
+60.4
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of HVAC/R Eﬃciency Study Results 
+Chiller Eﬃciency with PermaFrost NMR® ECM
+Major Healthcare Provider Permanente Hospital has the problem of thermal degradation in its Chillers and HVAC systems. The 
+lower operating tonnage and COP ratings measured on site are in line with the ASHRAE loss of performance 
+and cost to operate numbers. The degraded equipment performance is costing Major Healthcare Provider significant money and 
+wasting energy. The pilot chiller is using significantly more energy to operate than when it was new eleven 
+years earlier. 
+The performance summary includes the measured efficiency and tonnage of the chiller in the baseline and 
+post testing periods demonstrating the impact of thermal degradation. 
+4
+Baseline
+PermaFrost NMR®
+Installed
+Baseline
+PermaFrost NMR®
+Installed
+This report is provided to Major Healthcare Provider Permanente Hospital. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

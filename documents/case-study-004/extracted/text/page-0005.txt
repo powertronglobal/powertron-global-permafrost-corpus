@@ -1,0 +1,57 @@
+4
+37.4 tons
+43.3 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The units were operating @ 37.4 tons of cooling capacity prior to
+   installing ECM
+• The units now have 5.9 tons of restored cooling capacity after ECM
+• The units were operating @ 4.63 COP prior to the ECM
+   and 5.67 following the ECM
+• The average COP of the units was increased by 22.5%
+   following the ECM
+4.63
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+37.4
+tons Baseline
+100%
+CAPACITY @
+~85% LOAD
+Baseline
+COP
+Post ECM
+COP
+4.63
+5.67
+5.67
+Post ECM COP
+43.3
+tons Post ECM
+22.5%
+Improvement
+in COP
+5.9
+tons of
+Recovered
+Capacity
+TONNAGE  (both units combined)
+COP  (both units combined)
+Summary of HVAC/R Eﬃciency Study Results 
+DX Units Eﬃciency with PermaFrost NMR® ECM
+Energy Solutions Company has the problem of thermal degradation in its HVAC/R units. The lower operating tonnage and COP 
+ratings measured on site are in line with the ASHRAE loss of performance and cost to operate numbers. The 
+degraded equipment performance is costing Aierko significant money and wasting energy. The equipment is 
+using significantly more kWh to operate than it used when it was new. 
+The performance summary includes the measured efficiency and tonnage of the DX units in the baseline and 
+post testing periods demonstrating the impact of thermal degradation. 
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 5.9 operating tons and an average 
+improvement of 22.5% in Coefficient of Performance (COP), significantly reducing the cost to operate the DX 
+units throughout the year. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

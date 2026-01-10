@@ -1,0 +1,203 @@
+Select
+All 
+Date
+OAT
+Mean
+KWH
+SUM
+CDD
+Runtime
+(minutes)
+Offtime
+(minutes)
+Compressor 1 Runtime
+(minutes)
+Compressor 1 Offtime
+(minutes)
+Compressor 2 Runtime
+(minutes)
+Compressor 2 Offtime
+(minutes)
+2024-
+11-03
+86.54
+81.48
+22
+693.73
+746.27
+693.73
+746.27
+130.35
+1309.65
+2024-
+11-04
+81.29
+112.24
+16
+843.75
+596.25
+843.75
+596.25
+306.28
+1133.72
+2024-
+11-05
+66.39
+49.02
+1
+485.47
+954.53
+485.47
+954.53
+64.27
+1375.73
+2024-
+11-06
+69.06
+51.55
+4
+447.05
+992.95
+447.05
+992.95
+122.67
+1317.33
+2024-
+11-07
+72.45
+18.70
+7
+200.10
+1239.90
+200.10
+1239.90
+0.00
+1440.00
+2024-
+11-08
+74.33
+60.54
+9
+523.03
+916.97
+523.03
+916.97
+108.27
+1331.73
+2024-
+11-09
+72.97
+68.44
+8
+567.07
+872.93
+567.07
+872.93
+182.13
+1257.87
+2024-
+11-10
+76.39
+101.15
+11
+684.90
+755.10
+684.90
+755.10
+397.68
+1042.32
+2024-
+11-11
+77.05
+107.03
+12
+749.20
+690.80
+749.20
+690.80
+431.35
+1008.65
+2024-
+11-12
+75.72
+89.66
+11
+716.97
+723.03
+716.97
+723.03
+263.17
+1176.83
+2024-
+11-13
+74.48
+91.02
+9
+654.05
+785.95
+654.05
+785.95
+334.07
+1105.93
+2024-
+11-14
+69.73
+52.59
+5
+445.48
+994.52
+445.48
+994.52
+140.82
+1299.18
+KWH SUM
+(Power Meter)
+CDD
+Total
+Runtime Total
+(Minutes)
+Offtime
+Total(Minutes)
+Compressor 1 Runtime Total
+(minutes)
+Compressor 1 Offtime Total
+(minutes)
+Compressor 2 Runtime
+Total (minutes)
+Compressor 2 Offtime
+Total (minutes)
+1121.07
+157
+9048.36
+12551.64
+9048.359999999999
+12551.640000000001
+2908.58
+18691.42
+Compressor 1 Average Runtime (minutes)
+Total Compressor Cycles
+Compressor 2 Average Runtime (minutes)
+Total Compressor Cycles
+27.76
+326.00
+72.71
+40.00
+Show Selected Data
+CDD Charts
+1
+CDD
+kWh
+kWh by CDD
+49.02 kWh
+49.02 kWh
+49.02 kWh
+Baseline
+Post
+0
+0
+10
+20
+30
+40
+50
+60

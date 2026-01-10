@@ -1,0 +1,32 @@
+®
+2
+Process
+This comprehensive report contains specific information regarding the performance profile of a single water 
+cooled packaged unit (PU) that supports the Beverage Company B Factory. The detailed performance testing (outlined 
+later in this report) was performed on the PU before (baseline) and after (post) the installation of PermaFrost 
+NMR®. 
+This testing determined the impact on three key elements relating to the original design specifications that 
+greatly affect the HVAC portion of the Beverage Company B Factory power bill. They include:
+ 
+1. The cooling capacity the PU is capable of producing after just seven (7) years in service. 
+ 
+2. The actual cost of power required to produce the amount of cooling tons the PU is delivering as  
+ 
+reflected in the kW/ton measurement. 
+ 
+3. The thermal dynamic ability of the equipment to still perform at or close to operational design.  
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) framework.
+ 
+[Client Director of Engineering] of Beverage Company and [Client Mechanical Engineer] of HVAC Contractor B witnessed and verified the recording of all of the 
+pilot measurements while being observed by Powertron Global’s Director of Engineering, [Senior Energy Engineer].
+  
+The baseline day chosen to test the PU’s was an average day temperature and humidity-wise for the local 
+area in the fall and winter which ensured repeatability of similar weather for the post testing measurements.  
+The weather and factory conditions on both days provided an adequate heat load on the facility to ensure both 
+compressors in the system would remain running during the actual data collection period. The boundary of 
+the testing was the PU and nothing else; therefore confidence in the accuracy of the performance calculations 
+is very high.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

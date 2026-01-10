@@ -1,0 +1,60 @@
+9/21/2020
+Powertron Global
+https://fmv.powertronglobal.com/?obj=reports
+9/13
+Temperature
+Base COP
+Post COP
+% Change
+Baseline Samples
+Post Samples
+92
+1.53
+2.30
+50
+1641
+3913
+93
+1.61
+2.33
+45
+2367
+4705
+94
+1.59
+2.31
+45
+1717
+1266
+95
+1.55
+2.07
+34
+3113
+458
+96
+1.64
+2.01
+23
+3435
+247
+97
+1.66
+2.17
+31
+5005
+141
+98
+1.68
+2.31
+38
+7650
+154
+99
+1.66
+1.55
+7
+10185
+108
+       
+       

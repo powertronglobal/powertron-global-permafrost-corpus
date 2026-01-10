@@ -1,0 +1,60 @@
+®
+4
+5.19 tons
+8.15 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The RTU should be operating @ 7.7 tons of cooling capacity
+• The RTU was operating @ 5.19 tons of cooling capacity prior to
+   installing ECM
+• The RTU now has 2.96 tons of restored cooling capacity after ECM
+• The RTU should be operating @ 3 COP or higher
+• The RTU was operating @ 1.94 COP prior to the ECM
+   and 3.09 following the ECM
+• The average COP of the RTU was increased by 59.3%
+   following the ECM
+1.94
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+5.19
+tons Baseline
+100%
+CAPACITY @
+100% LOAD
+Baseline
+COP
+Post ECM
+COP
+1.94
+3.29
+3.09
+Post ECM COP
+8.15
+tons Post ECM
+59.3%
+Improvement
+in COP
+3
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of HVAC/R Eﬃciency Study Results
+DX Unit Eﬃciency with PermaFrost NMR® ECM
+Municipal School District ISD has the problem of thermal degradation in its HVAC/R units. The lower operating tonnage and 
+COP ratings measured on site are in line with the ASHRAE loss of performance and cost to operate numbers. 
+The degraded equipment performance is costing Municipal School District ISD significant money and wasting energy. The 
+equipment is using significantly more kWh to operate than it used when it was new. 
+The performance summary includes the measured efficiency and tonnage of the DX unit in the baseline and 
+post testing periods demonstrating the impact of thermal degradation. 
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 3 operating tons and an average 
+improvement of 59.3% in Coefficient of Performance (COP), significantly reducing the cost to operate the DX 
+unit throughout the year. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

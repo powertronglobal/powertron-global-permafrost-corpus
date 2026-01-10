@@ -1,0 +1,40 @@
+{
+  "doc_id": "major-telecom-e-meter-597-kwh",
+  "slug": "major-telecom-e-meter-597-kwh",
+  "title": "Major Telecom E KWH Field Study",
+  "source_type": "tabular",
+  "source_folder": "Major Telecom E CO kWh Meter 597",
+  "source_files": [
+    {
+      "filename": "597 kWh baseline_extended.xlsx",
+      "type": "xlsx",
+      "rows": 65363,
+      "period": "baseline",
+      "size_bytes": 2662436
+    },
+    {
+      "filename": "597 kWh post EXTENDED.xlsx",
+      "type": "xlsx",
+      "rows": 189034,
+      "period": "post",
+      "size_bytes": 7840925
+    },
+    {
+      "filename": "Major Telecom A 597 - Meter1_kWh_by_Temperature_Bins.xlsx",
+      "type": "xlsx",
+      "rows": 30,
+      "period": "unknown",
+      "size_bytes": 11783421
+    }
+  ],
+  "data_resolution": {
+    "type": "time_series",
+    "total_rows": 254427
+  },
+  "company": {
+    "name": "Major Telecom E",
+    "industry": "Telecommunications"
+  },
+  "created_at": "2026-01-05T21:31:05.739515",
+  "processing_version": "1.0.0"
+}

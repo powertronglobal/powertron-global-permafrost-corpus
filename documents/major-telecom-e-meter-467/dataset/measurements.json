@@ -1,0 +1,126 @@
+{
+  "doc_id": "major-telecom-e-meter-467",
+  "slug": "major-telecom-e-meter-467",
+  "source_type": "tabular",
+  "extracted_at": "2026-01-05T21:27:45.312109",
+  "summary": {
+    "total_files": 2,
+    "baseline_files": 1,
+    "post_files": 1,
+    "total_rows": 40159,
+    "baseline_rows": 20130,
+    "post_rows": 20029
+  },
+  "file_statistics": [
+    {
+      "period": "baseline",
+      "rows": 20130,
+      "columns": 11,
+      "column_names": [
+        "DateTime",
+        "Capacity (Tons)",
+        "Chilled Water Flow Rate (GPM)",
+        "Chilled Water Inlet Temperature (F)",
+        "Compressor 1",
+        "Compressor 2",
+        "Condenser Water Flow Rate (GPM)",
+        "Condenser Water Inlet Temperature (F)",
+        "Condenser Water Outlet Temperature (F)",
+        "kW",
+        "Meter 1 kWh"
+      ],
+      "metrics": {
+        "kW": {
+          "mean": 19.44466138550472,
+          "std": 4.7163869414966735,
+          "min": 0.0,
+          "max": 27.14877974,
+          "median": 20.80420957
+        },
+        "Meter 1 kWh": {
+          "mean": 48340.13639974913,
+          "std": 1919.7378989831914,
+          "min": 45347.20313,
+          "max": 51843.5,
+          "median": 48315.289065000004
+        },
+        "Capacity (Tons)": {
+          "mean": 127.5405607847238,
+          "std": 19.885218706856573,
+          "min": 0.0,
+          "max": 247.1213315,
+          "median": 129.15889825
+        },
+        "Chilled Water Flow Rate (GPM)": {
+          "mean": 201.00282590556037,
+          "std": 17.899334976797523,
+          "min": 0.0,
+          "max": 364.1311348,
+          "median": 198.7935796
+        }
+      },
+      "time_range": {
+        "column": "DateTime",
+        "start": "2025-01-24 06:01:00",
+        "end": "2025-02-07 05:58:00",
+        "duration_hours": 335.95
+      },
+      "source_file": "467 BASELINE measurement-history copy.csv"
+    },
+    {
+      "period": "post",
+      "rows": 20029,
+      "columns": 11,
+      "column_names": [
+        "DateTime",
+        "Capacity (Tons)",
+        "Chilled Water Flow Rate (GPM)",
+        "Chilled Water Inlet Temperature (F)",
+        "Compressor 1",
+        "Compressor 2",
+        "Condenser Water Flow Rate (GPM)",
+        "Condenser Water Inlet Temperature (F)",
+        "Condenser Water Outlet Temperature (F)",
+        "kW",
+        "Meter 1 kWh"
+      ],
+      "metrics": {
+        "kW": {
+          "mean": 15.851676927515653,
+          "std": 8.189559676573529,
+          "min": 0.0,
+          "max": 24.87182324,
+          "median": 19.30499913
+        },
+        "Meter 1 kWh": {
+          "mean": 142795.8047484148,
+          "std": 1483.8015076391914,
+          "min": 140233.5,
+          "max": 145527.5,
+          "median": 142705.9857
+        },
+        "Capacity (Tons)": {
+          "mean": 39.15060546891507,
+          "std": 21.877304841028486,
+          "min": 0.0,
+          "max": 67.31665515,
+          "median": 49.89600238
+        },
+        "Chilled Water Flow Rate (GPM)": {
+          "mean": 161.0057253110016,
+          "std": 80.99653229402401,
+          "min": 0.0,
+          "max": 294.1480952,
+          "median": 202.7080411
+        }
+      },
+      "time_range": {
+        "column": "DateTime",
+        "start": "2025-12-01 06:01:00",
+        "end": "2025-12-15 05:58:00",
+        "duration_hours": 335.95
+      },
+      "source_file": "467 POST measurement-history copy.csv"
+    }
+  ]
+}

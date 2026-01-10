@@ -1,0 +1,53 @@
+A. 
+INTRODUCTION 
+From August 1, to September 3, 2016 at the Botanical Gardens A, 
+testing was implemented to verify energy reduction through the Powertron Global 
+product PermaFrost NMR affecting the refrigerant circuits of two 15-Ton package 
+DX units. 
+Unit #3 - Carrier 48HJM017- 72088, Mfg Date 2003, R-22 equipped 
+Unit #4 - Carrier 48HJM017- 72088, Mfg Date 2003, R-22 equipped 
+The testing was designed to monitor the operation of the systems before and 
+after the installation of PermaFrost NMR and to verify the amount of capacity 
+restoration and the resulted energy savings.  
+The monitoring isolates the entry and departure points of the medium being 
+cooled and the power being used. By recording the conditions at those entry and 
+departure points the overall cooling results can be compared to the overall power 
+consumed to quantify the power costs per unit of cooling kW/Ton (kilowatt-per-
+ton), EER (Energy Efficiency Ratio) & COP (Co-Efficient of Performance). 
+B. 
+EXECUTIVE SUMMARY 
+The average efficiency improvements per system are: 
+UNIT	  #3	  
+kW/Ton	  
+COP	  
+EER	  
+Baseline	  
+1.49	  
+2.43	  
+8.27	  
+Post	  
+1.12	  
+3.15	  
+10.76	  
+Improvement	  %	  
+24.8%	  
+29.6%	  
+30.1%	  
+UNIT	  #4	  
+kW/Ton	  
+COP	  
+EER	  
+Baseline	  
+1.56	  
+2.43	  
+8.29	  
+Post	  
+0.71	  
+5.04	  
+17.2	  
+Improvement	  %	  
+54.5%	  
+107.4%	  
+107.5%	  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. This 
+document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,51 @@
+46        Other Common M&V Issues 
+ 
+quantity of savings at stake therefore places a limit on the M&V budget, which in turn 
+determines how much uncertainty is acceptable. 
+For example, consider a project with an expected savings of $100,000 per year and $5,000/year 
+cost for a basic M&V approach with a precision no better than ±$25,000 per year with 90% 
+confidence. To improve the precision to ±$7,000 it may be seen as reasonable to increase M&V 
+expenditures up to $10,000/year (10% of the savings), but not $20,000/year (20%).  
+The acceptable level of uncertainty in a savings-reporting process is often a personal matter, 
+which depends on the report reader’s desire for rigor. However reducing uncertainty requires 
+more or better operational data. Enhanced operational data enables fine tuning of savings and 
+enhancement of other operational variables. More operational information may also help to size 
+equipment for plant expansions or for the replacement of old equipment.  
+Enhanced feedback created by M&V may also allow higher payments to be made under an 
+energy performance contract based on measured data rather than deemed values of savings, 
+which must be conservative.  
+Additional investments for lower uncertainty should not exceed the expected increase in value. 
+This issue is discussed in more detail by Goldberg (1996b). 
+Of course, not all uncertainties can be quantified (see Chapter 8.3). Therefore both quantitative 
+and qualitative uncertainty statements should be considered when considering M&V cost 
+options for each project. 
+For each project, site and facility owner, there is an optimal M&V Plan. That optimal M&V Plan 
+should include iterative consideration of the sensitivity of the savings uncertainty and M&V cost 
+to each M&V design parameter. Appendix B presents methods of quantifying uncertainty. 
+Appendices B-5.1 and B-5.2 present methods of combining several components of uncertainty 
+and setting uncertainty criteria or objectives.   
+Not all ECMs should expect to achieve the same level of M&V uncertainty since uncertainty is 
+proportional to the complexity of the ECM and the variations in operations during both the 
+baseline period and reporting period. For example, Option A methods may allow the savings 
+from a simple industrial-plant lighting retrofit to be determined with less uncertainty than the 
+savings from a chiller retrofit, since estimated lighting parameters may have less uncertainty 
+than estimated chiller-plant parameters.  
+In determining the measurement level and associated costs, the M&V Plan should consider the 
+amount of variation in the energy use within the measurement boundary. For example, indoor 
+lighting may use electricity fairly consistently all year, making it relatively easy to determine 
+savings, while heating and cooling loads change seasonally making savings identification more 
+difficult. Consider the following general guidelines for balancing cost and uncertainty in an M&V 
+process.18 
+1. Low Energy Variation & Low-Value ECM.  Low-value ECMs cannot typically afford much 
+M&V, based on the 10%-of-savings guideline, especially if there is little variation in the 
+measured energy data.  Such combined situations would tend to favour use of Option A, 
+and short reporting periods, for example, in the case of a constant-speed exhaust-fan motor 
+that operates under a constant load according to a well-defined schedule.  
+2. High Energy Variation & Low-Value ECM.  Low-value ECMs cannot generally afford much 
+M&V, as in 1, above. However with a high amount of variation in the energy data, the all-
+parameter measurement techniques of Option B may be needed to achieve the required 
+uncertainty. Sampling techniques may be able to reduce Option B costs. Option C may not 
+be suitable based on the general guidance in Chapter 4.9 that savings should exceed 10% 
+of a facility’s metered use in order to be measurable.   
+                                                  
+18 Also see FEMP (2002).  

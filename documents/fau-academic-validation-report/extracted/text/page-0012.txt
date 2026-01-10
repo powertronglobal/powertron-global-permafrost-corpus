@@ -1,0 +1,50 @@
+ 
+12 
+of 305 psi. This necessitated another measurement of the pressure drop across the condenser coil 
+and this revealed that the pressure drop is continuing to measure in excess of 2". The method of 
+cleaning to this coil did not produced the required relief for the system to completely condense 
+all of the discharge gas. Characteristics of the HVAC system are as follows: 
+ 
+Make – Comfort-Aire 
+Model – VCP240M-3B 
+Age - 2001 
+Refrigerant Type – R22 
+Nominal Cooling Capacity in Ton – 20 tons 
+Design Air Flow – 7200 cfm 
+ 
+Educational Institution A Location.  This is a 7.5-ton York DX Split HVAC unit. The School 
+made the decision to treat the unit as it was the on the same meter as the pool unit so the school 
+can monitor that meter for a reduction in kWh when adjusted for weather. This unit provides 
+cooling for The School’s finance offices. Per The School, the equipment is estimated to run 
+1,440 hours per year. Characteristics are as follows: 
+ 
+Make – York 
+Model –  HA090COOA2 
+Age – not available 
+Refrigerant Type – R22 
+Nominal Cooling Capacity in Ton – 7.5 tons 
+Design Air Flow – 3000 cfm 
+ 
+Unit #1 at the REIT A Bldg. at [Commercial Address], NYC. REIT A made the decision to treat 
+this unit as it was one of two supporting the 8th floor. This unit provides cooling for the Traffic 
+Police Department for the City of New York on the 8nd floor of the facility. Per REIT A, the 
+equipment is estimated to run 1,500 hours per year.  Both units were treated and tested. 
+Characteristics are as follows: 
+ 
+Make – Carrier 
+Model –  5OBAO546OO 
+Age – 1966 
+Refrigerant Type – R22 
+Nominal Cooling Capacity in Ton – 54 tons 
+Design Air Flow – 15,000 cfm 
+ 
+Air Force Airlift Wing Support Center Chiller at Military Base A, MD.  This report contains specific 
+information regarding the installation of the energy control measure (ECM) PermaFrost NMR® 
+in chiller #3 of the main chiller plant. Detailed forensic performance testing was performed on a 
+nominal 170-ton water-cooled chiller using R134A refrigerant serving the Military Air Wing, 
+Building 1558 and runs 4,820 hours per year. Following testing, the unit was treated with the 
+proper amount and type of PermaFrost NMR® product formulated for chiller systems. Given 
+the 10.9% cooler outside air temperature in the Post, the compressors Amps (70% of the total 
+Amps) were adjusted upward by the same amount. This adjustment permeates through to the 
+Post kW as well as the kW per Ton. The results were stamped by a P.E.  Characteristics of the 
+system are as follows: 

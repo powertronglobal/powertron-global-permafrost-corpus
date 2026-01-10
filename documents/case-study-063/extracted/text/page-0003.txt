@@ -1,0 +1,32 @@
+®
+2
+Process
+This report contains specific information regarding the current performance profile of a water-cooled chiller 
+that supports the Major Healthcare Provider Permanente Hospital in Honolulu, HI. 
+Detailed performance testing (outlined later in this report) was performed on the pilot chiller before and after 
+the installation of the ECM to determine the impact on the three key elements that greatly affect the HVAC 
+power bill as they relate to the original design specifications:
+ 
+ 
+1. The cooling capacity the chiller produces after 11 years in service, before and after the administration 
+ 
+    of the ECM. 
+ 
+2. The actual cost of power required to produce the amount of cooling tons the chiller can deliver as 
+ 
+    reflected in the kW/ton measurement, before and after the administration of the ECM. 
+ 
+3. The thermal dynamic ability of the chiller to perform in relation to operational design, before and 
+ 
+    after the administration of the ECM.
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) framework. The team consisted [Director of Facilities Services] 
+of the Major Healthcare Provider, Donogh Mc Sherry of Technology Partner; and Powertron Global’s Director of Engineering, 
+[Senior Energy Engineer].  
+Notes
+The boundary of the testing was the chiller and nothing else; therefore confidence in the accuracy of the performance 
+calculations is very high.
+This report is provided to Major Healthcare Provider Permanente Hospital. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

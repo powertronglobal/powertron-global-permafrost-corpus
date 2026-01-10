@@ -1,0 +1,38 @@
+Results
+The following results are based off of the Baseline Measurement of data and the Energy Reporting Period.
+kW per ton Baseline = .69632 kW/ton * 917.4 tons = 638.8 kW
+kW per ton Energy Reporting Period = .552 kW/ton * 1088 tons = 600.6 kW
+Annual kWh Baseline 638.8 kW * 3,800 hours = 2,427,440 kWh
+Annual Cost Baseline = 2,427,440 kWh * .126 cents = $305,857.44
+Annual kWh Energy Reporting Period 600.6 kW * 3,800 hours = 2,280 kWh
+Annual Cost Energy Reporting Period = 2,280 * .126 cents = $287,567.28
+Avoided Energy Cost (savings) = $18,290.16
+$18,290.16/ 12 months = $1,524.18 per month / Cost of PermaFrost NMR® installed @ $21,932.44 = months
+ 
+ROI = 14.4 months
+Energy Science Division
+Eﬃciency Improvements
+kW
+Operating Tonnage
+kW per Ton
+COP
+Refrigerant Approach
+6.0%
+18.6%
+20.7%
+26.3%
+11.1
+Energy Reporting Period
+600.6
+1088
+.552
+6.38
+.8
+Baseline
+638.8
+917.4
+.696
+5.05
+.9
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

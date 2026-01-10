@@ -1,0 +1,38 @@
+®
+Return On Investment
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for he African Telecom Provider B DXC. 
+ 
+Baseline Energy Consumption
+Adjusted Baseline Capacity: 59.08 kWR
+Adjusted kW Baseline: 0.43 kWE/kWR * 59.08 kWR = 25.4 kW
+Adjusted Baseline kWh: 25.4 kW * 4,380 Annual Operating Hrs = 111,252 kWh
+Revised Cost to Run Baseline: 111,252 kWh * R1.10 = R122,377
+ 
+Post Energy Consumption
+kW Post: 0.32 kWE/kWR * 59.08 kWR = 18.91 kW
+Annual kWh Post: 18.91 kW * 4,380 hours = 82,826 kWh
+Annual Cost Post: 82,826 kWh * R1.10 = R91,109
+ 
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: R122,377 – R91,109 = R31,268
+Estimated Energy Savings Per Month: R31,268 / 12 = R2,606
+ 
+Initial Payback Period
+Cost of PermaFrost NMR® installed in the pilot DXC: R38,000
+Estimated Initial Payback Period on the DXC: R38,000 / R2,606 = 14.58 months
+Total kWh saved by treating this DXC = 28,426 kWh
+ 
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period 
+for African Telecom Provider B implementing PermaFrost NMR®, a detailed Regression Analysis is used to calculate the true 
+energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended 
+in the Avoided Energy Reporting (Post) Analysis Period. ROI comes from determining what the cost to run the 
+systems was when operating at the original energy profile to produce the newly restored amount of available tonnage 
+capacity and then subtracting the revised cost to run the systems at the same restored tonnage after the 
+PermaFrostNMR® was installed. This regression analysis is the most widely accepted method of accounting for the 
+reduced number of hours the systems will now operate due to the restored capacity. This restored capacity allows the 
+systems to reach the internal building set points with increased efficiency resulting in reduced compressor demand 
+loading. 
+7
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

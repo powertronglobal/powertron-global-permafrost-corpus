@@ -1,0 +1,39 @@
+ 
+45 
+The in-situ examples ran for 4 weeks under normal loads.  The four control units were 
+run full time for 12 days without cycling off was ample time between the baseline and 
+post measurements.  This is an extreme condition unlikely to occur in the field, but will 
+mimic extreme in-situ conditions.   
+ 
+The data is best illustrated on three graphs.  Figure 1 compares system 27% increase in 
+efficiency afterward. 
+  
+ 
+ 
+ 
+Figure 1 – Showing compares system efficiency before (x-axis) and after (y-axis) the 
+Permafrost addition 
+ 
+ 
+ 
+Figure 2 compares KW draw before (x-axis) and after (y-axis) the PermaFrost NMR® 
+addition.  There is a 30% increase in efficiency afterward. The final graph (Figure 3) 
+shows the BTU demand before (x-axis) and after (y-axis) the PermaFrost NMR® 
+addition.  This figure shows a 35% increase in available BTU capacity in units with the 
+PermaFrost NMR® addition. 
+ 
+ 
+y = 1.3511x 
+0 
+200,000 
+400,000 
+600,000 
+800,000 
+1,000,000 
+1,200,000 
+0 
+200,000 
+400,000 
+600,000 
+800,000 
+Btuh Coil Capacity Before  

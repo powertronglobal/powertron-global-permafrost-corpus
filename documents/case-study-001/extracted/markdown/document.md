@@ -1,0 +1,471 @@
+# Sports_Arena_A.pdf
+
+®
+
+Energy Science Division
+
+SPORTS ARENA A
+
+Comprehensive HVAC/R Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+1
+
+PermaFrost NMR® Walk-in Cooler Performance Report
+
+Sports Arena A
+
+January 14, 2013
+Executive Summary
+
+This report contains specific information regarding the detailed forensic performance testing (outlined
+
+later in this report) of the energy control measure (ECM) PermaFrost NMR® in one of the many walk-in
+
+cooler units within Sports Arena A (Sports Arena A) in [Texas Location].  [Client Representative], Heating,
+
+Ventilation, Air Conditioning and Refrigeration (HVAC/R) Supervisor for the facility, personally witnessed
+
+all phases of the testing and data collection.
+
+The 6,500 Btu refrigeration system supporting the “Hot,
+
+Popped & Twisted” concession area uses R-22 refrigerant
+
+and was installed when the facility opened in 2001.
+
+On average, the unit runs 7,300 hours each year.
+
+Immediately following the baseline testing, the unit was
+
+treated with 1 unit of the PermaFrost NMR® product
+
+specially formulated for R-22 DX systems.
+
+Since there were no other ECM’s going on during this pilot project,
+
+the improvement in efficiency and restored capacity gained directly
+
+at the unit is solely attributable to the PermaFrost NMR® ECM.
+
+Even though there was only a light load on the unit during the
+
+slightly abbreviated testing period (3 weeks versus the normal 4
+
+weeks), the pilot was still a success.  The unit now provides colder
+
+supply air and more Btu’s while using less watts per ton.  This
+
+greater operational efficiency is due to the restoration of the heat
+
+transfer ability of the evaporator and condenser coils, less metal-to-
+
+metal friction and improved refrigerant flow.  As the runtime and
+
+cooler load increases in the next month the improvements will
+
+continue to climb. In over 108,000 installations to date, the average
+
+improvement for a unit similar in age to this is over 20%.
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Since the air temperatures inside the arena were similar in
+
+both the baseline and post measurement periods as was
+
+the entering air temperature into evaporator coil, no
+
+adjustments for weather were required.
+
+Following treatment with PermaFrost NMR®, the pilot
+
+unit showed an average 10.5% reduction in both total
+
+Watts and Watts/Ton, while at the same time, producing
+
+an increase in capacity of 713 Btuh, equating to 12.4%
+
+more Btuh.  The unit also showed an improvement in EER
+
+of 11.7%.  Additionally, the pilot unit showed an average
+
+of 11.7% improvement in system efficiency, which is
+
+another very measurable way to view the thermodynamic
+
+enhancement of the PermaFrost NMR® ECM.  The result
+
+of the average ECM improvements is an ROI to Sports Arena A of
+
+16 months.  The tables of data and financial calculations
+
+are available for review at the end of this report.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Product Brief
+
+PermaFrost NMR® is a multi-patented nanotechnology surface chemistry Energy Control Measure
+
+(ECM) that uses Nucleo Molecular Regenerative (NMR) technology as its core agent.  A sustainable,
+
+one-time treatment with no down time required, PermaFrost NMR® lasts for the remaining life of any
+
+type of system in which it is installed – DX (direct expansion air and chilled water systems), Chillers
+
+(screw, reciprocating, scroll and centrifugal), heat pumps, ice making equipment.  Specialized
+
+applications include computer room cooling and dehumidification systems, chiller plants (water and ice
+
+production applications), domestic and industrial refrigeration (ammonia low and ultra low
+
+temperature), air-cooled single application water chillers and split and package rooftop HVAC
+
+equipment.
+
+The direct benefits of PermaFrost NMR® are improved cooling performance, increased capacity and
+
+improved refrigerant velocity – all of which allows a system to achieve set point temperatures in a more
+
+rapid fashion which reduces system loading and operating periods.  The indirect benefits resulting from
+
+the enhanced thermodynamic characteristics following treatment include reduced run time, less kW
+
+hours used, less amp draw at the compressor, less metallic wear, longer overall equipment life and a
+
+reduced carbon footprint for Sports Arena A.
+
+Energy Science Division
+
+OIL BUILD-UP
+OIL REMOVED
+
+BEFORE TREATMENT
+AFTER TREATMENT
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Measurement and Veriﬁcation Protocol
+
+The International Performance Measurement and Verification Protocols (IPMVP) are used to develop this
+
+report.  The Association of Energy Engineers (AEE), American Society of Heating, Refrigeration and
+
+Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization (EVO) accept the
+
+IPMVP as a global methodology for determining the effectiveness of energy conservation methods and
+
+products.
+
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize.  They
+
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report.  Option B is
+
+defined as: All parameter measurements with the boundary of the ECM (PermaFrost NMR®) as the single
+
+source of measurement.  Savings are determined by field measurement of the energy use of the ECM
+
+affected equipment or system and any performance enhancements versus the baseline data.
+
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the
+
+savings and the length of the reporting period.  For the boundary utilized for Option B, short-term
+
+measurements are very useful as data when the variables are contained.  The savings are calculated by
+
+short-term measurements of baseline and reporting period energy, and /or engineering computations using
+
+measurements of proxies of energy use.
+
+The final computation follows the formula:
+
+Energy Science Division
+
+Option B savings = Baseline Energy – Reporting Period Energy
+
++ /- Routine adjustments + /- Non-Routine Adjustments
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Conservation Method (ECM) Content
+
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the
+
+effects of thermal degradation and fouling on the heat exchange surfaces.
+
+A diagnostic examination of the pilot equipment was implemented to determine if the unit’s operational
+
+conditions were satisfactory.  Baseline measurements were recorded and then the proper amount and type
+
+of PermaFrost NMR® was injected.  The product was then allowed three (3) weeks to seat itself into the
+
+metal surfaces before post measurements were taken again to establish the efficiency gains.
+
+The following report produces the utilization of the IPMVP International Performance Measurement and
+
+Verification Protocol as the M&V plan.  The measurements and final calculations were performed and
+
+certified by Powertron Global’s Senior Energy Engineer, [Senior Energy Engineer], ME/CEM/CMC/CMVP.
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+kW = Volts * Amps *  .9/1000 - for Single Phase
+
+Dry Bulb Delta = Entering Air DB – Leaving Air DB
+
+Enthalpy = Return Air WB Deg. F and Supply Air WB Deg. F converted to Enthalpy
+
+(Enthalpy not applicable when measuring heat pumps or refrigeration units)
+
+Actual Btuh Capacity = Measured CFM * 1.08 * DB Delta (Baseline – Post)
+
+System Eﬃciency % = Actual Coil Capacity Btuh / Nominal Coil Capacity Btuh
+
+EER = Btuh / Adjusted Watts
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Make
+
+Model
+
+Refrigerant Type
+
+Nominal Cooling Capacity in Btu/tons
+
+Design CFM
+
+Heatcraft
+
+ADT065BJ
+
+R22
+
+6,500 / .54
+
+550
+
+System Description / Design Characteristics
+
+This refrigeration unit provides cooling for the “Hot, Popped & Twisted” concession stand and runs an
+
+average of 20 hours per day or 7,300 hours per year.
+
+Baseline Measurement Period Selection
+
+The following data was recorded on 12/14/2012 using recently NIST calibrated devices to insure
+
+measurement accuracy.  The results were recorded as a result of the implementation of the IPMVP Protocol.
+
+Voltage
+
+Amperage
+
+Suction Refrigerant  Temp
+
+Discharge Refrigerant Temp
+
+Entering Air Temp DB
+
+Leaving Air Temp DB
+
+Actual CFM
+
+Calculated Coil Capacity Btuh / tons
+
+Dry Bulb Delta
+
+Calculated Total Watts
+
+Calculated Watts per Ton
+
+204.8 V
+
+5.94 A
+
+25 F
+
+102 F
+
+48.3 F
+
+38.6 F
+
+550
+
+5,762 / .48
+
+9.7
+
+1,094.9
+
+2,280
+
+6 Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+7
+
+Energy Reporting Period
+
+The identical IPMVP data recordings from the baseline were retaken and recorded on 1/8/13 using the
+
+same recently NIST calibrated devices to insure measurement accuracy.  The measurements are as follows:
+
+Results
+
+The following are the final calculated performance measurements (detailed below the chart) after
+
+performing the regression analysis to account for the restored capacity brought about by PermaFrost
+
+NMR®.
+
+Energy Science Division
+
+Voltage
+
+Adjusted Amperage
+
+Suction Refrigerant  Temp
+
+Discharge Refrigerant Temp
+
+Entering Air Temp DB
+
+Leaving Air Temp DB
+
+Actual CFM
+
+Calculated Coil Capacity Btuh / tons
+
+Dry Bulb Delta
+
+Normalized Total Watts
+
+Normalized Watts per Ton
+
+205.7 V
+
+5.95 A
+
+24.6 F
+
+101 F
+
+48.1 F
+
+37.2 F
+
+550
+
+6,475 / .54
+
+10.9
+
+1,101.5
+
+2,042
+
+Eﬃciency Improvements
+
+Adjusted Total Watts
+Btuh Capacity
+System Eﬃciency %
+DB Delta-T
+Adjusted Watts per Ton
+EER
+
+10.5%
+12.4%
+12.4%
+12.4%
+10.5%
+11.7%
+
+Energy Reporting Period
+
+1,101.5
+6,475
+99.61%
+10.9
+2,042
+ 5.88
+
+Baseline
+
+1,230.3
+5,762
+ 88.64%
+9.7
+2,280
+ 5.26
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Utilizing the data in the above charts, the following steps were taken to determine a very accurate ROI for
+
+Sports Arena A for implementing this ECM:
+
+Baseline kWh = (1,094.9 CTW / 1,000) * 7,300 Annual Operating Hrs = 7,992.8 kWh
+
+Baseline Cost To Run = 7,992.8 kWh * $.10 = $799.28
+
+Regression Analysis is then used to account for amount of tonnage restored to Pilot Unit
+
+Adjusted Base Tonnage = .54 tons (equates to tonnage in ERP)
+
+Adjusted Total Watts = 2,280 WPT * .54 tons = 1,230 TW
+
+Adjusted Base kWh = (1,230 TW/1,000) * 7,300 Annual Operating Hrs = 8,981 kWh
+
+Revised Cost to Run Prior to ECM = 8,981 kWh * $.10 = $898
+
+Post ECM kWh = (1,101.5 NTW / 1,000) * 7,300 Annual Operating Hrs = 8,041 kWh
+
+Cost to Run After ECM = 8,041 kWh * $.10 = $804
+
+Cost Savings per Month = ($898 - $804) / 12 = $7.80
+
+Cost of PermaFrost NMR® installed @ $125 / $7.80 = 16
+
+ROI = 16 months
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

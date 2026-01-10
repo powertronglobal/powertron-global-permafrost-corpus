@@ -1,0 +1,82 @@
+ 
+IPMVP Framework and Options       33 
+ 
+ 
+ 
+ 
+Measure Facility or 
+ECM Performance? 
+ECM
+Performance 
+Expected 
+Savings 
+>10%? 
+Need to 
+separately assess 
+each ECM?
+Yes
+Analysis of 
+main meter 
+data 
+Option C
+Whole Facility 
+Simulate 
+system or 
+facility 
+Yes
+No
+Obtain 
+calibration data 
+Calibrate 
+simulation 
+Simulate with and 
+without ECM(s) 
+Option D
+Calibrated 
+Simulation 
+Need full 
+performance 
+demonstration?
+Yes
+No
+Install isolation meters 
+for key parameters, 
+assess interactive effects, 
+and estimate well known 
+parameters 
+Install isolation 
+meters for all 
+parameters and 
+assess interactive 
+effects 
+Missing baseline or 
+reporting period 
+data? 
+Missing baseline
+or reporting 
+period data? 
+Option A
+Retrofit Isolation: 
+Key Parameter 
+Measurement 
+Yes
+No
+Start
+No
+Option B
+Retrofit Isolation: 
+All Parameter 
+Measurement 
+No
+Facility
+Performance 
+Able to isolate 
+ECM with 
+meter(s)?
+No
+Yes
+Yes
+ 
+Figure 4 Option 
+Selection Process 
+(Simplified) 

@@ -1,0 +1,93 @@
+================================================================================
+DOCUMENT EXTRACTED FROM PDF
+================================================================================
+
+═══ PAGE 001 ═══
+
+PermaFrost NMR®
+ Installation Instructions
+forChillers
+The following instructions are designed
+to guide licensed HVAC personnel
+through the PermaFrost NMR® installation
+process for water and air- cooled chillers. 
+Before the HVAC personnel proceeds with the installation process, it is important to inspect the equipment to be 
+treated and ensure that it is in proper working order. This is imperative especially in chillers. A thorough review of 
+satisfactory recent oil analysis is required. Excessive acid and or water presence will cause the failure of results.
+You should review this information with Powertron Global® engineering department before installation if any of these 
+levels are above the OEM allowed limits.
+Once this has been accomplished you may proceed with the Recommendations & Requirements of PermaFrost NMR®.
+Before you begin the installation of PermaFrost NMR®
+The two types of PermaFrost NMR® formulas for Chiller units are synthetic and mineral. It is important that the 
+correct PermaFrost NMR® formulation is matched to the correct  refrigerant oil type. The oil type always determines 
+the correct type of PermaFrost NMR® to be installed. On occasion, chillers are equipped with refrigerants such as 
+R-22 (mineral based), but have a synthetic refrigeration oil; never assume the oil type, this must be veriﬁed.
+  
+The installer must know how much their pump injects per stroke. For example, the Yellow Jacket Max-Flow #77930 
+that is recommended pumps 3.8 oz. per stroke (simply approximate 4 oz.). If you use an injector or some other piece of 
+equipment, follow recommend OEM guidelines for adding oil to HVAC equipment.
+RECOMMENDATIONS & REQUIREMENTS
+
+
+═══ PAGE 002 ═══
+
+All PermaFrost NMR® injections are measured in U.S. ﬂuid oz. The amount of PermaFrost NMR® to be installed is 
+directly proportional to the TOTAL oil charge of the chiller. This is further explained below (Step 4) in the Instructions 
+For Installing. 
+It is recommended that the compressor remains operational during the entire installation process.
+This will ensure that PermaFrost NMR® is throughly circulated throughout the system. 
+Insure that all precautions are taken to assure that there are no residual 
+products such as old oil or any foreign matter present in the charging apparatus.
+Care should be taken to assure the purity of the PermaFrost NMR®. 
+2
+3
+4
+5
+1
+INSTRUCTIONS FOR INSTALLING
+PermaFrost NMR®
+Use the same precautions handling PermaFrost NMR®, as you would while handling refrigerant oils.
+      Open the PermaFrost NMR® container and place the pickup tube into the container. A level surface is required so 
+that the oil pump is stable.
+      Connect the charging hose to the pump (if not previously done) and circulate product through the pump and 
+hose while placing the hose into the PermaFrost NMR® original container. This is the approved method of purging 
+air from the charging hose. Do not inject any non-condensable into any refrigeration circuit!
+      Determine if you chiller is a high or low-pressure machine. Systems using high-pressure refrigerants such as 
+R-22, R-12, R-410A, R-134A etc., the best location is at the suction or (low) pressure side of the refrigeration circuit 
+through the refrigerant service valve with compressor operating.
+If your system is a low-pressure machine (R-11, R-123, etc.) centrifugal chiller, a pump may not be required as the 
+inherent suction properties can deliver the PermaFrost NMR® right into the system at the service valve just prior to 
+the suction orifice right before the evaporator. If the chiller is a low-pressure screw or reciprocating type chiller, a 
+pump will still be required and the correct amount of PermaFrost NMR® would be installed in the service valve 
+located at the suction side of the compressor while the compressor is operating.
+ 
+      The amount of PermaFrost NMR® installed is directly proportional to the total oil charge of the chiller, 
+specifically 10% of the total oil charge. (ex. 10 gal. total oil charge = 1 gal. of PermaFrost NMR®). Assistance is 
+available through Powertron Global®; please have chiller Make, Model, Oil Type and Refrigerant Type made 
+available for the representative. 
+      Once you inject the proper amount, disconnect the hose and replace the sealing fasteners on to the selected 
+charging port of the unit. Purge any residual PermaFrost NMR® into its original container.
+
+
+═══ PAGE 003 ═══
+
+POST INSTALLATION GUIDELINES
+After installing PermaFrost NMR® it is recommended to pay close attention to the compressor oil reservoir level for 
+the next 3 to 4 weeks.
+After the PermaFrost NMR® has had some time to circulate within the system, it has the potential to reclaim 
+refrigerant oil that may be collecting in speciﬁc areas of the heat exchangers along with possible solid debris.  
+Depending on the amount of reclaimed oil that returns to the compressor oil reservoir, it may need to be removed to 
+return the level back to manufacturers operating ranges.
+If an excessive amount of contaminates are present in the internal mechanical passages it may constitute the need 
+for an oil ﬁlter and/or oil change.
+Powertron Global® recommends getting an oil analysis approximately 500 hours after 
+the installation of PermaFrost NMR® to monitor level of returned contaminates.
+For Assistance Please Call info@powertronglobal.com
+or email support@powertronglobal.com 
+Powertron Global LLC. © Copyright 2019
+15402 Dexler Drive
+Austin, TX 78734
+www.powertronglobal.com
+This completes the PermaFrost NMR®
+installation process.
+

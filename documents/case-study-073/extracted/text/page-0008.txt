@@ -1,0 +1,33 @@
+®
+Energy Consumption & Financial Metrics
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the Major Hotel Chain Courtyard Downtown Chiller.
+Baseline Energy Consumption
+Baseline Tonnage: 104 tons
+kW Baseline (Adjusted): 1.47 kW/ton * 112 tons = 165 kW
+Annual kWh Baseline: 165 kW * 3,235 Annual Operating Hrs = 533,775 kWh
+Annual Cost Baseline: 533,775 kWh * $.082 = $43,770
+Post Energy Consumption
+kW Post: 1.11 kW/ton * 112 tons = 124 kW
+Annual kWh Post: 124 kW * 3,235 hours = 401,140 kWh
+Annual Cost Post: 401,140 kWh * .082 cents = $32,893
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $43,770 - $32,893 = $10,877
+Estimated Energy Savings Per Month: $10,877 / 12 = $906
+Initial Payback Period
+Cost of PermaFrost NMR® installed in the pilot chiller: $16,000
+Estimated ROI Period for Summit Hotel Properties on the chiller: $16,000 / $906 = 17.7 months
+Annual Rate of Return = 68%
+Return on Investment Over 5 Years = 340%
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period for 
+Summit Hotel Properties for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to 
+calculate the true energy savings resulting from the improvement in capacity. This increased capacity reduces the annual 
+kWh expended in the Post Analysis Period. ROI comes from determining what the cost to run the chiller was when 
+operating at the original energy profile to produce the newly restored amount of available tonnage capacity and then 
+subtracting the revised cost to run the chiller at the same restored tonnage after the PermaFrost NMR® ECM was 
+installed. This regression analysis is the most widely accepted method of accounting for the reduced number of hours or 
+load the chiller will now operate due to the restored capacity. This restored capacity allows the chiller to reach the internal 
+building set points with increased efficiency resulting in reduced compressor demand loading.
+7
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

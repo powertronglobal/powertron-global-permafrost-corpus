@@ -1,0 +1,232 @@
+38 
+Food Retailer 
+[Florida Location] 
+Before
+After
+Food 
+Retailer St. 
+Pete, FL 
+Before
+After
+Telecom 
+munications 
+CRAC#1 
+Before
+After
+Telecom 
+munications 
+CRAC#2 
+Before
+After
+226
+226
+208.7
+206.6
+470
+470
+465
+465
+31
+26
+17
+19.51
+10.71
+10.3
+11.48
+11.2
+30
+31.8
+42.6
+44.8
+43.5
+39.85
+39.65
+34
+117.5
+109
+100
+112.3
+122
+117
+118
+115
+71.5
+71.5
+77
+78.6
+74
+71.5
+71
+72
+58
+48.5
+57.3
+50.9
+58.5
+53.9
+56.1
+51.7
+59.1
+61.2
+64.7
+65.6
+56.7
+58.6
+56.7
+57.3
+54.8
+46.5
+55.3
+44.6
+48.8
+48.8
+48
+45.6
+1,760
+1,760
+1,126
+1,126
+7,200
+7,200
+7,200
+7,200
+31,205
+70,250
+32,581
+66,226
+164,592
+190,512
+164,592
+217,404
+2.6
+5.85
+2.72
+5.52
+13.72
+15.88
+13.72
+18.12
+3.94
+8.87
+6.43
+13.07
+5.08
+5.88
+5.08
+6.71
+DX Measured Parameter 
+Voltage
+Amperage
+Suction Refrigerant Temp F 
+Discharge Refrigerant Temp F 
+Entering Air Temp DB 
+Leaving Air Temp DB 
+Entering Air Temp WB 
+Leaving Air Temp WB 
+Actual CFM
+Actual Coil Capacity Btuh 
+Actual Coil Capacity Tons 
+Enthalpy Delta
+OAT at time of readings
+82.4
+82.5
+88
+95
+77
+78
+77
+78
+Calculated Parameters
+Refrigerant Approach
+28
+16.7
+14.7
+6.1
+15
+14.05
+16.45
+17.7
+Total Watts Normalized for Weather
+6,305
+5,288
+3,193
+3,628
+15,705
+15,104
+16,655
+16,249
+Watts Per Ton
+2425
+904
+1174
+657
+1145
+951
+1214
+897
+Adjusted Baseline Tonnage
+Adjusted Baseline Total Watts
+COP
+1.45
+3.89
+3.00
+5.35
+3.07
+3.70
+2.90
+3.92
+Delta T Dry bulb
+13.5
+23
+19.7
+27.7
+15.5
+17.6
+14.9
+20.3
+Watts/degree decrease DB
+Delta T Wet(acctg for humidity)
+Watts/degree decrease WB
+kW (volts x amps x .85 x 1.732)/1000 OR
+(volts x amps x 1.56)/1000 OR (volts x amps
+x .9)/1000
+6.3
+5.3
+3.2
+3.6
+15.7
+15.1
+16.7
+16.2
+Adjusted Total Watts
+14,187
+5,288
+6,480
+3,628
+18,178
+15,104
+21,996
+16,249
+Btuh Coil Capacity
+31,205
+70,250
+32,581
+66,226
+164,592
+190,512
+164,592
+217,404
+System Efficiency
+52.0%
+117.1%
+67.9%
+138.0%
+85.7%
+99.2%
+85.7%
+113.2%
+EER (Btuh / Watts)
+10.48
+12.61
+9.88
+13.38

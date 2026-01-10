@@ -1,0 +1,33 @@
+Energy Consumption & Financial Metrics for Pilot WIC
+The following are the final calculated average performance measurements and financial projections before and 
+after the ECM was installed in the pilot WIC. These results may vary slightly from the tables listed earlier in this 
+report due to rounding only to the first decimal position for cooling tons and kW values.
+Average Baseline Energy Consumption
+Baseline Capacity:  .182 tons
+Adjusted kW Baseline:  12.54 kW/ton * .336 tons = 4.21 kW
+Adjusted Baseline kWh:  4.21 kW * 3,000 Annual Operating Hours = 12,630 kWh
+Revised Cost to Run Baseline: 12,630 kWh * $.105 = $1,326
+Average Post Energy Consumption
+kW Post:  5.8 kW/ton * .336 tons = 1.95 kW
+Annual kWh Post:  1.95 kW * 3,000 hours = 5,850 kWh
+Annual Cost Post:  5,850 kWh * $.105 cents = $614
+Average Savings per Year Per Unit
+Avoided Energy Cost (savings) Per Year:  $1,326 - $614 = $712
+Estimated Energy Savings per Month: $712 / 12 = $59
+Return on Investment
+Cost of PermaFrost NMR® installed in the pilot WIC: $250
+Estimated ROI for Space Center A Visitor Complex when treating the pilot WIC: $250 / $59 = ~4.2 mos
+Annual Internal Rate of Return = 284%
+Return on Investment Over 5 Years = 1,424%
+Explanation of Regression Analysis
+To obtain a realistic avoided energy cost and subsequent payback period for Space Center A Visitor Complex for implementing the PermaFrost 
+NMR® ECM, a detailed Regression Analysis is used to calculate the true energy savings resulting from the improvement 
+in both capacity and efficiency utilizing data collected during the pilot study. These improvements reduce the annual kWh 
+expended in the Post Analysis Period. The ROI comes from determining what the cost to run the WIC was when operating 
+at the original energy profile to produce the newly restored amount of available capacity before then subtracting the revised 
+cost to run the WIC at the same restored capacity after the ECM was installed. This regression analysis is the most widely 
+accepted method of accounting for the reduced number of hours and/or load % at which the WIC will now operate due to 
+the restored performance profile. 
+16
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

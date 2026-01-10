@@ -1,0 +1,287 @@
+Appendix B
+Weather Data from Military Base B
+8
+ 
+ 
+ 
+ 
+ 
+ 
+6:55 AM, Tue  
+57° 
+55° 
+94% 
+30.12in       12mi      Unlft 
+N 
+0mph 
+Few Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5mph 
+ 
+5:55 AM, Tue  
+55° 
+54° 
+94% 
+30.12in       12mi      Unlft 
+N 
+0mph 
+Few Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5mph 
+ 
+4:55 AM, Tue  
+55° 
+54° 
+94% 
+30.12in       12mi     Unlft  
+NE 
+0mph 
+Clear 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5mph 
+ 
+3:55 AM, Tue  
+56° 
+54° 
+91% 
+30.12in       10mi     Unlft  
+NNE 
+0mph 
+Clear 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3mph 
+ 
+2:55 AM, Tue  
+58° 
+55° 
+90% 
+30.15in       10mi     Unlft  
+NNW 
+0mph 
+Clear 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3mph 
+ 
+1:55 AM, Tue  
+58° 
+54° 
+87% 
+30.15in       10mi     Unlft  
+N 
+0mph 
+Clear 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0mph 
+ 
+12:55 AM, Tue  59° 
+55° 
+86% 
+30.15in       10mi     Unlft  
+E 
+0mph 
+Clear 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3mph 
+ 
+11:55 PM, Mon  62° 
+55° 
+79% 
+30.15in       10mi     Unlft  
+N 
+0mph 
+Clear 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0mph 
+ 
+10:55 PM, Mon  68° 
+59° 
+73% 
+30.15in       10mi     Unlft  
+N 
+0mph 
+Few Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3mph 
+ 
+9:55 PM, Mon  
+68° 
+61° 
+78% 
+30.12in       10mi     Unlft  
+E 
+0mph 
+Few Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5mph 
+ 
+8:55 PM, Mon  
+70° 
+61° 
+73% 
+30.12in       10mi     Unlft  
+ENE 
+0mph 
+Few Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7mph 
+ 
+7:55 PM, Mon  
+72° 
+59° 
+64% 
+30.12in       10mi     Unlft  
+ENE 
+0mph 
+Few Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8mph 
+ 
+6:55 PM, Mon  
+73° 
+57° 
+57% 
+30.12in       10mi     Unlft  
+ENE 
+0mph 
+Scattered Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8mph 
+ 
+5:55 PM, Mon  
+72° 
+59° 
+64% 
+30.12in       10mi     12000ft 
+ENE 
+0mph 
+Broken Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6mph 
+ 
+4:56 PM, Mon  
+72° 
+55° 
+57% 
+30.12in       10mi     12000ft 
+ENE 
+0mph 
+Overcast 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3mph 
+ 
+Date/Time
+Temp
+Dew Point
+Relative
+Humidity
+Pressure
+Visibility
+Ceiling
+Wind
+Gust
+Weather

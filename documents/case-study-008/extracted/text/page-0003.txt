@@ -1,0 +1,35 @@
+2
+ECM Product Brief
+PermaFrost NMR® is a multi-patented surface science nanotechnology that uses Nucleo Molecular 
+Regenerative (NMR®) technology as its core agent. A sustainable, one-time treatment with no down time 
+required, PermaFrost NMR® lasts for the remaining life of any type of climate control system in which it is 
+installed.  The direct benefits of PermaFrost NMR® are improved cooling efficiency and restored capacity, both 
+of which result in lower overall costs to operate a system and extended equipment life. 
+Methodology
+After verifying the proper rates of water flowing through the chiller evaporator and condenser barrels before 
+beginning the pilot, the subsequent measurements used in the efficiency calculations were collected and 
+compiled in accordance with Option B of the IPMVP (International Measurement and Verification Protocol) 
+framework and AHRI standard 550/590.
+The results presented below were formulated by entering the data into the following thermodynamic 
+engineering formulas:
+ 
+• kW = Volts * Amps * .88 * 1.732 / 1000 (for 3-Phase)
+ 
+• kW/Ton = kW / Actual Tonnage 
+ 
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+ 
+• Actual Cooling Tons per Hour = (Evaporator GPM X 8.34 * 60 * Chilled Water Delta T) / 12,000 BTU
+Notes
+Following a diagnostic examination to determine the operational condition of the chiller was satisfactory, Baseline M&V 
+data was collected and recorded by the M&V team. 350+ runtime hours after installation of the ECM, the M&V team 
+returned on a very similar weather day to the Baseline to take Post M&V measurements in the identical fashion as in the 
+baseline. The delta of these measurements and associated calculations show the amount of capacity restored.
+The GPM was recorded on Jul 14, 2014 using an instrument recently calibrated under the constraints of the National 
+Institute of Standards and Technology (NIST) to insure accurate flow measurements through the evaporator. The 
+remaining measurements were taken directly from the chiller’s control panel. The chiller was then treated with with 
+PermaFrost NMR® on Dec 9, 2015 and allowed to run normally until Jan 8, 2016 to ensure the technology had ample 
+time to seat into all the metal surfaces of the heat exchangers. All measurements were taken at nearly identical incoming 
+water temperatures. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,33 @@
+{
+  "doc_id": "major-telecom-e-meter-467",
+  "slug": "major-telecom-e-meter-467",
+  "title": "Major Telecom E 467 Field Study",
+  "source_type": "tabular",
+  "source_folder": "Major Telecom E CO Meter 467 CH1 ",
+  "source_files": [
+    {
+      "filename": "467 BASELINE measurement-history copy.csv",
+      "type": "csv",
+      "rows": 20130,
+      "period": "baseline",
+      "size_bytes": 2008413
+    },
+    {
+      "filename": "467 POST measurement-history copy.csv",
+      "type": "csv",
+      "rows": 20029,
+      "period": "post",
+      "size_bytes": 1896855
+    }
+  ],
+  "data_resolution": {
+    "type": "time_series",
+    "total_rows": 40159
+  },
+  "company": {
+    "name": "Major Telecom E",
+    "industry": "Telecommunications"
+  },
+  "created_at": "2026-01-05T21:27:45.313195",
+  "processing_version": "1.0.0"
+}

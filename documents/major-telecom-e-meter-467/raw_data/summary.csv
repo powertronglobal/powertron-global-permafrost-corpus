@@ -1,0 +1,3 @@
+source_file,period,rows,kW_mean,kW_median,Meter 1 kWh_mean,Meter 1 kWh_median,Capacity (Tons)_mean,Capacity (Tons)_median,Chilled Water Flow Rate (GPM)_mean,Chilled Water Flow Rate (GPM)_median
+467 BASELINE measurement-history copy.csv,baseline,20130,19.44466138550472,20.80420957,48340.13639974913,48315.289065000004,127.5405607847238,129.15889825,201.00282590556037,198.7935796
+467 POST measurement-history copy.csv,post,20029,15.851676927515653,19.30499913,142795.8047484148,142705.9857,39.15060546891507,49.89600238,161.0057253110016,202.7080411

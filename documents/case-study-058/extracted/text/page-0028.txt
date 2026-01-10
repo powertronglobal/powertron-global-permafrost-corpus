@@ -1,0 +1,67 @@
+ 
+Power supply    Single-phase - 220V, 50Hz 
+Rated current for refrigerating/heating - 9.4/8.6+5.5A 
+Rated power for refrigerating/heating – 2,060/1,900+1,200W 
+Refrigerant/filling volume - R22/1670g 
+Waterproof class - IPX4 
+Mass - 53kg 
+Operating current under the most severe conditions - 19.5A 
+Ex-factory number 
+Manufacture date 
+Hefei Meiling Sigma Electrical Appliance Co., Ltd.  
+14.  
+Refrigerating capacity 
+15.  
+W 
+16.  
+Input power 
+17.  
+W 
+18.  
+Dry bulb temperature at evaporator air outlet 
+19.  
+Wet bulb temperature at evaporator air outlet 
+20.  
+1. Measured nominal cooling condition: indoor side 
+dry bulb 
+temperature 27.01°C; web bulb temperature 19.00°C 
+                     Outdoor side 
+dry bulb temperature 34.99°C 
+                                          Air outlet static pressure 0Pa 
+2. The refrigerating capacity, input power, dry bulb temperature at 
+evaporator air outlet, wet bulb temperature at evaporator air outlet listed 
+in this table are tested according to the provisions of Chinese Standard 
+GB/T 7725-2004. 
+3. The refrigerant used in this test is R22, and its filling volume is 1,670g. 
+21.  
+Split heat pump floor-standing room air conditioner  
+22.  
+Hefei Meiling Sigma Electrical Appliance Co., Ltd. (as shown on the 
+nameplate) 
+23.  
+Commissioned inspection 
+24.  
+Split heat pump floor-standing room air conditioner  
+25.  
+Hefei Meiling Sigma Electrical Appliance Co., Ltd.  
+26.  
+Refrigerating capacity, input power, dry bulb temperature at evaporator air 
+outlet, wet bulb temperature at evaporator air outlet. 
+27.  
+For test data, please see the test results (attached tables). 
+28.  
+Yue Shilong 
+29.  
+Shan Lei 
+30.  
+Li Fang 
+31.  
+Split Heat Pump Floor-Standing Room Air Conditioner 
+KFRd-50LW        TÜV 
+Power supply    Single-phase - 220V, 50 Hz 
+Refrigerating capacity – 5,000W 
+Heating capacity – 5,500+1,200W 
+Rated current for refrigerating/heating - 9.4/8.6A 
+Rated current for auxiliary electrical heating - 5.5A 
+Rated power for refrigerating/heating – 2,060/1,900W 
+Rated power for auxiliary electrical heating – 1,200W 

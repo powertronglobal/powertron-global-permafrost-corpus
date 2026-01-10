@@ -1,0 +1,64 @@
+JOB # 7664
+PAGE # 2
+PROJECT NAME: Major US Warehouse Retailer at CLEARWATER MALL — PRETEST
+SYSTEM
+ZONE / UNIT #
+DUCT
+SIZE
+AREA
+SQ. FT
+CORR.
+FACT
+REQ'D
+FPM
+ACTUAL
+FPM
+REQ'D
+CFM
+ACTUAL
+CFM
+STATIC
+PRESS
+INSTRUMENT
+USED
+RTU-3
+76 X 15
+7.9
+-
+-
+712
+-
+5625
+-
+VEL
+RTU-14
+76 X 15
+7.9
+-
+-
+1202
+-
+9500
+-
+VEL
+RTU-18
+76 X 15
+7.9
+-
+-
+1221
+-
+9650
+-
+VEL
+DUCT / PIPE TRAVERSE SHEET
+DATE: 4/4/14
+REMARKS:
+INSTRUMENT USED:
+ANEM = 4" VANE ANEMOMETER;
+DT = DUCT TRAVERSE;
+H = HOOD;
+VEL = VELGRID/MATRIX
+READINGS BY: D. MILLARD
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

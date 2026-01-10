@@ -1,0 +1,271 @@
+®
+Estimated Savings to Restaurant Chain A for Treating Entire Portfolio
+The next chart illustrates the substantial savings potential Restaurant Chain A will realize by moving forward this summer 
+with treating their entire portfolio of HVACR equipment. The following assumptions were used in the calculations:
+ 
+• 10 year average age of HVACR equipment; 
+ 
+• 40 tons of HVACR per location; 
+ 
+• Equipment runtime of 3,400 hours each; 
+ 
+• Average cost of $.12 per kWh delivered across all 700 restaurants
+Kilowatt Hours (kWh) Loss / Gain With / Without PermaFrost NMR® Treatment
+Savings indicated inside red circle equates to a 12 Month Project Payback for Restaurant Chain A when treating all 700 
+locations across the US. This is determined by dividing the $2,940,000 cost of treating the HVACR equipment with 
+PermaFrost NMR® by the anticipated annual savings of $3,091,334 and then multiplying the result by 12 months. 
+Savings indicated inside orange circle equates to an overall ROI for Restaurant Chain A of 1,142% over the remaining 10 
+years of projected useful equipment life across the total portfolio. This is determined by dividing the projected 10 
+years of avoided cost savings of $33,577,421 by the $2,940,000 cost of treating the entire portfolio with PermaFrost 
+NMR® and then multiplying the result by 100. If Restaurant Chain A is operating at a net profit margin of 5%, the estimated 
+10 year savings of $33,577,421 is EQUIVALENT to $671,548,420 in food/beverage sales revenue that Restaurant Chain A 
+DOES NOT have to generate to maintain current performance levels.
+11
+DX 
+10 
+30,800
+3400 
+$0.120 
+0.0% 
+Unit Type (DX or CH)
+Unit Age
+Input Power kWE
+Annual Run Time Hours
+Current kWh Cost
+Annual kWh Cost Increase
+104,720,000
+155,195,040
+423,278,240
+$50,793,389
+kWh per year
+Total Wasted kWh
+Total kWh Saved
+Total Savings
+-30.00%
+-25.00%
+-20.00%
+-15.00%
+-10.00%
+-5.00%
+0.00%
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+Annual kWh Savings for All 700 Restaurant Chain A locations
+Annual Cost Savings for All 700 Restaurant Chain A locations
+Estimated Cost to Treat All 700 Restaurant Chain A locations
+Estimated 10-Yr Food/Beverage Sales Avoided in all Restaurant Chain A’s locations
+Annual Saving Value
+Portfolio Eﬀects of ECM
+18,732,000 kWh  
+$ 3,091,334
+$ 2,940,000
+$ 671,548,420
+Accumulated
+Savings
+3,091,334
+6,283,200
+9,575,597
+12,943,392
+16,361,453
+19,804,646
+23,247,840
+26,691,034
+30,134,227
+33,577,421
+37,020,614
+40,463,808
+43,907,002
+47,350,195
+50,793,389
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+Accumulated
+kWh Saved
+25,761,120
+52,360,000
+79,796,640
+107,861,600
+136,345,440
+165,038,720
+193,732,000
+222,425,280
+251,118,560
+279,811,840
+308,505,120
+337,198,400
+365,891,680
+394,584,960
+423,278,240
+Cost
+Per kWh
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+Saved Costs
+Saved kWh
+Wasted kWh
+2,827,440
+6,283,200
+9,529,520
+12,880,560
+15,708,000
+17,907,120
+20,106,240
+21,886,480
+23,352,560
+24,713,920
+Eﬃciency
+Loss
+Unit Age
+2.7%
+6.0%
+9.1%
+12.3%
+15.0%
+17.1%
+19.2%
+20.9%
+22.3%
+23.6%
+24.6%
+25.4%
+26.2%
+26.8%
+27.2%
+27.4%
+27.4%
+27.4%
+27.4%
+27.4%
+27.4%
+27.4%
+27.4%
+27.4%
+27.4%
+25,761,120
+26,598,880
+27,436,640
+28,064,960
+28,483,840
+28,693,280
+28,693,280
+28,693,280
+28,693,280
+28,693,280
+28,693,280
+28,693,280
+28,693,280
+28,693,280
+28,693,280
+3,091,334
+3,191,866
+3,292,397
+3,367,795
+3,418,061
+3,443,194
+3,443,194
+3,443,194
+3,443,194
+3,443,194
+3,443,194
+3,443,194
+3,443,194
+3,443,194
+3,443,194
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Wasted Portfolio
+Energy Costs
+Up to Now
+$29,656,670
+Future Avoided Energy Costs
+for Remaining  10 Years
+of Equipment Life
+$33,577,421
+Property of Powertron Global®

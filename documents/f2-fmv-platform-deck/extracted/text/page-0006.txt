@@ -1,0 +1,51 @@
+POWER METER:
+3-phase multi-circuit power and energy meters oﬀer revenue grade accuracy and a wealth of other 
+features, including:
+•
+Utility Revenue Grade Accuracy - IEC 62053-22 0.5s Class / ANSI C12.20 0.5 Class
+•
+Multiple CT Input Options compatible with any CT: 5A/1A, 333mV, Flexible Rogowski Coil, 80/100/200mA
+•
+Three phase three wire (3P3W), three phase four wire (3P4W), single phase three wire (1P3W two element),
+single phase two wire (1P2W one element) and more
+•
+4 Channel current input including neutral current measurement
+•
+Residual current measurement available
+•
+10-690Vac direct voltage input, ﬁts all voltage rating system with one model
+•
+RS-485 port built-in with Modbus
+•
+Standard Din-rail mount for ease-of-installation
+•
+Compatible with both 50Hz and 60Hz systems
+•
+Tamper-proof design approved for revenue applications
+SENSOR SPECIFICATIONS:
+TEMPERATURE & HUMIDITY SENSOR 
+Accuracy
+Temperature Sensor/Output Type
+Duct Mount Air w/40 Micron HDPE Filter
+RH Output
+Relative Humidity Range
+Temperature Range
+Mounting
+AIR VELOCITY  
+Accuracy
+Range 
+Output Signals
+Temperature Limits
+Mounting
+2%
+4-20mA
+Thermistor
+4-20 mA
+0-100%
+ -40 to 140 deg F (-40 to 60 deg C)
+Duct
+3%
+1000-4000 FPS
+4-20mA, 0-5 VDC, 0-10 VDC
+32 to 122 deg F (0-50 deg C)
+Duct

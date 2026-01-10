@@ -1,0 +1,152 @@
+3
+Summary of Power Meter Data
+The Caribbean Telecom Provider power meter data (inside the red circles) taken from identical blocks of time and weather shows 
+a 6.8% reduction in kWh’s, savings of $4,278 in US dollars annually, and an initial payback period of just 12.6 
+months. The significance of these results not only show bottom line power savings but specifically 
+demonstrates that when the workloads are nearly identical, the restored capacity provided by PermaFrost 
+NMR® in these systems to near or at OEM design lower your cost per unit or kW/ton therefore Caribbean Telecom Provider is 
+saving energy and money. This data serves to substantiate the IPMVP data taken in both pilots.
+Timeframe
+Vrms
+Average
+Max
+Average
+Current
+Max
+Power
+Factor
+Total Max
+Active
+Energy Total
+Max (in kWh)
+Average
+OAT
+Average
+Humidity
+Date
+BASELINE READINGS
+5 Hrs / Midnight - 5AM 
+8 Hrs / 2AM - 10AM
+6 Hrs / 2PM - 8PM 
+4 Hrs / 6 AM - 10AM
+8 Hrs / 4AM - Noon
+31 Total Hours
+419.28
+418.50
+415.97
+414.97
+415.76
+416.9
+94.09
+88.25
+76.42
+93.82
+90.59
+88.63
+0.71
+0.71
+0.75
+0.72
+0.73
+0.72
+142.535
+218.604
+186.877
+115.293
+227.746
+891.055
+78.7
+77.4
+84.1
+79.7
+79.1
+79.8
+74.0
+76.2
+60.7
+75.5
+71.0
+71.5
+10-Jan
+9-Jan
+19-Jan
+12-Jan
+14-Jan
+Timeframe
+Vrms
+Average
+Max
+Average
+Current
+Max
+Power
+Factor
+Total Max
+Active
+Energy Total
+Max (in kWh)
+Average
+OAT
+Average
+Humidity
+Date
+POST READINGS
+5 Hrs / Midnight - 5AM
+8 Hrs / 2AM - 10AM 
+6 Hrs / 2PM - 8PM
+4 Hrs / 6 AM - 10AM
+8 Hrs / 4AM - Noon
+31 Total Hours
+419.11
+418.96
+418.42
+417.71
+418.40
+418.5
+74.64
+60.69
+74.49
+73.88
+68.91
+70.52
+0.72
+0.71
+0.73
+0.72
+0.72
+0.72
+133.810
+202.058
+177.705
+106.389
+210.538
+830.500
+78.7
+77.5
+84.1
+79.8
+79.0
+79.8
+74.2
+76.3
+60.8
+75.5
+71.0
+71.6
+27-Feb
+28-Feb
+29-Feb
+5-Mar
+6-Mar
+Reductions From Baseline in kWh Every 31 Hours 
+60.56            or            6.8%
+Calculated Annual Savings in kWh's and U.S.   
+17,112              or            $4,278 
+Initial Return on Investment in Months at $.25/kWh U.S. 
+12.6 
+(*) Annual kWh savings calculated by multiplying the 60.56 kWh's demonstrated in the 31 hours of savings comparisons by
+281.581 (the number of 31 hour periods in a calendar year of 8,760 hours).
+The cost to treat the two systems was $4500 USD.
+This report is provided to Caribbean Telecom Group. It is confidential and proprietary to Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

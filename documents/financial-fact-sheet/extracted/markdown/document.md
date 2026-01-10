@@ -1,0 +1,95 @@
+# Financial Fact Sheet - Pricing and ROI
+
+---
+
+## Page 1
+
+ 
+    
+ 
+15402 Dexler Drive 
+Austin, TX 78734 
+info@powertronglobal.com 
+www.powertronglobal.com 
+ 
+Financial: Price, ROI, Payment Options 
+ 
+ 
+Product Price 
+ 
+Product pricing is standard and by the ounce. PermaFrost NMR® is $125 per 
+ounce. In direct exchange or DX units require 1 ounce per ton of capacity. 
+Chillers require treatment to be proportional to 10% of the oil capacity. 
+Volume discounts are available for enterprise-wide deployments.  
+Prices do not include cost of installation (Installation Fact Sheet link) 
+Return on Investment (ROI) 
+ 
+Restoring cooling capacity is just sound business. Multiple corporate 
+objectives are advanced simultaneously – operational uptime, better working 
+conditions and reduction of carbon footprint. Most compelling is ROI.  
+HVAC intensity, age of equipment and kWh price vary widely. Typically, 
+customers see a positive financial return from energy savings in 14 months-2 
+years. HVAC-intense environments, e.g., data centers, labs, manufacturing, and 
+businesses in high tariff areas, can see full payback within a few months. When 
+total financial return includes lifetime ROI, 20% extended equipment life, 
+fewer machine repairs and less downtime, few investments are as strategic or 
+more attractive. 
+ROI Facts 
+ 
+• PermaFrost NMR® standard pricing: $125 per ounce 
+• PermaFrost NMR® is a permanent solution, a one-time cost 
+• Treatment quantity: 1 ounce/ton for DX units; 10% of oil charge for 
+chillers 
+• On average, restores 20%+ cooling capacity for DX units >3 yrs. in 
+service 
+• On average, restores 18% cooling capacity for chillers >3 yrs. in service 
+ 
+
+
+---
+
+## Page 2
+
+ 
+    
+ 
+15402 Dexler Drive 
+Austin, TX 78734 
+info@powertronglobal.com 
+www.powertronglobal.com 
+ 
+ 
+• Active optimization of new capacity can substantially increase return 
+• Improved EER and kW/ton reduces demand surcharges for peak usage 
+• ROI greatest on new machines where degradation costs are totally 
+avoided 
+• Volume discount pricing available for >10k ounce orders 
+• Monthly installment payments over ROI cycle time 
+• Meets GAAP accounting criteria for capital expense 
+• If qualified based on HVAC-intensity, no cost saving sharing plans 
+available 
+Payment Options 
+ 
+No cost, shared savings:  Powertron Global provides flexible payment 
+arrangements. No upfront outlay is required in most deployment situations. If 
+a customer requires confirmatory testing, some initial charges may apply but 
+would be recouped upon deployment. 
+  
+• Full payment for product is expected within 90 days of a completed 
+deployment unless other arrangements are made. 
+ 
+• Payments can be made on a Monthly Installment Plan that syncs-up with 
+a customer’s initial payback period, typically 12-24 installments. 
+ 
+• Enterprises with campus-like facilities serviced by large chiller plants 
+controlled by Building Management Systems may qualify for no cost, 
+savings sharing plans. Typically, these 50/50 sharing arrangements last 
+for a set contract period, e.g., 4 years. Thereafter the customer keeps all 
+generated savings. To learn more about our ThEOS Program (click here) 
+ 
+• For customers committed to allocating spend with minority suppliers, 
+Powertron’s MBE/WBE partner Argent Associates can manage the 
+entire transaction from purchasing through deployment (MBE Fact 
+Sheet link) 
+
+

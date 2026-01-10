@@ -1,0 +1,49 @@
+30        IPMVP Framework and Options 
+ 
+ 
+some complex HVAC system changes.  
+4.9.1 Option D: Types of Simulation Programs  
+Information on building simulation programs in common use in different parts of the world can 
+be found in Appendix C herein  
+Whole-building-simulation programs usually use hourly calculation techniques. However 
+simplified HVAC system models may also be used if the building’s heat losses, heat gains, 
+internal loads, and HVAC systems are simple. Other types of special-purpose programs may be 
+used to simulate energy use and operation of devices or industrial processes.  
+Any software used must be well documented and well understood by the user. Due to the wide 
+variety of available methods, it is prudent to receive acceptance by the owner or project 
+authority of the proposed modeling program before commencing analysis. 
+4.9.2 Option D: Calibration  
+Savings determined with Option D are based on one or more complex estimates of energy use. 
+The accuracy of the savings depends on how well the simulation models actual equipment 
+performance, and how well calibrated it is to metered energy performance.  
+Calibration is achieved by verifying that the simulation model reasonably predicts the energy 
+patterns of the facility by comparing model results to a set of calibration data. These calibration 
+data include measured energy data, independent variables and static factor.  
+Calibration of building simulations is usually done with 12 monthly utility bills. These bills should 
+be from a period of stable operation. In a new building, it may take a number of months before 
+full occupancy and before the staff learns the best ways to operate the facility. The calibration 
+data should be documented in the M&V Plan along with a description of its sources.  
+Detailed operating data from the facility help to develop the calibration data. These data might 
+include operating characteristics, occupancy, weather, loads and equipment efficiency. Some 
+variables may be measured for short intervals (day, week or month) or extracted from existing 
+operating logs. The accuracy of meters should be verified for critical measurements. If 
+resources permit, building ventilation and infiltration should be measured because these 
+quantities often vary widely from expectations. One-time measurements will improve simulation 
+accuracy without much additional cost. On/off tests can measure lighting, receptacle loads and 
+motor control centers. These tests can be performed over a weekend using a data logger or 
+building automation system to record whole-facility energy use, usually at one-minute intervals, 
+Sometimes, inexpensive portable loggers, which are synchronized to a common time, are also 
+effective for short-term measurement (Benton et al. 1996, Houcek et al. 1993, Soebarto 1996).  
+Following collection of as much calibration data as possible, the steps in calibrating the 
+simulation are as listed below.  
+1. Assume other necessary input parameters, and document them.  
+2. Whenever possible, gather actual weather data from the calibration period, especially if 
+weather conditions varied significantly from standard-year weather data used in the basic 
+simulations. However, obtaining and preparing actual weather data for use with a simulation 
+may be time-consuming and expensive. If developing an actual weather data file is too 
+difficult, then adjust an average weather file to resemble actual weather data using valid 
+statistical methods.  
+3. Run the simulation and verify that it predicts operating parameters such as temperature and 
+humidity.  
+4. Compare the simulated energy results with the metered energy data from the calibration 
+period, on an hourly or monthly basis.  

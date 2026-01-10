@@ -1,0 +1,31 @@
+Energy Conservation Method (ECM) Content
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the 
+effects of thermal degradation and fouling on the heat exchange surfaces. 
+A diagnostic examination of the pilot equipment was implemented to determine if the operational 
+conditions of the systems were satisfactory. Baseline M&V was recorded and then the proper amount and 
+type of PermaFrost NMR® was injected directly into the suction side of the refrigerant loop. At the end of 
+this gestation period, Post M&V results were taken in the identical manner as in the baseline, taking special 
+care to match the same or very similar outside air temperatures and entering DB air temperatures to assure 
+repetition within the test format therefore no weather adjustments were required.
+The following report produces the utilization of the International Performance Measurement and 
+Verification Protocol (IPMVP) as the M&V framework for calculations. Brian Patrick of Major Financial Services Firm 
+helped facilitate this pilot. Powertron Global’s Chief Science Officer and Forensic Mechanical Engineer, 
+[Senior Energy Engineer] CSO, CMC, FME performed the final calculations.
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+kW = Volts * Amps * Power Factor of .9/1000 (for Single Phase)
+ 
+ 
+BTUH = CFM * 4.5 * Wet Bulb Enthalpy Delta
+ 
+kW/Ton = kW / Actual Tonnage
+ 
+ 
+Percentage Eﬃciency = Measured BTUH / Manufacturers Design BTUH
+ 
+Coeﬃcient of Performance (COP) = (12 / kW per ton /3.412)
+ 
+Refrigerant Approach = Supply Air DB – Saturated Evaporator Temperature
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

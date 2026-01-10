@@ -1,0 +1,67 @@
+®
+7
+HVAC/R Eﬃciency Study Results
+Cost to National Restaurant Chain to Operate the RTU’s Baseline vs Post
+The next chart illustrates how much money the efficiency performance loss of the pilot RTU’s was costing Ruby 
+Tuesday in the way of wasted energy each and every day they were operating prior to the ECM. The average 
+cost to operate these RTU’s as calculated in kW/ ton was 1.50 in the Baseline. When originally installed, the 
+kW/ton rating for units like these usually ranges from 1.0 to 1.2 kW/ton. This means National Restaurant Chain was 
+paying up to 26.7% more than design for energy to run the RTU’s as a direct result of the reduced level of 
+performance. These kW/ton ratings are very much in line with the ASHRAE loss of performance and cost to 
+operate numbers.
+  
+The restored average kW/ton rating following the ECM is now 1.13. This represents a 24.7% reduction in 
+energy costs from the baseline for every ton of cooling produced. It also brings down the National Restaurant Chain costs to 
+operate the RTU’s to just 1.8% off of design. This resulted in a payback period to National Restaurant Chain of 
+approximately 12 months. Over just a few years these accumulated savings will greatly reduce the eventual 
+CapEx costs to replace the RTU’s when they finally reach the end of their useful life.   
+Original Design
+Eﬃciency
+ASHRAE Projected
+Cost to Operate
+Over Time
+Actual Cost to
+Operate National Restaurant Chain
+Systems As Is
+Operational Cost %
+Actual National Restaurant Chain HVAC/R Operating Cost
+vs. ASHRAE Historical Performance
+-40
+-20
+00
+20
+40
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+ 
+ 
+ 
+Avg Age of National Restaurant Chain
+Equipment
+11
+EXPECTED COST
+Age of HVAC/R Units
+24.7%
+in Energy
+Savings
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

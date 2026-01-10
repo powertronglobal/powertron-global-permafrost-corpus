@@ -1,0 +1,56 @@
+ANSI - Compatibility with Mineral Oils: Completed 
+ 
+Results: Compatible 
+ 
+ 
+ANSI - Compatibility with Synthetics: Completed 
+ 
+Results: Compatible 
+ 
+ 
+ANSI - Seal Compatibility Index: Completed 
+ 
+Results: Compatible 
+ 
+ 
+ARI Modified 210/240: Testing Unitary air conditioning and air source heat pump equipment. 
+ 
+This standard is intended for the guidance of the industry, including manufacturers, engineers, installers, contractors, 
+and users. All procedures are defined by ARI and run under ARI supervision. The tests are independently monitored by 
+ARI field engineers. Because ARI Standard 210 required constant load and humidity control, ARI modified the test to 
+measure heat transfer at the test site and actual location for 
+the HVAC systems. 
+ 
+ 
+ARI Modified 550: Testing Water chilling packages using the vapor compression cycle. 
+ 
+This standard is intended for the guidance of the industry, including manufacturers, engineers, installers, contractors, 
+and users. The standard applies to all vapor compression refrigeration water chilling 
+packages including one or more hermetic or open drive compressors (centrifugal, rotary, screw, scroll, reciprocating, or 
+other types), equipped with either water-cooled, air-cooled, evaporative cooled 
+condensers, or supplied without a condenser. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

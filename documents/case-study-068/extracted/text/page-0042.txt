@@ -1,0 +1,27 @@
+A
+SPACE CENTER A VISITOR COMPLEX
+WALK-IN COOLER
+PROJECT SUMMARY
+JOB # 8587 C.O. #1 & #2
+November 24, 2015 / January 6, 2016
+This project summary reflects the equipment operation and capacity status as of the
+above date, which is the last day of testing at the site.
+The following comments are based on report review and the field technician’s
+observations.
+1.
+WALK-IN COOLER
+1.1
+The voltage and amperage measurements were taken during the pretest
+as well as the post testing with results indicated below.
+Volts
+Amps
+Volts
+Amps
+204 V
+7.6 A
+204 V
+6.5 A
+Pretest
+Post Test
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

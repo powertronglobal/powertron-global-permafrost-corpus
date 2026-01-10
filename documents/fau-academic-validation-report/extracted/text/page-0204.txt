@@ -1,0 +1,39 @@
+104        Appendix B Uncertainty 
+ 
+Determination of energy savings requires estimating a difference in energy levels, rather than 
+simply measuring the level of energy itself. In general, calculating a difference to suit a Retail Chain A 
+relative precision criterion requires better absolute precision in the component measurements 
+than the absolute precision required of the difference. For example, suppose the average load is 
+around 500 kW, and the anticipated savings are around 100 kW. A ±10% error with 90% 
+confidence (“90/10”) criterion can be applied two ways: 
+ 
+If applied to the load measurements, absolute precision must be 50 kW (10% of 500 kW) at 
+90% confidence.  
+ 
+If applied to the reported savings, absolute precision in the savings must be 10 kW (10% of 
+100 kW) at the same 90% confidence level. To achieve this 10 kW absolute precision in 
+reported savings requires component measurement absolute precisions of 7 kW (using 
+Equation B-19, if both components are to have the same precision).  
+Clearly the application of the 90/10 confidence/precision criterion at the level of the savings 
+requires much more precision in the load measurement than a 90/10 requirement at the level of 
+the load. 
+The precision criterion may be applied not only to energy savings, but also to parameters that 
+determine savings. For example, suppose the savings amount is the product of the number (N) 
+of units, hours (H) of operation, and change (C) in watts:  Savings = N x H x C. The 90/10 
+criterion could be applied separately to each of these parameters. However, achieving 90/10 
+precision for each of these parameters separately does not imply that 90/10 is achieved for the 
+savings, which is the parameter of ultimate interest. In fact using Equation B-20, the precision at 
+90% confidence would only be ±17%. On the other hand, if the number of units and change in 
+watts are assumed to be known without error, 90/10 precision for hours implies 90/10 precision 
+for savings. 
+The precision standard could be imposed at various levels. The choice of level of 
+disaggregation dramatically affects the M&V design and associated costs. In general, data 
+collection requirements increase if precision requirements are imposed on each component. If 
+the primary goal is to control savings precision for a project as a whole, it is not necessary to 
+impose the same precision requirement on each component.   
+B-6   Example Uncertainty Analysis 
+To illustrate the use of the various statistical tools for uncertainty analysis, Table B-3 shows an 
+example spreadsheet regression model output. It is a regression of a building’s 12 monthly 
+electric-utility consumption-meter values and cooling degree days (CDD) over a one-year 
+period. This is just a partial spreadsheet output. Specific values of interest are highlighted in 
+italics. 

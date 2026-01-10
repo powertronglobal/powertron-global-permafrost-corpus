@@ -1,0 +1,20 @@
+{
+  "source": "Energy Services Company A",
+  "industry": "energy_services",
+  "location_obfuscated": "West Coast US, CA",
+  "processed_date": "2026-01-08T20:01:10.253440",
+  "files": [
+    {
+      "obfuscated_file": "baseline.parquet",
+      "rows": 110486,
+      "columns": 45,
+      "size_kb": 6293.3
+    },
+    {
+      "obfuscated_file": "post.parquet",
+      "rows": 92640,
+      "columns": 44,
+      "size_kb": 5222.9
+    }
+  ]
+}

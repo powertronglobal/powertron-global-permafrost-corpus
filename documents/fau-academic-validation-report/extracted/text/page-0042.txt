@@ -1,0 +1,367 @@
+42 
+Table 4 Summary of Juno Beach test unit parameters before and after PermaFrost NMR® addition 
+Parameter
+Unit 1 
+Before
+After
+Unit 2 
+Before
+After
+Unit 3 
+Before
+After
+Unit 4 
+Before
+After
+Average 
+Delta 
+Percent 
+Delta
+Goal 
+Met?
+Percent Delta
+Voltage
+240.1
+240.1
+241.8
+241.8
+239.7
+239.7
+239
+239
+0
+0.0% n/a
+Should not vary significantly since thsisia basis for 
+delivering power to equipment
+Amperage
+8.7
+7.9
+7.0
+6.8
+7.1
+6.7
+8.8
+8.3
+-0.475
+-6% Yes
+Reduce Amperage demand = higher efficiency devices 
+operating properly, which reduces amp draw.  Expect 
+significnat decrease as frictionis reduced
+Suction Refrigerant Temp
+40.6
+36.7
+53.6
+52.5
+53.1
+49.3
+49.1
+46.4
+n/a
+Comparative statistic only, function of air temp of 
+outside and effect on building
+Discharge Refrigerant Temp
+114.1
+108.1
+115.2
+109.9
+113.7
+107.6
+136.4
+114.4
+n/a
+Comparative statistic only, function of air temp of 
+outside and effect on building
+Entering Air Temp DB
+86
+84.7
+86
+85.7
+87.6
+85.4
+86
+85.6
+n/a
+Comparative statistic only, function of air temp of 
+outside and effect on building
+Leaving Air Temp DB
+67.6
+63
+62.3
+60.4
+66.8
+64.3
+65.8
+63.8
+n/a
+Comparative statistic only, function of air temp of 
+outside and effect on building
+Entering Air Temp WB
+72
+73
+72
+73.5
+72
+73
+72
+73
+n/a
+Comparative statistic only, function of air temp of 
+outside and effect on building
+Leaving Air Temp WB
+60.8
+59
+59.7
+59.5
+60
+59.9
+59.4
+59
+n/a
+Comparative statistic only, function of air temp of 
+outside and effect on building
+Actual CFM
+325
+325
+325
+325
+325
+325
+325
+325
+0
+0% Yes
+Should not change - function of air handler
+Actual Coil Capacity Btuh
+12,899
+16,029
+13,996
+16,205
+13,704
+15,239
+14,303
+16,029
+2149.873
+16% Yes
+Should increase if efficiency increases - goal is to hav 
+emore available cooling
+Actual Coil Capacity Tons
+1.07
+1.34
+1.17
+1.35
+1.14
+1.27
+1.19
+1.34
+0.179156
+16% Yes
+Better efficiency = more avaialble cooling 
+Enthalpy Delta (from table)
+8.82
+10.96
+9.57
+11.08
+9.37
+10.42
+9.78
+10.96
+1.47
+16% n/a
+Delta should increase with better efficiency
+Total Watts
+1,880
+1,707
+1,523
+1,480
+1,532
+1,445
+1,893
+1,785
+-102.56
+-6% Yes
+Comparative statistic only
+Design SEER
+10.2
+10.2
+10.2
+10.2
+n/a
+Design EER
+9.2
+9.2
+9.2
+9.2
+n/a
+Design Cooling Capacity
+18300
+18300
+18300
+18300
+n/a
+Design tonnage
+1.5
+1.5
+1.5
+1.5
+n/a
+Should decrease as efficiency improves
+Phase of Power/ Wattage factor
+3
+0.9
+3
+0.9
+3
+0.9
+3
+0.9
+Watts should decrease as amperage decreases
+Total Watts Normalized for Weather
+1,804
+1,444
+1,508
+1,845
+0% Yes
+Should decrease as efficiency improves
+Watts Per Ton
+1,678
+1,277
+1,238
+1,096
+1,320
+1,138
+1,548
+1,337
+-234.021
+-16% Yes
+Adjusted Baseline Tonnage
+1.34
+1.35
+1.27
+1.34
+Adjusted Baseline Total Watts
+2,242
+1,671
+1,677
+2,067
+-1914.35
+OAT at time of readings
+94.2
+90.4
+95.4
+90.4
+90.4
+89
+97
+88.1
+n/a
+Comparative statistic only
+Humidity (%)
+62
+94
+62
+92
+62
+92
+62
+94
+Efficiency of System
+70%
+88%
+76%
+89%
+75%
+83%
+78%
+88%
+0.117479
+16%
+Comparative statistic only
+Delta T
+18.4
+21.7
+23.7
+25.3
+20.8
+21.1
+20.2
+21.8
+1.7
+8%
+kW (volts x amps x .85 x .9 /1000)
+1.60
+1.45
+1.29
+1.26
+1.30
+1.23
+1.61
+1.52
+-0.08718
+-6%
+Demand of HVAC system on graid - need to show 
+decrease
+Adjusted Total Watts
+2,242
+1,706
+1,671
+1,480
+1,677
+1,445
+2,067
+1,785
+-310.111
+-16%
+Watts should decrease as amperage decreases
+Btuh Coil Capacity
+12,899
+16,029
+13,996
+16,205
+13,704
+15,239
+18,428
+16,029
+1118.813
+8% Yes
+Should increase if efficiency increases - goal is to hav 
+emore available cooling
+System Efficiency
+70.49%
+87.59%
+76.48%
+88.55%
+74.88%
+83.27%
+78.16%
+87.59%
+0.117479
+16% Yes
+Should increase if efficiency increases 
+EER (Btuh / Watts)
+7.15
+9.39
+9.70
+10.95
+9.09
+10.54
+7.75
+8.98
+1.544608
+18% Yes
+Should increase if efficiency increases 
+Percent EER
+78%
+102%
+105%
+119%
+99%
+115%
+84%
+98%
+Increase in EER
+24%
+14%
+16%
+13%
+17%
+Yes

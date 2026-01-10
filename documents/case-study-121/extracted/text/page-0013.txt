@@ -1,0 +1,134 @@
+®
+2.91
+POST
+BASELINE
+2.22
+kW/ton
+REDUCTION
+23.7%
+REDUCTION
+REDUCTION
+POST
+BASELINE
+Calculated Annual kWh 
+23.5%
+28.9%
+POST
+BASELINE
+Temperature Delta
+IMPROVEMENT
+POST
+BASELINE
+4.0
+Refrigerant Approach
+45%
+4.5
+15,470
+11,830
+Key Results for Orlando WIF with PermaFrost NMR® ECM
+HTP
+HTE46-164B-D
+W07F39150603001
+R404
+1.60
+3,500
+2007
+System Description
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+Notes: This pilot refrigeration system provides cooling 
+to the exterior freezer. It is estimated the system runs 
+approximately 3,500 hours annually prior to the ECM 
+being implemented. 
+Images below are the measured DB readings directly 
+across the evaporator coil in the baseline and post data 
+collection. 
+2.2
+5.8
+BASELINE
+POST
+209.00
+11.00
+28
+67.7
+102.5
+240
+36
+30.2
+5.8
+2.20
+3.38
+1.52
+2.22
+2920
+3.38
+11,830
+1.59
+95.0%
+84
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Suction Temperature  
+Suction Pressure 
+ 
+Discharge Temperature 
+ 
+Discharge Pressure 
+ 
+Entering DB Evaporator Temp 
+ 
+Leaving DB Evaporator Temp 
+ 
+Temp Delta from Evaporator  
+Refrigerant Approach 
+ 
+kW (V x A x PF x Sq Root of 3) 
+ 
+Actual Operating Tons 
+ 
+Calculated kW/Ton 
+ 
+Unit CFM 
+ 
+KW (Following Regression Analysis)  
+Annual kWh (Following Regression Analysis) 
+ 
+Coeﬃcient of Performance (COP)  
+System Eﬃciency 
+ 
+OAT 
+ 
+209.00
+11.20
+27
+66.2
+103.2
+245.1
+35.5
+31
+4.5
+4.00
+3.44
+1.18
+2.91
+2920
+4.42
+15,470
+1.21
+73.8%
+84
+    12
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

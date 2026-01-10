@@ -1,0 +1,684 @@
+{
+  "title": "PermaFrost NMR Decision Framework",
+  "version": "1.0.0",
+  "last_updated": "2025-12-28",
+  "purpose": "Structured decision trees for AI to provide diagnostic guidance on treatment recommendations",
+
+  "decision_trees": {
+    "should_treat": {
+      "name": "Should We Treat This System?",
+      "description": "Primary decision tree for treatment viability assessment",
+      "entry_point": "check_mechanical_condition",
+      "nodes": {
+        "check_mechanical_condition": {
+          "question": "Is the system mechanically functional (compressor running, no major failures)?",
+          "type": "boolean",
+          "yes": "check_refrigerant_status",
+          "no": "outcome_fix_mechanical_first"
+        },
+        "check_refrigerant_status": {
+          "question": "Is refrigerant charge within acceptable limits (not >20% low)?",
+          "type": "boolean",
+          "yes": "check_refrigerant_leaks",
+          "no": "outcome_address_charge_first"
+        },
+        "check_refrigerant_leaks": {
+          "question": "Is the system free of major refrigerant leaks?",
+          "type": "boolean",
+          "yes": "check_refrigerant_compatibility",
+          "no": "outcome_fix_leaks_first"
+        },
+        "check_refrigerant_compatibility": {
+          "question": "What refrigerant type?",
+          "type": "choice",
+          "options": {
+            "R-22": "check_equipment_lifespan",
+            "R-410A": "check_equipment_lifespan",
+            "R-407C": "check_equipment_lifespan",
+            "R-134a": "check_equipment_lifespan",
+            "R-404A": "check_equipment_lifespan",
+            "Ammonia": "outcome_ammonia_formulation",
+            "CO2": "outcome_not_validated",
+            "Other": "check_formulation_availability"
+          }
+        },
+        "check_formulation_availability": {
+          "question": "Contact manufacturer to verify formulation compatibility for this refrigerant type",
+          "type": "action",
+          "next": "check_equipment_lifespan"
+        },
+        "check_equipment_lifespan": {
+          "question": "Is the equipment expected to remain in service for at least 1 year?",
+          "type": "boolean",
+          "yes": "check_equipment_age",
+          "no": "outcome_insufficient_payback_time"
+        },
+        "check_equipment_age": {
+          "question": "How old is the equipment?",
+          "type": "range",
+          "options": {
+            "0-2 years": "outcome_treat_with_lower_expectations",
+            "2-5 years": "outcome_good_candidate",
+            "5-15 years": "outcome_ideal_candidate",
+            "15+ years": "outcome_excellent_candidate"
+          }
+        },
+        "outcome_fix_mechanical_first": {
+          "type": "outcome",
+          "recommendation": "DO NOT TREAT",
+          "reason": "System has mechanical issues that must be resolved first. PermaFrost addresses thermal efficiency, not mechanical problems.",
+          "action": "Repair or replace failed components before considering treatment."
+        },
+        "outcome_address_charge_first": {
+          "type": "outcome",
+          "recommendation": "DO NOT TREAT YET",
+          "reason": "System is significantly undercharged. Treatment requires proper refrigerant charge for accurate baseline measurement.",
+          "action": "Recharge system to proper levels, then reassess for treatment."
+        },
+        "outcome_fix_leaks_first": {
+          "type": "outcome",
+          "recommendation": "DO NOT TREAT",
+          "reason": "Major refrigerant leak will cause PermaFrost to leak out with refrigerant.",
+          "action": "Locate and repair leaks before treatment."
+        },
+        "outcome_ammonia_formulation": {
+          "type": "outcome",
+          "recommendation": "REQUIRES SPECIALIZED FORMULATION",
+          "reason": "Ammonia systems require ammonia-compatible PermaFrost variant.",
+          "action": "Verify ammonia-compatible formulation availability before proceeding."
+        },
+        "outcome_not_validated": {
+          "type": "outcome",
+          "recommendation": "NOT RECOMMENDED",
+          "reason": "No documented case studies with CO2 refrigeration systems.",
+          "action": "Cannot recommend treatment without validation data."
+        },
+        "outcome_insufficient_payback_time": {
+          "type": "outcome",
+          "recommendation": "NOT RECOMMENDED",
+          "reason": "Insufficient operational time to realize ROI from treatment.",
+          "action": "Treatment cost unlikely to be recovered before equipment replacement."
+        },
+        "outcome_treat_with_lower_expectations": {
+          "type": "outcome",
+          "recommendation": "EXCELLENT PREVENTIVE CANDIDATE",
+          "reason": "New equipment has minimal existing degradation BUT treating now prevents ALL future degradation over equipment lifetime.",
+          "expected_immediate_improvement": "5-15%",
+          "preventive_roi": "600-800% lifetime",
+          "action": "Present BOTH preventive and restorative ROI calculations. Preventive treatment yields highest lifetime ROI (~2x higher than waiting until year 10).",
+          "key_insight": "Do NOT evaluate by immediate improvement alone - evaluate by lifetime avoided degradation cost"
+        },
+        "outcome_good_candidate": {
+          "type": "outcome",
+          "recommendation": "GOOD CANDIDATE",
+          "reason": "Equipment has had sufficient time for oil fouling but is not yet severely degraded.",
+          "expected_improvement": "15-25%",
+          "action": "Proceed with standard treatment protocol."
+        },
+        "outcome_ideal_candidate": {
+          "type": "outcome",
+          "recommendation": "IDEAL CANDIDATE",
+          "reason": "Equipment in optimal age range - significant oil fouling accumulated but system still mechanically sound.",
+          "expected_improvement": "20-35%",
+          "action": "Proceed with treatment - high probability of strong results."
+        },
+        "outcome_excellent_candidate": {
+          "type": "outcome",
+          "recommendation": "EXCELLENT CANDIDATE",
+          "reason": "Older equipment typically has most oil fouling and shows highest improvement percentages.",
+          "expected_improvement": "25-40%",
+          "action": "Verify mechanical condition is sound, then proceed with treatment."
+        }
+      }
+    },
+
+    "formulation_selection": {
+      "name": "Which Formulation?",
+      "description": "Decision tree for selecting correct PermaFrost formulation",
+      "entry_point": "equipment_type",
+      "nodes": {
+        "equipment_type": {
+          "question": "What type of equipment?",
+          "type": "choice",
+          "options": {
+            "Chiller (centrifugal/screw)": "chiller_oil_type",
+            "Chiller (reciprocating)": "chiller_oil_type",
+            "RTU": "dx_oil_type",
+            "Split System": "dx_oil_type",
+            "Package Unit": "dx_oil_type",
+            "CRAC/CRAH": "dx_oil_type",
+            "Refrigeration": "dx_oil_type",
+            "VRF/Mini-split": "dx_oil_type",
+            "Ammonia System": "outcome_ammonia"
+          }
+        },
+        "chiller_oil_type": {
+          "question": "What type of compressor oil does the chiller use?",
+          "type": "choice",
+          "options": {
+            "Mineral Oil": "outcome_chiller_mineral",
+            "POE (Polyolester)": "outcome_chiller_synthetic",
+            "PAG": "outcome_chiller_synthetic",
+            "Alkylbenzene": "outcome_chiller_mineral",
+            "Unknown": "determine_oil_by_refrigerant_chiller"
+          }
+        },
+        "dx_oil_type": {
+          "question": "What type of compressor oil does the system use?",
+          "type": "choice",
+          "options": {
+            "Mineral Oil": "outcome_dx_mineral",
+            "POE (Polyolester)": "outcome_dx_synthetic",
+            "PAG": "outcome_dx_synthetic",
+            "Unknown": "determine_oil_by_refrigerant_dx"
+          }
+        },
+        "determine_oil_by_refrigerant_chiller": {
+          "question": "What refrigerant does the chiller use?",
+          "type": "choice",
+          "hint": "Oil type can usually be determined by refrigerant",
+          "options": {
+            "R-22": "outcome_chiller_mineral",
+            "R-123": "outcome_chiller_mineral",
+            "R-134a": "outcome_chiller_synthetic",
+            "R-410A": "outcome_chiller_synthetic",
+            "R-407C": "outcome_chiller_synthetic"
+          }
+        },
+        "determine_oil_by_refrigerant_dx": {
+          "question": "What refrigerant does the system use?",
+          "type": "choice",
+          "hint": "Oil type can usually be determined by refrigerant",
+          "options": {
+            "R-22": "outcome_dx_mineral",
+            "R-410A": "outcome_dx_synthetic",
+            "R-407C": "outcome_dx_synthetic",
+            "R-404A": "outcome_dx_synthetic",
+            "R-134a": "outcome_dx_synthetic"
+          }
+        },
+        "outcome_chiller_mineral": {
+          "type": "outcome",
+          "formulation": "Chiller Mineral",
+          "description": "PermaFrost NMR formulated for mineral oil chiller systems",
+          "compatible_oils": ["Mineral oil", "Alkylbenzene"],
+          "compatible_refrigerants": ["R-22", "R-123"]
+        },
+        "outcome_chiller_synthetic": {
+          "type": "outcome",
+          "formulation": "Chiller Synthetic",
+          "description": "PermaFrost NMR formulated for synthetic oil chiller systems",
+          "compatible_oils": ["POE", "PAG"],
+          "compatible_refrigerants": ["R-134a", "R-410A", "R-407C"]
+        },
+        "outcome_dx_mineral": {
+          "type": "outcome",
+          "formulation": "DX Mineral",
+          "description": "PermaFrost NMR formulated for mineral oil DX systems",
+          "compatible_oils": ["Mineral oil"],
+          "compatible_refrigerants": ["R-22"]
+        },
+        "outcome_dx_synthetic": {
+          "type": "outcome",
+          "formulation": "DX Synthetic",
+          "description": "PermaFrost NMR formulated for synthetic oil DX systems",
+          "compatible_oils": ["POE", "PAG"],
+          "compatible_refrigerants": ["R-410A", "R-407C", "R-404A", "R-134a"]
+        },
+        "outcome_ammonia": {
+          "type": "outcome",
+          "formulation": "Ammonia Compatible",
+          "description": "Specialized PermaFrost NMR formulation for ammonia refrigeration systems",
+          "note": "Verify availability - specialized formulation"
+        }
+      }
+    },
+
+    "payback_estimation": {
+      "name": "Expected Payback Period",
+      "description": "Decision tree for estimating ROI and payback period",
+      "entry_point": "equipment_size",
+      "nodes": {
+        "equipment_size": {
+          "question": "What is the equipment cooling capacity?",
+          "type": "range",
+          "options": {
+            "Small (<25 tons)": "runtime_hours_small",
+            "Medium (25-100 tons)": "runtime_hours_medium",
+            "Large (100-500 tons)": "runtime_hours_large",
+            "Very Large (>500 tons)": "runtime_hours_very_large"
+          }
+        },
+        "runtime_hours_small": {
+          "question": "What are the annual runtime hours?",
+          "type": "range",
+          "options": {
+            "Seasonal (2,000-3,000 hrs)": "utility_rate_small_seasonal",
+            "Extended (3,000-5,000 hrs)": "utility_rate_small_extended",
+            "24/7 (8,000+ hrs)": "utility_rate_small_continuous"
+          }
+        },
+        "runtime_hours_medium": {
+          "question": "What are the annual runtime hours?",
+          "type": "range",
+          "options": {
+            "Seasonal (2,000-3,000 hrs)": "utility_rate_medium_seasonal",
+            "Extended (3,000-5,000 hrs)": "utility_rate_medium_extended",
+            "24/7 (8,000+ hrs)": "utility_rate_medium_continuous"
+          }
+        },
+        "runtime_hours_large": {
+          "question": "What are the annual runtime hours?",
+          "type": "range",
+          "options": {
+            "Seasonal (2,000-3,000 hrs)": "utility_rate_large_seasonal",
+            "Extended (3,000-5,000 hrs)": "utility_rate_large_extended",
+            "24/7 (8,000+ hrs)": "utility_rate_large_continuous"
+          }
+        },
+        "runtime_hours_very_large": {
+          "question": "What are the annual runtime hours?",
+          "type": "range",
+          "options": {
+            "Seasonal (2,000-3,000 hrs)": "utility_rate_vlarge_seasonal",
+            "Extended (3,000-5,000 hrs)": "utility_rate_vlarge_extended",
+            "24/7 (8,000+ hrs)": "utility_rate_vlarge_continuous"
+          }
+        },
+        "utility_rate_small_seasonal": {
+          "question": "What is your utility rate?",
+          "type": "range",
+          "options": {
+            "Low (<$0.08/kWh)": "outcome_24_36_months",
+            "Average ($0.08-0.12/kWh)": "outcome_18_24_months",
+            "High (>$0.12/kWh)": "outcome_12_18_months"
+          }
+        },
+        "utility_rate_small_extended": {
+          "question": "What is your utility rate?",
+          "type": "range",
+          "options": {
+            "Low (<$0.08/kWh)": "outcome_18_24_months",
+            "Average ($0.08-0.12/kWh)": "outcome_12_18_months",
+            "High (>$0.12/kWh)": "outcome_9_12_months"
+          }
+        },
+        "utility_rate_small_continuous": {
+          "question": "What is your utility rate?",
+          "type": "range",
+          "options": {
+            "Low (<$0.08/kWh)": "outcome_12_18_months",
+            "Average ($0.08-0.12/kWh)": "outcome_9_12_months",
+            "High (>$0.12/kWh)": "outcome_6_9_months"
+          }
+        },
+        "utility_rate_medium_seasonal": {
+          "question": "What is your utility rate?",
+          "type": "range",
+          "options": {
+            "Low (<$0.08/kWh)": "outcome_18_24_months",
+            "Average ($0.08-0.12/kWh)": "outcome_12_18_months",
+            "High (>$0.12/kWh)": "outcome_9_12_months"
+          }
+        },
+        "utility_rate_medium_extended": {
+          "question": "What is your utility rate?",
+          "type": "range",
+          "options": {
+            "Low (<$0.08/kWh)": "outcome_12_18_months",
+            "Average ($0.08-0.12/kWh)": "outcome_9_12_months",
+            "High (>$0.12/kWh)": "outcome_6_9_months"
+          }
+        },
+        "utility_rate_medium_continuous": {
+          "question": "What is your utility rate?",
+          "type": "range",
+          "options": {
+            "Low (<$0.08/kWh)": "outcome_9_12_months",
+            "Average ($0.08-0.12/kWh)": "outcome_6_9_months",
+            "High (>$0.12/kWh)": "outcome_under_6_months"
+          }
+        },
+        "utility_rate_large_seasonal": {
+          "question": "What is your utility rate?",
+          "type": "range",
+          "options": {
+            "Low (<$0.08/kWh)": "outcome_12_18_months",
+            "Average ($0.08-0.12/kWh)": "outcome_9_12_months",
+            "High (>$0.12/kWh)": "outcome_6_9_months"
+          }
+        },
+        "utility_rate_large_extended": {
+          "question": "What is your utility rate?",
+          "type": "range",
+          "options": {
+            "Low (<$0.08/kWh)": "outcome_9_12_months",
+            "Average ($0.08-0.12/kWh)": "outcome_6_9_months",
+            "High (>$0.12/kWh)": "outcome_under_6_months"
+          }
+        },
+        "utility_rate_large_continuous": {
+          "question": "What is your utility rate?",
+          "type": "range",
+          "options": {
+            "Low (<$0.08/kWh)": "outcome_6_9_months",
+            "Average ($0.08-0.12/kWh)": "outcome_under_6_months",
+            "High (>$0.12/kWh)": "outcome_under_6_months"
+          }
+        },
+        "utility_rate_vlarge_seasonal": {
+          "question": "What is your utility rate?",
+          "type": "range",
+          "options": {
+            "Low (<$0.08/kWh)": "outcome_9_12_months",
+            "Average ($0.08-0.12/kWh)": "outcome_6_9_months",
+            "High (>$0.12/kWh)": "outcome_under_6_months"
+          }
+        },
+        "utility_rate_vlarge_extended": {
+          "question": "What is your utility rate?",
+          "type": "range",
+          "options": {
+            "Low (<$0.08/kWh)": "outcome_6_9_months",
+            "Average ($0.08-0.12/kWh)": "outcome_under_6_months",
+            "High (>$0.12/kWh)": "outcome_under_6_months"
+          }
+        },
+        "utility_rate_vlarge_continuous": {
+          "question": "What is your utility rate?",
+          "type": "range",
+          "options": {
+            "Low (<$0.08/kWh)": "outcome_under_6_months",
+            "Average ($0.08-0.12/kWh)": "outcome_under_6_months",
+            "High (>$0.12/kWh)": "outcome_under_6_months"
+          }
+        },
+        "outcome_under_6_months": {
+          "type": "outcome",
+          "payback_range": "Under 6 months",
+          "confidence": "High",
+          "comparable_case_studies": ["Major Bank B (11.3 months with lower assumptions)", "Large chillers typically show rapid payback"]
+        },
+        "outcome_6_9_months": {
+          "type": "outcome",
+          "payback_range": "6-9 months",
+          "confidence": "High",
+          "comparable_case_studies": ["Data centers and 24/7 facilities commonly achieve this range"]
+        },
+        "outcome_9_12_months": {
+          "type": "outcome",
+          "payback_range": "9-12 months",
+          "confidence": "High",
+          "comparable_case_studies": ["Major Bank B (11.3 months)", "Typical commercial facilities"]
+        },
+        "outcome_12_18_months": {
+          "type": "outcome",
+          "payback_range": "12-18 months",
+          "confidence": "Medium-High",
+          "comparable_case_studies": ["Standard commercial applications", "Seasonal operations"]
+        },
+        "outcome_18_24_months": {
+          "type": "outcome",
+          "payback_range": "18-24 months",
+          "confidence": "Medium",
+          "comparable_case_studies": ["Lower runtime facilities", "Mild climate zones"]
+        },
+        "outcome_24_36_months": {
+          "type": "outcome",
+          "payback_range": "24-36 months",
+          "confidence": "Lower",
+          "note": "Consider whether ROI meets organizational requirements",
+          "comparable_case_studies": ["Small seasonal systems", "Low utility rate areas"]
+        }
+      }
+    },
+
+    "expected_improvement": {
+      "name": "Expected Improvement Percentage",
+      "description": "Decision tree for estimating expected efficiency improvement",
+      "entry_point": "maintenance_history",
+      "nodes": {
+        "maintenance_history": {
+          "question": "What is the equipment's maintenance history?",
+          "type": "choice",
+          "options": {
+            "Well-maintained (proactive program)": "age_well_maintained",
+            "Standard maintenance (reactive)": "age_standard",
+            "Minimal/neglected maintenance": "age_neglected"
+          }
+        },
+        "age_well_maintained": {
+          "question": "Equipment age?",
+          "type": "range",
+          "options": {
+            "0-2 years": "outcome_5_10_pct",
+            "2-5 years": "outcome_10_15_pct",
+            "5-15 years": "outcome_15_20_pct",
+            "15+ years": "outcome_15_25_pct"
+          }
+        },
+        "age_standard": {
+          "question": "Equipment age?",
+          "type": "range",
+          "options": {
+            "0-2 years": "outcome_8_15_pct",
+            "2-5 years": "outcome_15_25_pct",
+            "5-15 years": "outcome_20_30_pct",
+            "15+ years": "outcome_25_40_pct"
+          }
+        },
+        "age_neglected": {
+          "question": "Equipment age?",
+          "type": "range",
+          "options": {
+            "0-2 years": "outcome_15_20_pct",
+            "2-5 years": "outcome_20_30_pct",
+            "5-15 years": "outcome_30_45_pct",
+            "15+ years": "outcome_35_60_pct"
+          }
+        },
+        "outcome_5_10_pct": {
+          "type": "outcome",
+          "expected_improvement": "5-10%",
+          "rationale": "Well-maintained new equipment has minimal oil fouling",
+          "note": "Treatment provides protection against future degradation"
+        },
+        "outcome_8_15_pct": {
+          "type": "outcome",
+          "expected_improvement": "8-15%",
+          "rationale": "Limited operating time means limited oil migration"
+        },
+        "outcome_10_15_pct": {
+          "type": "outcome",
+          "expected_improvement": "10-15%",
+          "rationale": "Well-maintained but some fouling accumulation"
+        },
+        "outcome_15_20_pct": {
+          "type": "outcome",
+          "expected_improvement": "15-20%",
+          "rationale": "Moderate fouling even with good maintenance"
+        },
+        "outcome_15_25_pct": {
+          "type": "outcome",
+          "expected_improvement": "15-25%",
+          "rationale": "Older well-maintained equipment still accumulates fouling"
+        },
+        "outcome_20_30_pct": {
+          "type": "outcome",
+          "expected_improvement": "20-30%",
+          "rationale": "Standard maintenance allows significant fouling"
+        },
+        "outcome_25_40_pct": {
+          "type": "outcome",
+          "expected_improvement": "25-40%",
+          "rationale": "Older equipment with standard maintenance has substantial fouling"
+        },
+        "outcome_30_45_pct": {
+          "type": "outcome",
+          "expected_improvement": "30-45%",
+          "rationale": "Neglected equipment accumulates heavy fouling"
+        },
+        "outcome_35_60_pct": {
+          "type": "outcome",
+          "expected_improvement": "35-60%",
+          "rationale": "Maximum fouling scenario - older neglected equipment",
+          "note": "Verify equipment is mechanically sound before proceeding"
+        }
+      }
+    }
+  },
+
+  "preventive_vs_restorative": {
+      "name": "Preventive vs Restorative ROI Assessment",
+      "description": "Decision tree for determining which ROI calculation method to emphasize based on equipment age",
+      "entry_point": "equipment_age_check",
+      "critical_note": "ALWAYS present BOTH calculations regardless of equipment age - let customer decide priorities",
+      "nodes": {
+        "equipment_age_check": {
+          "question": "What is the equipment age?",
+          "type": "range",
+          "options": {
+            "0-3 years": "outcome_preventive_emphasis",
+            "3-10 years": "outcome_hybrid_approach",
+            "10+ years": "outcome_restorative_emphasis"
+          }
+        },
+        "outcome_preventive_emphasis": {
+          "type": "outcome",
+          "emphasis": "PREVENTIVE",
+          "description": "New equipment - emphasize preventive value of treating early",
+          "expected_immediate_improvement": "5-15%",
+          "preventive_roi_range": "600-800%",
+          "restorative_roi_range": "Low (minimal existing degradation to restore)",
+          "key_message": "Treating Day 1 prevents 23+ years of efficiency loss - highest lifetime ROI scenario",
+          "common_objection": "Why treat if only 5-10% immediate improvement?",
+          "counter_argument": "Because preventing $200K+ of lifetime efficiency loss yields nearly 2x higher ROI than waiting. The 5-10% IS the current degradation being restored PLUS you lock in near-design efficiency for equipment lifetime.",
+          "action": "Calculate and display BOTH preventive and restorative ROI side-by-side"
+        },
+        "outcome_hybrid_approach": {
+          "type": "outcome",
+          "emphasis": "BOTH",
+          "description": "Mid-life equipment - both preventive and restorative value apply",
+          "expected_immediate_improvement": "15-25%",
+          "preventive_roi_range": "400-600%",
+          "restorative_roi_range": "300-400%",
+          "key_message": "Equipment has meaningful degradation to restore AND significant remaining life to protect",
+          "action": "Present both calculations - preventive value still substantial for remaining equipment life"
+        },
+        "outcome_restorative_emphasis": {
+          "type": "outcome",
+          "emphasis": "RESTORATIVE",
+          "description": "Older equipment - primary value is restoring existing degradation",
+          "expected_immediate_improvement": "25-40%",
+          "preventive_roi_range": "200-350% (less remaining life to protect)",
+          "restorative_roi_range": "350-500%",
+          "key_message": "Significant existing degradation to restore - immediate impact will be dramatic",
+          "note": "Verify equipment is mechanically sound and not near end-of-life",
+          "action": "Lead with restorative ROI but still show preventive value for remaining life"
+        }
+      }
+    },
+
+  "quick_reference": {
+    "disqualifying_conditions": [
+      "Compressor mechanical failure",
+      "Severe refrigerant undercharge (>20%)",
+      "Major refrigerant leaks",
+      "Equipment scheduled for replacement within 1 year",
+      "CO2 refrigeration systems (not validated)",
+      "Systems without compatible formulation"
+    ],
+    "ideal_candidates": [
+      "Equipment 5-15+ years old",
+      "Standard or neglected maintenance history",
+      "High runtime hours (24/7 operations)",
+      "High utility rates",
+      "Large equipment (>100 tons)"
+    ],
+    "formulation_quick_guide": {
+      "R-22 Chiller": "Chiller Mineral",
+      "R-134a Chiller": "Chiller Synthetic",
+      "R-410A Chiller": "Chiller Synthetic",
+      "R-22 RTU/Split": "DX Mineral",
+      "R-410A RTU/Split": "DX Synthetic",
+      "Ammonia": "Ammonia Compatible (verify availability)"
+    },
+    "average_results": {
+      "overall_average_improvement": "23.2%",
+      "range": "5-60%",
+      "average_annual_savings": "$19,261",
+      "average_payback": "6-24 months"
+    },
+    "preventive_vs_restorative_quick_guide": {
+      "0-3_years": {
+        "roi_type": "PREVENTIVE emphasis",
+        "immediate_improvement": "5-15%",
+        "lifetime_roi": "600-800%",
+        "key_message": "Highest lifetime ROI - treating early prevents ALL future degradation"
+      },
+      "3-10_years": {
+        "roi_type": "BOTH apply",
+        "immediate_improvement": "15-25%",
+        "lifetime_roi": "400-600%",
+        "key_message": "Meaningful restoration AND remaining life protection"
+      },
+      "10+_years": {
+        "roi_type": "RESTORATIVE emphasis",
+        "immediate_improvement": "25-40%",
+        "lifetime_roi": "350-500%",
+        "key_message": "Dramatic immediate improvement from restoring significant degradation"
+      },
+      "critical_rule": "ALWAYS show BOTH preventive and restorative calculations - let customer decide priorities"
+    },
+    "efficiency_projection_logic": {
+      "rule": "Performance_Cap",
+      "description": "PermaFrost restores efficiency TO design spec, not BEYOND it",
+      "logic": "Projected post-treatment efficiency cannot exceed Manufacturer Design Specification. Maximum allowable variance is 1-2% improvement beyond design spec (from restored lubricity at metal contact points).",
+      "example": "A chiller designed for 0.55 kW/ton can achieve 0.54-0.55 kW/ton post-treatment, NOT 0.45 kW/ton",
+      "prohibited_claims": [
+        "Efficiency beyond OEM nameplate specs",
+        "kW/ton values lower than manufacturer design",
+        "COP values higher than manufacturer design",
+        "Improvement percentages that would exceed design efficiency"
+      ],
+      "correct_framing": "PermaFrost RESTORES lost capacity - it returns equipment to near-design performance, not beyond it"
+    },
+    "modern_equipment_sensitivity": {
+      "rule": "High_Fin_Density_Awareness",
+      "description": "Modern high-efficiency equipment is MORE vulnerable to oil fouling, not less",
+      "logic": "High fin density and micro-channel heat exchangers have more surface area, making them more sensitive to the insulating effects of oil boundary layers",
+      "implication": "Prevention treatment is MORE critical on modern equipment, not less important",
+      "common_misconception": "New equipment with POE oil doesn't foul like old units",
+      "correct_response": "Modern designs are actually MORE sensitive to fouling due to increased surface area in high-efficiency heat exchangers"
+    }
+  },
+
+  "training_notes": {
+    "how_to_use": [
+      "Walk through decision trees sequentially based on user information",
+      "Ask clarifying questions matching tree nodes",
+      "Provide outcome recommendations with supporting rationale",
+      "Cross-reference with screening_and_limitations.json for edge cases",
+      "Use quick_reference for rapid assessments",
+      "Use preventive_vs_restorative tree to determine ROI emphasis",
+      "ALWAYS present BOTH preventive and restorative ROI calculations"
+    ],
+    "key_principles": [
+      "Never recommend treatment for mechanically failed systems",
+      "Always set realistic expectations based on equipment factors",
+      "Formulation selection is critical - wrong formulation = poor results",
+      "Payback estimates are directional - actual results depend on many factors",
+      "CRITICAL: Preventive ROI applies to ALL equipment, not just new - it protects remaining life",
+      "Low immediate improvement (5-15%) does NOT mean low value - evaluate by lifetime avoided degradation",
+      "Day 1 treatment yields ~2x higher lifetime ROI than waiting until equipment degrades",
+      "PermaFrost NMR works 100% of the time - variance in results reflects baseline degradation levels"
+    ],
+    "preventive_roi_training": {
+      "definition": "Preventive ROI = Value of PREVENTING future efficiency loss over remaining equipment life",
+      "when_to_emphasize": "New equipment (0-3 years) or immediately after major service/overhaul",
+      "common_mistake": "Dismissing new equipment treatment because immediate improvement is 'only' 5-10%",
+      "correct_approach": "Calculate lifetime avoided degradation cost - treating Day 1 yields 600-800% ROI",
+      "key_insight": "Avoided savings compound yearly because degradation accumulates over time"
+    }
+  }
+}

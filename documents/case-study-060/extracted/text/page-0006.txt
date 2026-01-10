@@ -1,0 +1,38 @@
+0.0
+0.3
+0.6
+0.9
+1.2
+1.5
+5
+Recovered Wasted Energy with ECM – CRAC #59 & #60
+The kW/ton is the standard Unit Cost in the 
+HVAC/R industry. It is the HVAC industry’s 
+standard of determining how much energy is 
+required to create 1 ton of cooling (i.e., conditioned 
+air). When you reduce your unit cost of cooling you 
+are saving regardless of how much cooling is 
+required. 
+The chart to the right illustrates the performance 
+restoration the ECM created in the treated systems 
+(combined). The average cost to operate these 
+systems before it was treated with PermaFrost 
+NMR®,  as calculated in kW/ton,  was 1.50.
+The specific cost to operate these CRAC systems after 
+it was treated with PermaFrost NMR®,  as calculated 
+in kW/ton, is now 1.24. Individual results can be 
+found later in this report.
+Recovered Energy
+Equating to a
+17.3% reduction
+.26 kW/ton
+kW/ton
+Cost to Operate
+Baseline
+Post ECM
+1.50
+1.24
+®
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

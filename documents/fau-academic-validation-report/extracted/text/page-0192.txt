@@ -1,0 +1,76 @@
+92        Appendix B Uncertainty 
+ 
+Table B-1 shows that “t” is 1.80 for 12 data points (DF = 11) and a 90% confidence level. 
+Therefore: 
+ 
+the Absolute Precision is:  
+77
+43
+80
+.1
+
+
+
+SE
+t
+ and  
+ 
+the Relative Precision is:  
+%
+7.7
+000
+,1
+77
+
+
+
+estimate
+SE
+t
+   
+So, there is 90% confidence that the true mean-monthly consumption lies in the range between 
+923 and 1,077 kWh.  It can be said with 90% confidence that the mean value of the 12 
+observations is 1,000 ±7.7%. Similarly it could be said: 
+ 
+with 95% confidence that the mean value of the 12 observations is 1,000 ±9.5%, or 
+ 
+with 80% confidence that the mean value of the 12 observations is 1,000 ±5.8%, or 
+ 
+with 50% confidence that the mean value of the 12 observations is 1,000 ±3.0%. 
+B-2   Modeling 
+Mathematical modeling is used in M&V to prepare the routine-adjustments term in the various 
+versions of Equation 1 in Chapter 4. Modeling involves finding a mathematical relationship 
+between dependent and independent variables. The dependent variable, usually energy, is 
+modeled as being governed by one or more independent variable(s) Xi, (also known as 
+‘explanatory’ variables). This type of modeling is called regression analysis.  
+In regression analysis, the model attempts to “explain” the variation in energy resulting from 
+variations in the individual independent variables (Xi). For example, if one of the X’s is 
+production level, the model would assess whether the variation of energy from its mean is 
+caused by changes in production level. The model quantifies the causation. For example, when 
+production increases by one unit, energy consumption increases by “b” units, where “b” is called 
+the regression coefficient.   
+The most common models are linear regressions of the form:  
+ 
+ 
+ 
+ 
+Y = bo + b1X1 + b2X2 + ….. + bpXp + e 
+ 
+where: 
+ 
+ 
+Y is the dependent variable, usually in the form of energy use during a specific time period 
+(e.g., 30 days, 1 week, 1 day, 1 hour, etc.) 
+ 
+Xit (i = 1, 2, 3, … p) represents the ‘p’ independent variables such as weather, production, 
+occupancy, metering period length, etc. 
+ 
+bi (i = 0, 1, 2, … p) represents the coefficients derived for each independent variable, and 
+one fixed coefficient (b0) unrelated to the independent variables 
+ 
+e represents the residual errors that remain unexplained after accounting for the impact of 
+the various independent  variables. Regression analysis finds the set of bi values that 
+minimizes the sum of squared residual-error terms (thus regression models are also called 
+least-squares models).   
+An example of the above model for a building’s energy use is:  
+ 

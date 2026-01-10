@@ -1,0 +1,24 @@
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling Capacity in Tons  
+Age
+HVAC Equipment Manufacturer
+CVHE710
+L91L11593
+R-123
+500 
+1991
+       Detailed Results for HVAC Equipment Manufacturer Water-Cooled Chiller
+System Description / Design Characteristics
+It is estimated that the chiller runs ~3,744 hours per year prior to the ECM being implemented. Commercial Real Estate Company Realty 
+provided this annual runtime.
+Baseline and Post Measurements
+The identical IPMVP following data points were recorded for Baseline and Post on 8/9/13 and 9/13/13 
+respectively using recently NIST-calibrated devices to insure measurement accuracy. In this test, the outside 
+air temperatures and the incoming condenser water in both periods were identical so no adjustments to the 
+data was necessary. The measurements are as follows: 
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

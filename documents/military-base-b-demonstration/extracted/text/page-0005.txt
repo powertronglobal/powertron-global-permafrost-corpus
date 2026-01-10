@@ -1,0 +1,75 @@
+21-Jul
+20-Jul
+62
+64
+66
+68
+70
+72
+74
+76
+78
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Temperature
+Hours
+2
+     Initial 4 hours
+The container temperature was one degree higher for the Post compared to the Baseline.  The system ran 
+approximately 2 minutes for each degree of heat removed, therefore the post time was adjusted by 2 minutes 
+to normalize the data for the higher temperature in the Post measurement.
+     Results:
+     Pulldown Time
+     Weather Data
+• Set Temperature  25 degrees F.
+Pull Down Time 
+18:20 min
+Initial Box temp 
+61
+Run-time 
+ 
+1:17   
+Avg. temp 
+ 
+72.5
+Pull Down Time 
+16:23 min
+Initial Box temp 
+62
+Run-time 
+ 
+1:08
+Avg. temp 
+ 
+72
+Before treatment
+After PermaFrost® Treatment
+Pull Down Time 
+14:23 min
+Initial Box temp 
+61
+Run-time 
+ 
+1:06
+Avg. temp 
+ 
+72
+Adjusted
+Pull Down Time 
+18:20 min
+Before treatment
+After PermaFrost® Treatment
+After Pull Down Time    14:23 min
+Approx. 21% improvement
+21.5% improvement over the initial 4 hours
+TAI-566 EMIP Demonstration, Military Base B
+July 20 - 22, 2009

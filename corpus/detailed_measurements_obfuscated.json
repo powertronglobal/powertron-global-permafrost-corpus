@@ -1,0 +1,1150 @@
+{
+  "title": "Detailed Measurement Database (Obfuscated)",
+  "version": "1.0.0",
+  "last_updated": "2025-12-28",
+  "note": "Customer names obfuscated for privacy. Technical data preserved.",
+  "total_records": 114,
+  "extraction_stats": {
+    "with_kw_ton": 36,
+    "with_kw": 10,
+    "with_eer": 10,
+    "with_efficiency_pct": 108,
+    "with_savings": 20,
+    "pe_certified": 32
+  },
+  "records": [
+    {
+      "study_id": "CS_001",
+      "source_file": "ISP Provider A",
+      "equipment_type": "CRAC",
+      "capacity_tons": 20.0,
+      "refrigerant": "R-22",
+      "kw_before": 1.5,
+      "kw_after": 1.06,
+      "kw_improvement_pct": 29.3,
+      "efficiency_improvement_pct": 29.2
+    },
+    {
+      "study_id": "CS_002",
+      "source_file": "Major Hotel Chain A_[Louisiana Location]",
+      "equipment_type": "Chiller",
+      "capacity_tons": 104.0,
+      "refrigerant": "R-410A",
+      "kw_per_ton_before": 1.47,
+      "kw_per_ton_after": 1.11,
+      "kw_per_ton_improvement_pct": 24.5,
+      "efficiency_improvement_pct": 7.7
+    },
+    {
+      "study_id": "CS_003",
+      "source_file": "Naval Vessel A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 330.0,
+      "refrigerant": "R-134a",
+      "efficiency_improvement_pct": 3.8
+    },
+    {
+      "study_id": "CS_004",
+      "source_file": "Southern City Facility A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 58.9,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.76,
+      "kw_per_ton_after": 1.47,
+      "kw_per_ton_improvement_pct": 16.5,
+      "efficiency_improvement_pct": 16.5,
+      "pe_certified": true,
+      "certifying_engineer": "[Field Engineer]"
+    },
+    {
+      "study_id": "CS_005",
+      "source_file": "Major Defense Contractor",
+      "equipment_type": "Chiller",
+      "capacity_tons": 6.0,
+      "refrigerant": "R-410A",
+      "efficiency_improvement_pct": 29.5
+    },
+    {
+      "study_id": "CS_006",
+      "source_file": "Major Telecom Provider C",
+      "equipment_type": "RTU",
+      "capacity_tons": 5.68,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 21.4
+    },
+    {
+      "study_id": "CS_007",
+      "source_file": "Telecommunications_DX",
+      "equipment_type": "Chiller",
+      "capacity_tons": 16.0,
+      "refrigerant": "R-22",
+      "eer_before": 13.5,
+      "eer_after": 36.2,
+      "efficiency_improvement_pct": 13.5,
+      "pe_certified": true,
+      "certifying_engineer": "Area Above"
+    },
+    {
+      "study_id": "CS_008",
+      "source_file": "Major Bank B",
+      "equipment_type": "RTU",
+      "capacity_tons": 30.02,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.43,
+      "kw_per_ton_after": 1.13,
+      "kw_per_ton_improvement_pct": 21.0,
+      "efficiency_improvement_pct": 21.0
+    },
+    {
+      "study_id": "CS_009",
+      "source_file": "Healthcare IT Company A",
+      "equipment_type": "Refrigeration",
+      "capacity_tons": 60.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 14.3
+    },
+    {
+      "study_id": "CS_010",
+      "source_file": "Telecom Equipment Manufacturer_plano_chiller",
+      "equipment_type": "Chiller",
+      "capacity_tons": 709.4,
+      "refrigerant": "R-123",
+      "kw_before": 361.4,
+      "kw_after": 0.396,
+      "kw_improvement_pct": 99.9,
+      "efficiency_improvement_pct": 28.5
+    },
+    {
+      "study_id": "CS_011",
+      "source_file": "Grocery Chain A_Grocery Chain A",
+      "equipment_type": "RTU",
+      "capacity_tons": 5.0,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.75,
+      "kw_per_ton_after": 1.18,
+      "kw_per_ton_improvement_pct": 32.6,
+      "efficiency_improvement_pct": 23.3,
+      "annual_savings_usd": 3744,
+      "pe_certified": true,
+      "certifying_engineer": "[Testing Manager], P.E."
+    },
+    {
+      "study_id": "CS_012",
+      "source_file": "Major Global Bank A_OneSquare",
+      "equipment_type": "Chiller",
+      "capacity_tons": 775.0,
+      "refrigerant": "R-123",
+      "kw_per_ton_before": 1.16,
+      "kw_per_ton_after": 1.16,
+      "kw_per_ton_improvement_pct": 0.0,
+      "efficiency_improvement_pct": 46.2
+    },
+    {
+      "study_id": "CS_013",
+      "source_file": "Data Center C",
+      "equipment_type": "CRAC",
+      "capacity_tons": 30.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 47.1
+    },
+    {
+      "study_id": "CS_014",
+      "source_file": "Commercial Tower A",
+      "equipment_type": "DX System",
+      "capacity_tons": 7000.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 19.7,
+      "annual_savings_usd": 21341
+    },
+    {
+      "study_id": "CS_015",
+      "source_file": "Telecom Equipment Manufacturer_IPMVP",
+      "equipment_type": "Chiller",
+      "capacity_tons": 702.7,
+      "refrigerant": "R-134A",
+      "efficiency_improvement_pct": 12.7,
+      "pe_certified": true,
+      "certifying_engineer": "Testing Manager"
+    },
+    {
+      "study_id": "CS_016",
+      "source_file": "Telecom Equipment Manufacturer",
+      "equipment_type": "CRAC",
+      "capacity_tons": 16.5,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 25.9
+    },
+    {
+      "study_id": "CS_017",
+      "source_file": "Major Global Bank A_Longevity",
+      "equipment_type": "RTU",
+      "capacity_tons": 10.73,
+      "efficiency_improvement_pct": 17.76
+    },
+    {
+      "study_id": "CS_018",
+      "source_file": "Food Producer A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 6.06,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 3.265,
+      "kw_per_ton_after": 2.122,
+      "kw_per_ton_improvement_pct": 35.0,
+      "efficiency_improvement_pct": 35.0
+    },
+    {
+      "study_id": "CS_019",
+      "source_file": "Gaming Company A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 98.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 27.1
+    },
+    {
+      "study_id": "CS_020",
+      "source_file": "County Law Enforcement A",
+      "equipment_type": "Split System",
+      "capacity_tons": 26.0,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.62,
+      "kw_per_ton_after": 1.36,
+      "kw_per_ton_improvement_pct": 16.0,
+      "efficiency_improvement_pct": 15.9
+    },
+    {
+      "study_id": "CS_021",
+      "source_file": "Major Hotel Chain A_[Caribbean Location]",
+      "equipment_type": "Refrigeration",
+      "capacity_tons": 2.0,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.24,
+      "kw_per_ton_after": 1.24,
+      "kw_per_ton_improvement_pct": 0.0,
+      "efficiency_improvement_pct": 25.8,
+      "pe_certified": true,
+      "certifying_engineer": "[Testing Manager], P.E."
+    },
+    {
+      "study_id": "CS_022",
+      "source_file": "Major Global Bank Agroup_[New Jersey Location]",
+      "equipment_type": "Chiller",
+      "capacity_tons": 639.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 4.1
+    },
+    {
+      "study_id": "CS_023",
+      "source_file": "Regional Bank A",
+      "equipment_type": "CRAC",
+      "capacity_tons": 6.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 27.5
+    },
+    {
+      "study_id": "CS_024",
+      "source_file": "Fortune 500 Retailer B_refrigeration",
+      "equipment_type": "Refrigeration",
+      "capacity_tons": 30.75,
+      "kw_per_ton_before": 2.96,
+      "kw_per_ton_after": 2.35,
+      "kw_per_ton_improvement_pct": 20.6,
+      "efficiency_improvement_pct": 6.52,
+      "annual_savings_usd": 13000000
+    },
+    {
+      "study_id": "CS_025",
+      "source_file": "Retail Chain D",
+      "equipment_type": "Chiller",
+      "capacity_tons": 25.0,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.52,
+      "kw_per_ton_after": 1.06,
+      "kw_per_ton_improvement_pct": 30.3,
+      "efficiency_improvement_pct": 31.5
+    },
+    {
+      "study_id": "CS_026",
+      "source_file": "Major Pharmaceutical B_[Connecticut Location]",
+      "equipment_type": "Chiller",
+      "capacity_tons": 171.0,
+      "refrigerant": "R-134A",
+      "efficiency_improvement_pct": 6.0,
+      "annual_savings_usd": 305857
+    },
+    {
+      "study_id": "CS_027",
+      "source_file": "Military Base A CRAC",
+      "equipment_type": "Chiller",
+      "capacity_tons": 10.0,
+      "refrigerant": "R-22",
+      "eer_before": 12.5,
+      "eer_after": 23.2,
+      "efficiency_improvement_pct": 17.9,
+      "pe_certified": true,
+      "certifying_engineer": "Area Above"
+    },
+    {
+      "study_id": "CS_028",
+      "source_file": "Major Telecom Provider A_Racine",
+      "equipment_type": "Chiller",
+      "capacity_tons": 200.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 19.6
+    },
+    {
+      "study_id": "CS_029",
+      "source_file": "Real Estate Company A",
+      "equipment_type": "RTU",
+      "capacity_tons": 35.0,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 2.02,
+      "kw_per_ton_after": 1.31,
+      "kw_per_ton_improvement_pct": 35.1,
+      "efficiency_improvement_pct": 35.1
+    },
+    {
+      "study_id": "CS_030",
+      "source_file": "Commercial Property B",
+      "equipment_type": "Chiller",
+      "refrigerant": "R-122",
+      "kw_before": 0.43,
+      "kw_after": 0.32,
+      "kw_improvement_pct": 25.6,
+      "efficiency_improvement_pct": 26.3
+    },
+    {
+      "study_id": "CS_031",
+      "source_file": "Retail Chain A_[Texas City]",
+      "equipment_type": "RTU",
+      "capacity_tons": 15.0,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.448,
+      "kw_per_ton_after": 1.121,
+      "kw_per_ton_improvement_pct": 22.6,
+      "efficiency_improvement_pct": 19.4
+    },
+    {
+      "study_id": "CS_032",
+      "source_file": "Real Estate Company C",
+      "equipment_type": "Chiller",
+      "capacity_tons": 300.0,
+      "refrigerant": "R-134A",
+      "efficiency_improvement_pct": 59.0,
+      "annual_savings_usd": 39462,
+      "pe_certified": true,
+      "certifying_engineer": "[Testing Manager]"
+    },
+    {
+      "study_id": "CS_033",
+      "source_file": "Community Center A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 405.2,
+      "refrigerant": "R-134",
+      "kw_per_ton_before": 1.28,
+      "kw_per_ton_after": 1.13,
+      "kw_per_ton_improvement_pct": 11.7,
+      "efficiency_improvement_pct": 11.6,
+      "pe_certified": true,
+      "certifying_engineer": "[Client Representative]"
+    },
+    {
+      "study_id": "CS_034",
+      "source_file": "Industrial Mfg A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 50.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 9.1
+    },
+    {
+      "study_id": "CS_035",
+      "source_file": "Telecom Equipment Manufacturer_[New Jersey Location]",
+      "equipment_type": "Chiller",
+      "capacity_tons": 703.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 22.9,
+      "pe_certified": true,
+      "certifying_engineer": "Testing Manager"
+    },
+    {
+      "study_id": "CS_036",
+      "source_file": "Latin American Industrial",
+      "equipment_type": "DX System",
+      "capacity_tons": 37.4,
+      "refrigerant": "R-22",
+      "kw_before": 33.3,
+      "kw_after": 27.3,
+      "kw_improvement_pct": 18.0,
+      "efficiency_improvement_pct": 22.5
+    },
+    {
+      "study_id": "CS_037",
+      "source_file": "Financial Services Firm A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 4.6,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 28.2
+    },
+    {
+      "study_id": "CS_038",
+      "source_file": "Major Tire Manufacturer_gadsen",
+      "equipment_type": "Chiller",
+      "capacity_tons": 400.0,
+      "refrigerant": "R-11",
+      "efficiency_improvement_pct": 23.9,
+      "annual_savings_usd": 35750
+    },
+    {
+      "study_id": "CS_039",
+      "source_file": "Major Global Bank A_[Texas City]",
+      "equipment_type": "Chiller",
+      "capacity_tons": 380.0,
+      "refrigerant": "R-134A",
+      "efficiency_improvement_pct": 11.0,
+      "annual_savings_usd": 38852
+    },
+    {
+      "study_id": "CS_040",
+      "source_file": "Regional ISP A",
+      "equipment_type": "CRAC",
+      "capacity_tons": 20.0,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.92,
+      "kw_per_ton_after": 1.92,
+      "kw_per_ton_improvement_pct": 0.0,
+      "efficiency_improvement_pct": 41.4
+    },
+    {
+      "study_id": "CS_041",
+      "source_file": "International Site A Chillers",
+      "equipment_type": "Chiller",
+      "refrigerant": "R-168",
+      "efficiency_improvement_pct": 30.63,
+      "pe_certified": true
+    },
+    {
+      "study_id": "CS_042",
+      "source_file": "Caribbean Telecom Provider2_report",
+      "equipment_type": "CRAC",
+      "capacity_tons": 30.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 6.8
+    },
+    {
+      "study_id": "CS_043",
+      "source_file": "Caribbean Telecom Provider_Metrics",
+      "equipment_type": "Chiller",
+      "refrigerant": "R-407C",
+      "efficiency_improvement_pct": 21.1,
+      "annual_savings_usd": 8671
+    },
+    {
+      "study_id": "CS_044",
+      "source_file": "Regional Telecom A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 30.0,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.14,
+      "kw_per_ton_after": 0.98,
+      "kw_per_ton_improvement_pct": 14.0,
+      "efficiency_improvement_pct": 20.4
+    },
+    {
+      "study_id": "CS_045",
+      "source_file": "Data Center Provider B_[New Jersey Location]",
+      "equipment_type": "Chiller",
+      "capacity_tons": 23.7,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.66,
+      "kw_per_ton_after": 1.25,
+      "kw_per_ton_improvement_pct": 24.7,
+      "efficiency_improvement_pct": 32.5
+    },
+    {
+      "study_id": "CS_046",
+      "source_file": "Beverage Company A",
+      "equipment_type": "Chiller",
+      "refrigerant": "R-85",
+      "kw_before": 0.48,
+      "kw_after": 0.36,
+      "kw_improvement_pct": 25.0,
+      "efficiency_improvement_pct": 25.0
+    },
+    {
+      "study_id": "CS_047",
+      "source_file": "School District A",
+      "equipment_type": "RTU",
+      "capacity_tons": 5.19,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.81,
+      "kw_per_ton_after": 1.14,
+      "kw_per_ton_improvement_pct": 37.0,
+      "efficiency_improvement_pct": 59.3
+    },
+    {
+      "study_id": "CS_048",
+      "source_file": "Telecom Data Center A_Data_center",
+      "equipment_type": "CRAC",
+      "capacity_tons": 34.65,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.57,
+      "kw_per_ton_after": 1.07,
+      "kw_per_ton_improvement_pct": 31.8,
+      "efficiency_improvement_pct": 31.8,
+      "pe_certified": true,
+      "certifying_engineer": "[Testing Manager]"
+    },
+    {
+      "study_id": "CS_049",
+      "source_file": "Space Center Visitor Complex A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 240.0,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.28,
+      "kw_per_ton_after": 1.0,
+      "kw_per_ton_improvement_pct": 21.9,
+      "efficiency_improvement_pct": 11.5,
+      "pe_certified": true,
+      "certifying_engineer": "[Mechanical Engineer]"
+    },
+    {
+      "study_id": "CS_050",
+      "source_file": "Botanical Garden A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 300.0,
+      "refrigerant": "R-123",
+      "efficiency_improvement_pct": 18.2,
+      "annual_savings_usd": 6144
+    },
+    {
+      "study_id": "CS_051",
+      "source_file": "Data Center Provider A_RTU",
+      "equipment_type": "RTU",
+      "capacity_tons": 132.8,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 2.33,
+      "kw_per_ton_after": 2.33,
+      "kw_per_ton_improvement_pct": 0.0,
+      "efficiency_improvement_pct": 42.9
+    },
+    {
+      "study_id": "CS_052",
+      "source_file": "Major REIT B",
+      "equipment_type": "Chiller",
+      "capacity_tons": 12.5,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 29.8
+    },
+    {
+      "study_id": "CS_053",
+      "source_file": "African Telecom Provider B",
+      "equipment_type": "Chiller",
+      "capacity_tons": 194.0,
+      "refrigerant": "R-123",
+      "kw_before": 151.45,
+      "kw_after": 125.82,
+      "kw_improvement_pct": 16.9,
+      "efficiency_improvement_pct": 21.0
+    },
+    {
+      "study_id": "CS_054",
+      "source_file": "Major Property Developer_River",
+      "equipment_type": "RTU",
+      "capacity_tons": 9.27,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.43,
+      "kw_per_ton_after": 1.05,
+      "kw_per_ton_improvement_pct": 26.6,
+      "efficiency_improvement_pct": 26.6
+    },
+    {
+      "study_id": "CS_055",
+      "source_file": "Electrical Distributor A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 7.21,
+      "refrigerant": "R-22",
+      "eer_before": 16.4,
+      "eer_after": 10.8,
+      "efficiency_improvement_pct": 13.5
+    },
+    {
+      "study_id": "CS_056",
+      "source_file": "Nonprofit Fitness A_HI_Reportv3",
+      "equipment_type": "Chiller",
+      "capacity_tons": 101.4,
+      "refrigerant": "R-410A",
+      "kw_per_ton_before": 1.2,
+      "kw_per_ton_after": 1.2,
+      "kw_per_ton_improvement_pct": 0.0,
+      "efficiency_improvement_pct": 4.1
+    },
+    {
+      "study_id": "CS_057",
+      "source_file": "Organization A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 20.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 12.7,
+      "pe_certified": true,
+      "certifying_engineer": "[Client Representative]"
+    },
+    {
+      "study_id": "CS_058",
+      "source_file": "Restaurant Chain C_Donuts",
+      "equipment_type": "Chiller",
+      "capacity_tons": 13.0,
+      "refrigerant": "R-22",
+      "eer_before": 13.3,
+      "eer_after": 13.3,
+      "pe_certified": true,
+      "certifying_engineer": "Area Above"
+    },
+    {
+      "study_id": "CS_059",
+      "source_file": "Major Pharmaceutical A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 98.0,
+      "refrigerant": "R-123",
+      "efficiency_improvement_pct": 46.1,
+      "annual_savings_usd": 1984440,
+      "pe_certified": true,
+      "certifying_engineer": "[Puerto Rico Engineer A]"
+    },
+    {
+      "study_id": "CS_060",
+      "source_file": "Major Sports Arena",
+      "equipment_type": "Chiller",
+      "capacity_tons": 54.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 10.5
+    },
+    {
+      "study_id": "CS_061",
+      "source_file": "Company A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 5.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 22.8
+    },
+    {
+      "study_id": "CS_062",
+      "source_file": "Major Global Bank A_[Connecticut Location]",
+      "equipment_type": "Chiller",
+      "capacity_tons": 1119.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 12.1,
+      "pe_certified": true,
+      "certifying_engineer": "[Client Representative]"
+    },
+    {
+      "study_id": "CS_063",
+      "source_file": "Major Hospital A_Israel",
+      "equipment_type": "CRAC",
+      "capacity_tons": 15.0,
+      "refrigerant": "R-410A",
+      "efficiency_improvement_pct": 11.6
+    },
+    {
+      "study_id": "CS_064",
+      "source_file": "Beverage Company A Tea Factory",
+      "equipment_type": "Chiller",
+      "capacity_tons": 20.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 28.6,
+      "annual_savings_usd": 28236
+    },
+    {
+      "study_id": "CS_065",
+      "source_file": "Major Tire Manufacturer",
+      "equipment_type": "Split System",
+      "capacity_tons": 70.0,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.24,
+      "kw_per_ton_after": 1.24,
+      "kw_per_ton_improvement_pct": 0.0,
+      "efficiency_improvement_pct": 46.1
+    },
+    {
+      "study_id": "CS_066",
+      "source_file": "Major University A",
+      "equipment_type": "RTU",
+      "capacity_tons": 30.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 21.4
+    },
+    {
+      "study_id": "CS_067",
+      "source_file": "Major Telecom Provider A_Cowboys",
+      "equipment_type": "Chiller",
+      "capacity_tons": 970.0,
+      "refrigerant": "R-134",
+      "efficiency_improvement_pct": 15.6,
+      "pe_certified": true,
+      "certifying_engineer": "[Client Building Engineering Director]"
+    },
+    {
+      "study_id": "CS_068",
+      "source_file": "Caribbean Telecom Provider_Imperial",
+      "equipment_type": "Chiller",
+      "capacity_tons": 30.0,
+      "refrigerant": "R-407C",
+      "kw_per_ton_before": 1.34,
+      "kw_per_ton_after": 1.07,
+      "kw_per_ton_improvement_pct": 20.1,
+      "efficiency_improvement_pct": 20.1,
+      "annual_savings_usd": 8290
+    },
+    {
+      "study_id": "CS_069",
+      "source_file": "Non-Profit Organization A",
+      "equipment_type": "RTU",
+      "capacity_tons": 11.14,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.07,
+      "kw_per_ton_after": 1.17,
+      "kw_per_ton_improvement_pct": -9.3,
+      "efficiency_improvement_pct": 19.6,
+      "pe_certified": true,
+      "certifying_engineer": "[Testing Manager]"
+    },
+    {
+      "study_id": "CS_070",
+      "source_file": "Major Global Bank A [Washington DC Area] Report_9_29_17",
+      "equipment_type": "Chiller",
+      "capacity_tons": 4096.0,
+      "refrigerant": "R-123",
+      "efficiency_improvement_pct": 23.7
+    },
+    {
+      "study_id": "CS_071",
+      "source_file": "State Military A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 170.0,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.39,
+      "kw_per_ton_after": 1.19,
+      "kw_per_ton_improvement_pct": 14.4,
+      "efficiency_improvement_pct": 17.6
+    },
+    {
+      "study_id": "CS_072",
+      "source_file": "Major Pharmaceutical B_NB",
+      "equipment_type": "Chiller",
+      "capacity_tons": 1007.0,
+      "refrigerant": "R-757",
+      "efficiency_improvement_pct": 4.6,
+      "annual_savings_usd": 198712
+    },
+    {
+      "study_id": "CS_074",
+      "source_file": "Food Manufacturer A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 50.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 32.3,
+      "pe_certified": true,
+      "certifying_engineer": "Area Above"
+    },
+    {
+      "study_id": "CS_075",
+      "source_file": "Data Center Provider A_chiller",
+      "equipment_type": "Chiller",
+      "capacity_tons": 0.0,
+      "refrigerant": "R-123",
+      "efficiency_improvement_pct": 9.2,
+      "pe_certified": true,
+      "certifying_engineer": "[Client Representative]"
+    },
+    {
+      "study_id": "CS_077",
+      "source_file": "Major Theater Chain_post",
+      "equipment_type": "Chiller",
+      "capacity_tons": 90.0,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.78,
+      "kw_per_ton_after": 1.23,
+      "kw_per_ton_improvement_pct": 30.9,
+      "efficiency_improvement_pct": 42.8,
+      "annual_savings_usd": 16000000
+    },
+    {
+      "study_id": "CS_078",
+      "source_file": "Military Base A Chiller",
+      "equipment_type": "Chiller",
+      "capacity_tons": 170.0,
+      "refrigerant": "R-123",
+      "efficiency_improvement_pct": 16.8,
+      "pe_certified": true,
+      "certifying_engineer": "Area Above"
+    },
+    {
+      "study_id": "CS_079",
+      "source_file": "Commercial Property A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 5.0,
+      "refrigerant": "R-22",
+      "eer_before": 18.5,
+      "eer_after": 26.9,
+      "efficiency_improvement_pct": 22.7
+    },
+    {
+      "study_id": "CS_080",
+      "source_file": "Restaurant Chain A",
+      "equipment_type": "RTU",
+      "capacity_tons": 28.86,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.5,
+      "kw_per_ton_after": 1.13,
+      "kw_per_ton_improvement_pct": 24.7,
+      "efficiency_improvement_pct": 31.6,
+      "annual_savings_usd": 5231
+    },
+    {
+      "study_id": "CS_081",
+      "source_file": "Restaurant Chain Bs_Florida",
+      "equipment_type": "RTU",
+      "capacity_tons": 18.52,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 2.68,
+      "kw_per_ton_after": 2.61,
+      "kw_per_ton_improvement_pct": 2.6,
+      "efficiency_improvement_pct": 30.2
+    },
+    {
+      "study_id": "CS_082",
+      "source_file": "Sports Arena A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 500.0,
+      "refrigerant": "R-22",
+      "kw_before": 317.8,
+      "kw_after": 316.7,
+      "kw_improvement_pct": 0.3,
+      "efficiency_improvement_pct": 24.4
+    },
+    {
+      "study_id": "CS_083",
+      "source_file": "Telecom Provider X",
+      "equipment_type": "CRAC",
+      "capacity_tons": 17.6,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 19.9
+    },
+    {
+      "study_id": "CS_084",
+      "source_file": "Company B",
+      "equipment_type": "Chiller",
+      "capacity_tons": 7.5,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 26.9
+    },
+    {
+      "study_id": "CS_085",
+      "source_file": "Data Center Provider B_NYC2",
+      "equipment_type": "Chiller",
+      "capacity_tons": 1.0,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.35,
+      "kw_per_ton_after": 1.06,
+      "kw_per_ton_improvement_pct": 21.5,
+      "efficiency_improvement_pct": 21.5,
+      "annual_savings_usd": 187815
+    },
+    {
+      "study_id": "CS_086",
+      "source_file": "Professional Sports Org_tour_HQ",
+      "equipment_type": "Split System",
+      "capacity_tons": 4.64,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 35.9
+    },
+    {
+      "study_id": "CS_087",
+      "source_file": "Telecom Data Center A_tower_cell",
+      "equipment_type": "Refrigeration",
+      "capacity_tons": 3.0,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 2.01,
+      "kw_per_ton_after": 2.01,
+      "kw_per_ton_improvement_pct": 0.0,
+      "efficiency_improvement_pct": 25.4,
+      "pe_certified": true,
+      "certifying_engineer": "[Testing Manager]"
+    },
+    {
+      "study_id": "CS_088",
+      "source_file": "Telecommunications_chiller",
+      "equipment_type": "Chiller",
+      "capacity_tons": 510.0,
+      "refrigerant": "R-555",
+      "efficiency_improvement_pct": 18.6,
+      "annual_savings_usd": 206556,
+      "pe_certified": true,
+      "certifying_engineer": "Area Above"
+    },
+    {
+      "study_id": "CS_089",
+      "source_file": "Major REIT A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 54.0,
+      "refrigerant": "R-22",
+      "eer_before": 18.0,
+      "eer_after": 31.7,
+      "efficiency_improvement_pct": 17.8
+    },
+    {
+      "study_id": "CS_090",
+      "source_file": "Telecom Data Center A_tower_cell_2",
+      "equipment_type": "Refrigeration",
+      "capacity_tons": 3.0,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 2.01,
+      "kw_per_ton_after": 2.01,
+      "kw_per_ton_improvement_pct": 0.0,
+      "efficiency_improvement_pct": 25.4
+    },
+    {
+      "study_id": "CS_091",
+      "source_file": "International Bank (South Africa) Report v 2016",
+      "equipment_type": "Chiller",
+      "refrigerant": "R-777",
+      "kw_before": 0.24,
+      "kw_after": 0.17,
+      "kw_improvement_pct": 29.2,
+      "efficiency_improvement_pct": 27.2
+    },
+    {
+      "study_id": "CS_092",
+      "source_file": "Company C",
+      "equipment_type": "Split System",
+      "capacity_tons": 7.5,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 7.8
+    },
+    {
+      "study_id": "CS_093",
+      "source_file": "Healthcare A_post report_v3",
+      "equipment_type": "Chiller",
+      "capacity_tons": 432.0,
+      "refrigerant": "R-134A",
+      "efficiency_improvement_pct": 14.0
+    },
+    {
+      "study_id": "CS_094",
+      "source_file": "Data Center Provider B_[Georgia Location]",
+      "equipment_type": "CRAC",
+      "capacity_tons": 91.6,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.58,
+      "kw_per_ton_after": 1.13,
+      "kw_per_ton_improvement_pct": 28.5,
+      "efficiency_improvement_pct": 28.5,
+      "pe_certified": true,
+      "certifying_engineer": "[Client Representative]"
+    },
+    {
+      "study_id": "CS_095",
+      "source_file": "Major Global Bank A Canada Report_9_29_17",
+      "equipment_type": "Chiller",
+      "capacity_tons": 173.0,
+      "refrigerant": "R-134A",
+      "efficiency_improvement_pct": 47.0
+    },
+    {
+      "study_id": "CS_096",
+      "source_file": "Healthcare System A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 7.7,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 31.7,
+      "pe_certified": true,
+      "certifying_engineer": "Area Above"
+    },
+    {
+      "study_id": "CS_097",
+      "source_file": "Tire Mfg B",
+      "equipment_type": "Chiller",
+      "capacity_tons": 15.0,
+      "refrigerant": "R-22",
+      "eer_before": 12.5,
+      "eer_after": 8.8,
+      "pe_certified": true,
+      "certifying_engineer": "Area Above"
+    },
+    {
+      "study_id": "CS_098",
+      "source_file": "Major University B",
+      "equipment_type": "Chiller",
+      "capacity_tons": 559.4,
+      "refrigerant": "R-123",
+      "efficiency_improvement_pct": 17.7
+    },
+    {
+      "study_id": "CS_099",
+      "source_file": "IT Services Company A",
+      "equipment_type": "Chiller",
+      "refrigerant": "R-22",
+      "kw_before": 2.63,
+      "kw_after": 1.78,
+      "kw_improvement_pct": 32.3,
+      "efficiency_improvement_pct": 32.3
+    },
+    {
+      "study_id": "CS_100",
+      "source_file": "Fortune 500 Retailer B_RTU",
+      "equipment_type": "CRAC",
+      "capacity_tons": 50.8,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 26.5,
+      "annual_savings_usd": 10500000
+    },
+    {
+      "study_id": "CS_101",
+      "source_file": "Restaurant Chain Bs-report_longevity",
+      "equipment_type": "Chiller",
+      "capacity_tons": 15.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 17.3,
+      "pe_certified": true,
+      "certifying_engineer": "[Client Representative]"
+    },
+    {
+      "study_id": "CS_102",
+      "source_file": "Tech Company A CRAC [Texas Location] PF report",
+      "equipment_type": "Chiller",
+      "capacity_tons": 22.0,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.5,
+      "kw_per_ton_after": 1.24,
+      "kw_per_ton_improvement_pct": 17.3,
+      "efficiency_improvement_pct": 17.4
+    },
+    {
+      "study_id": "CS_103",
+      "source_file": "Beverage Company B PermaFrost Performance Report",
+      "equipment_type": "Chiller",
+      "refrigerant": "R-394",
+      "kw_before": 0.64,
+      "kw_after": 0.51,
+      "kw_improvement_pct": 20.3,
+      "efficiency_improvement_pct": 28.4
+    },
+    {
+      "study_id": "CS_104",
+      "source_file": "Island Location A Arena",
+      "equipment_type": "Chiller",
+      "capacity_tons": 76.7,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 18.8
+    },
+    {
+      "study_id": "CS_105",
+      "source_file": "Convenience Chain A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 32.0,
+      "refrigerant": "R-22",
+      "eer_before": 19.6,
+      "eer_after": 21.1
+    },
+    {
+      "study_id": "CS_106",
+      "source_file": "Educational Institution A",
+      "equipment_type": "Chiller",
+      "capacity_tons": 7.5,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 18.0
+    },
+    {
+      "study_id": "CS_107",
+      "source_file": "2022_Restaurant Chain Bs-report_longevity_1",
+      "equipment_type": "Chiller",
+      "capacity_tons": 15.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 17.3,
+      "pe_certified": true,
+      "certifying_engineer": "[Client Representative]"
+    },
+    {
+      "study_id": "CS_108",
+      "source_file": "Defence-Logistics-Agency",
+      "equipment_type": "Split System",
+      "capacity_tons": 5.0,
+      "efficiency_improvement_pct": 30.0
+    },
+    {
+      "study_id": "CS_109",
+      "source_file": "2022_Restaurant-Chain-A_1",
+      "equipment_type": "RTU",
+      "capacity_tons": 28.86,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.5,
+      "kw_per_ton_after": 1.13,
+      "kw_per_ton_improvement_pct": 24.7,
+      "efficiency_improvement_pct": 31.6,
+      "annual_savings_usd": 5231
+    },
+    {
+      "study_id": "CS_110",
+      "source_file": "2022_Major Global Bank A_Longevity_report",
+      "equipment_type": "RTU",
+      "capacity_tons": 10.73,
+      "efficiency_improvement_pct": 17.76
+    },
+    {
+      "study_id": "CS_111",
+      "source_file": "NY-City-Chiller-Study",
+      "equipment_type": "Chiller",
+      "capacity_tons": 1119.0,
+      "refrigerant": "R-22",
+      "efficiency_improvement_pct": 12.1,
+      "pe_certified": true,
+      "certifying_engineer": "[Client Representative]"
+    },
+    {
+      "study_id": "CS_112",
+      "source_file": "SA-Retail-DX-Study",
+      "equipment_type": "RTU",
+      "capacity_tons": 6.0,
+      "refrigerant": "R-410",
+      "pe_certified": true
+    },
+    {
+      "study_id": "CS_113",
+      "source_file": "Texas_Oiltech_PF-NMR_COA",
+      "equipment_type": "Refrigeration",
+      "refrigerant": "R-40",
+      "pe_certified": true
+    },
+    {
+      "study_id": "CS_114",
+      "source_file": "2022_Major Bank B_MDB",
+      "equipment_type": "RTU",
+      "capacity_tons": 30.02,
+      "refrigerant": "R-22",
+      "kw_per_ton_before": 1.43,
+      "kw_per_ton_after": 1.13,
+      "kw_per_ton_improvement_pct": 21.0,
+      "efficiency_improvement_pct": 21.0
+    },
+    {
+      "study_id": "CS_115",
+      "source_file": "2022_UL-Report",
+      "equipment_type": "RTU",
+      "capacity_tons": 7.5,
+      "refrigerant": "R-22",
+      "eer_before": 10.3,
+      "eer_after": 7.98
+    },
+    {
+      "study_id": "CS_116",
+      "source_file": "2022_Oakridge_FAU-report",
+      "equipment_type": "Chiller",
+      "capacity_tons": 1.5,
+      "refrigerant": "R-22",
+      "eer_before": 10.2,
+      "eer_after": 24.0,
+      "efficiency_improvement_pct": 26.3,
+      "annual_savings_usd": 100000,
+      "pe_certified": true
+    }
+  ],
+  "data_quality_note": "Records cleaned to remove extraction errors. Only records with meaningful measurement data retained."
+}

@@ -1,0 +1,32 @@
+®
+Sustainable Financial Beneﬁts
+The following are the final calculated average performance measurements following the PermaFrost NMR®  
+Post measurement period for the Data Center Provider – Santa Clara II Chiller Unit.
+Baseline Energy Consumption
+Baseline Tonnage: 408 tons
+Adjusted kW Baseline: 0.49 kW/ton * 443 tons = 217.1 kW
+Adjusted Baseline kWh: 217.1 kW * 4,350 Annual Operating Hrs = 944,385 kWh
+Revised Cost to Run Baseline: 944,385 kWh * $.11 = $103,882
+Post Energy Consumption
+kW Post: 0.44 kW/ton * 443 tons = 194.9 kW
+Annual kWh Post: 194.9 kW * 4,350 hours = 847,815 kWh
+Annual Cost Post: 847,815 kWh * .11 cents = $93,260
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $103,882 - $93,260 = $10,622
+Estimated Energy Savings Per Month: $10,622 / 12 = $885
+Initial Payback Period (IPP)
+Cost of PermaFrost NMR® installed in the pilot Chiller unit: $12,760
+Estimated Initial Payback Period for Pilot Chiller: $12,760 / $885 = 14.4 months
+Estimated Annual Rate of Return for Pilot Chiller: 83.2%
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period for 
+Data Center Provider for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended in the Post 
+Analysis Period. ROI comes from determining what the cost to run the systems was when operating at the original energy 
+profile to produce the newly restored amount of available tonnage capacity and then subtracting the revised cost to run the 
+systems at the same restored tonnage after the PermaFrost NMR® ECM was installed. This regression analysis is the 
+most widely accepted method of accounting for the reduced number of hours the systems will now operate due to the 
+restored capacity. This restored capacity allows the systems to reach the internal building set points with increased 
+efficiency resulting in reduced compressor demand loading.
+13
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,53 @@
+®
+4
+HVAC/R Eﬃciency Study Results
+The process chiller has the problem of thermal degradation. The high kW/ton ratings measured on site are in 
+line with the ASHRAE loss of performance and cost to operate numbers. The degraded equipment performance 
+is costing Major Pharmaceutical Company Inc. significant money and wasting energy. The equipment is using significantly more kWh to 
+operate then it used when it was new. 
+After ECM the problem of thermal degradation affecting the chiller has been significantly corrected by 
+installing the ECM PermaFrost NMR®. The degraded equipment performance has been restored. The chiller is 
+using significantly less kWh to operate then before the ECM was implemented. The efficiency summary 
+combines the baseline and post tonnage & coefficient of performance. This summary is the cumulative impact 
+of the ECM’s performance on the treated process chiller.
+Chiller System Eﬃciency with PermaFrost NMR® ECM
+1,098 tons
+1,473 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The chiller should be operating @ 1,473 tons of cooling capacity
+• The chiller was operating @ 1,098 tons of cooling capacity
+• The chiller has 375 tons of restored cooling capacity after ECM
+• The chiller should be operating @ 5.5 COP or greater 
+• The chiller was operating @ 3.6 COP
+• The COP of the chiller was restored by 46.1%
+3.6 
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+1098
+tons Baseline
+100%
+CAPACITY @
+75% LOAD
+Baseline
+COP
+Post ECM
+COP
+3.6
+5.5
+5.5
+Post ECM COP
+1473
+tons Post ECM
+46.1%
+Improvement
+375
+Recovered
+Capacity
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

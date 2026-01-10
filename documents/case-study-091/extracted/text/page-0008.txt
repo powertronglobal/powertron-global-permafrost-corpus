@@ -1,0 +1,63 @@
+®
+7
+3,125 tons
+3,397 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The Chiller should be operating @ 3450 tons of cooling capacity
+• The Chiller was operating @ 3,125 tons of cooling capacity prior to
+   installing ECM
+• The Chiller now has 272 tons of restored cooling capacity after ECM
+• The Chiller should be operating @ 8.6 COP or higher
+• The Chiller was operating @ 7.85 COP prior to the ECM
+   and 8.57 following the ECM
+• The COP of the Chiller was increased by 9.2%  following the ECM
+7.85
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+3,125
+tons Baseline
+100%
+CAPACITY @
+100% LOAD
+Baseline
+COP
+Post ECM
+COP
+7.85
+8.57
+8.57
+Post ECM COP
+3,397
+tons Post ECM
+9.2%
+Improvement
+in COP
+272
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of HVAC/R Eﬃciency Study Results
+Chiller Unit Eﬃciency with PermaFrost NMR® ECM
+Like every other business, Data Center Provider has the problem of thermal degradation in its chillers. The lower operating 
+tonnage and COP ratings measured in-situ are in line with the ASHRAE loss of performance and cost to 
+operate numbers in chillers of this age and usage profile. The degraded equipment performance is costing Data Center Provider 
+significant money and wasting energy – and the problem was only going to get worse. Starting the pilot, the 
+chiller is consuming significantly more kWh to operate than it did when it was new. 
+The performance summary includes the measured efficiency and tonnage of the chiller unit in the baseline and 
+post testing periods demonstrating the impact of thermal degradation. 
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 272 operating tons and an average 
+improvement of 9.2% in Coefficient of Performance (COP), significantly reducing the cost to operate the chiller 
+unit throughout the year.
+The HVAC Equipment Manufacturer chiller unit treated has a nominal capacity of 3,450 tons when operating at the conditions in both the 
+baseline and post. During the recording periods the chiller was operating at 97% load.  Since normal operations 
+were not to be changed to accommodate the pilot, the emphasis here is on the delta between baseline and post.  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

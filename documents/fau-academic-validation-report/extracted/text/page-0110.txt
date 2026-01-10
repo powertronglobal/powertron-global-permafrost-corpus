@@ -1,0 +1,83 @@
+10        IPMVP Framework and Options 
+ 
+Operational Verification  
+Approach 
+Typical ECM Application 
+Activities 
+Visual Inspection 
+ECM will perform as anticipated when 
+properly installed; direct measurement 
+of ECM performance is not possible. 
+Examples: wall insulation, windows 
+View and verify the physical installation 
+of the ECM 
+Sample Spot Measurements 
+Achieved ECM performance can vary 
+from published data based on 
+installation details or component load. 
+Examples: fixtures/lamps/ballasts, fans, 
+pumps 
+Measure single or multiple key energy-
+use parameters for a representative 
+sample of the ECM installations 
+Short-Term Performance 
+Testing 
+ECM performance may vary depending 
+on actual load, controls, and/or 
+interoperability of components. 
+Examples: Daylighting sensors and 
+lighting dimming controls, VSD fans, 
+Demand-control ventilation 
+Test for functionality and proper control. 
+Measure key energy-use parameters. 
+May involve conducting tests designed 
+to capture the component operating 
+over its full range or performance data 
+collection over sufficient period of time 
+to characterize the full range of 
+operation.  
+Data Trending and Control-
+Logic Review 
+ECM performance may vary depending 
+on actual load and controls. Component 
+or system is being monitored and 
+controlled through the BAS or can be 
+monitored through independent meters. 
+Set up trends and review data and/or 
+control logic. Measurement period may 
+last for a few days to a few weeks, 
+depending on the period needed to 
+capture the full range of performance. 
+ 
+Operational verification activities can also be applied following the Reporting Period to support 
+energy savings persistence. While ot formally a part of the M&V process, such a practice is 
+beneficial for an organization which has improved its energy efficiency.  It reduces the risk of 
+adverse shifts in performance associated with ECMs that can fail, fade or be bypassed.  
+4.5 Savings Verification  
+The following sections add details about how to determine and report savings.  
+4.5.1  Measurement Boundary  
+Savings may be determined for an entire facility or simply for a portion of it, depending upon the 
+purposes of the reporting. 
+ 
+If the purpose of reporting is to help manage only the equipment affected by the savings 
+program, a measurement boundary should be drawn around that equipment. Then all 
+significant energy requirements of the equipment within the boundary can be determined7. 
+This approach is used in the Retrofit Isolation Options of Chapter 4.7.  
+ 
+If the purpose of reporting is to help manage total facility energy performance, the meters 
+measuring the supply of energy to the total facility can be used to assess performance and 
+savings. The measurement boundary in this case encompasses the whole facility. The 
+Whole Facility Option C, is described in Chapter 4.8.   
+ 
+If baseline or reporting period data are unreliable or unavailable, energy data from a 
+calibrated simulation program can take the place of the missing data, for either part or all of 
+the facility. The measurement boundary can be drawn accordingly. The Calibrated 
+Simulation Option D is described in Chapter 4.9.  
+                                                  
+7 Determination of energy may be by direct measurement of energy flow or by direct measurement of proxies of 
+energy use that give direct indication of energy use.  
+ 
+Table 1 
+Operational 
+Verification 
+Approaches 

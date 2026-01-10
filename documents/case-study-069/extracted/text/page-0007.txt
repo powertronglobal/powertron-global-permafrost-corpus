@@ -1,0 +1,34 @@
+®
+Energy Consumption & Financial Metrics
+2 Chillers Combined
+The following are the final calculated performance measurements following the PermaFrost NMR® Post 
+measurement period for the Military Installation chillers.
+Baseline Energy Consumption
+Baseline Tonnage: 170 tons
+*Adjusted kW Baseline: 1.39 kW/ton * 200 tons = 278 kW
+Adjusted Baseline kWh: 278 kW * 4000 Annual Operating Hrs = 1,112,000 kWh
+Revised Cost to Run Baseline: 1,112,000 kWh * $.10 = $111,200
+Post Energy Consumption
+kW Post: 1.19 kW/ton * 200 tons = 238 kW
+Annual kWh Post: 238 kW * 4000 hours = 952,000 kWh
+Annual Cost Post: 952,000 kWh * .10 cents = $95,200
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $111,200 - $95,200 = $16,000
+Estimated Energy Savings Per Month: $16,000 / 12 = $1,333
+Initial Payback Period
+Cost of PermaFrost NMR® installed in the pilot chiller: $19,250
+Estimated ROI Period for Global Telecom Equipment Manufacturer on the chiller: $19,250 / $1,333 = 14.4 months
+Annual Rate of Return = 83.1%
+Return on Investment Over 5 Years = 415.6%
+*Utilizing data in the charts contained in this report, to obtain true avoided energy cost and subsequent payback period for 
+Military Installation for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate 
+the true energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh 
+expended in the Post Analysis Period. ROI comes from determining what the cost to run the chillers were when operating 
+at the original energy profile to produce the newly restored amount of available tonnage capacity and then subtracting the 
+revised cost to run the chiller at the same restored tonnage after the PermaFrost NMR® ECM was installed. This 
+regression analysis is the most widely accepted method of accounting for the reduced number of hours or load the chiller 
+will now operate due to the restored capacity. This restored capacity allows the chillers to reach the internal building set 
+points with increased efficiency resulting in reduced compressor demand loading.
+6
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

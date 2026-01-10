@@ -1,0 +1,50 @@
+ 
+7
+ 
+Sensible heating Btu is measured by CFM x Delta-T x 1.08. To measure heating Btu, multiply 
+the measure supply airflow (in CFM) by the temperature change from the average supply register 
+temperature to the average return grille temperature, and multiply this total by the formula 
+constant of 1.08. 
+ 
+The easiest way to find latent Btu is to subtract delivered sensible Btu from the delivered total 
+Btu. A simple formula to find latent Btu is total Btu minus sensible Btu.  The 1.08 is a constant 
+in the sensible Btu formula and is based on the air density under standard conditions. This is at 
+70F, at sea level, and at 50% relative humidity. That weight is 0.075 lbs./cu ft. times the specific 
+heat of standard air of 0.24 Btu/lb., times 60 minutes in an hour. We calculate Btu per hour 
+because since we express Btu’s in per-hour units. The total Btu constant of 4.5 is found by 
+multiplying the weight of standard air of .075/lb. by 60 minutes in an hour. 
+ 
+System Performance:  NCI’s acceptable standard for delivered Btu in a live system was only 
+90% of rated equipment Btu capacity. Ninety percent is a tough standard for heating and cooling 
+system performance. Currently, few contractors in the U.S. can achieve this level of performance 
+in systems they service and sell.  
+ 
+Instrumentation:  The instruments utilized were certified for this test under NIST standards. 
+Identical data was gathered during the pre and post periods utilizing the identical instruments and 
+the identical methods.  The following were used in this test: 
+ 
+• CFM was verified by the use of a Fieldpiece Model# STA2 hot wire anemometer 
+calibrated to an accuracy of + or - 1%.  
+• The wet and dry bulb temperatures were gathered by a Fieldpiece model # SRH3 digital 
+psychrometers calibrated to an accuracy of + or - 1%.  
+• The refrigerant pressures and temperatures were gathered by a Testo digital analyzer 
+model# 550 calibrated to an accuracy of + or - 0.75%.  
+• The electrical data comprised of true RMS voltage and amperage averaged across the 
+three phases was gathered by a Fluke True RMS digital model 381 instrument calibrated 
+to an accuracy of + or - 0.01%. 
+ 
+METHODOLOGY 
+ 
+Task 1 
+ 
+Demonstrating the benefits of chemical alterations to heat exchange surfaces and the effect it has 
+on the performance of refrigerants is difficult to demonstrate if not in-situ.  Alternatives include 
+conducting a series of tests on steel cylinder bearings or other materials to evaluate stop pressure, 
+bearing damage at stop pressure and stop time.  However, developing equipment that will 
+eliminate human error in such a process is difficult, and the results do not prove anything 
+significant with respect to the performance in the HVAC system.  Instead the best means to 
+analyze the performance change it to directly compare results for the same building, and the 
+same HVAC system, before and after the refrigerant performance alteration, keeping in mind 
+that HVAC system efficiency tends to decrease with time due to oil fouling.  As a result, field-
+testing of HVAC units immediately before and after the use of PermaFrost NMR® provides 
+some initial insight once other variables are accounted for.  Longer term monitoring is not 

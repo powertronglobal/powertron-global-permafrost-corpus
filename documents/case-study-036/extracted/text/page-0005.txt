@@ -1,0 +1,53 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2018 Powertron Global, LLC. 
+ 
+BTU – British Thermal Units  
+12,000 – every 12,000 BTUs equals 1 Ton (constant) 
+ 
+Example 
+ 
+4000 (CFM) X 4.5 (Standard Air Ratio) X 8 (Enthalpy Delta) = 144,000 BTU, then 
+divide by 12,000 = 12 tons 
+ 
+ 
+To Determine Electrical Energy Consumption: 
+ 
+Total electrical consumption is measured at the main source of electric service of 
+each rooftop unit. This includes, voltage, amperage and power factor and a 
+constant of the square root of 3 (√3). This is then divided by 1000 to obtain 
+kilowatts. The electrical formula for kilowatt (kW) is: 
+ 
+kW = V x A x PF x √3 / 1000 
+ 
+V – Voltage 
+A – Amperage 
+PF – Power Factor 
+√3 – Square Root of 3 for 3-phase Input Power 
+1000 – constant  
+ 
+ 
+Example 
+ 
+480 (volts) X 45 (amps) X √3 (phase angle for three phase power only) X 0.90 
+(power factor) / 1000 = 33.67 kilowatts  
+ 
+ 
+To Determine Efficiency: 
+ 
+Divide the measured kilowatts (kW) by the measured tons to obtain kW per ton. 
+kW per ton is the industry standard to determine system efficiency.  
+ 
+Example 
+ 
+33.67 kW / 12 tons = 2.80 kilowatts per ton   
+ 
+ 
+ 
+ 
+4.    Technical 
+ 
+When PermaFrost NMR® is installed into a unit, a molecular transformation 
+develops. This transformation displaces layers of lubricating fluids that have been 
+impinged in the evaporator and condenser heat exchanger metal surfaces. When 
+the fluid is displaced, the evaporator and condenser can transfer additional heat 

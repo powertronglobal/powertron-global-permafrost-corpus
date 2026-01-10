@@ -1,0 +1,84 @@
+Additional Results for Pilot Split System when Employing the ECM
+IPMVP Baseline & Post Measurements in Treated Pilot Split System
+The chart below lists all of the performance measurements taken on the treated split system. Only recently 
+calibrated quality instruments were used to capture the data. Care was also taken to take both the baseline and 
+post collection measurements at nearly identical weather conditions.
+12
+16.5
+POST
+BASELINE
+11.7
+Calculated kW
+REDUCTION
+29.1%
+REDUCTION
+29.1%
+POST
+BASELINE
+Calculated kWh Reduction
+72,105
+51,129
+Type of Measurement
+BASELINE
+POST
+Volts
+Amps
+Suction Temp
+Discharge Pressure
+Entering Air DB
+Leaving Air DB
+DB Air Delta
+Entering Air WB
+Leaving Air WB
+Entering WB Enthalpy
+Leaving WB Enthalpy
+Enthalpy Delta
+CFM Measured at Air Handler
+Outside Air Temp.
+kW
+Tons
+kW/Ton
+Coeﬃcient of Performance (COP)
+Calculated Annual Cost to Run
+Annual $ Savings vs Baseline
+468.5
+17.56
+32.1
+263.7
+68
+57.4
+10.6
+61.2
+54.4
+27.29
+22.86
+4.43
+4,662
+76
+12.1
+7.7
+1.560
+2.25
+$7,557
+470.8
+16.96
+34.6
+257.2
+68
+54.3
+13.7
+58.6
+48.5
+25.52
+19.48
+6.04
+4,662
+76
+11.7
+10.6
+1.110
+3.16
+$5,387
+$2,202
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

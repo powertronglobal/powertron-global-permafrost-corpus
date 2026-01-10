@@ -1,0 +1,268 @@
+================================================================================
+DOCUMENT: Case Study 027
+DOC_ID: pdf_032
+SHA256: 8f102f2e8dd2b7a42859a979b94129eae7aff7ccea93a89537544779595e8177
+================================================================================
+
+═══ PAGE 001 ═══
+
+®
+Energy Science Division
+Major Global Bank - Property Management Company
+Comprehensive HVAC/R Capacity Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 002 ═══
+
+Energy Performance Report
+Major Global Bank - Property Management Company
+May 30, 2013 
+Executive Summary
+         This report contains specific information regarding the installation of the energy control measure 
+(ECM) PermaFrost NMR® in chiller for Major Global Bank /Property Management Company building located in Irving, TX. Detailed 
+forensic performance testing (outlined later in this report) was performed on a 380-ton McQuay 
+water-cooled chiller unit using R-134A refrigerant. Powertron Global® would like to thank the local team 
+personnel of Property Management Company [Chief Engineer], Chief Engineer, and [Assistant Chief Engineer], assistant Chief Engineer, 
+at the Las Collinas facility for assisting and overseeing the completion of this project for Major Global Bank. 
+Immediately following the baseline testing, the unit were treated with the proper amount and type of 
+PermaFrost NMR® product formulated for R-134A refrigerant type chiller systems. Since there were no 
+other ECM’s going on during this pilot project, the improvement in efficiency and restored capacity gained 
+directly at the units is solely attributable to the PermaFrost NMR® ECM. This greater operational efficiency 
+is due to the restoration of the heat transfer ability of the cooler and condenser tubes.
+Following treatment with PermaFrost NMR®, while operating at 100% load, the chiller showed a significant 
+reduction in kW/Ton of 9.6% and a 11% improvement in COP. As individual measurements this chiller 
+showed a 3.3% reduction in kW and a 3.7% reduction in Amps while at the same time while producing an 
+additional 23 tons. 
+It is also important to note that PermaFrost NMR® will often reclaim energy robbing oil that is trapped  in 
+the lower refrigerant sector of the cooler (evaporator) of chillers.  [Assistant Chief Engineer], the plant operator and 
+assistant chief engineer with Property Management Company, had noticed after 4-5 days of the application of PermaFrost NMR® the oil 
+indicating site glass was demonstrating signs of filling. It seemed that eventually the oil level would surpass 
+the manufacturers operating level. Mr. [Senior Energy Engineer] of Powertron Global® was notified of this during his 
+return for the post results. A request was made of [Assistant Chief Engineer] to wait one additional week before removing 
+this excess oil to ensure PermaFrost NMR® arrived at the period of gestation so to assure complete 
+adsorption into the interior surfaces of the chiller components.  [Assistant Chief Engineer] had informed Powertron Global® 
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 003 ═══
+
+that TD Services (a mechanical contracting service corporation) removed approximately 3 gallons of 
+reclaimed oil in order to return the level of oil to proper operating levels. This action provides another level 
+of justification to the claims of this technology and the results of such an application.
+ 
+The result of the average ECM improvements is an ROI to Major Global Bank of just 17.6 months based on the runtime 
+information and kW costs for this location. The tables of data and financial calculations are available for 
+review at the end of this report.
+Product Brief
+         PermaFrost NMR® is a multi-patented nanotechnology surface chemistry Energy Control Measure 
+(ECM) that uses Nucleo Molecular Regenerative (NMR) technology as its core agent. A sustainable, 
+one-time treatment with no down time required, PermaFrost NMR® lasts for the remaining life of any 
+type of system in which it is installed. Examples of the types of commercial HVACR systems and 
+equipment that PermaFrost NMR® has proven success with are direct expansion air systems (DX); 
+chilled water systems (both flooded and DX; air and water cooled); ice making equipment; ammonia 
+refrigeration plants (single compressor and cascade) and variable refrigerant flow (VRF) designs. The 
+equipment utilized in these systems within our expanding portfolio of clients includes centrifugal 
+(single and multi-stage), scroll, reciprocating and screw configurations.
+The direct benefits of PermaFrost NMR® are improved cooling performance, increased capacity and 
+improved refrigerant velocity – all of which allow systems to achieve set point temperatures in a more 
+rapid fashion which reduces compressor operating periods. The indirect benefits resulting from the 
+enhanced thermodynamic characteristics following treatment include reduced run time, less kW hours used, 
+less amp draw at the compressor, longer equipment life cycle time and a reduced carbon footprint for Major Global Bank.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 004 ═══
+
+Measurement and Veriﬁcation Protocol
+The International Performance Measurement and Verification Protocol (IPMVP) was utilized in the 
+development of this report. The Association of Energy Engineers (AEE), American Society of Heating, 
+Refrigeration and Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization 
+(EVO) accept the IPMVP as a global methodology for determining the effectiveness of energy conservation 
+methods and products.
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize. They 
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report. Retrofit Isolation 
+(Option B) is defined as: All parameter measurement with the boundary of the ECM (PermaFrost NMR®) as 
+the single source of measurement. Savings are determined by field measurement of the energy use of the 
+energy conservation method affected equipment or system and any performance enhancements versus the 
+baseline data.
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the 
+savings and the length of the reporting period.  For the boundary utilized for Option B short-term 
+measurements are very useful as data when the variables are contained. The savings are calculated by 
+short-term measurements of baseline and reporting period energy, and /or engineering computations using 
+measurements of proxies of energy use. 
+The final computation follows the formula:
+Energy Science Division
+Option B savings = Baseline Energy – Reporting Period Energy
++ - Routine adjustments / + - Non-Routine Adjustments
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 005 ═══
+
+Energy Conservation Method (ECM) Content
+The content of the following report will demonstrate the effects of PermaFrost NMR®’s ability to correct the 
+effects of thermal degradation and fouling on the heat exchange surfaces. 
+It was determined with Major Global Bank to treat a water-cooled chiller at the Irving, TX location. A diagnostic 
+examination of the pilot equipment is implemented to determine if the unit’s operational conditions are 
+satisfactory. Baseline measurements will be recorded and then the proper amount and type of PermaFrost 
+NMR® will be injected. The product will be allowed 4 weeks to seat itself into the metal surfaces before post 
+measurements were taken to establish the efficiency gains. The chiller was run at 100% load factor.
+The following report produces the utilization of the IPMVP International Performance Measurement and 
+Verification Protocol as the M&V plan. Powertron Global’s Forensic Mechanical Engineer Edward R. 
+[Senior Energy Engineer] performed the final calculations and measurements. 
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+kW = Volts * Amps * .1.47 (.85 x 1.732)/1000 (for 3 phase)
+ 
+Actual GPM = GPM2 = GPM * Measured Pressure Drop (ft) / by Design Pressure Drop (ft) (squared)
+ 
+Operating Tons / Hour  = (GPM X 8.34 * 60 * Chilled Water Delta T) / 12,000 BTU
+ 
+kW/Ton = Actual kW / Actual Tonnage
+ 
+COP = (12 / kW per ton / 3.412)
+ 
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 006 ═══
+
+Make
+Model
+Serial
+Refrigerant Type
+Age
+Design GPM
+Tonnage
+Design Pressure Drop
+McQuay
+WSC087-BAAAR
+STNU050700022
+R-134A
+1997
+760
+380
+10 (ft)
+System Description / Design Characteristics
+The operational periods of the equipment 2,688 hours a annually at a cost of .06 cents per kW.
+Baseline Measurement Period Selection
+The baseline data was recorded on 4/26/2013 using recently calibrated devices to insure measurement 
+accuracy. The following results were recorded as a result of the implementation of the IPMVP Protocol. The 
+identical data (post) was recorded on 5/28/2013 using recently calibrated devices to insure measurement 
+accuracy. The following results were recorded as a result of the implementation of the IPMVP Protocol.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 007 ═══
+
+Energy Science Division
+POST
+BASELINE
+RMS Voltage
+RMS Amperage
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Chilled Water Leaving Temp
+Chilled Water Entering Temp
+Condensed Water Leaving Temp
+Condensed Water Entering Temp
+Actual GPM (Cooler)
+Calculated Tons
+kW
+Calculated kW/Ton
+Outdoor Air Temperature
+484.2 V
+314.7 A
+45.2 F
+91.9 F
+43.5 F
+53.2 F
+91.4 F
+84 F
+760 GPM
+307 Tons
+224.1
+.73
+70 F
+486.6 V 
+303.0 A 
+46.8 F 
+90 F 
+43.5 F 
+53.9 F 
+90.1 F 
+82.4 F 
+760 GPM 
+330 Tons 
+216.7
+.66
+81 F
+MEASUREMENT
+Results
+Eﬃciency Improvements
+kW
+Operating Tonnage
+kW per Ton
+COP
+Amps @ 100% Load
+-3.3% 
++7.5%
++9.6%
++11.0%
+-3.7%
+Energy Reporting Period
+216.7
+330 
+.66
+5.35
+303.0
+Baseline
+224.1 
+307 
+.73 
+4.82
+314.7
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 008 ═══
+
+Energy Science Division
+Utilizing the data in the above charts, the following steps were taken to calculate an accurate payback for 
+Major Global Bank for implementing this ECM. First, the annual cost is calculated to run the chiller at baseline levels for 
+2,688 hours per year.
+kW Baseline        .73 kW/ton * 307 tons = 224.1kW
+Annual kWh Baseline        224.1kW * 2,688 hours = 602,381 kWh
+Annual Cost Baseline        602,381 kWh * .06 cents = $36,143
+Regression Analysis for the restored capacity of the chiller provided by PermaFrost NMR®:
+Adjusted Baseline Tonnage        330 tons
+Adjusted kW Baseline        .73 kW/ton * 330 tons = 240.9 kW
+Adjusted Baseline kWh        240.9 * 2,688 Annual Operating hrs = 647,539 kWh
+Revised Cost to Run Baseline        647,539 kWh * $.06 = $38,852
+The cost to run the chiller at 2,688 hours per year at 330 tons utilizing original baseline eﬃciency is calculated
+at $38,852 per year.
+The cost of running the chiller at 330 tons utilizing the improved post installation eﬃciency:
+kW E.R.P.        .66 kW/ton * 330 tons = 217.8 kW
+Annual kWh E.R.P.        217.8 kW * 2,688 hours = 585,446 kWh
+Annual Cost E.R.P.        585,446 kWh * .06 cents = $35,127
+Annual Savings        $38,852- $35,127 = $3,725
+Monthly Savings        $3,725/ 12 = $310
+Cost of PermaFrost NMR® installed for Major Global Bank is $5,462 / $310 = 17.6 months payback
+ 
+ROI = 17.6 months
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+

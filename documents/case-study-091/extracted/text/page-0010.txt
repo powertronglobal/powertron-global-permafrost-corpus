@@ -1,0 +1,32 @@
+®
+Sustainable Financial Beneﬁts
+The following are the final calculated average performance measurements following the PermaFrost NMR®  
+Post measurement period for the Data Center Provider – [Southeast Location] Metro Chiller Unit.
+Baseline Energy Consumption
+Baseline Tonnage: 3125 tons
+Adjusted kW Baseline: 0.45 kW/ton * 3,397 tons = 1,528.7 kW
+Adjusted Baseline kWh: 1,528.7 kW * 2,500 Annual Operating Hrs = 3,821,750 kWh
+Revised Cost to Run Baseline: 3,821,750 kWh * $.06 = $229,305
+Post Energy Consumption
+kW Post: 0.41 kW/ton * 3,397 tons = 1,392.8 kW
+Annual kWh Post: 1,392.8 kW * 2,500 hours = 3,482,000 kWh
+Annual Cost Post: 3,482,000 kWh * .06 cents = $208,920
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $229,305 - $208,920 = $20,385
+Estimated Energy Savings Per Month: $20,385 / 12 = $1,699
+Initial Payback Period (IPP)
+Cost of PermaFrost NMR® installed in the pilot Chiller unit: $24,768
+Estimated Initial Payback Period (IPP) for Pilot Chiller: $24,768 / $1,699 = 14.6 months
+Estimated Annual Internal Rate of Return (IRR) for Pilot Chiller: 82.3%
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period for 
+Data Center Provider for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended in the Post 
+Analysis Period. ROI comes from determining what the cost to run the systems was when operating at the original energy 
+profile to produce the newly restored amount of available tonnage capacity and then subtracting the revised cost to run the 
+systems at the same restored tonnage after the PermaFrost NMR® ECM was installed. This regression analysis is the 
+most widely accepted method of accounting for the reduced number of hours the systems will now operate due to the 
+restored capacity. This restored capacity allows the systems to reach the internal building set points with increased 
+efficiency resulting in reduced compressor demand loading.
+9
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

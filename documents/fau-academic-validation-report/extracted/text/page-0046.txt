@@ -1,0 +1,35 @@
+ 
+46 
+ 
+ 
+Figure 2 - EER before (x-axis) and after (y-axis) the Permafrost addition 
+ 
+ 
+ 
+Figure 3 - EER before (x-axis) and after (y-axis) the PermaFrost NMR® addition 
+y = 0.7692x 
+0.0 
+10000.0 
+20000.0 
+30000.0 
+40000.0 
+50000.0 
+60000.0 
+70000.0 
+0.0 
+10000.0 20000.0 30000.0 40000.0 50000.0 60000.0 70000.0 80000.0 90000.0 
+KW Draw Before  
+y = 1.3511x 
+0 
+200,000 
+400,000 
+600,000 
+800,000 
+1,000,000 
+1,200,000 
+0 
+200,000 
+400,000 
+600,000 
+800,000 
+Btuh Coil Capacity Before  

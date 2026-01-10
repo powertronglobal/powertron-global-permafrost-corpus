@@ -1,0 +1,119 @@
+®
+1.37
+POST
+BASELINE
+1.20
+kW/ton
+REDUCTION
+12.4%
+POST
+BASELINE
+36.2%
+13.5%
+POST
+BASELINE
+Chilled Water Delta
+IMPROVEMENT
+IMPROVEMENT
+10.4
+5.8
+3.7
+97.9
+11.8
+Key Results for Chiller #1 with PermaFrost NMR® ECM
+HVAC Equipment Manufacturer
+RTAA-1004
+U05J03530
+R-22
+100
+4000
+2005
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+484.3
+165.6
+38.8
+99.3
+42.5
+54.3
+air
+air
+11.8
+3.7
+117.9
+1.204
+97.9
+199
+82.4
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Saturated Suction Temperature 
+ 
+ 
+ 
+Discharge Refrigerant Temperature  
+Chilled Water Leaving Temp (Supply) 
+ 
+Chilled Water Entering Temp (Return) 
+ 
+Condenser Water Temp Entering Chiller 
+ 
+Condenser Water Temp Leaving Chiller 
+ 
+Chilled Water Delta T 
+Refrigeration Approach 
+ 
+kW (V x A x 1.47) 
+ 
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Chiller GPM  
+ 
+OAT 
+ 
+484.7
+163.6
+38.1
+101.2
+43.9
+54.3
+air
+air
+10.4
+5.8
+116.6
+1.371
+85.0
+196
+81.7
+7
+Notes
+The pilot chiller provides cooling to the LA 
+National Guard in Pineville. Given the facility 
+load the pilot chiller runs approximately 4,000 
+hours or more annually prior to the ECM being 
+implemented. 
+REDUCTION
+POST
+BASELINE
+85
+Operating Tonnage
+15.2%
+Refrigerant Approach 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

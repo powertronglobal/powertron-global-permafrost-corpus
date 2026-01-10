@@ -1,0 +1,137 @@
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2020 Powertron Global, LLC. 
+Method of Procedure for testing: 
+The objective of measuring the overall cooling production of HVAC/R systems can 
+be realized by measuring the total energy consumed by the specific unit being 
+tested and the total BTUH production of the system then calculating these 
+parameters to obtain current capacity, kW/ton, EER (energy efficient ratio) and 
+COP (coefficient of performance). Using that information the total BTUH of 
+cooling production can be realized.  
+The objective of measuring overall power consumed by an HVAC/R system can 
+be realized by measuring voltage, amperage and power factor.  
+EER 
+RTU 2 
+RTU 3 
+RTU 4 
+RTU 5 
+RTU 7 
+RTU 8 
+RTU 9 
+BASELINE 
+13.31 
+7.02 
+9.80 
+8.36 
+9.75 
+6.74 
+5.55 
+POST 
+17.85 
+11.14 
+15.19 
+12.50 
+12.17 
+NA 
+NA 
+Difference% 
+34.1% 
+58.7% 
+55.0% 
+49.5% 
+24.8% 
+NA 
+NA 
+RTU 10 
+RTU 12 
+RTU 13 
+RTU 14 
+RTU 15 
+RTU 16 
+RTU 17 
+BASELINE 
+6.52 
+8.48 
+5.26 
+2.65 
+7.34 
+8.40 
+7.33 
+POST 
+8.20 
+10.13 
+NA 
+3.35 
+10.87 
+14.11 
+10.92 
+Difference% 
+25.8% 
+19.5% 
+NA 
+26.4% 
+48.1% 
+68.0% 
+49.0% 
+ENTHALPY 
+RTU 2 
+RTU 3 
+RTU 4 
+RTU 5 
+RTU 7 
+RTU 8 
+RTU 9 
+BASELINE 
+6.13 
+3.08 
+6.37 
+4.99 
+5.80 
+4.90 
+4.52 
+POST 
+8.19 
+5.04 
+7.69 
+6.54 
+7.04 
+NA 
+ NA 
+Difference% 
+33.6% 
+63.6% 
+20.7% 
+31.1% 
+21.4% 
+NA 
+NA 
+RTU 10 
+RTU 12 
+RTU 13 
+RTU 14 
+RTU 15 
+RTU 16 
+RTU 17 
+BASELINE 
+2.26 
+4.34 
+3.58 
+0.73 
+2.93 
+5.72 
+3.44 
+POST 
+2.83 
+5.21 
+NA 
+0.93 
+4.21 
+6.34 
+4.71 
+Difference% 
+25.2% 
+20.0% 
+NA 
+27.4% 
+43.7% 
+10.8% 
+36.9% 

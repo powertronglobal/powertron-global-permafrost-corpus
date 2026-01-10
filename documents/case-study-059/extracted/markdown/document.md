@@ -1,0 +1,460 @@
+# Regional Law Enforcement.pdf
+
+Energy Science Division
+
+®
+
+COUNTY LAW ENFORCEMENT A
+
+Comprehensive HVAC/R Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+PermaFrost NMR® Performance Report
+
+County Law Enforcement A
+
+July, 2013
+
+Executive Summary
+
+This report contains specific information regarding the installation of the energy control measure
+
+(ECM) PermaFrost NMR® in one of the two main HVAC units supporting the County Law Enforcement A MD Police
+
+Department located at [Government Facility Address], Ellicott City, MD. Detailed forensic performance testing
+
+(outlined later in this report) was performed on the nominal 26-ton split system outfitted with one
+
+compressor using R22 refrigerant. Following testing, the unit was treated with the proper amount and type
+
+of the PermaFrost NMR® technology specially formulated for these types of systems.  Measurement and
+
+Verification (M&V) was conducted pre-installation and post-gestation.
+
+The improvement in efficiency and restored capacity gained directly at the unit was solely attributable to the
+
+PermaFrost NMR® ECM. This is a result of the reversal of thermal inefficiency on heat exchange surfaces.
+
+Following treatment with the PermaFrost NMR® technology, the unit showed an effective net average
+
+15.9% reduction in kW/ton based on the exact capacity measured in the baseline M&V and the post
+
+gestation M&V. With the 26-ton unit operating at full load with all VAV boxes open at 100%, the system
+
+showed an average 1.3% reduction in kW consumption while simultaneously producing an increase in
+
+capacity of 3.8 tons. This 17.3% average capacity increase from the baseline performance level led to an
+
+effective average increase in COP of 19.4%. All of these factors directly correlate to what County Law Enforcement A
+
+will realize in energy savings as they operate this system in the future under the same parameters.
+
+Following treatment with the PermaFrost NMR® technology, the system showed an average 2% reduction
+
+in amp draw while at the same time the unit was doing much more work. This is illustrated by the 21%
+
+increase in the enthalpy delta, which is a critical HVAC measurement used to determine the
+
+thermodynamic enhancement brought about by the PermaFrost NMR® ECM.  The result of the ECM
+
+improvement is an ROI to County Law Enforcement A that is measured in months. The tables of data are available for
+
+review at the end of this report. Financial calculations determining the true ROI are proprietary to Howard
+
+County under separate cover.
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Product Brief
+
+PermaFrost NMR® is a multi-patented nanotechnology surface chemistry Energy Control Measure
+
+(ECM) that uses Nucleo Molecular Regenerative® (NMR) technology as its core agent. A sustainable,
+
+one-time treatment with no down time required, PermaFrost NMR® lasts for the remaining life of any
+
+type of system in which it is installed. Examples of the types of commercial HVACR systems and
+
+equipment that PermaFrost NMR® has proven success with are direct expansion air systems (DX);
+
+chilled water systems (both flooded and DX; air and water cooled); ice making equipment; ammonia
+
+refrigeration plants (single compressor and cascade) and variable refrigerant flow (VRF) designs. The
+
+equipment utilized in these systems within our expanding portfolio of clients includes centrifugal (single
+
+and multi-stage), scroll, reciprocating and screw configurations.
+
+The direct benefits of PermaFrost NMR® are improved cooling performance, increased capacity and
+
+improved refrigerant velocity – all of which allow systems to achieve set point temperatures in a more
+
+rapid fashion which reduces compressor operating periods. The indirect benefits resulting from the
+
+enhanced thermodynamic characteristics following treatment include reduced run time, less kW hours
+
+used, less amp draw at the compressor, longer equipment life cycle time and a reduced carbon footprint
+
+for County Law Enforcement A.
+
+Energy Science Division
+
+BOUNDARY LAYER
+OIL REMOVED
+
+BEFORE TREATMENT
+AFTER TREATMENT
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Measurement and Veriﬁcation Protocol
+
+The International Performance Measurement and Verification Protocol (IPMVP) was utilized in the
+
+development of this report. The Association of Energy Engineers (AEE), The American Society of Heating,
+
+Refrigeration and Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization
+
+(EVO) accept the IPMVP as a global methodology for determining the effectiveness of energy conservation
+
+methods and products.
+
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize. They
+
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report. Option B is
+
+defined as: All parameter measurements with the boundary of the ECM (PermaFrost NMR®) as the single
+
+source of measurement. Savings are determined by field measurement of the energy use of the ECM
+
+affected equipment or system and any performance enhancements versus the baseline data.
+
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the
+
+savings and the length of the reporting period.  For the boundary utilized for Option B short-term
+
+measurements are very useful as data when the variables are contained. The savings are calculated by
+
+short-term measurements of baseline and energy reporting period (post), and /or engineering computations
+
+using measurements of proxies of energy use.
+
+The final computation follows the formula:
+
+Energy Science Division
+
+Option B savings = Baseline Energy – Reporting Period Energy
+
++ - Routine adjustments / + - Non-Routine Adjustments
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Conservation Method (ECM) Content
+
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the
+
+effects of thermal degradation and fouling on the heat exchange surfaces.
+
+A diagnostic examination of the pilot equipment was implemented to determine if the unit’s operational
+
+conditions were satisfactory. Baseline M&V were recorded and then the proper amount and type of
+
+PermaFrost NMR® was injected. The gestation period for the County Law Enforcement A pilot was 10 months on this
+
+particular unit to allow it to achieve the required ~300 hours of runtime to ensure adequate performance
+
+improvement time. At the end of this gestation period, Post M&V results were taken in the identical manner
+
+as in the baseline, taking special care to match the same or very similar entering air dry bulb and wet bulb
+
+temperatures as well as outside air temperatures. These are the two most critical measurements affected by
+
+the weather. When analyzing the data, no adjustments for weather were necessary.
+
+The following report produces the utilization of the International Performance Measurement and
+
+Verification Protocol (IPMVP) as the M&V plan. Sam Schneider and Justin Envoy, County Law Enforcement A Facilities
+
+Support Staff, witnessed the collection of the data used in this report. The final calculations were performed
+
+by Powertron Global’s Forensic Mechanical Engineer, [Senior Energy Engineer].
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+kW= Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase)
+
+Btuh = CFM * 4.5 (standard air) * Calculated Enthalpy Delta
+
+kW per Ton = kW / Actual Tonnage
+
+Percentage Eﬃciency = Measured BTUH / Manufacturers Design BTUH
+
+Coeﬃcient of Performance (COP) = 3.516 / kW per ton
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Make
+
+Model
+
+Serial Number
+
+Refrigerant Type
+
+Nominal Cooling Capacity in Tons
+
+Average Annual Runtime Hours
+
+Age
+
+HVAC Equipment Manufacturer
+
+RAUCC254BP1382
+
+J98G82522
+
+R22
+
+26 Tons
+
+3,895
+
+1998
+
+Detailed Results for Split Unit #2
+
+System Description / Design Characteristics
+
+This unit provides comfort cooling for approximately one third of the Regional Law Enforcement Department
+
+facility in Ellicott City, MD. The unit runs ~3,895 hours per year according to national weather BIN data of
+
+annual hourly temperatures over 60 degrees F.
+
+Baseline & Energy Reporting (Post) Periods
+
+The identical IPMVP following data points were recorded for Baseline and Post on 8/30/12 and 6/24/13
+
+respectively using recently NIST calibrated devices to insure measurement accuracy. The Return Air dry
+
+bulb and wet bulb temperatures entering the coil were very similar in both periods. Additionally, the
+
+outside conditions in both periods were very similar so no adjustments were made to the calculations. The
+
+measurements are as follows:
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+SPLIT UNIT #2
+
+Energy Science Division
+
+POST
+BASELINE
+
+Voltage (Outside / Inside)
+
+Amperage (Outside / Inside)
+
+Suction Refrigerant Temp
+
+Suction Refrigerant Pressure
+
+Discharge Refrigerant Temp
+
+Discharge Refrigerant Pressure
+
+Entering Air Temperature DB
+
+Leaving Air Temperature DB
+
+Entering Air Temperature WB
+
+Leaving Air Temperature WB
+
+Actual CFM Across the Coil
+
+Calculated Coil Capacity
+
+Calculated Enthalpy Delta
+
+Total kW
+
+Calculated kW / Ton
+
+Coeﬃcient of Performance (COP)
+
+O.A.T.
+
+477 / 473 V
+
+41.9 / 9.1 A
+
+38.5 F
+
+67.7 PSI
+
+113.7 F
+
+240 PSI
+
+77.6 F
+
+59.8 F
+
+64.7 F
+
+56.6 F
+
+10,468
+
+22.07 Tons
+
+5.62
+
+35.8 kW
+
+1.619
+
+2.17
+
+94.2 F
+
+480.3 / 473 V
+
+40.9 / 9.1 A
+
+34.9 F
+
+61.4 PSI
+
+101.5 F
+
+200.6 PSI
+
+77.7 F
+
+57.4 F
+
+65.1 F
+
+55.2 F
+
+10,150
+
+25.88 Tons
+
+6.8
+
+35.3 kW
+
+1.359
+
+2.59
+
+92.1 F
+
+MEASUREMENT
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Results
+
+The following are the final calculated average performance measurements following the PermaFrost NMR®
+
+Post measurement period of Split Unit #2.
+
+PermaFrost NMR®: Determining the Payback Period for County Law Enforcement A
+
+Utilizing the data in the above charts, to obtain a true avoided energy cost and payback period for County Law Enforcement A, a
+
+detailed Regression Analysis is used to account for amount of tonnage restored to Split System (the constant) at the
+
+pre-pilot cost to operate the system (kW/Ton). This cost is then compared to the newly obtained cost to operate the
+
+system following the installation of PermaFrost NMR® to determine the true Payback Period for County Law Enforcement A.
+
+Adjusted Baseline Tonnage         25.88 tons (equates to tonnage in Post)
+
+Adjusted kW Baseline        1.62 kW/ton * 25.88 tons = 41.93 kW
+
+Adjusted Baseline kWh        41.93 kW * 3,895 Annual Operating Hrs = 163,317 kWh
+
+Revised Cost to Run Baseline        163,317 kWh * $.11 = $17,964.87
+
+kW Post        1.36 kW/ton * 25.88 tons = 35.20 kW
+
+Annual kWh Post         35.20 kW * 3,895 hours = 137,104 kWh
+
+Annual Cost Post         137,104 kWh * .11 cents = $15,081.44
+
+Avoided Energy Cost (savings) Per Month         ($17,964.87 - $15,081.44)/12 = $240.29
+
+Cost of PermaFrost NMR® installed         $2,808 / $240.29 = 11.7 months
+
+ROI = 12 months
+
+Energy Science Division
+
+Improvements
+
+Total kW
+kW / Ton  
+Calculated Enthaply Delta
+System Capacity in Tons 
+COP
+
+1.3%
+ 16%
+21%
+17.3%
+19.4%
+
+Post
+
+35.3 kW
+1.36
+6.8
+25.88
+2.59
+
+Baseline
+
+35.75 kW
+1.62 
+5.62
+22.07 
+2.17
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

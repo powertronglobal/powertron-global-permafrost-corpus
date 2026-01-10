@@ -1,0 +1,132 @@
+®
+2.63
+POST
+BASELINE
+1.57
+kW/ton
+REDUCTION
+40.3%
+REDUCTION
+POST
+BASELINE
+Adj. Operating Tonnage
+66.1%
+177%
+POST
+BASELINE
+Chilled Water Delta
+IMPROVEMENT
+2.2
+18.3
+30.4
+99,008
+Results for Laundry Chiller After Treatment with
+PermaFrost NMR®
+HVAC Equipment Manufacturer
+RTAC1404
+U04J07770
+R134A
+140
+2,080
+2002
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+478.3
+113.3
+67.6
+43
+127.8
+47.8
+53.9
+Air Cooled
+Air Cooled
+6.1
+79.7
+47.6
+1.57
+40.3%
+51
+30.4
+200
+165,696
+86.5
+75
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Amps Adj by kW/Ton % Reduction 
+ 
+Saturated Suction Temperature 
+ 
+Discharge Refrigerant Temperature  
+Chilled Water Leaving Temp (Supply) 
+ 
+Chilled Water Entering Temp (Return) 
+ 
+Condenser Water Temp Entering Chiller 
+ 
+Condenser Water Temp leaving Chiller 
+ 
+Chilled Water Delta T 
+kW (V x A x 1.47) 
+ 
+kW Adj by kW/Ton % Reduction 
+ 
+kW / Ton 
+ 
+Percentage Reduction in Post kW/Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Actual Tons Adj by kW/Ton % Reduction  
+ 
+Chiller GPM  
+Annual kWh (before adj higher post load)  
+Chiller Load % During Testing 
+ 
+OAT 
+ 
+479.8
+68.5
+39.1
+105.1
+41.5
+43.7
+Air Cooled
+Air Cooled
+2.2
+48.3
+2.63
+18.3
+200
+100,492
+49.3
+87
+15
+Notes
+The chiller provides cooling to the laundry 
+facility on the 1st floor at Retail Chain C complex. Given 
+the average building load, the chiller runs 
+approximately 2,080 hours or more annually 
+prior to the ECM being implemented.
+IMPROVEMENT
+POST
+BASELINE
+166,400
+Calculated Annual kWh 
+40.5%
+6.1
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

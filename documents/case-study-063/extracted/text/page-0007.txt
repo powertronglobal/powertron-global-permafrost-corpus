@@ -1,0 +1,36 @@
+®
+Energy Consumption & Financial Metrics
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the Major Healthcare Provider Chiller.
+Baseline Energy Consumption
+Baseline Tonnage: 432 tons
+Adjusted kW Baseline: .69 kW/ton * 492.4 tons = 339.8 kW
+Adjusted Baseline kWh: 339.8 kW * 5,669 Annual Operating Hrs = 1,926,326 kWh
+Revised Cost to Run Baseline: 1,926,326 kWh * $.24 = $462,318
+Post Energy Consumption
+kW Post: .60 kW/ton * 492.4 tons = 295.4 kW
+Annual kWh Post: 295.4 kW * 5,669 hours = 1,674,623 kWh
+Annual Cost Post: 1,674,623 kWh * .24 cents = $401,909
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $462,318 - $401,909 = $60,409
+Estimated Energy Savings Per Month: $51,328 / 12 = $5,034
+Initial Payback Period (IPP)
+Cost of PermaFrost NMR® installed in the pilot chiller: $69,634
+Estimated IPP for Major Healthcare Provider on the chiller: $69,634 / $5,034 = 13.8 months
+Annual Rate of Return = 86.8%
+Return on Investment Over 10 Years = 867.5%
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period for 
+Major Healthcare Provider for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended in the Post 
+Analysis Period. ROI comes from determining what the cost to run the chiller was when operating at the original energy 
+profile to produce the newly restored amount of available tonnage capacity and then subtracting the revised cost to run the 
+chiller at the same restored tonnage after the PermaFrost NMR® ECM was installed. This regression analysis is the most 
+widely accepted method of accounting for the reduced number of hours or load the chiller will now operate due to the 
+restored capacity. This restored capacity allows the chiller to reach the internal building set points with increased 
+efficiency resulting in reduced compressor demand loading.
+ 
+ 
+6
+This report is provided to Major Healthcare Provider Permanente Hospital. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

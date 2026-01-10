@@ -1,0 +1,57 @@
+	
+  
+Equipment	
+  Specifics	
+  
+ 
+The test refrigeration equipment was pulled right off the Major Appliance Manufacturer assembly line. The thermal improvement 
+testing was conducted on the following refrigerator/freezer: 
+ 
+ 
+ 
+Side-by-Side 
+Make 
+Frigidaire 
+Model 
+FGUS2647LF3 
+Serial Number 
+4A23320453 
+Refrigerant Type 
+R410A 
+Nominal Cooling Capacity in 
+BTUs   
+900 BTUs 
+Date ECM Installed 
+30 June 2013 
+ 
+ 
+ 
+   
+ 
+ 
+The images show how the Side-by-Side unit was wired up inside 
+the Major Appliance Manufacturer chamber with NIST-calibrated and certified digital 
+instrumentation. The devices calculate the thermal improvement 
+efficiency of the unit by measuring the temperature of the 
+refrigerant entering the evaporator, the temperature of the 
+refrigerant leaving the evaporator (showing amount of heat 
+removed), and the leaving air stream temperature within the 
+cabinet to achieve the set points shown in the image directly 
+above. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+  
+	
+  
+	
+  
+2 of 12 

@@ -1,0 +1,45 @@
+ Study Overview
+This report details the results of the recently completed comprehensive energy performance study conducted at 
+the Regional Telecom Headquarters in Show Low, AZ. 
+Running from August 21 to October 15, 2015, the pilot was designed to illustrate the positive impact the 
+PermaFrost NMR® and Circuit Master (CM) energy control measures (ECMs) would have on the overall cooling 
+and energy performance of data center Computer Room Air Conditioning (CRAC) systems.  
+ As demonstrated in this ﬁeld trial, PermaFrost NMR® restores the cooling capacity on the CRAC systems lost over 
+time due to thermal degradation of the heat exchange surfaces, while the CM devices treat the power supplying 
+the systems. Working together, the ECMs will beneﬁt Regional Telecom in any or all of the following ways:
+ 
+• Restore capacity of the CRAC systems to satisfy ﬂuctuating building loads or lower room temps
+ 
+• Produce additional CRAC system redundancy at no extra cost or interruption to operations
+ 
+ 
+• Improve CRAC system efﬁciency, lowering cost to produce each ton of cooling required
+ 
+ 
+• Restoring thermal efﬁciency, allowing CRAC systems to achieve thermostat set points faster
+ 
+ 
+• Improve CRAC system performance, reducing runtime and extending equipment life by 15%+ 
+ 
+ 
+• Reduce amp draw and peak demand charges (KVA) while increasing Power Factor utilization
+ 
+ 
+• Produce cooler operating temperatures of compressors, reducing service calls 
+The improvements demonstrated in this or any ﬁeld test resulting from PermaFrost NMR® and Circuit Master are 
+dependent on factors such as age, condition, service history, runtime of one or both compressors and the design 
+and application of each system. The results in this pilot were very consistent with 10+ year historical performance 
+averages as well as the recent laboratory study completed in May, 2015 on DX equipment by Underwriters 
+Laboratories (UL) in their testing chambers in [Texas Location], TX.
+Setting the Stage for the Study
+The location chosen for this pilot is a small data center that is supported mainly by the two pilot CRAC systems as 
+well as a smaller cooling system in a separate room off the main ﬂoor. The conﬁguration of this facility puts the 
+major load on CRAC system #2 which encompasses the bulk of the servers and the Network Operations Center 
+(NOC). CRAC system #1 supports a less densely populated area of the main ﬂoor. At the start of the pilot, both 
+CRAC systems were set on 68 degrees. A temperature and humidity logger was placed in the center of the main 
+ﬂoor to monitor the room temperature. At the start of the pilot the average temperature in the data center was 
+74.85 degrees and the humidity averaged 32%. CRAC system #1 was able to satisfy its set point and cycle off 
+occasionally while CRAC system #2 could never satisfy set point and thus never shut off.
+2
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

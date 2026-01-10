@@ -1,0 +1,16 @@
+# Exclude binary files from HuggingFace sync
+# Raw Parquet data (use Git LFS on GitHub only)
+documents/*/raw_data/*.parquet
+
+# Visual assets (PNG images)
+documents/*/visuals/*.png
+
+# Raw data PDFs (binary files not needed for training)
+corpus/raw-data/**/*.pdf
+
+# Large CSV files
+*.csv
+!data/*.csv
+
+# Customer mapping (contains original names - never publish)
+customer_obfuscation_registry.json

@@ -1,0 +1,55 @@
+HVAC Performance Comparison: EER
+Major US Retailer DHU 16 Kit 3 CONTROL
+EER Comparison 
+OSA Temp.
+Base EER
+Post EER
+74 degF
+8.41
+7.96
+75 degF
+8.25
+7.81
+76 degF
+8.73
+8.49
+77 degF
+8.69
+8.18
+78 degF
+8.71
+7.72
+79 degF
+8.86
+7.82
+80 degF
+8.24
+8.35
+81 degF
+8.23
+7.81
+82 degF
+8.35
+7.88
+83 degF
+8.37
+7.39
+84 degF
+8.33
+6.91
+85 degF
+7.79
+6.98
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+74 degF - 85 degF
+68.0 degF - 72.0 degF
+0.5 - 1.0
+5s
+36668 samples
+49267 samples

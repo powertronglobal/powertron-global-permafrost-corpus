@@ -1,0 +1,33 @@
+PermaFrost NMR® Eﬃciency Report
+Regional Cable Provider - Data Center
+May, 2013
+Executive Summary
+         This report contains specific information   regarding the installation of the energy control measure 
+(ECM) PermaFrost NMR® in the two HVAC Computer room Air Conditioners (CRACs) serving the data 
+center at the Regional Cable Provider facility located at 2112 West Tilghman Street, Allentown, PA. Detailed forensic 
+performance testing (outlined later in this report) was performed on both of the nominal 20-ton CRAC units, 
+each outfitted with two compressors using R22 refrigerant. Following testing, the CRACs were treated with 
+the proper amount and type of the PermaFrost NMR® technology specially formulated for these types of 
+systems.  Measurement and Verification (M&V) was conducted pre-installation and post-gestation.
+ 
+The improvement in efficiency and restored 
+capacity gained directly across both systems 
+was solely attributable to the PermaFrost 
+NMR® ECM. This is a result of the reversal of 
+thermal inefficiency on heat exchange surfaces, creating 
+greater efficiency in refrigerant approach and 
+the thermal energy transfer abilities of the 
+cooler and condenser vessels. 
+Following treatment with the PermaFrost 
+NMR® technology, the systems showed an 
+effective net average 41.4% reduction in 
+kW/ton based on the exact capacity measured 
+in the baseline M&V and the post gestation M&V. With each of the 20-ton CRACs operating at full load, the 
+systems showed an average 24.2% reduction in kW consumption while simultaneously producing an 
+increase in average capacity of 4.3 tons. This 31.9% average capacity increase from the baseline performance 
+levels produced an effective average increase in system efficiency of 31.9%, which directly correlates to what 
+Regional Cable Provider will realize in energy savings as they operate these systems in the future under the same parameters. 
+Driving these savings was an average 23.5% reduction in amp draw under full load conditions.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

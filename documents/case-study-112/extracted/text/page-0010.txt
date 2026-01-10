@@ -1,0 +1,123 @@
+®
+1.66
+POST
+BASELINE
+1.25
+kW/ton
+REDUCTION
+24.7%
+REDUCTION
+REDUCTION
+POST
+BASELINE
+Calculated Annual kWh
+24.7%
+34.9%
+POST
+BASELINE
+Enthalpy Delta
+IMPROVEMENT
+POST
+BASELINE
+26.3
+Refrigerant Approach
+13.3%
+5.3
+239,040
+180,000
+22.8
+7.15
+Key Results for CRAC Unit with PermaFrost NMR® ECM
+Leibert
+DH380AUAAET
+549637-002
+R22
+31
+4,500
+1998
+System Description
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Age
+479.2
+56.8
+30.7
+120.35
+56.1
+261.05
+74.2
+53.5
+58.6
+46.4
+25.52
+18.37
+7.15
+22.8
+39.98
+1.25
+32.0
+11,926
+100
+71
+2.81
+Energy Usage
+BASELINE
+POST
+Voltage  
+Amperage  
+Suction Temperature
+Discharge Temperature
+Suction Pressure
+Discharge Pressure
+Entering Air DB
+Leaving Air DB
+Entering Air WB
+Leaving Air WB
+Enthalpy of Entering WB
+Enthalpy of Leaving WB
+Delta-T of Enthalpy
+Evaporator Approach
+kW (V x A x 1.47)/1000
+kW / Ton
+Actual Measured Operating Tons
+Unit CFM
+Unit % Load During Testing
+O.A.T.
+Coeﬃcient of Performance (COP)
+479.8
+55.8
+29.5
+120.8
+54.75
+262.85
+74
+55.8
+55.8
+46.5
+23.72
+18.42
+5.3
+26.3
+39.32
+1.66
+23.7
+11,926
+100
+71
+2.12
+9
+Notes
+The pilot CRAC unit provides cooling to the 
+main Power Room at the Data Center Provider complex. Given 
+the consistently heavy load and the other two 
+CRAC units available to support in the cooling 
+duties, the pilot unit runs approximately 4,500 
+hours or more annually prior to the installation.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

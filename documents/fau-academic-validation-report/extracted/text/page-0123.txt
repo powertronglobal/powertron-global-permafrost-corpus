@@ -1,0 +1,59 @@
+ 
+IPMVP Framework and Options       23 
+ 
+Option A Savings  =  Estimated Value x (Baseline-Period, measured parameter  
+ 
+ 
+ 
+ 
+ 
+ 
+– Reporting-period, measured parameter) 
+1d) 
+Option A: Installation Verification  
+Since some values may be estimated under Option A, great care is needed to review the 
+engineering design and installation to ensure that the estimates are realistic, achievable, and 
+based on equipment that should truly produce savings as intended.  
+At defined intervals during the reporting period, the installation should be re-inspected to verify 
+continued existence of the equipment and its proper operation and maintenance. Such re-
+inspections will ensure continuation of the potential to generate predicted savings and validate 
+estimated parameters. The frequency of these re-inspections is determined by the likelihood of 
+performance changes. Such likelihood can be established through initial frequent inspections to 
+establish the stability of equipment existence and performance.  
+An example of a situation needing routine re-inspection is a lighting retrofit. You can determine 
+savings by sampling of the performance of fixtures and counting the number of operating 
+fixtures. In this case, the continued existence of the fixtures and operation of the lamps is critical 
+to the savings determination. Similarly, where the settings of controls are assumed, but subject 
+to tampering, regular recordings of control settings or actual equipment functions can limit the 
+uncertainty of the estimated values.  
+Option A: Cost  
+Savings determinations under Option A can be less costly than under other Options, since the 
+cost of estimating a parameter is often significantly less than the cost of measurement. However 
+in some situations where estimation is the only possible route, a good estimate may be costlier 
+than if direct measurement were possible. Cost planning for Option A should consider all 
+elements: analysis, estimation, meter installation, and the ongoing cost to read and record data.  
+Option A: Best Applications  
+In addition to the retrofit isolation best applications in Chapter 4.8, above, Option A is best 
+applied where:  
+ 
+Estimation of non-key parameters may avoid possibly difficult non-routine adjustments when 
+future changes happen within the measurement boundary.  
+ 
+The uncertainty created by estimations is acceptable.  
+ 
+The continued effectiveness of the ECM can be assessed by simple routine re-testing of key 
+parameters.  
+ 
+Estimation of some parameters is less costly than measurement of them in Option B or 
+simulation in Option D. 
+ 
+The key parameter(s) used in computing savings can be readily identified. Key parameters 
+are parameters used to judge a project’s or contractor’s performance.  
+4.7.2  Option B: Retrofit Isolation: All Parameter Measurement 
+Option B, Retrofit Isolation: All Parameter Measurement, requires measurement of all Equation 
+1) energy quantities, or all parameters needed to compute energy.   
+The savings created by most types of ECMs can be determined with Option B. However, the 
+degree of difficulty and costs increase as metering complexity increases. Option B methods will 
+generally be more difficult and costly than those of Option A. However, Option B will produce 
+more certain results where load and/or savings patterns are variable. These additional costs 
+may be justifiable if a contractor is responsible for all factors affecting energy savings. 

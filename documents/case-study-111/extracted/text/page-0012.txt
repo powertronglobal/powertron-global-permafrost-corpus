@@ -1,0 +1,53 @@
+Total Power Factor
+12
+The next graph illustrates how the Circuit Master® devices improved the Demand kVA directly at the CRAC 
+systems. As stated above, if another Circuit Master® device is installed on the secondary compressor of each 
+CRAC system and at each of the respective condensing units, the Demand kVA would be further reduced without 
+a noticeable increase in the ROI period.
+Total Demand KVA
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+"
+Demand KVA
+11/11/15
+PermaFrost NMR® &
+Circuit Master Installs
+11/4/15
+11/18/15
+12/16/15
+11/25/15
+12/2/15
+12/9/15
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+"
+Power Factor
+11/11/15
+PermaFrost NMR® &
+Circuit Master Installs
+11/4/15 
+11/18/15
+12/16/15
+11/25/15
+12/2/15
+12/9/15
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

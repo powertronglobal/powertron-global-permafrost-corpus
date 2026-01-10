@@ -1,0 +1,86 @@
+{
+  "title": "Independent Laboratory Testing Details",
+  "description": "Detailed test results from FAU, UL, and third-party labs",
+  "tests": [
+    {
+      "source_file": "2022_Oakridge_FAU-report.pdf",
+      "text_length": 478037,
+      "lab": "Florida Atlantic University / Oak Ridge",
+      "type": "University Research",
+      "temperature_readings": 196,
+      "eer_values": [
+        10.2,
+        9.2,
+        24.0
+      ],
+      "cop_values": [
+        1.55,
+        1.53,
+        3.8,
+        2.22,
+        2.14,
+        2.64,
+        1.44,
+        3.39,
+        1.45,
+        3.48
+      ],
+      "kw_per_ton": [],
+      "improvement_percentages": [
+        40.0,
+        15.0,
+        21.0,
+        20.0,
+        10.0,
+        50.0,
+        40.0,
+        20.0,
+        40.0,
+        50.0,
+        10.9,
+        9.0,
+        7.0,
+        4.0,
+        13.3,
+        20.3,
+        16.0,
+        4.9,
+        6.0,
+        16.0
+      ]
+    },
+    {
+      "source_file": "2022_UL-Report.pdf",
+      "text_length": 17854,
+      "lab": "Underwriters Laboratories (UL)",
+      "type": "Third-Party Certification",
+      "temperature_readings": 13,
+      "eer_values": [
+        10.3,
+        6.48,
+        7.98
+      ],
+      "improvement_percentages": [
+        5.0,
+        18.9,
+        2.9,
+        18.9,
+        22.5,
+        18.2,
+        24.6
+      ]
+    },
+    {
+      "source_file": "2022_UL_Verified_Report-.pdf",
+      "text_length": 529,
+      "lab": "Underwriters Laboratories (UL)",
+      "type": "Third-Party Certification"
+    },
+    {
+      "source_file": "2022_3rd-Party-MV.pdf",
+      "text_length": 1170,
+      "lab": "Third-Party M&V",
+      "type": "Independent Verification"
+    }
+  ]
+}

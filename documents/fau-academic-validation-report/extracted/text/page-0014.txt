@@ -1,0 +1,48 @@
+ 
+14 
+Age – 2004 
+Refrigerant Type – R-22 
+Nominal Cooling Capacity in Btuh / tons – 48,000 Btuh /4 tons 
+Design CFM – 1,600 
+ 
+Make – Carrier 
+Model – 48HJE005-561 
+Age – 2004 
+Refrigerant Type – R-22 
+Nominal Cooling Capacity in Btuh / tons – 48,000 Btuh / 4 tons 
+Design CFM – 1,600 
+ 
+Retail Tire Stores in [Florida Location].  Three locations in the [Florida Location] metro area.  The 
+North Florida and Bradenton stores each have 15-ton HVAC units. The Hanley Rd store 
+has two 5-ton HVAC units. All four of the units involved in the pilot were treated while 
+detailed forensic performance testing (outlined later in this report) was performed on 
+one unit at each location. The units tested were all packaged rooftop units using R22 
+refrigerant and totaling 35 tons. All three units provide cooling for the entire store and 
+is conservatively estimated to run 4,380 hours per year.  Characteristics of the HVAC 
+systems are as follows: 
+ 
+Make – HVAC Equipment Manufacturer 
+Model – TCH180E3OOBA 
+Age – not avail 
+Refrigerant Type – R-22 
+Nominal Cooling Capacity in Btuh / tons – 183,000 Btuh / 15.25 tons 
+Design CFM – 5500 
+ 
+Make – HVAC Equipment Manufacturer 
+Model – TCH180E3OOEA 
+Age – not avail 
+Refrigerant Type – R-22 
+Nominal Cooling Capacity in Btuh / tons – 183,000 Btuh / 15.25 tons 
+Design CFM – 5500 
+ 
+Make – Carrier 
+Model – 5OTMOO6A501 
+Age – not available 
+Refrigerant Type – R-22 
+Nominal Cooling Capacity in Btuh / tons – 60,000 Btuh / 5 tons 
+Design CFM – 1,900 
+ 
+Retail Service – 2 locations:  The Company decided to treat two chillers:  a Carrier 
+19XR water-cooled chiller located in New Brunswick, NJ and a York system located in 
+[Connecticut Location]. A diagnostic examination of the pilot equipment is implemented to 
+determine if the unit’s operational conditions are satisfactory. The product was allowed 

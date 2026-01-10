@@ -1,0 +1,66 @@
+®
+4
+28.86 tons
+39.28 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The RTUs should be operating @ 40 tons of cooling capacity
+• The RTUs were operating @ 28.86 tons of cooling capacity prior to
+   installing ECM
+• The RTUs now have 10.42 tons of restored cooling capacity after
+   ECM
+• The RTUs should be operating @ 3.2 COP or higher
+• The RTUs were operating @ 2.37 COP prior to the ECM
+   and 3.18 following the ECM
+• The average COP of the RTUs was increased by 31.6% 
+   following the ECM
+2.37
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+28.86
+tons Baseline
+100%
+CAPACITY @
+100% LOAD
+Baseline
+COP
+Post ECM
+COP
+2.37
+3.18
+3.18
+Post ECM COP
+39.28
+tons Post ECM
+31.6%
+Improvement
+in COP
+10.42
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of HVAC/R Eﬃciency Study Results
+RTU Unit Eﬃciency with PermaFrost NMR® ECM
+National Restaurant Chain is experiencing significant thermal degradation in its HVAC/R units. The lower baseline 
+operating tonnage and COP ratings are calculated based on historical data and are in line with the ASHRAE 
+loss of performance and cost to operate numbers. The degraded equipment performance was costing Ruby 
+Tuesday significant money and wasting energy in the four pilot RTU’s. The equipment was using significantly 
+more kWh to operate than they did when they were new.
+The performance summary includes the measured efficiency and tonnage of the RTU’s in the baseline and post 
+testing periods demonstrating the impact of thermal degradation. The implementation of PermaFrost NMR® 
+ECM in the four RTU’s averaging 11 years of age resulted in a restoration of 10.42 operating tons and an 
+average improvement of 31.6% in Coefficient of Performance (COP), significantly reducing the cost to operate 
+the RTU’s throughout the year.
+When compared to the newer untreated control RTU, the pilot RTU’s are already outperforming it. The 11 year 
+old units are averaging 9.82 tons of cooling produced while the Control Unit has already slipped to 9.37 tons. 
+This difference of .45 tons means the older units are producing an average of 4.8% more tonnage than the 
+Control Unit and a corresponding improvement in COP of 6.35%.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

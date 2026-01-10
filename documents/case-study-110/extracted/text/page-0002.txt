@@ -1,0 +1,60 @@
+HVAC/R Efficiency Report (Preliminary) 
+Purpose 
+Thermal degradation is well documented by the American Society of Heating, Refrigeration and Air 
+Conditioning Engineers (ASHRAE) and the original equipment manufacturers (OEM’s). It is a major cause of 
+capacity loss in Heating, Ventilation, Air Conditioning and Refrigeration (HVACR) systems, preventing them 
+from operating at the original design efficiency soon after installation.  The purpose of this study is to verify the 
+effectiveness of the PermaFrost NMR® Energy Conservation Measure (ECM) in the European Chiller Manufacturer chiller #2 at the 
+African Telecom Provider [Pretoria Area] Switching Centre and document the future avoided energy costs associated with the same. 
+Summary Results 
+This report contains specific information regarding a chiller BASE and POST performance profile at 100% 
+load supporting the African Telecom Provider A in South Africa.  BASE to POST performance versus design:  
+•
+95.51% to 90.31% less power consumed
+•
+76.91% to 88.61% increased cooling capacity
+•
+80.43% to 101.71% improved energy to capacity cost efficiency
+•
+80.48% to 98.51% improved coefficient of performance (COP)
+All testing was conducted by HVAC Contractor B’s Managing Director and Director of Engineering, [Technical Director], 
+assisted by Senior Technician [Client Representative], while being witnessed by [Client Representative], [Facilities Manager] and 
+[Facilities Rep] of Facilities Management Company A plus [Client Representative] and [Client Representative] of African Telecom Provider.  
+HVAC Contractor B supported the data collection process and installed the ECM into the chiller. HVAC Contractor B is the 
+exclusive national distributor for European Chiller Manufacturer in South Africa. 
+Testing - Goals 
+The BASE and POST testing determined the impact on 3 key elements relating to the original design 
+specifications that greatly affect the HVACR portion of the ETE switching centre power bill. They include: 
+•
+The cooling capacity the chiller is capable of producing after ten (10) years in service.
+•
+The actual cost of power required to produce the amount of cooling the chiller is delivering as
+reflected in the amount of kWEnergy per kWRefrigeration required measurement (kWE/kWR).
+•
+The thermal dynamic ability of the equipment to still perform at or close to operational design.
+Testing - Methodology (IPMVP) 
+The testing measurements used in the efficiency calculations were collected and compiled in accordance 
+with the IPMVP (International Measurement and Verification Protocol) framework.  The baseline day 
+chosen to test the chiller was an average day temperature and humidity-wise for the Midrand area in the 
+spring which will ensure repeatability of similar weather for the POST testing measurements. The weather 
+and facility conditions provided an adequate heat load to ensure the chiller the system would remain loaded 
+and running during the actual data collection period.  The boundary of the testing was the chiller and 
+nothing else; therefore confidence in the accuracy of the performance calculations is very high. 
+The content detailed in this report will demonstrate the ability of the pilot chiller to perform prior to and 
+after the ECM being installed, as well as illustrate the thermal degradation that naturally occurs in heat
+exchangers over time.  The results were formulated by entering the measured data into the 
+following thermodynamic engineering formulas: 
+•
+kWE = Volts*Amps*Power Factor *√3/1000
+(kWE = Kilowatt Energy) 
+•
+kWR = Flow Rate*1*Delta-T*4.185
+(kWR = Kilowatt Refrigeration) 
+•
+kWE/kWR = Efficiency
+(Cost to Operate) 
+•
+kWR/kWE = Coefficient of Performance
+(COP)  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,23 @@
+Energy Science Division
+PermaFrost NMR®: Determining the Payback Period for Global IT Services Provider
+Utilizing data in the above charts, to obtain a true avoided energy cost and subsequent payback period for Dimension 
+Data for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true 
+energy savings resulting from the improvement in capacity. This greater capacity reduces the runtime hours and in 
+turn reduces the annual kWh expended in the Post. The true ROI comes from determining what the cost to run the 
+units was when operating at their original energy profile to produce the newly restored amount of tonnage and then 
+subtracting the new cost to run the units at this same newly restored tonnage after the PermaFrost NMR® ECM was 
+installed. This regression calculation is the most scientific method of accounting for the reduced number of hours the 
+units will now run due to their increased capacity which allows the units to reach set temperatures quicker and shut off 
+sooner. 
+For calculations below R10.00 = $1.00
+Adjusted kWE Baseline        2.63 kWE/tonne * 30.8 tonnes = 80.9 kWE
+Adjusted Baseline kWh        80.9 kWE * 4,000 Annual Operating Hrs = 323600 kWh
+Revised Cost to Run Baseline        323,600 kWh * R1.00 = R323,600
+kW Post        1.78 kWE / tonne * 30.8 tonnes = 54.9 kWE
+Annual kWh Post         54.9 kWE * 4,000 hours = 219,600 kWh
+Annual Cost Post         219,600 kWh * R1.00 = R219,600
+Avoided Energy Cost (savings) Per Month       (R323,600 - R219,600) /12 = R8,667
+Cost of PermaFrost NMR® installed in pilot System        R114,000
+Estimated Energy Savings Payback Period for Global IT Services Provider        R114,000 / R8,667 = 13.15 months
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

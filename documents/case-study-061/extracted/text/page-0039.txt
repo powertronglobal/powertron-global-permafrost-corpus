@@ -1,0 +1,106 @@
+Results Summary
+Energy Science Division
+System Eﬃciency Improvements
+COP Improvements
+Unit
+#1
+#2
+#3
+Cashiers
+Managers
+#32
+#34
+#38
+AVERAGE
++ 16.8%
++ 11.1 %
++ 17.2%
++ 50.3%
++ 126%
++ 33.5%
++ 27.3%
++ 22%
++ 38%
++ 24%
++ 15.4%
++ 12.1%
++ 46.5%
++136.9%
++36.6%
++37.5%
++48.5%
++44.7%
+Baseline
+CONSOLIDATED DATA
+216,234.00 
+ 
+ 
+150,851.30 
+171.0 
+ 
+ 
+ 
+225.5
+ 
+ 
+31.85% 
+1,264.38 
+ 
+ 
+668.99
+ 
+ 
+-47.1% 
+73.19 
+ 
+ 
+ 
+73.39
+56.06  
+ 
+ 
+51.6
+ 
+ 
+21.40% 
+ 
+ 
+38,073.00 
+ 
+ 
+0.2098 
+ 
+ 
+23,178.00 
+ 148,990.41 
+ 
+ 
+104,809.41 
+ 
+ 
+44,181.00 
+ 
+ 
+-29.7% 
+ 
+ 
+10 
+MEASUREMENT
+Total Watts/h
+Actual Capacity (TR)
+Performance Improvement of Equipment (%)
+Watts / TR
+Energy Eﬃciency Watts per TR
+Return Air Temperature
+Supply Air Temperature
+Delta T Improvements (%)
+PermaFrost NMR® Cost
+Cost per kW w/ tax
+Equipment Runtime
+Cost of Total Energy
+Electricity Bill Savings Annually (USD)
+Electricity Bill Savings Annually (HVAC %)
+ROI
+Energy Reporting Period
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

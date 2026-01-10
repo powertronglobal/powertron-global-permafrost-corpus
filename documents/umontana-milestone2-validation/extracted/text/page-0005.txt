@@ -1,0 +1,29 @@
+ 
+ 
+Page 5 of 38 
+ 
+ 
+Figure 2 - Single Node, Single Level Decision Tree 
+ 
+ 
+Figure 3 - Decision Tree with Two Nodes & Two Levels 
+ 
+ 
+Figure 4 - Duplicate Decision Tree 
+ 
+ 
+Each tree in the ensemble can be considered a separate ‘vote' for a data point to be placed in the 
+‘buy’ or ‘don’t buy’ labeling category. Using the above ensemble of trees, a phone > $500 could be 
+bought if it had > 64 GB of storage and 4 GB of RAM. The first tree would push the needle towards 
+not buying the phone as the price is too high, but the latter two trees would push the tree towards 
+buying it. The ensemble classification results in a "vote" of two to one, thus the phone would be 
+bought and the bias from the simple decision tree is removed. 
+ 
+Random forest has several other advantages that improve its performance over simplified decision 
+trees.  For example, small trees could also be trained on different datasets, further increasing 
+flexibility. Also, the relative importance of different features can be analyzed by comparing the 
+performance of different tree configurations to the training dataset.   
+ 
+For the purposes of this project, the random forest was trained on 39 days of Department Store A data. Nine days 
+fall into the category of pre-treatment in October, 2019 (these were labeled anomalous) and 30 from 
+the category of post-treatment in May, 2020 (these were labeled normal). The features used were: 

@@ -1,0 +1,48 @@
+ 
+Appendix C Region Specific Materials         111 
+ 
+Se puede encontrar en la web del Ministerio de Industria, Turismo y Comercio, en 
+http://www.mityc.es/energia/desarrollo/EficienciaEnergetica/CertificacionEnergetica/ProgramaC
+alener/Paginas/DocumentosReconocidos.aspx 
+ 
+El programa LIDER es una aplicación que permite verificar el cumplimiento de la exigencia 
+"Limitación de la demanda energética" regulada en el DB-HE1 del nuevo Código Técnico de 
+Edificación. 
+Dicho programa está incluido dentro el CALENER – VYP que se encuentra en la referencia 
+anterior, aunque se puede obtener independientemente en la web 
+http://www.codigotecnico.org/index.php?id=33  
+ 
+Anexos al Capítulo 4.9.2. Item 2 
+Los datos meteorológicos en tiempo real están disponibles en la web de la Agencia Estatal de 
+Meteorología, dependiente del Ministerio de Medio Ambiente, Medio Rural y Marino en la web 
+http://www.aemet.es/es/eltiempo/observacion/ultimosdatos?k=mad  
+ 
+Para la obtención de datos meteorológicos históricos igualmente en la Agencia Estatal de 
+Meteorología, dependiente del Ministerio de Medio Ambiente, Medio Rural y Marino en la web 
+http://www.aemet.es/es/elclima/datosclimatologicos/resumenes  
+ 
+Anexos al Capítulo 8.10 
+La normativa y legislación española referente al Código Técnico de la Edificación 
+(CTE) se encuentra en la web del Ministerio de Vivienda en 
+http://www.mviv.es/es/index.php?option=com_content&task=view&id=552&Itemi
+d=226 
+ 
+Respecto al Reglamento de Instalaciones Térmicas de los Edificios (RITE) están 
+disponibles en la web del Ministerio de Industria, Turismo y Comercio, en 
+http://www.mityc.es/energia/desarrollo/EficienciaEnergetica/RITE/Paginas/Instala
+cionesTermicas.aspx.  
+C-3.1  Catalunya - Setembre 2010 
+ 
+Pel desenvolupament de l’IPMVP a Catalunya es podrà utilitzar tota la informació específica a 
+la que es fa referència a l’apartat C-3 d’Espanya. 
+A més de la normativa europea, per fer possible la transició cap a un model energètic més 
+sostenible s’hauran de tenir presents les normatives i decrets específics per a Catalunya, tant 
+les que fan referència a la totalitat de les empreses com les que fan referència als edificis 
+públics: 
+ 
+Directiva 2006/32/CE del Parlament Europeu i del Consell, de 5 d’abril de 2006 sobre 
+l’eficiència de l’ús final de l’energia i els serveis energètics, la qual deroga la Directiva 
+93/76/CEE del Consell.  
+ 
+Decret 21/2006, de 14 de febrer, pel qual es regula l’adopció de criteris ambientals i 
+d'ecoeficiència en els edificis. (Decret d’Ecoeficiència) 

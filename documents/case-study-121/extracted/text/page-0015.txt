@@ -1,0 +1,146 @@
+®
+1.44
+POST
+BASELINE
+1.12
+kW/ton
+REDUCTION
+22.2%
+REDUCTION
+REDUCTION
+POST
+BASELINE
+Calculated Annual kWh 
+22.1%
+25.8%
+POST
+BASELINE
+Enthalpy Delta
+IMPROVEMENT
+POST
+BASELINE
+19.7
+Refrigerant Approach
+14.7%
+5.92
+55,760
+43,420
+Key Results for Tamarac RTU with PermaFrost NMR® ECM
+HVAC Equipment Manufacturer
+YCD120C300
+Z40101671D
+R22
+10
+4,000
+2001
+System Description
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+202.1
+36.4
+35.6
+120.9
+62.5
+262.9
+75.3
+52.4
+62.4
+50.7
+28.14
+20.69
+7.45
+16.8
+10.81
+1.12
+9.68
+3,465
+43,420
+100
+86
+3.15
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Suction Temperature  
+Discharge Temperature 
+ 
+Suction Pressure 
+ 
+Discharge Pressure 
+ 
+Entering Air DB 
+ 
+Leaving Air DB 
+ 
+Entering Air WB 
+ 
+Leaving Air WB 
+ 
+Enthalpy of Entering WB 
+ 
+Enthalpy of Leaving WB 
+ 
+Delta-T of Enthalpy 
+ 
+Evaporator Approach  
+kW (V x A x 1.47)/1000 
+ 
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Unit CFM 
+ 
+Annual kWh (Following regression Analysis) 
+ 
+Unit % Load During Testing  
+OAT 
+ 
+Coeﬃcient of Performance (COP)  
+203.7
+36.9
+35.6
+118
+62.4
+252.9
+74.7
+55.3
+60.8
+51.4
+27.01
+21.09
+5.92
+19.7
+11.05
+1.44
+7.69
+3,465
+55,760
+100
+86
+2.44
+Notes: This pilot RTU provides cooling to the Dining 
+Room. It is estimated the RTU runs approximately 
+3,500 hours annually prior to the ECM being 
+implemented. 
+Images below are the measured WB & DB readings 
+directly across the RTU coil in the baseline and post 
+data collection periods.
+16.8
+7.45
+BASELINE
+POST
+    14
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

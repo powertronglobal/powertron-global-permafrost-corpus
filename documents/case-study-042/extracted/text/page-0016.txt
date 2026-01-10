@@ -1,0 +1,38 @@
+Energy Reporting Period (Post)
+The identical IPMVP data recordings from the baseline (including insertion depths with probes) were 
+recorded on 9/4/2012 using the same recently NIST calibrated devices to insure measurement accuracy. 
+They are as follows:
+Results
+The following are the final test results from the unit after normalizing for cooler weather in the post and 
+adjusting for the capacity regression analysis in the baseline.
+Energy Science Division
+Voltage
+Normalized Amperage
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Entering Air Temp DB
+Leaving Air Temp DB
+Entering Air Temp WB
+Leaving Air Temp WB
+Actual CFM
+Actual Coil Capacity Btuh / tons
+Enthalpy Delta
+Normalized Total Watts  
+Normalized Watts per Ton
+OAT / RH
+210.1V
+13.9 A
+39.9 F
+109.9 F
+70 F
+53.9 F
+58.8 F
+47.9 F
+1,600
+46,800 Btuh / 3.9 tons
+6.5
+4,293
+1,101 WPT
+82 F / 70%
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

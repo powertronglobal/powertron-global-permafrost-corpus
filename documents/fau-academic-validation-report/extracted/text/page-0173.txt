@@ -1,0 +1,52 @@
+ 
+Appendix A Examples         73 
+ 
+Assuming the lighting savings are achieved uniformly over a 10 month period, the typical winter 
+month electrical savings are 384,000/10 = 38,400 kWh/month.  The associated boiler load 
+increase is 6.0% of these electrical savings for November through March, namely: 
+ 
+=  6.0% x 38,400 kWh/mo x 5.0 months  =  12,000 kWh 
+Extra boiler input energy is: 
+ 
+=  12,000 kWh / 79% = 6.0% x 38,400 kWh/mo x 5.0 months / 79% = 15,000 kWh 
+equivalent units of fuel input. 
+The gas being used in the boiler has an energy content of 10.499 kWh/m3, so the amount of 
+extra gas is = 15,000  / 10.499 = 1,400 m3 gas  
+The value of the extra gas used in winter is 1,400 x $0.255 = CDN$360. Therefore total net 
+savings are $39,500 – $360 = CDN$39,100.   
+A-3-1  Lighting Operational Control – Option A 
+Situation  A knitting mill in southern India typically operates 2 shifts per day. There was a 
+standing order for the supervisors to turn off all lights in each zone at the end of the second 
+shift. There are 70 light switches. Supervisors regularly changed between working on the first 
+and second shifts. They habitually forgot their duty to turn off lights.  
+The plant manager undertook a project to modify the lighting so that occupancy sensors turned 
+lights on and off. He wanted to document the results to show the supervisors how poorly they 
+had been using the light switches.  
+Factors Affecting M&V Design  None of the production area had windows or skylights. It is 
+neither heated nor cooled. Lighting circuits are integrated with other electrical loads so that 
+lighting use could not be easily isolated from other uses of electricity. 
+The plant manager did not wish to spend a lot to determine savings, but needed a credible 
+statement of the savings. 
+The electricity price for medium sized commercial users is 450 p/kWh. 
+M&V Plan  To minimize M&V costs it was decided to perform savings measurements for only a 
+short representative period and use IPMVP Volume I, EVO 10000 – 1:2012, Option A. Since the 
+primary purpose of the retrofit was to control production area lighting hours, a sampling based 
+method was developed to measure the change in operating hours. The lighting power (for use in 
+Equation 1d)) was estimated from manufacturers’ ratings to be 223 kW.  
+Lighting loggers were placed randomly around the production area to record the operating hours 
+of randomly chosen lighting zones. The number of loggers was chosen as follows, to obtain an 
+overall precision in operating period estimates of ±10%, at 90% confidence. It was expected that 
+the mean operating hours before installation of the occupancy sensors would be 125 hours per 
+week, and that the standard deviation in readings would be 25. Therefore the initially estimated 
+cv is 0.20 and the necessary number of samples (with z of 1.96) is 15 (Equation B-16). Since 
+there are only 70 zones, the finite population adjustment lowers the estimated required number 
+of loggers to 12 (Equation B-17). It was assumed that after installation of occupancy sensors the 
+cv will be much lower so the 12 loggers will be adequate. 
+There are no interactive effects of this retrofit on other building loads because the plant is 
+neither heated nor air-conditioned. The reduction in night-time lighting is expected to make the 
+building more thermally comfortable at the beginning of the morning shift. 
+Results  After a one month period, data was gathered from the loggers and the average weekly 
+operating hours computed for the 12 zones. The mean value was 115 and the standard 
+deviation was 29. Therefore the cv was 0.24 ( = 29 / 115 ), higher than the expected value and 
+worse than necessary to meet the precision requirement. Therefore another month of recording 
+was undertaken. Then the mean of the eight weeks of average weekly values was 118, and the 

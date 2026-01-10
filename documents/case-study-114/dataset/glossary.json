@@ -1,0 +1,45 @@
+{
+  "doc_id": "pdf_110",
+  "terms": [
+    {
+      "term": "Energy Conservation Measure",
+      "abbreviation": "ECM",
+      "definition": null
+    },
+    {
+      "term": "Retail Chain",
+      "abbreviation": "RCC",
+      "definition": null
+    },
+    {
+      "term": "Air Conditioning and Refrigeration",
+      "abbreviation": "HVACR",
+      "definition": null
+    },
+    {
+      "term": "These efficiency improvements demonstrated equate to an Initial Payback Period",
+      "abbreviation": "IPP",
+      "definition": null
+    },
+    {
+      "term": "Internal Rate of Return",
+      "abbreviation": "IRR",
+      "definition": null
+    },
+    {
+      "term": "National Environmental Balancing Bureau",
+      "abbreviation": "NEBB",
+      "definition": null
+    },
+    {
+      "term": "Coefficient of Performance",
+      "abbreviation": "COP",
+      "definition": null
+    },
+    {
+      "term": "Saturated Evaporator Temp",
+      "abbreviation": "CH",
+      "definition": null
+    }
+  ]
+}

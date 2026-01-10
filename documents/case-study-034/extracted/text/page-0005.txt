@@ -1,0 +1,56 @@
+4
+30.75 tons
+28.65 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• Rack A now is using 2.1 fewer tons in the post to achieve the
+same multiple evaporator set points as in the baseline.
+• Using the national average cost per kWh of $.105, the reduction
+of 99,076 kWh’s equates to an annual energy savings of $10,403.
+1,486,660
+Baseline kWh
+kWh’s
+30.75
+tons Baseline
+CAPACITY @
+SIMILAR
+OPERATING
+CONDITIONS
+Baseline
+kWh
+Post ECM
+kWh
+1,486,660
+1,387,584
+1,387,584
+Post ECM kWh
+28.65
+tons Post ECM
+99,076
+Reduction
+in kWh
+2.1
+tons of
+Capacity
+not needed
+TONS OF COOLING
+ANNUAL KWH’s USED
+Refrigeration Eﬃciency Study Results
+Calculated Eﬃciency of Major US Warehouse Retailer Refrigeration Baseline and Post
+The charts below illustrate where the energy savings achieved in this pilot are stemming from. The average 
+tonnage required to achieve the multiple low and medium evaporator set points has been reduced from 30.75 
+in each section of Rack-A down to 28.65. This equates to a reduction of 6.83%. The overall annual kWh’s 
+associated with the operation of Rack-A dropped 6.63%, from 1,486,660 kWh in the baseline to 1,388,032 in the 
+post.  Given nearly identical voltage recorded in both the baseline and post measurement periods, the average 
+Amps used by the compressors to reach given evaporator set points dropped from 208.4 down to 195.2, equating 
+to 6.33%. Finally, the calculated kW/ton dropped from 2.76 to 2.58 which equates to a reduction of 6.52%.
+The key system improvements have come by way of thermal dynamic efficiency improvement, which 
+demonstrates how much heat is being absorbed in the cooling cycle. In particular, the delta of the leaving 
+refrigerant temperature at the compressor and the refrigerant temperature returning from the evaporators.  For 
+Rack-A, the refrigerant delta in the baseline averaged 39.3 degrees and increased to 42.08 degrees in the post. 
+This equates to an increase in the thermal transfer ability of Rack-A of 7.1%   
+Refrigeration Eﬃciency with PermaFrost NMR® ECM
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

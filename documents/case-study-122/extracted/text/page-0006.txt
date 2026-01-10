@@ -1,0 +1,46 @@
+®
+• The Untreated Unit is currently producing 26.5 tons of cooling capacity
+• The Treated Unit is producing 32.5 tons of cooling capacity or an
+  additional 6.0 tons which equates to 22.8% more than the Untreated Unit
+• The Untreated Unit is currently producing a COP of 2.48
+• The Treated Unit is producing a COP of 3.09 which equates
+  to 24.6% more than the Untreated Unit
+2.48
+COP
+Untreated Unit
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+26.5
+tons
+Untreated Unit
+100%
+CAPACITY @
+100% LOAD
+Untreated
+Treated
+2.48
+3.09
+Untreated
+Treated
+26.5
+32.5
+3.09
+COP Treated Unit
+32.5
+tons Treated Unit
+24.6%
+Improvement
+in COP
+6.0
+tons of
+Additional
+Capacity
+TONNAGE
+COP
+August 2015 Measured Performance of Comparable Units
+after 9-Years in Service
+5
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

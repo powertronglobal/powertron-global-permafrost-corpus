@@ -1,0 +1,24 @@
+Make
+Model (indoor unit / outdoor unit)
+Serial
+Refrigerant Type
+Age
+Nominal Cooling Capacity Btuh 
+Tonnage
+HVAC Equipment Manufacturer
+SAVE400-2T
+BR0999S0130
+ R-438A
+ 1999
+480,000
+ 40
+       Unit #38 (CENTRO ADMINISTRATIVO TATUAPÉ)    
+System Description / Design Characteristics
+Baseline & Energy Reporting (Post) Periods
+The baseline data was recorded on 4/10/13 using NIST calibrated devices to insure measurement accuracy. 
+The following results were recorded as a result of the implementation of the IPMVP Protocol. The identical 
+IPMVP data recordings from the baseline were recorded on 5/20/13 using the same NIST calibrated devices 
+to insure measurement accuracy. The Energy Reporting Period measurements are as follows:
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

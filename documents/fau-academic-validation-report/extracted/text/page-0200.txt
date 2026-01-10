@@ -1,0 +1,74 @@
+100        Appendix B Uncertainty 
+ 
+Over-sizing of meters whose precision is stated relative to maximum reading will significantly 
+reduce the precision of the actual metering. 
+The readings of many meter systems will ‘drift’ over time due to mechanical wear. Periodic re-
+calibration against a known standard is required to adjust for this drift. It is important to maintain 
+the precision of meters in the field through routine maintenance, and calibration against known 
+standards.  
+In addition to accuracy of the meter element itself, other possibly unknown effects can reduce 
+meter system precision:   
+ 
+poor placement of the meter so it does not get a representative ‘view’ of the quantity it is 
+supposed to measure (e.g., a fluid flow meter’s readings are affected by proximity to an 
+elbow in the pipe) 
+ 
+data telemetry errors which randomly or systematically clip off meter data 
+As a result of such unquantifiable metering errors, it is important to realize that manufacturer-
+quoted precision probably overstates the precision of the actual readings in the field. However 
+there is no way to quantify these other effects. 
+Manufacturer precision statements should be in accordance with the relevant industry standard 
+for their product. Care should be taken to determine the confidence level used in quoting a 
+meter’s precision. Unless stated otherwise, the confidence is likely to be 95%.  
+When a single measurement is used in a savings computation, rather than the mean of several 
+measurements, the methods of Appendix B-5 are used to combine uncertainties of several 
+components. The standard error of the measured value is: 
+ 
+ 
+ 
+ 
+t
+value
+measured
+precision
+relative
+meter
+SE
+
+
+ 
+B-18 
+ 
+Where t is based on the large sampling done by the meter manufacturer when developing its 
+relative precision statement. Therefore the Table B-1 value of t should be for infinite sample 
+sizes. 
+When making multiple readings with a meter, the observed values contain both meter error and 
+variations in the phenomenon being measured. The mean of the readings likewise contains both 
+effects. The standard error of the estimated mean value of the measurements is found using 
+equation B-4.  
+Chapters 4.8.3 and 8.11 further discuss metering and provide references to other useful 
+readings on metering.  
+B-5   Combining Components of Uncertainty 
+Both the measurement and adjustment components in Equation 1 of Chapter 4 can introduce 
+uncertainty in reporting savings. The uncertainties in the individual components can be 
+combined to enable overall statements of savings’ uncertainty. This combination can be 
+performed by expressing the uncertainty of each component in terms of its standard error.  
+The components must be independent to use the following methods for combining uncertainties. 
+Independence means that whatever random errors affect one of the components are unrelated 
+to the errors affecting other components.  
+If the reported savings is the sum or difference of several independently determined 
+components (C) (i.e., 
+p
+C
+C
+C
+Savings
+
+
+
+
+...
+2
+1
+), then the standard error of the reported 
+savings can be estimated by: 

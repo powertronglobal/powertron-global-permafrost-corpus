@@ -1,0 +1,45 @@
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2020 Powertron Global, LLC. 
+The confirmatory testing is designed to monitor the operation of any system, 
+before and after installation of PermaFrost NMR® and the Multi-Enzyme exterior 
+coil cleaning, to verify the amount of capacity restored and current kW/ton energy 
+savings improvement.  
+The monitoring isolates the entry and departure points of the medium being 
+cooled and the power being used. By recording the conditions at those entry and 
+departure points the overall cooling results can be compared to the overall power 
+consumed to quantify the power costs per unit of cooling kW/Ton (kilowatt-per-
+ton), EER (Energy Efficiency Ratio), COP (Co-Efficient of Performance), Total 
+Capacity & Enthalpy Delta T. 
+Notes: 
+RTU 8 & RTU 9 & unfortunately did not run enough to meet the required gestation 
+time (~500 hours per circuit) in order for PermaFrost NMR to fully seat into the 
+metal surfaces of the refrigeration circuits. No results were available for the post-
+reporting period. 
+RTU 13 had all of it’s gestation time was met in compressor 1(circuit 1) but not in 
+the other two compressors/circuits. As mentioned in the baseline report submitted 
+on July 22, 2020, RTU 13 is equipped with 3 compressors however the primary 
+compressor that is used is compressor 1. This compressor does work in 
+conjunction with compressor 2 on occasion throughout a given seven-day period. 
+This compressor is rated at 6 tons but only outputting an average of .37 tons. We 
+recommend this unit being serviced AFTER the testing is completed. Compressor 
+3 is never energized. It was determined to use the data set when compressor 1 & 
+2 were energized. No usable post data was available. 
+These three units were omitted form the results summary and appendix sections. 
+RTU 8 
+RTU 9 
+RTU 13 
+Circuit 1 
+Circuit 2 
+Circuit 1 
+Circuit 2 
+Circuit 1 
+Circuit 2 
+Circuit 3 
+130 
+0.5 
+18 
+0 
+457 
+38.7 
+0 
+(in hours) 

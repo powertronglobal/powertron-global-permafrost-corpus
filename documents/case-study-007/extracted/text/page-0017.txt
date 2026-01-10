@@ -1,0 +1,113 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+Unit Node 
+Post Dates 
+(20 Days) 
+Begin Meter 
+Reading kWh 
+End Meter 
+Reading kWh 
+Total kWh 
+Used 
+507 
+9/6/23-9/25/23 
+7482.41 
+8047.97 
+565.56 
+508 
+9/6/23-9/25/23 
+8442.30 
+9085.80 
+643.5 
+*509 
+9/6/23-9/25/23 
+3456 
+3950 
+449 
+510 
+9/6/23-9/25/23 
+2554.80 
+2722.84 
+168.04 
+511 
+9/6/23-9/25/23 
+4620.7 
+5016.82 
+396.12 
+512 
+9/6/23-9/25/23 
+4565.6 
+4967 
+401.4 
+513 
+9/11/23-9/30/23 
+6437.60 
+6926.70 
+489.1 
+514 
+9/14/23-10/3/23 
+5192.50 
+5589.80 
+397.3 
+515 
+9/6/23-9/25/23 
+2562.69 
+2786.70 
+224.01 
+516 
+9/6/23-9/25/23 
+2995.8 
+3253 
+257.2 
+517 
+9/6/23-9/25/23 
+1638.42 
+1784.3 
+145.88 
+518 
+9/6/23-9/25/23 
+1783 
+1942.59 
+159.59 
+520 
+9/2/23-9/21/23 
+ 
+ 
+**557.68 
+521 
+9/6/23-9/25/23 
+3056.6 
+3291.80 
+235.2 
+522 
+9/6/23-9/25/23 
+3273.7 
+3532.8 
+259.1 
+523 
+9/6/23-9/25/23 
+2598.4 
+2823 
+224.6 
+524 
+9/6/23-9/25/23 
+2284.87 
+2485 
+200.13 
+525 
+9/6/23-9/25/23 
+9203.66 
+9864.78 
+661.12 
+526 
+9/6/23-9/25/23 
+8068.1 
+8647.3 
+579.2 
+*Decimal place is off in raw data by one place but the data is accurate in this table 
+**Calculated using kW and runtime hours (CT was fixed during PF installation and meter data is available for 
+post period for comparison and accuracy) 
+ 
+ 

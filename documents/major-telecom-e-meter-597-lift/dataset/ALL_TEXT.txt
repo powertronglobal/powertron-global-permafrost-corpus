@@ -1,0 +1,118 @@
+═══ EXECUTIVE SUMMARY ═══
+PermaFrost NMR Energy Study: Major Telecom E Meter 597 Lift
+
+Study Overview
+----------------------------------------
+This study analyzed 5,614 high-resolution measurements collected at 2-second intervals.
+Baseline period: 2,854 data points
+Post-treatment period: 2,760 data points
+
+
+Facility Information
+----------------------------------------
+Customer: Major Telecom E
+Industry: Telecommunications
+
+═══ METHODOLOGY ═══
+Measurement Methodology
+========================================
+
+Data Type: Time Series
+Total Measurements: 5,614
+
+Source Data Files:
+  - 597 lift baseline.csv: 2,854 rows (baseline period)
+  - 597 lift post.csv: 2,760 rows (post period)
+
+Measurement Protocol
+----------------------------------------
+This study follows the International Performance Measurement & Verification Protocol (IPMVP)
+for collecting and analyzing HVAC performance data. Key metrics measured include:
+
+  - Coefficient of Performance (COP)
+  - Energy Efficiency Ratio (EER)
+  - Power consumption (kW)
+  - Cooling capacity (Tons)
+  - kW per Ton efficiency
+  - Outdoor air temperature
+  - Chilled water flow rate (GPM)
+  - Chilled water delta temperature
+
+Measurements were collected at 2-second intervals using calibrated sensors
+to capture transient system behavior and ensure statistical significance.
+
+═══ DETAILED METRICS ═══
+Detailed Metrics Analysis
+========================================
+
+Data File: 597 lift baseline.csv
+Period: Baseline
+Measurements: 2,854
+------------------------------
+
+kW:
+  Mean: 52.590
+  Median: 49.728
+  Std Dev: 10.722
+  Range: 35.873 to 82.647
+
+Meter 1 kWh:
+  Mean: 42,375
+  Median: 42,384
+  Std Dev: 871.252
+  Range: 40,956 to 43,979
+
+Outdoor Air Temperature Entering Condenser (F):
+  Mean: 81.206
+  Median: 80.466
+  Std Dev: 7.588
+  Range: 69.620 to 96.203
+
+Chilled Water Flow Rate (GPM):
+  Mean: 273.776
+  Median: 274.409
+  Std Dev: 4.715
+  Range: 260.178 to 413.982
+
+Time Range:
+  Column: DateTime
+  Start: 2024-10-02 05:01:00
+  End: 2024-10-04 04:58:00
+  Duration: 48.0 hours
+
+
+Data File: 597 lift post.csv
+Period: Post
+Measurements: 2,760
+------------------------------
+
+kW:
+  Mean: 41.123
+  Median: 32.396
+  Std Dev: 29.501
+  Range: -13.236 to 166.424
+
+Meter 1 kWh:
+  Mean: 278,523
+  Median: 278,485
+  Std Dev: 642.422
+  Range: 277,404 to 279,849
+
+Outdoor Air Temperature Entering Condenser (F):
+  Mean: 86.545
+  Median: 86.409
+  Std Dev: 5.136
+  Range: 77.525 to 94.760
+
+Chilled Water Flow Rate (GPM):
+  Mean: 226.954
+  Median: 243.748
+  Std Dev: 61.831
+  Range: 0.000 to 378.350
+
+Time Range:
+  Column: DateTime
+  Start: 2025-06-17 05:01:00
+  End: 2025-06-19 04:59:00
+  Duration: 48.0 hours
+

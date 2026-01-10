@@ -1,0 +1,217 @@
+{
+  "title": "PermaFrost NMR Screening Criteria and Limitations",
+  "version": "1.0.0",
+  "last_updated": "2025-12-28",
+  "purpose": "Document system screening criteria, lower-performing results, and known limitations for balanced AI training",
+
+  "pe_screening_criteria": {
+    "description": "Professional Engineers reject systems that are 'broken' - too far off design specifications to be viable test candidates",
+    "minimum_requirements": [
+      "System must be operational (not mechanically failed)",
+      "Compressor must be running within rated amperage range",
+      "Refrigerant charge must be within acceptable limits",
+      "No major refrigerant leaks",
+      "Evaporator and condenser coils must be functional",
+      "System must be capable of producing measurable cooling output"
+    ],
+    "disqualifying_conditions": [
+      "Compressor mechanical failure",
+      "Severe refrigerant undercharge (>20% low)",
+      "Blocked or collapsed coils",
+      "Failed expansion valve",
+      "Electrical system faults",
+      "Control system failures preventing operation"
+    ],
+    "rationale": "Systems with fundamental mechanical problems cannot provide valid baseline measurements. The goal is to measure thermal efficiency improvement from oil fouling remediation, not mask underlying equipment failures."
+  },
+
+  "lower_performing_results": {
+    "description": "24 case studies with <15% efficiency improvement - still successful but below average",
+    "average_improvement": 23.3,
+    "cases": [
+      {
+        "identifier": "Naval Vessel A",
+        "improvement_pct": 3.8,
+        "equipment_age_years": 20,
+        "likely_factors": ["Very old equipment (20 years)", "Marine application with different operating conditions", "Possible prior maintenance reducing oil fouling"]
+      },
+      {
+        "identifier": "Major Global Bank A [New Jersey Location]",
+        "improvement_pct": 4.1,
+        "likely_factors": ["Well-maintained data center equipment", "Regular maintenance program may have reduced oil fouling baseline"]
+      },
+      {
+        "identifier": "Nonprofit Fitness A Facility",
+        "improvement_pct": 4.1,
+        "equipment_age_years": 10,
+        "likely_factors": ["Moderate age", "Possible recent refrigerant work"]
+      },
+      {
+        "identifier": "Pharma Company B Pharmaceutical NB",
+        "improvement_pct": 4.6,
+        "likely_factors": ["Pharmaceutical-grade maintenance standards", "Lower baseline oil fouling due to rigorous maintenance"]
+      },
+      {
+        "identifier": "Pharma Company B Pharmaceutical [Connecticut Location]",
+        "improvement_pct": 6.0,
+        "likely_factors": ["Same - pharmaceutical maintenance standards"]
+      },
+      {
+        "identifier": "Retail Chain B Refrigeration",
+        "improvement_pct": 6.5,
+        "equipment_age_years": 11,
+        "likely_factors": ["Commercial refrigeration systems", "Different operating profile than HVAC"]
+      },
+      {
+        "identifier": "Caribbean Telecom Provider",
+        "improvement_pct": 6.8,
+        "likely_factors": ["Tropical climate operation", "Different thermal dynamics"]
+      },
+      {
+        "identifier": "Hotel Chain [Louisiana Location]",
+        "improvement_pct": 7.7,
+        "equipment_age_years": 4,
+        "likely_factors": ["Relatively new equipment", "Less oil fouling accumulation time"]
+      },
+      {
+        "identifier": "Company C",
+        "improvement_pct": 7.8,
+        "likely_factors": ["Unknown - requires investigation"]
+      },
+      {
+        "identifier": "Industrial Mfg A",
+        "improvement_pct": 9.1,
+        "likely_factors": ["Industrial application", "Different operating conditions"]
+      },
+      {
+        "identifier": "Data Center B Data Center",
+        "improvement_pct": 9.2,
+        "equipment_age_years": 6,
+        "likely_factors": ["Younger equipment", "Data center maintenance standards"]
+      }
+    ],
+    "analysis": {
+      "common_factors_for_lower_results": [
+        "New or well-maintained equipment with less oil fouling",
+        "Pharmaceutical/data center facilities with rigorous maintenance programs",
+        "Recent refrigerant work that may have cleaned some surfaces",
+        "Tropical/marine environments with different thermal characteristics",
+        "Commercial refrigeration vs HVAC operating profiles"
+      ],
+      "key_insight": "Lower improvement percentages typically correlate with well-maintained systems or newer equipment where oil fouling has had less time or opportunity to accumulate"
+    }
+  },
+
+  "known_limitations": {
+    "equipment_types_with_limited_data": [
+      {
+        "type": "VRF/Mini-split systems",
+        "status": "Limited case studies",
+        "note": "Growing segment but fewer documented installations"
+      },
+      {
+        "type": "Ammonia systems",
+        "status": "Specialized formulation required",
+        "note": "Requires ammonia-compatible PermaFrost variant"
+      },
+      {
+        "type": "CO2 refrigeration",
+        "status": "Not validated",
+        "note": "No documented case studies with CO2 systems"
+      }
+    ],
+    "conditions_affecting_results": [
+      {
+        "condition": "New equipment (<2 years old)",
+        "impact": "Lower improvement expected (5-15%)",
+        "reason": "Insufficient time for oil fouling to accumulate"
+      },
+      {
+        "condition": "Recently recharged systems",
+        "impact": "Lower improvement expected",
+        "reason": "Fresh refrigerant may have cleaned some surfaces"
+      },
+      {
+        "condition": "Systems with recent oil change",
+        "impact": "Lower improvement expected",
+        "reason": "Fresh oil hasn't migrated and fouled surfaces yet"
+      },
+      {
+        "condition": "Extremely well-maintained systems",
+        "impact": "Lower improvement expected (5-15%)",
+        "reason": "Proactive maintenance reduces oil fouling baseline"
+      }
+    ]
+  },
+
+  "inappropriate_applications": {
+    "do_not_treat": [
+      {
+        "scenario": "Oil-free compressor systems",
+        "reason": "No oil fouling to address - oil-free compressors (Turbocor, magnetic bearing) by definition have no oil contaminating refrigerant circuits",
+        "examples": ["Danfoss Turbocor chillers", "Magnetic bearing compressor systems"]
+      },
+      {
+        "scenario": "Titanium heat exchangers",
+        "reason": "Titanium's crystalline structure prevents molecular bonding required for barrier coating formation",
+        "examples": ["Seawater-cooled marine systems", "Titanium-tubed condensers"]
+      },
+      {
+        "scenario": "Systems with mechanical failures",
+        "reason": "Must fix mechanical issues first - PermaFrost treats thermal efficiency, not mechanical problems"
+      },
+      {
+        "scenario": "Systems with severe refrigerant leaks",
+        "reason": "Address leaks before treatment - product will leak out with refrigerant"
+      },
+      {
+        "scenario": "Systems scheduled for replacement within 1 year",
+        "reason": "Insufficient time to realize payback"
+      },
+      {
+        "scenario": "Systems with incompatible refrigerants",
+        "reason": "Must verify formulation compatibility"
+      }
+    ],
+    "proceed_with_caution": [
+      {
+        "scenario": "Very new equipment (<2 years)",
+        "recommendation": "Set realistic expectations for 5-15% improvement"
+      },
+      {
+        "scenario": "Systems with recent major service",
+        "recommendation": "Wait 3-6 months for oil to re-migrate before baseline testing"
+      }
+    ]
+  },
+
+  "realistic_expectations": {
+    "typical_results": {
+      "average_improvement": "20-25%",
+      "range": "5-60%",
+      "factors_affecting_results": [
+        "Equipment age (older = more fouling = higher improvement potential)",
+        "Runtime hours (more runtime = more oil migration = higher improvement)",
+        "Maintenance history (neglected = more fouling = higher improvement)",
+        "System type (chillers often show higher absolute savings than RTUs)"
+      ]
+    },
+    "what_permafrost_does_NOT_do": [
+      "Does not fix mechanical failures",
+      "Does not replace needed maintenance",
+      "Does not improve efficiency beyond original design specifications",
+      "Does not work if system is fundamentally undersized"
+    ],
+    "key_message": "PermaFrost RESTORES efficiency to near-design levels by removing oil fouling - it does not improve systems beyond their original design capacity"
+  },
+
+  "training_notes": {
+    "why_this_file_exists": "AI trained only on success stories becomes overconfident. This file provides balanced perspective on limitations and realistic expectations.",
+    "how_to_use": [
+      "Reference lower-performing cases when discussing realistic expectations",
+      "Cite screening criteria when explaining why some systems are rejected",
+      "Use 'inappropriate applications' to advise when NOT to recommend treatment",
+      "Emphasize that PermaFrost RESTORES to design, not improves beyond"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+	  
+Results	  
+ 
+Following treatment with the ECM, the three successive cooling cycles measured immediately following a 
+defrost cycle showed an average Delta T of 5.8 degrees between the entering evaporator and leaving 
+evaporator refrigerant temperatures. This increase of 1.83 degrees F over the baseline average of 3.93 
+degrees represents an increase of 47.6%. This is considered very significant.   
+Summary	  of	  PermaFrost	  NMR®	  ECM	  Producing	  a	  Significantly	  Improved	  Delta	  T	  
+ 
+ 
+Delta T of Before 
+ECM 
+Delta T After 
+PermaFrost NMR® ECM 
+Difference 
+% Improvement 
+Refrigeration Unit 
+FGUS2647LF3 
+3.93 
+5.8 degrees 
+1.83 degrees 
+47.6 % 
+ 
+In achieving the Delta T improvement, the ECM produced a colder entering evaporator temperature. Prior to 
+treatment, the coldest average entering evaporator temperature was -20.06 degrees F. Following treatment, 
+the coldest average evaporator temperature dropped to -21 degrees F. This .96 degree drop equates to a 
+4.7% improvement. This is considered significant. 
+ 
+Summary	  of	  PermaFrost	  NMR®	  ECM	  Improvement	  Producing	  a	  Warmer	  Leaving	  Evaporator	  Temperature	  
+	  
+ 
+Coldest average 
+entering 
+evaporator 
+temperature 
+Coldest average 
+entering evaporator 
+temperature After 
+PermaFrost NMR® ECM 
+Difference in 
+Degrees F 
+% Improvement 
+Refrigeration Unit 
+FGUS2647LF3 
+-20.06 degrees F 
+-21 degrees F  
+.96 degree F 
+4.7% 
+   
+Corresponding to the colder entering evaporator temperature, the ECM also generated a warmer leaving 
+evaporator temperature. Prior to treatment, the warmest average evaporator temperature was -16.13 degrees 
+F. Following treatment, the warmest average leaving evaporator temperature rose to -15.2. This .93 degree 
+rise equates to a 5.8% improvement. This again is considered significant.  
+ 
+Summary	  of	  PermaFrost	  NMR®	  ECM	  Improvement	  Producing	  a	  Warmer	  Leaving	  Evaporator	  Temperature	  
+	  
+ 
+Average 
+Evaporator 
+Temperature 
+Before ECM 
+Average Evaporator 
+Temperature After 
+PermaFrost NMR® ECM 
+Difference in 
+Degrees F 
+% Improvement 
+Refrigeration Unit 
+FGUS2647LF3 
+-16.13 degrees F 
+-15.2 degrees F 
+.93 degrees F 
+5.8% 
+ 
+ 
+3 of 12 

@@ -1,0 +1,25 @@
+{
+  "doc_id": "pdf_119",
+  "terms": [
+    {
+      "term": "Energy Conservation Measure",
+      "abbreviation": "ECM",
+      "definition": null
+    },
+    {
+      "term": "Coefficient of Performance",
+      "abbreviation": "COP",
+      "definition": null
+    },
+    {
+      "term": "Saturated Evaporator Temp",
+      "abbreviation": "CH",
+      "definition": null
+    },
+    {
+      "term": "Initial Payback Period",
+      "abbreviation": "IPP",
+      "definition": null
+    }
+  ]
+}

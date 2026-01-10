@@ -1,0 +1,51 @@
+Energy Science Division
+Make
+Model (indoor unit / outdoor unit)
+Serial
+Refrigerant Type
+Age
+Nominal Cooling Capacity Btuh 
+Tonnage
+CFM
+American Standard
+TWE090 / TTA090
+2254PH15H / 2343PXRA
+ R-22
+ 2002
+ 90,000
+ 7.5
+ 3000
+System Description / Design Characteristics
+Baseline Measurement Period Selection
+The following data was recorded on 3/12/13 using recently calibrated devices to insure measurement 
+accuracy. The following results were recorded as a result of the implementation of the IPMVP Protocol.
+Voltage Indoor / Outdoor
+Amperage Indoor / Outdoor
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Entering Air Temp DB
+Leaving Air Temp DB
+Entering Air Temp WB
+Leaving Air Temp WB
+Actual CFM
+Actual Coil Capacity Btuh / Tons
+Enthalpy Delta
+Total Watts
+Watts per Ton
+OAT / RH%
+239.1 / 240.8
+8.9 / 19.6
+41.5 deg F
+101.7 deg F
+76 deg F
+62 deg F
+ 69.3 deg F
+60.5 deg F
+3400
+102,510 Btu / 8.54 Tons
+6.7
+8,853 CTW
+1,036 WPT
+82.1 deg F / 67.7% 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

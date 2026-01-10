@@ -1,0 +1,398 @@
+═══ EXECUTIVE SUMMARY ═══
+PermaFrost NMR Energy Study: Major Telecom E Houston 1Yr Review
+
+Study Overview
+----------------------------------------
+This study analyzed 1,316,834 high-resolution measurements collected at 2-second intervals.
+Baseline period: 443,603 data points
+Post-treatment period: 872,417 data points
+
+
+Facility Information
+----------------------------------------
+Customer: Major Telecom E
+Industry: Telecommunications
+
+═══ METHODOLOGY ═══
+Measurement Methodology
+========================================
+
+Data Type: Time Series
+Total Measurements: 1,316,834
+
+Source Data Files:
+  - Major Telecom A CTH 511 Post 2024.xlsx: 28,736 rows (post period)
+  - Major Telecom A CTH 511 Post v2 2023.xlsx: 28,471 rows (post period)
+  - Major Telecom A CTH 512 Post 2024.xlsx: 28,735 rows (post period)
+  - Major Telecom A CTH 512 Post v2 2023.xlsx: 28,472 rows (post period)
+  - Major Telecom A CTH 513 Post 2024.xlsx: 27,302 rows (post period)
+  - Major Telecom A CTH 513 Post v2 2023.xlsx: 28,222 rows (post period)
+  - Major Telecom A CTH 514 Post 2024.xlsx: 28,736 rows (post period)
+  - Major Telecom A CTH 514 Post v2 2023.xlsx: 28,156 rows (post period)
+  - Major Telecom A CTH 515 Post 2024.xlsx: 28,744 rows (post period)
+  - Major Telecom A CTH 515 Post v2 2023.xlsx: 28,666 rows (post period)
+  - Major Telecom A CTH 516 Post 2024.xlsx: 28,741 rows (post period)
+  - Major Telecom A CTH 516 Post v2 2023.xlsx: 28,234 rows (post period)
+  - Major Telecom A CTH 517 Post 2024.xlsx: 28,732 rows (post period)
+  - Major Telecom A CTH 517 Post v2 2023.xlsx: 26,998 rows (post period)
+  - Major Telecom A CTH 518 Post 2024.xlsx: 28,732 rows (post period)
+  - Major Telecom A CTH 518 Post v2 2023.xlsx: 27,852 rows (post period)
+  - Major Telecom A CTH 519 Post 2024.xlsx: 28,716 rows (post period)
+  - Major Telecom A CTH 520 Post 2024.xlsx: 28,721 rows (post period)
+  - Major Telecom A CTH 520 Post v2 2023.xlsx: 27,745 rows (post period)
+  - Major Telecom A CTH 521 Post 2024.xlsx: 28,750 rows (post period)
+  - Major Telecom A CTH 521 Post v2 2023.xlsx: 28,463 rows (post period)
+  - Major Telecom A CTH 522 Post 2024.xlsx: 28,750 rows (post period)
+  - Major Telecom A CTH 522 Post v2 2023.xlsx: 28,392 rows (post period)
+  - Major Telecom A CTH 523 Post 2024.xlsx: 28,710 rows (post period)
+  - Major Telecom A CTH 523 Post v2 2023.xlsx: 21,310 rows (post period)
+  - Major Telecom A CTH 524 Post 2024.xlsx: 28,705 rows (post period)
+  - Major Telecom A CTH 524 Post v2 2023.xlsx: 26,474 rows (post period)
+  - Major Telecom A CTH 525 Post 2024.xlsx: 28,709 rows (post period)
+  - Major Telecom A CTH 525 Post v2 2023.xlsx: 28,339 rows (post period)
+  - Major Telecom A CTH 526 Post 2024.xlsx: 28,709 rows (post period)
+  - Major Telecom A CTH 526 Post v2 2023.xlsx: 28,395 rows (post period)
+  - 511 Baseline 2.xlsx: 26,974 rows (baseline period)
+  - 512 baseline 2.xlsx: 31,260 rows (baseline period)
+  - 513 baseline 2 .xlsx: 27,522 rows (baseline period)
+  - 514 baseline 2.xlsx: 27,402 rows (baseline period)
+  - 515 baseline 2.xlsx: 28,547 rows (baseline period)
+  - 516 baseline 2.xlsx: 28,382 rows (baseline period)
+  - 517 baseline 2.xlsx: 29,991 rows (baseline period)
+  - 518 baseline 2.xlsx: 28,578 rows (baseline period)
+  - 520 Baseline 2 - no kWh data.xlsx: 41,234 rows (baseline period)
+  - 521 Baseline 2.xlsx: 31,408 rows (baseline period)
+  - 522 Baseline 2.xlsx: 28,530 rows (baseline period)
+  - 523 Baseline 2.xlsx: 28,475 rows (baseline period)
+  - 524 Baseline 2.xlsx: 28,363 rows (baseline period)
+  - 525 Baseline 2.xlsx: 28,432 rows (baseline period)
+  - 526 Baseline 2.xlsx: 28,505 rows (baseline period)
+  - Major Telecom A CTH Data Tables CDD Runtimes.xlsx: 407 rows (unknown period)
+  - Major Telecom A CTH Data Tables CDD Runtimes_REVISED.xlsx: 407 rows (unknown period)
+
+Measurement Protocol
+----------------------------------------
+This study follows the International Performance Measurement & Verification Protocol (IPMVP)
+for collecting and analyzing HVAC performance data. Key metrics measured include:
+
+  - Coefficient of Performance (COP)
+  - Energy Efficiency Ratio (EER)
+  - Power consumption (kW)
+  - Cooling capacity (Tons)
+  - kW per Ton efficiency
+  - Outdoor air temperature
+  - Chilled water flow rate (GPM)
+  - Chilled water delta temperature
+
+Measurements were collected at 2-second intervals using calibrated sensors
+to capture transient system behavior and ensure statistical significance.
+
+═══ DETAILED METRICS ═══
+Detailed Metrics Analysis
+========================================
+
+Data File: Major Telecom A CTH 511 Post 2024.xlsx
+Period: Post
+Measurements: 28,736
+------------------------------
+
+
+Data File: Major Telecom A CTH 511 Post v2 2023.xlsx
+Period: Post
+Measurements: 28,471
+------------------------------
+
+Meter 1 kWh:
+  Mean: 5,053
+  Median: 5,057
+  Std Dev: 100.553
+  Range: 322.400 to 5,190
+
+Outdoor Air Temperature (F):
+  Mean: 82.264
+  Median: 80.240
+  Std Dev: 9.157
+  Range: 57.740 to 249.478
+
+Time Range:
+  Column: •ÈÀ"DateTime"
+  Start: 2023-09-19 05:01:00
+  End: 2023-10-08 23:59:00
+  Duration: 475.0 hours
+
+
+Data File: Major Telecom A CTH 512 Post 2024.xlsx
+Period: Post
+Measurements: 28,735
+------------------------------
+
+
+Data File: Major Telecom A CTH 512 Post v2 2023.xlsx
+Period: Post
+Measurements: 28,472
+------------------------------
+
+
+Data File: Major Telecom A CTH 513 Post 2024.xlsx
+Period: Post
+Measurements: 27,302
+------------------------------
+
+
+Data File: Major Telecom A CTH 513 Post v2 2023.xlsx
+Period: Post
+Measurements: 28,222
+------------------------------
+
+
+Data File: Major Telecom A CTH 514 Post 2024.xlsx
+Period: Post
+Measurements: 28,736
+------------------------------
+
+
+Data File: Major Telecom A CTH 514 Post v2 2023.xlsx
+Period: Post
+Measurements: 28,156
+------------------------------
+
+
+Data File: Major Telecom A CTH 515 Post 2024.xlsx
+Period: Post
+Measurements: 28,744
+------------------------------
+
+
+Data File: Major Telecom A CTH 515 Post v2 2023.xlsx
+Period: Post
+Measurements: 28,666
+------------------------------
+
+
+Data File: Major Telecom A CTH 516 Post 2024.xlsx
+Period: Post
+Measurements: 28,741
+------------------------------
+
+
+Data File: Major Telecom A CTH 516 Post v2 2023.xlsx
+Period: Post
+Measurements: 28,234
+------------------------------
+
+
+Data File: Major Telecom A CTH 517 Post 2024.xlsx
+Period: Post
+Measurements: 28,732
+------------------------------
+
+
+Data File: Major Telecom A CTH 517 Post v2 2023.xlsx
+Period: Post
+Measurements: 26,998
+------------------------------
+
+
+Data File: Major Telecom A CTH 518 Post 2024.xlsx
+Period: Post
+Measurements: 28,732
+------------------------------
+
+
+Data File: Major Telecom A CTH 518 Post v2 2023.xlsx
+Period: Post
+Measurements: 27,852
+------------------------------
+
+
+Data File: Major Telecom A CTH 519 Post 2024.xlsx
+Period: Post
+Measurements: 28,716
+------------------------------
+
+
+Data File: Major Telecom A CTH 520 Post 2024.xlsx
+Period: Post
+Measurements: 28,721
+------------------------------
+
+
+Data File: Major Telecom A CTH 520 Post v2 2023.xlsx
+Period: Post
+Measurements: 27,745
+------------------------------
+
+
+Data File: Major Telecom A CTH 521 Post 2024.xlsx
+Period: Post
+Measurements: 28,750
+------------------------------
+
+
+Data File: Major Telecom A CTH 521 Post v2 2023.xlsx
+Period: Post
+Measurements: 28,463
+------------------------------
+
+
+Data File: Major Telecom A CTH 522 Post 2024.xlsx
+Period: Post
+Measurements: 28,750
+------------------------------
+
+
+Data File: Major Telecom A CTH 522 Post v2 2023.xlsx
+Period: Post
+Measurements: 28,392
+------------------------------
+
+
+Data File: Major Telecom A CTH 523 Post 2024.xlsx
+Period: Post
+Measurements: 28,710
+------------------------------
+
+
+Data File: Major Telecom A CTH 523 Post v2 2023.xlsx
+Period: Post
+Measurements: 21,310
+------------------------------
+
+
+Data File: Major Telecom A CTH 524 Post 2024.xlsx
+Period: Post
+Measurements: 28,705
+------------------------------
+
+
+Data File: Major Telecom A CTH 524 Post v2 2023.xlsx
+Period: Post
+Measurements: 26,474
+------------------------------
+
+
+Data File: Major Telecom A CTH 525 Post 2024.xlsx
+Period: Post
+Measurements: 28,709
+------------------------------
+
+
+Data File: Major Telecom A CTH 525 Post v2 2023.xlsx
+Period: Post
+Measurements: 28,339
+------------------------------
+
+
+Data File: Major Telecom A CTH 526 Post 2024.xlsx
+Period: Post
+Measurements: 28,709
+------------------------------
+
+
+Data File: Major Telecom A CTH 526 Post v2 2023.xlsx
+Period: Post
+Measurements: 28,395
+------------------------------
+
+
+Data File: 511 Baseline 2.xlsx
+Period: Baseline
+Measurements: 26,974
+------------------------------
+
+
+Data File: 512 baseline 2.xlsx
+Period: Baseline
+Measurements: 31,260
+------------------------------
+
+
+Data File: 513 baseline 2 .xlsx
+Period: Baseline
+Measurements: 27,522
+------------------------------
+
+
+Data File: 514 baseline 2.xlsx
+Period: Baseline
+Measurements: 27,402
+------------------------------
+
+
+Data File: 515 baseline 2.xlsx
+Period: Baseline
+Measurements: 28,547
+------------------------------
+
+
+Data File: 516 baseline 2.xlsx
+Period: Baseline
+Measurements: 28,382
+------------------------------
+
+
+Data File: 517 baseline 2.xlsx
+Period: Baseline
+Measurements: 29,991
+------------------------------
+
+
+Data File: 518 baseline 2.xlsx
+Period: Baseline
+Measurements: 28,578
+------------------------------
+
+
+Data File: 520 Baseline 2 - no kWh data.xlsx
+Period: Baseline
+Measurements: 41,234
+------------------------------
+
+
+Data File: 521 Baseline 2.xlsx
+Period: Baseline
+Measurements: 31,408
+------------------------------
+
+
+Data File: 522 Baseline 2.xlsx
+Period: Baseline
+Measurements: 28,530
+------------------------------
+
+
+Data File: 523 Baseline 2.xlsx
+Period: Baseline
+Measurements: 28,475
+------------------------------
+
+
+Data File: 524 Baseline 2.xlsx
+Period: Baseline
+Measurements: 28,363
+------------------------------
+
+
+Data File: 525 Baseline 2.xlsx
+Period: Baseline
+Measurements: 28,432
+------------------------------
+
+
+Data File: 526 Baseline 2.xlsx
+Period: Baseline
+Measurements: 28,505
+------------------------------
+
+
+Data File: Major Telecom A CTH Data Tables CDD Runtimes.xlsx
+Period: Unknown
+Measurements: 407
+------------------------------
+
+
+Data File: Major Telecom A CTH Data Tables CDD Runtimes_REVISED.xlsx
+Period: Unknown
+Measurements: 407
+------------------------------
+

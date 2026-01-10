@@ -1,0 +1,234 @@
+═══ EXECUTIVE SUMMARY ═══
+PermaFrost NMR Energy Study: Major Telecom E Meter 597 Thermal
+
+Study Overview
+----------------------------------------
+This study analyzed 114,594 high-resolution measurements collected at 2-second intervals.
+Baseline period: 99,364 data points
+Post-treatment period: 15,228 data points
+
+Key Results
+----------------------------------------
+Energy Efficiency Improvement: 10.4%
+Baseline kW/ton: 1.137
+Post-treatment kW/ton: 1.020
+
+The PermaFrost NMR treatment reduced energy consumption by 10.4%, 
+lowering the system's kW per ton from 1.137 to 1.020.
+
+Facility Information
+----------------------------------------
+Customer: Major Telecom E
+Industry: Telecommunications
+
+Measurement Standards
+----------------------------------------
+Standard: ASHRAE Guideline 14-2014
+Note: High-resolution time-series data supports detailed analysis
+
+═══ METHODOLOGY ═══
+Measurement Methodology
+========================================
+
+Data Type: Time Series
+Total Measurements: 114,594
+
+Source Data Files:
+  - baseline_597_cleaned.csv: 99,364 rows (baseline period)
+  - gpm_bin_comparison_597.csv: 2 rows (unknown period)
+  - post_597_cleaned.csv: 15,228 rows (post period)
+
+Measurement Protocol
+----------------------------------------
+This study follows the International Performance Measurement & Verification Protocol (IPMVP)
+for collecting and analyzing HVAC performance data. Key metrics measured include:
+
+  - Coefficient of Performance (COP)
+  - Energy Efficiency Ratio (EER)
+  - Power consumption (kW)
+  - Cooling capacity (Tons)
+  - kW per Ton efficiency
+  - Outdoor air temperature
+  - Chilled water flow rate (GPM)
+  - Chilled water delta temperature
+
+Measurements were collected at 2-second intervals using calibrated sensors
+to capture transient system behavior and ensure statistical significance.
+
+═══ DETAILED METRICS ═══
+Detailed Metrics Analysis
+========================================
+
+Data File: baseline_597_cleaned.csv
+Period: Baseline
+Measurements: 99,364
+------------------------------
+
+COP:
+  Mean: 3.204
+  Median: 3.266
+  Std Dev: 0.582
+  Range: 1.882 to 4.525
+
+EER:
+  Mean: 10.934
+  Median: 11.143
+  Std Dev: 1.985
+  Range: 6.422 to 15.438
+
+kW per Ton:
+  Mean: 1.137
+  Median: 1.077
+  Std Dev: 0.223
+  Range: 0.777 to 1.869
+
+kw:
+  Mean: 52.668
+  Median: 50.725
+  Std Dev: 10.658
+  Range: 35.780 to 82.933
+
+Capacity (Tons):
+  Mean: 46.294
+  Median: 46.536
+  Std Dev: 2.589
+  Range: 35.591 to 55.530
+
+Outdoor Air Temperature Entering Condenser (F):
+  Mean: 81.270
+  Median: 80.600
+  Std Dev: 7.533
+  Range: 70.160 to 96.260
+
+Chilled Water Delta Temperature (F):
+  Mean: 4.057
+  Median: 4.140
+  Std Dev: 0.207
+  Range: 3.420 to 4.680
+
+Chilled Water Flow Rate (GPM):
+  Mean: 273.703
+  Median: 277.152
+  Std Dev: 7.915
+  Range: 245.367 to 295.285
+
+percentLoad:
+  Mean: 24.243
+  Median: 23.385
+  Std Dev: 3.921
+  Range: 18.226 to 35.912
+
+Time Range:
+  Column: time
+  Start: 2024-10-02 06:00:01+00:00
+  End: 2024-10-04 05:59:59+00:00
+  Duration: 48.0 hours
+
+
+Data File: gpm_bin_comparison_597.csv
+Period: Unknown
+Measurements: 2
+------------------------------
+
+Baseline kW/Ton:
+  Mean: 1.215
+  Median: 1.215
+  Std Dev: 0.047
+  Range: 1.181 to 1.248
+
+Post kW/Ton:
+  Mean: 1.010
+  Median: 1.010
+  Std Dev: 0.013
+  Range: 1.001 to 1.020
+
+kW/Ton Improvement %:
+  Mean: 16.755
+  Median: 16.755
+  Std Dev: 2.141
+  Range: 15.241 to 18.269
+
+
+Data File: post_597_cleaned.csv
+Period: Post
+Measurements: 15,228
+------------------------------
+
+COP:
+  Mean: 3.540
+  Median: 3.484
+  Std Dev: 0.608
+  Range: 2.115 to 8.021
+
+EER:
+  Mean: 12.079
+  Median: 11.888
+  Std Dev: 2.076
+  Range: 7.216 to 27.368
+
+kW per Ton:
+  Mean: 1.020
+  Median: 1.009
+  Std Dev: 0.159
+  Range: 0.438 to 1.663
+
+kw:
+  Mean: 57.351
+  Median: 55.937
+  Std Dev: 15.168
+  Range: 29.371 to 88.529
+
+Capacity (Tons):
+  Mean: 55.724
+  Median: 56.196
+  Std Dev: 8.840
+  Range: 23.940 to 84.719
+
+Outdoor Air Temperature Entering Condenser (F):
+  Mean: 83.277
+  Median: 82.940
+  Std Dev: 3.754
+  Range: 77.540 to 91.760
+
+Chilled Water Delta Temperature (F):
+  Mean: 5.496
+  Median: 5.580
+  Std Dev: 0.846
+  Range: 2.520 to 8.280
+
+Chilled Water Flow Rate (GPM):
+  Mean: 243.062
+  Median: 245.367
+  Std Dev: 6.425
+  Range: 227.817 to 277.152
+
+percentLoad:
+  Mean: 26.569
+  Median: 25.933
+  Std Dev: 5.523
+  Range: 16.237 to 38.356
+
+Time Range:
+  Column: time
+  Start: 2025-06-17 06:00:01+00:00
+  End: 2025-06-19 15:22:36+00:00
+  Duration: 57.4 hours
+
+
+
+═══ TEMPERATURE ANALYSIS ═══
+Temperature-Normalized Analysis
+========================================
+
+HVAC efficiency varies significantly with outdoor temperature.
+This analysis normalizes results by temperature bins to ensure
+fair comparison between baseline and post-treatment periods.
+
+Overall Results (All Temperature Bins):
+  Baseline Average: 1.137 kW/ton
+  Post-Treatment Average: 1.020 kW/ton
+  Improvement: 10.4%
+
+The improvement percentage represents the reduction in electrical
+power required to produce one ton of cooling capacity after
+PermaFrost NMR treatment was applied to the HVAC system.

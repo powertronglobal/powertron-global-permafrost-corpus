@@ -1,0 +1,27 @@
+®
+HVAC/R Eﬃciency Report
+Purpose of Energy Eﬃciency Study
+The purpose of this study is to verify the industry wide problem of efficiency loss in HVAC/R systems as 
+projected by ASHRAE research and to quantify the amount of money wasted due to this loss. Many industry 
+leading organizations including ASHRAE project that all HVAC/R systems degrade in capacity and efficiency 
+as they age. Thermal degradation is caused by a phenomenon that is present in all HVAC/R equipment that 
+operates as a vapor compression cycle associated with refrigerant and compressor lubricant. This thermal 
+degradation is well documented by the HVAC/R industry and the original equipment manufacturers (OEM’s). 
+Thermal degradation prevents systems from operating at the original design efficiency, which leads to excessive 
+run-times and additional kWh consumption.
+The chiller in this study is representative of a great majority of the portfolio of data center and central office 
+equipment operated by Major US Telecom. If thermal degradation is present in this chiller, it is present in the entire 
+inventory of equipment. Energy waste can be calculated based on this equipment (portfolio representation) and 
+then accurately extrapolated across the entire inventory of equipment.
+Similarly, if the lost efficiency of this chiller can 
+be restored, it would allow Major US Telecom to keep it in 
+service longer without sacrificing performance 
+or energy consumption. It will also provide 
+Major US Telecom the flexibility of a much wider window 
+of time wherein to undertake the costly capital 
+expense of replacing this and other HVAC/R 
+systems when they do eventually reach the end 
+of their useful life.   
+1
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

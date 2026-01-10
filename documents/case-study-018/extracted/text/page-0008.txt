@@ -1,0 +1,12 @@
+5/6/2020
+Powertron Global
+https://my.powertroniot.com/?obj=reports
+1/13
+Energy Services Company [Property Address] Blvd
+       
+Baseline 09/24/2019 12:00 AM - 09/30/2019 11:59 PM VS Post 04/22/2020 12:00
+AM - 04/28/2020 11:59 PM
+       
+kW/Ton
+baseline
+post

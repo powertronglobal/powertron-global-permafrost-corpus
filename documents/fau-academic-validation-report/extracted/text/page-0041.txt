@@ -1,0 +1,189 @@
+41 
+Chiller Measured Parameter
+Large Multi-
+National 
+Bank 
+Before
+After
+Sports Arena B/ 
+Regional Sports Authority Before
+After
+Large US 
+Property 
+Mngt HQ 
+Before
+After
+Sports Arena A
+After
+Voltage
+484.2
+486.6
+477
+475
+466.8
+464.4
+466.8
+464.4
+Amperage
+314.7
+303
+453.3
+453.5
+104.1
+95
+104.1
+95
+Suction Refrigerant Temp F
+45.2
+46.8
+39.4
+42
+51
+49.5
+51
+49.5
+Discharge Refrigerant Temp F
+91.9
+90
+88.7
+110.5
+69.1
+69
+69.1
+69
+Chilled Water Entering F
+53.2
+53.9
+49
+49.7
+57.9
+56
+57.9
+56
+Chilled Water Leaving F
+43.5
+43.5
+45
+44.4
+51.7
+50
+51.7
+50
+Condenser Water Entering F
+84
+82.4
+74.8
+81.8
+70.9
+71.4
+70.9
+71.4
+Condenser Water Leaving F
+91.4
+90.1
+85.9
+91.6
+66.1
+67.5
+66.1
+67.5
+Actual GPM cooler
+760
+760
+2,326
+2,327
+584
+871
+584
+871
+Actual Coil Capacity Tons
+307
+330
+388
+514
+151
+218
+151
+218
+Chilled Water Delta T
+9.7
+10.4
+4
+5.3
+6.2
+6
+6.2
+6
+Enthalpy Delta
+OAT at time of readings
+70
+81
+72
+92
+72
+72
+72
+72
+Calculated Parameters
+Refrigerant Approach
+-1.7
+-3.3
+5.6
+2.4
+0.7
+0.5
+0.7
+0.5
+Adjusted Total kW
+224
+217
+318
+317
+71
+65
+71
+65
+kW/Ton
+0.73
+0.66
+0.82
+0.62
+0.47
+0.30
+0.47
+0.30
+Adjusted Baseline Tonnage
+Adjusted Baseline kW
+COP
+4.82
+5.35
+4.29
+5.71
+7.43
+11.82
+7.43
+11.82
+Delta T Dry Bulb
+Watts/degree decrease DB
+Delta T Wet (acctg for humidity)
+Watts/degree decrease WB
+kW (volts x amps x .85 x 1.732 / 1000)
+224
+217
+318
+317
+71
+65
+71
+65
+Adjusted Total Watts
+241
+217
+421
+217
+103
+217
+103
+217
+Btuh Coil Capacity
+System Efficiency

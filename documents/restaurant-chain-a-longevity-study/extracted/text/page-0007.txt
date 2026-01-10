@@ -1,0 +1,63 @@
+®
+6
+HVAC/R Eﬃciency Study Results
+Calculated Eﬃciency of Restaurant Chain A RTU’s Baseline and Post
+The chart below illustrates how far off design the Restaurant Chain A RTU’s had degraded in terms of efficiency 
+over 11 years of the coils being in use. The RTU’s were performing at an average of 75.5% of the original design 
+efficiency when they were first treated with PermaFrost NMR®. The nominal design rated tonnage of each of 
+RTU’s is 10 tons. In actuality however, each of the RTU’s was only producing an average of 7.22 tons at the start 
+of the pilot. The majority of this 24.5% efficiency loss was directly attributable to the thermal degradation of the 
+heat exchange surfaces. This is due in large part to oil migration creating an insulating barrier to heat transfer 
+through the tube walls. 
+After the ECM was installed, the average efficiency in the RTU’s unit jumped up to 98.2% of design 
+specifications or 9.82 tons each. This represents a 30% improvement in efficiency over the baseline numbers.
+Original Design
+Eﬃciency
+ASHRAE Projected
+Eﬃciency Loss
+Over Time
+Actual Restaurant Chain A
+Design Eﬃciency as
+Measured In-Situ
+Actual Restaurant Chain A HVAC/R Operating Eﬃciency
+vs. ASHRAE Projected Eﬃciency Loss
+HVAC/R Eﬃciency %
+DESIGN EFFICIENCY
+20
+40
+60
+80
+100
+120
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Eﬃciency
+Improvement
+30%
+ 
+ 
+ 
+Age of HVAC/R Units
+Avg Age of Restaurant Chain A
+Equipment
+11
+Property of Powertron Global®

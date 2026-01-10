@@ -1,0 +1,115 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+APPENDIX D 
+ 
+Unit Node 
+Baseline Dates 
+(20 Days) 
+Begin Meter 
+Reading kWh 
+End Meter 
+Reading kWh 
+Total kWh 
+Used 
+507 
+6/3/23-6/22/23 
+3804.75 
+4364.44 
+559.69 
+508 
+6/4/23-6/23/23 
+4279.88 
+4923.51 
+643.63 
+*509 
+6/7/23-6/26/23 
+788 
+1051 
+263 
+510 
+6/6/23-6/25/23 
+1096.46 
+1434.67 
+338.21 
+511 
+6/4/23-6/23/23 
+1782.10 
+2264.02 
+481.92 
+512 
+6/8/23-6/27/23 
+2002.33 
+2453.1 
+450.77 
+513 
+6/2/23-6/21/23 
+3333.75 
+3861.90 
+528.15 
+514 
+6/2/23-6/21/23 
+2587.80 
+2992.60 
+404.8 
+515 
+6/6/23-6/25/23 
+954.20 
+1217.70 
+263.5 
+516 
+6/7/23-6/26/23 
+1142.60 
+1480.30 
+337.7 
+517 
+6/7/23-6/26/23 
+705.0 
+879.79 
+174.79 
+518 
+6/6/23-6/25/23 
+759.69 
+953.3 
+193.61 
+520 
+6/9/23-6/28/23 
+ 
+ 
+**786.72 
+521 
+6/5/23-6/24/23 
+1230.3 
+1618.7 
+388.4 
+522 
+6/4/23-6/23/23 
+1149.0 
+1490.5 
+341.5 
+523 
+6/6/23-6/25/23 
+1172.50 
+1417.90 
+245.4 
+524 
+6/7/23-6/26/23 
+1028.7 
+1249.4 
+220.7 
+525 
+6/4/23-6/23/23 
+4900.85 
+5757.70 
+856.85 
+526 
+6/4/23-6/23/23 
+4326.70 
+5052.70 
+726.02 
+* Decimal place is off in raw data by one place, but data is accurate in this table 
+** Calculated kWh using kW and runtime hours (during baseline period a CT was flipped wrong way) 
+ 
+ 
+ 

@@ -1,0 +1,36 @@
+®
+2
+Process
+This report contains specific information regarding the current performance profile of one of two chillers that 
+support the Major Hotel Chain Courtyard Downtown Hotel in New Orleans, LA. 
+Detailed performance testing (outlined later in this report) was performed on the pilot chiller before and after 
+the installation of the ECM to determine the impact on the three key elements that greatly affect the hotel’s 
+HVAC power bill as they relate to the original design specifications:
+ 
+ 
+1.  The cooling capacity the chiller produces after 4 years in service, before and after the administration 
+ 
+     of the ECM. 
+ 
+2.  The actual cost of power required to produce the amount of cooling tons the chiller can deliver as 
+ 
+     reflected in the kW/ton measurement, before and after the administration of the ECM. 
+ 
+3.  The thermal dynamic ability of the chiller to perform in relation to operational design, before and 
+ 
+     after the administration of the ECM.
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) framework. The team consisted of Larry 
+Trowbridge and Jim Wogick, the Director and Asst. Director of Construction for Summit Hotel Properties; 
+Major Hotel Chain’s New Orleans Director of Cluster Engineering, Phillip Lee; and Powertron Global’s Director of 
+Engineering, [Senior Energy Engineer].  
+Notes
+The equipment tested is common type of air-cooled chiller manufactured by Carrier.  Both the baseline and post 
+measurements were taken with outside air temperatures of 74 degrees.  
+The flow rate through the evaporator was set to exact design specifications in the baseline and post and the return chilled 
+water entering the chiller in the baseline and post were identical so no adjustments were made.
+The boundary of the testing was the chiller and nothing else; therefore confidence in the accuracy of the performance 
+calculations is very high.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

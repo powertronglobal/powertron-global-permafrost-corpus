@@ -1,0 +1,119 @@
+Results for Packaged RTUs with PermaFrost NMR® ECM
+Key Results for Unit #14
+10
+HVAC Equipment Manufacturer
+YCD301C4LFBA
+307100564
+R22
+25
+3,500
+2003
+System Description
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+467.5 V
+36.7 A 
+ 27.3 F
+ 118.9 F
+52.4 PSI
+218.7 PSI
+ 74 F
+ 63.5 F
+57.1 F
+53.3 F
+28.94
+22.32
+6.62
+24.4 F 
+ 23.6
+9,500
+25.22
+1.07
+3.29
+88,270
+86 F 
+Energy Usage
+BASELINE
+POST
+Voltage  
+Amperage  
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Suction Pressure (Avg)
+Discharge Pressure (Avg)
+Entering Air Temp DB (Return)
+Entering Air Temp WB (Return)
+Leaving Air Temp DB (Supply)
+Leaving Air Temp WB (Supply)
+Enthalpy of Entering WB
+Enthalpy of Leaving WB
+Enthalpy Delta
+Evaporator Approach
+Measured Tons Produced 
+Airﬂow (Ft3/Min)
+Total kW
+Calculated kW / Ton  
+Coeﬃcient of Performance (COP)
+kWh after Regression Analysis
+O.A.T.
+471.6 V
+39.2 A 
+ 37.9 F
+ 125.7 F
+65.6 PSI
+278.8 PSI
+ 75.1 F
+ 63.4 F
+58.5 F
+55.6 F
+28.87
+23.59
+5.28
+20.6 F 
+ 18.8
+9,500
+27.18
+1.44
+2.44
+118,930
+86 F
+1.44
+POST
+BASELINE
+1.07
+kW/ton
+REDUCTION
+25.7%
+POST
+BASELINE
+COP
+IMPROVEMENT
+34.8%
+2.44
+3.29
+Notes
+The three pilot RTUs provide cooling across the 
+front portion of the Major US Warehouse Retailer [Southeast Facility].  
+Given the weather BIN data for 
+[Florida Location]/[Southeast Location] region, the internal load of 
+the facility combined with the hours of opera-
+tions, internal refrigeration and the size and age 
+of the RTUs, it is estimated that the RTUs each 
+run approximately 3,500 hours or more
+annually prior to the ECM being implemented.  
+25.5%
+POST
+BASELINE
+Operating Tonnage
+IMPROVEMENT
+18.8
+23.6
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

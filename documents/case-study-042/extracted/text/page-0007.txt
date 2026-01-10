@@ -1,0 +1,49 @@
+Make
+Model
+Serial
+Refrigerant Type
+Nominal Cooling Capacity Btuh / tons
+CFM
+Carrier
+48TFE006A511
+1202G10253
+R22
+60,000 Btuh / 5 tons
+1,900
+System Description / Design Characteristics
+This unit provides cooling for the kitchen area of the store and is conservatively estimated to run 5,760 
+hours per year. 
+Baseline Measurement Period Selection
+The following data was recorded on 8/3/2012 using recently NIST calibrated devices to insure 
+measurement accuracy.  The results were recorded as a result of the implementation of the IPMVP Protocol.
+Energy Science Division
+Voltage
+Amperage
+Suction Refrigerant  Temp
+Discharge Refrigerant Temp
+Entering Air Temp DB
+Leaving Air Temp DB
+Entering Air Temp WB
+Leaving Air Temp WB
+Actual CFM
+Calculated Coil Capacity Btuh / tons
+Enthalpy Delta
+Calculated Total Watts
+Calculated Watts per Ton
+OAT / RH
+241.9V
+16.9A
+42.6 F
+122 F
+73.3  F
+54 F
+61 F
+51.8 F
+1,900
+49,846 Btuh / 4.15 tons
+5.83
+6,009.5
+1,448 CWPT
+89.1 F / 45%
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

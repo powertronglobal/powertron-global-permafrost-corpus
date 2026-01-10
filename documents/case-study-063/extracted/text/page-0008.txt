@@ -1,0 +1,112 @@
+®
+7
+.69
+POST
+BASELINE
+.60
+kW/ton
+REDUCTION
+14%
+POST
+BASELINE
+37.9%
+14%
+POST
+BASELINE
+Chilled Water Delta
+IMPROVEMENT
+IMPROVEMENT
+9.3
+5.8
+3.6
+295.4
+10.6
+Key Results for Chiller#3 with PermaFrost NMR® ECM
+YORK
+YKGKMP9
+SAPM657780
+R-134A
+650
+5,669
+2005
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+459.0
+386.0
+42.9
+92.4
+46.5
+57.1
+84.2
+90.4
+10.6
+3.6
+294.6
+0.598
+492.4
+1114
+100
+85.1
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Saturated Suction Temperature 
+ 
+ 
+ 
+Discharge RefrigerantTemperature
+Chilled Water Leaving Temp (Supply)
+Chilled Water Entering Temp (Return)
+Condenser Water Temp Entering Chiller
+Condenser Water Temp Leaving Chiller
+Chilled Water Delta T
+Refrigeration Approach
+kW (V x A x PF x 1.732) 
+ 
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Chiller GPM
+Vane Position % During Testing 
+OAT 
+ 
+458.0
+390.0
+41.5
+90.8
+47.3
+56.6
+82.8
+89.9
+9.3
+5.8
+297.0
+0.687
+432.0
+1114
+100
+84
+13.3%
+REDUCTION
+POST
+BASELINE
+339.8
+Reduction of Refrigeration Approach
+Calculated  kW
+(w/regression analysis)
+This report is provided to Major Healthcare Provider Permanente Hospital. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

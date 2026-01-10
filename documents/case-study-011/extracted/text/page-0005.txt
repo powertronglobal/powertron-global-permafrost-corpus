@@ -1,0 +1,62 @@
+4
+559.4 tons
+661.1 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The Chiller should be operating @ 675 tons of cooling capacity
+• The Chiller was operating @ 559.4 tons of cooling capacity prior to
+   installing ECM
+• The Chiller now has 101.7 tons of restored cooling capacity after ECM
+• The Chiller should be operating @ 7.0 COP or higher
+• The Chiller was operating @ 5.71 COP prior to the ECM
+   and 6.72 following the ECM
+• The COP of the Chiller was increased by 17.7%  following the ECM
+5.71
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+559.4
+tons Baseline
+100%
+CAPACITY @
+100% LOAD
+Baseline
+COP
+Post ECM
+COP
+5.71
+6.72
+6.72
+Post ECM COP
+661.1
+tons Post ECM
+17.7%
+Improvement
+in COP
+101.7
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of HVAC/R Eﬃciency Study Results
+Chiller Eﬃciency with PermaFrost NMR® ECM
+Major NYC University College and CUNY have the problem of thermal degradation in its HVAC/R units. The lower baseline 
+operating tonnage and COP ratings measured on site are in line with the ASHRAE loss of performance and cost 
+to operate numbers. The degraded equipment performance was costing Major NYC University College significant money and 
+wasting energy. The equipment was using significantly more kWh to operate than it used when it was new. 
+The performance summary includes the measured efficiency and tonnage of the chiller in the baseline and post 
+testing periods demonstrating the impact of thermal degradation. 
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 101.7 operating tons and an 
+improvement of 17.7% in Coefficient of Performance (COP), significantly reducing the cost to operate the 
+chiller throughout the year.
+The York chiller treated has a nominal capacity of 675 tons at 90% load and 1,500 gallons per minute (GPM) flow 
+through the evaporator.  The chiller used in this pilot was tested at 90% load but with a GPM flow much higher 
+than design. Since normal operations were not to be changed for the pilot (i.e., adjusting the water flow through 
+both the evaporator and condensing barrels), the emphasis here is on the delta between baseline and post.  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

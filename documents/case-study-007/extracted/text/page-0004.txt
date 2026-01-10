@@ -1,0 +1,52 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+average summer temps occurring in the [Texas City] area. Expanding the 
+baseline and post periods to allow for ideal weather comparisons provides higher 
+confidence in the data. 
+ 
+The installation of PermaFrost NMR occurred on July 5-6, 2023. Immediately after 
+the installation the Bard thermostat controllers were lowered in each tower sites 
+building and allowed to run for approximately thirty (30) days uninterrupted to 
+speed up the gestation time required for the nanotechnology to seat itself into the 
+metal surfaces of each unit. The data collected during this period will not be used 
+in any analysis. The thermostat controllers were returned to the normal operating 
+settings of 80-degree set point on August 7, 2023. Further gestation was required 
+at normal operating conditions in order to produce a proper post data set.  
+ 
+The Energy Reporting Period (ERP) was from September 6 to October 3, 2023. 
+Twenty (20) consecutive days are used in the post-period to simulate weather 
+conditions following product gestation. 
+ 
+D. ECM Description 
+ 
+As PermaFrost NMR nanotechnology (interior coil surface treatment) is installed 
+into a sealed vapor compression system (Package HVAC Unit), a molecular 
+transformation develops. This transformation displaces layers of lubricating fluids 
+that have been impinged in the evaporator and condenser heat exchanger metal 
+surfaces. When the fluid is displaced, the evaporator and condenser can transfer 
+additional heat energy through the tube walls (thermal restoration). This enables 
+the evaporator to completely dehumidify the air per the unit’s design specifications.  
+When more dehumidification is developed, the enthalpy delta is increased. This is 
+the action that increases thermal performance through heat exchanger restoration. 
+ 
+ 
+As the capacity increases, the kW/ton decreases by means of mathematical 
+function, demonstrating PermaFrost NMR’s post-treatment effect lowering the 
+electrical cost of every ton of cooling produced, no matter how many tons are called 
+for at any given time.  
+  
+PermaFrost NMR does not change or alter any unit’s electrical characteristics. This 
+change of performance is purely thermal in nature. 
+ 
+ 
+E. Measurement & Verification 
+ 
+The primary objective is to measure the complete power use by each HVAC unit 
+utilizing revenue grade power meters directly connected to each unit to measure 
+power consumption during both Baseline and Energy Reporting Periods. 
+Measuring overall power consumed by an HVAC system can be realized by 
+measuring voltage, amperage and power factor. Parameters were measured 
+continuously every second during all hours for a period of twenty (20) days to 
+develop a baseline. The outdoor air temperature sensors are mounted near each 
+HVAC unit to quantify the number of CDDs each unit experienced during the data-

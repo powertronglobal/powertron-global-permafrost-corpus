@@ -1,0 +1,17 @@
+Temperature
+Base COP
+Post COP
+% Change
+Baseline Samples
+Post Samples
+77
+3.36
+22959
+76
+3.51
+26815
+75
+3.53
+13253
+       
+       

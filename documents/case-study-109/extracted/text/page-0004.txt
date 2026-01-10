@@ -1,0 +1,20 @@
+Executive Summary
+This report contains specific information regarding the installation of PermaFrost NMR® in Unit #1 of two
+16-ton Liebert Computer Room Air Conditioning (CRAC) supporting mission critical data center operations 
+for this U.S. Communications Company (heretofore referred to as The Company) located in Long Island, 
+New York.
+Two Company representatives, one from Network Engineering and the other from Power and Energy 
+Planning section of the Global Real Estate Department, managed this entire trial.  They were supported by 
+The Company’s on-site contractor engineering support personnel.
+The improved/restored efficiency on Unit #1directly attributable to the PermaFrost NMR® ECM was 
+substantial.  Unit #1 now provides cooler supply air with greater efficiency due to the restoration of the heat 
+transfer capacity of the evaporator and condenser coils and increased the available useful tonnage. 
+The overall efficiency improved by 13.5% and the EER improved by 20.4%.  There was an increase in coil 
+capacity of 25,920 in Btuh which equates to gaining more than 2-tons of capacity or 15.7%.  There is also an 
+improvement of 2.1 degrees F in Delta T (difference between supply and return air) and an overall reduction 
+in kWh and Watts per ton of 16.9%, which are other measurable way to view the thermodynamic 
+enhancement of the PermaFrost NMR® ECM. 
+The tables of data and financial calculations are available for review at the end of this report.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

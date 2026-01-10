@@ -1,0 +1,29 @@
+Overview of Energy Study
+        In May 2013, Powertron Global® concluded a two-year, two-part energy study documenting the 
+long-term effects of PermaFrost NMR® into the climate control systems (HVACR) inside 10 QSR Chain A’s stores. 
+The stores chosen for the study were all located in the mid-Atlantic region because this area most accurately 
+represents the operational and energy mean average for all QSR Chain A’s stores in United States. The study was 
+conducted under the guidance of [Senior Energy Director, P.E. MBA], Senior Energy Director, Quality Supply 
+Chain Co-op, Inc.
+In the summer of 2011, the technology was installed in 24 packaged roof top units (RTUs) and 20 
+refrigeration units supporting the 10 stores. The RTUs comprising this pilot project ranged in size from 5 to 
+15-tons and involved various models from several different manufacturers. The refrigeration units were all 1 
+to 1½ ton systems common to most QSR Chain A’s store configurations. The refrigerants involved included R22 
+(mineral-based) and R404A and R410A (synthetic-based). Based on national weather BIN data for the 
+Baltimore/Annapolis/Washington areas for all the hours per year over 60 degrees, the RTUs operate 
+approximately 3,896 hours each year. The refrigeration units operate nearly twice that amount of time.
+Each part of the study had one primary objective.
+1     Phase I determined the efficiency improvements directly at the unit. Scientific testing was 
+conducted on a 10% sampling of the systems treated two years earlier to determine their current 
+operating efficiency. The International Performance Measurement & Verification Protocol (IPMVP) 
+was followed in collecting the performance data. The results, as shown later in this study, verified that 
+the four units tested (averaging 5.5 years of age) were restored to (and are continuing to operate in a 
+sustainable manner) or very near original design capacity. The units were also shown to be operating 
+at or very near to their original kW/ton design. To quantify the expected efficiency loss and 
+substantiate the findings, an untreated RTU (control group) installed in June of 2011 was also 
+measured so its efficiency could be compared to the older treated units. The untreated 2-year old 
+control group unit has already lost 13.7% off its original design specifications through thermal heat 
+transfer degradation.
+®
+2
+Property of Powertron Global®

@@ -1,0 +1,64 @@
+®
+6 
+HVAC/R Eﬃciency Study Results
+Calculated Eﬃciency of Telecom Provider CRAC Unit in Baseline and Post
+The chart below illustrates how far off design the Telecom Provider CRAC unit had degraded in terms of efficiency over 16 
+years of being in use. The unit was performing at an average of 85.8%* of the original design efficiency when 
+first installed. The actual design rated tonnage of each of this CRAC unit is 20.5 tons. In actuality however, the 
+unit was producing 17.6* tons at the start of the pilot. The majority of this 14.2% or more efficiency loss was 
+directly attributable to thermal degradation of the heat exchange surfaces that naturally occurs
+over time, creating a barrier to optimal heat transfer through the tube walls. 
+After PermaFrost NMR® was installed, the average efficiency in the CRAC unit jumped up to 105.9%* of design 
+specifications or 21.7* tons. This represents a 23.3% improvement in efficiency over the baseline numbers.
+*see third bullet in the engineering notes on page 4
+Original Design
+Eﬃciency
+ASHRAE Projected
+Eﬃciency Loss
+Over Time
+Actual Telecom Provider
+Design Eﬃciency as
+Measured In-Situ
+Actual Telecom Provider HVAC/R Operating Eﬃciency
+vs. ASHRAE Projected Eﬃciency Loss
+HVAC/R Eﬃciency %
+DESIGN EFFICIENCY
+20
+40
+60
+80
+100
+120
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Eﬃciency
+Improvement
+23.3%
+ 
+ 
+ 
+Age of HVAC/R Units
+Avg Age of Telecom Provider
+Equipment
+16
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

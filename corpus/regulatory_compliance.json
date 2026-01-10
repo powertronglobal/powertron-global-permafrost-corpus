@@ -1,0 +1,262 @@
+{
+  "title": "Refrigerant Regulatory Compliance Matrix",
+  "version": "1.0.0",
+  "last_updated": "2025-12-28",
+  "purpose": "Document refrigerant regulations and how PermaFrost treatment supports compliance",
+
+  "us_regulations": {
+    "epa_section_608": {
+      "name": "EPA Section 608 - Clean Air Act",
+      "description": "Regulations governing refrigerant handling, recovery, and equipment servicing",
+      "key_requirements": [
+        "Technician certification required for refrigerant handling",
+        "Refrigerant recovery required before equipment disposal",
+        "Leak repair requirements for equipment above threshold sizes",
+        "Recordkeeping for refrigerant purchases and usage"
+      ],
+      "permafrost_relevance": {
+        "compliance_support": "PermaFrost treatment does not involve refrigerant handling - no 608 certification required for product application",
+        "leak_reduction": "Improved efficiency may reduce system stress and leak potential",
+        "documentation": "M&V reports provide equipment performance records"
+      }
+    },
+    "r22_phaseout": {
+      "name": "R-22 (HCFC-22) Phase-Out",
+      "refrigerant": "R-22",
+      "ozone_depleting": true,
+      "gwp": 1810,
+      "timeline": {
+        "2010": "Production cap reduced",
+        "2015": "Further production reduction",
+        "2020": "Production and import ban (new and recycled allowed)",
+        "current": "Only reclaimed/recycled R-22 available"
+      },
+      "impact": {
+        "pricing": "R-22 prices have increased 500-1000% since 2010",
+        "availability": "Increasingly scarce as stockpiles deplete",
+        "equipment": "Millions of R-22 systems still in operation"
+      },
+      "permafrost_strategy": {
+        "extend_equipment_life": "Treatment helps maximize efficiency of R-22 equipment during transition period",
+        "reduce_strain": "Better efficiency means less refrigerant stress",
+        "fund_replacement": "Energy savings can fund eventual equipment replacement",
+        "compatibility": "PermaFrost works with R-22 systems"
+      }
+    },
+    "hfc_phasedown": {
+      "name": "AIM Act - HFC Phase-Down",
+      "description": "American Innovation and Manufacturing Act (2020)",
+      "Retail Chain A": "85% reduction in HFC production/consumption by 2036",
+      "timeline": {
+        "2022-2023": "10% reduction from baseline",
+        "2024-2028": "40% reduction",
+        "2029-2033": "70% reduction",
+        "2034-2035": "80% reduction",
+        "2036+": "85% reduction maintained"
+      },
+      "affected_refrigerants": [
+        {"refrigerant": "R-410A", "gwp": 2088, "status": "Being phased down"},
+        {"refrigerant": "R-404A", "gwp": 3922, "status": "High priority phase-down"},
+        {"refrigerant": "R-134a", "gwp": 1430, "status": "Being phased down"}
+      ],
+      "permafrost_relevance": {
+        "efficiency_improvement": "Better efficiency = less refrigerant needed per ton of cooling",
+        "equipment_extension": "Extend life of current equipment while lower-GWP options mature",
+        "compatible_with_replacements": "Works with emerging refrigerants including R-454B, R-32"
+      }
+    },
+    "state_regulations": {
+      "california": {
+        "regulation": "CARB HFC Regulations",
+        "effective": "2022+",
+        "requirements": "Prohibits use of high-GWP refrigerants in new equipment (varies by sector)",
+        "permafrost_impact": "Treatment supports efficiency in equipment during transition"
+      },
+      "washington": {
+        "regulation": "HFC restrictions",
+        "effective": "2023+",
+        "requirements": "Similar to California restrictions",
+        "permafrost_impact": "Same benefits apply"
+      }
+    }
+  },
+
+  "international_regulations": {
+    "eu_fgas": {
+      "name": "EU F-Gas Regulation (517/2014)",
+      "description": "European Union regulation phasing down HFC use",
+      "timeline": {
+        "2015": "100% baseline",
+        "2018": "63% of baseline",
+        "2021": "45% of baseline",
+        "2024": "31% of baseline",
+        "2027": "24% of baseline",
+        "2030": "21% of baseline"
+      },
+      "key_provisions": [
+        "Ban on HFCs with GWP >2500 in new stationary refrigeration (2020)",
+        "Ban on HFCs with GWP >150 in new commercial refrigeration (2022)",
+        "Mandatory leak checks for equipment above threshold",
+        "Recovery requirements at end of life"
+      ],
+      "permafrost_benefits": [
+        "Improved efficiency reduces energy-related emissions",
+        "Equipment life extension delays need for replacements",
+        "Compatible with low-GWP alternatives",
+        "Supports EU energy efficiency goals"
+      ]
+    },
+    "montreal_protocol": {
+      "name": "Montreal Protocol - Kigali Amendment",
+      "description": "Global HFC phase-down agreement",
+      "adoption": "2016 (entered force 2019)",
+      "targets": {
+        "developed_countries": "85% reduction by 2036",
+        "group_1_developing": "85% reduction by 2045",
+        "group_2_developing": "85% reduction by 2047"
+      },
+      "relevance": "Sets global framework for HFC reduction; efficiency improvements support compliance"
+    },
+    "brazil": {
+      "name": "Brazilian HFC Regulations",
+      "description": "Following Montreal Protocol Kigali Amendment",
+      "status": "Group 1 developing country timeline",
+      "permafrost_presence": "8 documented case studies in Brazil",
+      "local_support": "Technical support and product available in Brazilian market"
+    },
+    "australia": {
+      "name": "Ozone Protection and Synthetic Greenhouse Gas Management",
+      "phase_down": "Similar timeline to developed countries under Kigali",
+      "requirements": "Import quotas, equipment requirements, recovery mandates"
+    }
+  },
+
+  "refrigerant_transition_guide": {
+    "current_common_refrigerants": {
+      "R-22": {
+        "status": "Legacy - phase-out complete",
+        "gwp": 1810,
+        "type": "HCFC",
+        "ozone_impact": "Yes",
+        "permafrost_compatible": true,
+        "formulation": "DX Mineral or Chiller Mineral"
+      },
+      "R-410A": {
+        "status": "Current standard - being phased down",
+        "gwp": 2088,
+        "type": "HFC",
+        "ozone_impact": "No",
+        "permafrost_compatible": true,
+        "formulation": "DX Synthetic or Chiller Synthetic"
+      },
+      "R-134a": {
+        "status": "Current - being phased down",
+        "gwp": 1430,
+        "type": "HFC",
+        "ozone_impact": "No",
+        "permafrost_compatible": true,
+        "formulation": "Chiller Synthetic"
+      },
+      "R-407C": {
+        "status": "R-22 replacement - being phased down",
+        "gwp": 1774,
+        "type": "HFC blend",
+        "ozone_impact": "No",
+        "permafrost_compatible": true,
+        "formulation": "DX Synthetic"
+      },
+      "R-404A": {
+        "status": "High priority phase-down",
+        "gwp": 3922,
+        "type": "HFC blend",
+        "ozone_impact": "No",
+        "permafrost_compatible": true,
+        "formulation": "DX Synthetic"
+      }
+    },
+    "emerging_refrigerants": {
+      "R-32": {
+        "status": "Growing adoption",
+        "gwp": 675,
+        "type": "HFC (lower GWP)",
+        "permafrost_status": "Under evaluation for compatibility"
+      },
+      "R-454B": {
+        "status": "R-410A replacement candidate",
+        "gwp": 466,
+        "type": "HFO blend",
+        "permafrost_status": "Under evaluation"
+      },
+      "R-1234yf": {
+        "status": "Automotive and some HVAC",
+        "gwp": 4,
+        "type": "HFO",
+        "permafrost_status": "Under evaluation"
+      },
+      "R-290": {
+        "status": "Natural refrigerant - propane",
+        "gwp": 3,
+        "type": "Hydrocarbon",
+        "permafrost_status": "Specialty application"
+      },
+      "R-744": {
+        "status": "CO2 - commercial refrigeration",
+        "gwp": 1,
+        "type": "Natural",
+        "permafrost_status": "Not validated for CO2 systems"
+      }
+    }
+  },
+
+  "compliance_support_documentation": {
+    "for_utility_rebates": {
+      "methodology": "IPMVP Option B - meets utility M&V requirements",
+      "pe_certification": "Licensed Professional Engineer validates measurements",
+      "documentation_provided": [
+        "Pre-treatment baseline measurements",
+        "Post-treatment verification",
+        "Annual kWh savings calculation",
+        "Equipment specifications"
+      ]
+    },
+    "for_esg_reporting": {
+      "metrics_provided": [
+        "kWh reduction (measured)",
+        "CO2 avoided (calculated from kWh × grid factor)",
+        "Percentage efficiency improvement"
+      ],
+      "verification_level": "PE-certified field measurements"
+    },
+    "for_leed_certification": {
+      "credit_categories": [
+        "Energy and Atmosphere (EA) - Optimize Energy Performance",
+        "Innovation credits for efficiency improvements"
+      ],
+      "documentation": "PE-certified M&V reports acceptable for credit documentation"
+    }
+  },
+
+  "training_notes": {
+    "key_messages": [
+      "PermaFrost helps extend equipment life during refrigerant transitions",
+      "Treatment is compatible with current AND emerging refrigerants",
+      "Energy savings directly reduce carbon footprint regardless of refrigerant",
+      "M&V documentation supports utility, ESG, and sustainability reporting",
+      "No refrigerant handling = no EPA 608 certification required for installation"
+    ],
+    "common_questions": [
+      {
+        "question": "Does using PermaFrost affect refrigerant warranty?",
+        "answer": "PermaFrost does not modify refrigerant properties. It bonds to metal surfaces. No warranty claims documented across 125+ installations."
+      },
+      {
+        "question": "Is PermaFrost an HFC product subject to phase-down?",
+        "answer": "No. PermaFrost is a treatment additive, not a refrigerant. It is not subject to HFC phase-down regulations."
+      },
+      {
+        "question": "Can we use PermaFrost on equipment before converting to a new refrigerant?",
+        "answer": "Yes. Treatment provides efficiency benefits with current refrigerant. If equipment is later converted, treatment should be reapplied for new refrigerant/oil combination."
+      }
+    ]
+  }
+}

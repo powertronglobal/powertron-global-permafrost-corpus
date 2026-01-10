@@ -1,0 +1,38 @@
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling Capacity in Tons  
+Average Annual Runtime Hours
+Date Installed
+Carrier
+48HJF004-541
+3305G30325
+R22
+5 Tons
+2,000
+2005
+Carrier
+48HJF009-551
+3305G40760
+R22
+10 Tons
+3,000
+2005
+Detailed Results for Company A Roof Top Units
+System Description / Design Characteristics
+These units provide comfort cooling for the for the rear break area and front lobby/waiting areas respectively 
+located at [Brooklyn Location].  Given much of the load in the two areas being served are very much 
+dependent on patient and staff traffic in and out, it is estimated that the 5-ton RTU operates ~2,000 per year and 
+the 10-ton RTU operates ~3,000 hours per year prior to the ECM being implemented.  
+Baseline and Post Measurements
+The identical IPMVP following data points were recorded for Baseline and Post on 7/15/13 and 8/6/13 
+respectively using recently NIST calibrated devices to insure measurement accuracy. The Return Air dry bulb 
+and wet bulb temperatures entering the coil were very similar in both periods as were the discharge pressures 
+of the compressors. The OAT was also very similar, being just 2.6 degrees cooler in the Post so no adjustments 
+were made to the calculations. The measurements are as follows: 
+Energy Science Division
+Lobby Area RTU
+Break Area RTU
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,36 @@
+!
+Energy Consumption & Financial Metrics
+The following is the ﬁnal calculated performance measurements following the PermaFrost NMR® Post 
+measurement period for each of the two treated pilot units.  
+MCVET Pilot Unit
+Baseline Energy Consumption
+Avg. Baseline Capacity:  11.14 tons
+Avg. Adjusted kW Baseline:  1.07 kw/ton * 14.60 tons = 15.62 kW
+Avg. Adjusted Baseline kWh:  15.62 kW * 3,280 Annual Operating Hrs = 51,234 kWh
+Avg. Revised Cost to Run Baseline: 51,234 kWh * $.105 = $5,380
+Post Energy Consumption
+kW Post:  0.86 kW/ton * 14.60 tons = 12.56 kW
+Annual kWh Post:  12.56 kW * 3,280 hours = 41,197 kWh
+Annual Cost Post:  41,197 kWh * $.105 cents = $4,326
+Savings per Year
+Avoided Energy Cost (savings) Per Year:  $5,380 - $4,326 = $1,054
+Estimated Energy Savings per Month: $1,054 / 12 = $88
+Return on Investment
+Cost of PermaFrost NMR® installed in the MCVET pilot cooling unit: $1,250
+Estimated ROI Period for Baltimore City on MCVET pilot cooling unit: $1,250 / $88 = ~14.2 Months
+Annual Internal Rate of Return = 84%
+Return on Investment Over 5 Years = 422%
+Regression Analysis Notes
+Utilizing data collected during the pilot study, to obtain a true avoided energy cost and subsequent payback 
+period for Baltimore City for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to 
+calculate the true energy savings resulting from the improvement in both capacity and efﬁciency. Working 
+together, these improvements reduce the annual kWh expended in the Post Analysis Period. The ROI comes from 
+determining what the cost to run the cooling unit was when operating at the original energy proﬁle to produce 
+the newly restored amount of available capacity and then subtracting the revised cost to run the cooling unit at 
+the same restored capacity after the PermaFrostNMR® ECM was installed. This regression analysis is the most 
+widely accepted method of accounting for the reduced number of hours and/or load % at which the unit will now 
+operate due to the restored performance proﬁle. This restored performance proﬁle allows the cooling unit to 
+satisfy the internal area set point with increased efﬁciency resulting in reduced compressor demand loading.
+10
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

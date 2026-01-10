@@ -1,0 +1,45 @@
+ 
+ 
+ 
+The	  Measurement	  and	  Verification	  (M&V)	  protocol	  defined	  the	  boundary	  by	  
+isolating	  the	  entry	  and	  departure	  points	  of	  the	  medium	  being	  cooled	  to	  determine	  
+cooling	  performance	  and	  comparing	  that	  with	  the	  power	  being	  used	  to	  quantify	  
+the	  power	  costs	  per	  unit	  of	  cooling,	  kW/Ton	  (kilowatt-­‐per-­‐ton),	  EER	  (Energy	  
+Efficiency	  Ratio)	  and	  COP	  (Co-­‐Efficient	  of	  Performance).	  
+	  
+	  
+2.	  	  	  	  	  General	  Findings	  
+The	  return	  air	  velocity	  was	  very	  deficient	  as	  a	  result	  of	  the	  absence	  of	  outdoor	  air	  
+entry	  economizers.	  They	  were	  provided	  when	  these	  units	  were	  manufactured	  
+however	  the	  economizer	  on	  unit	  05-­‐3943	  (VIP	  6)	  was	  completely	  removed	  and	  the	  
+economizer	  for	  unit	  05-­‐3942	  (VIP	  7)	  was	  not	  active.	  Due	  to	  the	  operation	  of	  the	  
+kitchen	  exhaust	  hoods	  this	  is	  the	  preferred	  method	  of	  supplying	  the	  restaurant	  
+with	  filtered	  and	  conditioned	  air	  volume.	  	  
+Per	  design,	  the	  setup	  included	  outdoor	  air	  entry	  hoods	  with	  opposing	  blade	  
+dampers.	  Unit	  05-­‐3942	  (VIP	  7)	  had	  an	  outdoor	  air	  entry	  hood,	  however,	  the	  
+damper	  was	  closed	  with	  a	  non-­‐functional	  fastener.	  Unit	  05-­‐3943	  (VIP	  6)	  air	  entry	  
+hood	  was	  removed.	  The	  data	  measured	  was	  insufficient	  to	  determine	  the	  units’	  pre	  
+or	  base	  cooling	  capacity.	  With	  this	  absence	  of	  outdoor	  entry	  air,	  the	  restaurant	  air	  
+pressure	  condition	  was	  negative,	  which	  contributes	  to	  the	  compromised	  indoor	  air	  
+quality	  as	  well	  as	  creating	  additional	  building	  load	  for	  the	  RTUs.	  
+Grupo	  QSR Franchise A	  technicians	  subsequently	  repaired	  unit	  05-­‐3942	  (VIP	  7)	  damper	  and	  
+installed	  a	  new	  hood	  and	  damper	  for	  unit	  05-­‐3943(VIP	  6).	  However,	  total	  air	  
+velocity	  could	  not	  reach	  full	  potential.	  Further	  diagnoses	  revealed	  that	  the	  arriving	  
+air	  was	  being	  hindered	  due	  to	  the	  supply	  air	  fan	  discharge	  not	  being	  aligned	  with	  
+the	  down	  ductwork.	  It	  had	  not	  been	  changed	  from	  the	  previously	  installed	  RTU	  
+brand,	  meaning	  that	  new	  curb	  adapters	  were	  required.	  It	  was	  decided	  to	  replace	  
+them	  once	  current	  testing	  was	  complete.	  
+	  
+	  
+3.	  	  	  	  	  Method	  of	  Procedure	  for	  testing:	  
+ 
+The	  cooling	  production	  of	  HVAC/R	  systems	  are	  realized	  by	  measuring	  the	  total	  
+(kW)	  energy	  consumed	  and	  the	  total	  BTU	  (British	  Thermal	  Unit)	  production	  
+(Tons)	  to	  obtain	  kW	  per	  ton,	  EER	  (energy	  efficient	  ratio)	  and	  COP	  (coefficient	  of	  
+performance)	  to	  calculate	  the	  total	  BTUH	  (BTU/Hour)	  cooling	  production.	  Power	  
+(kW)	  is	  derived	  by	  measuring	  voltages,	  amperages	  and	  power	  factor.	  Cooling	  
+capacity	  is	  derived	  by	  measuring	  temperatures,	  pressures	  and	  air	  velocity	  or	  flows.	  
+Grupo	  QSR Franchise A’s	  RTUs	  were	  fitted	  with	  an	  Internet	  of	  Things	  (IoT)	  based	  M&V	  
+platform	  to	  measure	  and	  compare	  thirty-­‐five	  (35)	  key	  required	  data	  points	  (see	  
+appendix)	  sampled	  every	  thirty	  (30)	  milliseconds	  for	  a	  pre	  or	  baseline	  period	  of	  
+performance	  from	  6-­‐13	  February	  2017	  and	  a	  post	  period	  from	  7-­‐14	  March	  2017.	  

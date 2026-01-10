@@ -1,0 +1,69 @@
+Energy Science Division
+Improvements
+Total Calculated kWh (3 RTU’s)
+Average kWh Per RTU
+Cooling Capacity in Tons (3 RTU’s)
+Average Capacity Per RTU
+kW / Ton (3 RTU’s)
+Average kW / Ton Per RTU
+COP (3 RTU’s)
+Average COP Per RTU
+Total Enthalpy Delta (3 RTU’s)
+Average Enthalpy Delta Per RTU
+Post
+Delta
+Baseline
+(25.8%)
+(25.8%)
+23.4%
+23.4%
+(21.4%)
+(21.4%)
+26.4%
+26.4%
+23.5%
+23.5%
+110,672
+36,891
+29.96
+9.99
+3.607
+1.202
+8.77
+2.923
+26.45
+8.82
+38,465
+12,822
+5.68
+1.89
+.981
+.327
+1.83
+.61
+5.04
+1.68
+149,137
+49,712
+24.28 
+8.09
+4.588 
+1.529
+6.94
+2.313
+21.41
+7.14
+Results
+The following are the final calculated average performance measurement improvements following the 
+PermaFrost NMR® Post measurement periods on the three Major US Telecom RTU’s.  
+PermaFrost NMR®: Determining the Payback Period for Major US Telecom
+Utilizing data in the above charts, to obtain a true avoided energy cost and subsequent payback period for Major US Telecom for 
+implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in capacity. This greater capacity reduces the runtime hours and in turn 
+reduces the annual kWh expended in the Post. The true ROI comes from determining what the cost to run the system 
+was when operating at its original energy profile then subtracting the cost to operate the system at its newly restored 
+energy profile less the percentage of increased capacity. This regression calculation is the most scientific method of 
+accounting for the reduced number of hours the units will now run due to their increased capacity which allows the 
+units to reach set temperatures quicker and shut off sooner.   
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,24 @@
+kWh
+kWh by CDD
+196.28 kWh
+196.28 kWh
+196.28 kWh
+221.54 kWh
+221.54 kWh
+221.54 kWh
+206.28 kWh
+206.28 kWh
+206.28 kWh
+Baseline
+Post
+0
+1
+2
+0
+50
+100
+150
+200
+250
+22
+CDD

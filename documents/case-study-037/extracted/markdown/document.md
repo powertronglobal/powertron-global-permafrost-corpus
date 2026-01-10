@@ -1,0 +1,893 @@
+# Caribbean Telecom Provider A2_report.pdf
+
+Energy Science Division
+
+®
+
+Energy Eﬃciency/HVAC Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Caribbean Telecom Provider - [Jamaica Site A] Data & Network Operations Center
+
+CRAC Units #1 and #2
+
+Study Dates:
+     January 8 – March 9, 2016
+
+Participants:
+      Caribbean Telecom Provider
+      [Network Director]
+      Network Design Director
+
+[Client Representative]
+      Engineering Manager
+
+[Client Representative]
+      Power Engineer
+
+Powertron Global
+      [Senior Energy Engineer]
+      Director of Engineering
+
+Energy Solutions Partner
+      [Director Global Business]
+      Director of Operations
+
+Location:
+      [Jamaica Location]
+
+This report is provided to Caribbean Telecom Group. It is confidential and proprietary to Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+1
+
+HVAC/R Eﬃciency Report
+
+Purpose of Energy Eﬃciency Study
+
+The purpose of this jointly conducted ECM study between the Caribbean Telecom Provider and Powertron Global engineering teams
+
+was to further validate the first successful capacity study completed in Spring of 2015 on two 30-ton CRAC units
+
+with a follow-up (second) study. This second successful study focused on actual kWh savings (Caribbean Telecom Provider energy
+
+meter) and capacity improvements (IPMVP) on two more Liebert systems.
+
+The identiﬁcation of cooling systems involved in the study are recorded as follows:
+
+•(2) 24-ton Emerson/Liebert CRAC, Mfg date: 2003, R-22, 408 volt-3 Phase, Model DH290A-GGEI
+
+ECM Product Brief
+
+PermaFrost NMR® is a multi-patented surface science nanotechnology that uses Nucleo Molecular Regenerative
+
+(NMR®) technology as its core agent. A sustainable, one-time treatment with no down time required, PermaFrost
+
+NMR® lasts for the remaining life of any type of climate control system in which it is installed. The direct benefits
+
+of PermaFrost NMR® are improved cooling efficiency and increased capacity, both of which result in lower overall
+
+costs to operate a system and extended equipment life.
+
+This report is provided to Caribbean Telecom Group. It is confidential and proprietary to Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+2
+
+Methodology
+
+After verifying the proper amount of air flowing across the evaporator coils of the two CRAC units before
+
+beginning the pilot, the subsequent measurements used in the efficiency calculations were collected and
+
+compiled in two ways. The first method was to install a Fluke power meter at the electrical panel in the same
+
+room as the CRAC units. The meter captured the power usage of both CRAC units as well as the condensing
+
+units associated with them. The second method was to measure the CRAC units in accordance with AHRI and
+
+Option B of the industry best practice International Measurement and Verification Protocol (IPMVP)
+
+framework.
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+• kW = Volts * Amps * Power Factor * 1.732/1000 (for 3-Phase)
+
+• kW/Ton = kW / Actual Tonnage
+
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+
+• Actual Cooling Tons per Hour = (Measured CFM * 4.5 Enthalpy Delta T)/ 12,000 BTU
+
+Results from the Study
+
+Using the two data collection methodologies outlined above, the key results from the pilot are as follows:
+
+• Annual Energy use for the two CRAC units, as captured on the Caribbean Telecom Provider energy meter, fell 6.8% or
+
+17,112 kWh’s
+
+• Average Max Current (Amps) for the two CRAC units, as captured on the Caribbean Telecom Provider energy meter, fell
+
+20.4% from 88.63 to 70.52
+
+• Annual cost to operate the two CRAC units was reduced by $4,278, equating to a 12.6 month payback*
+
+• Total capacity of the two pilot CRAC units increased by 19.4% from 28.8 tons to 34.4 tons
+
+• kW/ton rating (i.e., the cost for every ton of cooling produced) was reduced by 18.5% from 1.19 to .97
+
+kW/ton
+
+*While $.16 cents was the targeted price in Dec 2015, the price of oil has more than doubled since that time
+
+This report is provided to Caribbean Telecom Group. It is confidential and proprietary to Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+3
+
+Summary of Power Meter Data
+
+The Caribbean Telecom Provider power meter data (inside the red circles) taken from identical blocks of time and weather shows
+
+a 6.8% reduction in kWh’s, savings of $4,278 in US dollars annually, and an initial payback period of just 12.6
+
+months. The significance of these results not only show bottom line power savings but specifically
+
+demonstrates that when the workloads are nearly identical, the restored capacity provided by PermaFrost
+
+NMR® in these systems to near or at OEM design lower your cost per unit or kW/ton therefore Caribbean Telecom Provider is
+
+saving energy and money. This data serves to substantiate the IPMVP data taken in both pilots.
+
+Timeframe
+Vrms
+Average
+Max
+
+Average
+Current
+Max
+
+Power
+Factor
+Total Max
+
+Active
+Energy Total
+Max (in kWh)
+
+Average
+OAT
+Average
+Humidity
+Date
+
+BASELINE READINGS
+
+5 Hrs / Midnight - 5AM
+
+8 Hrs / 2AM - 10AM
+
+6 Hrs / 2PM - 8PM
+
+4 Hrs / 6 AM - 10AM
+
+8 Hrs / 4AM - Noon
+
+31 Total Hours
+
+419.28
+
+418.50
+
+415.97
+
+414.97
+
+415.76
+
+416.9
+
+94.09
+
+88.25
+
+76.42
+
+93.82
+
+90.59
+
+88.63
+
+0.71
+
+0.71
+
+0.75
+
+0.72
+
+0.73
+
+0.72
+
+142.535
+
+218.604
+
+186.877
+
+115.293
+
+227.746
+
+891.055
+
+78.7
+
+77.4
+
+84.1
+
+79.7
+
+79.1
+
+79.8
+
+74.0
+
+76.2
+
+60.7
+
+75.5
+
+71.0
+
+71.5
+
+10-Jan
+
+9-Jan
+
+19-Jan
+
+12-Jan
+
+14-Jan
+
+Timeframe
+Vrms
+Average
+Max
+
+Average
+Current
+Max
+
+Power
+Factor
+Total Max
+
+Active
+Energy Total
+Max (in kWh)
+
+Average
+OAT
+Average
+Humidity
+Date
+
+POST READINGS
+
+5 Hrs / Midnight - 5AM
+
+8 Hrs / 2AM - 10AM
+
+6 Hrs / 2PM - 8PM
+
+4 Hrs / 6 AM - 10AM
+
+8 Hrs / 4AM - Noon
+
+31 Total Hours
+
+419.11
+
+418.96
+
+418.42
+
+417.71
+
+418.40
+
+418.5
+
+74.64
+
+60.69
+
+74.49
+
+73.88
+
+68.91
+
+70.52
+
+0.72
+
+0.71
+
+0.73
+
+0.72
+
+0.72
+
+0.72
+
+133.810
+
+202.058
+
+177.705
+
+106.389
+
+210.538
+
+830.500
+
+78.7
+
+77.5
+
+84.1
+
+79.8
+
+79.0
+
+79.8
+
+74.2
+
+76.3
+
+60.8
+
+75.5
+
+71.0
+
+71.6
+
+27-Feb
+
+28-Feb
+
+29-Feb
+
+5-Mar
+
+6-Mar
+
+Reductions From Baseline in kWh Every 31 Hours 
+60.56            or            6.8%
+
+Calculated Annual Savings in kWh's and U.S.   
+17,112              or            $4,278
+
+Initial Return on Investment in Months at $.25/kWh U.S. 
+12.6
+
+(*) Annual kWh savings calculated by multiplying the 60.56 kWh's demonstrated in the 31 hours of savings comparisons by
+
+281.581 (the number of 31 hour periods in a calendar year of 8,760 hours).
+
+The cost to treat the two systems was $4500 USD.
+
+This report is provided to Caribbean Telecom Group. It is confidential and proprietary to Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+4
+
+The Caribbean Telecom Provider energy meter data from each of the comparison blocks of time are depicted in the graphs on the
+
+next few pages. The Caribbean Telecom Provider Engineering team has all the details behind these charts as well as all the other raw
+
+data pulled directly from the power meter.
+
+AVERAGE MAX CURRENT BY HOUR
+
+This report is provided to Caribbean Telecom Group. It is confidential and proprietary to Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+5
+
+ACTIVE ENERGY (kWh) USED BY HOUR
+
+This report is provided to Caribbean Telecom Group. It is confidential and proprietary to Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+Recovered Wasted Energy with PermaFrost NMR (CRAC#1 & #2)
+
+The “Unit Cost” in the HVAC industry is the kW/ton ratio. KW/ton is commonly used for larger commercial
+
+and industrial air conditioning, heat pump and refrigeration systems. It is the HVAC industry’s standard of
+
+determining how much energy is required to create a single ton of cooling (i.e., conditioned air). When you
+
+reduce the unit cost of cooling you are saving energy regardless of how much overall cooling is required.
+
+The chart to the right illustrates the average performance restoration the ECM created in the treated systems.
+
+The average cost to operate these CRAC systems before it was treated with PermaFrost NMR® as calculated in
+
+kW/ton was 1.19.
+
+The specific cost to operate after the systems were
+
+treated with PermaFrost NMR® as calculated in
+
+kW/ton is currently .97.
+
+The higher baseline kW/ton rating measured in-situ
+
+was expected when compared to the ASHRAE loss
+
+of performance efficiency for similar age and type
+
+cooling systems.
+
+kW/ton
+
+.22 kW/ton
+Recovered
+Energy
+
+Equating to a
+18.5% Reduction
+
+Cost Per Cooling Unit to Operate
+
+Baseline
+Post ECM
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+1.2
+
+1.19
+
+.97
+
+6
+
+This report is provided to Caribbean Telecom Group. It is confidential and proprietary to Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+18.5%
+
+17.6%
+
+18.4%
+
+13.3%
+
+21.5%
+
+Caribbean Telecom Provider
+CRAC # 1
+BASELINE
+
+Caribbean Telecom Provider
+CRAC # 1
+POST
+
+% of
+Improvements
+Caribbean Telecom Provider
+CRAC # 2
+BASELINE
+
+Caribbean Telecom Provider
+CRAC # 2
+POST
+
+% of
+Improvements
+
+Summary of IPMVP HVAC/R Capacity Study Results
+
+The performance summary includes the measured efficiency and tonnage of the two CRAC units in the
+
+baseline and post testing periods demonstrating the impact of thermal degradation. The implementation of
+
+PermaFrost NMR® ECM resulted in a restoration of 5.6 operating tons and an average improvement of
+
+22.1% in Coefficient of Performance (COP), significantly reducing the cost to operate the systems
+
+throughout the year.
+
+TYPE OF MEASUREMENT
+
+9.88
+
+1.29
+
+2.60
+
+7.9
+
+2.73
+
+11.97
+
+1.05
+
+3.15
+
+9.1
+
+3.35
+
+21.2%
+
+18.6%
+
+21.2%
+
+15.2%
+
+22.7%
+
+18.93
+
+1.08
+
+4.50
+
+13.5
+
+3.26
+
+22.43
+
+0.89
+
+5.33
+
+15.3
+
+3.96
+
+Operating Tonnage
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Co-eﬃcient of Performance (COP)
+
+7
+
+This report is provided to Caribbean Telecom Group. It is confidential and proprietary to Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+CRAC Unit #1 & #2 IPMVP Readings
+
+The readings below were taken directly at the systems using recently NIST calibrated devices in accordance
+
+with AHRI and Option B of IPMVP protocols. Photographs of these key measurements are available on the
+
+next two pages. Special care was taken to record all measurements, baseline & post, during same outdoor
+
+air temperatures and when entering return air (dry bulb) were nearly identical.
+
+Caribbean Telecom Provider
+CRAC # 1
+BASELINE
+
+Caribbean Telecom Provider
+CRAC # 1
+POST
+
+Caribbean Telecom Provider
+CRAC # 2
+BASELINE
+
+Caribbean Telecom Provider
+CRAC # 2
+POST
+TYPE OF MEASUREMENT
+
+412.5
+
+20.8
+
+36.6
+
+63.9
+
+103.8
+
+207.5
+
+71.5
+
+62.4
+
+58.9
+
+53.9
+
+10,130
+
+85
+
+25.71
+
+22.56
+
+100%
+
+412.8
+
+33.6
+
+36.1
+
+63.3
+
+110.4
+
+227.8
+
+71.8
+
+58.3
+
+58.1
+
+50.7
+
+11,220
+
+85
+
+25.19
+
+20.69
+
+50%
+
+411.7
+
+32.9
+
+38.6
+
+66.7
+
+105.8
+
+213.8
+
+71.8
+
+56.5
+
+58.7
+
+49.9
+
+11,220
+
+85
+
+25.58
+
+20.25
+
+100%
+
+Volts
+
+Amps
+
+Suction Temperature
+
+Suction Pressure
+
+Discharge Temperature
+
+Discharge Pressure
+
+Entering Air DB
+
+Leaving Air DB
+
+Entering Air WB
+
+Leaving Air WB
+
+CFM Across Coils
+
+Outside Air Temp.
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+Load % During Testing
+
+413.2
+
+20.9
+
+34.5
+
+61.1
+
+112.2
+
+233.6
+
+71.6
+
+63.7
+
+58.6
+
+54.5
+
+10,130
+
+85
+
+25.52
+
+22.92
+
+50%
+
+8
+
+This report is provided to Caribbean Telecom Group. It is confidential and proprietary to Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+Photographic Evidence of Key Measurements
+
+CRAC #1 - Baseline
+
+CRAC #1 - Post
+
+9
+
+This report is provided to Caribbean Telecom Group. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+Photographic Evidence of Key Measurements
+
+CRAC #2 - Baseline
+
+CRAC #2 - Post
+
+10
+
+This report is provided to Caribbean Telecom Group. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+2.5
+
+Passenger vehicles
+
+.605
+
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+
+1,328
+
+Gallons of gasoline
+consumed
+
+12,674
+
+Pounds of coal burned
+annually
+
+27.4
+
+Barrels of oil
+consumed
+
+1.1
+
+Homes’ electricity use for
+one year
+
+11
+
+Caribbean Telecom Provider is Saving More than Just Energy
+
+By treating two more CRAC systems with PermaFrost NMR®, based on the current manner in which the
+
+Caribbean Telecom Provider operates the equipment, it will save approximately 17,112 kWh per year and all the costs associated
+
+with those savings. From an environmental impact standpoint, Caribbean Telecom Provider is also benefitting the surrounding
+
+community of [Jamaica Capital]. Imagine how great the environmental impact will be when Caribbean Telecom Provider moves forward
+
+with treating all their HVAC/R equipment in all their properties across their portfolio.
+
+The 17,112 kWh saved per year equates to preventing 11.8 metric tons of greenhouse gas emissions from being
+
+released or any of the following:
+
+Annual greenhouse emissions from:
+
+CO2 emissions from:
+
+.063
+
+Railcars worth
+of coal burned
+
+This report is provided to Caribbean Telecom Group. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

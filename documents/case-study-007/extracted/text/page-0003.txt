@@ -1,0 +1,50 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+Powertron Global’s digital F2 monitoring systems were installed on each individual 
+HVAC unit (2 per site) at ten (10) selected cell tower building sites (Appendix A). 
+The measurement boundary will be the HVAC equipment itself. The F2 devices 
+recorded data every second on a continual basis. The data is automatically 
+uploaded to Powertron’s FMV data gathering platform. Each F2 device is 
+equipped with a revenue grade power meter and specific levels of sensor 
+technology including a variety of temperature, humidity, airflow, and current 
+measurements (compressor on/off) capabilities. The list of points measured can 
+be found within Appendix B in this report. All measurements were collected to 
+provide the establishment of a confident baseline power consumption and thermal 
+performance as determined by the use of temperature data (CDD). The F2 
+systems remained attached to the equipment throughout the entire project. 
+ 
+After baseline data was established, a total of twenty (20) HVAC units were 
+treated with the proper amount of PermaFrost NMR®, a nanotechnical chemical, 
+designed to restore any lost cooling capacity because of internal heat exchanger 
+lubricant fouling. The goal of the technology is to restore lost efficiency, enhance 
+cooling capacity from depleted levels, and to reduce compressor runtime/cycle 
+time periods.  
+ 
+Accomplishing the deliverance of additional cooling capacity by improving heat 
+exchanger performance will reduce the amount of time the compressor must 
+operate therefore reducing the amount of total kilowatt hours consumed on a daily 
+basis.   
+ 
+After treatment and required time for the nanotechnology to gestate (up to 500 
+compressor runtime hours) throughout the refrigeration circuit of each unit, the 
+ERP or post data gathering was recorded. The ERP data will be compared to the 
+baseline power data taking into account the CDD totals to normalize the results. 
+ 
+ 
+C. Project Description 
+ 
+The initial baseline period was conducted on May 11-24 of 2023 but due to the 
+delayed installation of the product, Powertron Global F2 devices captured 
+additional 6 weeks approximately of baseline data (May 25 – July 4). A pivot in the 
+selection of the baseline data period was determined to compare pre & post data 
+sets with the exact or near exact Cooling Degree Day (CDD) totals for like weather 
+conditions. Another important static factor that influenced the data selection was to 
+include an even number of lead and lag days in both data sets. The Lead/Lag 
+settings on the controllers are set for 1 day allowing the units to alternate each day 
+as the lead.  
+ 
+Powertron was able to use a more compelling and comparable baseline period 
+with external load temperatures and additional days of exposure (data). This year 
+in Texas the spring temperatures were unseasonably cool followed by above 

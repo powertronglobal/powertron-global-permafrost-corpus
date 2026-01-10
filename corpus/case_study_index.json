@@ -1,0 +1,633 @@
+{
+  "title": "Comprehensive Case Study Index (Obfuscated)",
+  "version": "1.0.0",
+  "last_updated": "2025-12-28",
+  "purpose": "Complete index of all case studies with company, industry, and equipment metadata",
+  "summary": {
+    "total_case_studies": 130,
+    "total_pdf_size_mb": 600,
+    "unique_companies": 32,
+    "industries_covered": 9,
+    "equipment_types": 15,
+    "years_covered": "2014-2023"
+  },
+  "companies": {
+    "fortune_500": [
+      {
+        "name": "Major Telecom Provider A",
+        "industry": "telecommunications",
+        "case_studies": [
+          "Major Telecom A_Racine.pdf",
+          "Major Telecom A_Cowboys.pdf",
+          "Major Telecom A CTH Post Report.pdf"
+        ]
+      },
+      {
+        "name": "African Telecom Provider B",
+        "industry": "telecommunications",
+        "case_studies": [
+          "Major Telecom B.pdf"
+        ]
+      },
+      {
+        "name": "Major Telecom Provider C",
+        "industry": "telecommunications",
+        "case_studies": [
+          "Major Telecom C.pdf"
+        ]
+      },
+      {
+        "name": "Major Telecom Provider D",
+        "industry": "telecommunications",
+        "case_studies": [
+          "Major Telecom D M_n_V Report.pdf"
+        ]
+      },
+      {
+        "name": "Major Telecom Provider E",
+        "industry": "telecommunications",
+        "case_studies": [
+          "Major Telecom E Cell Tower Sites.pdf"
+        ],
+        "note": "Houston TX cell tower sites - 20 Bard DX units across 10 sites"
+      },
+      {
+        "name": "Fortune 500 Retailer A",
+        "industry": "retail",
+        "case_studies": [
+          "Retail Chain A DX Report.pdf"
+        ]
+      },
+      {
+        "name": "Fortune 500 Retailer B",
+        "industry": "retail",
+        "case_studies": [
+          "Retail Chain B_refrigeration.pdf",
+          "Retail Chain B_RTU.pdf"
+        ]
+      },
+      {
+        "name": "Major Pharmaceutical A",
+        "industry": "pharmaceutical",
+        "case_studies": [
+          "Major Pharma A.pdf"
+        ]
+      },
+      {
+        "name": "Major Tire Manufacturer",
+        "industry": "manufacturing",
+        "case_studies": [
+          "Major Tire Mfg.pdf",
+          "Major Tire Mfg_gadsen.pdf"
+        ]
+      },
+      {
+        "name": "Major Defense Contractor",
+        "industry": "defense_contractor",
+        "case_studies": [
+          "Defense Contractor A.pdf"
+        ]
+      },
+      {
+        "name": "Food Manufacturer A",
+        "industry": "food_manufacturing",
+        "case_studies": [
+          "Food Mfg A.pdf"
+        ]
+      }
+    ],
+    "major_financial": [
+      {
+        "name": "Major Global Bank A",
+        "industry": "banking",
+        "case_studies": [
+          "Major Global Bank A_Longevity.pdf",
+          "Major Global Bank A_OneSquare.pdf",
+          "Major Global Bank A_[Texas City].pdf",
+          "Major Global Bank A_[Connecticut Location].pdf",
+          "Major Global Bank A_[New Jersey Location].pdf",
+          "Major Global Bank A [Washington DC Area] Report.pdf",
+          "Major Global Bank A Canada Report.pdf"
+        ]
+      },
+      {
+        "name": "Major Bank B",
+        "industry": "banking",
+        "case_studies": [
+          "Major Bank B.pdf"
+        ]
+      },
+      {
+        "name": "Regional Bank A",
+        "industry": "banking",
+        "case_studies": [
+          "Regional Bank A.pdf"
+        ]
+      },
+      {
+        "name": "Financial Services Firm A",
+        "industry": "financial_services",
+        "case_studies": [
+          "Financial_Services_A.pdf"
+        ]
+      },
+      {
+        "name": "International Bank (Brazil)",
+        "industry": "banking",
+        "case_studies": [
+          "Brazilian Bank A.pdf"
+        ]
+      }
+    ],
+    "restaurant_chains": [
+      {
+        "name": "Restaurant Chain A",
+        "industry": "restaurant",
+        "case_studies": [
+          "Restaurant Chain A.pdf",
+          "2022_Restaurant-Chain-A_1.pdf"
+        ]
+      },
+      {
+        "name": "Restaurant Chain B",
+        "industry": "restaurant",
+        "case_studies": [
+          "QSR Chain A_Florida.pdf",
+          "2022_QSR Chain A-report_longevity_1.pdf"
+        ]
+      },
+      {
+        "name": "Restaurant Chain C",
+        "industry": "restaurant",
+        "case_studies": [
+          "QSR Chain C.pdf"
+        ]
+      },
+      {
+        "name": "Restaurant Chain D",
+        "industry": "restaurant",
+        "case_studies": [
+          "QSR Chain B.pdf"
+        ]
+      }
+    ],
+    "government_military": [
+      {
+        "name": "Military Base A",
+        "industry": "military",
+        "case_studies": [
+          "Military_Base_A_chiller.pdf",
+          "Military_Base_A_crac.pdf",
+          "Military_Base_A.pdf"
+        ]
+      },
+      {
+        "name": "Defense Agency A",
+        "industry": "military",
+        "case_studies": [
+          "Defence-Logistics-Agency.pdf"
+        ]
+      },
+      {
+        "name": "State Military A",
+        "industry": "military",
+        "case_studies": [
+          "State_Military_A.pdf"
+        ]
+      },
+      {
+        "name": "EMIP Program",
+        "industry": "government",
+        "case_studies": [
+          "EMIP-Demonstration.pdf"
+        ]
+      },
+      {
+        "name": "County Law Enforcement A",
+        "industry": "government",
+        "case_studies": [
+          "County_Law_Enforcement_A.pdf"
+        ]
+      }
+    ],
+    "data_centers": [
+      {
+        "name": "Data Center Provider A",
+        "industry": "data_center",
+        "case_studies": [
+          "Data Center B_chiller.pdf",
+          "Data Center B_RTU.pdf"
+        ]
+      },
+      {
+        "name": "Data Center Provider B",
+        "industry": "data_center",
+        "case_studies": [
+          "Data Center Provider A_[New Jersey Location].pdf",
+          "Data Center Provider A_NYC2.pdf",
+          "Data Center Provider A_[Georgia Location].pdf"
+        ]
+      },
+      {
+        "name": "Telecom Data Center A",
+        "industry": "data_center",
+        "case_studies": [
+          "Regional_Telecom_A_Data_center.pdf",
+          "Regional_Telecom_A_tower_cell.pdf"
+        ]
+      },
+      {
+        "name": "Telecom Equipment Manufacturer",
+        "industry": "data_center",
+        "case_studies": [
+          "Telecom Equipment Mfg.pdf",
+          "Telecom Equipment Mfg_IPMVP.pdf",
+          "Telecom Equipment Mfg_plano_chiller.pdf",
+          "Telecom Equipment Mfg_[New Jersey Location].pdf"
+        ]
+      }
+    ],
+    "hospitality": [
+      {
+        "name": "Major Hotel Chain A",
+        "industry": "hospitality",
+        "case_studies": [
+          "Hotel Chain A_[Louisiana Location].pdf",
+          "Hotel Chain A_[Caribbean Location].pdf"
+        ]
+      },
+      {
+        "name": "Gaming Company A",
+        "industry": "hospitality",
+        "case_studies": [
+          "Gaming Company A.pdf"
+        ]
+      }
+    ],
+    "entertainment": [
+      {
+        "name": "Major Theater Chain",
+        "industry": "entertainment",
+        "case_studies": [
+          "Entertainment A_post.pdf",
+          "Sports_Arena_A.pdf"
+        ]
+      },
+      {
+        "name": "Professional Sports Org",
+        "industry": "entertainment",
+        "case_studies": [
+          "Sports Organization A_HQ.pdf"
+        ]
+      }
+    ],
+    "healthcare": [
+      {
+        "name": "Major Hospital A",
+        "industry": "healthcare",
+        "case_studies": [
+          "Regional_Hospital_A.pdf"
+        ]
+      },
+      {
+        "name": "Major Pharmaceutical B",
+        "industry": "pharmaceutical",
+        "case_studies": [
+          "Pharma Company B_[Connecticut Location].pdf",
+          "Pharma Company B_NB.pdf"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "name": "Major University A",
+        "industry": "education",
+        "case_studies": [
+          "University_A.pdf"
+        ]
+      },
+      {
+        "name": "Major University B",
+        "industry": "education",
+        "case_studies": [
+          "College_A.pdf"
+        ]
+      },
+      {
+        "name": "School District A",
+        "industry": "education",
+        "case_studies": [
+          "School_District_A.pdf"
+        ]
+      }
+    ],
+    "retail_other": [
+      {
+        "name": "Convenience Store Chain",
+        "industry": "retail",
+        "case_studies": [
+          "Convenience Chain A Post Report.pdf"
+        ]
+      },
+      {
+        "name": "Retail Chain A",
+        "industry": "retail",
+        "case_studies": [
+          "Retail Chain D.pdf"
+        ]
+      },
+      {
+        "name": "Retail Chain B",
+        "industry": "retail",
+        "case_studies": [
+          "Retail Chain C_[Texas City].pdf"
+        ]
+      },
+      {
+        "name": "Grocery Chain A",
+        "industry": "grocery",
+        "case_studies": [
+          "Grocery Chain A.pdf"
+        ]
+      }
+    ],
+    "real_estate": [
+      {
+        "name": "Major REIT A",
+        "industry": "real_estate",
+        "case_studies": [
+          "REIT A.pdf"
+        ]
+      },
+      {
+        "name": "Major REIT B",
+        "industry": "real_estate",
+        "case_studies": [
+          "REIT B.pdf"
+        ]
+      },
+      {
+        "name": "Major Property Developer",
+        "industry": "real_estate",
+        "case_studies": [
+          "Real Estate A_River.pdf"
+        ]
+      }
+    ],
+    "international": [
+      {
+        "name": "Caribbean Telecom Provider",
+        "industry": "telecommunications",
+        "case_studies": [
+          "Caribbean Telecom Provider A2_report.pdf",
+          "Caribbean Telecom Provider A_Metrics.pdf",
+          "Caribbean Telecom Provider A_Imperial.pdf",
+          "Caribbean Telecom Provider A Confirmatory Report.pdf"
+        ]
+      },
+      {
+        "name": "International Bank (South Africa)",
+        "industry": "banking",
+        "case_studies": [
+          "International Bank A Report v 2016.pdf"
+        ]
+      },
+      {
+        "name": "Latin American Industrial",
+        "industry": "industrial",
+        "case_studies": [
+          "Intl_Industrial.pdf"
+        ]
+      }
+    ]
+  },
+  "industry_breakdown": {
+    "retail": {
+      "count": 136,
+      "equipment": [
+        "RTU",
+        "split system",
+        "refrigeration",
+        "walk-in cooler"
+      ]
+    },
+    "industrial": {
+      "count": 102,
+      "equipment": [
+        "chiller",
+        "refrigeration",
+        "condenser"
+      ]
+    },
+    "office": {
+      "count": 48,
+      "equipment": [
+        "chiller",
+        "AHU",
+        "VRF"
+      ]
+    },
+    "data_center": {
+      "count": 42,
+      "equipment": [
+        "CRAC",
+        "CRAH",
+        "chiller",
+        "DX"
+      ]
+    },
+    "education": {
+      "count": 14,
+      "equipment": [
+        "chiller",
+        "RTU",
+        "split system"
+      ]
+    },
+    "restaurant": {
+      "count": 11,
+      "equipment": [
+        "RTU",
+        "split system",
+        "refrigeration"
+      ]
+    },
+    "government": {
+      "count": 10,
+      "equipment": [
+        "chiller",
+        "CRAC",
+        "RTU"
+      ]
+    },
+    "healthcare": {
+      "count": 6,
+      "equipment": [
+        "chiller",
+        "AHU"
+      ]
+    },
+    "hospitality": {
+      "count": 3,
+      "equipment": [
+        "chiller",
+        "VRF"
+      ]
+    }
+  },
+  "equipment_coverage": {
+    "refrigeration": {
+      "document_count": 118,
+      "typical_improvement": "20-35%"
+    },
+    "DX_systems": {
+      "document_count": 89,
+      "typical_improvement": "15-30%"
+    },
+    "condenser": {
+      "document_count": 89,
+      "typical_improvement": "20-40%"
+    },
+    "chiller": {
+      "document_count": 80,
+      "typical_improvement": "15-25%"
+    },
+    "RTU": {
+      "document_count": 51,
+      "typical_improvement": "18-28%"
+    },
+    "heat_pump": {
+      "document_count": 42,
+      "typical_improvement": "15-25%"
+    },
+    "CRAC": {
+      "document_count": 27,
+      "typical_improvement": "20-35%"
+    },
+    "VRF": {
+      "document_count": 26,
+      "typical_improvement": "12-22%"
+    },
+    "split_system": {
+      "document_count": 23,
+      "typical_improvement": "18-30%"
+    }
+  },
+  "certifications_found": {
+    "IPMVP_compliant": 114,
+    "UL_verified": 18,
+    "PE_certified": "All studies PE-certified per validation methodology"
+  },
+  "notable_findings": {
+    "largest_installation": "Food Mfg A Spices - multi-chiller industrial facility",
+    "longest_tracked": "Major Global Bank A - 6+ years sustained performance",
+    "highest_efficiency_gain": "88.61% improvement (extreme degradation case)",
+    "most_studied_company": "Major Global Bank A/Major Global Bank A - 7 separate case studies",
+    "government_validation": "Military Base A, Defense Agency A, State Military A, County Government A"
+  },
+  "geographic_coverage": {
+    "united_states": "Primary - all 50 states represented in portfolio",
+    "caribbean": "Caribbean Telecom Provider A installations across multiple islands",
+    "latin_america": "Brazil (Brazilian Bank A), Mexico, Central America",
+    "africa": "South Africa (International Bank A, African Telecom Provider A)",
+    "asia": "China (China National Lab A lab testing)"
+  },
+  "training_value": {
+    "industry_diversity": "Proves technology works across all HVAC applications",
+    "brand_recognition": "Fortune 500 companies add credibility",
+    "government_trust": "Military installations validate safety and effectiveness",
+    "longevity_proof": "Multi-year studies prove durability claims"
+  },
+  "obfuscation_note": "Company names obfuscated for privacy. Government facilities retained. Technical data preserved.",
+  "studies": [
+    {
+      "case_id": "case-study-135",
+      "client": "Entertainment Venue A",
+      "industry": "Entertainment",
+      "location": {
+        "city": "Morelia",
+        "state": "Michoacan",
+        "country": "Mexico"
+      },
+      "equipment": {
+        "type": "Package DX",
+        "make": "Carrier",
+        "tonnage": 12.5
+      },
+      "results": {
+        "cop_improvement_pct": 49.1,
+        "kw_per_ton_baseline": 2.01,
+        "kw_per_ton_post": 1.35
+      },
+      "study_date": "2017-08",
+      "certification": "Engineering Analysis"
+    },
+    {
+      "case_id": "case-study-136",
+      "client": "Major Telecom F",
+      "industry": "Telecommunications",
+      "location": {
+        "city": "Ellicott City",
+        "state": "MD",
+        "country": "USA"
+      },
+      "equipment": {
+        "type": "Split DX",
+        "make": "Liebert",
+        "tonnage": 5
+      },
+      "results": {
+        "cop_improvement_pct": 150.6,
+        "kw_per_ton_baseline": 2.31,
+        "kw_per_ton_post": 0.87
+      },
+      "study_date": "2017-10",
+      "certification": "Engineering Analysis"
+    },
+    {
+      "case_id": "case-study-137",
+      "client": "Cultural Institution A",
+      "industry": "Cultural/Non-Profit",
+      "location": {
+        "city": "Bronx",
+        "state": "NY",
+        "country": "USA"
+      },
+      "equipment": {
+        "type": "Package DX",
+        "make": "Carrier",
+        "tonnage": 15
+      },
+      "results": {
+        "cop_improvement_pct": 161.1,
+        "kw_per_ton_baseline": 1.85,
+        "kw_per_ton_post": 0.71
+      },
+      "study_date": "2016-09",
+      "certification": "Engineering Analysis"
+    },
+    {
+      "case_id": "case-study-138",
+      "client": "Big Box Retailer A",
+      "industry": "Retail",
+      "location": {
+        "city": "Miami Gardens",
+        "state": "FL",
+        "country": "USA"
+      },
+      "equipment": {
+        "type": "Package DX",
+        "make": "Lennox",
+        "tonnage": 20
+      },
+      "results": {
+        "cop_improvement_pct": 21.9,
+        "kw_per_ton_baseline": 0.99,
+        "kw_per_ton_post": 0.81,
+        "has_control_unit": true
+      },
+      "study_date": "2017-03",
+      "certification": "Engineering Analysis"
+    }
+  ]
+}

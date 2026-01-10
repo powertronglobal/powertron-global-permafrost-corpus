@@ -1,0 +1,46 @@
+Energy Science Division
+Results
+The following are the final calculated performance measurements after performing the regression analysis to 
+account to the restored capacity brought about by PermaFrost NMR®.
+Baseline kWh       (55,315 Watts / 1,000) * 4,380 Annual Operating Hours = 242,280 kWh
+Baseline Cost To Run       242,280 kWh * $.08 = $19,382 USD
+Regression Analysis 
+Adjusted Base Tonnage       46.7 tons (equates to tonnage in ERP)
+Adjusted Total Watts       1,741 Watts per Ton * 46.7 tons = 81,305 Total Watts
+Adjusted Base kWh       (81,305 Watts /1,000) * 4,380 Annual Operating hrs = 356,116 kWh
+Revised Cost to Run Prior to ECM       356,116 kWh * $.08 = $28,489 USD
+Post ECM kWh       (55,486 Watts / 1,000) * 4,380 Annual Operating hrs = 243,029 kWh
+Cost to Run After ECM       243,029 kWh * $.08 = $19,442 USD
+Cost Savings per Month       ($28,489 - $19,442) / 12 = $754
+Cost of PermaFrost NMR® @ $4,750 / $754 = 6.3 months
+ 
+ROI = 6.3 months
+Eﬃciency Improvements
+Total Watts
+Watts per Ton
+Btuh Capacity
+System Eﬃciency %
+Enthalpy Delta
+COP
+-31.8%
+ -31.8%
++47.1%
++47.1%
++33.5%
++46.6%
+Energy Reporting Period
+55,486
+1,187
+560,749
+148%
+7.85
+2.96
+Baseline
+81,305
+1,741
+381,315
+100%
+5.88
+2.02
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

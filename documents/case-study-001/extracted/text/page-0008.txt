@@ -1,0 +1,60 @@
+7
+Energy Reporting Period
+The identical IPMVP data recordings from the baseline were retaken and recorded on 1/8/13 using the 
+same recently NIST calibrated devices to insure measurement accuracy.  The measurements are as follows:
+Results
+The following are the final calculated performance measurements (detailed below the chart) after 
+performing the regression analysis to account for the restored capacity brought about by PermaFrost 
+NMR®.
+Energy Science Division
+Voltage
+Adjusted Amperage
+Suction Refrigerant  Temp
+Discharge Refrigerant Temp
+Entering Air Temp DB
+Leaving Air Temp DB
+Actual CFM
+Calculated Coil Capacity Btuh / tons
+Dry Bulb Delta
+Normalized Total Watts
+Normalized Watts per Ton
+205.7 V
+5.95 A
+24.6 F
+101 F
+48.1 F
+37.2 F
+550
+6,475 / .54
+10.9
+1,101.5
+2,042
+Eﬃciency Improvements
+Adjusted Total Watts
+Btuh Capacity
+System Eﬃciency %
+DB Delta-T
+Adjusted Watts per Ton
+EER
+10.5%
+12.4%
+12.4%
+12.4%
+10.5%
+11.7%
+Energy Reporting Period
+1,101.5
+6,475
+99.61%
+10.9
+2,042
+ 5.88
+Baseline
+1,230.3
+5,762
+ 88.64%
+9.7
+2,280
+ 5.26
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

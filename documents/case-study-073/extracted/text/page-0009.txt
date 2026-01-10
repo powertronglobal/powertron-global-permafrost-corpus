@@ -1,0 +1,133 @@
+®
+1.47
+POST
+BASELINE
+1.11
+kW/ton
+REDUCTION
+24.5%
+REDUCTION
+POST
+BASELINE
+24.8%
+7.4%
+POST
+BASELINE
+Chilled Water Delta
+IMPROVEMENT
+8.1
+533,775
+401,140
+124
+8.7
+Key Results for Chiller with PermaFrost NMR® ECM
+Carrier
+AquaSnap
+2411Q76010
+R410A
+122
+3,235
+2011
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+478.7
+175.7
+40.7
+120.5
+91.8
+282
+43.8
+52.5
+74
+N/A
+8.7
+3.1
+124
+1.11
+112
+308
+401,140
+3.17
+74
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Saturated Suction Temperature 
+ 
+Suction Pressure 
+ 
+Discharge Refrigerant Temperature  
+Discharge Refrigerant Pressure 
+ 
+Chilled Water Leaving Temp (Supply) 
+ 
+Chilled Water Entering Temp (Return) 
+ 
+Condenser Air Temp Entering Chiller 
+ 
+Condenser Air Temp leaving Chiller  
+Chilled Water Delta T 
+Refrigeration Approach 
+ 
+kW (V x A x 1.47) 
+ 
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Chiller GPM  
+Annual kWh (after regression analysis) 
+ 
+Coeﬃcient of Perfromance (COP)  
+OAT 
+ 
+475.6
+218.6
+34.9
+107.3
+106.9
+350
+44.4
+52.5
+74
+N/A
+8.1
+9.5
+153
+1.47
+104
+308
+533,775
+2.39
+74
+8
+Notes
+The pilot chiller provides cooling to the Major Hotel Chain 
+Courtyard Downtown in New Orleans. Given 
+the facility load and the two chillers comprising 
+the plant, the pilot chiller runs approximately 
+3,235 hours or more annually prior to the ECM 
+being implemented. 
+REDUCTION
+POST
+BASELINE
+165
+Calculated kW
+24.8%
+Calculated Annual kWh 
+Chiller #1 had 5 of 6 compressors operating during testing period
+while Chiller #2 was turned oﬀ.   
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

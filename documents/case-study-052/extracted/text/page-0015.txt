@@ -1,0 +1,47 @@
+Make
+Model
+Refrigerant Type
+Nominal Cooling Capacity Btuh / tons
+CFM
+Carrier
+50TM006A501
+R22
+60,000 Btuh / 5 tons
+1,800
+System Description / Design Characteristics
+One of two 5-ton units supporting the facility, this unit provides cooling for the half of the store that 
+includes the service counter and is conservatively estimated to run 4,380 hours per year. 
+Baseline Measurement Period Selection
+The following data was recorded on 8/10/2012 using recently NIST calibrated devices to insure 
+measurement accuracy.  The results were recorded as a result of the implementation of the IPMVP Protocol.
+Energy Science Division
+Voltage
+Amperage
+Suction Refrigerant  Temp
+Discharge Refrigerant Temp
+Entering Air Temp DB
+Leaving Air Temp DB
+Entering Air Temp WB
+Leaving Air Temp WB
+Actual CFM
+Calculated Coil Capacity Btuh / tons
+Enthalpy Delta
+Calculated Total Watts
+Calculated Watts per Ton
+OAT  
+243V
+18.5A
+43.5 F
+123.3 F
+77 F
+59.5 F
+69.1 F
+55.9 F
+1,800
+54,918 Btuh / 4.58 tons
+6.78
+6,608.4
+1,443 CWPT
+89 F  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

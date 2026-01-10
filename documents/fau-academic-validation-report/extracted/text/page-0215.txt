@@ -1,0 +1,68 @@
+ 
+Appendix C Region Specific Materials         115 
+ 
+ČSN 9921  Testing of ammeters, voltmeters, wattmeters 
+ČSN 9931  Glass thermometers 
+ČSN 9941  Weighing instruments 
+ČSN 9947  Mean absolute pressure measuring instruments 
+ČSN 9968  Gas flow-meters and gas volume-meters 
+ČSN 9971  Photometric measuring instruments 
+ČSN 9980  General provisions, nomenclature, symbols and units of measurement of 
+physical-chemical properties of materials 
+ 
+Related to energy: 
+ČSN 01 1300 
+Legal units of measurement 
+ČSN 06 0210 
+Calculation of heat losses in buildings with central space heating 
+ČSN 07 0021 
+Hot water boilers 
+ČSN 07 0240 
+Hot water and low-pressure steam boilers 
+ČSN 07 0305 
+Evaluation of boiler losses 
+ČSN 07 0610 
+Heat exchangers water-water, steam-water 
+ČSN 10 5004 
+Compressors 
+ČSN 11 0010 
+Pumps 
+ČSN 12 0000 
+HVAC systems 
+ČSN 33 2000 
+Electrical regulations 
+ČSN 38 0526 
+Heat supply - principles 
+ČSN 38 5502 
+Gas fuels 
+ČSN 65 7991 
+Oil products, fuel oils 
+ČSN 73 0540 
+Thermal protection of buildings - parts 1, 2, 3, 4 
+ČSN 73 0550 
+Thermal properties of building structures and buildings – calculation 
+methods 
+ČSN 73 0560 
+Thermal properties of building structures and buildings – industrial 
+buildings 
+ČSN EN 835 
+Heat cost allocators for the determination of the consumption of room 
+heating radiators - appliances without an electrical energy supply, 
+based on the liquid evaporation principle 
+ČSN EN 834 
+Heat cost allocators for the determination of the consumption of room 
+heating radiators. Appliances with electrical energy supply 
+Addition to Chapter 8.7, “Data for Emission Trading” 
+Verification of CO2 under the EU Emission Trading Scheme must follow the relevant binding 
+procedures set by the EU and national authorities (Act No 695/2004 Coll., as updated).  
+ 
+ 
+C-7  Croatia - September 2010 
+Addition to Chapter 4.7 “Calibration” 
+Replace the first sentence with: “Meters should be calibrated as recommended by the 
+equipment manufacturer, in a laboratory approved by the Croatian agency for metering 
+(Hrvatski zavod za mjeriteljstvo) and with a valid certificate.” 
+Addition to Chapter 9 “Definitions” 
+Baseline energy - at the end of definition add “Baseline energy consumption according to 
+Croatian Law on efficient energy end-use” “Osnovna potrošnja energije prema Zakonu o 
+učinkovitom korištenju energije u neposrednoj potrošnji” 

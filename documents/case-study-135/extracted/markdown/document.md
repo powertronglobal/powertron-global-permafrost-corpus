@@ -1,0 +1,1918 @@
+# Entertainment Venue A M&V Report
+
+═══ PAGE 001 ═══
+Measurement	
+  &	
+  Verification	
+  (M&V)	
+  Report	
+  
+PermaFrost	
+  NMR®	
+  Testing	
+  and	
+  
+Results	
+  - International Movie Theater 
+Company - Morelia,	
+  Mexico	
+  
+August	
+  16,	
+  2017	
+  
+Project	
+  
+To	
+  determine	
+  the	
+  PermaFrost	
+  NMR®	
+  impact	
+  and	
+  effect	
+  on	
+  customer's	
+  
+Heating,	
+  Ventilation,	
+  Air	
+  Conditioning	
+  and	
+  Refrigeration	
+  (HVAC/R)	
+  
+equipment.	
+  Two	
+  pilot	
+  Roof	
+  Top	
+  Units	
+  (RTU)	
+  with	
+  the	
+  same	
+  make,	
+  
+model,	
+  and	
+  age	
+  were	
+  selected	
+  to	
+  be	
+  treated,	
+  monitored	
+  and	
+  
+measured.	
+  
+Representatives	
+  	
+  
+Martin	
+  Garcia	
+  Urtiaga	
+  LEED	
+  AP	
+  BD+C,	
+  	
+  Sustainability	
+  Project	
+  
+Process	
+  
+Manager,	
+  Customer
+Edward	
+  Catanzaro,	
+  Forensic	
+  Mechanical	
+  Engineer,	
+  Powertron	
+  
+Global®
+Testing	
+  2	
+  x	
+  9-­‐year-­‐old	
+  Carrier	
+  12.5-­‐Ton	
+  package	
+  store	
+  units	
+  
+
+═══ PAGE 002 ═══
+	
+  	
+  EXECUTIVE	
+  SUMMARY	
+  
+Average	
+  efficiency	
+  improvements	
+  per	
+  system	
+  
+Salas	
+  #1	
+  (VIP	
+  2)	
+  
+kW/Ton	
+  
+Capacity-­‐
+Tons	
+  
+COP	
+  
+EER	
+  
+Baseline	
+  11-­‐24	
+  May	
+  2017	
+  
+1.58	
+  
+8.67	
+  
+2.22	
+  
+7.58	
+  
+Post	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  1-­‐14	
+  Aug	
+  2017	
+  
+1.35	
+  
+9.71	
+  
+2.61	
+  
+8.91	
+  
+*Improvement	
+  %
+14.6%	
+  
+12%	
+  
+17.6%	
+  
+17.5%	
+  
+*Limited	
+  runtime	
+  on	
+  circuit	
+  2	
+  has	
+  limited	
+  the	
+  required	
+  gestation	
+  of	
+  PermaFrost	
+  NMR	
+  into	
+  that	
+  circuit.	
+  Full	
+  system
+improvements	
+  will	
+  be	
+  realized	
+  after	
+  300+	
+  runtimes	
+  hours	
+  are	
+  achieved	
+  on	
+  circuit	
+  2	
+  
+Salas	
+  #2	
+  (VIP	
+  1)	
+  
+kW/Ton	
+  
+Capacity-­‐
+Tons	
+  
+COP	
+  
+EER	
+  
+Baseline	
+  11-­‐24	
+  May	
+  2017	
+  
+2.01	
+  
+7.85	
+  
+1.75	
+  
+5.96	
+  
+Post	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  1-­‐14	
+  Aug	
+  2017	
+  
+1.35	
+  
+9.54	
+  
+2.61	
+  
+8.89	
+  
+*Improvement	
+  %
+32.8%	
+  
+21.5%	
+  
+49.1	
+  %	
+  
+49.2%	
+  
+*Limited	
+  runtime	
+  on	
+  circuit	
+  2	
+  has	
+  limited	
+  the	
+  required	
+  gestation	
+  of	
+  PermaFrost	
+  NMR	
+  into	
+  that	
+  circuit.	
+  Full	
+  system
+improvements	
+  will	
+  be	
+  realized	
+  after	
+  300+	
+  runtimes	
+  hours	
+  are	
+  achieved	
+  on	
+  circuit	
+  2	
+  
+1.
+Introduction
+Customer	
+  tested	
+  from	
+  26	
+  April	
+  2017	
+  to	
+  14	
+  August	
+  2017	
+  located	
+  in	
+  Morelia,	
+  Mexico 
+to	
+  verify	
+  Powertron	
+  Global’s	
+  PermaFrost	
+  NMR®	
+  energy	
+  efficiency	
+  improvement 
+effect	
+  on	
+  2	
+  x	
+  12.5a Ton	
+  package	
+  DX	
+  units	
+  refrigeration	
+  circuits.
+•
+Salas	
+  #1	
+  (VIP	
+  2)	
+  –	
+  Carrier	
+  50HJa 014a 651,	
+  Serial	
+  #	
+  0308G20793
+•
+Salas	
+  #2	
+  (VIP	
+  1)	
+  - Carrier 50HJ-014-651,	
+  Serial	
+  #	
+  0308G20792
+•
+Both	
+  units	
+  were	
+  Manufactured	
+  in	
+  2008
+•
+Both	
+  units	
+  are	
+  equipped	
+  with	
+  Ra 22	
+  Refrigerant
+The	
+  testing	
+  included	
+  monitoring	
+  both	
+  RTUs	
+  operation	
+  before	
+  and	
+  after	
+  (PRE	
+  and	
+  
+POST)	
+  PermaFrost	
+  NMR®	
+  treatment	
+  to	
+  verify	
+  the	
+  amount	
+  of	
+  cooling	
+  capacity	
+  (tons)	
+  
+restoration	
+  and	
+  the	
+  resultant	
+  kW/ton	
+  energy	
+  savings	
+  improvement.	
+  	
+  
+
+═══ PAGE 003 ═══
+The	
+  Measurement	
+  and	
+  Verification	
+  (M&V)	
+  protocol	
+  defined	
+  the	
+  boundary	
+  by	
+  
+isolating	
+  the	
+  entry	
+  and	
+  departure	
+  points	
+  of	
+  the	
+  medium	
+  being	
+  cooled	
+  to	
+  determine	
+  
+cooling	
+  performance	
+  and	
+  comparing	
+  that	
+  with	
+  the	
+  power	
+  being	
+  used	
+  to	
+  quantify	
+  
+the	
+  power	
+  costs	
+  per	
+  unit	
+  of	
+  cooling,	
+  kW/Ton	
+  (kilowatt-­‐per-­‐ton),	
+  EER	
+  (Energy	
+  
+Efficiency	
+  Ratio)	
+  and	
+  COP	
+  (Co-­‐Efficient	
+  of	
+  Performance).	
+  
+2.
+General	
+  Findings
+Upon	
+  the	
+  initial	
+  site	
+  arrival	
+  Powertron	
+  Global’s	
+  engineer	
+  reviewed	
+  the	
+  two	
+  systems
+located	
+  at	
+  the	
+  Morelia	
+  site	
+  before	
+  the	
+  energy	
+  monitoring	
+  systems	
+  were	
+  installed.	
+  It
+was	
+  determined	
+  that	
+  the	
+  CFM	
+  on	
+  both	
+  systems	
+  were	
+  lower	
+  and	
+  outside	
+  the	
+  range
+for	
+  testing.	
+  Powertron	
+  Global’s	
+  engineer	
+  recommended	
+  and	
+  had	
+  adjusted	
+  the	
+  fan
+sheaves	
+  to	
+  obtain	
+  additional	
+  CFM	
+  so	
+  that	
+  the	
+  air	
+  velocity	
+  was	
+  acceptable	
+  for	
+  testing.
+3.
+Method	
+  of	
+  Procedure	
+  for	
+  testing:
+The	
+  cooling	
+  production	
+  of	
+  HVAC/R	
+  systems	
+  are	
+  realized	
+  by	
+  measuring	
+  the	
+  total	
+  
+(kW)	
+  energy	
+  consumed	
+  and	
+  the	
+  total	
+  BTU	
+  (British	
+  Thermal	
+  Unit)	
+  production	
+  
+(Tons)	
+  to	
+  obtain	
+  kW	
+  per	
+  ton,	
+  EER	
+  (energy	
+  efficient	
+  ratio)	
+  and	
+  COP	
+  (coefficient	
+  of	
+  
+performance)	
+  to	
+  calculate	
+  the	
+  total	
+  BTUH	
+  (BTU/Hour)	
+  cooling	
+  production.	
+  Power	
+  
+(kW)	
+  is	
+  derived	
+  by	
+  measuring	
+  voltages,	
+  amperages	
+  and	
+  power	
+  factor.	
+  Cooling	
+  
+capacity	
+  is	
+  derived	
+  by	
+  measuring	
+  temperatures,	
+  pressures	
+  and	
+  air	
+  velocity/flows.	
+  
+Customer’s	
+  RTUs	
+  were	
+  fitted	
+  with	
+  an	
+  Internet	
+  of	
+  Things	
+  (IoT)	
+  based	
+  M&V	
+  platform	
+  
+to	
+  measure	
+  and	
+  compare	
+  thirty-five	
+  (35)	
+  key	
+  required	
+  data	
+  points	
+  (see	
+  appendix)	
+  
+sampled	
+  every	
+  thirty	
+  (30)	
+  milliseconds	
+  for	
+  a	
+  pre	
+  or	
+  baseline	
+  period	
+  of	
+  performance	
+  
+from	
+  May 11-24, 2017	
+  and	
+  a	
+  post	
+  period	
+  from	
+  August 1-14, 2017.	
+  All	
+  measurement	
+  
+hardware	
+  sensors	
+  used	
+  were	
+  certified	
+  under	
+  NIST	
+  or	
+  CE	
+  standards.	
+  	
+  
+The	
+  resultant	
+  data	
+  was	
+  extracted	
+  every	
+  five	
+  (5)	
+  seconds	
+  from	
+  the	
+  specific	
+  
+parameters	
+  measured	
+  throughout	
+  the	
+  entire	
+  day.	
+  	
+  It	
+  was	
+  then	
+  applied	
+  to	
+  industry	
+  
+best	
+  practice	
+  engineering	
+  formula	
+  developed	
+  by	
+  AHRI	
+  /	
+  ASHRAE	
+  (American	
+  
+Heating	
+  and	
+  Refrigeration	
+  Institute	
+  /	
+  American	
+  Society	
+  of	
+  Heating	
+  Refrigeration	
+  &	
+  
+Air	
+  Conditioning	
+  Engineers)	
+  for	
+  comparison:	
+  
+Kilo-­‐watt	
+  (kW)	
+  =	
+  Volts	
+  (V)	
+  x	
+  Amps	
+  (A)	
+  x	
+  Power	
+  Factor	
+  (PF)	
+  x	
+  √3	
+  /	
+  1000	
+  
+British	
+  Thermal	
+  Units	
+  (BTU)	
+  =	
+  CFM	
+  x	
+  4.5	
+  x	
+  Enthalpy	
+  Delta	
+  	
+  
+Capacity	
+  /	
+  Tons	
+  =	
+  BTU	
+  /	
+  12,000	
+  
+
+═══ PAGE 004 ═══
+Kilo-­‐watt	
+  per	
+  Ton	
+  (kW/Ton)	
+  =	
+  kW	
+  Energy	
+  /	
+  Tons	
+  (capacity)	
+  
+Co-­‐Efficient	
+  of	
+  Performance	
+  (COP)	
+  =	
+  12/kW	
+  per	
+  ton/	
+  3.412	
+  
+Energy	
+  Efficiency	
+  Ratio	
+  (EER)	
+  =	
+  BTU	
+  /	
+  Watts	
+  
+During	
+  all	
+  twenty-­‐four	
+  hours	
+  in	
+  a	
+  day,	
+  outdoor	
+  air	
+  temperature	
+  entering	
+  the	
+  air-­‐
+cooled	
+  condenser	
+  coils	
+  of	
+  both	
+  RTUs	
+  varies	
+  significantly.	
+  Accordingly,	
+  pre	
+  or	
+  
+baseline	
+  and	
+  post	
+  analysis	
+  and	
+  comparison	
+  of	
+  improved	
+  capacity	
+  is	
+  across	
+  a	
+  twenty	
+  
+(20) degree	
+  temperature	
+  span	
+  (65ºF-­‐85ºF)	
+  for	
+  kW	
+  per	
+  Ton,	
+  COP	
+  and	
+  EER.
+Please	
+  see	
+  the	
+  diagram	
+  below	
+  outlining	
+  the	
+  sensor	
+  placement	
+  and	
+  a	
+  general	
+  layout	
+  
+of	
+  the	
+  measurement	
+  &	
+  verification	
+  kits	
+  used	
+  on	
+  each	
+  RTU	
+  to	
+  determine	
+  capacity:	
+  
+To	
+  Determine	
+  Capacity:	
+  
+The	
+  evaporator	
+  entering	
+  air	
+  volume	
+  and	
+  the	
+  return	
+  enthalpy	
+  are	
+  measured	
+  by	
+  the	
+  
+CFM	
+  and	
+  inlet	
+  enthalpy	
+  sensors.	
+  The	
+  evaporator	
+  leaving	
+  air	
+  enthalpy	
+  is	
+  measured	
+  
+by	
+  the	
+  outlet	
+  air	
+  enthalpy	
+  sensor.	
+  The	
+  inlet	
+  and	
+  outlet	
+  enthalpies	
+  are	
+  subtracted	
+  
+from	
+  each	
+  other	
+  resulting	
+  in	
+  a	
+  sum	
+  called	
+  the	
+  Enthalpy	
+  delta.	
+  This	
+  enthalpy	
+  delta	
+  (∆)	
+  
+is	
+  used	
+  in	
+  the	
+  shown	
+  formula	
+  below.	
+  Other	
+  components	
+  of	
+  this	
+  formula	
+  complete	
+  
+the	
+  equation.	
+  These	
+  include	
+  the	
+  volume	
+  of	
+  air	
+  passing	
+  through	
+  the	
+  evaporator	
+  (CFM	
+  
+or	
+  Cubic	
+  feet	
+  of	
+  air	
+  per	
+  minute)	
+  and	
+  an	
+  engineering	
+  standard	
+  ratio	
+  of	
+  4.5	
+  (Ratio	
+  of	
+  
+Standard	
+  Air)	
+  or	
+  constant.	
+  	
+  The	
+  result	
+  of	
+  this	
+  calculation	
+  yields	
+  the	
+  industry	
+  
+standard	
+  the	
+  British	
+  Thermal	
+  Unit	
+  (BTU),	
+  which	
+  is	
+  used	
+  to	
+  calculate	
+  the	
+  unit’s	
+  
+capacity	
+  in	
+  BTU.	
+  This	
+  BTU	
+  number	
+  is	
+  then	
+  divided	
+  by	
+  the	
+  constant	
+  12,000	
+  which	
+  is	
+  
+C
+E
+E
+E
+E
+T
+outdoor air
+temperature
+sensor
+compressor on/off
+detection section
+CFM sensor
+evaporator outlet
+enthalpy sensor
+evaporator inlet
+enthalpy sensor
+evaporator inlet
+enthalpy sensor
+T
+outdoor air
+temperature
+sensor
+
+═══ PAGE 005 ═══
+to	
+  convert	
+  to	
+  refrigeration	
+  tons	
+  because	
+  every	
+  12,000	
+  BTUs	
+  equals	
+  1	
+  Ton	
+  of	
+  HVAC	
+  
+capacity.	
+  The	
+  capacity	
+  formula	
+  is:	
+  
+CFM	
+  x	
+  4.5	
+  x	
+  Enthalpy	
+  ∆	
+  =	
+  BTUs	
+  /	
+  12,000	
+  =	
+  Tons	
+  (capacity)	
+  
+CFM	
+  –	
+  Cubic	
+  Feet	
+  per	
+  Minute	
+  of	
+  Air	
+  Flow	
+  or	
+  Air	
+  Volume	
+  
+4.5	
+  –	
+  Ratio	
+  of	
+  Standard	
+  Air	
+  (constant)	
+  
+Enthalpy	
+  ∆	
+  -­‐	
+  Enthalpy	
+  Delta	
+  of	
+  the	
+  Inlet	
+  –	
+  Outlet	
+  Enthalpy	
+  
+BTU	
+  –	
+  British	
+  Thermal	
+  Units	
+  	
+  
+12,000	
+  –	
+  every	
+  12,000	
+  BTUs	
+  equals	
+  1	
+  Ton	
+  (constant)	
+  
+Example	
+  
+4000	
+  (CFM)	
+  X	
+  4.5	
+  (Standard	
+  Air	
+  Ratio)	
+  X	
+  8	
+  (Enthalpy	
+  Delta)	
+  =	
+  144,000	
+  BTU,	
+  then	
+  
+divide	
+  by	
+  12,000	
+  =	
+  12	
+  tons	
+  
+To	
+  Determine	
+  Electrical	
+  Energy	
+  Consumption:	
+  
+Total	
+  electrical	
+  consumption	
+  is	
+  measured	
+  at	
+  the	
+  main	
+  source	
+  of	
+  electric	
+  service	
+  of	
+  
+each	
+  rooftop	
+  unit.	
+  This	
+  includes,	
+  voltage,	
+  amperage	
+  and	
+  power	
+  factor	
+  and	
+  a	
+  constant	
+  
+of	
+  the	
+  square	
+  root	
+  of	
+  3	
+  (√3).	
+  This	
+  is	
+  then	
+  divided	
+  by	
+  1000	
+  to	
+  obtain	
+  kilowatts.	
+  The	
+  
+electrical	
+  formula	
+  for	
+  kilowatt	
+  (kW)	
+  is:	
+  
+kW	
+  =	
+  V	
+  x	
+  A	
+  x	
+  PF	
+  x	
+  √3	
+  /	
+  1000	
+  
+V	
+  –	
+  Voltage	
+  
+A	
+  –	
+  Amperage	
+  
+PF	
+  –	
+  Power	
+  Factor	
+  
+√3	
+  –	
+  Square	
+  Root	
+  of	
+  3	
+  for	
+  3-­‐phase	
+  Input	
+  Power
+1000	
+  –	
+  constant
+Example	
+  
+480	
+  (volts)	
+  X	
+  45	
+  (amps)	
+  X	
+  √3	
+  (phase	
+  angle	
+  for	
+  three	
+  phase	
+  power	
+  only)	
+  X	
+  0.90	
+  
+(power	
+  factor)	
+  /	
+  1000	
+  =	
+  33.67	
+  kilowatts	
+  	
+  
+To	
+  Determine	
+  Efficiency:	
+  
+Divide	
+  the	
+  measured	
+  kilowatts	
+  (kW)	
+  by	
+  the	
+  measured	
+  tons	
+  to	
+  obtain	
+  kW	
+  per	
+  ton.	
+  
+kW	
+  per	
+  ton	
+  is	
+  the	
+  industry	
+  standard	
+  to	
+  determine	
+  system	
+  efficiency.	
+  	
+  
+Example	
+  
+
+═══ PAGE 006 ═══
+33.67	
+  kW	
+  /	
+  12	
+  tons	
+  =	
+  2.80	
+  kilowatts	
+  per	
+  ton	
+  	
+  
+4.
+Technical
+When	
+  PermaFrost	
+  NMR®	
+  is	
+  installed	
+  into	
+  a	
+  unit,	
+  a	
+  molecular	
+  transformation
+develops.	
+  This	
+  transformation	
+  displaces	
+  layers	
+  of	
+  lubricating	
+  fluids	
+  that	
+  have	
+  been
+impinged	
+  in	
+  the	
+  evaporator	
+  and	
+  condenser	
+  heat	
+  exchanger	
+  surfaces.	
+  When	
+  the	
+  fluid
+is	
+  displaced,	
+  the	
+  evaporator	
+  and	
+  condenser	
+  can	
+  transfer	
+  additional	
+  heat	
+  energy
+through	
+  the	
+  tube	
+  walls	
+  (thermal	
+  restoration).	
+  This	
+  enables	
+  the	
+  evaporator	
+  to
+completely	
+  dehumidify	
+  the	
+  air	
+  per	
+  the	
+  unit’s	
+  design	
+  specifications.	
+  	
+  When	
+  more
+dehumidification	
+  is	
+  developed,	
+  the	
+  enthalpy	
+  (a	
+  measure	
+  of	
+  how	
+  many	
+  grains	
+  of
+moisture	
+  are	
+  contained	
+  in	
+  a	
+  pound	
+  of	
+  air)	
+  increases.
+If	
+  the	
+  CFM	
+  and	
+  4.5	
+  remain	
+  constant,	
+  then	
+  it	
+  is	
+  the	
+  effect	
+  of	
+  PermaFrost	
+  NMR®’s
+Enthalpy	
+  Delta	
+  increase	
+  that	
+  restores	
+  (increases)	
+  the	
+  lost	
+  capacity	
+  (Tons).
+If	
+  the	
+  tonnage	
+  increases,	
+  then	
+  the	
+  kW/ton	
+  decreases	
+  by	
+  means	
+  of	
+  mathematical
+function,	
+  demonstrating	
+  PermaFrost	
+  NMR®’s	
+  post-­‐treatment	
+  effect	
+  lowering	
+  the
+electrical	
+  cost	
+  of	
+  every	
+  ton	
+  of	
+  cooling	
+  produced,	
+  no	
+  matter	
+  how	
+  many	
+  tons	
+  are	
+  called
+for	
+  at	
+  any	
+  given	
+  time.
+PermaFrost	
+  NMR®	
+  cannot	
+  change	
+  any	
+  unit’s	
+  electrical	
+  characteristics	
+  i.e.	
+  everything
+that	
+  requires	
+  electricity	
+  is	
+  rated	
+  for	
+  the	
+  required	
+  power	
+  under	
+  different	
+  loads	
+  e.g.
+compressors	
+  and	
+  fans.
+5.
+Conclusion
+The	
+  testing	
+  results	
+  validate	
+  the	
+  performance	
+  of	
+  the	
+  2	
+  x	
+  RTUs	
+  is	
+  consistent	
+  with	
+  a	
+  
+previously	
+  tested	
+  UL	
+  (formerly	
+  Underwriters	
+  Laboratories)	
+  unit	
+  for	
+  customer	
+  as	
+  
+well	
+  as	
+  +300	
+  case	
+  studies	
+  for	
+  review.	
+  	
+  The	
+  results	
+  of	
+  the	
+  testing	
+  demonstrate	
+  the	
+  
+efficacy	
+  of	
+  PermaFrost	
+  NMR®	
+  by	
+  restoring	
+  the	
+  evaporator	
+  and	
+  condenser	
+  heat	
+  
+transfer	
+  capabilities	
+  per	
+  manufacturer’s	
+  design,	
+  thereby	
+  increasing	
+  cooling	
+  
+capacity	
+  while	
+  lowering	
+  the	
+  electrical	
+  cost	
+  per	
+  ton	
+  of	
+  cooling.	
+  We	
+  expect	
+  the	
+  
+capacity	
+  to	
+  improve	
+  further	
+  once	
+  circuit	
+  2	
+  on	
+  each	
+  pilot	
+  system	
+  has	
+  achieved	
+  the	
+  
+required	
+  300+	
+  runtime	
+  hours.	
+  
+
+═══ PAGE 007 ═══
+6.
+Appendix
+I.
+Salas	
+  #1(VIP	
+  2)	
+  Performance	
+  Analysis	
+  Summary
+II.
+Salas	
+  #2(VIP	
+  1)	
+  Performance	
+  Analysis	
+  Summary
+III.
+35	
+  Points	
+  Measured
+•
+(all	
+  csv	
+  files	
+  will	
+  be	
+  supplied)
+
+═══ PAGE 008 ═══
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2017 Powertron Global, LLC. 
+Appendix	
+  I	
+  
+
+═══ PAGE 009 ═══
+VIP 1 SALAS 2 BASELINE BOTH COMP
+Starting Date: 05-11-17
+Ending Date: 05-24-17
+Category
+Value
+Performance %
+54.96/100%
+Tons
+7.85 (Design = 12.5)
+kW/Ton
+2.01 (Design = 1.12)
+COP
+1.75 (Design = 3.14)
+EER
+5.96 (Design = 10.71)
+Outside Air Temperature Range
+65.0 deg F --- 85.0 deg F
+Return Air Temperature Range
+65.0 deg F --- 80.0 deg F
+Power Factor Range
+0.5 --- 1.0
+Schedule
+All Hours
+Samples
+6469
+
+═══ PAGE 010 ═══
+VIP 1 SALAS 2 POST BOTH COMP
+Starting Date: 08-01-17
+Ending Date: 08-14-17
+Category
+Value
+Performance %
+70.87/100%
+Tons
+9.54 (Design = 12.5)
+kW/Ton
+1.35 (Design = 1.12)
+COP
+2.61 (Design = 3.14)
+EER
+8.89 (Design = 10.71)
+Outside Air Temperature Range
+65.0 deg F --- 85.0 deg F
+Return Air Temperature Range
+65.0 deg F --- 80.0 deg F
+Power Factor Range
+0.5 --- 1.0
+Schedule
+All Hours
+Samples
+5392
+
+═══ PAGE 011 ═══
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2017 Powertron Global, LLC. 
+Appendix	
+  II 
+
+═══ PAGE 012 ═══
+VIP 2 SALAS 1 BASELINE BOTH COMP
+Starting Date: 05-11-17
+Ending Date: 05-24-17
+Category
+Value
+Performance %
+64.75/100%
+Tons
+8.68 (Design = 12.5)
+kW/Ton
+1.58 (Design = 1.12)
+COP
+2.22 (Design = 3.14)
+EER
+7.59 (Design = 10.71)
+Outside Air Temperature Range
+65.0 deg F --- 85.0 deg F
+Return Air Temperature Range
+65.0 deg F --- 80.0 deg F
+Power Factor Range
+0.5 --- 1.0
+Schedule
+All Hours
+Samples
+19980
+
+═══ PAGE 013 ═══
+VIP 2 SALAS 1 POST BOTH COMP
+Starting Date: 08-01-17
+Ending Date: 08-14-17
+Category
+Value
+Performance %
+70.58/100%
+Tons
+9.71 (Design = 12.5)
+kW/Ton
+1.35 (Design = 1.12)
+COP
+2.61 (Design = 3.14)
+EER
+8.91 (Design = 10.71)
+Outside Air Temperature Range
+65.0 deg F --- 85.0 deg F
+Return Air Temperature Range
+65.0 deg F --- 80.0 deg F
+Power Factor Range
+0.5 --- 1.0
+Schedule
+All Hours
+Samples
+4271
+
+═══ PAGE 014 ═══
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2017 Powertron Global, LLC. 
+Appendix	
+  III	
+  
+Points	
+  Measured	
+  per	
+  Unit	
+  
+-
+Total	
+  Instantaneous	
+  Real	
+  Power
+-
+CFM
+-
+COP
+-
+Compressor	
+  #1	
+  on/off
+-
+Compressor	
+  #2	
+  on/off
+-
+Delta	
+  Enthalpy
+-
+Delta	
+  Temperature
+-
+EER
+-
+Inlet	
+  Enthalpy
+-
+Instantaneous	
+  Current,	
+  Phase	
+  A
+-
+Instantaneous	
+  Current,	
+  Phase	
+  B
+-
+Instantaneous	
+  Current,	
+  Phase	
+  C
+-
+L-­‐N	
+  Voltage
+-
+Outlet	
+  Enthalpy
+-
+Outside	
+  Air	
+  Temperature
+-
+Power	
+  Factor,	
+  Phase	
+  A
+-
+Power	
+  Factor,	
+  Phase	
+  B
+-
+Power	
+  Factor,	
+  Phase	
+  C
+-
+Real	
+  Power,	
+  Phase	
+  A
+-
+Real	
+  Power,	
+  Phase	
+  B
+-
+Real	
+  Power,	
+  Phase	
+  C
+-
+Return	
+  Air	
+  Dew	
+  point
+-
+Return	
+  Air	
+  Temperature
+-
+Return	
+  Duct	
+  Humidity
+-
+Supply	
+  Air	
+  Temperature
+-
+Supply	
+  Duct	
+  Humidity
+-
+Total	
+  Capacity	
+  (BTU’s)
+-
+Total	
+  Capacity	
+  (Tons)
+-
+Total	
+  Power	
+  Factor
+-
+Voltage	
+  A-­‐N
+-
+Voltage	
+  B-­‐N
+-
+Voltage	
+  C-­‐N
+-
+kW	
+  per	
+  Ton
+-
+kWE	
+  per	
+  kWR
+-
+kWR

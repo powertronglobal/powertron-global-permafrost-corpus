@@ -1,0 +1,34 @@
+7
+Energy Consumption & Financial Metrics
+The following are the final calculated average performance measurements before and after PermaFrost NMR® 
+was installed on the pilot chiller system. 
+Average Baseline Energy Consumption
+Baseline Capacity:  703 tons
+Adjusted kW Baseline:  .587 kW/ton * 854 tons = 501 kW
+Adjusted Baseline kWh:  501 kW * 3,000 Annual Operating Hours = 1,503,000 kWh
+Revised Cost to Run Baseline: 1,503,000 kWh * $.12 = $180,360
+Avgerage Post Energy Consumption
+kW Post:  .478 kW/ton * 854 tons = 408 kW
+Annual kWh Post:  408 kW * 3,000 hours = 1,224,000 kWh
+Annual Cost Post:  1,224,000 kWh * $.12 cents = $146,880
+Average Savings per Year Per System
+Avoided Energy Cost (savings) Per Year:  $180,360 - $146,880 = $33,480
+Estimated Energy Savings per Month: $33,480 / 12 = $2,790
+Return on Investment
+Cost of PermaFrost NMR® installed in the pilot chiller system: $29,500
+Estimated ROI for Global Telecom Equipment Manufacturer when treating the pilot chiller system: $29,500 / $2,790 = ~10.6 mos
+Annual Internal Rate of Return = 113%
+Return on Investment Over 5 Years = 567%
+Explanation of Regression Analysis
+To obtain a true avoided energy cost and subsequent payback period for Global Telecom Equipment Manufacturer for implementing the PermaFrost NMR® ECM, 
+a detailed Regression Analysis is used to calculate the true energy savings resulting from the improvement in both capacity and 
+efficiency utilizing data collected during the pilot study. Together these improvements reduce the annual kWh expended annually 
+in the future. The ROI comes from determining what the cost to run the chiller system was when operating at the original energy 
+profile to produce the newly restored amount of available capacity and then subtracting the revised cost to run the chiller system 
+at the same restored capacity after PermaFrost NMR® was installed. This regression analysis is the most widely accepted method 
+of accounting for the reduced number of hours and/or load % at which the chiller system will now operate due to the restored 
+performance profile. This restored performance profile allows the chiller system to satisfy the chilled water set points with 
+increased efficiency resulting in reduced compressor demand loading. 
+ 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

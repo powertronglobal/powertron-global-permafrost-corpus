@@ -1,0 +1,42 @@
+ 
+IPMVP Framework and Options       15 
+ 
+ 
+Fixed Conditions Basis or Normalized Savings  
+Conditions other than those of the reporting period may be used as the basis for adjustment. 
+The conditions may be those of the baseline period, some other arbitrary period, or a typical, 
+average or ‘normal’ set of conditions.  
+Adjustment to a fixed set of conditions reports a style of savings which could be called 
+“normalized savings” of the reporting period. In this method energy of the reporting period and 
+possibly of the baseline period are adjusted from their actual conditions to the common fixed (or 
+‘normal’) set of conditions selected.  
+Equation 1c) restates the more general Equation 1a) for such normalized savings reports: 
+ 
+Normalized Savings =  
+ 
+( Baseline Energy    Routine Adjustments to fixed conditions  
+ 
+ Non-Routine Adjustments to fixed conditions ) 
+ 
+- ( Reporting Period Energy    Routine Adjustments to fixed conditions 
+ 
+ Non-Routine Adjustments to fixed conditions ) 
+ 
+ 
+1c) 
+ 
+The calculation of the reporting period routine-adjustments term usually involves the 
+development of a mathematical model correlating reporting-period energy with the independent 
+variables of the reporting period. This model is then used to adjust reporting-period energy to 
+the chosen fixed conditions. Further, if the fixed set of conditions is not from the baseline period, 
+a mathematical model of baseline energy is also used to adjust baseline energy to the chosen 
+fixed conditions.  
+ 
+Independent Variables
+An independent variable is a parameter that is expected to change regularly and have 
+a measurable impact on the energy use of a system or facility. For example, a 
+common independent variable governing building energy use is outdoor temperature. 
+Likewise in a manufacturing plant the number of units produced in a period is often an 
+independent variable significantly affecting energy use. Another common 
+independent variable is the number of seconds, hours or days in each metering 
+period. See also Chapter 4.9.3. 

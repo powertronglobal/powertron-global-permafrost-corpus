@@ -1,0 +1,1399 @@
+# Energy Services Company [Property Address] Post Report.pdf
+
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party
+
+Energy Services Company [Property Address] Blvd. 
+Burbank, CA PermaFrost NMR Confirmatory Results
+
+April 29, 2020
+
+Project  
+To determine the effects of PermaFrost NMR® on a HVAC/R 
+equipment. One (1) DX unit was monitored, treated and measured.
+
+Representatives 
+Energy Services Company
+
+Chris Obrien, Sales Engineer  
+[Client Representative], VP of People Operations 
+[Client Representative], P.E. VP Technology 
+ 
+ 
+Powertron Global®
+
+[Senior Energy Engineer], Forensic Mechanical Engineer
+
+Process 
+Measurement & Verification was performed on one (1) DX-Split 
+(14) fourteen year-old (50) fifty ton HVAC Equipment Manufacturer compressor paired with a 
+thirty-eight (38) year-old HVAC Equipment Manufacturer indoor unit
+
+---
+
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party
+
+INTRODUCTION
+
+From August 2019 to the current day at the Burbank location, monitoring 
+equipment was implemented to verify the current energy efficiency of one (1) DX 
+system using Powertron Global’s FMV energy monitoring platform utilizing the 
+latest in the Internet of Things (IoT) cloud based reporting.
+
+Table 1 – Equipment Information
+
+TYPE
+
+Equipment
+
+ID 
+Make
+
+Model 
+Number
+
+Serial 
+Number 
+Type
+
+Year 
+Mfg.
+
+Refrig.
+
+Type
+
+Nominal 
+Capacity
+
+DX 
+Comp -1 
+HVAC Equipment Manufacturer
+
+CRHR600C4
+B0A0R2J0C0 
+N06D05282 
+Split 
+2006 
+22 
+50
+
+DX 
+AHU -1 
+HVAC Equipment Manufacturer
+
+SWUA-
+6004RDV 
+L82G05323 
+Split 
+1982 
+22 
+50 
+ 
+The testing is designed to monitor the operation of any system before and after 
+installation of PermaFrost NMR® and to verify the amount of capacity restored 
+and current kW/ton energy savings improvement.  
+ 
+The monitoring isolates the entry and departure points of the medium being 
+cooled and the power being used. By recording the conditions at those entry and 
+departure points the overall cooling results can be compared to the overall power 
+consumed to quantify the power costs per unit of cooling kW/Ton (kilowatt-per-
+ton), EER (Energy Efficiency Ratio), COP (Co-Efficient of Performance), Capacity 
+& Enthalpy production.
+
+EXECUTIVE SUMMARY
+
+Average efficiency improvements
+
+kW/Ton 
+Capacity-Tons 
+COP 
+EER 
+Enthalpy
+
+Delta 
+Baseline –  
+Sept 24-30, 2019 
+2.44 
+9.87 
+1.58 
+6.16 
+3.12
+
+Post         –  
+Apr 22-28, 2020 
+1.76 
+13.49 
+2.09 
+8.15 
+4.40
+
+Improvement % 
+27.9% 
+36.7% 
+32.3% 
+32.3% 
+41%
+
+---
+
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party
+
+Method of Procedure for testing:
+
+The objective of measuring the overall cooling production of HVAC/R systems 
+can be realized by measuring the total energy consumed by the specific unit 
+being tested and the total BTUH production of the system then calculating these 
+parameters to obtain current capacity, kW/ton, EER (energy efficient ratio) and 
+COP (coefficient of performance). Using that information the total BTUH of 
+cooling production can be realized. The objective of measuring overall power 
+consumed by an HVAC/R system can be realized by measuring voltage, 
+amperage and power factor.  
+ 
+For this HVAC/R system, parameters were measured every second during the 
+entire duration of this confirmatory test. A period of seven (7) days was selected 
+prior to installation of the PermaFrost NMR to develop a scientific baseline. The 
+same was applied to the post reporting period (7 days) after the required 
+gestation time was achieved to capture improvements. Data was extracted from 
+the same parameters during all operating hours during both reporting periods. 
+ 
+An analysis is provided of the seven (7) day periods of performance profiles of 
+subsequent kW/ton, EER and COP are provided in this report. Both the baseline 
+and post reporting periods used an outdoor air temperature range of 65-95 
+degrees Fahrenheit (30 degree temp span) and used a return air temp range of 
+65-75 degrees Fahrenheit. A common CFM range was selected of 7600-9200 for 
+both reporting period, which covered the typical operating range of this 
+equipment. All data selection criteria can be found at the end of each reporting 
+period in this report. The baseline captured over 110K samples and the post-
+reporting period captured over 92K samples for comparison. The confidence in 
+this data is high. 
+ 
+Total BTUH was developed along with total kW consumption by measuring all 
+required data points (33 points - see appendix for points measured) and entering 
+them into industry best practice engineering formulae. All measurement hardware 
+was certified under NIST or CE standards. Engineering formulae was developed 
+by AHRI / ASHRAE (American Heating and Refrigeration Institute / American 
+Society of Heating Refrigeration & Air Conditioning Engineers):
+
+Kilo-watt (kW) = Volts (V) x Amps (A) x Power Factor (PF) x √3 / 1000
+
+British Thermal Units (BTU) = CFM x 4.5 x Enthalpy Delta
+
+Capacity / Tons = BTU / 12,000
+
+Kilo-watt per Ton (kW/Ton) = kW Energy / Tons (capacity)
+
+---
+
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party
+
+Co-Efficient of Performance (COP) = 12/kW per ton/ 3.412
+
+Energy Efficiency Ratio (EER) = BTU / Watts
+
+To Determine Capacity: 
+ 
+ 
+The entering evaporator air volume, dry bulb temperature and enthalpy are 
+measured by the CFM and inlet temperature/enthalpy sensors. The evaporator 
+leaving air temperature and enthalpy are measured by the outlet air temperature 
+enthalpy sensor. The inlet and outlet enthalpies are subtracted from each other 
+resulting in a sum called the Enthalpy delta. This enthalpy delta (∆) is used in the 
+shown formula below. Other components of this formula complete the equation. 
+These include the volume of air passing through the evaporator (CFM or Cubic 
+feet of air per minute) and an engineering standard ratio of 4.5 (Ratio of Standard 
+Air) or constant.  The result of this calculation yields the industry standard the 
+British Thermal Unit (BTU), which is used to calculate the unit’s capacity in BTU. 
+This BTU number is then divided by the constant 12,000 which is to convert to 
+refrigeration tons because every 12,000 BTUs equals 1 Ton of HVAC capacity. 
+The capacity formula is: 
+ 
+ 
+CFM x 4.5 x Enthalpy ∆ = BTUs / 12,000 = Tons (capacity) 
+ 
+ 
+CFM – Cubic Feet per Minute of Air Flow or Air Volume 
+4.5 – Ratio of Standard Air (constant) 
+Enthalpy ∆ - Enthalpy Delta of the Inlet – Outlet Enthalpy 
+BTU – British Thermal Units  
+12,000 – every 12,000 BTUs equals 1 Ton (constant) 
+ 
+ 
+ 
+Example 
+ 
+4000 (CFM) X 4.5 (Standard Air Ratio) X 8 (Enthalpy Delta) = 144,000 BTU, then 
+divide by 12,000 = 12 tons
+
+To Determine Electrical Energy Consumption: 
+ 
+Total electrical consumption is measured at the main source of electric service of 
+each rooftop unit. This includes, voltage, amperage and power factor and a 
+constant of the square root of 3 (√3). This is then divided by 1000 to obtain 
+kilowatts. The electrical formula for kilowatt (kW) is:
+
+---
+
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party
+
+kW = V x A x PF x √3 / 1000 
+ 
+V – Voltage 
+A – Amperage 
+PF – Power Factor 
+√3 – Square Root of 3 for 3-phase Input Power 
+1000 – constant  
+ 
+ 
+Example 
+ 
+480 (volts) X 45 (amps) X √3 (phase angle for three phase power only) X 0.90 
+(power factor) / 1000 = 33.67 kilowatts
+
+To Determine Efficiency: 
+ 
+Divide the measured kilowatts (kW) by the measured tons to obtain kW per ton. 
+kW per ton is the industry standard to determine system efficiency.
+
+Example
+
+33.67 kW / 12 tons = 2.80 kilowatts per ton
+
+Technical
+
+When PermaFrost NMR® is installed into a unit, a molecular transformation 
+develops. This transformation displaces layers of lubricating fluids that have been 
+impinged in the evaporator and condenser heat exchanger metal surfaces. When 
+the fluid is displaced, the evaporator and condenser can transfer additional heat 
+energy through the tube walls (thermal restoration). This enables the evaporator to  
+completely dehumidify the air per the unit’s design specifications.  When more 
+dehumidification is developed, the enthalpy (a measure of how many grains of 
+moisture are contained in a pound of air) increases. 
+ 
+If the CFM and 4.5 remain constant, then it is the effect of PermaFrost NMR®’s 
+Enthalpy Delta increase that restores (increases) the lost capacity (Tons).  
+ 
+If the tonnage increases, then the kW/ton decreases by means of mathematical 
+function, demonstrating PermaFrost NMR®’s post-treatment effect lowering the 
+electrical cost of every ton of cooling produced, no matter how many tons are 
+called for at any given time.
+
+---
+
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party
+
+PermaFrost NMR® cannot change any unit’s electrical characteristics i.e. 
+everything that requires electricity is rated for the required power under different 
+loads e.g. compressors and fans.
+
+Conclusion 
+ 
+ 
+The Energy Services Company DX unit confirmatory testing results validate the 
+performance improvements of the treated HVAC/R system and are in line with a 
+previously tested UL (formally Underwriters Laboratories) unit as well as +300 P.E. 
+reviewed case studies available upon request.  The results of the confirmatory 
+testing demonstrate the efficacy of PermaFrost NMR® by restoring the evaporator 
+and condenser heat transfer capabilities per manufacturer’s design, thereby 
+restoring cooling capacity while lowering the electrical cost per ton of cooling.
+
+APPENDIX
+
+I. 
+AHU-1 Performance Analysis Summary 
+II. 
+32 Points Measured 
+ 
+*(raw data files are available and provided)
+
+---
+
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party
+
+APPENDIX I
+
+---
+
+5/6/2020
+Powertron Global
+
+https://my.powertroniot.com/?obj=reports
+1/13
+
+Energy Services Company [Property Address] Blvd
+
+Baseline 09/24/2019 12:00 AM - 09/30/2019 11:59 PM VS Post 04/22/2020 12:00
+
+AM - 04/28/2020 11:59 PM
+
+kW/Ton
+
+baseline
+
+post
+
+---
+
+5/6/2020
+Powertron Global
+
+https://my.powertroniot.com/?obj=reports
+2/13
+
+kW/Ton Detail
+
+Temperature
+Baseline kW/Ton
+Post kW/Ton
+% kwton change
+Baseline Number of Samples
+Post Number of Samples
+
+65
+2.39
+1202
+
+66
+2.21
+3898
+
+67
+2.31
+1.63
+29
+865
+147
+
+68
+2.42
+1.44
+40
+5853
+148
+
+69
+2.36
+1.80
+24
+10184
+375
+
+70
+2.22
+1.89
+15
+3814
+52
+
+71
+2.65
+1.73
+35
+7623
+2113
+
+72
+2.58
+1.74
+33
+6316
+1045
+
+73
+2.72
+1.66
+39
+5576
+13
+
+74
+2.76
+1.52
+45
+6356
+255
+
+75
+2.77
+1.58
+43
+3490
+683
+
+76
+2.67
+1.43
+46
+2885
+425
+
+77
+2.75
+1.64
+40
+5819
+368
+
+78
+2.68
+1.70
+37
+5586
+742
+
+79
+2.34
+1.43
+39
+2195
+3111
+
+80
+2.32
+1.60
+31
+788
+6703
+
+81
+2.09
+1.69
+19
+891
+4672
+
+---
+
+5/6/2020
+Powertron Global
+
+https://my.powertroniot.com/?obj=reports
+3/13
+
+Temperature
+Baseline kW/Ton
+Post kW/Ton
+% kwton change
+Baseline Number of Samples
+Post Number of Samples
+
+82
+2.22
+1.74
+22
+866
+5947
+
+83
+2.29
+1.88
+18
+778
+8761
+
+84
+2.12
+1.77
+17
+2314
+12041
+
+85
+2.18
+1.66
+24
+3980
+5203
+
+86
+2.22
+1.71
+23
+7438
+7275
+
+87
+2.25
+1.71
+24
+6153
+6161
+
+88
+2.26
+1.72
+24
+11320
+5216
+
+89
+2.32
+1.76
+24
+3727
+3725
+
+90
+2.31
+1.86
+19
+568
+1425
+
+91
+1.92
+3011
+
+92
+1.99
+8445
+
+93
+1.96
+4577
+
+---
+
+5/6/2020
+Powertron Global
+
+https://my.powertroniot.com/?obj=reports
+4/13
+
+TONS
+
+baseline
+
+post
+
+---
+
+5/6/2020
+Powertron Global
+
+https://my.powertroniot.com/?obj=reports
+5/13
+
+TONS
+
+Temperature
+Base TONS
+Post TONS
+% Change
+Baseline Samples
+Post Samples
+
+65
+10.01
+1202
+
+66
+11.23
+3898
+
+67
+10.46
+13.49
+29
+865
+147
+
+68
+9.84
+14.78
+50
+5853
+148
+
+69
+10.60
+16.84
+59
+10184
+375
+
+70
+11.79
+16.20
+37
+3814
+52
+
+71
+9.16
+14.64
+60
+7623
+2113
+
+72
+9.35
+17.14
+83
+6316
+1045
+
+73
+8.95
+12.78
+43
+5576
+13
+
+74
+8.85
+14.01
+58
+6356
+255
+
+75
+8.83
+13.53
+53
+3490
+683
+
+76
+8.89
+14.68
+65
+2885
+425
+
+77
+8.97
+13.19
+47
+5819
+368
+
+78
+9.05
+13.82
+53
+5586
+742
+
+79
+10.13
+15.50
+53
+2195
+3111
+
+80
+10.19
+14.23
+40
+788
+6703
+
+81
+10.54
+13.94
+32
+891
+4672
+
+---
+
+5/6/2020
+Powertron Global
+
+https://my.powertroniot.com/?obj=reports
+6/13
+
+Temperature
+Base TONS
+Post TONS
+% Change
+Baseline Samples
+Post Samples
+
+82
+10.35
+13.41
+30
+866
+5947
+
+83
+9.71
+12.42
+28
+778
+8761
+
+84
+10.44
+13.20
+26
+2314
+12041
+
+85
+10.29
+13.38
+30
+3980
+5203
+
+86
+10.31
+13.33
+29
+7438
+7275
+
+87
+10.49
+13.26
+26
+6153
+6161
+
+88
+10.27
+13.01
+27
+11320
+5216
+
+89
+9.92
+12.48
+26
+3727
+3725
+
+90
+9.56
+13.38
+40
+568
+1425
+
+91
+13.35
+3011
+
+92
+13.72
+8445
+
+93
+13.31
+4577
+
+---
+
+5/6/2020
+Powertron Global
+
+https://my.powertroniot.com/?obj=reports
+7/13
+
+COP
+
+baseline
+
+post
+
+---
+
+5/6/2020
+Powertron Global
+
+https://my.powertroniot.com/?obj=reports
+8/13
+
+COP
+
+Temperature
+Base COP
+Post COP
+% Change
+Baseline Samples
+Post Samples
+
+65
+1.47
+1202
+
+66
+1.59
+3898
+
+67
+1.52
+2.16
+42
+865
+147
+
+68
+1.45
+2.44
+68
+5853
+148
+
+69
+1.49
+1.95
+31
+10184
+375
+
+70
+1.58
+1.86
+18
+3814
+52
+
+71
+1.33
+2.03
+53
+7623
+2113
+
+72
+1.37
+2.02
+47
+6316
+1045
+
+73
+1.29
+2.12
+64
+5576
+13
+
+74
+1.28
+2.31
+80
+6356
+255
+
+75
+1.27
+2.22
+75
+3490
+683
+
+76
+1.32
+2.46
+86
+2885
+425
+
+77
+1.28
+2.15
+68
+5819
+368
+
+78
+1.31
+2.07
+58
+5586
+742
+
+79
+1.50
+2.46
+64
+2195
+3111
+
+80
+1.51
+2.19
+45
+788
+6703
+
+81
+1.68
+2.08
+24
+891
+4672
+
+---
+
+5/6/2020
+Powertron Global
+
+https://my.powertroniot.com/?obj=reports
+9/13
+
+Temperature
+Base COP
+Post COP
+% Change
+Baseline Samples
+Post Samples
+
+82
+1.59
+2.03
+28
+866
+5947
+
+83
+1.53
+1.87
+22
+778
+8761
+
+84
+1.66
+1.98
+19
+2314
+12041
+
+85
+1.61
+2.12
+32
+3980
+5203
+
+86
+1.58
+2.06
+30
+7438
+7275
+
+87
+1.56
+2.05
+31
+6153
+6161
+
+88
+1.55
+2.04
+32
+11320
+5216
+
+89
+1.51
+2.00
+32
+3727
+3725
+
+90
+1.52
+1.89
+24
+568
+1425
+
+91
+1.83
+3011
+
+92
+1.77
+8445
+
+93
+1.79
+4577
+
+---
+
+5/6/2020
+Powertron Global
+
+https://my.powertroniot.com/?obj=reports
+10/13
+
+EER
+
+baseline
+
+post
+
+---
+
+5/6/2020
+Powertron Global
+
+https://my.powertroniot.com/?obj=reports
+11/13
+
+EER
+
+Temperature
+Base EER
+Post EER
+% Change
+Baseline Samples
+Post Samples
+
+65
+6.37
+1202
+
+66
+6.91
+3898
+
+67
+6.53
+8.36
+28
+865
+147
+
+68
+6.19
+9.31
+50
+5853
+148
+
+69
+6.44
+8.7
+35
+10184
+375
+
+70
+7.09
+8.34
+18
+3814
+52
+
+71
+5.8
+8.39
+45
+7623
+2113
+
+72
+5.94
+8.97
+51
+6316
+1045
+
+73
+5.7
+8.14
+43
+5576
+13
+
+74
+5.6
+8.85
+58
+6356
+255
+
+75
+5.6
+8.58
+53
+3490
+683
+
+76
+5.65
+9.44
+67
+2885
+425
+
+77
+5.71
+8.38
+47
+5819
+368
+
+78
+5.79
+8.27
+43
+5586
+742
+
+79
+6.44
+9.64
+50
+2195
+3111
+
+80
+6.55
+8.98
+37
+788
+6703
+
+81
+6.71
+8.66
+29
+891
+4672
+
+---
+
+5/6/2020
+Powertron Global
+
+https://my.powertroniot.com/?obj=reports
+12/13
+
+Temperature
+Base EER
+Post EER
+% Change
+Baseline Samples
+Post Samples
+
+82
+6.62
+8.46
+28
+866
+5947
+
+83
+6.19
+7.79
+26
+778
+8761
+
+84
+6.6
+8.03
+22
+2314
+12041
+
+85
+6.46
+8.34
+29
+3980
+5203
+
+86
+6.44
+8.04
+25
+7438
+7275
+
+87
+6.49
+8.01
+23
+6153
+6161
+
+88
+6.39
+7.97
+25
+11320
+5216
+
+89
+6.12
+7.74
+26
+3727
+3725
+
+90
+6.07
+7.74
+28
+568
+1425
+
+91
+7.56
+3011
+
+92
+7.53
+8445
+
+93
+7.56
+4577
+
+---
+
+5/6/2020
+Powertron Global
+
+https://my.powertroniot.com/?obj=reports
+13/13
+
+Report Parameters
+
+Baseline
+
+Outside Air Range
+Return Air Filter
+Power Factor Filter
+CFM Filter
+Samples
+
+65 - 95
+65 - 75
+0 - 1
+7600 - 9200
+110485
+
+Post
+
+Outside Air Range
+Return Air Filter
+Power Factor Filter
+CFM Filter
+Samples
+
+65 - 95
+65 - 75
+0 - 1
+7600 - 9200
+92639
+
+Copyright © 2016 - 2020 Powertron Global, LLC.
+
+---
+
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party
+
+Appendix II -Points Measured per Unit
+
+- 
+Air velocity in FPS
+
+- 
+CFM
+
+- 
+Compressor #1 on/off
+
+- 
+COP
+
+- 
+Delta Enthalpy
+
+- 
+Delta Temperature
+
+- 
+Dew Point Return
+
+- 
+Dew Point Supply
+
+- 
+EER
+
+- 
+kW
+
+- 
+kW/ton
+
+- 
+Latent Capacity
+
+- 
+Instantaneous Current, Phase A
+
+- 
+Instantaneous Current, Phase B
+
+- 
+Instantaneous Current, Phase C
+
+- 
+Average Current
+
+- 
+Voltage Phase AB
+
+- 
+Voltage Phase BC
+
+- 
+Voltage Phase CA
+
+- 
+Average Voltage
+
+- 
+Net Capacity
+
+- 
+Outdoor Air Temp
+
+- 
+Power Factor (total)
+
+- 
+Return Air Temperature
+
+- 
+Return Duct Humidity
+
+- 
+Return Air Enthalpy
+
+- 
+Supply Air Temperature
+
+- 
+Supply Duct Humidity
+
+- 
+Supply Air Enthalpy
+
+- 
+Total Capacity (BTU’s)
+
+- 
+Total Capacity (Tons)
+
+- 
+Wet Bulb Return
+
+- 
+Wet Bulb Supply

@@ -1,0 +1,56 @@
+ 
+Appendix B Uncertainty         103 
+ 
+10%
+40%
+70%
+100%
+130%
+160%
+190%
+-30%
+-15%
+0%
+15%
+30%
+Deviation in Measured Value
+Impact on Savings
+Old Fixture Watts
+Hours Of Use
+ 
+ 
+If the proposed M&V method will yield readings of old-fixture wattage with a range of uncertainty 
+of ±5%, the range of electricity savings uncertainty will be ±15%. In other words, if the old-fixture 
+wattage could be between 91 and 101 watts, the savings could be between 99 and 135 kWh 
+annually. The range of uncertainty on the savings is 36 kWh (135 - 99). If the marginal value of 
+electricity is 10 cents per kWh, the uncertainty range is about $3.60 annually. If the wattage of 
+the old fixture could be estimated with greater precision for significantly less than $3.60, then it 
+may be worth enhanced-measurement efforts, depending on the number of years of savings 
+being considered.  
+Figure B2 shows that the hours-of-use term has less of an impact on final savings in this 
+example (the hours-of-use line is flatter indicating lower sensitivity). It is plausible that the error 
+in measurement of operating hours is ±20%, so the energy-savings uncertainty range is also 
+±20% or ±23 kWh (= 20% of 117 kWh). The range in savings is about 46 kWh (= 2 x 23 kWh), 
+worth $4.60 per year. Again it may be warranted to increase the accuracy in measuring the 
+hours of use if it can be done for significantly less than $4.60, depending upon the number of 
+years of savings being considered. 
+The range of possible savings errors from errors in measuring operating hours (46 kWh) is 
+greater than from the error in measuring the old-fixture wattages (36 kWh). This is the opposite 
+effect from what might be expected based on the greater sensitivity of savings to wattage than 
+to hours of use, as seen in Figure B2. This difference arises because the plausible error of 
+measuring operating hours (±20%) is much larger than the plausible error of measuring old-
+fixture wattages (±5%).  
+Sensitivity analysis such as the above can take many forms. The preceding simple example 
+was used to show the principles. Monte Carlo simulation, allows complex consideration of many 
+different parameters, allowing M&V design to focus expenditures where most needed to 
+improve the overall accuracy of savings reports. 
+B-5.2   Establishing Targets for Quantifiable Savings Uncertainty 
+As discussed in Appendix B-1, not all uncertainties can be quantified. However, those that can 
+be quantified provide guidance in M&V Planning. By considering the M&V cost of various 
+optional approaches to uncertainty, the M&V program can produce the type of information that 
+is acceptable to all readers of the savings report, including those who have to pay for the M&V 
+reports. Ultimately, any M&V Plan should report the expected level of quantifiable uncertainty 
+(see Chapter 5).    
+ 
+Figure B-2. Example Sensitivity 
+Analysis – Lighting Savings 

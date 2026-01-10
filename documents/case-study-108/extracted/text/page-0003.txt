@@ -1,0 +1,22 @@
+Executive Summary
+This report contains specific information regarding the installation of PermaFrost NMR® in a Carrier
+Evergreen 510-ton Centrifugal Chiller supporting a mission-critical data center for a U.S. Communications
+Company (heretofore referred to as The Company) located in Long Island, New York. 
+Two Company representatives, one from Network Engineering and the other from Power and Energy 
+Planning section of the Global Real Estate Department, managed this entire trial.  These two representatives 
+were supported by The Company’s on-site contractor engineering support personnel.
+In summary, The Company’s chiller treated with the PermaFrost NMR® ECM showed an 18.6% reduction 
+in kW; a 12% reduction in required operating tonnage to deliver setpoint; a 7.6% reduction in kW/ton; an 
+8.2% improvement in COP; a 56.8% improvement in refrigerant approach.
+The chiller required 82% load in the post versus 100% load in the baseline to arrive at chilled water setpoint. 
+Attempts were made to reach 100% load, however this chiller now has the ability to handle the complete 
+load of the facility while operating at 82%.
+This pilot machine provides chilled water at the measured GPM and now delivers design chilled water 
+outlet setpoint temperature at reduced kWh while increasing tonnage per kW efficiency.  This allows the 
+chiller to produce more tonnage while consuming less energy. The introduction of PermaFrost NMR® has 
+restored a significant amount of chilled water capacity to support this critical facility which has resulted in 
+much lower operational costs. 
+Based on the data collected, the return on investment (ROI) for this ECM is just 4 months.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

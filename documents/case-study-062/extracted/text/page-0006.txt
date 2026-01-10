@@ -1,0 +1,35 @@
+Energy Science Division
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling Capacity in Tons  
+Average Annual Runtime Hours
+Design Delta-T
+Design Kw/Ton
+Age
+Carrier
+19XL5353463CQ
+2696J54047
+R22
+500 Tons
+3,000
+5
+.6
+1996
+       Detailed Results for Sports Arena B Center Chiller  
+System Description / Design Characteristics
+This unit provides comfort cooling for approximately one-third of the Sports Arena B Center located in the 
+Sports Complex B, east [Northeast Location], NJ. The unit runs ~3,000 hours per year according to records 
+kept by the on-site engineering office. 
+Baseline & Energy Reporting (Post) Periods
+The identical IPMVP following data points were recorded for Baseline and Post on 6/10/13 and 7/15/13 
+respectively using recently NIST calibrated devices to insure measurement accuracy. Motor amps were at 
+103% during both data collection periods. Anticipating the weather would be warmer in the Post; during 
+the baseline, heaters were used inside the facility to drive the building load. Additionally, no fans were used 
+on the tower in an effort to keep the returning condenser water as warm as possible. Since the warmer 
+weather in the Post would only serve to hold down the amount of improvements measured, it was decided 
+that no weather adjustments needed to be made to the calculations since the results were already very 
+substantial. The pilot measurements are as follows: 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

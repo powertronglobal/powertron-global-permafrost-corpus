@@ -1,0 +1,51 @@
+{
+  "document_id": "umontana_002",
+  "title": "Incorporating Machine Learning with Cloud Based HVAC Monitoring Systems - Milestone 2 Report",
+  "source_file": "Milestone2_FinalVersion_08312021.pdf",
+  "sha256": "ecafc08a01fed37b7da1ca861df6da2669f8849d96ca486be48bb157a388974c",
+  "page_count": 38,
+  "extraction_date": "2025-12-29",
+  "extraction_method": "pymupdf",
+  "document_type": "academic_research",
+  "institution": "University of Montana",
+  "course": "M598-498 Data Science Capstone",
+  "semester": "Spring 2021",
+  "submission_date": "2021-08-31",
+  "authors": [
+    {
+      "name": "[Student Researcher D]",
+      "role": "Student Researcher"
+    },
+    {
+      "name": "[Student Researcher E]",
+      "role": "Student Researcher"
+    },
+    {
+      "name": "[Student Researcher F]",
+      "role": "Student Researcher"
+    }
+  ],
+  "advisors": [
+    {
+      "name": "[Faculty Advisor A]",
+      "role": "Faculty Advisor"
+    },
+    {
+      "name": "[Faculty Advisor B]",
+      "role": "Faculty Advisor"
+    }
+  ],
+  "keywords": [
+    "machine learning",
+    "HVAC",
+    "anomaly detection",
+    "random forest",
+    "clustering",
+    "MAD",
+    "archetypes analysis",
+    "energy efficiency",
+    "PermaFrost treatment"
+  ],
+  "abstract": "Capstone project testing machine learning and data science algorithms on HVAC sensor data to detect anomalies and validate PowerTron PermaFrost treatment effectiveness. Methods include Random Forest, MAD thresholding, Hierarchical Clustering, and Archetypes Analysis.",
+  "corpus_relevance": "Independent academic validation using ML algorithms to prove PermaFrost treatment efficacy on HVAC systems."
+}

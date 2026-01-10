@@ -1,0 +1,28 @@
+ 
+ 
+Page 8 of 38 
+ 
+Figure 6 - Random Forest Department Store A Example 2 
+Decision tree 2 generated on 39 days of Department Store A data (dates from 10-1-19 to 10-8-19 and 5-1-20 to 5-31-20) 
+ 
+ 
+ 
+ 
+Results 
+ 
+Typically, another labelled data set is used to test a supervised machine learning algorithm.  This 
+data set will be used as input for the algorithm and the output will be compared to the known labels, 
+allowing an accuracy percentage to be calculated. It follows that without more labelled data, it is not 
+possible to conclusively test performance and produce precision accuracy measurements.  
+ 
+While lacking an understanding of true method accuracy serves as a notable limitation stemming 
+from an absence of labeled data, the team was able to mimic a testing data set by using pre and 
+post-treatment data as ‘anomalies’. Once trained on the labeled data from the 39 days in October 
+2019 and May 2020, the algorithm was applied to Department Store A data from June 2020 to November 2020 
+and the following days were classified as anomalies: 
+- 
+2020-07-12 
+- 
+2020-09-01 
+- 
+2020-09-09 

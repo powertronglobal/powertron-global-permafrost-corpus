@@ -1,0 +1,58 @@
+ 
+Appendix D Users of IPMVP         117 
+ 
+ 
+APPENDIX D   USERS  OF IPMVP  
+Though the application of IPMVP is unique to each project, certain types of users will have 
+similar methods in their M&V Plans and implementation. This appendix outlines some of the key 
+ways this document may be used by the following user groups: 
+ 
+Energy performance contractors and their building customers  
+ 
+Energy performance contractors and their industrial process customers  
+ 
+Energy users doing their own retrofits and wanting to account for savings 
+ 
+Facility managers properly accounting for energy budget variances 
+ 
+New building designers  
+ 
+New building designers seeking recognition for the sustainability of their designs  
+ 
+Existing building managers seeking recognition for the environmnetal quality of their building 
+operations 
+ 
+Utility demand side management program designers and managers 
+ 
+Water efficiency project developers 
+ 
+Emission reduction trading program designers 
+ 
+Energy user’s seeking ISO 50001 certification 
+This Appendix uses terms explained in Volume I Chapters as noted in brackets, or as defined in 
+Chapter 9 for italicized words. 
+D-1    Energy-Performance Contractors and Their Building Customers 
+The primary purpose of M&V in the context of building energy-performance contracts is 
+presenting the actual monetary performance of a retrofit project. The M&V Plan becomes part of 
+the energy-performance contract’s terms, and defines the measurements and computations to 
+determine payments or demonstrate compliance with a guaranteed level of performance. 
+M&V costs may be controlled by considering the responsibilities of all parties to the contract. 
+Where some parameters can be estimated with accuracy sufficient for all parties, Option A 
+(Chapter 4.8.1) may be most economical. For example, a contractor undertaking to improve the 
+efficiency of a chiller plant may simply be required to demonstrate the before and after retrofit 
+chiller efficiency, without consideration of the ongoing energy use, which is driven by cooling 
+loads that are not the contractor’s responsibility. However if the contractor agrees to reduce 
+chiller plant energy use, comparison of before and after chiller plant energy use would be 
+required. In this latter case Option B (Chapter 4.8.2) would be used if chiller plant energy meters 
+are used, or Option C (Chapter 4.9) if whole facility (utility) meters are used to measure total 
+building energy performance. 
+Where the energy-performance contract focuses on total facility performance, or where it is 
+difficult to evaluate the effects or several ECMs, Option C would be used. Care should be taken 
+to ensure that the M&V Plan (Chapter 5) lists baseline static factors and assigns responsibility 
+for their monitoring throughout the reporting period. However for new construction, Option D 
+would be used (Chapter 4.10 or IPMVP Volume III Part I). Where central metering exists on a 
+multiple building campus and no individual building meters are yet in place, Option D (Chapter 
+4.10) can be used, so that the retrofit does not have to be held up to obtain new sub-meter 
+baseline data for a year before planning the retrofit. 
+Measurements may be made throughout the term of the energy-performance contract or for a 
+contract defined test period shortly after retrofit. The longer the reporting period (Chapter 4.5.2), 

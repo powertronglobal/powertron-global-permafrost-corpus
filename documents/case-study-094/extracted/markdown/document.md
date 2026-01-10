@@ -1,0 +1,629 @@
+# Major Defense Contractor.pdf
+
+Energy Science Division
+
+®
+
+Major Defense Contractor
+
+Comprehensive HVAC/R Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+PermaFrost NMR® Eﬃciency Report
+
+Major Defense Contractor
+
+August, 2013
+Executive Summary
+
+This report contains specific information regarding the installation of the energy control measure (ECM)
+
+PermaFrost NMR® in the two CRAC (Computer Room Air Conditioning) units supporting a critical data
+
+center room within the Major Defense Contractor technical Services facility at [Virginia Facility Address]. Detailed
+
+forensic performance testing (outlined later in this report) was performed on the two nominal 6-ton CRAC
+
+units using R410A refrigerant. Following testing, the CRAC units were treated with the proper amount and
+
+type of the PermaFrost NMR® technology specially formulated for these types of systems.  Measurement
+
+and Verification (M&V) was conducted pre-installation and post-gestation.
+
+The improvement in efficiency and restored capacity gained directly
+
+at the units was solely attributable to the PermaFrost NMR® ECM.
+
+This is a result of the reversal of thermal inefficiency on heat exchange surfaces.
+
+Following treatment with the PermaFrost NMR® technology, the
+
+CRAC units showed an effective net average 29.5% reduction in
+
+kW/ton based on the exact capacity measured in the baseline M&V
+
+and the post gestation M&V. With each of the nominal 6-ton CRAC
+
+units operating at 100%, the units showed an average 23% reduction
+
+in kWh while simultaneously producing an average increase in
+
+system efficiency of 29.1%. Prior to the ECM, the units each produced
+
+an average of 4.76 tons of cooling as measured in-situ. After the ECM,
+
+the average tonnage produced increased to 6.07 tons or 104% of
+
+original design specification. This 27.5% average capacity increase
+
+and 33% improvement in refrigerant approach from the baseline
+
+performance levels led to an effective average increase in COP of
+
+31%. All of these factors directly correlate to what Major Defense Contractor will
+
+realize in energy savings as they operate these CRAC units in the
+
+future as well as other HVAC equipment like Roof Top Units and
+
+Chillers under the similar parameters.
+
+Energy Science Division
+
+Unit #8 on left was not put into service until 
+Nov 2011 while Unit #9 on right has been in 
+operation since 2007. The difference in age 
+and total runtime clearly presented itself 
+during the testing since both are key variables 
+directly related to the amount thermal inefficiency in a 
+system and the corresponding loss of 
+performance over time.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Following treatment with the PermaFrost NMR® technology, the two CRAC units also showed a slight
+
+reduction in measured Amps and Volts while at the same time producing more cooling. This is
+
+illustrated by the 26.9% increase in the enthalpy delta, which is a critical HVAC measurement used to
+
+determine the thermodynamic enhancement brought about by the PermaFrost NMR® ECM.  The result
+
+of the ECM improvement is an ROI to Major Defense Contractor that is measured in months. The tables of data used to
+
+determine the financial payback are available for review at the end of this report.
+
+Product Brief
+
+PermaFrost NMR® is a multi-patented nanotechnology surface chemistry Energy Control Measure
+
+(ECM) that uses Nucleo Molecular Regenerative® (NMR™) technology as its core agent. A sustainable,
+
+one-time treatment with no down time required, PermaFrost NMR® lasts for at least 10 years in any
+
+type of system in which it is installed. Examples of the types of commercial HVACR systems and
+
+equipment that PermaFrost NMR® has proven success with are direct expansion air systems (DX);
+
+chilled water systems (both flooded and DX; air and water cooled); ice making equipment; ammonia
+
+refrigeration plants (single compressor and cascade) and variable refrigerant flow (VRF) designs. The
+
+equipment utilized in these systems within our expanding portfolio of clients includes centrifugal
+
+(single and multi-stage), scroll, reciprocating and screw configurations.
+
+The direct benefits of PermaFrost NMR® in any type of HVACR system are improved cooling
+
+performance, increased capacity and improved refrigerant velocity – all of which allow systems to
+
+achieve set point temperatures in a more rapid fashion which reduces compressor operating periods.
+
+The indirect benefits resulting from the enhanced thermodynamic characteristics following treatment
+
+include reduced run time, less kW hours used, less amp draw at the compressor, longer equipment life
+
+cycle time and a reduced carbon footprint for Major Defense Contractor.
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Measurement and Veriﬁcation Protocol
+
+The International Performance Measurement and Verification Protocol (IPMVP) was utilized in the
+
+development of this report. The Association of Energy Engineers (AEE), The American Society of Heating,
+
+Refrigeration and Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization
+
+(EVO) accept the IPMVP as a global methodology for determining the effectiveness of energy conservation
+
+methods and products.
+
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize. They
+
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report. Option B is
+
+defined as: All parameter measurements with the boundary of the ECM (PermaFrost NMR®) as the single
+
+source of measurement. Savings are determined by field measurement of the energy use of the ECM
+
+affected equipment or system and any performance enhancements versus the baseline data.
+
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the
+
+savings and the length of the reporting period.  For the boundary utilized for Option B short-term
+
+measurements are very useful as data when the variables are contained. The savings are calculated by
+
+short-term measurements of baseline and energy reporting period (post), and /or engineering computations
+
+using measurements of proxies of energy use.
+
+The final computation follows the formula:
+
+Energy Science Division
+
+Option B savings = Baseline Energy – Reporting Period Energy
+
++/ - Routine Adjustments +/ - Non-Routine Adjustments
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Conservation Method (ECM) Content
+
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the
+
+effects of thermal degradation and fouling on the heat exchange surfaces.
+
+A diagnostic examination of the pilot equipment was implemented to determine if the operational
+
+conditions of the CRAC units were satisfactory. Baseline M&V were recorded on both units and then the
+
+proper amount and type of PermaFrost NMR® was injected. The gestation period for the Major Defense Contractor pilot
+
+was 4 weeks on these particular units to allow them to achieve the required ~250 hours of runtime on each
+
+to ensure adequate performance improvement time. At the end of this gestation period, Post M&V results
+
+were taken in the identical manner as in the baseline, taking special care to match the same or very similar
+
+entering air dry bulb and wet bulb temperatures, entering condenser water temperatures (CDW), and of
+
+course outdoor air temperatures (OAT). These are three of the most critical variables to contend with in an
+
+in-situ testing situation. When analyzing all of the data baseline and post data, no adjustments for weather
+
+were necessary.
+
+The following report produces the utilization of the International Performance Measurement and
+
+Verification Protocol (IPMVP) as the M&V plan. Major Defense Contractor Facility Engineer [Client Representative] witnessed the
+
+collection of all the data used in this report. The final calculations were performed by Powertron Global®’s
+
+Forensic Mechanical Engineer, [Senior Energy Engineer].
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase)
+
+BTUH = CFM * 4.5 (standard air) * Calculated Enthalpy Delta
+
+kW/Ton = kW / Actual Tonnage
+
+Percentage Eﬃciency = Measured BTUH / Manufacturers Design BTUH
+
+Coeﬃcient of Performance (COP) = (12 / kW per ton /3.412)
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Make
+
+Model
+
+Serial Number
+
+Refrigerant Type
+
+Nominal Cooling Capacity in Tons
+
+Average Annual Runtime Hours
+
+Date Installed
+
+Water Furnace
+
+NSV070TL42C
+
+110600499
+
+R410A
+
+5.83 Tons
+
+4,500
+
+2007
+
+Water Furnace
+
+NSV070TL42C
+
+110700854
+
+R410A
+
+5.83 Tons
+
+4,500
+
+2011
+
+Detailed Results for CRAC Units 8 & 9
+
+System Description / Design Characteristics
+
+These units provide critical cooling for the
+
+Major Defense Contractor Technical Services Data Center located on
+
+the 1st floor of the facility located at 22230 Pacific
+
+Blvd, Sterling, VA. Given the internal load from the
+
+data center year round, it is estimated that each of
+
+the units ran ~4,500 hours or more each per year
+
+prior to the ECM being implemented.
+
+Energy Science Division
+
+CRAC Unit #9
+CRAC Unit #8
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+CRAC Unit #2
+CRAC Unit #1
+
+BASELINE
+POST
+BASELINE
+POST
+
+478.9 V
+
+8.25 A
+
+42.8 F
+
+124.7 PSI
+
+114.4 F
+
+389.1 PSI
+
+73 F
+
+56.7 F
+
+59.2 F
+
+51.9 F
+
+2425
+
+4.13 Tons
+
+4.54
+
+5.81 kW
+
+1.407
+
+2.50
+
+79 F
+
+92 F
+
+478.4 V
+
+8.1 A
+
+41 F
+
+135.5 PSI
+
+113.5 F
+
+399 PSI
+
+73 F
+
+51.7 F
+
+58.6 F
+
+47.9 F
+
+2425
+
+5.78 Tons
+
+6.36
+
+5.70 kW
+
+0.98
+
+3.57
+
+82 F
+
+89.7 F
+
+Voltage
+
+Amperage
+
+Suction Refrigerant Temp
+
+Suction Refrigerant Pressure
+
+Discharge Refrigerant Temp
+
+Discharge Refrigerant Pressure
+
+Entering Air Temperature DB
+
+Leaving Air Temperature DB
+
+Entering Air Temperature WB
+
+Leaving Air Temperature WB
+
+Actual CFM Across the Coil
+
+Operating Tons Per Hour
+
+Calculated Enthalpy Delta
+
+Total kW
+
+Calculated kW / Ton
+
+Coeﬃcient of Performance (COP)
+
+O.A.T.
+
+CDW Entering Units
+
+479.8 V
+
+8.45 A
+
+38.8 F
+
+130.3 PSI
+
+113.7 F
+
+399.6 PSI
+
+73 F
+
+53.5 F
+
+61.3 F
+
+50.5 F
+
+2118
+
+5.39 Tons
+
+6.78
+
+5.96 kW
+
+1.107
+
+3.18
+
+79 F
+
+92 F
+
+478.2 V
+
+8.4 A
+
+40.5 F
+
+119.4 PSI
+
+111.7 F
+
+374.8 PSI
+
+73 F
+
+48.8 F
+
+60.4 F
+
+47.1 F
+
+2118
+
+6.36 Tons
+
+8.01
+
+5.90 kW
+
+0.928
+
+3.79
+
+82 F
+
+89.7 F
+
+MEASUREMENT
+
+Baseline and Post Measurements
+
+The identical IPMVP following data points were recorded for Baseline and Post on 6/24/13 and 7/24/13
+
+respectively using recently NIST calibrated devices to insure measurement accuracy. The Return Air dry bulb
+
+and wet bulb temperatures entering the coil were very similar in both periods while the entering CDW was 2
+
+degrees cooler in the post but the OAT was 3 degrees warmer so no adjustments were made to the
+
+calculations. The measurements are as follows:
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+BASELINE
+POST
+IMPROVEMENTS
+
+CRAC Unit #2
+
+BASELINE
+POST
+IMPROVEMENTS
+
+CRAC Unit #1
+
+kW / Ton  
+Calculated Enthaply Delta
+Operating Tons Per Hour
+COP
+Unit Eﬃciency Per Design
+
+1.407 
+4.54
+4.13 
+2.50
+70.8%
+
+0.985
+6.36
+5.78
+3.57
+99.1%
+
+30 %
+40.1%
+40 %
+42.8%
+40 %
+
+1.107 
+6.78
+5.39 
+3.18
+92.3%
+
+0.928
+8.01
+6.36
+3.79
+109.1%
+
+16.2%
+18.1%
+18 %
+19.2%
+18.2%
+
+Results
+
+The following are the final calculated average performance measurements following the PermaFrost NMR®
+
+Post measurement period of CRAC Units 8 & 9 prior using regression analysis.
+
+PermaFrost NMR®: Determining the Payback Period for Major Defense Contractor
+
+Utilizing data in the above charts, to obtain a true avoided energy cost and subsequent payback period for Major Defense Contractor
+
+for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy
+
+savings resulting from the improvement in capacity. This greater capacity reduces the runtime hours and in turn
+
+reduces the annual kWh expended in the Post. The true ROI comes from determining what the cost to run the units
+
+was when operating at their original energy profile to produce the newly restored amount of tonnage and then
+
+subtracting the new cost to run the units at this same newly restored tonnage after the PermaFrost NMR® ECM
+
+was installed. This regression calculation is the most scientific method of accounting for the reduced number of hours
+
+the units will now run due to their increased capacity which allows the units to reach set temperatures quicker and
+
+shut off sooner.
+
+Avg. Adjusted kW Baseline          1.257 kW/ton * 6.07 tons = 7.63 kW
+
+Avg. Adjusted Baseline kWh          7.63 kW * 4,500 Annual Operating Hrs = 34,335 kWh
+
+Avg. Revised Cost to Run Baseline          34,335 kWh * $.09 = $3,090.15
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Avg. kW Post          .957 kW/ton * 6.07 tons = 5.81 kW
+
+Avg. Annual kWh Post           5.81 kW * 4,500 hours = 26,145 kWh
+
+Avg. Annual Cost Post           26,145 kWh * .09 cents = $2,353.05
+
+Avoided Energy Cost (savings) Per Month         ($3,090.15 - $2,353.05)/12 = $61.43
+
+Cost of PermaFrost NMR® installed per Unit          $750
+
+Avg. Payback Period for Major Defense Contractor on Both CRAC Units          $750 / $61.43 = 12.2 months
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

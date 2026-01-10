@@ -1,0 +1,219 @@
+ 
+Appendix B Uncertainty         101 
+ 
+ 
+ 
+ 
+SE(Savings) = 
+2
+2
+2
+2
+1
+)
+(
+.......
+)
+(
+)
+(
+p
+C
+SE
+C
+SE
+C
+SE
+
+
+
+ 
+B-19 
+ 
+For example, if savings are computed using Equation 1b) of Chapter 4 as the difference 
+between the adjusted-baseline energy and measured reporting-period energy, the standard 
+error of the difference (savings) is computed as: 
+ 
+ 
+ 
+SE(Savings) = 
+2
+2
+)
+(
+)
+(
+energy
+period
+reporting
+SE
+baseline
+adjusted
+SE
+
+ 
+ 
+The SE (adjusted baseline) comes from the standard error of the estimate derived from 
+Equation B-11.  The SE (reporting period energy) comes from the meter accuracy using 
+Equation B-18. 
+If the reported savings estimate is a product of several independently determined components 
+(Ci) (i.e., 
+p
+C
+C
+C
+Savings
+*
+...
+*
+*
+2
+1
+
+), then the relative standard error of the savings is given 
+approximately by: 
+ 
+ 
+ 
+ 
+2
+2
+2
+2
+2
+1
+1
+)
+(
+......
+)
+(
+)
+(
+)
+(
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p
+p
+C
+C
+SE
+C
+C
+SE
+C
+C
+SE
+Savings
+Savings
+SE
+ 
+ 
+B-20 
+ 
+A good example of this situation is the determination of lighting savings as: 
+ 
+ 
+ 
+ 
+ 
+Savings = Δ Watts x Hours  
+ 
+If the M&V Plan requires measurement of hours of use, then “Hours” will be a value with a 
+standard error.  If the M&V Plan also includes measurement of the change in wattage, then 
+ΔWatts will also be a value with a standard error. Relative standard error of savings will be 
+computed using the formula above as follows: 
+ 
+ 
+ 
+ 
+2
+2
+)
+(
+)
+(
+)
+(
+
+
+
+
+
+
+
+
+
+
+
+
+Hours
+Hours
+SE
+Watts
+Watts
+SE
+Savings
+Savings
+SE
+ 
+ 
+When a number of savings results are totaled and they all have the same Standard Error, 
+equation B-5 or B-19 can be used to find the estimated Standard Error of the total reported. 
+ 
+ 
+Total SE(Savings) = 
+2
+2
+2
+2
+1
+)
+(
+........
+)
+(
+)
+(
+N
+savings
+SE
+savings
+SE
+savings
+SE
+
+
+
+=  
+)
+(Savings
+SE
+N 
+ 
+ 
+ 
+ 
+        
+ 

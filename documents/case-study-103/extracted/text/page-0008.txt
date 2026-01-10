@@ -1,0 +1,144 @@
+Package RTU #1
+Package RTU #7
+Package RTU #12
+Energy Science Division
+Baseline & Energy Reporting (Post) Periods
+The identical IPMVP following data points were recorded for Baseline and Post on 6/26/13 and 9/5/13 
+respectively using recently NIST-calibrated devices to insure measurement accuracy. In all tests the outside 
+air temperatures as well as the wet and dry bulb temperatures entering the coil were very similar in both 
+periods so no adjustments to the data was necessary. The measurements are as follows: 
+BASELINE
+POST
+Voltage  
+Amperage  
+Suction Refrig Temp
+Suction Refrig Pressure
+Discharge Refrig Temp
+Discharge Refrig Pressure
+Entering Air DB Temp  
+Leaving Air DB Temp  
+Entering Air WB Temp  
+Leaving Air WB Temp  
+CFM Across Coils
+Cooling Capacity (Tons) 
+Total WB Enthalpy Delta
+kW  
+kW/Ton 
+Calculated kWh
+COP 
+Outside Air Temp 
+466.6 V
+17.3 A
+35.5 F
+61.8 PSI
+112.6 F
+241.5 PSI
+72 F
+51.2 F
+62.3 F
+48.9
+2,623
+8.23  
+8.37
+11.87
+1.441
+47,880
+2.44
+84 F
+MEASUREMENT
+464 V 
+16.8 A 
+ 35.9 F
+ 62.8 PSI
+ 114 F
+245 PSI
+ 72.1 F
+ 49.4 F
+62.3 F
+46.1 F
+2,620
+ 9.69  
+9.86
+11.46
+1.183
+38,068
+2.97
+84 F
+BASELINE
+POST
+467.8 V
+18.3 A
+42.85 F
+71.9 PSI
+116.25 F
+254.3PSI
+72.6 F
+54.3 F
+63.4 F
+51.8
+3,065
+8.68  
+7.55
+12.58
+1.450
+50,778
+2.43
+84 F
+468 V 
+18.2 A 
+ 42.2 F
+ 71.3 PSI
+ 114.5 F
+241 PSI
+ 73 F
+ 52.9 F
+63.8 F
+49.5 F
+3,031
+ 10.38  
+9.13
+12.52
+1.207
+40,627
+2.91
+84 F
+BASELINE
+POST
+467.6 V
+18.2 A
+41.85 F
+71.05 PSI
+111.7 F
+231.5 PSI
+71.9 F
+58.2 F
+62.2 F
+53.8
+3,580
+7.37  
+5.49
+12.51
+1.697
+50,479
+2.07
+82 F
+468 V 
+17.5 A 
+ 41.35 F
+ 70.6 PSI
+ 114.5 F
+239 PSI
+ 72.5 F
+54.2 F
+63.2 F
+51.7 F
+3,535
+ 9.89  
+7.46
+12.04
+1.217
+31,977
+2.89
+82.4 F
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

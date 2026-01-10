@@ -1,0 +1,301 @@
+	
+  	
+  EXECUTIVE	
+  SUMMARY	
+  
+Average	
+  efficiency	
+  improvements	
+  per	
+  system	
+  
+Salas	
+  #1	
+  (VIP	
+  2)	
+  
+kW/Ton	
+  
+Capacity-­‐
+Tons	
+  
+COP	
+  
+EER	
+  
+Baseline	
+  11-­‐24	
+  May	
+  2017	
+  
+1.58	
+  
+8.67	
+  
+2.22	
+  
+7.58	
+  
+Post	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  1-­‐14	
+  Aug	
+  2017	
+  
+1.35	
+  
+9.71	
+  
+2.61	
+  
+8.91	
+  
+*Improvement	
+  %
+14.6%	
+  
+12%	
+  
+17.6%	
+  
+17.5%	
+  
+*Limited	
+  runtime	
+  on	
+  circuit	
+  2	
+  has	
+  limited	
+  the	
+  required	
+  gestation	
+  of	
+  PermaFrost	
+  NMR	
+  into	
+  that	
+  circuit.	
+  Full	
+  system
+improvements	
+  will	
+  be	
+  realized	
+  after	
+  300+	
+  runtimes	
+  hours	
+  are	
+  achieved	
+  on	
+  circuit	
+  2	
+  
+Salas	
+  #2	
+  (VIP	
+  1)	
+  
+kW/Ton	
+  
+Capacity-­‐
+Tons	
+  
+COP	
+  
+EER	
+  
+Baseline	
+  11-­‐24	
+  May	
+  2017	
+  
+2.01	
+  
+7.85	
+  
+1.75	
+  
+5.96	
+  
+Post	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  1-­‐14	
+  Aug	
+  2017	
+  
+1.35	
+  
+9.54	
+  
+2.61	
+  
+8.89	
+  
+*Improvement	
+  %
+32.8%	
+  
+21.5%	
+  
+49.1	
+  %	
+  
+49.2%	
+  
+*Limited	
+  runtime	
+  on	
+  circuit	
+  2	
+  has	
+  limited	
+  the	
+  required	
+  gestation	
+  of	
+  PermaFrost	
+  NMR	
+  into	
+  that	
+  circuit.	
+  Full	
+  system
+improvements	
+  will	
+  be	
+  realized	
+  after	
+  300+	
+  runtimes	
+  hours	
+  are	
+  achieved	
+  on	
+  circuit	
+  2	
+  
+1.
+Introduction
+Customer	
+  tested	
+  from	
+  26	
+  April	
+  2017	
+  to	
+  14	
+  August	
+  2017	
+  located	
+  in	
+  Morelia,	
+  Mexico 
+to	
+  verify	
+  Powertron	
+  Global’s	
+  PermaFrost	
+  NMR®	
+  energy	
+  efficiency	
+  improvement 
+effect	
+  on	
+  2	
+  x	
+  12.5a Ton	
+  package	
+  DX	
+  units	
+  refrigeration	
+  circuits.
+•
+Salas	
+  #1	
+  (VIP	
+  2)	
+  –	
+  Carrier	
+  50HJa 014a 651,	
+  Serial	
+  #	
+  0308G20793
+•
+Salas	
+  #2	
+  (VIP	
+  1)	
+  - Carrier 50HJ-014-651,	
+  Serial	
+  #	
+  0308G20792
+•
+Both	
+  units	
+  were	
+  Manufactured	
+  in	
+  2008
+•
+Both	
+  units	
+  are	
+  equipped	
+  with	
+  Ra 22	
+  Refrigerant
+The	
+  testing	
+  included	
+  monitoring	
+  both	
+  RTUs	
+  operation	
+  before	
+  and	
+  after	
+  (PRE	
+  and	
+  
+POST)	
+  PermaFrost	
+  NMR®	
+  treatment	
+  to	
+  verify	
+  the	
+  amount	
+  of	
+  cooling	
+  capacity	
+  (tons)	
+  
+restoration	
+  and	
+  the	
+  resultant	
+  kW/ton	
+  energy	
+  savings	
+  improvement.	
+  	
+  

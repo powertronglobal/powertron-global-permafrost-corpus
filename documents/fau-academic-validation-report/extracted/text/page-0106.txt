@@ -1,0 +1,41 @@
+6        Principles of M&V 
+ 
+CHAPTER 3   PRINCIPLES OF M&V 
+ 
+The fundamental principles of good M&V5 practice are described below, in alphabetical order. 
+Accurate  M&V reports should be as accurate as the M&V budget will allow. M&V costs should 
+normally be small relative to the monetary value of the savings being evaluated. M&V 
+expenditures should also be consistent with the financial implications of over- or under-reporting 
+of a project’s performance. Accuracy tradeoffs should be accompanied by increased 
+conservativeness in any estimates and judgements.  
+Complete  The reporting of energy savings should consider all effects of a project. M&V 
+activities should use measurements to quantify the significant effects, while estimating all 
+others.  
+Conservative  Where judgements are made about uncertain quantities, M&V procedures 
+should be designed to under-estimate savings.  
+Consistent  The reporting of a project’s energy effectiveness should be consistent between: 
+ 
+different types of energy efficiency projects; 
+ 
+different energy management professionals for any one project; 
+ 
+different periods of time for the same project; and 
+ 
+energy efficiency projects and new energy supply projects. 
+‘Consistent’ does not mean ‘identical,’ since it is recognized that any empirically derived report 
+involves judgements which may not be made identically by all reporters. By identifying key 
+areas of judgement, IPMVP helps to avoid inconsistencies arising from lack of consideration of 
+important dimensions. 
+Relevant The determination of savings should measure the performance parameters of 
+concern, or least well known, while other less critical or predictable parameters may be 
+estimated.  
+Transparent  All M&V activities should be clearly and fully disclosed. Full disclosure should 
+include presentation of all of the elements defined in Chapters 5 and 6 for the contents of an 
+M&V Plan and a savings report, respectively. 
+The balance of this document presents a flexible framework of basic procedures and four 
+Options for achieving M&V processes which follow these fundamental principles. Where the 
+framework is silent or inconsistent for any specific application, these M&V principles should be 
+used for guidance. 
+ 
+                                                  
+5 Words in italics have the special meanings defined in Chapter 9. 

@@ -1,0 +1,60 @@
+The post DB temperature (72 deg. F) entering the coil was matched exactly to the baseline period. After 
+matching this temperature the post readings were taken to ensure that the work the coil had to do was as 
+close as possible to the baseline. The post amperage was also normalized for the OAT difference. The OAT 
+or outdoor air temperature was 5.33% or 4 degrees F higher in the Energy Reporting Period (post).
+**Please note that the design entering condenser water temperatures for this equipment as recorded during the baseline 
+and avoided energy reporting periods were not in accordance with design. This accounts for increased capacity over 
+design as detailed in the calculated analysis of the measured and verified data for both the baseline and the avoided 
+energy reporting periods. Please see the Conclusion/Notes at the end of the report for further details.
+Energy Science Division
+POST
+BASELINE
+Voltage
+Amperage
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Entering Air Temp DB
+Leaving Air Temp DB
+Entering Air Temp WB
+Leaving Air Temp WB
+Actual CFM
+Actual Coil Capacity Btuh / Tons
+Enthalpy Delta
+Calculated Watts
+Calculated Watts per Ton
+Entering Condenser Tower Water 
+Outdoor Air Temp (OAT)
+207.23 V
+52.63 A
+34.5 deg F
+ 107.2 deg F
+ 72 deg F
+52.8 deg F
+61.6 deg F
+48.7 deg F
+5,780.5 CFM
+207,758 Btuh / 17.31 Tons
+7.98 
+16,032.6 
+926 
+78.3 deg F
+75 deg F 
+208.8 V
+49.19 A 
+32.9 deg F
+106.2 deg F
+72 deg F
+50.5 deg F
+62.5 deg F
+47.4 deg F
+5780.1 CFM
+242,627 Btuh / 20.22 Tons
+9.32
+15,098.9
+747 
+78.0 deg F
+79 deg F 
+MEASUREMENT
+**
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

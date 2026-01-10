@@ -1,0 +1,49 @@
+ 
+ 
+ 
+All	  measurement	  hardware	  sensors	  used	  were	  certified	  under	  NIST	  or	  CE	  
+standards.	  	  
+The	  resultant	  data	  was	  extracted	  every	  five	  (5)	  seconds	  from	  the	  specific	  
+parameters	  measured	  during	  normal	  operating	  hours	  from	  8:00am	  to	  11:00pm.	  	  It	  
+was	  then	  applied	  to	  industry	  best	  practice	  engineering	  formulae	  developed	  by	  
+AHRI	  /	  ASHRAE	  (American	  Heating	  and	  Refrigeration	  Institute	  /	  American	  Society	  
+of	  Heating	  Refrigeration	  &	  Air	  Conditioning	  Engineers)	  for	  comparison:	  
+	  
+Kilo-­‐watt	  (kW)	  =	  Volts	  (V)	  x	  Amps	  (A)	  x	  Power	  Factor	  (PF)	  x	  √3	  /	  1000	  
+British	  Thermal	  Units	  (BTU)	  =	  CFM	  x	  4.5	  x	  Enthalpy	  Delta	  	  
+Capacity	  /	  Tons	  =	  BTU	  /	  12,000	  
+Kilo-­‐watt	  per	  Ton	  (kW/Ton)	  =	  kW	  Energy	  /	  Tons	  (capacity)	  
+Co-­‐Efficient	  of	  Performance	  (COP)	  =	  12/kW	  per	  ton/	  3.412	  
+Energy	  Efficiency	  Ratio	  (EER)	  =	  BTU	  /	  Watts	  
+	  
+During	  regular	  business	  hours,	  outdoor	  air	  temperature	  entering	  the	  air-­‐cooled	  
+condenser	  coils	  of	  both	  RTUs	  varies	  significantly.	  Accordingly,	  pre	  or	  baseline	  and	  
+post	  analysis	  and	  comparison	  of	  improved	  capacity	  is	  across	  a	  twenty	  (20)	  degree	  
+temperature	  span	  (65ºF-­‐85ºF)	  for	  kW	  per	  Ton,	  COP	  and	  EER.	  
+	  
+Please	  see	  the	  diagram	  below	  outlining	  the	  sensor	  placement	  and	  a	  general	  layout	  
+of	  the	  measurement	  &	  verification	  kits	  used	  on	  each	  RTU	  to	  determine	  capacity:	  
+	  
+	  
+C
+E
+E
+E
+E
+T
+outdoor air
+temperature
+sensor
+compressor on/off
+detection section
+CFM sensor
+evaporator outlet
+enthalpy sensor
+evaporator inlet
+enthalpy sensor
+evaporator inlet
+enthalpy sensor
+T
+outdoor air
+temperature
+sensor

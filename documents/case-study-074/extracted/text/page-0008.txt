@@ -1,0 +1,159 @@
+8
+Type of Measurement
+Voltage
+Amperage
+Suction Temperature
+Discharge Temperature
+Suction Pressure
+Discharge Pressure
+Entering Air DB
+Leaving Air DB
+Entering Air WB
+Leaving Air WB
+Enthalpy of Entering WB
+Enthalpy of Leaving WB
+Delta-T of Enthalpy
+kW / Ton
+Actual Tons
+Unit CFM
+OAT
+Ocean Club
+5460
+Baseline
+200
+5.2
+N/A
+N/A
+N/A
+N/A
+76
+59.7
+68.1
+56.3
+32.50
+24.03
+8.47
+0.89
+0.99
+313
+84
+Ocean Club
+5460
+Post
+197.4
+5
+N/A
+N/A
+N/A
+N/A
+75.9
+58.1
+69
+55.6
+33.25
+23.59
+9.66
+0.73
+1.13
+313
+85
+Ocean Club
+5461
+Baseline
+200.6
+9.6
+N/A
+N/A
+N/A
+N/A
+73.1
+61.1
+66.5
+58.4
+31.23
+25.38
+5.85
+1.02
+1.61
+733
+84
+Ocean Club
+5461
+Post
+197
+9.2
+N/A
+N/A
+N/A
+N/A
+73.5
+58.4
+66.7
+56.7
+31.38
+24.29
+7.09
+0.78
+1.95
+733
+85
+MEASUREMENTS FROM Major Hotel Chain OCEAN CLUB
+Type of Measurement
+Voltage
+Amperage
+Suction Temperature
+Discharge Temperature
+Suction Pressure
+Discharge Pressure
+Entering Air DB
+Leaving Air DB
+Entering Air WB
+Leaving Air WB
+Enthalpy of Entering WB
+Enthalpy of Leaving WB
+Delta-T of Enthalpy
+kW / Ton
+Actual Tons
+Unit CFM
+OAT
+Resort Casino IT
+Baseline
+204.2
+8.9
+34
+105.2
+N/A
+N/A
+74.7
+51.2
+65.9
+50.9
+30.75
+20.8
+9.95
+1.80
+1.48
+397
+80
+Resort Casino IT
+Baseline
+203
+7.9
+33.6
+104.3
+N/A
+N/A
+74.8
+49
+65.4
+47.5
+30.37
+18.95
+11.42
+1.39
+1.70
+397
+80
+MEASUREMENTS FROM Major Hotel Chain RESORT
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

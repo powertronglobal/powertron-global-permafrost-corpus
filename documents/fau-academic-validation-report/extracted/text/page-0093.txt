@@ -1,0 +1,39 @@
+ 
+Acknowledgements       v 
+ 
+ ACKNOWLEDGEMENTS 
+ 
+The IPMVP is primarily maintained by the following volunteers. EVO appreciates their work in 
+receiving comments and developing changes for the 2011 edition. EVO appreciates the support 
+and commitments made by the employers of all EVO volunteers.  
+EVO Board of Directors (2012) 
+John Cowan, Chair (Canada), Environmental Interface Limited 
+Thomas Dreessen, Vice Chair (USA), EPS Capital  
+John Stephen Kromer,Treasurer and Immediate Past Chair (USA), Independent Consultant 
+Anees Iqbal, Secretary (UK), Maicon Associates Ltd. 
+Timothy Hui (China), EcoTech International (ETI) 
+Jin Ruidong (China), Chiana National Center of Housing and Settlement Department 
+Patrick Jullian (France), GIMELEC 
+Satish Kumar (India), Schneider-Electric 
+Tienan Li (China), Center for Industrial Energy Efficiency (CIEE) 
+Pierre Langlois (Canada), Econoler 
+Steve Schiller (USA), Schiller Consulting 
+IPMVP Committee (2012) 
+David Jump, Chair (USA,) Quantum Energy Services & Technologies, Inc. (QuEST) 
+Ellen Franconi, Vice-Chair (USA), Rocky Mountain Institute  
+Thomas Adams (USA), AFCESA 
+Raja Chirumamilla (USA), Sain Engineering Associates, Inc. 
+LJ Grobler (South Africa), Energy Cybernetics Pty Ltd. 
+Sami Khawaja (USA), Cadmus Group Inc.  
+David Korn (USA), Cadmus Group Inc. 
+Ken Lau (Canada), BC Hydro 
+Daniel Magnet (Switzerland), IBTECH 
+Fernando Milanez (Brazil), INEE 
+Tracy Phillips (USA), 7th Gen Energy Solutions 
+Phil Voss (USA), National Renewable Energy Lab 
+Kevin Warren (USA), Warren Energy Engineering 
+Lia Webster (USA), Portland Energy Conservation Inc. (PECI) 
+Raj Khilnani (India), Freelance Energy Consultant 
+Shankar Earni (USA), Lawrance Berkeley National Laboratory 
+Vilnis Vesma (UK), Degrees Days Direct Limited 
+Max Zhang (China), SGS-CSTC Standards Technical Services Co., Ltd. 

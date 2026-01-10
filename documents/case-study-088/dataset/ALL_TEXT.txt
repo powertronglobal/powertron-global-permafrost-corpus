@@ -1,0 +1,880 @@
+================================================================================
+DOCUMENT: Case Study 088
+DOC_ID: pdf_087
+SHA256: 525cc94cc881eede6fe07f022b955f009b0522189bd0a8f6c08106511c0596e8
+================================================================================
+
+═══ PAGE 001 ═══
+
+Energy Science Division
+®
+Major Gaming Company / HOLLYWOOD CASINO Healthcare System ALLER
+Study Date:
+      7 March 2014 – 17 June 2014
+Participants: 
+      Major Gaming Company
+      [Asst. General Manager],
+      Asst. General Manager 
+      Physical Plant Operations
+      [Client Representative],
+      Facilities Manager
+      [Client Representative],
+      Facilities Technician
+      Murphy Mechanical Services
+      Jeﬀ Gumm
+      Sr. Mechanical Engineer
+      Powertron Global
+      [Senior Energy Engineer],
+      Director of Engineering
+Location:
+      777 Casino Center Drive
+      St. Louis, MO
+Comprehensive HVAC/R Capacity Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 002 ═══
+
+®
+1
+HVAC/R Eﬃciency Report
+Purpose of Energy Eﬃciency Study
+The purpose of this study is to verify the industry wide problem of efficiency loss in HVAC/R as projected by 
+ASHRAE research and to quantify the amount of money wasted due to this loss. Many industry leading 
+organizations including ASHRAE project that all HVAC/R units degrade in capacity and efficiency as they age. 
+Thermal degradation is caused by a phenomenon that is present in all HVACR equipment that operates as a 
+vapor compression cycle associated with refrigerant and compressor lubricant. This thermal degradation is well 
+documented by the HVACR industry and the original equipment manufacturers (OEM’s). Thermal degradation 
+prevents units from operating at the original design efficiency, which leads to excessive run-times and additional 
+kWh consumption.
+The chiller in this study is representative of the portfolio of comfort cooling equipment operated by Penn 
+Gaming throughout their Hollywood Casino portfolio. If thermal degradation is present in this chiller, it is 
+present in the entire inventory of equipment. Energy waste can be calculated based on this equipment (portfolio 
+representation) and then accurately extrapolated across the entire inventory of equipment. 
+Similarly, if the lost efficiency of this chiller can be 
+restored, it would allow Major Gaming Company to keep it in 
+service longer without sacrificing performance or 
+energy consumption. It will also provide Penn 
+Gaming and Hollywood Casinos the flexibility of a 
+much wider window of time wherein to undertake 
+the costly capital expense of replacing it when it 
+does finally reach the end of its useful life.   
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 003 ═══
+
+®
+2
+Process
+This report contains specific information regarding the current performance profile of one of three main 
+chillers that support the Hollywood Casino St. Louis. 
+Detailed performance testing (outlined later in this report) was performed on the pilot chiller before and after 
+the installation of the PermaFrost NMR® to determine the impact on the three key elements that greatly affect 
+Major Gaming Company’s HVAC power bill as they relate to the original design specifications:
+ 
+ 
+1.  The cooling capacity the chiller is capable of producing after 17 years in service. 
+ 
+2.  The actual cost of power required to produce the amount of cooling tons the chiller is delivering as 
+ 
+     reflected in the kW/ton measurement. 
+ 
+3.  The thermal dynamic ability of the chiller to still perform at or close to operational design.
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) framework. The team was led by Penn 
+Gaming’s Facility Manager, [Client Representative] and [Client Representative], facilities technician. Also playing a key role in 
+the pilot was Murphy Mechanical Services’ Jeff Gumm, Sr. Mechanical Engineer and [Senior Energy Engineer], 
+Director of Engineering for Powertron Global.  The overall project was managed and directed by Joelle 
+Shearin, Asst. General Manager for Hollywood Casino St. Louis.  
+Engineering Notes 
+Both the baseline and post readings were taken at 90% load with incoming condenser water at 84 degrees and incoming 
+chilled water at 55 degrees, therefore no adjustments were made to the resulting data. Major Gaming Company’s management of the 
+chiller plant combined with the building load during the trial provided more than an adequate heat load on the facility to 
+ensure the chiller would remain running during the actual data collection period.  
+The chiller was tested over the span of nearly three months. During the trial the chiller experienced an unrelated oil seal 
+failure and loss of some oil & refrigerant. Oil samples from the chiller at the time of the seal failure revealed the oil was still 
+serviceable with no abnormalities present. Since PermaFrost NMR® had already had time to seat into the metal surfaces of 
+the heat exchanges, the chiller did not need to be retreated. Once put back into operation, the chiller was allowed to run for 
+an additional week before post readings were taken.
+The boundary of the testing was the chiller and nothing else, therefore confidence in the accuracy of the performance 
+calculations is very high.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 004 ═══
+
+®
+3
+Energy Conservation Method (ECM)
+The content detailed in this report will first demonstrate the ability of the pilot chiller to perform prior to the 
+PermaFrost NMR® (ECM) being installed, as well as illustrate the amount of thermal degradation due in large 
+part to thermal degradation within the heat exchangers (evaporator and condenser barrels).  The following report 
+produces the utilization of the IPMVP as the M&V plan. 
+The results were formulated by entering the data into the following applicable thermodynamic 
+engineering formulas:
+ 
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+• kW/Ton = kW / Actual Tonnage 
+ 
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+ 
+• Actual Cooling Tons per Hour = Evaporator GPM X 8.34 * 60 * Chilled Water Delta T / 12,000 BTU 
+ 
+• Refrigerant Approach = Supply Water Temp – Saturated Evaporator Temp (CH) 
+Notes 
+Following a diagnostic examination of the pilot equipment to determine the 
+operational condition of the systems, it was determined that the chiller had a 
+much higher volume of water flowing through it than design so the team 
+adjusted it downward to OEM specifications. With all other chiller 
+conditions deemed satisfactory, Baseline M&V data was collected and 
+recorded by the M&V team. 
+Three months after installation of the ECM, the M&V team returned to take 
+Post M&V measurements in the identical fashion as in the Baseline. The 
+delta of these measurements and associated calculations show the amount of 
+capacity restored.
+The collection of the data in both the baseline and post periods was collected 
+by Powertron Global and witnessed by Major Gaming Company’s facility technician.  
+Photographic evidence of the measurements is available upon request. The 
+measurements are listed below. 
+M&V team works to adjust flow rates through 
+the chiller’s evaporator and condenser barrels, 
+restoring them to York specifications before 
+recording all the baseline readings.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 005 ═══
+
+®
+4
+1,098 tons
+1,391 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The Chiller should be operating @ 1,500 tons of cooling capacity
+• The Chiller was operating @ 1,098 tons of cooling capacity prior to
+   installing ECM
+• The Chiller now has 293 tons of restored cooling capacity after ECM
+• The Chiller should be operating @ 7.0 COP or higher
+• The Chiller was operating @ 5.35 COP prior to the ECM
+   and 6.8 following the ECM
+• The COP of the Chiller was increased by 27.1%  following the ECM
+5.35
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+1,098
+tons Baseline
+100%
+CAPACITY @
+100% LOAD
+Baseline
+COP
+Post ECM
+COP
+5.35
+6.8
+6.8
+Post ECM COP
+1,391
+tons Post ECM
+27.1%
+Improvement
+in COP
+293
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of HVAC/R Eﬃciency Study Results
+Chiller Eﬃciency with PermaFrost NMR® ECM
+Major Gaming Company/Hollywood Casinos have the problem of thermal degradation in their HVAC/R units. The 
+lower baseline operating tonnage and COP ratings measured on site are in line with the ASHRAE loss of 
+performance and cost to operate numbers. The degraded equipment performance was costing Major Gaming Company 
+significant money and wasting energy. The equipment was using significantly more kWh to operate than it used 
+when it was new. 
+The performance summary includes the measured efficiency and tonnage of the chiller in the baseline and post 
+testing periods demonstrating the impact of thermal degradation. 
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 293 operating tons, an improvement 
+of 27.1% in Coefficient of Performance (COP) and a reduction in kW/ton of 21.4%, significantly reducing the 
+cost to operate the chiller throughout the year.
+The York chiller treated has a nominal capacity of 1,500 tons and 3,528 gallons per minute (GPM) flow through 
+the evaporator. The chiller used in this pilot was tested at 90% load with a GPM flow right near design after 
+adjusting on site prior to starting the baseline readings. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 006 ═══
+
+®
+Recovered
+Energy
+5
+Recovered Wasted Energy with PermaFrost NMR® -  Chiller
+The chart to the right illustrates the performance 
+restoration PermaFrost NMR® created in the treated 
+chiller. The average cost to operate this chiller before it 
+was treated, as calculated in kW/ton, was .658.
+The specific cost to operate this chiller after it was 
+treated with PermaFrost NMR®, as calculated in 
+kW/ton, is currently .517.
+The higher baseline kW/ton rating measured in-situ 
+was expected when compared to the ASHRAE loss of 
+performance efficiency and cost to operate estimate 
+for a 17 year old chiller. The post results are also in 
+line with the average improvement savings shown 
+over more than 120,000 installations globally.
+Cost to Operate
+Baseline
+Post ECM
+kW/ton
+.141   kw/ton
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+.658
+.517
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 007 ═══
+
+®
+6
+Chiller Eﬃciency Study Results
+Calculated Eﬃciency of Major Gaming Company Chillers Baseline and Post
+The chart below illustrates just how far off design the Major Gaming Company pilot chiller had degraded in terms of 
+efficiency over an average of 17 years of the heat exchange coils being in use. 
+The chiller was performing at an average of 73.2% of the original design efficiency when it was first installed. 
+The nominal design rated tonnage of the chiller is 1,500 tons. In actuality however, the chiller was only 
+producing 1,098 tons at the start of the pilot. The majority of the 26.8% efficiency loss in the chiller is directly 
+attributable to the thermal degradation of the heat exchange surfaces. This is due in large part to thermal degradation 
+creating an insulating barrier to heat transfer through the tube walls. 
+After the ECM was installed, the average efficiency in the chiller jumped up to 92.7% of design specifications or 
+1,391 tons.  This represents a 26.7% improvement in efficiency over the baseline numbers.  
+Original Design
+Eﬃciency
+ASHRAE Projected
+Eﬃciency Loss
+Over Time
+Actual Major Gaming Company
+Design Eﬃciency as
+Measured In-Situ
+Actual Major Gaming Company HVAC/R Operating Eﬃciency
+vs. ASHRAE Projected Eﬃciency Loss
+HVAC/R Eﬃciency %
+DESIGN EFFICIENCY
+20
+40
+60
+80
+100
+120
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Eﬃciency
+Improvement
+26.7%
+ 
+ 
+ 
+Age of HVAC/R Units
+Avg Age of
+Major Gaming Company
+Equipment
+17
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 008 ═══
+
+®
+7
+Chiller Eﬃciency Study Results
+Cost to Major Gaming Company to Operate the Chiller Baseline vs Post
+The next chart illustrates the just how much money the efficiency performance loss in the pilot chiller was 
+costing Major Gaming Company in the way of wasted energy each and every day they were operating prior to the ECM. 
+The average cost to operate the chiller as calculated in kW/ ton was .658 in the Baseline. When new, the 
+kW/ton rating for chillers like these usually range from .48 - .51 kW/ton. This means Major Gaming Company was paying 
+up to 27% more than design for the energy to run the chiller as a direct result of the baseline reduced level of 
+performance. These kW/ton ratings are very much in line with the ASHRAE loss of performance and cost to 
+operate numbers.
+  
+The restored average kW/ton rating for the chiller following the ECM is now .517. This represents a 21.4% 
+reduction in energy costs for the chiller from the baseline for every ton of cooling produced. It also brings down 
+the Major Gaming Company costs to operate the chiller to nearly what they were when the chiller was new.  
+The $45,919 in annual energy savings generated during the pilot have resulted in a payback period to Penn 
+Gaming of approximately 8.4 months. Over just a few years these accumulated savings will greatly reduce the 
+eventual CapEx costs to replace the chillers when they finally reach the end of their useful life.   
+Original Design
+Eﬃciency
+ASHRAE Projected
+Cost to Operate
+Over Time
+Actual Cost to
+Operate Major Gaming Company
+Systems As Is
+Operational Cost %
+Actual Major Gaming Company HVAC/R Operating Cost
+vs. ASHRAE Historical Performance
+-40
+-20
+00
+20
+40
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+ 
+ 
+ 
+EXPECTED COST
+Age of HVAC/R Units
+21.4%
+in Energy
+Savings
+Avg Age of
+Major Gaming Company
+Equipment
+17
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 009 ═══
+
+®
+Return On Investment
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the Major Gaming Company Chiller.
+Baseline Energy Consumption
+Baseline Tonnage: 1,098 tons
+Adjusted kW Baseline: .658 kW/ton * 1,391 tons = 915.3 kW
+Adjusted Baseline kWh: 915.3 kW * 2,927 Annual Operating Hrs = 2,679,083 kWh
+Revised Cost to Run Baseline: 2,679,083 kWh * $.08 = $214,327
+Post Energy Consumption
+kW Post: .517 kW/ton * 1,391 tons = 719.1 kW
+Annual kWh Post: 719.1 kW * 2,927 hours = 2,104,806 kWh
+Annual Cost Post: 2,104,806 kWh * .08 cents = $168,384
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $214,327 - $168,384 = $45,943
+Estimated Energy Savings Per Month: $45,943 / 12 = $3,829
+Return On Investment
+Cost of PermaFrost NMR® installed in the pilot chiller: $32,000
+Estimated ROI Period for Chiller: $32,000 / $3,829 = 8.4 months
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period for 
+Major Gaming Company for implementing the PermaFrost NMR®, a detailed Regression Analysis is used to calculate the true 
+energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended in 
+the Post Analysis Period or reduces the load. ROI comes from determining what the cost to run the systems was when 
+operating at the original energy profile to produce the newly restored amount of available tonnage capacity and then 
+subtracting the revised cost to run the systems at the same restored tonnage after the PermaFrostNMR® was installed. 
+This regression analysis is the most widely accepted method of accounting for the reduced number of hours or reduced load 
+the systems will now operate at due to the restored capacity. This restored capacity allows the systems to reach the internal 
+building set points with increased efficiency resulting in reduced compressor demand loading.
+8
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 010 ═══
+
+®
+.658
+POST
+BASELINE
+.517
+kW/ton
+REDUCTION
+21.4%
+REDUCTION
+REDUCTION
+POST
+BASELINE
+Calculated Annual kWh 
+21.4%
+26.7%
+POST
+BASELINE
+Chilled Water Delta
+IMPROVEMENT
+POST
+BASELINE
+5
+Refrigerant Approach
+84%
+7.5
+2,679,083
+2,104,806
+Key Results for Chiller with PermaFrost NMR® ECM
+York
+YKR4R4H2-DCC
+035-18644-000
+R22
+1,468
+2,927
+1996
+System Description
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+477.0
+1025.0
+44.8
+97.2
+45.6
+55.1
+84.9
+92.5
+9.5
+0.8
+718.7
+0.517
+1,390.5
+3510
+2,104,806
+90
+6.8
+90
+Energy Usage
+BASELINE
+POST
+Voltage
+Amperage 
+ 
+Saturated Suction Temperature 
+ 
+Discharge Refrigerant Temperature  
+Chilled Water Leaving Temp (Supply) 
+ 
+Chilled Water Entering Temp (Return) 
+ 
+Condenser Water Temp Entering Chiller 
+ 
+Condenser Water Temp leaving Chiller 
+ 
+Chilled Water Delta T 
+Refrigeration Approach 
+ 
+kW (V x A x 1.47) 
+ 
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Chiller GPM  
+Annual kWh (after regression analysis) 
+ 
+Chiller Load % During Testing 
+ 
+Coeﬃcient of Perfromance (COP)  
+O.A.T.
+484.0
+1015.0
+43.4
+91.4
+48.4
+55.9
+84.2
+92.3
+7.5
+5
+722.2
+0.658
+1,097.8
+3510
+2,679,083
+90
+5.35
+54
+9
+Notes
+The pilot chiller provides cooling to the main 
+Major Gaming Company/Hollywood Casino complex. 
+Given the facility load, the pilot chiller runs 
+approximately 2,927 hours or more annually  
+prior to the installation.
+0.8
+9.5
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 011 ═══
+
+®
+10
+CH
+12
+1,260
+3000
+$0.090
+0.0%
+Unit Type
+Unit Age
+Input Power kWE
+Annual Run Time Hours
+Current kWh Cost
+Annual kWh Cost Increase
+3,780,000
+6,437,340
+10,795,680
+$971,611
+kWh per Year
+Total Wated kWh
+Total kWh Saved
+Total Savings
+Accumulated
+Savings
+73,823
+148,327
+223,171
+298,015
+372,859
+447,703
+522,547
+597,391
+672,235
+747,079
+821,923
+896,767
+971,611
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+Accumulated
+kWh Saved
+820,260
+1,648,080
+2,479,680
+3,311,280
+4,142,880
+4,974,480
+5,806,080
+6,637,680
+7,469,280
+8,300,880
+9,132,480
+9,964,080
+10,795,680
+Cost
+Per kWh
+0.090
+0.090
+0.090
+0.090
+0.090
+0.090
+0.090
+0.090
+0.090
+0.090
+0.090
+0.090
+0.090
+Saved Costs
+Saved kWh
+Wasted kWh
+117,180
+226,800
+325,080
+408,240
+483,840
+555,660
+612,360
+661,500
+710,640
+748,440
+778,680
+808,920
+Eﬃciency
+Loss
+Unit Age
+3.1%
+6.0%
+8.6%
+10.8%
+12.8%
+14.7%
+16.2%
+17.5%
+18.8%
+19.8%
+20.6%
+21.4%
+21.7%
+21.9%
+22.0%
+22.0%
+22.0%
+22.0%
+22.0%
+22.0%
+22.0%
+22.0%
+22.0%
+22.0%
+22.0%
+820,260
+827,820
+831,600
+831,600
+831,600
+831,600
+831,600
+831,600
+831,600
+831,600
+831,600
+831,600
+831,600
+73,823
+74,504
+74,844
+74,844
+74,844
+74,844
+74,844
+74,844
+74,844
+74,844
+74,844
+74,844
+74,844
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Estimated Savings to Major Gaming Company for Treating 25-Facility Portfolio
+The 8.4-month ROI achieved during the pilot is slightly better than the average 10-12 month ROI PermaFrost 
+NMR® clients normally realize in similar aged chiller systems. The chart below illustrates the substantial 
+savings potential Major Gaming Company Corporate will realize by moving forward this summer with treating their 
+portfolio of HVACR equipment. The following simple assumptions were used in the calculations:
+ 
+• 12 year average age of HVAC equipment; 
+ 
+• 3,000 tons of cooling required per location split between two 1,500 ton chillers; 
+ 
+• Each chiller system runs 3,000 hours each year; 
+ 
+• Average cost of $.09 per kWh delivered across all 25 facilities;
+ 
+• Full cost to treat the chillers at each of 25 facilities is $64,000, totaling $1,600,000 
+Kilowatt Hours (kWh) Loss / Gain With / Without PermaFrost NMR® Treatment
+Savings indicated inside red circle equates to a 10.4 Month Project Payback for Major Gaming Company when treating 
+25 locations across the US. This is determined by dividing the $64,000 cost of treating the assumed two 
+1,500-ton chillers at each location with PermaFrost NMR® by the anticipated annual savings of $73,823 and 
+then multiplying the result by 12 months. 
+Savings indicated inside orange circle equates to an overall ROI for Major Gaming Company of 1,167% over the 
+remaining 10 years of projected useful system life across the 25-facility portfolio. This is determined by 
+dividing the projected 10 years of avoided cost savings of $18,676,975 spread across 25 facilities by the 
+$1,600,000 cost of treating the portfolio with PermaFrost NMR® and then multiplying the result by 100. 
+-25.00%
+-20.00%
+-15.00%
+-10.00%
+-5.00%
+0.00%
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+Wasted Portfolio
+Energy Costs
+Up to Now
+$579,361
+Future Avoided
+Energy Costs
+for Remaining  10 Years
+of Equipment Life
+$747,079
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 012 ═══
+
+®
+11
+If Major Gaming Company as a whole is operating at a net profit margin of 5%, the estimated 10 year savings across 25 
+facilities of $18,676,975 translates into $373,539,500 in gaming sales the Major Gaming Company facilities DO NOT have 
+to generate to maintain current performance levels. 
+Annual kWh Savings for 25 Major Gaming Company locations
+Annual Cost Savings for 25 Major Gaming Company locations
+Estimated Cost to Treat 25 Major Gaming Company locations
+Estimated 10-Yr Gaming Sales Avoided Across 25 Facilities
+Major Gaming Company Savings Value
+Portfolio Eﬀects of ECM
+20,506,500 kWh
+$1,845,575
+$1,600,000
+$373,539,500
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 013 ═══
+
+®
+2,978
+Passenger vehicles
+725
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+1,591,818
+Gallons of gasoline
+consumed
+15,194,937
+Pounds of coal burned
+annually
+32,899
+Barrels of oil
+consumed
+75.9
+Railcars worth
+of coal burned
+1,946
+Homes’ electricity use for
+one year
+12
+Major Gaming Company is Saving More than Just Energy Across Its 25 Facilities
+By treating their assumed 50-chillers with PermaFrost NMR® totaling 75,000 tons, based on the current 
+manner Major Gaming Company operates their chiller plants, it will save approximately 20,515,500 kWh per year and 
+all the costs associated with those savings. 
+From an environmental impact standpoint, Major Gaming Company and their entertainment facilities also benefit the 
+surrounding communities of St. Louis.  Imagine how great the environmental impact will be when Penn 
+Gaming moves forward with treating all their chillers.
+The 20,515,500 kWh saved per year equates to preventing 14,146 metric tons of greenhouse gas emissions 
+from being released or any of the following:
+Annual greenhouse emissions from:
+CO2 emissions from:
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+

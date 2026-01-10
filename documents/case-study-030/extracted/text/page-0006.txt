@@ -1,0 +1,38 @@
+Equating to a
+31.9% reduction
+.37 kW/Ton
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+5
+Recovered Unit Cost with ECM – Chiller#1
+The kW/ton is the standard Unit Cost in the HVAC 
+industry. It is the HVAC industry’s standard of 
+determining how much energy is required to create 1 ton 
+of cooling (i.e., conditioned air). When you reduce your 
+unit cost of cooling you are saving energy of how much 
+overall cooling you require.
+The chart to the right illustrates the performance 
+restoration the ECM created in the treated chiller. The 
+average cost to operate this chiller before it was treated 
+with PermaFrost NMR®, as calculated in kW/ton, was 
+1.16 kW/Ton.
+The specific cost to operate this chiller after it was 
+treated with PermaFrost NMR®, as calculated in 
+kW/ton, is currently .79 kW/Ton.
+The higher baseline kW/ton rating measured in-situ was 
+expected when compared to the ASHRAE loss of performance efficiency and cost to operate estimate for a 
+27-year-old chiller utilizing R-123 refrigerant. The post results are also in line with the average 
+improvement savings shown over more than 130,000 installations globally.
+Cost to Operate
+kW/ton
+Baseline
+Post ECM
+1.16
+.79
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

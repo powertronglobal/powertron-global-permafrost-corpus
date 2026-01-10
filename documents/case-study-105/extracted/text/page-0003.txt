@@ -1,0 +1,63 @@
+ 
+ 
+Preview 
+ 
+The aim of this report is to determine the effects of PermaFrost upon a NEW Split type air 
+conditioning system for manufacturer Major OEM Electronics A in an effort to introduce PermaFrost into the 
+manufacturing process, at assembly line production on new equipment designed for local 
+and global export markets. 
+ 
+Methodology 
+ 
+A Major OEM Electronics A Psychrometric Facility for Whole Performances Verification (Type Testing) on Multi‐
+room air conditioners with air‐cooled condenser, according to the Air Enthalpy Method, was 
+used to determine the effects of PermaFrost. 
+ 
+The testing pattern and accuracy meet the requirements of the following standards: 
+ GT/T7725‐1996, 
+ ANSI/ASHRAE58, 
+ ISO5151 
+ 
+Air‐Condition Test Record (7# Room B) 
+Ref. NO. : 
+64RGZAQT09080801  Voltage (V): 
+230V 
+Current (A): 
+/ 
+Work Condition T1  Unit: oC 
+Indoor NO. : 
+1# 
+Watt (W): 
+/ 
+Power: 
+1 Phase 
+Indoor DB         Outdoor DB 
+27.00                 35.00 
+ 
+ 
+Cooling Cap 
+(W) 
+/ 
+Heating Cap (W) 
+/ 
+Outdoor NO. : 
+1# 
+Air Flow: 
+/ 
+Freon Charge: 
+R410A 
+Indoor WB         Outdoor 
+WB 
+19.00                 24.00 
+Model: 
+KFR‐64GW/Z 
+Pressure: 
+/ 
+Capillary: 
+ 
+COND/EVAP. : 
+Major OEM Electronics A 
+Compressor: 
+/ 
+Muzzle (mm): 100 
+ 

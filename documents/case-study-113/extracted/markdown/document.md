@@ -1,0 +1,5232 @@
+# Data Center Provider A_NYC2.pdf
+
+Energy Science Division
+
+®
+
+Data Center Provider
+
+NYC2 Facility: 35 Computer Room Air Conditioning (CRAC) Units
+
+Study Date:
+     August 12 – September 2, 2015
+
+Participants:
+      Data Center Provider
+      [Regional Operations Manager]
+      Regional Operations Manager NYC2
+
+[Operations Support Manager, CDCDP]
+      Operations Support Manager
+
+[Client Representative]
+      Functional Support Director
+
+[Client Representative]
+      Sr. Data Center Manager NYC2
+
+[Engineering Services Rep]
+      Engineering Services
+
+Powertron Global (PTG)
+      [Senior Energy Engineer]
+      Director of Engineer
+
+[Director Global Business] 
+      Director Global Business
+
+Comprehensive HVAC/R Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+1
+
+HVAC/R Eﬃciency Report
+
+Purpose of Energy Eﬃciency Study
+
+The purpose of this jointly-conducted ECM study between Data Center Provider (now owned by Data Center REIT) and PTG
+
+engineering teams was threefold. First, to verify the current as-is capacity and efficiency of 35 various
+
+Computer Room Air Conditioning (CRAC) systems supporting the five Data Center Provider data center suites within the
+
+[Commercial Building] located at [Building Address] in New York, NY. Second, to demonstrate what, if any, material
+
+performance changes occur in these same cooling units after being treated with PermaFrost NMR® ECM. And
+
+third, to determine what, if any, financial benefits are associated with any efficiency improvements realized.
+
+The identification of CRAC units involved in the study are recorded in Appendix A.
+
+ECM Product Brief
+
+PermaFrost NMR® is a multi-patented surface science nanotechnology that uses Nucleo Molecular
+
+Regenerative (NMR®) technology as its core agent. A sustainable, one-time treatment with no down time
+
+required, PermaFrost NMR® lasts for the remaining life of any type of climate control system in which it is
+
+installed.  The direct benefits of PermaFrost NMR® are improved cooling efficiency and increased capacity,
+
+both of which result in lower overall costs to operate a system and extended equipment life.
+
+Methodology
+
+After determining the amount of air flowing across the evaporator coil was within 20% of manufacturer design
+
+(higher or lower) before beginning the testing of each unit, the subsequent measurements used in the efficiency
+
+calculations were collected and compiled in accordance with the IPMVP (International Measurement and
+
+Verification Protocol) framework.
+
+The results presented below were formulated by entering the data into the following thermodynamic
+
+engineering formulas:
+
+• kW = (Volts * Amps * Power Factor of 1.47)/1000 (for 3-Phase)
+
+• kW/Ton = kW / Actual Tonnage
+
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+
+• EER = Capacity in BTU’s / Power in Watts
+
+• Actual Cooling Tons per Hour = (Measured CFM * 4.5 * Enthalpy Delta T) / 12,000 BTU
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+in Recovered
+Energy, Equating
+to a 21.5%
+reduction
+
+.29 kW/Ton
+
+0.0
+
+0.3
+
+0.6
+
+0.9
+
+1.2
+
+1.5
+
+2
+
+Recovered Unit Cost with PermaFrost NMR® ECM
+
+The kW/ton is the standard Unit Cost  in the HVAC
+
+industry. It is the HVAC industry’s standard of
+
+determining how much energy is required to create 1 ton
+
+of cooling (i.e., conditioned air). When you reduce your
+
+unit cost of cooling you are saving regardless of how
+
+much overall cooling you require.
+
+Data Center Provider has the industry epidemic problem of thermal
+
+degradation in their Chillers and HVAC units. The
+
+degraded equipment performance is costing Data Center Provider
+
+significant operational dollars through wasted energy,
+
+and capital dollars through additional run time, work
+
+load, maintenance and replacement costs. The 35 NYC2
+
+CRAC units were found to be using significantly more
+
+energy to operate than when they were new, and lost
+
+capacity is wearing out units faster.
+
+The chart below illustrates the performance restoration the ECM created in the treated units. The average
+
+operational efficiency ratings of the 35 units before being treated with PermaFrost NMR®, as calculated in
+
+kW/ton, were 1.35.
+
+The average operational efficiency ratings of the 35 units after being treated with PermaFrost NMR®, as
+
+calculated in kW/ton, are currently 1.06. The higher baseline kW/ton ratings measured  in-situ were
+
+expected when compared to the ASHRAE predicted loss of operational performance efficiency for similar
+
+age and type cooling units.
+
+Cost to Operate
+
+kW/ton
+
+Baseline
+Post ECM
+
+1.35
+
+1.06
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+3
+
+741 tons
+
+924 tons
+
+Baseline
+Tonnage
+
+Post ECM
+Tonnage
+
+• The CRAC Units were operating @ 741 tons of cooling capacity prior to
+
+installing ECM
+
+• The Units now have 183 tons of restored cooling capacity after ECM
+
+equating to a 24.7% increase
+
+• The Units were operating @ 2.61 COP prior to the ECM
+
+and 3.32 following the ECM
+
+• The average COP of the Units was increased by 27.2%
+
+following the ECM
+
+2.61
+Baseline COP
+
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+741
+tons Baseline
+
+100%
+CAPACITY @
+100% LOAD
+
+Baseline
+COP
+
+Post ECM
+COP
+
+2.61
+
+3.32
+
+3.32
+Post ECM COP
+924
+tons Post ECM
+
+27.2%
+
+Improvement
+in COP
+183
+
+tons of
+Recovered
+Capacity
+
+TONNAGE
+COP
+
+Summary of Key Performance Measurements
+
+For All 35 Treated CRAC Units
+
+The charts below summarize the substantial improvements resulting from the implementation of the
+
+PermaFrost NMR® ECM into all 35 of the CRAC cooling units. The performance improvements are very similar
+
+to the 13 year historical performance averages in similar type equipment measured in the field. The results are
+
+also very much in line with the improvements demonstrated on DX equipment inside the control chamber at
+
+the Underwriters Laboratories HVAC testing facility in [Texas Location], TX.
+
+Measured Performance 21 Days Following Initial Treatment
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Summary of Other Performance Measurements
+
+The table below summarizes the substantial improvements resulting from the implementation of the
+
+PermaFrost NMR® ECM into the 35 NYC2 CRAC units.
+
+Images of Measurement Instruments and PermaFrost NMR® Installation
+
+4
+
+TYPE OF MEASUREMENT
+BASELINE
+
+1.35
+
+741
+
+9.33
+
+2.61
+
+1,003
+
+5,461,860
+
+$873,898
+
+POST
+
+1.06
+
+924
+
+11.84
+
+3.35
+
+979
+
+4,288,020
+
+$686,083
+
+RESULTS
+
+21.5% Reduction
+
+24.7% Increase
+
+26.9% Increase
+
+28.4% Increase
+
+2.4% Reduction
+
+1,173,840 Annual kWh Savings
+
+$187,815 Annual Energy Cost Savings
+
+Avg kW/Ton
+
+Total Capacity in Tons
+
+Avg EER
+
+Avg COP
+
+kW
+
+Annual KWh Usage
+
+Estimated Cost to Operate
+
+The full complements of detailed measurements are attached in Appendix B.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Energy Consumption & Financial Metrics
+
+The following are the final calculated average performance measurements following the PermaFrost NMR®
+
+Post measurement period for the 35 Data Center Provider CRAC cooling units.
+
+Baseline Energy Consumption
+
+Avg. Baseline Tonnage: 741 tons
+
+Avg. Adjusted kW Baseline: 1.35 kW/ton * 924 tons = 1,247 kW
+
+Avg. Adjusted Baseline kWh: 1,247 kW * 4,380 Annual Operating Hrs = 5,461,860 kWh
+
+Avg. Revised Cost to Run Baseline: 5,461,860 kWh * $.16 = $873,898
+
+Post Energy Consumption
+
+kW Post: 1.06 kW/ton * 924 tons = 979 kW
+
+Annual kWh Post: 979 kW * 4,380 hours = 4,288,020 kWh
+
+Annual Cost Post: 4,288,020 kWh * $.16 cents = $686,083
+
+Savings Per Year
+
+Avoided Energy Cost (savings) Per Year: $873,898 - $686,083 = $187,815
+
+Estimated Energy Savings per Month: $187,815 / 12 = $15,651
+
+Initial Payback Period
+
+Cost of PermaFrost NMR® installed in each of the 36 CRAC cooling units: $100,250
+
+Estimated ROI Period for Data Center Provider NYC2 on all 35 CRAC cooling units: $100,250 / $15,651 = 6.4 Months
+
+Annual Internal Rate of Return = 187%
+
+Return on Investment Over 10 Years = 1,873%
+
+Utilizing data collected during the pilot study, to obtain a true avoided energy cost and subsequent payback period for
+
+Data Center Provider for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy
+
+savings resulting from the improvement in both capacity and efficiency. Working together, these improvements reduce the
+
+annual kWh expended in the Post Analysis Period. The ROI comes from determining what the cost to run the avg cooling
+
+unit was when operating at the original energy profile to produce the newly restored amount of available tonnage capacity
+
+and then subtracting the revised cost to run the avg cooling unit at the same restored tonnage after the PermaFrostNMR®
+
+ECM was installed. This regression analysis is the most widely accepted method of accounting for the reduced number of
+
+hours or load % the unit will now operate at due to the restored performance profile. This restored performance profile
+
+allows the cooling unit to satisfy the internal area set point with increased efficiency resulting in reduced compressor
+
+demand loading.
+
+5
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Capital Beneﬁts for Data Center Provider when Implementing
+PermaFrost NMR®
+
+The capacity recovered after the PermaFrost NMR® treatment has substantial capital benefits including cost
+
+avoidance, deferred capital expense and capital improvement in addition to the reduced energy cost to run the
+
+systems. These are instantaneous benefits realized as soon as the technology is installed.
+
+Treating the 35 HVAC units with PermaFrost NMR® allows Data Center Provider to realize the following financial benefits:
+
+1. Restoration of 183 tons of HVAC Capacity: Current rate to purchase commercial rooftop HVAC
+
+capacity is ~ $1000 per ton installed.
+
+2. Deferred Capital Cost: Extending the remaining useful life of HVAC equipment will defer capital
+
+cost of replacement. The average age of the treated systems in the pilot is approximately 10 years
+
+with a conservative five years (30%) service life remaining. The systems will experience an estimated
+
+1-1.5 years of additional service life, deferring replacement costs by 20%.
+
+3. Reduction in Energy Use/Expense: Using a conservative 20% efficiency improvement measured in
+
+kw/ton, the annual cost to run treated systems will drop proportionally - independent of HVAC load.
+
+Summary
+
+Investment
+
+• $117.50 per ton installed x 802 tons   
+ 
+ 
+ 
+ 
+$    94,235
+
+Savings
+
+• Avoided cost of additional capacity replacement or redundency*  
+ 
+$  183,000
+
+• Deferred capital costs 
+ 
+ 
+ 
+ 
+ 
+ 
+$  160,400
+
+• Capital improvement deduction 
+ 
+ 
+ 
+ 
+ 
+$    54,900
+
+• Annual energy cost savings  
+ 
+ 
+ 
+ 
+ 
+$  187,815
+
+* this benefit comes at no additional cost to operate or maintain compared to turning on additional equipment.
+
+6
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+170
+
+Passenger vehicles
+
+41.5
+
+Garbage trucks of waste recycled
+instead of landﬁlled
+
+91,079
+
+Gallons of gasoline
+consumed
+
+869,412
+
+Pounds of coal burned
+annually
+
+1,882
+
+Barrels of oil
+consumed
+
+111
+
+Homes’ electricity use for
+one year
+
+7
+
+Data Center Provider is Saving More than Just Energy
+
+By treating just the 35 cooling units with PermaFrost NMR®, based on the manner in which the pilot units
+
+are currently being operated, Data Center Provider will save approximately 1,173,840 kWh per year and all the costs
+
+associated with those savings.
+
+From an environmental impact standpoint, Data Center Provider will benefit all the surrounding NYC communities in which
+
+they operate. Imagine the positive environmental impacts of treating the rest of the Data Center Provider and Data Center REIT
+
+portfolio of equipment spread across the world.
+
+The 1,173,840 kWh saved per year equates to preventing 809 metric tons of greenhouse gas emissions from
+
+being released or any of the following:
+
+Annual greenhouse emissions from:
+
+CO2 emissions from:
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Appendix A
+
+Data Center Provider HVAC Units - [Building Address]nue, NYC
+
+8
+
+SUITE #
+
+307
+
+307
+
+307
+
+307
+
+307
+
+307
+
+CRAC #
+
+3.1
+
+3.2
+
+3.3
+
+3.4
+
+3.5
+
+3.6
+
+MAKE
+
+Liebert
+
+Liebert
+
+Liebert
+
+Liebert
+
+Liebert
+
+Liebert
+
+MODEL #
+
+UH290AUAAM
+
+UH290AUAAM
+
+VH290AUAAEIS601
+
+VH290AUAAEIS601
+
+VS070KDA000928A
+
+VS070KDA000928A
+
+SERIAL #
+
+355861-002
+
+355861-001
+
+C08K100062
+
+304392-001
+
+C10L8H0005
+
+C10L8H0006
+
+TONNAGE
+
+24
+
+24
+
+24
+
+24
+
+20
+
+20
+
+MFG DATE
+
+1998
+
+1998
+
+2008
+
+2008
+
+2010
+
+2010
+
+Refrig Type
+
+R-22
+
+R-22
+
+R-22
+
+R-22
+
+R-407c
+
+R-407c
+
+SUITE #
+
+804
+
+804
+
+804
+
+804
+
+CRAC #
+
+8.1
+
+8.2
+
+8.3
+
+8.4
+
+MAKE
+
+Liebert
+
+Liebert
+
+Liebert
+
+Liebert
+
+MODEL #
+
+VE240GUAAEI
+
+VE240GUAAEI
+
+VE240GUAAEIS992
+
+VE240GUAAEIS992
+
+SERIAL #
+
+518052-001
+
+518052-002
+
+941992-002
+
+941992-001
+
+TONNAGE
+
+24
+
+24
+
+24
+
+24
+
+MFG DATE
+
+2001
+
+2001
+
+2007
+
+2007
+
+Refrig Type
+
+R-22
+
+R-22
+
+R-22
+
+R-22
+
+SUITE #
+
+524
+
+524
+
+524
+
+524
+
+524
+
+524
+
+524
+
+524
+
+524
+
+CRAC #
+
+5.1
+
+5.2
+
+5.3
+
+5.4
+
+5.5
+
+5.6
+
+5.7
+
+5.8
+
+5.9
+
+MAKE
+
+Liebert
+
+Liebert
+
+Liebert
+
+Liebert
+
+Liebert
+
+Liebert
+
+Liebert
+
+Liebert
+
+Liebert
+
+MODEL #
+
+DS105KUA000742A
+
+DS105KUA0E1744A
+
+DS105KUA000742A
+
+DS105KUA0E1744A
+
+DS105KUA000742A
+
+DS105KUA000742A
+
+DS105KUA000742A
+
+DS105KUA0E1744A
+
+DS105KUA000742A
+
+SERIAL #
+
+C10D8H0039
+
+C10D8H0044
+
+C10D8H0042
+
+C10D8H0045
+
+C10D8H0040
+
+C10D8H0037
+
+C10D8H0038
+
+C10D8H0043
+
+C10D8H0041
+
+TONNAGE
+
+30
+
+30
+
+30
+
+30
+
+30
+
+30
+
+30
+
+30
+
+30
+
+MFG DATE
+
+2010
+
+2010
+
+2010
+
+2010
+
+2010
+
+2010
+
+2010
+
+2010
+
+2010
+
+Refrig Type
+
+R-407c
+
+R-407c
+
+R-407c
+
+R-407c
+
+R-407c
+
+R-407c
+
+R-407c
+
+R-407c
+
+R-407c
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Appendix A
+
+Data Center Provider HVAC Units - [Building Address]nue, NYC
+
+9
+
+SUITE #
+
+1402
+
+1402
+
+1402
+
+1402
+
+1402
+
+1402
+
+1402
+
+1402
+
+1402
+
+1402
+
+CRAC #
+
+14.1
+
+14.2
+
+14.3
+
+14.4
+
+14.5
+
+14.6
+
+14.7
+
+14.8
+
+14.9
+
+14.10
+
+MAKE
+
+AirFlow
+
+Liebert
+
+AirFlow
+
+AirFlow
+
+Liebert
+
+AirFlow
+
+Liebert
+
+AirFlow
+
+Liebert
+
+Liebert
+
+MODEL #
+
+CCT15A4
+
+DS053ADA1E13135
+
+CCT15A4
+
+CCT15A4-UD
+
+VS053ADADE
+
+CCT15A
+
+DS053ADA1E1313S
+
+CCT15A
+
+DH245AUAAE1
+
+DH245AUAAOO
+
+SERIAL #
+
+015MD017
+
+C14C8E0151
+
+015MD015
+
+015MD019
+
+C14C8E0152
+
+015MD018
+
+C14C8E0150
+
+015MD014
+
+761801-002
+
+761801-001
+
+TONNAGE
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+20
+
+20
+
+MFG DATE
+
+1998
+
+2014
+
+1998
+
+1998
+
+2014
+
+1998
+
+2014
+
+1998
+
+2005
+
+2005
+
+Refrig Type
+
+R-22
+
+R-407c
+
+R-22
+
+R-22
+
+R-407c
+
+R-22
+
+R-407c
+
+R-22
+
+R-22
+
+R-22
+
+SUITE #
+
+1515
+
+1515
+
+1515
+
+1515
+
+1515
+
+1515
+
+1515
+
+1515
+
+CRAC #
+
+15.1
+
+15.2
+
+15.3
+
+15.4
+
+15.5
+
+15.6
+
+15.7
+
+15.8
+
+MAKE
+
+Liebert
+
+Liebert
+
+Liebert
+
+Liebert
+
+Liebert
+
+Liebert
+
+Liebert
+
+Liebert
+
+MODEL #
+
+VE240GAAEI
+
+VE240GAAEI
+
+VE240GAAEI
+
+VE240GAAEI
+
+VE116GAAEI
+
+VE116GAAEI
+
+VE240GAAEIS135
+
+VE240GAAEIS135
+
+SERIAL #
+
+371224-002
+
+371224-004
+
+371224-001
+
+371224-003
+
+371224-005
+
+371224-006
+
+940135-002
+
+940135-001
+
+TONNAGE
+
+20
+
+20
+
+20
+
+20
+
+10
+
+10
+
+20
+
+20
+
+MFG DATE
+
+1999
+
+1999
+
+1999
+
+1999
+
+1999
+
+1999
+
+2007
+
+2007
+
+Refrig Type
+
+R-22
+
+R-22
+
+R-22
+
+R-22
+
+R-22
+
+R-22
+
+R-22
+
+R-22
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Appendix B
+
+Suite # 307 Results / 4 Units
+
+10
+
+TYPE OF IMPROVEMENT MEASURE
+BASELINE
+
+4 UNITS
+
+1.32
+
+9.27
+
+113,966
+
+1,056,162
+
+POST
+
+1.08
+
+11.21
+
+110,555
+
+1,238,979
+
+IMPROVEMENT
+
+18.3%
+
+20.9%
+
+3,411
+
+182,817
+
+Avg kW/ton
+
+Avg Unit EER
+
+Total Power in Watts Reduction
+
+Total Capacity in BTUs Restored
+
+CRAC # 3.1
+BASELINE
+
+468
+
+40.5
+
+77.6
+
+56.7
+
+59.9
+
+49.1
+
+26.39
+
+19.81
+
+9,540
+
+27.86
+
+23.54
+
+1.18
+
+6.58
+
+20.9
+
+POST
+
+463.6
+
+39.4
+
+74.1
+
+51.6
+
+58.4
+
+45.4
+
+25.38
+
+17.85
+
+9,540
+
+26.85
+
+26.94
+
+1.00
+
+7.53
+
+22.5
+
+DELTA
+
+3.63%
+
+3.4
+
+15.79%
+
+14.44%
+
+7.66%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+CRAC # 3.2
+BASELINE
+
+468.0
+
+41.2
+
+77.4
+
+54.7
+
+60.7
+
+50.2
+
+26.94
+
+20.41
+
+9,480
+
+28.34
+
+23.21
+
+1.22
+
+6.53
+
+22.7
+
+POST
+
+462.6
+
+39.9
+
+78.0
+
+54.0
+
+62.9
+
+50.9
+
+28.50
+
+20.80
+
+9,480
+
+27.13
+
+27.37
+
+0.99
+
+7.70
+
+24
+
+DELTA
+
+4.27%
+
+4.2
+
+18.82%
+
+17.92%
+
+5.73%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Appendix B
+
+Suite # 307 Results / 4 Units
+
+11
+
+CRAC # 3.3
+BASELINE
+
+470.0
+
+39.0
+
+73.2
+
+53.6
+
+59.6
+
+49.4
+
+26.19
+
+19.97
+
+9,879
+
+26.95
+
+23.04
+
+1.17
+
+6.22
+
+19.6
+
+POST
+
+470.8
+
+36.1
+
+73.3
+
+53.1
+
+58.4
+
+46.7
+
+25.98
+
+19.37
+
+9,879
+
+24.98
+
+24.49
+
+1.02
+
+6.61
+
+20.2
+
+DELTA
+
+7.28%
+
+1.4
+
+12.75%
+
+6.27%
+
+3.06%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+CRAC # 3.4
+BASELINE
+
+470
+
+44.6
+
+74.3
+
+58.5
+
+60.1
+
+52.9
+
+26.53
+
+21.97
+
+10,653
+
+30.81
+
+18.22
+
+1.69
+
+4.56
+
+15.8
+
+POST
+
+470.2
+
+45.7
+
+73.3
+
+57.1
+
+60.1
+
+50.2
+
+26.53
+
+20.41
+
+10,653
+
+31.59
+
+24.45
+
+1.29
+
+6.12
+
+16.2
+
+DELTA
+
+-2.51%
+
+6.2
+
+23.62%
+
+34.21%
+
+2.53%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Appendix B
+
+Suite # 524 Results / 9 Units
+
+12
+
+TYPE OF IMPROVEMENT MEASURE
+BASELINE
+
+9 UNITS
+
+1.47
+
+8.28
+
+416,582
+
+3,447,271
+
+POST
+
+1.14
+
+10.57
+
+410,788
+
+4,340,060
+
+IMPROVEMENT
+
+22.6%
+
+27.7%
+
+5,794
+
+892,789
+
+Avg kW/ton
+
+Avg Unit EER
+
+Total Power in Watts Reduction
+
+Total Capacity in BTUs Restored
+
+CRAC # 5.1
+BASELINE
+
+469
+
+67.1
+
+79.7
+
+53.9
+
+61.7
+
+49.4
+
+27.64
+
+19.97
+
+12,240
+
+46.26
+
+35.21
+
+1.31
+
+7.67
+
+25.8
+
+POST
+
+468.7
+
+66.4
+
+79.9
+
+52.1
+
+61.9
+
+47.6
+
+27.78
+
+19
+
+12,240
+
+45.75
+
+40.30
+
+1.14
+
+8.78
+
+27.8
+
+DELTA
+
+1.11%
+
+5.1
+
+13.61%
+
+14.47%
+
+7.75%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+CRAC # 5.2
+BASELINE
+
+468
+
+67.1
+
+77.0
+
+52.2
+
+60.4
+
+49.0
+
+26.74
+
+19.75
+
+14,056
+
+46.16
+
+36.84
+
+1.25
+
+6.99
+
+24.8
+
+POST
+
+467.9
+
+67.2
+
+80.3
+
+54.8
+
+62.0
+
+49.1
+
+27.85
+
+19.81
+
+14,056
+
+46.22
+
+42.38
+
+1.09
+
+8.04
+
+25.5
+
+DELTA
+
+-0.13%
+
+5.5
+
+12.95%
+
+15.02%
+
+2.82%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Appendix B
+
+Suite # 524 Results / 9 Units
+
+13
+
+CRAC # 5.3
+BASELINE
+
+468.2
+
+68.5
+
+75.1
+
+56.6
+
+59.5
+
+50.9
+
+26.12
+
+20.80
+
+15,610
+
+47.15
+
+31.14
+
+1.51
+
+5.32
+
+18.5
+
+POST
+
+467.9
+
+66.5
+
+80.6
+
+57.8
+
+62.5
+
+52.6
+
+28.21
+
+21.79
+
+15,610
+
+45.74
+
+37.58
+
+1.22
+
+6.42
+
+22.8
+
+DELTA
+
+2.98%
+
+6.4
+
+19.60%
+
+20.68%
+
+23.24%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+CRAC # 5.4
+BASELINE
+
+466.8
+
+67.1
+
+78.2
+
+59.4
+
+61.0
+
+52.8
+
+27.15
+
+21.91
+
+13,695
+
+46.04
+
+26.91
+
+1.71
+
+5.24
+
+18.8
+
+POST
+
+468.5
+
+67.9
+
+80.0
+
+55.9
+
+62.4
+
+50.0
+
+28.14
+
+20.30
+
+13,695
+
+46.76
+
+40.26
+
+1.16
+
+7.84
+
+24.1
+
+DELTA
+
+-1.56%
+
+13.4
+
+32.12%
+
+49.62%
+
+28.19%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Appendix B
+
+Suite # 524 Results / 9 Units
+
+14
+
+CRAC # 5.5
+BASELINE
+
+464.7
+
+67.8
+
+77.5
+
+61.3
+
+60.8
+
+53.2
+
+27.01
+
+22.14
+
+14,973
+
+46.31
+
+27.34
+
+1.69
+
+4.87
+
+16.2
+
+POST
+
+468.1
+
+65.7
+
+79.5
+
+57.1
+
+62.1
+
+52.3
+
+27.92
+
+21.62
+
+14,973
+
+45.21
+
+35.37
+
+1.28
+
+6.30
+
+22.4
+
+DELTA
+
+2.39%
+
+8.0
+
+24.54%
+
+29.36%
+
+38.27%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+CRAC # 5.6
+BASELINE
+
+463
+
+69.3
+
+79.1
+
+59.3
+
+60.4
+
+52.1
+
+26.74
+
+21.50
+
+14,057
+
+47.17
+
+27.62
+
+1.71
+
+5.24
+
+19.8
+
+POST
+
+466.3
+
+67.0
+
+84.7
+
+59.1
+
+64.6
+
+53.4
+
+29.76
+
+22.26
+
+14,057
+
+45.93
+
+39.54
+
+1.16
+
+7.50
+
+25.6
+
+DELTA
+
+2.63%
+
+11.9
+
+31.97%
+
+43.13%
+
+29.29%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Appendix B
+
+Suite # 524 Results / 9 Units
+
+15
+
+CRAC # 5.7
+BASELINE
+
+469
+
+69.6
+
+79.3
+
+57.0
+
+60.5
+
+51.3
+
+26.81
+
+21.03
+
+13,987
+
+47.98
+
+30.32
+
+1.58
+
+5.78
+
+22.3
+
+POST
+
+468.3
+
+67.5
+
+82.0
+
+56.8
+
+63.4
+
+51.8
+
+28.87
+
+21.32
+
+13,987
+
+46.47
+
+39.60
+
+1.17
+
+7.55
+
+25.2
+
+DELTA
+
+3.16%
+
+9.3
+
+25.86%
+
+30.62%
+
+13.00%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+CRAC # 5.8
+BASELINE
+
+466
+
+64.9
+
+82.0
+
+57.9
+
+61.9
+
+51.8
+
+27.78
+
+21.32
+
+14,422
+
+44.46
+
+34.94
+
+1.27
+
+6.46
+
+24.1
+
+POST
+
+469.1
+
+63.9
+
+81.6
+
+56.8
+
+63.8
+
+51.6
+
+29.16
+
+21.2
+
+14,442
+
+44.06
+
+43.11
+
+1.02
+
+7.96
+
+24.8
+
+DELTA
+
+0.89%
+
+8.2
+
+19.67%
+
+23.22%
+
+2.90%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Appendix B
+
+Suite # 524 Results / 9 Units
+
+16
+
+CRAC # 5.9
+BASELINE
+
+470
+
+65.2
+
+81.2
+
+55.4
+
+61.4
+
+50.2
+
+27.43
+
+20.41
+
+14,036
+
+45.05
+
+36.95
+
+1.22
+
+7.02
+
+25.8
+
+POST
+
+467.3
+
+65.0
+
+81.2
+
+53.9
+
+63.0
+
+50.0
+
+28.57
+
+20.3
+
+14,036
+
+44.65
+
+43.53
+
+1.03
+
+8.27
+
+27.3
+
+DELTA
+
+0.88%
+
+6.6
+
+15.86%
+
+17.81%
+
+5.81%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Appendix B
+
+Suite # 804 Results / 4 Units
+
+17
+
+TYPE OF IMPROVEMENT MEASURE
+BASELINE
+
+4 UNITS
+
+1.04
+
+11.62
+
+93,909
+
+1,091,450
+
+POST
+
+0.83
+
+14.44
+
+93,106
+
+1,344,415
+
+IMPROVEMENT
+
+20.0%
+
+24.3%
+
+803
+
+252,965
+
+Avg kW/ton
+
+Avg Unit EER
+
+Total Power in Watts Reduction
+
+Total Capacity in BTUs Restored
+
+CRAC # 8.1
+BASELINE
+
+470
+
+31.3
+
+81.3
+
+58.5
+
+61.3
+
+51.4
+
+27.36
+
+21.09
+
+8,321
+
+21.63
+
+19.56
+
+1.11
+
+6.27
+
+22.8
+
+POST
+
+464.4
+
+31.6
+
+85.3
+
+60.9
+
+66.9
+
+54.2
+
+31.54
+
+22.74
+
+8,321
+
+21.57
+
+27.46
+
+0.79
+
+8.80
+
+24.4
+
+DELTA
+
+0.24%
+
+7.9
+
+28.92%
+
+40.35%
+
+7.02%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+CRAC # 8.2
+BASELINE
+
+469
+
+31.5
+
+82.0
+
+58.1
+
+61.9
+
+51.9
+
+27.78
+
+21.38
+
+9,772
+
+21.72
+
+23.45
+
+0.93
+
+6.40
+
+23.9
+
+POST
+
+468.4
+
+31.4
+
+82.8
+
+56.1
+
+63.1
+
+51.2
+
+28.64
+
+20.97
+
+9,772
+
+21.62
+
+28.11
+
+0.77
+
+7.67
+
+26.7
+
+DELTA
+
+0.44%
+
+4.7
+
+16.93%
+
+19.84%
+
+11.72%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+18
+
+CRAC # 8.3
+BASELINE
+
+467
+
+36.2
+
+76.5
+
+53.0
+
+59.7
+
+47.9
+
+26.26
+
+19.16
+
+9,638
+
+24.85
+
+25.66
+
+0.97
+
+7.10
+
+23.5
+
+POST
+
+465.9
+
+35.9
+
+78.9
+
+53.9
+
+60.4
+
+47.4
+
+26.74
+
+18.89
+
+9,638
+
+24.59
+
+28.37
+
+0.87
+
+7.85
+
+25
+
+DELTA
+
+1.06%
+
+2.7
+
+10.51%
+
+10.56%
+
+6.38%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+CRAC # 8.4
+BASELINE
+
+469
+
+37.3
+
+75.4
+
+53.1
+
+59.0
+
+47.9
+
+25.78
+
+19.16
+
+8,973
+
+25.72
+
+22.28
+
+1.15
+
+6.62
+
+22.3
+
+POST
+
+461.9
+
+37.3
+
+82.2
+
+56.6
+
+64.4
+
+51.7
+
+29.61
+
+21.26
+
+8,973
+
+25.33
+
+28.10
+
+0.90
+
+8.35
+
+25.6
+
+DELTA
+
+1.51%
+
+5.8
+
+21.92%
+
+26.13%
+
+14.80%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Appendix B
+
+Suite # 804 Results / 4 Units
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Appendix B
+
+Suite # 1402 Results / 10 Units
+
+19
+
+TYPE OF IMPROVEMENT MEASURE
+BASELINE
+
+10 UNITS
+
+1.33
+
+9.83
+
+182,495
+
+1,793,071
+
+POST
+
+1.00
+
+12.82
+
+175,094
+
+2,244,999
+
+IMPROVEMENT
+
+25.0%
+
+30.5%
+
+7,401
+
+451,928
+
+Avg kW/ton
+
+Avg Unit EER
+
+Total Power in Watts Reduction
+
+Total Capacity in BTUs Restored
+
+CRAC # 14.1
+BASELINE
+
+463.7
+
+26.2
+
+72.0
+
+52.8
+
+59.8
+
+50.1
+
+26.32
+
+20.36
+
+6,841
+
+17.86
+
+15.29
+
+1.17
+
+5.96
+
+19.2
+
+POST
+
+465.8
+
+26.2
+
+74.2
+
+53.6
+
+59.9
+
+46.5
+
+26.39
+
+18.42
+
+6,841
+
+17.94
+
+20.45
+
+0.88
+
+7.97
+
+20.6
+
+DELTA
+
+-0.45%
+
+5.2
+
+24.88%
+
+33.72%
+
+7.29%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+CRAC # 14.2
+BASELINE
+
+461
+
+25.7
+
+81.0
+
+67.0
+
+63.0
+
+58.3
+
+28.57
+
+25.32
+
+7,490
+
+17.42
+
+9.13
+
+1.91
+
+3.25
+
+14.0
+
+POST
+
+465.4
+
+22.0
+
+80.6
+
+64.5
+
+63.0
+
+56.1
+
+28.57
+
+23.9
+
+7,490
+
+15.05
+
+13.12
+
+1.15
+
+4.67
+
+16.1
+
+DELTA
+
+13.58%
+
+4.0
+
+39.86%
+
+43.69%
+
+15.00%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+20
+
+CRAC # 14.3
+BASELINE
+
+461
+
+25.8
+
+77.4
+
+55.5
+
+60.2
+
+50.6
+
+26.62
+
+20.58
+
+6,998
+
+17.48
+
+15.85
+
+1.10
+
+6.04
+
+21.9
+
+POST
+
+461.3
+
+25.3
+
+78.7
+
+53.2
+
+60.8
+
+48.5
+
+27.01
+
+19.48
+
+6,998
+
+17.16
+
+19.76
+
+0.87
+
+7.53
+
+25.5
+
+DELTA
+
+1.87%
+
+3.9
+
+21.29%
+
+24.67%
+
+16.44%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+CRAC # 14.4
+BASELINE
+
+462.6
+
+27.4
+
+71.2
+
+53.3
+
+58.3
+
+49.3
+
+25.32
+
+19.92
+
+7,457
+
+18.63
+
+15.10
+
+1.23
+
+5.40
+
+17.9
+
+POST
+
+463.8
+
+27.4
+
+73.7
+
+51.4
+
+60.9
+
+48.7
+
+27.08
+
+19.59
+
+7,457
+
+18.68
+
+20.94
+
+0.89
+
+7.49
+
+22.3
+
+DELTA
+
+-0.26%
+
+5.8
+
+27.72%
+
+38.70%
+
+24.58%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Appendix B
+
+Suite # 1402 Results / 10 Units
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+CRAC # 14.5
+BASELINE
+POST
+DELTA
+
+21
+
+463.2
+
+23.5
+
+70.3
+
+59.0
+
+58.3
+
+53.3
+
+25.32
+
+22.20
+
+6,122
+
+16.00
+
+7.16
+
+2.23
+
+3.12
+
+11.3
+
+464.9
+
+23.07
+
+70.0
+
+55.0
+
+58.4
+
+51.9
+
+25.38
+
+21.38
+
+6,122
+
+15.77
+
+9.18
+
+1.72
+
+4.00
+
+15
+
+1.47%
+
+2.0
+
+23.15%
+
+28.21%
+
+32.74%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM*
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+(*) taken at 70% fan
+
+CRAC # 14.6
+BASELINE
+
+461
+
+26
+
+76.0
+
+54.5
+
+64.7
+
+49.3
+
+29.84
+
+19.92
+
+5,832
+
+17.62
+
+21.70
+
+0.81
+
+9.92
+
+21.5
+
+POST
+
+464.7
+
+24.9
+
+78.3
+
+54.3
+
+65
+
+48.1
+
+30.06
+
+19.26
+
+5,832
+
+17.01
+
+23.62
+
+0.72
+
+10.80
+
+24
+
+DELTA
+
+3.46%
+
+1.9
+
+11.33%
+
+8.87%
+
+11.63%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Appendix B
+
+Suite # 1402 Results / 10 Units
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+22
+
+CRAC # 14.7
+BASELINE
+
+462
+
+22.4
+
+81.5
+
+64.9
+
+63.5
+
+54.4
+
+28.94
+
+22.86
+
+6,597
+
+15.21
+
+15.04
+
+1.01
+
+6.08
+
+16.6
+
+POST
+
+461.2
+
+17.2
+
+79.0
+
+58.5
+
+61.4
+
+50.9
+
+27.43
+
+20.8
+
+6,597
+
+11.66
+
+16.40
+
+0.71
+
+6.63
+
+20.5
+
+DELTA
+
+23.35%
+
+1.4
+
+29.71%
+
+9.05%
+
+23.49%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+CRAC # 14.8
+BASELINE
+
+461.2
+
+30.1
+
+75.4
+
+59.9
+
+61.6
+
+53.8
+
+27.57
+
+22.50
+
+6,800
+
+20.41
+
+12.93
+
+1.58
+
+5.07
+
+15.5
+
+POST
+
+465.5
+
+28.9
+
+78.1
+
+59.9
+
+62.2
+
+53.0
+
+27.99
+
+22.02
+
+6,800
+
+19.78
+
+15.22
+
+1.30
+
+5.97
+
+18.2
+
+DELTA
+
+3.09%
+
+2.3
+
+17.70%
+
+17.75%
+
+17.42%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Appendix B
+
+Suite # 1402 Results / 10 Units
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+23
+
+CRAC # 14.9
+BASELINE
+
+463.3
+
+31.2
+
+83.2
+
+65.8
+
+65.1
+
+56.7
+
+30.14
+
+24.29
+
+9,035
+
+21.25
+
+19.82
+
+1.07
+
+5.85
+
+17.4
+
+POST
+
+465.4
+
+30.04
+
+83.2
+
+63.8
+
+65.8
+
+55.2
+
+30.68
+
+23.34
+
+9,035
+
+20.55
+
+24.87
+
+0.83
+
+7.34
+
+19.4
+
+DELTA
+
+3.28%
+
+5.0
+
+22.92%
+
+25.47%
+
+11.49%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+CRAC # 14.10
+BASELINE
+
+461.3
+
+30.4
+
+79.6
+
+60.6
+
+61.2
+
+54.0
+
+27.29
+
+22.62
+
+9,939
+
+20.61
+
+17.41
+
+1.18
+
+4.67
+
+19.0
+
+POST
+
+462.9
+
+31.6
+
+79.8
+
+55.9
+
+61.6
+
+51.7
+
+27.57
+
+21.26
+
+9,939
+
+21.50
+
+23.52
+
+0.91
+
+6.31
+
+23.9
+
+DELTA
+
+-4.31%
+
+6.1
+
+22.80%
+
+35.12%
+
+25.79%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Appendix B
+
+Suite # 1402 Results / 10 Units
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Appendix B
+
+Suite # 1515 Results / 8 Units
+
+24
+
+TYPE OF IMPROVEMENT MEASURE
+BASELINE
+
+8 UNITS
+
+1.58
+
+7.68
+
+196,138
+
+1,505,461
+
+POST
+
+1.22
+
+10.17
+
+189,686
+
+1,928,360
+
+IMPROVEMENT
+
+22.7%
+
+32.4%
+
+6,452
+
+422,899
+
+Avg kW/ton
+
+Avg Unit EER
+
+Total Power in Watts Reduction
+
+Total Capacity in BTUs Restored
+
+CRAC # 15.1
+BASELINE
+
+470.4
+
+42.0
+
+75.0
+
+57.0
+
+58.8
+
+50.8
+
+25.25
+
+20.75
+
+10,532
+
+29.04
+
+17.77
+
+1.63
+
+4.50
+
+18.0
+
+POST
+
+469.5
+
+37.9
+
+75
+
+54.9
+
+59.3
+
+48.5
+
+25.98
+
+19.48
+
+10,532
+
+26.16
+
+25.67
+
+1.02
+
+6.50
+
+20.1
+
+DELTA
+
+9.93%
+
+7.9
+
+37.65%
+
+44.44%
+
+11.67%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+CRAC # 15.2
+BASELINE
+
+468
+
+38.4
+
+73.8
+
+59.1
+
+57.4
+
+50.5
+
+24.74
+
+20.58
+
+9,554
+
+26.42
+
+14.90
+
+1.77
+
+4.16
+
+14.7
+
+POST
+
+470.2
+
+38.4
+
+72.4
+
+56.2
+
+60
+
+50
+
+26.46
+
+21.70
+
+9,554
+
+26.54
+
+17.05
+
+1.56
+
+4.76
+
+16.2
+
+DELTA
+
+-0.47%
+
+2.1
+
+12.19%
+
+14.42%
+
+10.20%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+25
+
+CRAC # 15.3
+BASELINE
+
+467.0
+
+40.8
+
+75.0
+
+59.0
+
+59.6
+
+52.5
+
+26.19
+
+21.73
+
+10,573
+
+28.01
+
+17.68
+
+1.58
+
+4.46
+
+16.0
+
+POST
+
+467.2
+
+38.4
+
+77.7
+
+57.2
+
+61.9
+
+52.0
+
+27.78
+
+21.44
+
+10,573
+
+26.37
+
+25.14
+
+1.05
+
+6.34
+
+20.5
+
+DELTA
+
+5.84%
+
+7.5
+
+33.76%
+
+42.15%
+
+28.13%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+CRAC # 15.4
+BASELINE
+
+464
+
+39.5
+
+77.1
+
+57.7
+
+58.7
+
+50.2
+
+25.58
+
+20.41
+
+9,326
+
+26.94
+
+18.08
+
+1.49
+
+5.17
+
+19.4
+
+POST
+
+466.4
+
+40.0
+
+77.7
+
+56.5
+
+60.1
+
+50.6
+
+26.53
+
+20.64
+
+9,326
+
+27.42
+
+20.60
+
+1.33
+
+5.89
+
+21.2
+
+DELTA
+
+-1.79%
+
+2.5
+
+10.65%
+
+13.93%
+
+9.28%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Appendix B
+
+Suite # 1515 Results / 8 Units
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+26
+
+CRAC # 15.5
+BASELINE
+
+465.0
+
+20.3
+
+75.0
+
+61.3
+
+59.1
+
+53.7
+
+25.85
+
+22.44
+
+5,605
+
+13.88
+
+7.17
+
+1.94
+
+3.41
+
+13.7
+
+POST
+
+464.5
+
+19.7
+
+75.3
+
+60.3
+
+61.6
+
+54.9
+
+27.57
+
+23.16
+
+5,605
+
+13.45
+
+9.27
+
+1.45
+
+4.41
+
+15
+
+DELTA
+
+3.06%
+
+2.1
+
+25.04%
+
+29.33%
+
+9.49%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+CRAC # 15.6
+BASELINE
+
+467.3
+
+20.8
+
+74.8
+
+55.5
+
+59.3
+
+49.9
+
+25.98
+
+20.25
+
+5,256
+
+14.29
+
+11.29
+
+1.27
+
+5.73
+
+19.3
+
+POST
+
+466.9
+
+21.2
+
+75.4
+
+55.1
+
+60.1
+
+50.0
+
+26.53
+
+20.30
+
+5,256
+
+14.55
+
+12.28
+
+1.18
+
+6.23
+
+20.3
+
+DELTA
+
+-1.84%
+
+1.0
+
+6.34%
+
+8.73%
+
+5.18%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Appendix B
+
+Suite # 1515 Results / 8 Units
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+27
+
+CRAC # 15.7
+BASELINE
+
+468
+
+43.0
+
+80.9
+
+60.7
+
+62.0
+
+53.0
+
+27.85
+
+22.02
+
+9,099
+
+29.58
+
+19.89
+
+1.49
+
+5.83
+
+20.2
+
+POST
+
+467.6
+
+41.3
+
+81.4
+
+59.5
+
+66.5
+
+54.5
+
+31.23
+
+22.92
+
+9,099
+
+28.39
+
+28.35
+
+1.00
+
+8.31
+
+21.9
+
+DELTA
+
+4.04%
+
+8.5
+
+32.67%
+
+42.54%
+
+8.42%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+CRAC # 15.8
+BASELINE
+
+462
+
+41.2
+
+74.8
+
+54.1
+
+57.5
+
+48.0
+
+24.8
+
+19.21
+
+8,902
+
+27.98
+
+18.66
+
+1.50
+
+5.59
+
+20.7
+
+POST
+
+463.9
+
+39.3
+
+74.9
+
+53
+
+58.3
+
+46.9
+
+25.32
+
+18.63
+
+8,902
+
+26.80
+
+22.33
+
+1.20
+
+6.69
+
+21.9
+
+DELTA
+
+4.22%
+
+3.7
+
+19.97%
+
+19.68%
+
+5.80%
+
+Volts
+
+Amps
+
+Entering DB
+
+Leaving DB
+
+Entering WB
+
+Leaving WB
+
+Entering Enthalpy
+
+Leaving Enthalpy
+
+CFM
+
+kW
+
+Tons
+
+kW/Ton
+
+Enthalpy Delta
+
+Dry Bulb Delta in Degrees
+
+Appendix B
+
+Suite # 1515 Results / 8 Units
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,126 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2024 Powertron Global, LLC. 
+ 
+Introduction 
+ 
+The official baseline data-gathering period was performed from August 15 – 
+September 17, 2024 for all four sites to verify the current energy efficiency and 
+performance of eight (8) RTUs using Powertron Global’s FMV platform in 
+conjunction with its F2 devices utilizing the latest in Internet of Things (IoT) cloud-
+based reporting. It was determined to shift the baseline ~14-day period to later 
+portion of the baseline data capture period in order to have an enhanced 
+representative expression of heat load conditions in the pre & post data sets.  
+ 
+The installation of the PermaFrost NMR did not occur until September 18-19, 
+2024. The treated units were then allowed to operate/run as normal until the 
+required gestation (compressor runtime to achieve system circulation) was 
+achieved. Due to the seasons changing by November 1st and operational behavior 
+for some of the units, four of the eight units achieved enough runtime for product 
+seating and two of the eight units achieved enough runtime on only one 
+circuit/compressor. We expect full gestation at a later date on the remaining units. 
+The F2 monitored HVAC/R equipment information can be found below:  
+ 
+ 
+Site ID 
+Equip 
+ID 
+Make 
+ Model Number 
+Serial Number 
+Type 
+Year 
+Mfg. 
+Refrig.    
+Type 
+Nominal 
+Capacity 
+CK01 
+507 
+HVAC Equipment Manufacturer 
+WSC120E3R0A0
+RM0A1 
+164914039L 
+RTU 
+2016 
+R410 
+10 
+CK01 
+508 
+Carrier 
+50FCM12A2A5A
+0A0A0 
+0423P71958 
+RTU 
+2023 
+R410 
+10 
+CK02 
+509 
+HVAC Equipment Manufacturer 
+WSD150E3R0B0
+BM0C1A1 
+171911084D 
+RTU 
+2017 
+R410 
+12.5 
+Ck02 
+510 
+HVAC Equipment Manufacturer 
+WSC120E3R0A0
+SM0C1A1 
+170913357L 
+RTU 
+2017 
+R410 
+10 
+CK03 
+511 
+HVAC Equipment Manufacturer 
+WSC120E3R0A0
+RM0A1 
+163312074L 
+RTU 
+2016 
+R410 
+10 
+Ck03 
+512 
+HVAC Equipment Manufacturer 
+WSC120E3R0A0
+RM0A1 
+166312078L 
+RTU 
+2016 
+R410 
+10 
+CK04 
+513 
+HVAC Equipment Manufacturer 
+WSC120E3R0A0
+RM0A1 
+164111401L 
+RTU 
+2016 
+R410 
+10 
+CK04 
+514 
+HVAC Equipment Manufacturer 
+WSC120E3R0A0
+RM0A1 
+164111409L 
+RTU 
+2016 
+R410 
+10 
+ 
+4 Sites: 
+ 
+CK01 - 2704090 – 541 S HWY 46, New Braunfels, TX  
+CK02 - 2704091 – 9514 FM 78, Converse, TX 
+CK03 - 2704068 – 8002 FM 78, Converse, TX 
+CK04 - 2704076 – 5911 Gibbs Sprawl Rd., San Antonio, TX 
+ 
+ 

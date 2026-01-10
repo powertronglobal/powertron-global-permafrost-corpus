@@ -1,0 +1,49 @@
+{
+  "document_id": "case-study-138",
+  "title": "Big Box Retailer A DX M&V Report",
+  "source_file": "Big Box Retailer A",
+  "document_type": "engineering_analysis",
+  "page_count": 14,
+  "extraction_method": "pymupdf",
+  "extraction_date": "2026-01-07",
+  "client": {
+    "name": "Big Box Retailer A",
+    "industry": "Retail"
+  },
+  "location": {
+    "city": "Miami Gardens",
+    "state": "FL",
+    "country": "USA"
+  },
+  "equipment": {
+    "type": "Package DX",
+    "make": "Lennox",
+    "tonnage": 20,
+    "count": 2,
+    "refrigerant": "R-22",
+    "age_years": 9
+  },
+  "study_period": {
+    "baseline_start": "2017-02-06",
+    "baseline_end": "2017-02-13",
+    "post_start": "2017-03-07",
+    "post_end": "2017-03-14"
+  },
+  "results": {
+    "cop_improvement_pct": 21.9,
+    "kw_per_ton_baseline": 0.99,
+    "kw_per_ton_post": 0.81,
+    "has_control_unit": true
+  },
+  "certification": {
+    "methodology": "AHRI Standard M&V",
+    "pe_certified": false,
+    "engineer": "[Senior Energy Engineer], Forensic Mechanical Engineer"
+  },
+  "corpus_category": "engineering_analysis",
+  "stats": {
+    "chunks": 5,
+    "tokens": 5090,
+    "chars": 10965
+  }
+}

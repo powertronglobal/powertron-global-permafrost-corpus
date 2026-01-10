@@ -1,0 +1,60 @@
+9/23/2020
+Powertron Global
+https://fmv.powertronglobal.com/?obj=reports
+3/13
+Temperature
+Baseline kW/Ton
+Post kW/Ton
+% kwton change
+Baseline Number of Samples
+Post Number of Samples
+92
+2.06
+1.52
+26
+4030
+5490
+93
+2.05
+1.47
+28
+3849
+5536
+94
+2.15
+1.50
+30
+4252
+2838
+95
+2.15
+1.53
+29
+7816
+2128
+96
+2.12
+1.63
+23
+8492
+746
+97
+2.15
+1.95
+9
+11994
+289
+98
+2.19
+1.72
+21
+17447
+218
+99
+2.19
+2.54
+-16
+13641
+184
+       
+       

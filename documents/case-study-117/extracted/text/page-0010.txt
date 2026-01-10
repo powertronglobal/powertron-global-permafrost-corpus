@@ -1,0 +1,129 @@
+®
+.65
+POST
+BASELINE
+.54
+kW/ton
+REDUCTION
+16.9%
+REDUCTION
+REDUCTION
+POST
+BASELINE
+Calculated Annual kWh 
+16.9%
+20%
+POST
+BASELINE
+Chiller Water Delta
+IMPROVEMENT
+POST
+BASELINE
+6.5
+Refrigerant Approach
+61.5%
+4.5
+663,351
+551,092
+Key Results for Chiller with PermaFrost NMR® ECM
+2.5
+5.4
+9
+HVAC Equipment Manufacturer
+CVHE500
+L00B01487
+R123
+500
+4,380
+2000
+System Description
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+485.0
+175.0
+45.1
+89.8
+47.6
+53
+78.3
+82.8
+5.4
+2.5
+124.8
+0.54
+233
+1034
+551,092
+49
+6.57
+72
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Suction Refrigerant Temperature 
+ 
+Discharge Refrigerant Temperature  
+Chilled Water Leaving Temp (Supply) 
+ 
+Chilled Water Entering Temp (Return) 
+ 
+Condenser Water Temp Entering Chiller 
+ 
+Condenser Water Temp leaving Chiller 
+ 
+Chilled Water Delta T 
+Refrigeration Approach 
+ 
+kW (V x A x 1.47) 
+ 
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Chiller GPM  
+Annual kWh (after regression analysis) 
+ 
+Chiller Load % During Testing 
+ 
+Coeﬃcient of Perfromance (COP)  
+OAT 
+ 
+475.0
+180.0
+41.5
+90
+48
+52.5
+77.5
+81.8
+4.5
+6.5
+125.7
+0.65
+194
+1034
+663,351
+49
+5.43
+62
+Notes: The pilot chiller provides cooling to the main 
+Major US Telecom data center floors. It operates in tandem with 
+one of the other three chillers in the plant to share the 
+cooling load. In case of a chiller failure one of the chillers 
+can assume the entire load while another chiller is 
+brought online. Given the facility load, the pilot chiller 
+runs approximately 4,380 hours or more annually prior 
+to the ECM being implemented. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

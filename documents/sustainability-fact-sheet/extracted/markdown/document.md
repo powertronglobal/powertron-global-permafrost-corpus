@@ -1,0 +1,89 @@
+# Sustainability Fact Sheet
+
+---
+
+## Page 1
+
+ 
+    
+ 
+15402 Dexler Drive 
+Austin, TX 78734 
+info@powertronglobal.com 
+www.powertronglobal.com 
+ 
+Sustainability 
+ 
+ 
+Summary 
+ 
+Most customers are voluntarily reducing their carbon footprint. Municipalities 
+are starting to regulate GHG emission, require action and will fine operators 
+who fail to meet specified targets by deadlines, e.g., see NYC through Local Law 
+97. Regardless of motive, no one wants to waste 20%-30% of the energy 
+drawn by HVAC and exacerbate climate change. Yet, every untreated HVAC 
+unit does so. By 2050, HVAC will consume 25% of the world’s electricity (MIT 
+Study link).  
+ 
+Capacity Restoration Sustainability Impact 
+ 
+PermaFrost NMR® returns degraded equipment to ~OEM design cooling 
+efficiency. It permanently fixes the problem of oil migration. Restored cooling 
+capacity results in cooler air, shorter time to reach thermostat set-point, 
+reduced max peak energy draw and lower kWh usage. That’s good for the 
+machine, better for the planet and best for the operator.  
+ 
+The amount of decarbonization will depend on HVAC-intensity. Typical 
+customers draw 35%-50% of their energy to support HVAC during cooling 
+season. Given equivalent year/year workload, PermaFrost NMR® will reduce 
+total energy usage up-to 10%. If an operator optimizes the equipment once 
+capacity is restored, it will produce more energy savings. Depending on 
+equipment available, further optimization of a treated system may be 
+implemented to take advantage of the restored capacity.  
+ 
+Below are basic sustainability facts and links to sample customer impact 
+reports. 
+Measuring Sustainability Impact 
+ 
+• All HVAC systems operate by the same cooling principles 
+• ASHRAE has confirmed all systems lose 20%-30% cooling efficiency  
+
+
+---
+
+## Page 2
+
+ 
+    
+ 
+15402 Dexler Drive 
+Austin, TX 78734 
+info@powertronglobal.com 
+www.powertronglobal.com 
+ 
+ 
+ 
+• PermaFrost NMR® is a chemical process. Results of its molecular 
+reaction are the same each time it is injected into a HVAC system 
+• PermaFrost NMR® dislodges molecules affixed to metal surfaces that 
+degrade cooling efficiency. This permanently returns the machine to 
+~OEM design cooling capacity and efficiency 
+• Once capacity is restored, every ton of air conditioned thereafter 
+requires 20%-30% less energy than it did prior to treatment 
+• Each machine’s exact capacity loss and degree of restoration can be 
+measured before and after treatment 
+• ASHRAE also provides numerous studies that accurately predict cooling 
+capacity decline by unit/equipment type 
+• Long term effect on GHG emission can be calculated by the percentage 
+change in kW/ton or change in EER 
+• Annual effect can be calculated by year/year kWh usage comparison but 
+requires accounting for changes in workload and weather 
+• kWh avoided or saved, are translated to amount of CO2 displaced using 
+U.S. DOE guidelines 
+ 
+Sample Customer Impact Report (link)              
+ 
+Sample Engineering Report (link) 
+ 
+
+

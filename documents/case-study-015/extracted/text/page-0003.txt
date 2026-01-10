@@ -1,0 +1,22 @@
+Executive Summary
+This report contains specific information regarding the installation of PermaFrost NMR® in a York YKJH 
+water-cooled chiller owned by Pharma Company B located in [Connecticut Location].
+Eric Newhard (facility manager) and Tim Murphy, two Pharma Company B representatives, managed this pilot at this 
+location in [Connecticut Location].
+In summary, The Pharma Company B chiller in [Connecticut] 
+treated with the PermaFrost NMR® ECM showed 
+an 6.0% reduction in kW; a 18.6% (171 tons) 
+restoration of operating tonnage in required to 
+deliver set point; 20.7% reduction in kW/ton; an 
+26.3% improvement in COP; and a 11.1% 
+improvement in refrigerant approach.  These 
+results are highly significant.
+This pilot machine provides chilled water at the measured GPM and now delivers design chilled water 
+outlet set point temperature at reduced kWh while increasing tonnage per kW efficiency.  This allows the 
+chiller to produce more tonnage while consuming less energy.  The introduction of PermaFrost NMR® has 
+restored a significant amount of chilled water capacity to support this facility, which has resulted in much 
+lower operational costs.
+Based on the data collected, the return on investment (ROI) for this ECM is just 14.4 months.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

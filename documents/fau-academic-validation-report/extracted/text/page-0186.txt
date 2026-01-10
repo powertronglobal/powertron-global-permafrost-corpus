@@ -1,0 +1,14 @@
+86        Appendix A Examples 
+ 
+The input data for the as-built model was then changed to describe a building with the same 
+occupancy and location but which simply meets the building-code standard. This was called the 
+“standard model.” 
+The standard model’s monthly predicted energy use was adjusted by the monthly calibration 
+errors in Table A-9-1 to yield the “corrected-standard model.” Actual metered data for year 
+one was then subtracted from the corrected-standard model to yield the monthly savings. 
+Percentage savings were computed to prove eligibility for the government incentive.  
+Monetary savings were determined for the owner by applying the then current full utility rate 
+structure to the corrected standard model’s predicted monthly amounts. This total value was 
+compared to the total utility payments for year one. 
+The year one energy data became the basis for an Option C approach for subsequent years. 
+ 

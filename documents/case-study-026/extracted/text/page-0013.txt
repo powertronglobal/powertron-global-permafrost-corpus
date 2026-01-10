@@ -1,0 +1,108 @@
+.65
+POST
+PRE
+.59
+HVAC Equipment Manufacturer
+CVHF910
+L07E02337
+R-123
+910
+2036
+2007
+Make
+Model
+Serial Number
+Refrigerant Type
+Cooling
+Capacity kWR  
+Annual
+Runtime Hours
+Age
+kW/ton
+REDUCTION
+9.2%  
+IMPROVEMENT
+IMPROVEMENT
+POST
+PRE
+COP
+10.2%
+34.4%
+POST
+PRE
+Chiller Water Delta
+IMPROVEMENT
+POST
+PRE
+537.5
+OperatingTonnage
+35.1%
+9.3 deg F
+5.41
+5.96
+725.9
+12.5 deg F
+Key Results for Chiller 3B with PermaFrost NMR® ECM
+System Description
+12
+487.7
+591.7
+46.7
+89.7
+50.3
+62.8
+79.4
+89.7
+12.5
+3.6
+424.8
+0.59
+725.9
+1386
+95
+Energy Usage
+BASELINE
+POST
+Voltage 
+Amperage
+Saturated Suction Temperature 
+Discharge Refrigerant Temperature
+Chilled Water Leaving Temp (Supply)
+Chilled Water Entering Temp (Return)
+Condenser Water Temp Entering Chiller
+Condenser Water Temp Leaving Chiller
+Chilled Water Delta T
+Refrigeration Approach
+kW (V x A x PF x 1.732)/1000 
+kW / Ton 
+Operating Tons 
+Chiller GPM 
+OAT 
+ 
+**
+** Post tons normalized up or down .25% per degree due to post
+entering condenser water temp vs. baseline temp
+490.3
+483.3
+47.3
+86
+49.9
+59.2
+77.5
+86.1
+9.3
+2.6
+348.9
+0.65
+537.5
+1386
+80
+Notes
+The chiller provides cooling to the [Texas] 
+location. Given the facility load and the six 
+chillers comprising the plant, chiller 3B runs 
+approximately 2,036 hours or more annually 
+prior to the ECM being implemented.
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

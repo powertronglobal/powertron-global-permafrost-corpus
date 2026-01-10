@@ -1,0 +1,47 @@
+60        References 
+ 
+16. Brandemuehl, M. 1993. HVAC02: Toolkit: Algorithms and Subroutines for Secondary HVAC 
+Systems Energy Calculations, American Society of Heating, Ventilating, and Air 
+Conditioning Engineers, [Southeast Location], Georgia. 
+17. Bryant, J. and O'Neal, D. 1992. "Calibration of Relative Humidity Transducers for use in the 
+Texas LoanSTAR Program", Proceedings of the 1992 Hot and Humid Conference, Texas 
+A&M University, Energy Systems Laboratory Report No. ESL-PA-92/02-15. 
+18. Claridge, D., Haberl, J., Bryant, J., Poyner, B. and McBride, J. 1993. "Use of Energy 
+Management and Control Systems for Performance Monitoring of Retrofit Projects", Final 
+Summary Report, USDOE Grant #DE-FG01- 90CE21003, Submitted to the USDOE Office 
+of Conservation and Energy, Energy Systems Laboratory Report ESL-TR-91/09/02, Texas 
+A&M University, March. 
+19. Claridge, D., Haberl, J., Liu, M., Houcek, J. and Aather, A. 1994. "Can You Achieve 150% of 
+Predicted Retrofit Savings? Is it Time for Recommissioning?", Proceedings of the 1994 
+ACEEE Summer Study, pp. 5.73- 5.88, August.  
+20. Claridge, D., Haberl, J., Liu, M. and Athar, A. 1996. "Implementation of Continuous 
+Commissioning in the Texas LoanSTAR Program: Can you Achieve 150% of Estimated 
+Retrofit Savings: Revisited", Proceedings of the 1996 ACEEE Summery Study, August. 
+21. Cortina, V. (ed.) 1988. "Precision Humidity Analysis", EG&G Environmental Equipment, 151 
+Bear Hill Road, Waltham, Massachusetts, (IR sensors). 
+22. Doebelin, E. 1990. Measurement Systems. McGraw-Hill, New York, New York, ISBN 0-07-
+017338-9.  
+23. EEI 1981. Handbook for Electricity Metering, Edison Electric Institute, Washington, D.C., 
+ISBN-0-931032-11-3.  
+24. EPRI 1993. "Fundamental Equations for Residential and Commercial End- Uses" (Rep. 
+#EPRI TR-100984 V2). Palo Alto, California: Electric Power Research Institute.  
+25. Fels, M. (ed.)1986. "Special Issue Devoted to Measuring Energy Savings, The Princeton 
+Scorekeeping Method (PRISM)", Energy and Buildings, Vol. 9, Nos. 1 and 2. 
+26. Fels, M., Kissock, K., Marean, M.A. and Reynolds, C. 1995. "Advanced PRISM User's 
+Guide", Center for Energy and Environmental Studies Report, Princeton University, 
+Princeton,New Jersey, January. 
+27. FEMP – Federal Energy Management Program of the U.S. Department of Energy, 2000. 
+“M&V Guidelines: Measurement and Verification for Federal Energy Projects Version 2.2” 
+28. FEMP – Federal Energy Management Program of the U.S. Department of Energy, 2002. 
+“Detailed Guidelines for FEMP M&V Option A” 
+29. Goldberg, M.L. 1996a. "The Value of Improved Measurements: Facing the Monsters That 
+Won't Annihilate Each Other", Energy Services Journal, 2(1):43- 56. 
+30. Goldberg, M.L. 1996b. "Reasonable Doubts: Monitoring and Verification for Performance 
+Contracting", Proceedings of the ACEEE 1996 Summer Study on Energy Efficiency in 
+Buildings, 4.133-4.143 Washington, D.C.: American Council for an Energy-Efficient 
+Economy.  
+31. Haberl, J., Bronson, D. and O'Neal, D. 1995. "Impact of Using Measured Weather Data vs. 
+TMY Weather Data in a DOE-2 Simulation", ASHRAE Transactions, V. 105, Pt. 2, June. 
+32. Haberl, J., Reddy, A., Claridge, D., Turner, D., O'Neal, D. and Heffington, W. 1996. 
+"Measuring Energy-Savings Retrofits: Experiences from the Texas LoanSTAR Program", 
+Oak Ridge National Laboratory Report No. ORNL/Sub/93-SP090/1, February. 

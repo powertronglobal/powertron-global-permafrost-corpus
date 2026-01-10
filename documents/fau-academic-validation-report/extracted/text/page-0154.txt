@@ -1,0 +1,107 @@
+54        Other Common M&V Issues 
+ 
+Addition:  
+0.2056 
+ 
+2.572 
+ 
+144.25 
+ 
+ + 876.1___ 
+ 
+1,023.1 The number of significant digits is 5. 
+ 
+Multiplication: 
+ 
+12.345 × 0.0369 = 0.456 
+ 
+56.000 × 0.00785212 = 0.43972 
+ 
+Powers: 
+ 
+3.00
+π = 31.5  (3 significant digits in the input generates 3 in the output) 
+ 
+In order to insure consistency and repeatability, all calculations should be carried out by 
+arithmetic operation before applying these rules.  For instance, if a motor, running at a constant 
+32.1 kW ran for 4,564 hrs annually and the utility rate was $0.0712 per kWh, the cost of the 
+electrical energy is NOT ... 
+500
+,
+10
+$
+466
+,
+10
+$
+0712
+.0
+$
+000
+,
+147
+000
+,
+147
+504
+,
+146
+4564
+1.
+32
+
+
+
+
+
+
+
+
+
+kWh
+kWh
+kWh
+kWh
+hrs
+kW
+ 
+It is instead correctly calculated by carrying out all the multiplication and division together. 
+400
+,
+10
+$
+431
+,
+10
+$
+0712
+.0
+$
+4564
+1.
+32
+
+
+
+
+kWh
+hrs
+kW
+ 
+Please also note that the significant digit rules do not mix well together.  Carry out all 
+calculations by “arithmetic operation” before proceeding to the next operation type. 
+ 
+8.12.2  SPECIAL CASES 
+Some numbers are represented with finite significant digits even though they can be treated as 
+exact.  Exact numbers have infinite significant digits.  An example of an exact number could be 
+a utility rate.  If a local power company’s rate was $0.06 per kWh and Company X used 
+725,691.0 kWhs one month, the utility bill would be $43,541.46, not $40,000 per the 
+multiplication rule above.  This is because the utility rate is exact … it can be represented as 
+ per kWh.  There is no measurement error associated with utility rates. 
+Another example includes time variables.  If Company X was guaranteed energy savings of  
+$1.15M per year for 3 years, the total savings would be $3.45M, not $3M.  Unless expressed as 
+a decimal number, a time variable should be considered as exact. 
+Care must be taken to recognize these numbers in M&V calculations else the precision of the 
+result may be compromised.     
+ 
+ 

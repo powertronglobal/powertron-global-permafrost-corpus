@@ -1,0 +1,36 @@
+Financial Beneﬁts of the Study
+Regional Telecom will realize the following ﬁnancial beneﬁts from investing $308 on the installation of PermaFrost 
+NMR® in the cell tower cooling system included in this study:
+• Energy Savings (annual)
+$  440
+• Avoided cost of additional capacity replacement @ $1000/ton
+$ 480
+• Capital improvement deduction
+$ 308
+• Initial Payback Period (all inclusive)
+3 months
+• Initial Payback Period (energy only)
+8.3 months
+• Annual Rate of Return (energy only)
+143%
+• Return On Investment over 5 years (energy only)
+714%
+Highlights of the Study
+When comparing the pilot cell tower cooling system before and four weeks after PermaFrost NMR® was installed, 
+below are some of the highlights of the study:
+• When initially tested, the pilot system was producing 2.35 tons of cooling. Four weeks after installation,
+the cooling capacity was restored by .48 tons or 20.4% to 2.83 tons.
+• The overall cost to produce each ton of cooling on the pilot system dropped 25.4% from 2.01 kW/ton
+in the baseline to 1.5 kW/ton four weeks after installation of the ECM. This means that for every ton of
+cooling the pilot system is asked to produce, Regional Telecom is spending 25.4% less money to do so.
+• The projected annual kWh’s were reduced by 25.3% from 17,070 to 12,750.
+• The conditions inside the cell tower shelter remained constant at 73 degrees while the cooling system
+ran less but produced more tonnage.
+• The average kW dropped 10% from 4.72 in the baseline to 4.25 in the post when comparing multiple
+hour-long blocks of time under similar outdoor air temperatures affecting the condensing units. The
+true effect of these savings over time are further explained in the regression analysis.
+The cell tower cooling system involved in the study is recorded as follows:
+Bard, Mfg date: 2004, R22, Nominal 3-tons, 240 volt- single Phase, Model W372-A05XP
+3
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website.
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

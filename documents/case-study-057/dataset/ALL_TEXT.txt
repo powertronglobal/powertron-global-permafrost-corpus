@@ -1,0 +1,277 @@
+================================================================================
+DOCUMENT: Case Study 057
+DOC_ID: pdf_058
+SHA256: 2ff20663399063036c75fc90533348f7b3022001b198bfea92839d8747f08600
+================================================================================
+
+═══ PAGE 001 ═══
+
+Energy Science Division
+®
+HEALTHCARE IT COMPANY A
+Comprehensive HVAC/R Capacity Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 002 ═══
+
+PermaFrost NMR® Performance Report
+Healthcare IT Company A
+June 20, 2013 
+Executive Summary
+         This report contains specific information regarding the installation of the energy control measure 
+(ECM) PermaFrost NMR® for Healthcare IT Company A located in [Florida Location]. Detailed 
+forensic performance testing (outlined later in this report) was performed on a HVAC Equipment Manufacturer 60 ton SWVA DX unit. 
+Immediately following the baseline testing, the unit was treated with the proper amount and type of 
+PermaFrost NMR® product formulated for R-22 DX systems. Since there were no other ECM’s going on 
+during this pilot project, the improvement in efficiency and restored capacity gained directly at the units is 
+solely attributable to the PermaFrost NMR® ECM. The unit(s) now provides cooler/drier supply air while 
+using less power. This greater operational efficiency is due to the restoration of the heat transfer ability of 
+the evaporator and condenser coils.
+Following treatment of PermaFrost NMR® the unit showed a substantial increase in coil capacity of 107,662 
+Btuh or 14.3% improvement overall system efficiency. This restored capacity equates to 9 tons. The unit also 
+showed a substantial reduction in Watts/Ton of 10.7% and a 14.3% improvement in the Enthalpy Delta. 
+Additionally, the unit showed an 12.1% improvement in COP, which is another measurable way to view the 
+thermodynamic enhancement of the PermaFrost NMR® ECM. 
+The result of the ECM improvements is a ROI to the customer of just 24.5 months. The tables of data and 
+financial calculations are available for review at the end of this report.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 003 ═══
+
+Product Brief
+         PermaFrost NMR® is a multi-patented nanotechnology surface chemistry Energy Control Measure 
+(ECM) that uses Nucleo Molecular Regenerative® (NMR) technology as its core agent. A sustainable, 
+one-time treatment with no down time required, PermaFrost NMR® lasts for the remaining life of any 
+type of system in which it is installed. Examples of the types of commercial HVAC/R systems and 
+equipment that PermaFrost NMR® has proven success with are direct expansion air systems (DX); 
+chilled water systems (both flooded and DX; air and water cooled); ice making equipment; ammonia 
+refrigeration plants (single compressor and cascade) and variable refrigerant flow (VRF) designs. The 
+equipment utilized in these systems within our expanding portfolio of clients includes centrifugal (single 
+and multi-stage), scroll, reciprocating and screw configurations.
+The direct benefits of PermaFrost NMR® are improved cooling performance, increased capacity and 
+improved refrigerant velocity – all of which allow systems to achieve set point temperatures in a more 
+rapid fashion which reduces compressor operating periods. The indirect benefits resulting from the 
+enhanced thermodynamic characteristics following treatment include reduced run time, less kW hours 
+used, less amp draw at the compressor, longer equipment life cycle time and a reduced carbon footprint 
+for Healthcare IT Company A.
+Energy Science Division
+BOUNDARY LAYER
+OIL REMOVED
+BEFORE TREATMENT
+AFTER TREATMENT
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 004 ═══
+
+Measurement and Veriﬁcation Protocol
+The International Performance Measurement and Verification Protocol (IPMVP) is utilized in the 
+development of this report. The Association of Energy Engineers (AEE), American Society of Heating, 
+Refrigeration and Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization 
+(EVO) accept the IPMVP as a global methodology for determining the effectiveness of energy conservation 
+methods and products.
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize. They 
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report. Retrofit Isolation 
+(Option B) is defined as: All parameter measurement with the boundary of the ECM (PermaFrost NMR®) as 
+the single source of measurement. Savings are determined by field measurement of the energy use of the 
+energy conservation method affected equipment or system and any performance enhancements versus the 
+baseline data.
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the 
+savings and the length of the reporting period.  For the boundary utilized for Option B short-term 
+measurements are very useful as data when the variables are contained. The savings are calculated by 
+short-term measurements of baseline and reporting period energy, and /or engineering computations using 
+measurements of proxies of energy use.
+The final computation follows the formula:
+Energy Science Division
+Option B savings = Baseline Energy – Reporting Period Energy
++ - Routine adjustments / + - Non-Routine Adjustments
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 005 ═══
+
+Energy Conservation Method (ECM) Content
+The content of the following report will demonstrate the effects of PermaFrost NMR®’s ability to correct the 
+effects of thermal degradation and fouling on the heat exchange surfaces. 
+It was determined with Healthcare IT Company A to treat one 60-ton DX unit. A diagnostic examination of the pilot equipment is 
+implemented to determine if the unit’s operational conditions are satisfactory. Baseline measurements will 
+be recorded and then the proper amount and type of PermaFrost NMR® will be injected. The product will 
+be allowed 4 weeks to seat itself into the metal surfaces. At the end of this gestation period, Post M&V 
+results were taken in the identical manner as in the baseline, taking special care to match the same or very 
+similar entering air temperatures and compressor discharge pressures. These are the two most critical 
+measurements affected by the weather. Some units in this report required normalization due to weather.
+During the avoided energy reporting period it was determined that the refrigerant pressure and 
+temperature was not as per design. Management engaged the services of a mechanical contractor and this 
+condition was resolved by adding seven (7) pounds of R-22 refrigerant. Powertron Global® has no 
+knowledge as to why the refrigerant level was low or what if any repairs were required.  However after 
+refrigerant was added, the refrigerant pressures and temperature meets the industry standards for this type 
+of equipment. Post analysis was completed after the refrigerant issue was resolved. 
+It was determined with Healthcare IT Company A that the units run approximately 4212 hours annually at a kWh cost of .11 cents 
+per kW. 
+The following report produces the utilization of the IPMVP International Performance Measurement and 
+Verification Protocol as the M&V plan. Powertron Global®’s Forensic Mechanical Engineer, Edward R. 
+[Senior Energy Engineer], performed the final calculations and measurements.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 006 ═══
+
+Make
+Model 
+Serial
+Refrigerant Type
+Age
+Nominal Cooling Capacity Btuh 
+Tonnage
+ HVAC Equipment Manufacturer
+SWVA-6004-RAV
+L84G21061
+ R-22
+ 1984
+ 720,000 Btuh
+ 60
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+ 
+kW= Volts X Amps * 1.47 / 1000 (3-phase)
+ 
+ 
+Btuh Capacity = Measured CFM X 4.5 * Calculated Enthalpy Delta 
+ 
+ 
+System Eﬃciency % = Actual Coil Capacity Btuh / Nominal Coil Capacity Btuh
+ 
+ 
+kW per Ton = Measured kW / Measured Tons
+ 
+ 
+COP = 12 / kW per ton / 3.412
+System Description / Design Characteristics
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 007 ═══
+
+Baseline & Energy Reporting (Post) Periods
+The baseline data was recorded on 4/22/13 using recently calibrated devices to insure measurement 
+accuracy. The following results were recorded as a result of the implementation of the IPMVP Protocol. The 
+identical IPMVP data recordings from the baseline were recorded on 6/19/13 using the same recently NIST 
+calibrated devices to insure measurement accuracy. The Energy Reporting Period measurements are as 
+follows:
+ 
+The post DB temperature (75.6 deg. F) entering the coil was matched as close as possible to the baseline 
+period (75 deg. F). After matching this temperature the post readings were taken to ensure that the work the 
+coil had to do was as close as possible in the baseline. Normalizing the post amperage was not required in 
+this case due to the OAT and incoming tower water being the same during both measurement periods. 
+Energy Science Division
+POST
+BASELINE
+Voltage
+Amperage
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Entering Air Temp DB
+Leaving Air Temp DB
+Entering Air Temp WB
+Leaving Air Temp WB
+Actual CFM
+Actual Coil Capacity Btuh / Tons
+Enthalpy Delta
+Calculated Watts
+Calculated Watts per Ton
+Outdoor Air Temp (OAT)
+Incoming Tower Water
+476.56 V
+68.43 A
+34.2 deg F
+104.2 deg F
+75 deg F
+55.5 deg F
+62.7 deg F
+48.3 deg F
+18,678.4 CFM
+754,794.14 Btuh / 62.9 Tons
+8.98
+47,938
+762
+76 deg F 
+85 deg F 
+485.50 V
+68.53 A 
+36.5 deg F
+100.8 deg F
+75.6 deg F
+49.9 deg F
+60.3 deg F
+42.5 deg F
+18,680 CFM
+862,455.6 Btuh / 71.87 Tons
+10.26
+48,909
+681
+76 deg F 
+85.5 deg F 
+MEASUREMENT
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 008 ═══
+
+Results
+Utilizing the data in the above charts, the following steps were taken in accordance with IPMVP protocols to determine 
+the avoided energy usage and the annualized Return on Investment (ROI) Healthcare IT Company A will realize by implementing this ECM:
+Regression Analysis (accounts for the restored capacity brought about by PermaFrost NMR®) 
+Adjusted Base Tonnage         71.87 tons (equates to tonnage in ERP)
+Adjusted Total Watts         762 Watts per Ton * 71.87 tons = 54,765 Total Watts
+Adjusted Base kWh         (54,765 Total Watts / 1,000) * 4,212 Annual Operating hrs = 230,670 kWh
+Revised Cost to Run Prior to ECM         230,670 kWh * $.11 = $25,374 USD
+Post ECM kWh         (48,908 Total Watts / 1,000) * 4,212 Annual Operating hrs = 206,001kWh
+Cost to Run After ECM         206,001 kWh * $.11 = $22,660 USD
+Cost Savings per Month         ($25,374  - $22,660) / 12 = $226
+Cost of PermaFrost NMR® @ $5,530 / $226 = 24.5 months
+ 
+ROI = 24.5 months
+Energy Science Division
+Eﬃciency Improvements
+Total Watts
+Watts per Ton
+Btuh Capacity
+System Eﬃciency %
+Enthalpy Delta
+COP
+-10.7%
+-10.7%
++14.3%
++14.3%
++14.3%
++12.1%
+Energy Reporting Period
+48,909
+681
+862,456
+120%
+10.26
+5.17
+Baseline
+54,772
+762
+754,794
+105%
+8.98
+4.61
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+

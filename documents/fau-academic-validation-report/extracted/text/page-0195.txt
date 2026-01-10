@@ -1,0 +1,98 @@
+ 
+Appendix B Uncertainty         95 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+2
+2
+^
+2
+)
+(
+)
+(
+Y
+Y
+Y
+Y
+R
+i
+i
+ 
+ 
+B-10 
+ 
+  where:  
+ 
+^
+iY  = model predicted energy value for a particular data point using the measured value of 
+the independent variable (i.e., obtained by plugging the X values into the regression model) 
+ 
+Y  = mean of the n measured energy values, found using equation B-1 
+ 
+Yi = actual observed (e.g., using a meter) value of energy  
+All statistical packages and spreadsheet regression-analysis tools compute the value of R2. 
+The range of possible values for R2 is 0.0 to 1.0.  An R2 of 0.0 means none of the variation is 
+explained by the model, therefore the model provides no guidance in understanding the 
+variations in Y (i.e., the selected independent variable(s) give no explanation of the causes of 
+the observed variations in Y). On the other hand, an R2 of 1.0 means the model explains 100% 
+of the variations in Y, (i.e., the model predicts Y with total certainty, for any given set of values of 
+the independent variable(s)). Neither of these limiting values of R2 is likely with real data.  
+In general, the greater the coefficient of determination, the better the model describes the 
+relationship of the independent variables and the dependent variable. Though there is no 
+universal standard for a minimum acceptable R2 value, 0.75 is often considered a reasonable 
+indicator of a good causal relationship amongst the energy and independent variables. 
+The R2 test should only be used as an initial check. Models should not be rejected or accepted 
+solely on the basis of R2. Finally, a low R2 is an indication that some relevant variable(s) are not 
+included, or that the functional form of the model (e.g., linear) is not appropriate. In this situation 
+it would be logical to consider additional independent variables or a different functional form.  
+B-2.2.2   Standard Error of the Estimate  
+When a model is used to predict an energy value (Y) for given independent variable(s), the 
+accuracy of the prediction is measured by the standard error of the estimate (SEY). This 
+accuracy measure is provided by all standard regression packages and spreadsheets.  
+Once the value(s) of independent variable(s) are plugged into the regression model to estimate 
+an energy value (Y
+
+), an approximation of the range of possible values for Y
+
+ can be computed 
+using equation B-8 as: 
+ 
+ 
+ 
+ 
+ 
+ 
+^
+^
+Y
+SE
+t
+Y
+
+
+ 
+ 
+where: 
+ 
+^
+Y  is the predicted value of energy (Y) from the regression model  
+ 
+t 
+is the value obtained from the t-tables (see Table B-1) 
+ 
+^
+Y
+SE
+is the standard error of the estimate (prediction). It is computed as: 
+ 

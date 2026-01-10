@@ -1,0 +1,56 @@
+JOB # 8587
+PAGE # 1
+PROJECT NAME: SPACE CENTER A VISITOR COMPLEX - WALK IN
+SYSTEM
+ZONE / UNIT #
+DUCT
+SIZE
+AREA
+SQ. FT
+CORR.
+FACT
+REQ'D
+FPM
+ACTUAL
+FPM
+REQ'D
+CFM
+ACTUAL
+CFM
+STATIC
+PRESS
+INSTRUMEN
+T USED
+11/24/15 @ 204V @ 7.6A
+WALK IN
+17 X 13.5
+1.59
+-
+-
+240
+-
+381
+-
+VEL
+1/6/16 @ 204V @ 6.5A
+WALK IN
+17 X 13.5
+1.59
+-
+-
+239
+-
+381
+-
+VEL
+REMARKS:
+DUCT / PIPE TRAVERSE SHEET
+INSTRUMENT USED:
+ANEM = 4" VANE ANEMOMETER;
+DT = DUCT TRAVERSE;
+H = HOOD;
+VEL = VELGRID/MATRIX
+DATE: 11/24/15; 1/6/16
+READINGS BY: E. NELSON
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

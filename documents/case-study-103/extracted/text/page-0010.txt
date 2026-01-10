@@ -1,0 +1,15 @@
+Energy Science Division
+Baseline kWh        36.96 kW * 4,035 Annual Operating Hrs = 149,134 kWh
+Cost to Run Baseline        149,134 kWh * $.09 = $13,422.06
+Post ECM kWh        36.02 kW * 4,035 Annual Operating Hrs = 145,340.7 kWh
+Revised kWh (based on avg. 23.4% restored capacity)        145,341 kWh * (1 - .234) = 111,331 kWh
+Revised Cost to Run Post        111,331 kWh * $.09 = $10,019.79
+Avoided Energy Costs (Savings) Per Month        ($13,422.06 - $10,019.79) / 12 = $283.52
+Cost of ECM        $3,750
+ROI        $3,750 / $283.52 = 13.2 
+ 
+ ROI = 13-14 months
+*Note – A cost of $.09 per kWh was used for this Chattanooga Pilot calculation. When using the national average kWh 
+cost of $.105 the ROI will be 11.4 months.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

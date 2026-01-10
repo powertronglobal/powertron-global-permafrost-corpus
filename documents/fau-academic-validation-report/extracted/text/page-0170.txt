@@ -1,0 +1,50 @@
+70        Appendix A Examples 
+ 
+Using the same estimated operating periods, the owner’s estimated savings under normal 
+rainfall conditions and at current utility prices were determined to be 34 kW × 3,932 hr25 x 
+R0.2566/kWh = R34,000/year.26 Utility service and network charges were unchanged. 
+A-2.1  Pump/Motor Demand Shifting – Option B 
+Situation  The irrigation system described in Appendix A-2 above was also eligible for a 
+substantial utility incentive if the pumps are kept off during the peak periods of 0700-1000 and 
+1800-2000 on all weekdays that are not public holidays. The owner installed a radio-signal-
+based control system to remotely and automatically control the pumps to implement this load 
+shifting strategy. The pump control will be reset by the owner annually according to the 
+upcoming year’s schedule of public holidays. 
+Factors Affecting the M&V Design  The owner believed that curtailing pumping for a 
+maximum of 25 hours per week (15%) would not be critical to his operation in dry seasons. (He 
+expected fewer breakdowns of the new pumps, so there would be no net impact on his dry-
+season growth.) 
+The utility recognizes that the owner decides whether to shut down the pumps based on his own 
+needs. Therefore the utility required adherence to IPMVP Volume I, EVO 10000 – 1:2012, 
+Option B to substantiate each year’s performance, before making the incentive payment.  
+The owner felt that his financial payback period for the control and monitoring equipment was 
+already long. Therefore he does not want to spend a significant part of the incentive on 
+providing the evidence required by the utility.   
+M&V Plan  The utility and owner agreed that continuous recording of a proxy variable would 
+give the ongoing evidence that the pumps were off during every peak period all year long.  The 
+proxy variable is the presence of electricity flow (in excess of the 500mA needed by the control 
+equipment) through any of the 5 electrical feeds to the 10 pumps. Small un-calibrated current 
+sensors and data loggers were clamped on each power line near the 5 meters. The sensors and 
+loggers have a re-chargeable battery-backup power system.  
+The owner has hired the supplier of the control and monitoring devices to annually read the 
+data, check the clock settings, and give a report to the utility of the dates and times of any 
+operation within any weekday peak periods.   
+Results  For the first year after implementation of the control and monitoring system, the 
+monitoring agent reported to the utility that power was used between 1800 hrs and 2000 hrs on 
+5 specific weekdays. The utility verified that these days were all public holidays, so there were 
+no operations during the defined peak periods. The demand shift was determined to be 98.2 
+kW, from the measurement of the new pumps (see Appendix A-2). The annual utility incentive 
+was computed and paid based on this Option B recorded 98.2 kW demand shift.
+A-3  Lighting Efficiency – Option A 
+Situation  More efficient light fixtures are installed in place of existing fixtures in a Canadian 
+school, while maintaining light levels. This project was part of a broader program of the school 
+board to hire a contractor, who would design, install and finance many changes in a number of 
+schools. Payments under the contract are based on measured savings at the utility prices 
+prevailing at the time of signing the contract. Savings are to be demonstrated, according to an 
+IPMVP adherent M&V Plan, immediately after commissioning of the retrofit. Since the owner 
+controls operation of the lights, the contract specified that the M&V Plan follow IPMVP Volume I, 
+                                                  
+25 133,688 is the actual calculated value before significant digit rounding. 
+26 This amount can be expressed in no more than 2 significant digits, as from the above observations about the 
+minimum number of significant digits. The actual calculated value is R34,103 and should better be expressed as R3.4 
+x 104, though 34,000 is customary currency format. 

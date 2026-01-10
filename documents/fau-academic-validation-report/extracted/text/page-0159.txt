@@ -1,0 +1,46 @@
+ 
+References         59 
+ 
+CHAPTER 10   REFERENCES 
+NOTE: The following references are meant to provide the reader with sources of additional 
+information. These sources consist of publications, textbooks and reports from government 
+agencies, universities, professional organizations and other recognized authorities. For the most 
+part, care has been taken to cite the publication, publisher or source where the document can 
+be obtained.  
+1. Akbari, H., Heinemeier, K.E., LeConiac, P. and Flora, D.L. 1988. "An Algorithm to 
+Disaggregate Commercial Whole-Facility Hourly Electrical Load Into End Uses", 
+Proceedings of the ACEEE 1988 Summer Study on Energy Efficiency in Buildings, Vol. 10, 
+pp. 10.14-10.26. 
+2. ASHRAE Guideline 1-1996. The HVAC Commissioning Process. American Society of 
+Heating, Ventilating, and Air Conditioning Engineers, [Southeast Location], Georgia. 
+3. ASHRAE Guideline 14-2002, Measurement of Energy and Demand Savings. American 
+Society of Heating, Ventilating, and Air Conditioning Engineers, [Southeast Location], Georgia. 
+4. ASHRAE. 1989. An Annotated Guide to Models and Algorithms for Energy Calculations 
+Relating to HVAC Equipment, American Society of Heating, Ventilating, and Air Conditioning 
+Engineers, [Southeast Location], Georgia. 
+5. ASHRAE 2005. Handbook: Fundamentals, Chapter 32 - "Energy Estimating and Modeling 
+Methods", [Southeast Location], Georgia.  
+6. ASTM 1992. Standard Test Method for Determining Air Leakage Rate by Fan 
+Pressurization, American Society for Testing Materials, Philadelphia, Pennsylvania. 
+7. Baker, D. and Hurley, W. 1984. "On-Site Calibration of Flow Metering Systems Installed in 
+Buildings", NBS Building Science Series Report No. 159, January. 
+8. Benedict, R. 1984. Fundamentals of Temperature, Pressure and Flow Measurement. John 
+Wiley and Sons, New York, New York. 
+9. Benton, C., Chace, J., Huizenga, C., Hyderman, M. and Marcial, R. 1996. "Taking A 
+Building's Vital Signs: A Lending Library of Handheld Instruments", Proceedings of the 
+ACEEE 1996 Summer Study on Energy Efficiency in Buildings, Vol. 4, pp. 4.11-4.21. 
+10. Bourdouxhe, J.P., Grodent, M., LeBrun, J. 1995. "HVAC01 Toolkit: A Toolkit for 20 Primary 
+HVAC System Energy System Energy Calculations", Final report submitted to ASHRAE. 
+11. Bourdouxhe, J.P., Grodent, M., LeBrun, J. 1994a. "Toolkit for Primary HVAC System Energy 
+Calculation - Part 1: Boiler Model", ASHRAE Transactions, Vol. 100, Pt. 2. 
+12. Bourdouxhe, J.P., Grodent, M., LeBrun, J. 1994b. "Toolkit for Primary HVAC System Energy 
+Calculation - Part 2: Reciprocating Chiller Models", ASHRAE Transactions, Vol. 100, Pt. 2. 
+13. Bou Saada, T.E. and Haberl, J.S. 1995a. "A Weather-Daytyping Procedure for 
+Disaggregating Hourly End-Use Loads in an Electrically Heated and Cooled Building from 
+Whole-facility Hourly Data", 30th Intersociety Energy Conversion Energy Conference, July 
+30-August 4. 
+14. Bou Saada, T.E. and Haberl, J.S. 1995b. "An Improved Procedure for Developing Calibrated 
+Hourly Simulated Models", Proceedings of Building Simulation, 1995: pp. 475-484. 
+15. Bou Saada, T.E., Haberl, J., Vajda, J. and Harris, L. 1996. "Total Utility Savings From the 
+37,000 Fixture Lighting Retrofit to the USDOE Forrestal Building", Proceedings of the 1996 
+ACEEE Summery Study, August. 

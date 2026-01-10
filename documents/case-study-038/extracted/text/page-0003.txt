@@ -1,0 +1,70 @@
+®
+2
+Recovered Wasted Energy with PermaFrost NMR® ECM
+Like everyone in the world, Caribbean Telecom Provider has the problem of thermal degradation in their Chillers and HVAC 
+units. The degraded equipment performance is costing Caribbean Telecom Provider significant operational dollars through 
+wasted energy. The pilot cooling units were found to be using significantly more energy to operate than 
+when they were new.
+The chart below illustrates the performance restoration 
+the ECM created in the treated units. The average 
+operational efficiency ratings of the units before being 
+treated with PermaFrost NMR®, as calculated in 
+kW/ton, were 1.34.
+The average operational efficiency ratings of the units
+after being treated with PermaFrost NMR®, as calculated 
+in kW/ton, are currently 1.07.
+The higher baseline kW/ton ratings measured 
+in-situ were expected when compared to the ASHRAE 
+predicted loss of operational performance efficiency 
+for similar age and type cooling units.  
+Summary of Key Performance Measurements
+The table below summarizes the substantial improvements resulting from the implementation of the 
+PermaFrost NMR® ECM into the pilot cooling units. 
+0.0
+0.3
+0.6
+0.9
+1.2
+1.5
+Reduction in
+Per Unit Costs
+Equating to a
+20.1% reduction
+Cost Per Cooling Unit to Operate
+kW/ton
+.27 kW/ton
+Baseline
+Post ECM
+1.34
+1.07
+TYPE OF MEASUREMENT
+BASELINE
+1.34
+25.4
+4.81
+2.64
+159,061
+$41,356 
+POST
+1.07
+32.4
+5.77
+3.33
+127,176
+$33,066 
+RESULTS
+20.5% Reduction
+27.6% Increase
+20% Increase
+26.1% Increase
+31,885 Annual kWh Savings 
+$8,290 Annual Energy Cost Savings
+kW/Ton
+Capacity in Tons
+Enthalpy Delta
+Coeﬃcient of Performance
+Annual KWh Usage 
+Estimated Cost to Operate
+The full complement of detailed and witnessed measurements are on file with Caribbean Telecom Provider’s Engineering Department
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

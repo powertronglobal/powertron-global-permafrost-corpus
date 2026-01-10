@@ -1,0 +1,63 @@
+®
+4
+104 tons
+112 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The Chiller should be operating @ 122 tons of cooling capacity
+• The Chiller was operating @ 104 tons of cooling capacity prior to
+   installing ECM
+• The Chiller now has 8 tons of restored cooling capacity after ECM
+   equating to a 7.7% increase
+• The Chiller should be operating @ 3.4 COP or higher
+• The Chiller was operating @ 2.39 COP prior to the ECM
+   and 3.17 following the ECM
+• The COP of the Chiller was increased by 32.6%  following the ECM
+2.39
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+104
+tons Baseline
+100%
+CAPACITY @
+~85% LOAD
+Baseline
+COP
+Post ECM
+COP
+2.39
+3.17
+3.17
+Post ECM COP
+112
+tons Post ECM
+32.6%
+Improvement
+in COP
+8
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of HVAC/R Eﬃciency Study Results 
+Chiller Eﬃciency with PermaFrost NMR® ECM
+Summit Hotels has the problem of thermal degradation in its Chillers and HVAC units. The lower operating 
+tonnage and COP ratings measured on site are in line with the ASHRAE loss of performance and cost to 
+operate numbers. The degraded equipment performance is costing Summit Hotel Properties significant money 
+and wasting energy. The pilot chiller is using significantly more energy to operate than when it was new just 
+four years earlier. 
+The performance summary includes the measured efficiency and tonnage of the chiller in the baseline and post 
+testing periods demonstrating the impact of thermal degradation. The implementation of PermaFrost NMR® 
+ECM resulted in a restoration of 8 operating tons and an average improvement of 32.6% in Coefficient of 
+Performance (COP), significantly reducing the cost to operate the chiller throughout the year.
+The Carrier chiller treated has a nominal capacity of 143 tons at the given test conditions at 100% load and 308 
+gallons per minute (GPM) flow through the evaporator.  The chiller was tested at ~85% load or 122 tons 
+maximum capacity (5 of 6 compressors running), a GPM of 308, and outside air temperatures of 74 degrees.  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

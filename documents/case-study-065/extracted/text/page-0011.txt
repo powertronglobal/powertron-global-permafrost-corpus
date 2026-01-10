@@ -1,0 +1,24 @@
+®
+10
+Cost to Property Management Company C for Lost Eﬃciency
+Left untreated, the chillers’ annual additional monetary cost with their reduced level of performance would be 
+23.44% or R168,136 for Chiller #1, and 21.11% or R117,843 for Chiller #2. Extrapolated across all Property Management Company C’s 
+HVACR portfolio, this total 259,980 kilowatts at a cost of R285,979 for just two chillers adds up to a significant 
+waste of money on wasted energy.
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period 
+for Property Management Company C for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate 
+the true energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh 
+expended in the Avoided Energy Reporting Post Analysis Period. ROI comes from determining what the cost to run 
+the chiller was when operating at the original energy profile to produce the newly restored amount of available tonnage 
+capacity and then subtracting the revised cost to run the chiller at the same restored tonnage after the PermaFrost 
+NMR® ECM was installed. This regression analysis is the most industry wide accepted method of accounting for the 
+reduced number of hours the chiller will now operate due to the restored capacity. This restored capacity allows the 
+chiller to reach the chilled water set point with increased efficiency resulting in reduced compressor demand loading.
+Additional kWh Wasted at International Site A per Year
+Additional Cost to International Site A per Year
+Cost of Waste
+Reduced level of Performance Causes 
+259,980 kWh  
+R285,979 /Year
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

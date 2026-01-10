@@ -1,0 +1,49 @@
+ 
+9
+For any system, there is a need to insure that the HVAC system is operating correctly so that 
+changes in equipment do not affect the analysis: low refrigerant, clogged exchangers etc.  A 
+checklist for a unit should include: 
+ 
+• Make a note of the condition 
+• Inspect hookups at electrical panel to insure no loose connections. 
+• Clean or note cleanliness level of coils 
+• Measure the dampers if they are not operating correctly (it changes the running time) 
+• Measure the outside fan motor amperage to ensure bearing is not going bad and pulling 
+more load. 
+• Check to make sure there is not a weak capacitor 
+ 
+The protocol was as follows: 
+ 
+• Decide on a site (thirty-eight (38) chosen, some with multiple units at one site) 
+• A diagnostic examination of the pilot equipment was implemented to determine if the 
+unit’s operational conditions were satisfactory.  
+• Baseline measurements were recorded  
+• The proper amount and type of PermaFrost NMR® was injected.  
+• PermaFrost NMR® was allowed four (4) weeks to embed itself into the metal surfaces  
+• Post measurements were taken to establish the efficiency gains 
+ 
+It was recommended that a base line of performance is to be generated after the system is 
+running for at least 15 to 20 minutes. This assures that the evaporator and condenser coils have 
+reached operating temperature.  After installation of PermaFroat NMR® there may be an initial 
+immediate performance change although it takes almost 2-4 weeks for PermaFrost NMR® to 
+properly travel throughout the hermetic circuit. The protocol was designed to allow the units to 
+run wide open for 12 days (July 26-Aug 6) to expedite the seating of PermaFrost NMR® within 
+the sealed refrigerant circuit. 
+  
+The following parameters were measured on an ongoing basis for each unit: 
+ 
+• Voltage 
+• Amperage 
+• Suction refrigerant pressure and temperature 
+• Discharge refrigerant pressure and temperature 
+• Air temperature entering the evaporator DB and WB 
+• Air temperature exiting the evaporator DB and WB 
+• Air flow (CFM) 
+• Evaporator coil pressure drop 
+• Total static pressure 
+• Refrigerant sub-cooling 
+• Refrigerant superheat 
+ 
+The following parameters were characterized before and after the PermaFrost NMR® injection 
+(as applicable to HVAC air cooled or water cooled chiller units): 
+ 

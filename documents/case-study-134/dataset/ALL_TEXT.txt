@@ -1,0 +1,1721 @@
+
+═══ PAGE 001 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+ 
+Major Telecom E 10 Cell Site Post Report 
+Houston, Texas 
+Sept 30, 2023 
+ 
+ 
+ 
+Project Overview   Baseline and Post comparative energy analysis of twenty (20) DX 
+Bard package systems after PermaFrost NMR implementation 
+ 
+ 
+ 
+Representatives 
+Major Telecom E 
+[Senior Network Planning Engineer], Senior-Network Planning Engineer 
+ 
+ 
+ 
+ 
+ 
+Sundeep Potluri, Lead – Project Manager 
+ 
+ 
+ 
+ 
+ 
+[International Contact], Principal, Network Planning Engineer 
+ 
+Powertron Global® 
+[Senior Energy Engineer], Forensic Mechanical Engineer 
+ 
+Victor LaRocca, V.P. of Operations & CMVP 
+ 
+XCarbon Technologies 
+Chuck Cotter, Founder and CEO 
+ 
+ 
+Process 
+AHRI Standard Measurement & Verification and energy savings 
+performed on 10 cell tower hut sites containing 20 Bard wall-
+mounted package DX systems: various sizes & ages.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+═══ PAGE 002 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+ 
+A. Executive Summary 
+ 
+The purpose of this study is to compare and confirm the test results of AHRI 
+Standards efficiency testing at Underwriters Laboratories, Inc (UL) of PermaFrost 
+NMR® to verify results under field conditions at 10 cell tower sites in Houston, 
+Texas.   
+PermaFrost NMR® is an efficiency restoration chemical that treats the surface of 
+metal. It works the same way on every air conditioner, every time.  Measuring the 
+performance accurately is based on measuring expected variables and the 
+mitigation of uncontrolled variables, so forensic based standards field testing 
+should be in line with laboratory testing due to the chemical nature of the 
+technology.   Major Telecom E requested expanding the testing parameters to include energy 
+use (runtime) under the same weather conditions (where possible) to determine 
+energy savings in situ. Twenty units generated a large enough sample size to help 
+account for uncontrolled variables with a high level of confidence.  Together, these 
+methodologies should help to create additional confidence in the data. 
+1. Average kWh savings of 19.4% achieved in field testing across all sites is 
+comparable to the 18% - 22% efficiency gains found in controlled AHRI lab 
+testing by UL (Gold Standard of the HVAC industry). 
+2. Runtime was reduced by 18,818 minutes or 18.3% matching UL controlled test 
+results. 
+3. Weather conditions (temperature data) in the post were slightly warmer. 
+Cooling Degree Days (CDDs) in the post were within .2% of baseline. This 
+small amount of additional work was overcome providing high confidence in 
+the data sets with respect to weather conditions.  
+4. Eight of the ten sites had comparable runtime data sets. Two sites required a 
+regression analysis (blue) due to mechanical issues in a couple of units 
+(normal) affecting runtimes. The independent kWh and runtime savings 
+matched the EER and kW/ton improvements.  
+5. Runtime reduction equates to a ~19% equipment life extension and 
+maintenance expense reduction. 
+6. The forensic study data in this pilot can be used by Major Telecom E to cut additional 
+expenses outside of the focus of this pilot.  Powertron engineers and data staff 
+have uncovered opportunities in equipment, service, and operational protocols 
+that can be leveraged if desired.    
+ 
+B. Introduction 
+ 
+A selection of twenty (20) consecutive days prior to the implementation of 
+PermaFrost NMR® is compared to twenty (20) consecutive days in the Energy 
+Reporting Period (ERP) or post period. The Energy Reporting Period was selected 
+after ample time was allowed for the treated Bard units to have gestated as 
+determined by measuring each units compressor run time after the 
+nanotechnology had been installed. 
+
+═══ PAGE 003 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+Powertron Global’s digital F2 monitoring systems were installed on each individual 
+HVAC unit (2 per site) at ten (10) selected cell tower building sites (Appendix A). 
+The measurement boundary will be the HVAC equipment itself. The F2 devices 
+recorded data every second on a continual basis. The data is automatically 
+uploaded to Powertron’s FMV data gathering platform. Each F2 device is 
+equipped with a revenue grade power meter and specific levels of sensor 
+technology including a variety of temperature, humidity, airflow, and current 
+measurements (compressor on/off) capabilities. The list of points measured can 
+be found within Appendix B in this report. All measurements were collected to 
+provide the establishment of a confident baseline power consumption and thermal 
+performance as determined by the use of temperature data (CDD). The F2 
+systems remained attached to the equipment throughout the entire project. 
+ 
+After baseline data was established, a total of twenty (20) HVAC units were 
+treated with the proper amount of PermaFrost NMR®, a nanotechnical chemical, 
+designed to restore any lost cooling capacity because of internal heat exchanger 
+lubricant fouling. The goal of the technology is to restore lost efficiency, enhance 
+cooling capacity from depleted levels, and to reduce compressor runtime/cycle 
+time periods.  
+ 
+Accomplishing the deliverance of additional cooling capacity by improving heat 
+exchanger performance will reduce the amount of time the compressor must 
+operate therefore reducing the amount of total kilowatt hours consumed on a daily 
+basis.   
+ 
+After treatment and required time for the nanotechnology to gestate (up to 500 
+compressor runtime hours) throughout the refrigeration circuit of each unit, the 
+ERP or post data gathering was recorded. The ERP data will be compared to the 
+baseline power data taking into account the CDD totals to normalize the results. 
+ 
+ 
+C. Project Description 
+ 
+The initial baseline period was conducted on May 11-24 of 2023 but due to the 
+delayed installation of the product, Powertron Global F2 devices captured 
+additional 6 weeks approximately of baseline data (May 25 – July 4). A pivot in the 
+selection of the baseline data period was determined to compare pre & post data 
+sets with the exact or near exact Cooling Degree Day (CDD) totals for like weather 
+conditions. Another important static factor that influenced the data selection was to 
+include an even number of lead and lag days in both data sets. The Lead/Lag 
+settings on the controllers are set for 1 day allowing the units to alternate each day 
+as the lead.  
+ 
+Powertron was able to use a more compelling and comparable baseline period 
+with external load temperatures and additional days of exposure (data). This year 
+in Texas the spring temperatures were unseasonably cool followed by above 
+
+═══ PAGE 004 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+average summer temps occurring in the [Texas City] area. Expanding the 
+baseline and post periods to allow for ideal weather comparisons provides higher 
+confidence in the data. 
+ 
+The installation of PermaFrost NMR occurred on July 5-6, 2023. Immediately after 
+the installation the Bard thermostat controllers were lowered in each tower sites 
+building and allowed to run for approximately thirty (30) days uninterrupted to 
+speed up the gestation time required for the nanotechnology to seat itself into the 
+metal surfaces of each unit. The data collected during this period will not be used 
+in any analysis. The thermostat controllers were returned to the normal operating 
+settings of 80-degree set point on August 7, 2023. Further gestation was required 
+at normal operating conditions in order to produce a proper post data set.  
+ 
+The Energy Reporting Period (ERP) was from September 6 to October 3, 2023. 
+Twenty (20) consecutive days are used in the post-period to simulate weather 
+conditions following product gestation. 
+ 
+D. ECM Description 
+ 
+As PermaFrost NMR nanotechnology (interior coil surface treatment) is installed 
+into a sealed vapor compression system (Package HVAC Unit), a molecular 
+transformation develops. This transformation displaces layers of lubricating fluids 
+that have been impinged in the evaporator and condenser heat exchanger metal 
+surfaces. When the fluid is displaced, the evaporator and condenser can transfer 
+additional heat energy through the tube walls (thermal restoration). This enables 
+the evaporator to completely dehumidify the air per the unit’s design specifications.  
+When more dehumidification is developed, the enthalpy delta is increased. This is 
+the action that increases thermal performance through heat exchanger restoration. 
+ 
+ 
+As the capacity increases, the kW/ton decreases by means of mathematical 
+function, demonstrating PermaFrost NMR’s post-treatment effect lowering the 
+electrical cost of every ton of cooling produced, no matter how many tons are called 
+for at any given time.  
+  
+PermaFrost NMR does not change or alter any unit’s electrical characteristics. This 
+change of performance is purely thermal in nature. 
+ 
+ 
+E. Measurement & Verification 
+ 
+The primary objective is to measure the complete power use by each HVAC unit 
+utilizing revenue grade power meters directly connected to each unit to measure 
+power consumption during both Baseline and Energy Reporting Periods. 
+Measuring overall power consumed by an HVAC system can be realized by 
+measuring voltage, amperage and power factor. Parameters were measured 
+continuously every second during all hours for a period of twenty (20) days to 
+develop a baseline. The outdoor air temperature sensors are mounted near each 
+HVAC unit to quantify the number of CDDs each unit experienced during the data-
+
+═══ PAGE 005 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+collecting periods. 
+ 
+The supplemental objective of measuring the overall cooling production of HVAC 
+systems can be realized by measuring the total energy consumed by the specific 
+unit being tested and the total BTUH production of the system then calculating 
+these parameters to obtain current capacity, kW/ton, EER (energy efficient ratio) 
+and COP (coefficient of performance). Using that information the total BTUH of 
+cooling production can be realized.  
+ 
+For these HVAC systems, parameters were measured continuously every second 
+during all hours for a period of twenty (20) days to develop a scientific baseline. 
+The outdoor air temperature entering the air-cooled condenser coils of each unit 
+will affect the design capacity. An analysis is provided of the twenty (20) day 
+period of performance profiles of subsequent kW/ton, EER and COP across a 
+variation of outdoor air temperatures spanning a twenty-five (25) degree span 
+(75ºF-100ºF). 
+ 
+Total BTUH was developed along with total kW consumption by measuring all 
+required data points and entering them into industry best practice engineering 
+formulae. All measurement hardware was certified under NIST or CE standards. 
+Engineering formulae was developed by AHRI / ASHRAE (American Heating and 
+Refrigeration Institute / American Society of Heating Refrigeration & Air 
+Conditioning Engineers): 
+ 
+Kilo-watt (kW) = Volts (V) x Amps (A) x Power Factor (PF) / 1000 
+British Thermal Units (BTU) = CFM x 4.5 x Enthalpy Delta  
+Capacity / Tons = BTU / 12,000 
+Kilo-watt per Ton (kW/Ton) = kW Energy / Tons (capacity) 
+Co-Efficient of Performance (COP) = 12/kW per ton/ 3.412 
+Energy Efficiency Ratio (EER) = BTU / Watts 
+ 
+ 
+F. Baseline Period Energy and Conditions 
+Baseline dates varied slightly for each unit due to CDD selections measured by 
+onsite outdoor air temp sensors as to compare exact or near exact data sets in 
+post in respect to CDD totals. Generally, the dates occurred between May 31 – 
+June 25. Operating hours for these cell huts are 24/7 365 days a year. Each 
+individual units baseline dates can be found later in this report. Each hut was 
+allowed to operate as normal without interruption. Thermostat settings were static 
+and left alone during both the Baseline and Energy Reporting Periods. Internally 
+generated heat produced by Major Telecom E servers and antennas varied from hut to hut 
+but were considered static in both Baseline and ERP. 
+ 
+ 
+
+═══ PAGE 006 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+G. Energy Reporting Period and Conditions 
+ 
+Energy reporting period dates is from Sept 6 – 25 except for Nodes 513 & 514 
+(Sept 11-Oct 3 range) due to the matching of like weather data sets (20 
+consecutive days each set). All conditions were left the same as in the baseline 
+period. No adjustments were made. Specific data for each unit’s data set can be 
+found in Appendix D. 
+ 
+ 
+H. Final kWh Savings Results Per Cell Hut 
+ 
+kWh 
+Cell Hut 1 
+Cell Hut 2 
+Cell Hut 3 
+Cell Hut 4 
+Cell Hut 5 
+Baseline 
+1203.32 
+601.21 
+932.69 
+932.95 
+601.2 
+Post 
+956.63 
+461.26 
+797.52 
+886.4 
+481.49 
+Diff% 
+20.5% 
+23.25% 
+14.5% 
+5.0% 
+19.9% 
+ 
+ 
+ 
+ 
+ 
+ 
+kWh 
+Cell Hut 6 
+Cell Hut 7 
+Cell Hut 8 
+Cell Hut 9 
+Cell Hut 10 
+Baseline 
+368.4 
+786.72 
+729.9 
+466.1 
+1582.87 
+Post 
+305.47 
+557.68 
+494.3 
+424.73 
+1240.32 
+Diff% 
+17.1% 
+29.1% 
+32.3% 
+8.9% 
+21.6% 
+ 
+ 
+ 
+ 
+ 
+ 
+Total kWh  
+ 
+ 
+ 
+ 
+Baseline 
+8205.36 
+ 
+ 
+ 
+ 
+Post 
+6610.27 
+ 
+ 
+ 
+ 
+Diff% 
+19.4% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BLUE- Post results were adjusted by kW/ton % to account for uncontrolled variables.  See 
+Section L. Accounting for Uncontrolled Variables using Industry Standards 
+ 
+ 
+I. kWh Consumption Per Unit & Per Hut 
+ 
+ 
+kWh 
+Baseline 
+Post 
+Diff% 
+Cell Hut 1 
+507 
+559.69 
+444.41 
+20.5% 
+ 
+508 
+643.63 
+511.68 
+20.5% 
+Cell Hut 2 
+509 
+263 
+344.60 
+23.3% 
+ 
+510 
+338.21 
+128.94 
+23.3% 
+Cell Hut 3 
+511 
+481.92 
+396.12 
+17.8% 
+ 
+512 
+450.77 
+401.4 
+11.0% 
+Cell Hut 4 
+*513 
+528.15 
+489.1 
+7.4% 
+ 
+*514 
+404.8 
+397.3 
+1.9% 
+Cell Hut 5 
+515 
+263.5 
+224.29 
+14.9% 
+ 
+516 
+337.7 
+257.2 
+23.8% 
+Cell Hut 6 
+517 
+174.79 
+145.88 
+16.5% 
+
+═══ PAGE 007 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+518 
+193.61 
+159.59 
+17.6% 
+Cell Hut 7 
+519 
+N/A 
+N/A 
+N/A 
+ 
+520 
+768.92 
+557.68 
+29.1% 
+Cell Hut 8 
+521 
+388.4 
+235.2 
+39.4% 
+ 
+522 
+341.5 
+259.1 
+24.1% 
+Cell Hut 9 
+523 
+245.4 
+224.6 
+8.5% 
+ 
+524 
+220.7 
+200.13 
+9.3% 
+Cell Hut 10 
+525 
+856.85 
+661.12 
+22.8% 
+ 
+526 
+726.02 
+579.2 
+20.2% 
+                  
+ 
+ 
+J. Runtime *Minutes Per Unit Per Hut 
+ 
+ 
+ 
+Runtime Mins 
+Baseline 
+Post 
+Diff% 
+Cell Hut 1 
+507 
+7534.85 
+5972.89 
+20.5% 
+ 
+508 
+7853.56 
+5954.55 
+20.5% 
+Cell Hut 2 
+509 
+2942.53 
+3588.94 
+23.25% 
+ 
+510 
+4801.53 
+1406.11 
+23.25% 
+Cell Hut 3 
+511 
+4839.28 
+4099.96 
+15.3% 
+ 
+512 
+4681.76 
+4203.99 
+10.2% 
+Cell Hut 4 
+513 
+8457.43 
+7992.65 
+5.5% 
+ 
+514 
+6910.36 
+6965.15 
+-0.8% 
+Cell Hut 5 
+515 
+2664.76 
+2283.11 
+14.3% 
+ 
+516 
+3209.83 
+2533.92 
+21.1% 
+Cell Hut 6 
+517 
+2613.23 
+2141.72 
+18.0% 
+ 
+518 
+2543.22 
+2145.73 
+15.6% 
+Cell Hut 7 
+519 
+ 
+N/A 
+N/A 
+ 
+520 
+8516.65 
+6174.64 
+29.1% 
+Cell Hut 8 
+521 
+5311.64 
+3476.03 
+34.6% 
+ 
+522 
+3727.41 
+2821.42 
+24.3% 
+Cell Hut 9 
+523 
+3546.33 
+3118.66 
+12.1% 
+ 
+524 
+3180.46 
+2849.51 
+10.4% 
+Cell Hut 10 
+525 
+10386.15 
+8382.12 
+19.3% 
+ 
+526 
+9043.82 
+7835.12 
+13.4% 
+*Total runtime was reduced by 18,818 minutes in the same weather 
+conditions.  Runtime reduction was within 1% of kWh reduction. 
+ 
+ 
+ 
+ 
+
+═══ PAGE 008 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+K. CDD Totals Per Unit & Per Hut 
+ 
+ 
+ 
+CDD Total 
+Baseline 
+Post 
+Diff% 
+Cell Hut 1 
+507 
+336 
+335 
+-0.3% 
+ 
+508 
+405 
+407 
+0.5% 
+Cell Hut 2 
+509 
+437 
+439 
+0.5% 
+ 
+510 
+413 
+410 
+-0.7% 
+Cell Hut 3 
+511 
+420 
+422 
+0.5% 
+ 
+512 
+448 
+454 
+1.3% 
+Cell Hut 4 
+513 
+406 
+409 
+0.7% 
+ 
+514 
+446 
+444 
+-0.4% 
+Cell Hut 5 
+515 
+439 
+442 
+0.7% 
+ 
+516 
+461 
+459 
+-0.4% 
+Cell Hut 6 
+517 
+474 
+474 
+0.0% 
+ 
+518 
+472 
+477 
+1.1% 
+Cell Hut 7 
+519 
+N/A 
+N/A 
+N/A 
+ 
+520 
+430 
+428 
+0.0% 
+Cell Hut 8 
+521 
+453 
+451 
+-0.4% 
+ 
+522 
+515 
+515 
+0.0% 
+Cell Hut 9 
+523 
+439 
+435 
+-0.9% 
+ 
+524 
+451 
+447 
+-0.9% 
+Cell Hut 10 
+525 
+446 
+451 
+1.1% 
+ 
+526 
+439 
+441 
+0.5% 
+ 
+TOTAL 
+7900 
+7912 
+ 
+ 
+The weather difference in this study between the two periods is negligible (.2% difference on average) and 
+in some cases warmer in the post period therefore no weather regression analysis will be performed for this 
+independent variable. These huts are unmanned with no windows and secured. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+═══ PAGE 009 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+L. Accounting for Uncontrolled Variables using Industry Standards 
+ 
+Cell Hut #1 has the most internally generated heat of cell site in this project. It 
+contains approx. 20 antennas along with other standard equipment that give off 
+significant amounts of heat. Network usage traffic here likely plays a significant roll 
+in HVAC usage even more than outdoor air temps.  
+• Node 508 had a leak in the baseline which was reported for repair prior to 
+baseline ERP.  The unit steadily declined in performance and in the 
+baseline and into the post.  Efficiency was improved but the runtime data is 
+unreliable.  We did calculate the avoided energy savings in the regression 
+from efficiency improvements in the site. 
+ 
+ 
+• Node 507 showed an unexplained improvement in output during the 
+extended baseline period that showed a 4-ton unit outputting over 5 tons.  
+However baseline data prior to the change gives us reliable data to 
+calculate savings by kW/ton reduction. Regression analysis accounted for 
+PermaFrost NMR improvements and removed the influence due to the 
+output anomaly.  The energy use was improved 20.5% (adjusted down from 
+52% output anomaly) 
+ 
+
+═══ PAGE 010 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+ 
+ 
+Cell Hut #2 located at Benfer Rd. 
+Node 509 (HVAC #1) & 510 (HVAC #2) demonstrated some anomalous HVAC 
+controls behavior in respect to their lead/lag schedule. It is most likely a controls 
+issue or malfunction that did not permit comparable runtime data.    Industry 
+standards data showed efficiency improvement which matched the data in larger 
+sample of sites.  
+ 
+a. Unit 2 is a 3-ton system that was not allowed to run much in the post. 
+This malfunction showed a false positive decrease in runtime which 
+overstated the reduction. The unit ran every other day as normal during 
+the baseline but did not operate that way in the post. Please see 
+Appendix E.   
+
+═══ PAGE 011 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+ 
+b. Unit 1 is a 5-ton system that was forced to run in place of unit 2 in the 
+post.  This unit is much larger and consumes almost twice the kW while 
+running, but we can still calculate the savings due to running it at a 
+much higher efficiency.  These two units used 23.25 % less energy than 
+the baseline consumption. 
+  
+ 
+ 
+ 
+
+═══ PAGE 012 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+Cell Hut #7 located at 7167-7133 Nelms St. 
+Powertron Global discovered that HVAC #1 (node 519) has an ongoing issue that 
+prevented it from running properly in the Baseline and in the ERP. It is currently 
+still malfunctioning. It was fixed back in late July but soon malfunctioned again 
+around September 1st due to the compressor energizing briefly but then defaults to 
+the evaporator fan only running as if it was in a fan mode. This condition was 
+witnessed and reported to Major Telecom E prior to the installation of the PermaFrost NMR.  
+• The other unit (node 520) handled the entire workload (as planned) and 
+exhibited runtime and kWh savings as well energy efficiency improvements 
+in the unit. While operating alone, the unit saved 29.1% kwh and runtime. 
+Below are the efficiency improvements for reference. 
+ 
+ 
+ 
+CONCLUSION 
+ 
+We are pleased to conclude that this study confirmed energy savings of +19% and 
+these results fell directly in line with the 18-22% results in UL Laboratory testing. 
+The forensic approach showed comprehensive data accounting for uncontrolled 
+variables and normal rates of equipment failure. This methodology combined with 
+kWh use and weather (degrees), provides an accurate savings measurement 
+when variable interference and comparable data was not available or unreliable.  
+The complete data set supports the testing requirements of Major Telecom E, AHRI, UL, and 
+Powertron Global while allowing more accurate modeling results in diverse 
+conditions across a national portfolio. 
+ 
+ 
+ 
+
+═══ PAGE 013 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+APPENDIX  A 
+ 
+ 
+HVAC NOMINAL INFORMATION: 
+ 
+FA # 
+Equip 
+ID 
+Make 
+ Model Number 
+Serial Number 
+Type 
+Year 
+Mfg. 
+Refrig.    
+Type 
+Nominal 
+Capacity 
+10110866 
+507 
+Bard 
+W49A1-
+A05XPXXXJ 
+343H122914171-02 
+PKG 
+2012 
+R410 
+4 
+10110866 
+508 
+Bard 
+W49A1-
+A05XPXXXJ 
+343F122911868-02 
+PKG 
+2012 
+R410 
+4 
+10025067 
+509 
+Bard 
+W60A1-A00 
+324C122891966-02 
+PKG 
+2012 
+R410 
+5 
+10025067 
+510 
+Bard 
+W36A1-A10 
+309H122920730-02 
+PKG 
+2012 
+R410 
+3 
+10078552 
+511 
+Bard 
+W60A1-A00 
+324L122951679-02 
+PKG 
+2012 
+R410 
+5 
+10078552 
+512 
+Bard 
+W60A1-A00 
+324L122951680-02 
+PKG 
+2012 
+R410 
+5 
+10079758 
+513 
+Bard 
+W36A1 
+309A132980020-02 
+PKG 
+2013 
+R410 
+3 
+10079758 
+514 
+Bard 
+W36A1 
+309A132980007-02 
+PKG 
+2013 
+R410 
+3 
+10025097 
+515 
+Bard 
+W60A2 
+324D133011473-02 
+PKG 
+2013 
+R410 
+5 
+10025097 
+516 
+Bard 
+W60A2 
+324F133017342-02 
+PKG 
+2013 
+R410 
+5 
+10153087 
+517 
+Bard 
+W49A1 
+343C132994120-02 
+PKG 
+2013 
+R410 
+4 
+10153087 
+518 
+Bard 
+W49A1 
+343C132944107-02 
+PKG 
+2013 
+R410 
+4 
+10079766 
+519 
+Bard 
+W60A1-A00 
+324M122962300-02 
+PKG 
+2012 
+R410 
+5 
+10079766 
+520 
+Bard 
+W60A1-A00 
+324M122962297-02 
+PKG 
+2012 
+R410 
+5 
+10025108 
+521 
+Bard 
+W36A1-A10 
+3091L122952136-02 
+PKG 
+2012 
+R410 
+3 
+10025108 
+522 
+Bard 
+W36A1-A00 
+324P122973999-02 
+PKG 
+2012 
+R410 
+3 
+11584595 
+523 
+Bard 
+W49A1 
+343H122920251-02 
+PKG 
+2012 
+R410 
+4 
+11584595 
+524 
+Bard 
+W49A1 
+343H122920250-02 
+PKG 
+2012 
+R410 
+4 
+11584594 
+525 
+Bard 
+W49A1 
+343H133028431-02 
+PKG 
+2013 
+R410 
+4 
+11584594 
+526 
+Bard 
+W49A1 
+343H133028436-02 
+PKG 
+2013 
+R410 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+
+═══ PAGE 014 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+APPENDIX  B 
+ 
+ 
+33 Points Measured per Unit 
+ 
+- 
+Air velocity in FPS 
+- 
+Ambient Temp 
+- 
+CFM 
+- 
+Compressor #1 on/off  
+- 
+COP 
+- 
+Delta Enthalpy 
+- 
+Delta Temperature 
+- 
+Dew Point Return 
+- 
+Dew Point Supply 
+- 
+EER 
+- 
+kW 
+- 
+kW/ton 
+- 
+Meter Current, Phase A 
+- 
+Meter Current Averaged 
+- 
+Meter Current, Phase B 
+- 
+Meter kWh 
+- 
+Meter Volts Averaged 
+- 
+Net Capacity 
+- 
+Normalized Design Capacity Tons 
+- 
+Outdoor Air Temp  
+- 
+Power Factor  
+- 
+Return Air Humidity 
+- 
+Return Air Temp 
+- 
+Return Air Enthalpy 
+- 
+Supply Air Humidity 
+- 
+Supply Air Temp 
+- 
+Supply Air Enthalpy 
+- 
+Total Capacity (BTU’s) 
+- 
+Wet Bulb Return 
+- 
+Wet Bulb Supply 
+ 
+ 
+ 
+ 
+ 
+ 
+
+═══ PAGE 015 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+APPENDIX C 
+ 
+Meter Specifications 
+ 
+ 
+1. AccuEnergy 1312 Power Meter  
+ 
+AcuRev 1312 provides real-time RMS measurement of the instantaneous 
+Voltage, Current, Power, Frequency and Power Factor. All measurements can be 
+viewed through the meter display or the AcuRev 1312 Utility Software. The meter 
+supports energy parameters such as the reactive and apparent energy with ANSI 
+C 12.20 0.5 class and IEC 62053-22 0.5s class revenue grade accuracy. 
+ 
+2. Dwyer O-4 (Outdoor and Ambient Air Temp) 
+ 
+Thermistor temperature sensor +-.22 Thermistor temperature sensor: ±0.22°C 
+@ 25°C (±0.4°F @ 77°F); RTD temperature sensor: DIN class B: ±0.3°C @ 0°C 
+(±0.54°F @ 32°F). 
+ 
+3. Dwyer AC Current Switches CCS-231150 (Compressor on/off) 
+ 
+Current switch, split core, adjustable set point with min. set point 1.5, normally 
+open output. 0-200 A AC. 0.3 A @ 135 VAC/DC; For non-dry contact models: 1 
+A @ 240 VAC. 
+ 
+ 
+4. Dwyer AVUL (Air Velocity) 
+ 
+Simultaneous current and voltage outputs on all models provide universal 
+inputs to monitoring equipment while the output range, units, and 0 to 5/10 
+VDC, 4-20 mA output. ±(5% of reading + 0.2 m/s) or ±(3% of reading + 0.2 m/s)  
+ 
+ 
+5. Dwyer RHP-2D1B (Return and Supply RH and Temp) 
+ 
+Duct mount 2% RH/temperature transmitter with 4-20 mA RH output and 
+10K @ 25°C thermistor temperature output.  
+ 
+ 
+ 
+ 
+
+═══ PAGE 016 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+APPENDIX D 
+ 
+Unit Node 
+Baseline Dates 
+(20 Days) 
+Begin Meter 
+Reading kWh 
+End Meter 
+Reading kWh 
+Total kWh 
+Used 
+507 
+6/3/23-6/22/23 
+3804.75 
+4364.44 
+559.69 
+508 
+6/4/23-6/23/23 
+4279.88 
+4923.51 
+643.63 
+*509 
+6/7/23-6/26/23 
+788 
+1051 
+263 
+510 
+6/6/23-6/25/23 
+1096.46 
+1434.67 
+338.21 
+511 
+6/4/23-6/23/23 
+1782.10 
+2264.02 
+481.92 
+512 
+6/8/23-6/27/23 
+2002.33 
+2453.1 
+450.77 
+513 
+6/2/23-6/21/23 
+3333.75 
+3861.90 
+528.15 
+514 
+6/2/23-6/21/23 
+2587.80 
+2992.60 
+404.8 
+515 
+6/6/23-6/25/23 
+954.20 
+1217.70 
+263.5 
+516 
+6/7/23-6/26/23 
+1142.60 
+1480.30 
+337.7 
+517 
+6/7/23-6/26/23 
+705.0 
+879.79 
+174.79 
+518 
+6/6/23-6/25/23 
+759.69 
+953.3 
+193.61 
+520 
+6/9/23-6/28/23 
+ 
+ 
+**786.72 
+521 
+6/5/23-6/24/23 
+1230.3 
+1618.7 
+388.4 
+522 
+6/4/23-6/23/23 
+1149.0 
+1490.5 
+341.5 
+523 
+6/6/23-6/25/23 
+1172.50 
+1417.90 
+245.4 
+524 
+6/7/23-6/26/23 
+1028.7 
+1249.4 
+220.7 
+525 
+6/4/23-6/23/23 
+4900.85 
+5757.70 
+856.85 
+526 
+6/4/23-6/23/23 
+4326.70 
+5052.70 
+726.02 
+* Decimal place is off in raw data by one place, but data is accurate in this table 
+** Calculated kWh using kW and runtime hours (during baseline period a CT was flipped wrong way) 
+ 
+ 
+ 
+
+═══ PAGE 017 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+Unit Node 
+Post Dates 
+(20 Days) 
+Begin Meter 
+Reading kWh 
+End Meter 
+Reading kWh 
+Total kWh 
+Used 
+507 
+9/6/23-9/25/23 
+7482.41 
+8047.97 
+565.56 
+508 
+9/6/23-9/25/23 
+8442.30 
+9085.80 
+643.5 
+*509 
+9/6/23-9/25/23 
+3456 
+3950 
+449 
+510 
+9/6/23-9/25/23 
+2554.80 
+2722.84 
+168.04 
+511 
+9/6/23-9/25/23 
+4620.7 
+5016.82 
+396.12 
+512 
+9/6/23-9/25/23 
+4565.6 
+4967 
+401.4 
+513 
+9/11/23-9/30/23 
+6437.60 
+6926.70 
+489.1 
+514 
+9/14/23-10/3/23 
+5192.50 
+5589.80 
+397.3 
+515 
+9/6/23-9/25/23 
+2562.69 
+2786.70 
+224.01 
+516 
+9/6/23-9/25/23 
+2995.8 
+3253 
+257.2 
+517 
+9/6/23-9/25/23 
+1638.42 
+1784.3 
+145.88 
+518 
+9/6/23-9/25/23 
+1783 
+1942.59 
+159.59 
+520 
+9/2/23-9/21/23 
+ 
+ 
+**557.68 
+521 
+9/6/23-9/25/23 
+3056.6 
+3291.80 
+235.2 
+522 
+9/6/23-9/25/23 
+3273.7 
+3532.8 
+259.1 
+523 
+9/6/23-9/25/23 
+2598.4 
+2823 
+224.6 
+524 
+9/6/23-9/25/23 
+2284.87 
+2485 
+200.13 
+525 
+9/6/23-9/25/23 
+9203.66 
+9864.78 
+661.12 
+526 
+9/6/23-9/25/23 
+8068.1 
+8647.3 
+579.2 
+*Decimal place is off in raw data by one place but the data is accurate in this table 
+**Calculated using kW and runtime hours (CT was fixed during PF installation and meter data is available for 
+post period for comparison and accuracy) 
+ 
+ 
+
+═══ PAGE 018 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+ 
+APPENDIX  E 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BASELINE 
+  
+  
+  
+ERP 
+  
+  
+  
+Date 
+KWH 
+SUM 
+CDD 
+Runtime 
+(minutes) 
+Date 
+KWH 
+SUM 
+CDD 
+Runtime 
+(minutes) 
+5/31/23 
+9.17 
+12 
+151.15 
+8/17/23 
+20.6 
+27 
+286.15 
+6/1/23 
+14.09 
+14 
+208.93 
+8/18/23 
+8.03 
+26 
+110.68 
+6/2/23 
+10.74 
+16 
+171.97 
+8/19/23 
+24.14 
+28 
+331.83 
+6/3/23 
+17.7 
+18 
+266.85 
+8/20/23 
+0.33 
+28 
+4.92 
+6/4/23 
+8.3 
+10 
+143.45 
+8/21/23 
+0 
+26 
+0 
+6/5/23 
+11.6 
+10 
+183.65 
+8/22/23 
+1.84 
+25 
+25.25 
+6/6/23 
+7.45 
+11 
+125.88 
+8/23/23 
+0 
+25 
+0 
+6/7/23 
+15.46 
+13 
+232.45 
+8/24/23 
+0 
+25 
+0 
+6/8/23 
+9.76 
+14 
+159.72 
+8/25/23 
+21.95 
+28 
+308.43 
+6/9/23 
+19.83 
+16 
+283.82 
+8/26/23 
+4.93 
+26 
+67 
+6/10/23 
+8.19 
+18 
+130.87 
+8/27/23 
+0 
+26 
+0 
+6/11/23 
+20.71 
+18 
+290.08 
+8/28/23 
+0.25 
+23 
+4.37 
+6/12/23 
+8.73 
+20 
+137.9 
+8/29/23 
+0 
+23 
+0 
+6/13/23 
+23.96 
+21 
+369.62 
+8/30/23 
+0.24 
+22 
+4.3 
+6/14/23 
+9.86 
+21 
+151.02 
+8/31/23 
+0 
+23 
+0 
+6/15/23 
+26.78 
+24 
+368.88 
+9/1/23 
+0.24 
+23 
+4.32 
+6/16/23 
+11.02 
+24 
+165.68 
+9/2/23 
+0 
+23 
+0 
+6/17/23 
+24.98 
+24 
+337.2 
+9/3/23 
+0.27 
+24 
+4.5 
+6/18/23 
+11.07 
+24 
+165.22 
+9/4/23 
+0 
+23 
+0 
+6/19/23 
+28.27 
+25 
+368.62 
+9/5/23 
+1.15 
+25 
+16.15 
+6/20/23 
+12.29 
+25 
+178.68 
+9/6/23 
+0.12 
+25 
+2.05 
+6/21/23 
+25.98 
+24 
+346.32 
+9/7/23 
+1.62 
+27 
+21.38 
+6/22/23 
+7.53 
+20 
+121.82 
+9/8/23 
+0 
+25 
+0 
+6/23/23 
+26.73 
+23 
+360.82 
+9/9/23 
+0.23 
+22 
+4.3 
+6/24/23 
+9.19 
+23 
+139.6 
+9/10/23 
+0 
+22 
+0 
+6/25/23 
+27.74 
+25 
+367.33 
+9/11/23 
+0.2 
+19 
+4.13 
+6/26/23 
+10.04 
+24 
+148.93 
+9/12/23 
+0 
+21 
+0 
+6/27/23 
+29.21 
+25 
+384.9 
+9/13/23 
+0.23 
+21 
+4.12 
+6/28/23 
+10.26 
+24 
+153.7 
+9/14/23 
+0 
+16 
+0 
+6/29/23 
+27.21 
+25 
+375.38 
+9/15/23 
+0.21 
+14 
+4.23 
+6/30/23 
+9.59 
+23 
+146.15 
+9/16/23 
+0 
+14 
+0 
+7/1/23 
+27.09 
+24 
+360.48 
+9/17/23 
+0.22 
+16 
+4.27 
+7/2/23 
+9.91 
+20 
+148.7 
+9/18/23 
+23.72 
+19 
+302.25 
+7/3/23 
+24.21 
+21 
+332.78 
+9/19/23 
+4.88 
+17 
+72.77 
+7/4/23 
+8.95 
+20 
+136.7 
+9/20/23 
+31.21 
+22 
+418.93 
+ 
+The highlighted yellow area shows the unit being prevented from running in the post period. 
+ 
+ 

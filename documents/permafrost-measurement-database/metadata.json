@@ -1,0 +1,91 @@
+{
+  "document_id": "permafrost-measurement-database",
+  "title": "PermaFrost NMR Measurement Database",
+  "description": "Structured dataset of 254 HVAC system performance measurements before and after PermaFrost NMR treatment, following IPMVP methodology. All studies PE stamped and certified.",
+  "source": "Powertron Global field measurements 2016",
+  "document_type": "structured_data",
+  "certification": {
+    "pe_stamped": true,
+    "pe_certified": true,
+    "methodology": "IPMVP (International Performance Measurement and Verification Protocol)",
+    "certification_note": "All measurement studies reviewed and certified by Professional Engineer (PE)"
+  },
+  "created": "2025-12-27T20:25:38.870445",
+  "statistics": {
+    "total_records": 254,
+    "usable_records": 192,
+    "energy_savings": {
+      "mean_percent": 23.2,
+      "median_percent": 22.0,
+      "min_percent": 4.1,
+      "max_percent": 62.8
+    },
+    "kw_per_ton": {
+      "baseline_avg": 1.476,
+      "post_treatment_avg": 1.101,
+      "improvement_percent": 25.4
+    },
+    "industries": {
+      "Office": 42,
+      "Data Center": 33,
+      "QSR": 23,
+      "Retail": 15,
+      "Bank": 15,
+      "FSR": 8,
+      "Distribution": 7,
+      "Hotel": 7,
+      "Lab": 5,
+      "Sports": 5,
+      "Convenience": 5,
+      "Telecom": 4,
+      "Military": 3,
+      "Theater": 3,
+      "Church": 3,
+      "Education": 2,
+      "Food": 2,
+      "Manufacturing": 2,
+      "Offices": 2,
+      "Horticulture": 1,
+      "Cold Storage": 1,
+      "Manufacture": 1,
+      "Gaming": 1,
+      "Apartment": 1,
+      "Navy Ship": 1
+    },
+    "equipment_types": {
+      "RTU": 81,
+      "Chiller": 36,
+      "CRAC": 28,
+      "Package": 19,
+      "DX Split": 15,
+      "Water Source HP": 6,
+      "Refrigeration Rack": 3,
+      "Refrigerator": 2,
+      "Package Water Cooled": 1,
+      "Walkin": 1
+    },
+    "refrigerants": {
+      "R22": 144,
+      "R410a": 19,
+      "R134a": 14,
+      "R123": 10,
+      "R438a": 3,
+      "R407c": 2
+    }
+  },
+  "schema": {
+    "record_id": "Unique identifier PMF-XXXX",
+    "usable": "Boolean - whether record passed quality checks",
+    "study_info": "Anonymized study metadata",
+    "equipment": "HVAC equipment specifications",
+    "baseline_test": "Pre-treatment measurements",
+    "post_treatment_test": "Post-PermaFrost NMR measurements",
+    "results": "Calculated efficiency improvements",
+    "methodology": "Test protocol used"
+  },
+  "pii_status": "anonymized",
+  "anonymization": {
+    "customers_anonymized": 127,
+    "locations_anonymized": 83
+  }
+}

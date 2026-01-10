@@ -1,0 +1,107 @@
+ 
+Appendix A Examples         85 
+ 
+Factors Affecting M&V Design  Computer simulation was used extensively throughout the 
+building design process to help meet a Retail Chain A energy use equal to 50% of code.  
+The building was built as the new corporate headquarters for a large firm. It was expected that 
+the building would become fully occupied immediately after opening.  
+The owner wished to use the same energy-savings calculations that he presents to the 
+government to show how much money was being saved as a result of his extra investment in an 
+efficient building. He also wished to annually review variances from his initially achieved energy 
+performance. 
+M&V Plan   IMPVP Volume I, EVO 10000 – 1:2012, Option D will be used to demonstrate the 
+new building’s savings compared to an identical building built to building-code standards. It is 
+possible to use either Equation 1f) comparing two simulations, or Equation 1g) comparing the 
+simulated baseline energy and measured actual energy after correcting for calibration error. The 
+incentive program did not specify which method should be used. The person performing the 
+modeling felt that Equation 1f) would be more accurate. However the owner wished to use 
+actual utility data in his final savings statement, so he required the use of Equation 1g).30 
+Following the first year of full operation (“year one”), year one’s energy and operational data will 
+become the baseline for an IPMVP Volume I, EVO 10000 – 1:2012, Option C approach to 
+reporting ongoing performance. 
+Results  A year after commissioning and full occupancy, the original design simulation’s input 
+data was updated to reflect the as-built equipment and the current occupancy. A weather-data 
+file was chosen from available weather files for the building’s location based on the file’s 
+similarity of total heating and cooling degree days with year one’s measured degree days. This 
+similar file was appropriately adjusted to year one’s actual monthly heating and cooling degree 
+days. The revised input data was used to rerun the simulation. 
+The utility consumption data from year one was compared to this simulation model. After some 
+further revisions to the simulation’s input data, it was deemed that the simulation reasonably 
+modeled the current building. This calibrated simulation was called the “as-built model.” 
+The calibration error in the as-built model relative to actual utility data is shown in Table A-9-1. 
+ 
+Gas 
+Electric Consumption 
+(kWh) 
+Electric 
+Demand 
+(kW) 
+Peak
+Off Peak
+January
++1%
+- 2%
++1%
++6%
+February
+- 3%
++1%
+ 0%
+- 2%
+March
+ 0%
+- 2%
+- 1%
+- 5%
+April
++2%
++3%
++1%
+- 3%
+May
+- 2%
++5%
++2%
++6%
+June
++7%
+- 6%
+- 2%
+- 9%
+July
+- 6%
++2%
+ 0%
++8%
+August
++1%
+- 8%
+- 1%
++5%
+September
+- 3%
++7%
++1%
+- 6%
+October
+- 1%
+- 2%
+- 1%
++5%
+November
++3%
+- 2%
+- 1%
+- 9%
+December
++1%
++4%
++1%
++4%
+ 
+                                                  
+30 This method is the same as IPMVP Volume III Part 1 New Construction (2006), Option D, Method 2. 
+ 
+Table A-9-1 Monthly 
+Calibration Errors 
+ 

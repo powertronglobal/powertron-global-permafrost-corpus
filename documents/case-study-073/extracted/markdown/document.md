@@ -1,0 +1,793 @@
+# Hotel Chain A_[Louisiana Location].pdf
+
+Energy Science Division
+
+®
+
+Major Hotel Chain COURTYARD DOWNTOWN Healthcare System ALLER #1
+
+SUMMIT HOTEL PROPERTIES
+
+Study Date:
+     Sept 2014 – April 2015
+
+Participants:
+     Summit Hotels
+     Larry Trowbridge
+     Director of Construction
+
+Jim Wogick
+     Asst. Dir. of Construction
+
+Major Hotel Chain Hotels
+     Phillip Lee
+     Director of Cluster Engineering
+     New Orleans District
+
+Powertron Global
+     [Senior Energy Engineer],
+     Director of Engineering
+
+Location:
+     Major Hotel Chain Courtyard Downtown
+     [Downtown Street Address]
+     New Orleans, LA
+
+Comprehensive HVAC/R Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+1
+
+HVAC/R Eﬃciency Report
+
+Purpose of Energy Eﬃciency Study
+
+The purpose of this study is to verify the industry wide problem of efficiency loss in HVAC/R as projected by
+
+ASHRAE research and to quantify the amount of money wasted due to this loss. Many industry leading
+
+organizations including ASHRAE project that all HVAC/R units degrade in capacity and efficiency as they age.
+
+Thermal degradation is caused by a phenomenon that is present in all HVAC/R equipment that operates as a
+
+vapor compression cycle associated with refrigerant and compressor lubricant. This thermal degradation is well
+
+documented by the HVAC/R industry and the original equipment manufacturers (OEM’s). Thermal
+
+degradation prevents units from operating at the original design efficiency, which leads to excessive run-times
+
+and additional kWh consumption.
+
+The chiller in this study (pictured below) is
+
+representative of a great majority of the
+
+portfolio of equipment operated by Summit
+
+Hotel Properties. If thermal degradation is
+
+present in this chiller it is present in the entire
+
+inventory of equipment. Energy waste can be
+
+calculated based on this equipment (portfolio
+
+representation) and then accurately
+
+extrapolated across the entire inventory of
+
+equipment.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+2
+
+Process
+
+This report contains specific information regarding the current performance profile of one of two chillers that
+
+support the Major Hotel Chain Courtyard Downtown Hotel in New Orleans, LA.
+
+Detailed performance testing (outlined later in this report) was performed on the pilot chiller before and after
+
+the installation of the ECM to determine the impact on the three key elements that greatly affect the hotel’s
+
+HVAC power bill as they relate to the original design specifications:
+
+1.  The cooling capacity the chiller produces after 4 years in service, before and after the administration
+
+of the ECM.
+
+2.  The actual cost of power required to produce the amount of cooling tons the chiller can deliver as
+
+reflected in the kW/ton measurement, before and after the administration of the ECM.
+
+3.  The thermal dynamic ability of the chiller to perform in relation to operational design, before and
+
+after the administration of the ECM.
+
+Methodology
+
+The measurements used in the efficiency calculations were collected and compiled in accordance with the
+
+IPMVP (International Measurement and Verification Protocol) framework. The team consisted of Larry
+
+Trowbridge and Jim Wogick, the Director and Asst. Director of Construction for Summit Hotel Properties;
+
+Major Hotel Chain’s New Orleans Director of Cluster Engineering, Phillip Lee; and Powertron Global’s Director of
+
+Engineering, [Senior Energy Engineer].
+
+Notes
+
+The equipment tested is common type of air-cooled chiller manufactured by Carrier.  Both the baseline and post
+
+measurements were taken with outside air temperatures of 74 degrees.
+
+The flow rate through the evaporator was set to exact design specifications in the baseline and post and the return chilled
+
+water entering the chiller in the baseline and post were identical so no adjustments were made.
+
+The boundary of the testing was the chiller and nothing else; therefore confidence in the accuracy of the performance
+
+calculations is very high.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+3
+
+Energy Conservation Method (ECM)
+
+The content detailed in this report will first demonstrate the ability of the pilot chiller to perform prior to the
+
+PermaFrost NMR® (ECM) being installed, as well as illustrate the amount of thermal degradation due in large
+
+part to thermal degradation within the heat exchangers.
+
+The following report produces the utilization of the IPMVP as the M&V plan.
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase)
+
+• kW/Ton = kW / Actual Tonnage
+
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+
+• Actual Cooling Tons per Hour = Evaporator GPM X 8.34 * 60 * Chilled Water Delta T / 12,000 BTU
+
+• Refrigerant Approach = Supply Water Temp – Saturated Evaporator Temp (CH)
+
+Notes
+
+Following a diagnostic examination to determine the operational condition of the chiller was satisfactory, Baseline M&V
+
+data was collected and recorded by the M&V team. 400+ runtime hours after installation of the ECM, the M&V team
+
+returned on a very similar weather day to the Baseline to take Post M&V measurements in the identical fashion as in the
+
+Baseline and at the exact same outdoor air temperature. The delta of these measurements and associated calculations show
+
+the amount of capacity restored.
+
+The following IPMVP data points were recorded on 26 September 2014 using the flow meter shown below, recently
+
+calibrated by NIST (National Institutes of Standards and Technology) to insure GPM measurement accuracy. The
+
+remaining measurements were taken directly from the chiller’s control panel. The chiller was then treated with
+
+PermaFrost NMR® on the same day and allowed to run normally until 22 April 2015 to ensure the patented surface
+
+science nanotechnology had ample time to
+
+seat into all the metal surfaces of the heat
+
+exchangers. All measurements were taken at
+
+similar incoming water temperatures as
+
+well as outdoor air temperatures. The
+
+collection of the data in both the baseline and
+
+post periods was witnessed by Major Hotel Chain
+
+Cluster Engineering and Powertron Global®
+
+and backed up by photos.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+4
+
+104 tons
+
+112 tons
+
+Baseline
+Tonnage
+
+Post ECM
+Tonnage
+
+• The Chiller should be operating @ 122 tons of cooling capacity
+
+• The Chiller was operating @ 104 tons of cooling capacity prior to
+
+installing ECM
+
+• The Chiller now has 8 tons of restored cooling capacity after ECM
+
+equating to a 7.7% increase
+
+• The Chiller should be operating @ 3.4 COP or higher
+
+• The Chiller was operating @ 2.39 COP prior to the ECM
+
+and 3.17 following the ECM
+
+• The COP of the Chiller was increased by 32.6%  following the ECM
+
+2.39
+Baseline COP
+
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+104
+tons Baseline
+
+100%
+CAPACITY @
+~85% LOAD
+
+Baseline
+COP
+
+Post ECM
+COP
+
+2.39
+
+3.17
+
+3.17
+Post ECM COP
+112
+tons Post ECM
+
+32.6%
+
+Improvement
+in COP
+
+8
+tons of
+Recovered
+Capacity
+
+TONNAGE
+COP
+
+Summary of HVAC/R Eﬃciency Study Results
+
+Chiller Eﬃciency with PermaFrost NMR® ECM
+
+Summit Hotels has the problem of thermal degradation in its Chillers and HVAC units. The lower operating
+
+tonnage and COP ratings measured on site are in line with the ASHRAE loss of performance and cost to
+
+operate numbers. The degraded equipment performance is costing Summit Hotel Properties significant money
+
+and wasting energy. The pilot chiller is using significantly more energy to operate than when it was new just
+
+four years earlier.
+
+The performance summary includes the measured efficiency and tonnage of the chiller in the baseline and post
+
+testing periods demonstrating the impact of thermal degradation. The implementation of PermaFrost NMR®
+
+ECM resulted in a restoration of 8 operating tons and an average improvement of 32.6% in Coefficient of
+
+Performance (COP), significantly reducing the cost to operate the chiller throughout the year.
+
+The Carrier chiller treated has a nominal capacity of 143 tons at the given test conditions at 100% load and 308
+
+gallons per minute (GPM) flow through the evaporator.  The chiller was tested at ~85% load or 122 tons
+
+maximum capacity (5 of 6 compressors running), a GPM of 308, and outside air temperatures of 74 degrees.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+0.0
+
+0.3
+
+0.6
+
+0.9
+
+1.2
+
+1.5
+
+Reduction in
+Per Unit Costs
+
+Equating to a
+24.5% reduction
+
+5
+
+Recovered Wasted Energy with ECM - Chiller
+
+The chart to the right illustrates the performance
+
+restoration the PermaFrost NMR® ECM created in the
+
+treated chiller. The average cost to operate this chiller
+
+before it was treated with PermaFrost NMR®, as
+
+calculated in kW/ton, was 1.47.
+
+The specific cost to operate this chiller after it was
+
+treated with PermaFrost NMR®, as calculated in
+
+kW/ton, is currently 1.11.
+
+The higher baseline kW/ton rating measured in-situ was
+
+expected when compared to the ASHRAE loss of
+
+performance efficiency and cost to operate estimate for a
+
+four year old chiller utilizing R410A refrigerant. The
+
+post results are also in line with the average
+
+improvement savings shown over more than 130,000
+
+installations globally.
+
+Cost Per Cooling Unit to Operate
+
+kW/ton
+
+.36 kW/ton
+
+Baseline
+Post ECM
+
+1.47
+
+1.11
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+6
+
+Photographic Evidence of Key Measurements
+
+Baseline - 9/26/14
+Post - 4/22/15
+
+Measurements
+
+Value: 478.7 VAC
+
+Capture Date: Apr 22, 2015, 9:00:31 AM
+
+Value: 171.2 AAC
+
+Capture Date: Apr 22, 2015, 9:00:31 AM
+
+Value: 175.5 AAC
+
+Capture Date: Apr 22, 2015, 9:00:31 AM
+
+Value: 180.5 AAC
+
+Capture Date: Apr 22, 2015, 9:00:30 AM
+
+Sent using Fluke Connect ™
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Energy Consumption & Financial Metrics
+
+The following are the final calculated average performance measurements following the PermaFrost NMR®
+
+Post measurement period for the Major Hotel Chain Courtyard Downtown Chiller.
+
+Baseline Energy Consumption
+
+Baseline Tonnage: 104 tons
+
+kW Baseline (Adjusted): 1.47 kW/ton * 112 tons = 165 kW
+
+Annual kWh Baseline: 165 kW * 3,235 Annual Operating Hrs = 533,775 kWh
+
+Annual Cost Baseline: 533,775 kWh * $.082 = $43,770
+
+Post Energy Consumption
+
+kW Post: 1.11 kW/ton * 112 tons = 124 kW
+
+Annual kWh Post: 124 kW * 3,235 hours = 401,140 kWh
+
+Annual Cost Post: 401,140 kWh * .082 cents = $32,893
+
+Savings Per Year
+
+Avoided Energy Cost (savings) Per Year: $43,770 - $32,893 = $10,877
+
+Estimated Energy Savings Per Month: $10,877 / 12 = $906
+
+Initial Payback Period
+
+Cost of PermaFrost NMR® installed in the pilot chiller: $16,000
+
+Estimated ROI Period for Summit Hotel Properties on the chiller: $16,000 / $906 = 17.7 months
+
+Annual Rate of Return = 68%
+
+Return on Investment Over 5 Years = 340%
+
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period for
+
+Summit Hotel Properties for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to
+
+calculate the true energy savings resulting from the improvement in capacity. This increased capacity reduces the annual
+
+kWh expended in the Post Analysis Period. ROI comes from determining what the cost to run the chiller was when
+
+operating at the original energy profile to produce the newly restored amount of available tonnage capacity and then
+
+subtracting the revised cost to run the chiller at the same restored tonnage after the PermaFrost NMR® ECM was
+
+installed. This regression analysis is the most widely accepted method of accounting for the reduced number of hours or
+
+load the chiller will now operate due to the restored capacity. This restored capacity allows the chiller to reach the internal
+
+building set points with increased efficiency resulting in reduced compressor demand loading.
+
+7
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+1.47
+
+POST
+
+BASELINE
+
+1.11
+
+kW/ton
+
+REDUCTION
+24.5%
+
+REDUCTION
+
+POST
+
+BASELINE
+
+24.8%
+
+7.4%
+
+POST
+
+BASELINE
+
+Chilled Water Delta
+
+IMPROVEMENT
+
+8.1
+
+533,775
+
+401,140
+124
+
+8.7
+
+Key Results for Chiller with PermaFrost NMR® ECM
+
+Carrier
+
+AquaSnap
+
+2411Q76010
+
+R410A
+
+122
+
+3,235
+
+2011
+
+System Description
+
+Manufacturer
+
+Model Number
+
+Serial Number
+
+Refrigerant Type
+
+Nominal Cooling
+Capacity in Tons
+
+Average Annual
+Runtime Hours
+
+Date Installed
+
+478.7
+
+175.7
+
+40.7
+
+120.5
+
+91.8
+
+282
+
+43.8
+
+52.5
+
+74
+
+N/A
+
+8.7
+
+3.1
+
+124
+
+1.11
+
+112
+
+308
+
+401,140
+
+3.17
+
+74
+
+Energy Usage
+BASELINE
+POST
+
+Voltage
+
+Amperage
+
+Saturated Suction Temperature
+
+Suction Pressure
+
+Discharge Refrigerant Temperature
+
+Discharge Refrigerant Pressure
+
+Chilled Water Leaving Temp (Supply)
+
+Chilled Water Entering Temp (Return)
+
+Condenser Air Temp Entering Chiller
+
+Condenser Air Temp leaving Chiller
+
+Chilled Water Delta T
+
+Refrigeration Approach
+
+kW (V x A x 1.47)
+
+kW / Ton
+
+Actual Measured Operating Tons
+
+Chiller GPM
+
+Annual kWh (after regression analysis)
+
+Coeﬃcient of Perfromance (COP)
+
+OAT
+
+475.6
+
+218.6
+
+34.9
+
+107.3
+
+106.9
+
+350
+
+44.4
+
+52.5
+
+74
+
+N/A
+
+8.1
+
+9.5
+
+153
+
+1.47
+
+104
+
+308
+
+533,775
+
+2.39
+
+74
+
+8
+
+Notes
+
+The pilot chiller provides cooling to the Major Hotel Chain
+
+Courtyard Downtown in New Orleans. Given
+
+the facility load and the two chillers comprising
+
+the plant, the pilot chiller runs approximately
+
+3,235 hours or more annually prior to the ECM
+
+being implemented.
+
+REDUCTION
+
+POST
+
+BASELINE
+165
+
+Calculated kW
+
+24.8%
+
+Calculated Annual kWh
+
+Chiller #1 had 5 of 6 compressors operating during testing period
+while Chiller #2 was turned oﬀ.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+19.3
+
+Passenger vehicles
+
+4.7
+
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+
+10,291
+
+Gallons of gasoline
+consumed
+
+98,237
+
+Pounds of coal burned
+annually
+
+213
+
+Barrels of oil
+consumed
+
+.49
+
+Railcars worth
+of coal burned
+
+12.6
+
+Homes’ electricity use for
+one year
+
+9
+
+Summit Hotel Properties is Saving More than Just Energy
+
+By treating the pilot chiller with PermaFrost NMR®, based on the current manner in which the Summit Hotel
+
+Properties operates the Major Hotel Chain Courtyard Downtown chiller, it will save approximately 132,635 kWh per
+
+year and all the costs associated with those savings. From an environmental impact standpoint, Summit is
+
+also benefitting the surrounding community of downtown New Orleans. Imagine how great the
+
+environmental impact will be when Summit Hotel Properties moves forward with treating all their HVAC
+
+equipment in all their properties across the USA.
+
+The 132,635 kWh saved per year equates to preventing 91.5 metric tons of greenhouse gas emissions from
+
+being released or any of the following:
+
+Annual greenhouse emissions from:
+
+CO2 emissions from:
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

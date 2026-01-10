@@ -1,0 +1,62 @@
+®
+4
+23.7 tons
+32.0 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The CRAC should be operating @ 31 tons of cooling capacity
+• The CRAC was operating @ 23.7 tons of cooling capacity prior to
+   installing ECM
+• The CRAC now has 8.3 tons of restored cooling capacity after ECM
+• The CRAC should be operating @ 3.0 COP or higher
+• The CRAC was operating @ 2.12 COP prior to the ECM
+   and 2.81 following the ECM
+• The COP of the CRAC was increased by 32.5% following
+   the ECM
+2.12
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+23.7
+tons Baseline
+100%
+CAPACITY @
+100% LOAD
+Baseline
+COP
+Post ECM
+COP
+2.12
+2.81
+2.81
+Post ECM COP
+32.0
+tons Post ECM
+32.5%
+Improvement
+in COP
+8.3
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of HVAC/R Eﬃciency Study Results
+CRAC Unit Eﬃciency with PermaFrost NMR® ECM
+Data Center Provider has the problem of thermal degradation in its HVAC/R units. The lower operating tonnage and COP 
+ratings measured on site are in line with the ASHRAE loss of performance and cost to operate numbers. The 
+degraded equipment performance is costing Data Center Provider significant money and wasting energy. The equipment is 
+using significantly more kWh to operate than it used when it was new. 
+The performance summary includes the measured efficiency and tonnage of the CRAC unit in the baseline and 
+post testing periods demonstrating the impact of thermal degradation. 
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 8.3 operating tons and an average 
+improvement of 32.5% in Coefficient of Performance (COP), significantly reducing the cost to operate the 
+CRAC unit throughout the year. The Leibert CRAC unit treated has a nominal capacity of 31 tons at 100% load 
+at 85 degree entering air. Since normal operations were not to be changed to accommodate the pilot, the 
+emphasis here is on the delta between baseline and post.  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

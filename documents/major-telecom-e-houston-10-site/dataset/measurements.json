@@ -1,0 +1,1485 @@
+{
+  "doc_id": "major-telecom-e-houston-10-site",
+  "slug": "major-telecom-e-houston-10-site",
+  "source_type": "tabular",
+  "extracted_at": "2026-01-05T21:30:46.035252",
+  "summary": {
+    "total_files": 47,
+    "baseline_files": 23,
+    "post_files": 23,
+    "total_rows": 1499007,
+    "baseline_rows": 815245,
+    "post_rows": 683265,
+    "efficiency_improvement": {
+      "baseline_kw_per_ton": 1.833,
+      "post_kw_per_ton": 1.684,
+      "improvement_percent": 8.1
+    }
+  },
+  "file_statistics": [
+    {
+      "period": "unknown",
+      "rows": 497,
+      "columns": 9,
+      "column_names": [
+        "507 Baseline",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "507 Post",
+        "Unnamed: 5",
+        "Unnamed: 6",
+        "Unnamed: 7",
+        "Unnamed: 8"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH Data Tables CDD Runtimes.csv"
+    },
+    {
+      "period": "baseline",
+      "rows": 52981,
+      "columns": 43,
+      "column_names": [
+        "name",
+        "time",
+        "date time",
+        "OAtemp",
+        "VoltAB",
+        "VoltAC",
+        "VoltAvg",
+        "VoltBC",
+        "cfm",
+        "contactclosure",
+        "contactclosure2",
+        "contactclosure3",
+        "contactclosure4",
+        "contactclosure5",
+        "contactclosure6",
+        "currentavg",
+        "deltat",
+        "dewpointreturn",
+        "dewpointsupply",
+        "eer",
+        "enthalpyreturn",
+        "enthalpysupply",
+        "enthalpydelta",
+        "humidityreturn",
+        "humiditysupply",
+        "kw",
+        "kweperkwr",
+        "kwr",
+        "kwton",
+        "normalized_totalCapacity_TONS",
+        "performance",
+        "powerfactor",
+        "powersum",
+        "staticpressure",
+        "systemonoff",
+        "tempreturn",
+        "tempsupply",
+        "wetbulbreturn",
+        "wetbulbsupply",
+        "kwton_1",
+        "tons",
+        "EER",
+        "COP"
+      ],
+      "metrics": {
+        "COP": {
+          "mean": 2.407756003117061,
+          "std": 0.5166130511128753,
+          "min": 0.603258804,
+          "max": 4.289022961,
+          "median": 2.45943974
+        },
+        "eer": {
+          "mean": 8.016066514410827,
+          "std": 1.7145224100038754,
+          "min": 2.0,
+          "max": 14.24,
+          "median": 8.2
+        },
+        "EER": {
+          "mean": 8.01607191835711,
+          "std": 1.714525398533213,
+          "min": 2.002874688,
+          "max": 14.23516162,
+          "median": 8.200796699
+        },
+        "kw": {
+          "mean": 4.268131594345142,
+          "std": 0.2021021622938626,
+          "min": 3.07,
+          "max": 4.83,
+          "median": 4.24
+        },
+        "kweperkwr": {
+          "mean": 1.5478973594307393,
+          "std": 0.4364574038985987,
+          "min": 0.82,
+          "max": 5.83,
+          "median": 1.43
+        },
+        "kwr": {
+          "mean": 0.0,
+          "std": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "median": 0.0
+        },
+        "kwton": {
+          "mean": 1.5478973594307393,
+          "std": 0.4364574038985987,
+          "min": 0.82,
+          "max": 5.83,
+          "median": 1.43
+        },
+        "kwton_1": {
+          "mean": 1.5478973594307393,
+          "std": 0.4364574038985987,
+          "min": 0.82,
+          "max": 5.83,
+          "median": 1.43
+        }
+      },
+      "time_range": {
+        "column": "time",
+        "start": "1970-01-01 00:00:01.683877877",
+        "end": "1970-01-01 00:00:01.684976957",
+        "duration_hours": 3.0527777777777776e-07
+      },
+      "source_file": "Baseline_507 thermal data.csv"
+    },
+    {
+      "period": "baseline",
+      "rows": 46304,
+      "columns": 43,
+      "column_names": [
+        "name",
+        "time",
+        "date time",
+        "OAtemp",
+        "VoltAB",
+        "VoltAC",
+        "VoltAvg",
+        "VoltBC",
+        "cfm",
+        "contactclosure",
+        "contactclosure2",
+        "contactclosure3",
+        "contactclosure4",
+        "contactclosure5",
+        "contactclosure6",
+        "currentavg",
+        "deltat",
+        "dewpointreturn",
+        "dewpointsupply",
+        "eer",
+        "enthalpyreturn",
+        "enthalpysupply",
+        "enthalpydelta",
+        "humidityreturn",
+        "humiditysupply",
+        "kw",
+        "kweperkwr",
+        "kwr",
+        "kwton",
+        "normalized_totalCapacity_TONS",
+        "performance",
+        "powerfactor",
+        "powersum",
+        "staticpressure",
+        "systemonoff",
+        "tempreturn",
+        "tempsupply",
+        "wetbulbreturn",
+        "wetbulbsupply",
+        "kwton_1",
+        "tons",
+        "EER",
+        "COP"
+      ],
+      "metrics": {
+        "COP": {
+          "mean": 1.8388953089536972,
+          "std": 1.0788207167057613,
+          "min": 0.140063673,
+          "max": 50.2428404,
+          "median": 1.890859585
+        },
+        "eer": {
+          "mean": 6.009162491361438,
+          "std": 2.1173679062833184,
+          "min": 0.45,
+          "max": 103.7,
+          "median": 6.24
+        },
+        "EER": {
+          "mean": 6.0091461642965625,
+          "std": 2.1166189760050127,
+          "min": 0.450077905,
+          "max": 103.3261549,
+          "median": 6.2412161315
+        },
+        "kw": {
+          "mean": 5.468866836558396,
+          "std": 0.4394011097710159,
+          "min": 0.12,
+          "max": 19.26,
+          "median": 5.46
+        },
+        "kweperkwr": {
+          "mean": 2.0484692467173464,
+          "std": 0.6752711146912291,
+          "min": 0.07,
+          "max": 25.11,
+          "median": 1.86
+        },
+        "kwr": {
+          "mean": 0.0,
+          "std": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "median": 0.0
+        },
+        "kwton": {
+          "mean": 2.0484692467173464,
+          "std": 0.6752711146912291,
+          "min": 0.07,
+          "max": 25.11,
+          "median": 1.86
+        },
+        "kwton_1": {
+          "mean": 2.0484692467173464,
+          "std": 0.6752711146912291,
+          "min": 0.07,
+          "max": 25.11,
+          "median": 1.86
+        }
+      },
+      "time_range": {
+        "column": "time",
+        "start": "1970-01-01 00:00:01.686144089",
+        "end": "1970-01-01 00:00:01.687529177",
+        "duration_hours": 3.847222222222222e-07
+      },
+      "source_file": "Baseline_509 Thermal Data.csv"
+    },
+    {
+      "period": "baseline",
+      "rows": 83300,
+      "columns": 43,
+      "column_names": [
+        "name",
+        "time",
+        "date time",
+        "OAtemp",
+        "VoltAB",
+        "VoltAC",
+        "VoltAvg",
+        "VoltBC",
+        "cfm",
+        "contactclosure",
+        "contactclosure2",
+        "contactclosure3",
+        "contactclosure4",
+        "contactclosure5",
+        "contactclosure6",
+        "currentavg",
+        "deltat",
+        "dewpointreturn",
+        "dewpointsupply",
+        "eer",
+        "enthalpyreturn",
+        "enthalpysupply",
+        "enthalpydelta",
+        "humidityreturn",
+        "humiditysupply",
+        "kw",
+        "kweperkwr",
+        "kwr",
+        "kwton",
+        "normalized_totalCapacity_TONS",
+        "performance",
+        "powerfactor",
+        "powersum",
+        "staticpressure",
+        "systemonoff",
+        "tempreturn",
+        "tempsupply",
+        "wetbulbreturn",
+        "wetbulbsupply",
+        "kwton_1",
+        "tons",
+        "EER",
+        "COP"
+      ],
+      "metrics": {
+        "COP": {
+          "mean": 0.9474128999340455,
+          "std": 0.2625906255304807,
+          "min": 0.341456197,
+          "max": 18.51052015,
+          "median": 0.974237902
+        },
+        "eer": {
+          "mean": 2.9962446578631448,
+          "std": 0.814742073641012,
+          "min": 1.1,
+          "max": 36.25,
+          "median": 3.09
+        },
+        "EER": {
+          "mean": 2.9962410737425573,
+          "std": 0.8146304034427747,
+          "min": 1.095607166,
+          "max": 36.06022321,
+          "median": 3.0867649459999997
+        },
+        "kw": {
+          "mean": 4.12601356542617,
+          "std": 0.2854311032682222,
+          "min": 0.13,
+          "max": 4.7,
+          "median": 4.14
+        },
+        "kweperkwr": {
+          "mean": 4.064882833133252,
+          "std": 1.4038943378452282,
+          "min": 0.19,
+          "max": 10.3,
+          "median": 3.61
+        },
+        "kwr": {
+          "mean": 0.0,
+          "std": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "median": 0.0
+        },
+        "kwton": {
+          "mean": 4.064882833133252,
+          "std": 1.4038943378452282,
+          "min": 0.19,
+          "max": 10.3,
+          "median": 3.61
+        },
+        "kwton_1": {
+          "mean": 4.064882833133252,
+          "std": 1.4038943378452282,
+          "min": 0.19,
+          "max": 10.3,
+          "median": 3.61
+        }
+      },
+      "time_range": {
+        "column": "time",
+        "start": "1970-01-01 00:00:01.686059908",
+        "end": "1970-01-01 00:00:01.687442885",
+        "duration_hours": 3.838888888888889e-07
+      },
+      "source_file": "Baseline_510 Thermal Data.csv"
+    },
+    {
+      "period": "baseline",
+      "rows": 92487,
+      "columns": 43,
+      "column_names": [
+        "name",
+        "time",
+        "date time",
+        "OAtemp",
+        "VoltAB",
+        "VoltAC",
+        "VoltAvg",
+        "VoltBC",
+        "cfm",
+        "contactclosure",
+        "contactclosure2",
+        "contactclosure3",
+        "contactclosure4",
+        "contactclosure5",
+        "contactclosure6",
+        "currentavg",
+        "deltat",
+        "dewpointreturn",
+        "dewpointsupply",
+        "eer",
+        "enthalpyreturn",
+        "enthalpysupply",
+        "enthalpydelta",
+        "humidityreturn",
+        "humiditysupply",
+        "kw",
+        "kweperkwr",
+        "kwr",
+        "kwton",
+        "normalized_totalCapacity_TONS",
+        "performance",
+        "powerfactor",
+        "powersum",
+        "staticpressure",
+        "systemonoff",
+        "tempreturn",
+        "tempsupply",
+        "wetbulbreturn",
+        "wetbulbsupply",
+        "kwton_1",
+        "tons",
+        "EER",
+        "COP"
+      ],
+      "metrics": {
+        "COP": {
+          "mean": 2.1006344447727034,
+          "std": 0.5887680260342633,
+          "min": 0.173507589,
+          "max": 31.97271662,
+          "median": 2.170986931
+        },
+        "eer": {
+          "mean": 6.996483792141514,
+          "std": 1.7846600442458636,
+          "min": 0.55,
+          "max": 55.35,
+          "median": 7.23
+        },
+        "EER": {
+          "mean": 6.996484512085417,
+          "std": 1.784872104638872,
+          "min": 0.550707319,
+          "max": 55.52072326,
+          "median": 7.230432176
+        },
+        "kw": {
+          "mean": 5.53771543801224,
+          "std": 0.3596327139951031,
+          "min": 0.14,
+          "max": 20.27,
+          "median": 5.58
+        },
+        "kweperkwr": {
+          "mean": 1.8328362130484614,
+          "std": 0.6978487207357685,
+          "min": 0.11,
+          "max": 20.27,
+          "median": 1.62
+        },
+        "kwr": {
+          "mean": 0.0,
+          "std": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "median": 0.0
+        },
+        "kwton": {
+          "mean": 1.8328362130484614,
+          "std": 0.6978487207357685,
+          "min": 0.11,
+          "max": 20.27,
+          "median": 1.62
+        },
+        "kwton_1": {
+          "mean": 1.8328362130484608,
+          "std": 0.6978449479993158,
+          "min": 0.11,
+          "max": 20.27,
+          "median": 1.62
+        }
+      },
+      "time_range": {
+        "column": "time",
+        "start": "1970-01-01 00:00:01.685860161",
+        "end": "1970-01-01 00:00:01.687063711",
+        "duration_hours": 3.341666666666667e-07
+      },
+      "source_file": "Baseline_520 Thermal Data.csv"
+    },
+    {
+      "period": "baseline",
+      "rows": 28575,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 507 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28638,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 507 Post.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28364,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 509 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28695,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 509 Post.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28423,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 510 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28708,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 510 Post.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28546,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 511 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28769,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 511 Post.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28594,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 512 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28777,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 512 Post.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 27591,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 513 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28594,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 513 Post.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 27635,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 514 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28624,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 514 Post.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28583,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 515 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28593,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 515 Post.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28456,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 516 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28698,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 516 Post.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28532,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 517 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28626,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 517 Post.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28536,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 518 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28770,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 518 Post.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28621,
+      "columns": 6,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4",
+        "Unnamed: 5"
+      ],
+      "metrics": {},
+      "source_file": "Node 519 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28767,
+      "columns": 6,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4",
+        "Unnamed: 5"
+      ],
+      "metrics": {},
+      "source_file": "Node 519 Post.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28551,
+      "columns": 11,
+      "column_names": [
+        "Date",
+        "OAT Mean",
+        "KWH SUM",
+        "CDD",
+        "Runtime (minutes)",
+        "Offtime (minutes)",
+        "Unnamed: 6",
+        "\u00ef\u00bb\u00bf\"DateTime\"",
+        "kW",
+        "Meter 1 kWh",
+        "Outdoor Air Temp"
+      ],
+      "metrics": {
+        "kW": {
+          "mean": 1.654792978008714,
+          "std": 2.4621622824458353,
+          "min": 0.0,
+          "max": 6.39589743589743,
+          "median": 0.0
+        },
+        "Meter 1 kWh": {
+          "mean": 40253.72093543199,
+          "std": 1690165.101469219,
+          "min": 0.0,
+          "max": 72818160.7,
+          "median": 0.0
+        }
+      },
+      "time_range": {
+        "column": "Date",
+        "start": "1970-01-01 00:00:00.000000786",
+        "end": "2023-06-28 00:00:00",
+        "duration_hours": 468863.9999999997
+      },
+      "source_file": "Node 520 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28750,
+      "columns": 12,
+      "column_names": [
+        "\u00ef\u00bb\u00bf\"DateTime\"",
+        "kW",
+        "Meter 1 kWh",
+        "Outdoor Air Temp",
+        "Unnamed: 4",
+        "Unnamed: 5",
+        "Unnamed: 6",
+        "Unnamed: 7",
+        "Unnamed: 8",
+        "Unnamed: 9",
+        "Unnamed: 10",
+        "Unnamed: 11"
+      ],
+      "metrics": {
+        "kW": {
+          "mean": 1.2319264556172453,
+          "std": 11.38253878657353,
+          "min": 0.0,
+          "max": 1899.09999999999,
+          "median": 0.0
+        },
+        "Meter 1 kWh": {
+          "mean": 1637.44031820105,
+          "std": 161.5598777232949,
+          "min": 81.626,
+          "max": 1899.1,
+          "median": 1655.09999999999
+        }
+      },
+      "time_range": {
+        "column": "\u00ef\u00bb\u00bf\"DateTime\"",
+        "start": "2023-09-02 05:01:00",
+        "end": "2023-09-22 04:58:00",
+        "duration_hours": 479.95
+      },
+      "source_file": "Node 520 Post.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28531,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 521 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28763,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 521 Post.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28518,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 522 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28774,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 522 Post.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28577,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 523 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28634,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 523 Post.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28562,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 524 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 27495,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 524 Post.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28391,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 525 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28592,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 525 Post.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28587,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 526 Baseline.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28722,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Node 526 Post.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 42664,
+      "columns": 43,
+      "column_names": [
+        "name",
+        "time",
+        "date time",
+        "OAtemp",
+        "VoltAB",
+        "VoltAC",
+        "VoltAvg",
+        "VoltBC",
+        "cfm",
+        "contactclosure",
+        "contactclosure2",
+        "contactclosure3",
+        "contactclosure4",
+        "contactclosure5",
+        "contactclosure6",
+        "currentavg",
+        "deltat",
+        "dewpointreturn",
+        "dewpointsupply",
+        "eer",
+        "enthalpyreturn",
+        "enthalpysupply",
+        "enthalpydelta",
+        "humidityreturn",
+        "humiditysupply",
+        "kw",
+        "kweperkwr",
+        "kwr",
+        "kwton",
+        "normalized_totalCapacity_TONS",
+        "performance",
+        "powerfactor",
+        "powersum",
+        "staticpressure",
+        "systemonoff",
+        "tempreturn",
+        "tempsupply",
+        "wetbulbreturn",
+        "wetbulbsupply",
+        "kwton_1",
+        "tons",
+        "EER",
+        "COP"
+      ],
+      "metrics": {
+        "COP": {
+          "mean": 3.8712356271287502,
+          "std": 0.7847501922487506,
+          "min": 0.806651107,
+          "max": 5.249251982,
+          "median": 4.089533521
+        },
+        "eer": {
+          "mean": 12.843986733545846,
+          "std": 2.5906104916351684,
+          "min": 2.69,
+          "max": 17.42,
+          "median": 13.58
+        },
+        "EER": {
+          "mean": 12.843969811581989,
+          "std": 2.590588994279357,
+          "min": 2.695019097,
+          "max": 17.42471909,
+          "median": 13.58402894
+        },
+        "kw": {
+          "mean": 4.5670073129570605,
+          "std": 0.2620013384518223,
+          "min": 3.85,
+          "max": 5.26,
+          "median": 4.56
+        },
+        "kweperkwr": {
+          "mean": null,
+          "std": null,
+          "min": null,
+          "max": null,
+          "median": null
+        },
+        "kwr": {
+          "mean": null,
+          "std": null,
+          "min": null,
+          "max": null,
+          "median": null
+        },
+        "kwton": {
+          "mean": 0.9667087005437841,
+          "std": 0.3060832589928411,
+          "min": 0.67,
+          "max": 4.36,
+          "median": 0.86
+        },
+        "kwton_1": {
+          "mean": 0.9667087005437841,
+          "std": 0.3060832589928411,
+          "min": 0.67,
+          "max": 4.36,
+          "median": 0.86
+        }
+      },
+      "time_range": {
+        "column": "time",
+        "start": "1970-01-01 00:00:01.693976542",
+        "end": "1970-01-01 00:00:01.695690193",
+        "duration_hours": 4.758333333333333e-07
+      },
+      "source_file": "Post_507 Thermal Data.csv"
+    },
+    {
+      "period": "post",
+      "rows": 68164,
+      "columns": 43,
+      "column_names": [
+        "name",
+        "time",
+        "date time",
+        "OAtemp",
+        "VoltAB",
+        "VoltAC",
+        "VoltAvg",
+        "VoltBC",
+        "cfm",
+        "contactclosure",
+        "contactclosure2",
+        "contactclosure3",
+        "contactclosure4",
+        "contactclosure5",
+        "contactclosure6",
+        "currentavg",
+        "deltat",
+        "dewpointreturn",
+        "dewpointsupply",
+        "eer",
+        "enthalpyreturn",
+        "enthalpysupply",
+        "enthalpydelta",
+        "humidityreturn",
+        "humiditysupply",
+        "kw",
+        "kweperkwr",
+        "kwr",
+        "kwton",
+        "normalized_totalCapacity_TONS",
+        "performance",
+        "powerfactor",
+        "powersum",
+        "staticpressure",
+        "systemonoff",
+        "tempreturn",
+        "tempsupply",
+        "wetbulbreturn",
+        "wetbulbsupply",
+        "kwton_1",
+        "tons",
+        "EER",
+        "COP"
+      ],
+      "metrics": {
+        "COP": {
+          "mean": 2.052029162500543,
+          "std": 1.4477692337739136,
+          "min": 0.136001501,
+          "max": 43.96248535,
+          "median": 2.04476676
+        },
+        "eer": {
+          "mean": 6.655104747373981,
+          "std": 2.909819150463534,
+          "min": 0.41,
+          "max": 67.6,
+          "median": 6.78
+        },
+        "EER": {
+          "mean": 6.65505488427362,
+          "std": 2.909421300016106,
+          "min": 0.414957409,
+          "max": 67.59726135,
+          "median": 6.7795940905
+        },
+        "kw": {
+          "mean": 5.484998679654949,
+          "std": 0.660051526653675,
+          "min": 0.12,
+          "max": 20.37,
+          "median": 5.51
+        },
+        "kweperkwr": {
+          "mean": 1.9241178628014786,
+          "std": 0.8027825570382114,
+          "min": 0.08,
+          "max": 25.86,
+          "median": 1.72
+        },
+        "kwr": {
+          "mean": 0.0,
+          "std": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "median": 0.0
+        },
+        "kwton": {
+          "mean": 1.9241178628014786,
+          "std": 0.8027825570382114,
+          "min": 0.08,
+          "max": 25.86,
+          "median": 1.72
+        },
+        "kwton_1": {
+          "mean": 1.9241178628014786,
+          "std": 0.8027825570382114,
+          "min": 0.08,
+          "max": 25.86,
+          "median": 1.72
+        }
+      },
+      "time_range": {
+        "column": "time",
+        "start": "1970-01-01 00:00:01.694149300",
+        "end": "1970-01-01 00:00:01.695690665",
+        "duration_hours": 4.280555555555556e-07
+      },
+      "source_file": "Post_509 Thermal Data.csv"
+    },
+    {
+      "period": "post",
+      "rows": 1912,
+      "columns": 43,
+      "column_names": [
+        "name",
+        "time",
+        "date time",
+        "OAtemp",
+        "VoltAB",
+        "VoltAC",
+        "VoltAvg",
+        "VoltBC",
+        "cfm",
+        "contactclosure",
+        "contactclosure2",
+        "contactclosure3",
+        "contactclosure4",
+        "contactclosure5",
+        "contactclosure6",
+        "currentavg",
+        "deltat",
+        "dewpointreturn",
+        "dewpointsupply",
+        "eer",
+        "enthalpyreturn",
+        "enthalpysupply",
+        "enthalpydelta",
+        "humidityreturn",
+        "humiditysupply",
+        "kw",
+        "kweperkwr",
+        "kwr",
+        "kwton",
+        "normalized_totalCapacity_TONS",
+        "performance",
+        "powerfactor",
+        "powersum",
+        "staticpressure",
+        "systemonoff",
+        "tempreturn",
+        "tempsupply",
+        "wetbulbreturn",
+        "wetbulbsupply",
+        "kwton_1",
+        "tons",
+        "EER",
+        "COP"
+      ],
+      "metrics": {
+        "COP": {
+          "mean": 1.3311024219801255,
+          "std": 0.255359687965635,
+          "min": 0.524142895,
+          "max": 1.851052015,
+          "median": 1.3605462225
+        },
+        "eer": {
+          "mean": 4.250261506276151,
+          "std": 0.8172752362246968,
+          "min": 1.7,
+          "max": 5.86,
+          "median": 4.355
+        },
+        "EER": {
+          "mean": 4.250271101768829,
+          "std": 0.8172077243798913,
+          "min": 1.701640759,
+          "max": 5.862603745,
+          "median": 4.353737111
+        },
+        "kw": {
+          "mean": 4.437599372384938,
+          "std": 0.311543549295963,
+          "min": 3.48,
+          "max": 5.1,
+          "median": 4.48
+        },
+        "kweperkwr": {
+          "mean": 2.772097280334728,
+          "std": 0.7097838682783387,
+          "min": 1.9,
+          "max": 6.71,
+          "median": 2.585
+        },
+        "kwr": {
+          "mean": 0.0,
+          "std": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "median": 0.0
+        },
+        "kwton": {
+          "mean": 2.772097280334728,
+          "std": 0.7097838682783387,
+          "min": 1.9,
+          "max": 6.71,
+          "median": 2.585
+        },
+        "kwton_1": {
+          "mean": 2.772097280334728,
+          "std": 0.7097838682783387,
+          "min": 1.9,
+          "max": 6.71,
+          "median": 2.585
+        }
+      },
+      "time_range": {
+        "column": "time",
+        "start": "1970-01-01 00:00:01.695050323",
+        "end": "1970-01-01 00:00:01.695572486",
+        "duration_hours": 1.45e-07
+      },
+      "source_file": "Post_510 Thermal Data.csv"
+    },
+    {
+      "period": "post",
+      "rows": 26536,
+      "columns": 43,
+      "column_names": [
+        "name",
+        "time",
+        "date time",
+        "OAtemp",
+        "VoltAB",
+        "VoltAC",
+        "VoltAvg",
+        "VoltBC",
+        "cfm",
+        "contactclosure",
+        "contactclosure2",
+        "contactclosure3",
+        "contactclosure4",
+        "contactclosure5",
+        "contactclosure6",
+        "currentavg",
+        "deltat",
+        "dewpointreturn",
+        "dewpointsupply",
+        "eer",
+        "enthalpyreturn",
+        "enthalpysupply",
+        "enthalpydelta",
+        "humidityreturn",
+        "humiditysupply",
+        "kw",
+        "kweperkwr",
+        "kwr",
+        "kwton",
+        "normalized_totalCapacity_TONS",
+        "performance",
+        "powerfactor",
+        "powersum",
+        "staticpressure",
+        "systemonoff",
+        "tempreturn",
+        "tempsupply",
+        "wetbulbreturn",
+        "wetbulbsupply",
+        "kwton_1",
+        "tons",
+        "EER",
+        "COP"
+      ],
+      "metrics": {
+        "COP": {
+          "mean": 2.4359388100989223,
+          "std": 2.8649512096783805,
+          "min": 0.141986226,
+          "max": 87.92497069,
+          "median": 2.269031502
+        },
+        "eer": {
+          "mean": 7.810979084228376,
+          "std": 5.707645851965167,
+          "min": 0.43,
+          "max": 128.97,
+          "median": 7.6
+        },
+        "EER": {
+          "mean": 7.811847083032634,
+          "std": 5.71658134330364,
+          "min": 0.426314364,
+          "max": 128.9739518,
+          "median": 7.59775476
+        },
+        "kw": {
+          "mean": 5.6252003014886,
+          "std": 0.839162446944218,
+          "min": 0.13,
+          "max": 20.44,
+          "median": 5.7
+        },
+        "kweperkwr": {
+          "mean": 1.6838620689655173,
+          "std": 0.6878082249702973,
+          "min": 0.04,
+          "max": 24.77,
+          "median": 1.55
+        },
+        "kwr": {
+          "mean": 0.0,
+          "std": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "median": 0.0
+        },
+        "kwton": {
+          "mean": 1.6838620689655173,
+          "std": 0.6878082249702973,
+          "min": 0.04,
+          "max": 24.77,
+          "median": 1.55
+        },
+        "kwton_1": {
+          "mean": 1.6838620689655186,
+          "std": 0.6877952644520141,
+          "min": 0.04,
+          "max": 24.77,
+          "median": 1.55
+        }
+      },
+      "time_range": {
+        "column": "time",
+        "start": "1970-01-01 00:00:01.693583805",
+        "end": "1970-01-01 00:00:01.695933947",
+        "duration_hours": 6.527777777777778e-07
+      },
+      "source_file": "Post_520 Thermal Data.csv"
+    }
+  ],
+  "key_results": {
+    "kw_per_ton_improvement_percent": 8.1,
+    "baseline_kw_per_ton": 1.833,
+    "post_kw_per_ton": 1.684
+  }
+}

@@ -1,0 +1,28 @@
+3
+Energy Conservation Method (ECM)
+The content detailed in this report will first demonstrate the ability of the treated chillers to perform prior to 
+the ECM being installed, as well as illustrate the thermal degradation that naturally occurs in heat
+exchangers over time.
+The following report produces the utilization of the IPMVP as the M&V plan. 
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+• kW = Volts * Amps * Power Factor * √3/1000 (for 3-Phase)
+• kW/Ton = kW / Actual Tonnage
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+• Actual Cooling Tons per Hour = Evaporator GPM X 8.34 * 60 * Chilled Water Delta T / 12,000 BTU
+Notes 
+Following a diagnostic examination to determine the operational condition of the chillers was satisfactory, baseline M&V 
+data was collected and recorded.  500+ runtime hours after installation of the ECM, we returned on very similar weather 
+days to assure compliant weather conditions as compared to the Baseline for the purpose of obtaining post M&V 
+measurements as was performed in the Baseline. The delta of these measurements and associated calculations demonstrate 
+the amount of thermal capacity recovery.
+The flow of the evaporator and condenser were measured using NIST calibrated instruments (National Institutes of 
+Standards and Technology) for the verification of accurate GPM measurement. 
+The remaining measurements were obtained locally from the chiller control panel. The chillers were then treated with 
+PermaFrost NMR® on the same day and allowed to run normally to ensure the patented surface science nanotechnology 
+had ample time to become assimilated into all the metal surfaces of the heat exchangers. All critical measurements were 
+taken at similar incoming condenser water temperatures as well as outdoor air temperatures however routine adjustments 
+to normalize the capacity due to warmer or cooler entering condenser temperatures were applied as per the IPMVP 
+protocol.
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

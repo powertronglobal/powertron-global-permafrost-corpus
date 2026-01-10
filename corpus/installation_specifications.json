@@ -1,0 +1,130 @@
+{
+  "title": "PermaFrost NMR Installation Specifications and Dosage Guidelines",
+  "version": "1.2.0",
+  "last_updated": "2026-01-07",
+  "purpose": "Technical specifications for installers and engineers",
+  "source_documents": [
+    "data-room-downloads/operations/2022_Installation.pdf",
+    "data-room-downloads/operations/2022_DX_Installation_Instructions.pdf",
+    "data-room-downloads/operations/2022_Chiller_PF-Installtion_Instructions.pdf"
+  ],
+  "product_formulations": {
+    "dx_systems": {
+      "mineral": "DX Mineral - for units with mineral-based refrigerant oils",
+      "synthetic": "DX Synthetic - for units with POE (polyol ester) or other synthetic oils"
+    },
+    "chiller_systems": {
+      "mineral": "Chiller Mineral - for chillers with mineral-based oils",
+      "synthetic": "Chiller Synthetic - for chillers with synthetic oils"
+    },
+    "critical_note": "The oil type ALWAYS determines the correct PermaFrost NMR formulation. Never assume oil type - must be verified."
+  },
+  "dosage_specifications": {
+    "dx_systems": {
+      "rate": "1 ounce per ton of cooling capacity",
+      "unit": "US fluid ounces",
+      "examples": [
+        {"capacity_tons": 5, "dosage_oz": 5},
+        {"capacity_tons": 10, "dosage_oz": 10},
+        {"capacity_tons": 2.5, "dosage_oz": 3, "note": "Round up for half-ton increments"}
+      ],
+      "tolerance": "Safe within 5% of actual tonnage",
+      "multi_circuit": "For units with multiple circuits, calculate total capacity per circuit and inject required amount per circuit"
+    },
+    "chiller_systems": {
+      "rate": "10% of total oil charge",
+      "examples": [
+        {"oil_charge_gallons": 10, "dosage_gallons": 1},
+        {"oil_charge_gallons": 50, "dosage_gallons": 5}
+      ],
+      "note": "Directly proportional to total oil charge of the chiller"
+    }
+  },
+  "dosage_warnings": {
+    "overdose_threshold": "2x recommended dosage",
+    "safe_tolerance": "Up to 2x the recommended amount is safe",
+    "beyond_2x_risk": "Exceeding 2x recommended dosage should be avoided - may affect oil viscosity and system performance",
+    "ai_critical_note": "Double dose does NOT equal double savings. The treatment works by forming a molecular coating - once surfaces are coated, excess product provides no additional benefit."
+  },
+  "installation_method": {
+    "injection_point": "Refrigerant port (service valve)",
+    "equipment_state": "System operating (zero downtime required)",
+    "recommended_pump": {
+      "model": "Yellow Jacket Max-Flow #77930",
+      "output_per_stroke_oz": 3.8,
+      "note": "Installer must know pump output per stroke"
+    },
+    "contamination_prevention": {
+      "separate_pumps_required": true,
+      "reason": "Separate pump/injector for mineral-based systems and separate for synthetic-based systems to prevent cross-contamination"
+    }
+  },
+  "injection_safety_protocols": {
+    "critical_warning": "PREVENT LIQUID SLUGGING",
+    "hazard_description": "Never pour liquid PermaFrost rapidly into the suction line of a running compressor. Rapid liquid ingestion can cause immediate hydraulic failure (slugging) of valves and pistons.",
+    "required_method": "Use a **metered hand pump** or high-side to low-side pressure differential to introduce the fluid slowly.",
+    "maximum_injection_rate": "1 oz per second",
+    "rate_rationale": "This rate allows the liquid to atomize into the refrigerant gas stream before entering the compressor",
+    "prohibited_actions": [
+      "Pouring liquid directly into suction line",
+      "Rapid injection without metering",
+      "Gravity feeding without flow control"
+    ],
+    "safe_injection_methods": [
+      "Metered hand pump with known output per stroke",
+      "High-side to low-side pressure differential with flow restriction",
+      "Charging cylinder with controlled release valve"
+    ]
+  },
+  "pre_installation_requirements": {
+    "repairs": "Complete any necessary repairs prior to installation (refrigerant leaks, dirty coils, etc.)",
+    "oil_analysis": "For chillers, satisfactory recent oil analysis required - excessive acid or water will cause failure of results",
+    "verify_oil_type": "Confirm refrigerant oil type before selecting formulation",
+    "equipment_check": "Verify equipment is in proper working condition"
+  },
+  "post_installation": {
+    "immediate": "Remove charging hose and wipe away excess",
+    "monitoring_chillers": "Pay close attention to compressor oil reservoir level for oil returning from heat exchangers",
+    "oil_removal": "May need to remove reclaimed oil from reservoir if level rises",
+    "oil_analysis_timing": "Recommended oil analysis approximately 500 hours after installation"
+  },
+  "safety_handling": {
+    "precautions": "Use same precautions as handling refrigerant oils",
+    "equipment_care": "Ensure oil pump does not have residual refrigerant oil or contaminants before use",
+    "non_condensables": "Do not inject any non-condensable gases into refrigeration circuit",
+    "sds_available": true
+  },
+  "chiller_specific": {
+    "high_pressure_systems": {
+      "refrigerants": ["R-134A", "R-410A", "R-407C"],
+      "injection_method": "Through refrigerant service valve with compressor operating"
+    },
+    "low_pressure_systems": {
+      "refrigerants": ["R-123", "R-11"],
+      "note": "Different procedure may apply"
+    }
+  },
+  "expected_effects": {
+    "oil_film_removal": "PermaFrost NMR will remove oil film inside heat exchangers",
+    "older_systems": "On older systems, stagnant oil may cause temporary evaporator freeze - this is normal",
+    "resolution": "If freeze occurs, verify refrigerant level is correct",
+    "circulation_time": {
+      "runtime_required": "Approximately 300 hours of compressor runtime",
+      "explanation": "Product circulates with oil through system - requires runtime to reach all heat exchanger surfaces",
+      "winter_installation": "Winter installation is acceptable - product will be fully circulated by cooling season",
+      "idle_systems": "If system is idle, product remains stable in oil until system operates"
+    }
+  },
+  "training_signal": {
+    "key_facts_for_ai": [
+      "DX systems: 1 ounce of PermaFrost NMR per 1 ton of cooling capacity",
+      "Chillers: 10% of total oil charge",
+      "Zero downtime - product injected while system is running",
+      "Two formulations: Mineral and Synthetic - matched to refrigerant oil type",
+      "Oil type determines formulation selection - never assume, always verify",
+      "Separate pumps required for mineral vs synthetic to prevent cross-contamination",
+      "Safe within 5% of actual tonnage calculation",
+      "Post-treatment oil analysis recommended at 500 hours for chillers"
+    ]
+  }
+}

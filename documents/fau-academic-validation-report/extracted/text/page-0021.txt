@@ -1,0 +1,50 @@
+ 
+21 
+Digital Entertainment Provider Data Center, Allentown, PA.  Two Liebert Units equipped 
+with R22 systems were treated and measured in April of 2013. These units run approximately 
+3,200 hours annually. 
+ 
+CRAC #1 
+Make – Liebert 
+Model – VE240G 
+Refrigerant Type – R22 
+Nominal Cooling Capacity in Ton – 20 Tons 
+ 
+CRAC #2 
+Make – Liebert 
+Model – VE240G 
+Refrigerant Type – R22 
+Nominal Cooling Capacity in Ton – 20 Tons 
+ 
+Maryland Area Convenience Store Chain, Baltimore, MD.  Several of the operating units at 
+each location (Store #75 & Store #112). The 5 units tested were all York packaged rooftop units 
+some using R-22 and some with R-410 refrigerant and totaling 32 tons (three 5-ton units and two 
+8.5-ton units). These two particular franchise locations are part of a series of stores owned by in 
+the Baltimore metropolitan area.  
+ 
+Store #75 - Unit #5,  
+Make – York 
+Model – ZF060N10N2AA1 
+Refrigerant Type – R-410A 
+Nominal Cooling Capacity in Ton – 60,000 / 5 
+3000 Annual Operating Hours 
+ 
+#6  
+Make – York 
+Model – D4CE060A25A 
+Refrigerant Type – R-22 
+Nominal Cooling Capacity in Ton – 60,000 / 5 
+3000 Annual Operating Hours 
+ 
+#7 
+Make – York 
+Model – ZF060N10NAAA1 
+Refrigerant Type – R-410A 
+Nominal Cooling Capacity in Ton – 60,000 / 5 
+3000 Annual Operating Hours 
+ 
+Store #112 - Unit #3  
+Make – York 
+Model – BP102C00B2AAA2A 
+Refrigerant Type – R-22 
+Nominal Cooling Capacity in Btuh/ton – 102,000 / 8.5 

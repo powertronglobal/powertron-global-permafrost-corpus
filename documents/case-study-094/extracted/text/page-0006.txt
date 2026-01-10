@@ -1,0 +1,35 @@
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling Capacity in Tons  
+Average Annual Runtime Hours
+Date Installed
+Water Furnace
+NSV070TL42C
+110600499
+R410A
+5.83 Tons
+4,500
+2007
+Water Furnace
+NSV070TL42C
+110700854
+R410A
+5.83 Tons
+4,500
+2011
+Detailed Results for CRAC Units 8 & 9
+System Description / Design Characteristics
+These units provide critical cooling for the 
+Major Defense Contractor Technical Services Data Center located on 
+the 1st floor of the facility located at 22230 Pacific 
+Blvd, Sterling, VA. Given the internal load from the 
+data center year round, it is estimated that each of 
+the units ran ~4,500 hours or more each per year 
+prior to the ECM being implemented.  
+Energy Science Division
+CRAC Unit #9
+CRAC Unit #8
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

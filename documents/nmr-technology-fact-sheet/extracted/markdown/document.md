@@ -1,0 +1,79 @@
+# PermaFrost NMR Technology Fact Sheet
+
+---
+
+## Page 1
+
+15402 Dexler Drive 
+Austin, TX 78734 
+info@powertronglobal.com 
+www.powertronglobal.com 
+Nanotechnology Fact Sheet 
+PermaFrost NMR® 
+Our Nucleo Molecular Regenerative® is a nanotechnology chemical formulation that is 
+injected into operating HVAC units. Over the course of 300 runtime hours the chemical 
+reaction is complete having displace molecular debris from metal surfaces and substrate. In 
+addition, the process creates a permanent bond to the metal preventing oil migration from 
+recurring as the machine’s heat transfer properties return to ~OEM design cooling 
+specification. 
+•
+ASHRAE finds all HVAC systems lose 20%-30% of cooling efficiency within 5-10
+years
+•
+PermaFrost NMR® permanently restores efficiency loss in ~300 runtime hours
+•
+kW/ton or EER is returned to (or near) OEM design efficiency in all types of HVAC
+•
+Re-commissioning (TAB) optimizes savings typically, 15%-40% of HVAC portion of
+bill
+•
+Deployment in new systems fully protects from thermal degradation over life of the
+unit
+•
+Other benefits: fewer repairs, longer useful life, significant sustainability gains
+ROI 
+•
+Typically, < 24 months
+•
+< 12 months in HVAC-intense data centers, manufacturing, labs, etc.
+Confirmatory Testing 
+•
+UL
+•
+Florida Atlantic University (FAU)
+•
+M&V platform: ASHRAE nominated “breakthrough technology of 2017”
+•
+7M pre-post comparative data points substantiating kW/ton reductions (and EER)
+
+
+---
+
+## Page 2
+
+ 
+    
+ 
+15402 Dexler Drive 
+Austin, TX 78734 
+info@powertronglobal.com 
+www.powertronglobal.com 
+ 
+ 
+Machine Safety Record 
+ 
+• $2M liability insurance per machine, covering damage and loss of revenue 
+• No claim of machine damage in 15 years 
+ 
+Worldwide Deployments 
+ 
+• 300K in 38 countries 
+• Full range of equipment: 2,500-ton chillers to .5-ton DX units 
+• Largest installation: ~10K Major Global Bank A facilities worldwide 
+• Mission critical facilities: major US data center providers (Data Center B, Data Center Provider A) 
+• Large telecom: Caribbean Telecom Provider A (23 countries) 
+• Government: US military bases 
+• Current: Retail Chain C  
+ 
+
+

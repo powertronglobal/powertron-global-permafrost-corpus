@@ -1,0 +1,175 @@
+®
+BASELINE
+AERP
+CHANGE
+Chiller #2 IPMVP Data
+BASELINE
+AERP
+CHANGE
+100%
+363.30
+216.80
+0.91
+8.10
+36.20
+550.20
+1306.60
+11.80
+9.60
+30.90
+36.20
+0.00%
+-5.14%
+-9.67%
+0.00%
+-6.90%
+33.58%
+-2.20%
+30.16%
+-20.27%
+-25.00%
+27.69%
+21.07%
+100%
+383.00
+240.00
+0.91
+8.70
+27.10
+562.60
+1003.85
+14.80
+12.80
+24.20
+29.90
+63.3%
+390.50
+265.67
+0.91
+7.80
+38.30
+555.40
+1383.20
+13.50
+10.70
+27.00
+34.50
+HVAC Equipment Manufacturer
+RTHB300LS
+1994
+U95708077
+R-22
+System Description
+Key Results for Chillers with PermaFrost NMR® ECM
+13
+HVAC Equipment Manufacturer
+RTHB300LS
+1994
+U96A02163
+R-22
+   *** The water flow through the Chiller #2 was 143.36% higher than design in the Baseline period and AERP period.
+Make
+Model
+Date Installed
+Serial Number
+Refrigerant Type
+0.00%
+-0.13%
+-2.45%
+0.00%
+-1.27%
+0.26%
+1.17%
+0.51%
+8.87%
+4.90%
+-1.46%
+-1.99%
+Measurement
+Load %
+Voltage (V)
+Amperage (A)
+Power Factor (PF)
+Suction Refrigerant Temperature (°C)
+Discharge Refrigerant Temperature (°C)
+Suction Refrigerant Pressure (kpa)
+Discharge Refrigerant Pressure (kpa)
+Return Evaporator Water Temperature (°C)
+Supply Evaporator Water Temperature (°C)
+Return Condenser Water Temperature (°C)
+Supply Condenser Water Temperature (°C)
+63.3%
+391.00
+272.33
+0.91
+7.90
+38.20
+549.00
+1376.20
+12.40
+10.20
+27.40
+35.20
+Healthcare System ALLER #1
+Chiller #1 IPMVP Data
+Healthcare System ALLER #2
+BASELINE
+AERP
+CHANGE
+Chiller #2 IPMVP Data
+BASELINE
+AERP
+CHANGE
+98.92
+124.14
+2.20
+910.76
+0.1363
+7.34
+120.37
+0.00%
+-14.32%
+10.00%
+10.00%
+-22.11%
+28.55%
+28.37%
+98.92
+144.88
+2.00
+827.96
+0.1750
+5.71
+93.77
+56.84
+164.23
+2.80
+666.05
+0.2466
+4.06
+90.19
+0.00%
+-2.57%
+27.27%
+27.27%
+-23.44%
+30.97%
+30.63%
+Results
+Flow Rate (Litres Per Second) ***
+Kilowatts (kW)
+Evaporator Delta-T (°C)
+Actual Cooling Capacity (kWR) 
+Speciﬁc Energy Input (kWE/kWR)
+Coeﬃcient of Performance (COP)
+Design Eﬃciency Increase (%) 
+56.84
+168.57
+2.20
+523.33
+0.3221
+3.10
+69.04
+Chiller #1 IPMVP Data
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

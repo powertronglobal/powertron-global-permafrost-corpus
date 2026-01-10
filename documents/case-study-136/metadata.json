@@ -1,0 +1,48 @@
+{
+  "document_id": "case-study-136",
+  "title": "Major Telecom F Critical Facility M&V Report",
+  "source_file": "Major Telecom F",
+  "document_type": "engineering_analysis",
+  "page_count": 20,
+  "extraction_method": "pymupdf",
+  "extraction_date": "2026-01-07",
+  "client": {
+    "name": "Major Telecom F",
+    "industry": "Telecommunications"
+  },
+  "location": {
+    "city": "Ellicott City",
+    "state": "MD",
+    "country": "USA"
+  },
+  "equipment": {
+    "type": "Split DX",
+    "make": "Liebert",
+    "tonnage": 5,
+    "count": 3,
+    "refrigerant": "R-22/R-407C",
+    "age_years": 15
+  },
+  "study_period": {
+    "baseline_start": "2017-08-25",
+    "baseline_end": "2017-09-15",
+    "post_start": "2017-09-29",
+    "post_end": "2017-10-13"
+  },
+  "results": {
+    "cop_improvement_pct": 150.6,
+    "kw_per_ton_baseline": 2.31,
+    "kw_per_ton_post": 0.87
+  },
+  "certification": {
+    "methodology": "AHRI Standard M&V",
+    "pe_certified": false,
+    "engineer": "[Senior Energy Engineer], Forensic Mechanical Engineer"
+  },
+  "corpus_category": "engineering_analysis",
+  "stats": {
+    "chunks": 15,
+    "tokens": 14880,
+    "chars": 22523
+  }
+}

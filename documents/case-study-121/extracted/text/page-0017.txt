@@ -1,0 +1,78 @@
+®
+    16
+Power Bill Validation of Eﬃciency Study Results
+Of primary importance to every business owner who implements an ECM is the ultimate impact it has on 
+lowering the power bills, given all things being equal. Unfortunately power bills are not nearly as scientific a 
+methodology to determine energy savings as business owners would like to think. It is why the power 
+companies don’t issue rebates based on power bills. The variables are many and controlling them is hard. One 
+commonly accepted way to view year-over-year savings resulting from an ECM (if in fact nothing inside the 
+store has changed) is to look at kWh usage in like periods and then normalize for weather through the use of 
+cooling degree days (CDD’s). 
+In the Major Restaurant Chain pilot, this is a bit more complicated because not all of the cooling system equipment in each 
+store was treated. Given that nothing else in the store has changed, confidence is high that any and all kWh 
+savings achieved in the first month after the ECM is directly attributable to PermaFrost NMR®. 
+The total cooling system load at the time of the pilot is estimated to be 55% of the total power bill. The cooling 
+system load averaged throughout the year however is estimated to be 40%. The cooling systems treated 
+represent approximately 50-60% of the total cooling systems supporting the store.
+KWh Savings Attributable to PermaFrost NMR® 
+*Orlando: Given 2014 was 18.5% warmer than the corresponding period in 2013 and the cooling systems represent 40% of the overall power bill throughout 
+the year, the kWh for 2014 was reduced by 7.4%.
+*Tamarac: Given 2014 was 25.9% warmer than the corresponding period in 2013 and the cooling systems represent 40% of the overall power bill throughout 
+the year, the kWh for 2014 was reduced by 10.4%.
+Tamarac Location
+5/14/13 - 6/13/13
+(30 Days)
+5/13/14 - 6/12/14
+(30 Days)
+Orlando Location
+Total kWh Used in Period
+Avg kWh Per Day 
+Number of CDD's
+Total Adjusted kWh Used* in Period
+Avg Adjusted kWh Per Day
+Number of kWh Saved Per Day
+Percentage kWh Savings per Day
+Cost Per kWh Delivered
+Equivalent Monthly Cost Savings 
+Cost to Treat Store with 25-tons
+Estimated Project Payback Period
+51,840
+1,728
+395
+51,840
+1,728
+$0.1012
+50,920
+1,697
+468
+47,152
+1,572
+156
+9.0%
+$0.1012
+$473.62
+$3,125.00
+6.6 Months
+4/30/13 - 5/29/13  
+(30 Days)
+4/30/14 - 5/29/14
+(30 Days)
+42,039
+1,401
+347
+42,039
+1,401
+$0.1000
+40,320
+1,344
+437
+36,127
+1,204
+197
+14.0%
+$0.1000
+$591.00
+$3,125.00
+5.3 Months
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

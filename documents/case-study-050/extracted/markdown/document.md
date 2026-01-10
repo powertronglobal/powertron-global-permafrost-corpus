@@ -1,0 +1,730 @@
+# Telecom Equipment Mfg_plano_chiller.pdf
+
+Energy Science Division
+
+®
+
+Global Telecom Equipment Manufacturer [Texas Location] FACILITY Healthcare System ALLER #1
+
+Study Date:
+     Dec 2014 – April 2015
+
+Participants:
+ 
+     Global Telecom Equipment Manufacturer
+     [Critical Environments Manager]
+     Critical Environments Manager
+
+Property Management Firm
+     [Client Representative]
+     Chief Engineer
+
+[Client Representative]
+     Plant Engineer
+
+Powertron Global
+     [Senior Energy Engineer],
+     Director of Engineering
+
+Location:
+     Global Telecom Equipment Manufacturer [Texas Location] Campus
+     6300 Legacy Drive
+     [Texas Location], TX
+
+Comprehensive HVAC/R Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+1
+
+HVAC/R Eﬃciency Report
+
+Purpose of Energy Eﬃciency Study
+
+The purpose of this study is to verify the industry wide problem of efficiency loss in HVAC/R as projected by
+
+ASHRAE research and to quantify the amount of money wasted due to this loss. Many industry leading
+
+organizations including ASHRAE project that all HVAC/R units degrade in capacity and efficiency as they age.
+
+Thermal degradation is caused by a phenomenon that is present in all HVAC/R equipment that operates as a
+
+vapor compression cycle associated with refrigerant and compressor lubricant. This thermal degradation is well
+
+documented by the HVAC/R industry and the original equipment manufacturers (OEM’s). Thermal
+
+degradation prevents units from operating at the original design efficiency, which leads to excessive run-times
+
+and additional kWh consumption.
+
+The chiller in this study is representative of a
+
+great majority of the portfolio of equipment
+
+operated by Global Telecom Equipment Manufacturer. If thermal degradation
+
+is present in this chiller it is present in the
+
+entire inventory of equipment. Energy waste
+
+can be calculated based on this equipment
+
+(portfolio representation) and then accurately
+
+extrapolated across the entire inventory of
+
+equipment.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+2
+
+Process
+
+This report contains specific information regarding the current performance profile of one of two chillers that
+
+support the Global Telecom Equipment Manufacturer [Texas Location] Facility in [Texas Location], TX.
+
+Detailed performance testing (outlined later in this report) was performed on the pilot chiller before and after
+
+the installation of the ECM to determine the impact on the three key elements that greatly affect Global Telecom Equipment Manufacturer’s
+
+HVAC power bill as they relate to the original design specifications:
+
+1.  The cooling capacity the chiller is capable of producing after 15+ years in service.
+
+2.  The actual cost of power required to produce the amount of cooling tons the chiller is delivering as
+
+reflected in the kW/ton measurement.
+
+3.  The thermal dynamic ability of the chiller to still perform at or close to operational design.
+
+Methodology
+
+The measurements used in the efficiency calculations were collected and compiled in accordance with the
+
+IPMVP (International Measurement and Verification Protocol) framework. The team was led by Commercial Real Estate Services’s Chief Engineer, [Client Representative] and supported by Plant Engineer [Client Representative] and Powertron Global
+
+Global’s Director of Engineering, [Senior Energy Engineer].
+
+Notes
+
+The chiller tested is one of the most efficient types of chillers HVAC Equipment Manufacturer manufactures.  Both the baseline and post
+
+measurements were taken with outside air temperatures of 72 degrees.
+
+The incoming condenser water from the tower in both the baseline and post was very close to design specifications so no
+
+adjustments were made.
+
+Global Telecom Equipment Manufacturer’s repeatable management of the chiller plant during the trial provided more than an adequate heat load on the
+
+facility to ensure the chiller would remain running during the actual data collection periods.
+
+The boundary of the testing was the chiller and nothing else; therefore confidence in the accuracy of the performance
+
+calculations is very high.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+3
+
+Energy Conservation Method (ECM)
+
+The content detailed in this report will first demonstrate the ability of the pilot chiller to perform prior to the
+
+PermaFrost NMR® (ECM) being installed, as well as illustrate the amount of thermal degradation due in large
+
+part to thermal degradation within the heat exchangers.
+
+The following report produces the utilization of the IPMVP as the M&V plan.
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase)
+
+• kW/Ton = kW / Actual Tonnage
+
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+
+• Actual Cooling Tons per Hour = Evaporator GPM X 8.34 * 60 * Chilled Water Delta T / 12,000 BTU
+
+• Refrigerant Approach = Supply Water Temp – Saturated Evaporator Temp (CH)
+
+Notes
+
+Following a diagnostic examination to determine the operational condition of the chiller was satisfactory, Baseline M&V
+
+data was collected and recorded by the M&V team. 400+ runtime hours after installation of the ECM, the M&V team
+
+returned on a very similar weather day to the Baseline to take Post M&V measurements in the identical fashion as in the
+
+Baseline. The delta of these measurements and associated calculations show the amount of capacity restored.
+
+The following IPMVP data points were recorded on 5 December 2014 using a flow meter recently calibrated by NIST
+
+(National Institutes of Standards and Technology) to insure GPM measurement accuracy. The remaining measurements
+
+were taken directly from the chiller’s control panel. The chiller was then treated with PermaFrost NMR® on the same day
+
+and allowed to run normally until 7 April 2015 to ensure the patented surface science nanotechnology had ample time to
+
+seat into all the metal surfaces of the heat exchangers. All measurements were taken at similar incoming water
+
+temperatures as well as outdoor air temperatures.
+
+The collection of the data in both the baseline and post periods was witnessed by Commercial Real Estate Services personnel and
+
+Powertron Global and backed up by photos. The measurements are listed below.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+4
+
+709.4 tons
+
+778.1 tons
+
+Baseline
+Tonnage
+
+Post ECM
+Tonnage
+
+• The chiller should be operating @ 800 tons of cooling capacity
+
+• The chiller was operating @ 709.4 tons of cooling capacity prior to
+
+installing ECM
+
+• The chiller now has 68.7 tons of restored cooling capacity after ECM
+
+• The chiller should be operating @ 9.0 COP or higher
+
+• The chiller was operating @ 6.91 COP prior to the ECM
+
+and 8.88 following the ECM
+
+• The COP of the chiller was increased by 28.5%  following the ECM
+
+6.91
+Baseline COP
+
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+709.4
+tons Baseline
+
+100%
+CAPACITY @
+~80% LOAD
+
+Baseline
+COP
+
+Post ECM
+COP
+
+6.91
+
+8.88
+
+8.88
+Post ECM COP
+778.1
+tons Post ECM
+
+28.5%
+
+Improvement
+in COP
+
+68.7
+
+tons of
+Recovered
+Capacity
+
+TONNAGE
+COP
+
+Summary of HVAC/R Eﬃciency Study Results
+
+Chiller Eﬃciency with PermaFrost NMR® ECM
+
+Global Telecom Equipment Manufacturer has the problem of thermal degradation in its Chillers and HVAC/R units. The lower operating
+
+tonnage and COP ratings measured on site are in line with the ASHRAE loss of performance and cost to
+
+operate numbers. The degraded equipment performance is costing Global Telecom Equipment Manufacturer significant money and wasting
+
+energy. The pilot chiller is using significantly more energy to operate than when it was new.
+
+The performance summary includes the measured efficiency and tonnage of the chiller in the baseline and post
+
+testing periods demonstrating the impact of thermal degradation.
+
+The implementation of PermaFrost NMR®  ECM resulted in a restoration of 68.7 operating tons and an average
+
+improvement of 28.5% in Coefficient of Performance (COP), significantly reducing the cost to operate the chiller
+
+throughout the year.
+
+The HVAC Equipment Manufacturer chiller treated has a nominal capacity of 800 tons at 100% load and 1,372 gallons per minute (GPM)
+
+flow through the evaporator. The chiller used in this pilot was tested at ~80% load, a GPM of 1,372 and a
+
+current limit of 100%.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+Reduction in
+Per Unit Costs
+
+Equating to a
+22.2% reduction
+
+5
+
+Recovered Wasted Energy with ECM - Chiller
+
+The chart to the right illustrates the performance
+
+restoration the PermaFrost NMR® ECM created in the
+
+treated chiller. The average cost to operate this chiller
+
+before it was treated, as calculated in kW/ton, was .509.
+
+The specific cost to operate this chiller after it was
+
+treated with PermaFrost NMR®, as calculated in
+
+kW/ton, is currently 0.396.
+
+The higher baseline kW/ton rating measured in-situ
+
+was expected when compared to the ASHRAE loss of
+
+performance efficiency and cost to operate estimate for
+
+a 15 year old chiller. The post results are also in line
+
+with the average improvement savings shown over
+
+more than 130,000 installations globally.
+
+Photographic Evidence of Key Measurements
+
+Cost Per Cooling Unit to Operate
+
+kW/ton
+
+.113 kW/ton
+
+Baseline
+Post ECM
+
+0.509
+
+0.396
+
+Baseline - 12/5/14
+Post - 4/7/15
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Energy Consumption & Financial Metrics
+
+The following are the final calculated average performance measurements following the PermaFrost NMR®
+
+Post measurement period for the Global Telecom Equipment Manufacturer Chiller.
+
+Baseline Energy Consumption
+
+Baseline Tonnage: 709.4 tons
+
+Adjusted kW Baseline: .509 kW/ton * 778.1 tons = 396.1 kW
+
+Adjusted Baseline kWh: 396.1 kW * 2,000 Annual Operating Hrs = 792,200 kWh
+
+Revised Cost to Run Baseline: 792,200 kWh * $.09 = $71,298
+
+Post Energy Consumption
+
+kW Post: 0.396 kW/ton * 778.1 tons = 308.1 kW
+
+Annual kWh Post: 308.1 kW * 2,000 hours = 616,200 kWh
+
+Annual Cost Post: 616,200 kWh * .09 cents = $55,458
+
+Savings Per Year
+
+Avoided Energy Cost (savings) Per Year: $71,298 - $55,458 = $15,840
+
+Estimated Energy Savings Per Month: $15,840 / 12 = $1,320
+
+Initial Payback Period
+
+Cost of PermaFrost NMR® installed in the pilot chiller: $10,190
+
+Estimated Initial Payback Period for Global Telecom Equipment Manufacturer on the chiller: $10,190 / $1,320 = 7.7 months
+
+Annual Internal Rate of Return = 155%
+
+Return on Investment Over 5 Years = 777%
+
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period for
+
+Global Telecom Equipment Manufacturer for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true
+
+energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended in
+
+the Post Analysis Period. ROI comes from determining what the cost to run the chiller was when operating at the original
+
+energy profile to produce the newly restored amount of available tonnage capacity and then subtracting the revised cost to
+
+run the chiller at the same restored tonnage after the PermaFrostNMR® ECM was installed. This regression analysis is
+
+the most widely accepted method of accounting for the reduced number of hours or load the chiller will now operate due to
+
+the restored capacity. This restored capacity allows the chiller to reach the internal building set points with increased
+
+efficiency resulting in reduced compressor demand loading.
+
+6
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+.509
+
+POST
+
+BASELINE
+
+.396
+
+kW/ton
+
+REDUCTION
+22.2%
+
+REDUCTION
+
+POST
+
+BASELINE
+
+22.2%
+
+9.7%
+
+POST
+
+BASELINE
+
+Chilled Water Delta
+
+IMPROVEMENT
+
+12.4
+
+792,200
+
+616,200
+308.1
+
+13.6
+
+Key Results for Chiller with PermaFrost NMR® ECM
+
+HVAC Equipment Manufacturer
+
+CVHF770
+
+L00H04058
+
+R123
+
+800
+
+2,000
+
+1999
+
+System Description
+
+Manufacturer
+
+Model Number
+
+Serial Number
+
+Refrigerant Type
+
+Nominal Cooling
+Capacity in Tons
+
+Average Annual
+Runtime Hours
+
+Date Installed
+
+481.0
+
+436.0
+
+36.7
+
+100.6
+
+38.4
+
+52
+
+83.6
+
+89.3
+
+13.6
+
+1.7
+
+308.3
+
+0.396
+
+778.1
+
+1372
+
+616,200
+
+66.6
+
+8.88
+
+72
+
+Energy Usage
+BASELINE
+POST
+
+Voltage
+
+Amperage
+
+Saturated Suction Temperature
+
+Discharge Refrigerant Temperature
+
+Chilled Water Leaving Temp (Supply)
+
+Chilled Water Leaving Temp (Return)
+
+Condenser Water Temp Entering Chiller
+
+Condenser Water Temp Leaving Chiller
+
+Chilled Water Delta T
+
+Refrigerant Approach
+
+kW (V x A x 1.47)
+
+kW / Ton
+
+Actual Measured Operating Tons
+
+Chiller GPM
+
+Annual kWh (after regression analysis)
+
+Vane Position % During Testing
+
+Coeﬃcient of Performance (COP)
+
+OAT
+
+482.0
+
+510
+
+37.2
+
+104
+
+39.1
+
+51.5
+
+83.7
+
+92.6
+
+12.4
+
+1.9
+
+361.4
+
+0.509
+
+709.4
+
+1372
+
+792,200
+
+71.5
+
+6.91
+
+72
+
+7
+
+Notes
+
+The pilot chiller provides cooling to the main
+
+Global Telecom Equipment Manufacturer [Texas Location] complex. Given the facility load
+
+and the two chillers comprising this
+
+supplementary plant, the pilot chiller runs
+
+approximately 2,000 hours or more annually
+
+prior to the ECM being implemented.
+
+REDUCTION
+
+POST
+
+BASELINE
+361.4
+
+kW
+
+14.7%
+
+Calculated Annual kWh
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+25.5
+
+Passenger vehicles
+
+6.2
+
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+
+13,656
+
+Gallons of gasoline
+consumed
+
+130,356
+
+Pounds of coal burned
+annually
+
+282
+
+Barrels of oil
+consumed
+
+.651
+
+Railcars worth
+of coal burned
+
+16.7
+
+Homes’ electricity use for
+one year
+
+8
+
+Global Telecom Equipment Manufacturer is Saving More than Just Energy
+
+By treating the pilot chiller with PermaFrost NMR®, based on the current manner Global Telecom Equipment Manufacturer operates this
+
+chiller, it will save approximately 176,000 kWh per year and all the costs associated with those savings. From
+
+an environmental impact standpoint, Global Telecom Equipment Manufacturer is also benefitting the surrounding community of [Texas Location], TX.
+
+Imagine how great the environmental impact will be when Global Telecom Equipment Manufacturer moves forward with treating all their
+
+chillers in [Texas Location] and across the USA.
+
+The 176,000 kWh saved per year equates to preventing 121 metric tons of greenhouse gas emissions from
+
+being released or any of the following:
+
+Annual greenhouse emissions from:
+
+CO2 emissions from:
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

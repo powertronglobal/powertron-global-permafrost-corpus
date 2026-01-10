@@ -1,0 +1,72 @@
+®
+Energy Savings Project Report
+Executive Summary 
+Property Management Company C’s International Site A Chiller #1 and #2 suffered extensive thermal degradation due to thermal inefficiency, 
+with corresponding degraded performance wasting significant amounts of money on wasted energy 
+consumption. The high kilowatt Energy to kilowatt Refrigeration (kWE/kWR) ratio measured in situ was in 
+line with ASHRAE defined performance loss and operating cost parameters. 
+The thermal degradation problem affecting the chillers was corrected by a single treatment of the energy 
+conservation method (ECM) PermaFrost NMR® nano-technology from Powertron Global®.  It very quickly and 
+effectively restored the chillers’ performance by utilising significantly less electrical power to operate than 
+before the ECM implementation. The International Site A Chillers #1 and #2 PermaFrost NMR® Project once again 
+demonstrated that the ECM PermaFrost NMR® improves performance and is safe and harmless to any 
+Heating, Ventilation, Air Conditioning and Refrigeration (HVACR) system.
+PermaFrost NMR® has been installed in more than 120,000 HVACR systems around the world since it was 
+first introduced in 2002 without a single failure or liability claim against the technology.
+The performance improvements and energy savings were:
+1
+Healthcare System ALLER #1
+Healthcare System ALLER #2
+-02.57%
+27.27%
+-23.44%
+30.97%
+30.63%
+3,040
+ZAR 1.10
+168.57
+214.53
+652,171
+ZAR 717,388
+164.25
+499,320
+ZAR 549,252
+ZAR 168,136
+ZAR 238,000
+1.42 Years
+-14.32%
+10.00%
+-22.11%
+28.55%
+28.37%
+3,040
+ZAR 1.10
+144.88
+159.38
+484,515
+ZAR 532,967
+124.14
+377,386
+ZAR 415,124
+ZAR 117,843
+ZAR 238,000
+2.02 Years
+Kilowatts (kWE)
+Actual Cooling Capacity
+Energy Input (kWE/kWR)
+Coeﬃcient of Performance (COP)
+Design Eﬃciency Increase
+Annual Operating Hours
+Total Power Cost per kWE
+kWE Measured (BASE)
+kWE Adjusted (BASE)
+Annual kWh (BASE)
+Annual Cost (BASE)
+kWE Measured (AERP)
+Annual kWh (AERP)
+Annual Cost (AERP)
+Annual Energy Savings
+Technology Treatment Cost
+Return on Investment (ROI)
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

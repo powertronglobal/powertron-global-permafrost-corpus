@@ -1,0 +1,45 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+APPENDIX C 
+ 
+Meter Specifications 
+ 
+ 
+1. AccuEnergy 1312 Power Meter  
+ 
+AcuRev 1312 provides real-time RMS measurement of the instantaneous 
+Voltage, Current, Power, Frequency and Power Factor. All measurements can be 
+viewed through the meter display or the AcuRev 1312 Utility Software. The meter 
+supports energy parameters such as the reactive and apparent energy with ANSI 
+C 12.20 0.5 class and IEC 62053-22 0.5s class revenue grade accuracy. 
+ 
+2. Dwyer O-4 (Outdoor and Ambient Air Temp) 
+ 
+Thermistor temperature sensor +-.22 Thermistor temperature sensor: ±0.22°C 
+@ 25°C (±0.4°F @ 77°F); RTD temperature sensor: DIN class B: ±0.3°C @ 0°C 
+(±0.54°F @ 32°F). 
+ 
+3. Dwyer AC Current Switches CCS-231150 (Compressor on/off) 
+ 
+Current switch, split core, adjustable set point with min. set point 1.5, normally 
+open output. 0-200 A AC. 0.3 A @ 135 VAC/DC; For non-dry contact models: 1 
+A @ 240 VAC. 
+ 
+ 
+4. Dwyer AVUL (Air Velocity) 
+ 
+Simultaneous current and voltage outputs on all models provide universal 
+inputs to monitoring equipment while the output range, units, and 0 to 5/10 
+VDC, 4-20 mA output. ±(5% of reading + 0.2 m/s) or ±(3% of reading + 0.2 m/s)  
+ 
+ 
+5. Dwyer RHP-2D1B (Return and Supply RH and Temp) 
+ 
+Duct mount 2% RH/temperature transmitter with 4-20 mA RH output and 
+10K @ 25°C thermistor temperature output.  
+ 
+ 
+ 
+ 

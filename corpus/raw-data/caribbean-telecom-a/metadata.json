@@ -1,0 +1,44 @@
+{
+  "source": "Caribbean Telecom A",
+  "industry": "telecom",
+  "location_obfuscated": "Caribbean, Jamaica",
+  "processed_date": "2026-01-08T19:57:40.575300",
+  "files": [
+    {
+      "obfuscated_file": "site2_baseline.parquet",
+      "rows": 9158,
+      "columns": 23,
+      "size_kb": 195.7
+    },
+    {
+      "obfuscated_file": "site2_post.parquet",
+      "rows": 14188,
+      "columns": 23,
+      "size_kb": 531.3
+    },
+    {
+      "obfuscated_file": "site3_baseline.parquet",
+      "rows": 62916,
+      "columns": 23,
+      "size_kb": 1512.0
+    },
+    {
+      "obfuscated_file": "site3_post.parquet",
+      "rows": 31641,
+      "columns": 23,
+      "size_kb": 1333.2
+    },
+    {
+      "obfuscated_file": "site1_baseline.parquet",
+      "rows": 14660,
+      "columns": 23,
+      "size_kb": 256.9
+    },
+    {
+      "obfuscated_file": "site1_post.parquet",
+      "rows": 32111,
+      "columns": 23,
+      "size_kb": 691.7
+    }
+  ]
+}

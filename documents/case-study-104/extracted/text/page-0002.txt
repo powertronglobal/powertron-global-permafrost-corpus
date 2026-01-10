@@ -1,0 +1,84 @@
+ 
+ 
+2 
+ 
+A. 
+INTRODUCTION 
+ 
+From February 6 to March 14, 2017 at the Miami Gardens location, testing was 
+implemented to verify energy efficiency reduction through the Powertron Global’s 
+product PermaFrost NMR affecting the refrigerant circuits of one 20-Ton package 
+DX unit and to demonstrate the performance of an untreated system of the same 
+make, model and age.  
+ 
+Unit #9 - Lennox LGA240H2BS3G Serial 5607H16058, Mfg Date 2007, R-22 
+equipped (TESTED) 
+Unit #16 - Lennox LGA240H2BS3G Serial 5607H16056, Mfg Date 2007, R-22 
+equipped (CONTROL) 
+ 
+The testing was designed to monitor the operation of Unit #9 (tested) before and 
+after the installation of PermaFrost NMR and to verify the amount of capacity 
+restoration and the resulting improvement in kW/ton. Unit #16 (control) was also 
+monitored using the same methodology to measure its current kW/ton efficiency 
+without PermaFrost NMR during the same time duration. 
+ 
+The monitoring isolates the entry and departure points of the medium being 
+cooled and the power being used. By recording the conditions at those entry and 
+departure points the overall cooling results can be compared to the overall power 
+consumed to quantify the power costs per unit of cooling kW/Ton (kilowatt-per-
+ton), EER (Energy Efficiency Ratio) & COP (Co-Efficient of Performance). 
+ 
+B. 
+EXECUTIVE SUMMARY 
+ 
+The average efficiency improvements per system are:  
+ 
+TESTED 
+ 
+UNIT #9 
+kW/Ton 
+Capacity-
+Tons 
+COP 
+EER 
+Enthalpy 
+Baseline  
+0.99 
+22.2 
+3.61 
+12.31 
+5.53 
+Post 
+0.81 
+25.7 
+4.4 
+15 
+6.39 
+Improvement % 
+18.2% 
+15.8% 
+21.9% 
+21.9% 
+15.6% 
+CONTROL 
+UNIT #16 
+kW/Ton 
+Capacity-
+Tons 
+COP 
+EER 
+Enthalpy 
+Feb 6-13 
+1.43 
+14.1 
+2.47 
+8.41 
+3.39  
+Mar 7-14 
+*1.55 
+13.1 
+2.28 
+7.77 
+3.14  
+* as expected per more samples in warmer weather 
+ 

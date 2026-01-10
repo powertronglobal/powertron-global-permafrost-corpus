@@ -1,0 +1,36 @@
+38        M&V Plan Contents 
+ 
+Depending upon the circumstances of each project, some additional specific topics should also 
+be discussed in a complete M&V Plan: 
+For Option A: 
+ 
+Justification of Estimates   Report the values to be used for all estimated values. Explain 
+the source of these estimated values. Show the overall significance of these estimates to 
+the total expected savings by reporting the range of the possible savings associated with the 
+range of plausible values of the estimated parameters.  
+ 
+Periodic Inspections  Define the periodic inspections that will be performed in the reporting 
+period to verify that equipment is still in place and operating as assumed when determining 
+the estimated values. 
+For Option D: 
+ 
+Software Name  Report the name and version number of the simulation software to be 
+used.  
+ 
+Input/Output Data   Provide a paper and electronic copy of the input files, output files, and 
+weather files used for the simulation. 
+ 
+Measured Data   Note which input parameters were measured and which were estimated. 
+Describe the process of obtaining any measured data.  
+ 
+Calibration   Report the energy and operating data used for calibration. Report the 
+accuracy with which the simulation results match the calibration energy data.  
+Where the nature of future changes can be anticipated, define methods for making the relevant 
+non-routine adjustments. 
+Time and budget requirements (item 11, above) are often underestimated, which leads to 
+incomplete data collection. A less accurate and less expensive savings determination is better 
+than an incomplete or poorly done determination, which is theoretically more accurate but 
+under-funded. Chapter 8.5 addresses cost/benefit tradeoffs. 
+Issues arising in developing M&V Plans are discussed in the examples shown in Appendix A. 
+The website of Efficiency Valuation Organization (www.evo-world.org) contains a growing 
+selection of sample M&V Plans.   

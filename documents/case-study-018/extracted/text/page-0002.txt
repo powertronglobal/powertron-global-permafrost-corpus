@@ -1,0 +1,96 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+ 
+ 
+ 
+           
+ 
+ 
+INTRODUCTION 
+ 
+ 
+From August 2019 to the current day at the Burbank location, monitoring 
+equipment was implemented to verify the current energy efficiency of one (1) DX 
+system using Powertron Global’s FMV energy monitoring platform utilizing the 
+latest in the Internet of Things (IoT) cloud based reporting.  
+ 
+Table 1 – Equipment Information  
+TYPE 
+Equipment 
+ID 
+Make 
+ Model 
+Number 
+Serial 
+Number 
+Type 
+Year 
+Mfg. 
+Refrig.   
+Type 
+Nominal 
+Capacity 
+DX 
+Comp -1 
+HVAC Equipment Manufacturer 
+CRHR600C4
+B0A0R2J0C0 
+N06D05282 
+Split 
+2006 
+22 
+50 
+DX 
+AHU -1 
+HVAC Equipment Manufacturer 
+SWUA-
+6004RDV 
+L82G05323 
+Split 
+1982 
+22 
+50 
+ 
+The testing is designed to monitor the operation of any system before and after 
+installation of PermaFrost NMR® and to verify the amount of capacity restored 
+and current kW/ton energy savings improvement.  
+ 
+The monitoring isolates the entry and departure points of the medium being 
+cooled and the power being used. By recording the conditions at those entry and 
+departure points the overall cooling results can be compared to the overall power 
+consumed to quantify the power costs per unit of cooling kW/Ton (kilowatt-per-
+ton), EER (Energy Efficiency Ratio), COP (Co-Efficient of Performance), Capacity 
+& Enthalpy production. 
+ 
+EXECUTIVE SUMMARY 
+ 
+Average efficiency improvements 
+ 
+ 
+kW/Ton 
+Capacity-Tons 
+COP 
+EER 
+Enthalpy 
+Delta 
+Baseline –  
+Sept 24-30, 2019 
+2.44 
+9.87 
+1.58 
+6.16 
+3.12 
+Post         –  
+Apr 22-28, 2020 
+1.76 
+13.49 
+2.09 
+8.15 
+4.40 
+Improvement % 
+27.9% 
+36.7% 
+32.3% 
+32.3% 
+41% 
+ 

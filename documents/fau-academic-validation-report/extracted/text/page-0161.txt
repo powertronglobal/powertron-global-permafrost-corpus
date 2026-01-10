@@ -1,0 +1,50 @@
+ 
+References         61 
+ 
+33. Haberl, J., Turner, W.D., Finstad, C., Scott, F. and Bryant, J. 1992. "Calibration of 
+Flowmeters for use in HVAC Systems Monitoring", Proceedings of the 1992 
+ASME/JSES/KSES International Solar Energy Conference. 
+34. Hadley, D.L. and Tomich, S.D. 1986. "Multivariate Statistical Assessment or Meteorological 
+Influences in Residence Space Heating", Proceedings of the ACEEE 1986 Summer Study 
+on Energy Efficiency in Buildings, Vol. 9, pp. 9.132-9.145. 
+35. Harding, J. (ed). 1982. "Recent Advances in Chilled Mirror Hygrometry", General Eastern 
+Corporation Technical Bulletin, 50 Hunt Street, Watertown, Massachusetts. 
+36. Heinemeier, K. and Akbari, H. 1993. "Energy Management and Control Systems and Their 
+Use for Performance Monitoring in the LoanSTAR Program", Lawrence Berkeley National 
+Laboratory Report No. LBL-33114- UC-350, June, (prepared for the Texas State Energy 
+Conservation Office). 
+37. Houcek, J., Liu, M., Claridge, D., Haberl, J., Katipamula, S. and Abbas, M. 1993. "Potential 
+Operation and Maintenance (O&M) Savings at the State Capitol Complex", Energy Systems 
+Lab Technical Report No. ESL-TR-93/01- 07, Texas A&M University, College Station, 
+Texas. 
+38. Huang, P. 1991. "Humidity Measurements and Calibration Standards", ASHRAE 
+Transactions, Vol. 97, p.3521. 
+39. Hurley, C.W. and Schooley, J.F. 1984. "Calibration of Temperature Measurement Systems 
+Installed in Buildings", N.B.S. Building Science Series Report No. 153, January. 
+40. Hurley, W. 1985. "Measurement of Temperature, Humidity, and Fluid Flow", Field Data 
+Acquisition for Building and Equipment Energy Use Monitoring, ORNL Publication No. 
+CONF-8510218, March. 
+41. Hyland, R.W. and Hurley, C.W. 1983. "General Guidelines for the On-Site Calibration of 
+Humidity and Moisture Control Systems in Buildings", N.B.S. Building Science Series 157, 
+September.  
+42. IPCC 1995. Impacts, Adaptations and Mitigation of Climate Change: Scientific-Technical 
+Analyses. Contribution of Working Group II to the Second Assessment Report of the 
+Intergovernmental Panel on Climate Change, Geneva, Switzerland. pp 64. 
+43. Katipamula, S. 1996. "The Great Energy Predictor Shootout II: Modeling Energy Use in 
+Large Commercial Buildings", ASHRAE Transactions, Vol. 102, Pt 2. 
+44. Katipamula, S. and Haberl, J. 1991. "A Methodology to Identify Diurnal Load Shapes for 
+Non-Weather-Dependent Electric End-Uses", Proceedings of the 1991 ASME-JSES 
+International Solar Energy Conference, ASME, New York, New York, pp. 457-467, March. 
+45. Kats, G., Kumar, S., and Rosenfeld, A. 1999. "The Role for an International Measurement & 
+Verification Standard in Reducing Pollution", Proceedings of the ECEEE 1999 Summer 
+Study, Vol. 1, Panel 1. 
+46. Kats, G., Rosenfeld, A., and McGaraghan, S. 1997. "Energy Efficiency as A Commodity: 
+The Emergence of an Efficiency Secondary Market for Savings in Commercial Buildings", 
+Proceedings of the ECEEE 1997 Summer Study, Vol. I, Panel 2. 
+47. Kissock, K., Claridge, D., Haberl, J. and Reddy, A. 1992. "Measuring Retrofit Savings For 
+the Texas LoanSTAR Program: Preliminary Methodology and Results", Solar Engineering, 
+1992: Proceedings of the ASME-JSES-SSME International Solar Energy Conference, Maui, 
+Hawaii, April.  
+48. Kissock, K., Wu, X., Sparks, R., Claridge, D., Mahoney, J. and Haberl, J. 1994. "EModel 
+Version, 1.4d", Energy Systems Laboratory ESL-SW-94/12-01, Texas Engineering 
+Experiment Station, Texas A&M University System, December. 

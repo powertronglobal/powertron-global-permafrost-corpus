@@ -1,0 +1,20 @@
+{
+  "source": "QSR Chain A",
+  "industry": "food_service",
+  "location_obfuscated": "Central America",
+  "processed_date": "2026-01-08T19:56:19.715376",
+  "files": [
+    {
+      "obfuscated_file": "unit1_data.parquet",
+      "rows": 44865,
+      "columns": 23,
+      "size_kb": 647.9
+    },
+    {
+      "obfuscated_file": "unit2_data.parquet",
+      "rows": 90698,
+      "columns": 23,
+      "size_kb": 754.9
+    }
+  ]
+}

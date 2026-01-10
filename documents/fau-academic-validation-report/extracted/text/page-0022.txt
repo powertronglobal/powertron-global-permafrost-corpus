@@ -1,0 +1,50 @@
+ 
+22 
+8760 Annual Operating Hours 
+ 
+#4 
+Make – York 
+Model – BP102C00B2AAA2A 
+Refrigerant Type – R-22 
+Nominal Cooling Capacity in Btuh/ton – 102,000 / 8.5 
+8760 Annual Operating Hours 
+ 
+Food Retailer - 3 FL Locations [Florida Location] area for MACSUB INC.  R-22 DX systems and 
+R-410A systems 
+ 
+[Southeast Location] Location 
+Make – American Standard 
+Model – TSC090A360 
+Refrigerant Type – R-22 
+Nominal Cooling Capacity in Btuh/ton – 90,000 Btuh 
+5,110 Annual Operating hrs 
+ 
+[Florida Location] Location 
+Make – Nordyne 
+Model – P3RA060K 
+Refrigerant Type – R-22 
+Nominal Cooling Capacity in Btuh/ton – 60,000 Btuh 
+5,110 Annual Operating hrs 
+ 
+[Florida Location] Location 
+Make – Goodman 
+Model – GPC1348H41BA 
+Refrigerant Type – R-410 
+Nominal Cooling Capacity in Btuh/ton – 60,000 Btuh 
+5,110 Annual Operating hrs 
+ 
+Large U.S. Communications Company, Data Center CRAC Unit EPR.  This report contains 
+specific information regarding the installation of PermaFrost NMR® in Unit #1 of two 16-ton 
+Liebert Computer Room Air Conditioning (CRAC) supporting mission critical data center 
+operations for this U.S. Communications Company (heretofore referred to as The Company) 
+located in Long Island, New York. Stamped by Professional Engineer. 
+ 
+Unit#1 16-ton Liebert Computer Room Air Conditioning (CRAC) 
+ 
+Make – Liebert 
+Model – UE192G-A10 
+Refrigerant Type – R-22 
+Nominal Cooling Capacity in Btuh/ton – 192,000 Btuh / 16 tons 
+5,840 Annual Operating Hrs 
+ 
+Unit #2 16-ton Liebert Computer Room Air Conditioning (CRAC) 

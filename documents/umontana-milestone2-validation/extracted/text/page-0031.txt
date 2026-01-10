@@ -1,0 +1,43 @@
+ 
+ 
+Page 23 of 38 
+ 
+Figure 29 
+ 
+As is more apparent in this shorter time window, during a season of overall rising temperatures, the 
+ratable drop in interval temperature following the high temperature point of the day is nominally less 
+that were the ratable increases in interval temperature preceding the high temperature point of the 
+day.  The opposite follows during a season of lowering temperatures. 
+Humidity averages were applied evenly throughout the month identified to all 3-minute intervals 
+contained in said month, depicted in Figure 30.6 
+ 
+6 https://www.weather-us.com/en/texas-usa/denton-climate#humidity_relative 
+88.890
+89.300
+89.720
+90.140
+90.570
+90.150
+89.730
+89.320
+88.900
+88.000
+88.500
+89.000
+89.500
+90.000
+90.500
+91.000
+T - 20
+T - 15
+T - 10
+T - 5
+T
+T + 5
+T + 10
+T + 15
+T + 20
+Outside Air Temperature
+T (daily high temperature) and # of 3-minute intervals reflecting a 2-hour spread
+Hypothetical 3-minute intervals during season of rising 
+temperatures

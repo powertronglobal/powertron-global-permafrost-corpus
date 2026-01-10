@@ -1,0 +1,240 @@
+29
+QSR Chain C 
+Donut #1 
+Before
+After
+QSR Chain C 
+Donut #2 
+Before
+After
+QSR Chain C 
+Donut #3 
+Before
+After
+Organization A 
+Before
+After
+241.9
+239.6
+210.3
+211.2
+210.3
+210.1
+212
+209
+16.9
+17.02
+14.8
+13.69
+14.1
+13.9
+84
+85.37
+42.6
+41.9
+41.7
+38.9
+38.7
+39.9
+33.9
+38.2
+122
+113.5
+110.5
+105.4
+119
+109.9
+104
+125
+73.3
+73.1
+72.2
+73
+74.8
+70
+71
+71
+54
+52.3
+55
+53.3
+54.6
+53.9
+51.6
+56
+61
+61.2
+56.4
+60.3
+57.7
+58.8
+57.3
+62.2
+51.8
+50.5
+48.5
+50.1
+48
+47.9
+47.9
+52.3
+1,900
+1,900
+1,600
+1,600
+1,600
+1,600
+6250
+6250
+49,846
+57,370
+33,264
+45,432
+41,184
+46,800
+159,187
+179,156
+4.15
+4.78
+2.77
+3.79
+3.43
+3.9
+13.27
+14.93
+5.83
+6.71
+4.62
+6.31
+5.72
+6.5
+5.66
+6.37
+89.1
+81
+91
+82
+91
+82
+75
+79
+6009.5
+5,994
+4,575
+4,250
+4,359
+4,293
+31,114
+30,386
+1,447
+1,254
+1,652
+1,121
+1,271
+1,101
+2,345
+2,033
+19.3
+20.8
+17.2
+19.7
+20.2
+16.1
+19.4
+15
+311
+288
+266
+216
+216
+267
+1604
+2026
+9.2
+10.7
+7.9
+10.2
+9.7
+10.9
+9.4
+9.9
+653
+560
+579
+417
+449
+394
+3310
+3069.2929
+DX Measured Parameter 
+Voltage
+Amperage
+Suction Refrigerant Temp F 
+Discharge Refrigerant Temp F 
+Entering Air Temp DB 
+Leaving Air Temp DB 
+Entering Air Temp WB 
+Leaving Air Temp WB 
+Actual CFM
+Actual Coil Capacity Btuh 
+Actual Coil Capacity Tons 
+Enthalpy Delta
+OAT at time of readings
+Calculated Parameters
+Refrigerant Approach
+Total Watts Normalized for Weather
+Watts Per Ton
+Adjusted Baseline Tonnage
+Adjusted Baseline Total Watts
+COP
+Delta T Dry bulb
+Watts/degree decrease DB
+Delta T Wet(acctg for humidity)
+Watts/degree decrease WB
+kW (volts x amps x .85 x 1.732)/1000 OR
+(volts x amps x 1.56)/1000 OR
+(volts x amps x .9)/1000
+Adjusted Total Watts
+Btuh Coil Capacity
+System Eﬃciency
+EER (Btuh / Watts)
+6.01
+5.99
+4.58
+4.25
+4.36
+4.29
+26.18
+26.23
+6,921
+5,994
+6,261
+4,250
+4,957
+4,293
+35,016
+30,386
+49,847
+57,371
+33,264
+45,432
+41,184
+46,800
+159,188
+179,156
+83.0%
+95.6%
+69.3%
+94.6%
+85.8%
+97.5%
+66.33%
+74.65%
+8.29
+9.57
+7.27
+10.69
+9.45
+10.90
+5.12
+5.90

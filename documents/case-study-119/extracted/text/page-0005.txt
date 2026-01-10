@@ -1,0 +1,29 @@
+®
+4
+HVAC/R Eﬃciency Study Results
+Calculated Eﬃciency of African Telecom Provider B DXC Baseline and Post
+The measurements taken show just how far off design the African Telecom Provider B pilot DXC had already degraded in 
+terms of efficiency over six (6) years of use. This same pilot DXC was determined to be performing at an 
+average of 70% of the original design efficiency in the baseline. The actual design rated tonnage of the DXC is 
+67 kWR. In actuality, the DXC was only producing a total of 46.77 kWR of cooling at the start of the pilot. The 
+majority of this 30% efficiency loss is directly attributable to the thermal degradation of the heat exchange 
+surfaces over a short period of time. This is due in large part to thermal degradation which creates an insulating barrier 
+to heat transfer on the tube walls (inside the tube on a direct expansion chiller and outside the tube on a 
+flooded evaporator chiller).  
+After the ECM was installed, the average efficiency in the DXC increased to 93.85% of design specifications, 
+equating to 59.08 kWR. The restoration of 12.31 kWR  represents a 26.3% increase in capacity.   
+ 
+Cost to African Telecom Provider B to Operate the DXC Baseline vs Post
+The degraded capacity described above prior to PermaFrost NMR® being implemented was costing African Telecom Provider B a similar amount in the way of wasted energy each hour the DXC was operating. The average cost to 
+operate the pilot DXC as calculated in kWE/kWR was 0.43 in the Baseline. When new, the kWE/kWR rating for 
+units like these usually ranges from 0.32 – 0.35 kW/kWR when the proper sized ducting is used.
+ 
+The restored average kW/kWR rating following the ECM is now 0.32. This represents a 25.6% reduction in 
+energy costs from the baseline for every ton of cooling produced. This will result in an initial payback period 
+(IPP) to African Telecom Provider B of 1.22 years and an internal rate of Return (IRR) of 82.3%. Extrapolated out over just the 
+next five (5) years, this ECM project will net African Telecom Provider B a substantial ROI of 411% on their investment. These 
+accumulated savings will greatly reduce the eventual CapEx costs to replace the DXC’s when they finally reach 
+the end of their useful life.   
+ 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

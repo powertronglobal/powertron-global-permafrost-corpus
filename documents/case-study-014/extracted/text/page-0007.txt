@@ -1,0 +1,57 @@
+Energy Science Division
+RMS Voltage
+RMS Amperage
+Suction Refrigerant Pressure / Temp
+Discharge Refrigerant Pressure / Temp
+Supply Chilled Water Temp
+Return Chilled Water Temp
+Supply Condensed Water Temp
+Return Condensed Water Temp
+GPM
+Evaporator Refrigerant Approach
+Load
+ 4169 V
+ 104 A
+ 38 psi / 42.7 F
+ 97 psi / 86.3 F
+ 44.5 F
+ 55.7 F
+ 84.6 F
+ 74.1 F
+ 2156
+ 1.8
+104%
+Baseline Measurement Period Selection
+The following data was recorded on 6/12/2012 using recently calibrated devices to insure measurement 
+accuracy. The following results were recorded as a result of the implementation of the IPMVP Protocol.
+Energy Reporting Period (Post)
+The identical data was recorded on 7/24/012 using recently calibrated devices to insure measurement 
+accuracy. The following results were recorded as a result of the implementation of the IPMVP Protocol.
+RMS Voltage
+RMS Amperage
+Suction Refrigerant Pressure
+Discharge Refrigerant Pressure
+Supply Chilled Water Temp
+Return Chilled Water Temp
+Supply Condensed Water Temp
+Return Condensed Water Temp
+GPM
+Evaporator Refrigerant Approach
+Load
+ 4129 V
+ 100 A
+38 psi / 43.0 F
+ 106.2 psi / 91.3 F
+ 43.8 F
+ 53.8 F
+ 88.6
+ 78.8
+ 2156
+ .8
+100%
+      The OAT was 92 F
+with 38% humidity.
+      The OAT was 71 F
+with 80% humidity.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

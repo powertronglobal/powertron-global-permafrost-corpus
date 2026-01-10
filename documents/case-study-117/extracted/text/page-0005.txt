@@ -1,0 +1,64 @@
+®
+4
+194 tons
+233 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The Chiller should be operating @ 245 tons of cooling capacity
+   at 49%
+• The Chiller was operating @ 194 tons of cooling capacity prior
+   to installing ECM
+• The Chiller now has 39 tons of restored cooling capacity after ECM
+• The Chiller should be operating @ 6.75 COP or higher
+• The Chiller was operating @ 5.43 COP prior to the ECM
+   and 6.57 following the ECM
+• The average COP of the Chiller was increased by 21% 
+   following the ECM
+5.43
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+194
+tons Baseline
+100%
+CAPACITY @
+100% LOAD
+Avg. Baseline
+COP
+Avg. Post
+ECM COP
+5.43
+6.57
+Post ECM COP
+233
+tons Post ECM
+21%
+Improvement
+in COP
+39
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of HVAC/R Eﬃciency Study Results
+Chiller Eﬃciency with PermaFrost NMR® ECM
+Major US Telecom is experiencing significant thermal degradation in their data center HVAC systems. The lower 
+baseline operating tonnage and COP ratings measured on site are in line with the ASHRAE loss of performance 
+and cost to operate numbers. The degraded equipment performance was costing Major US Telecom significant money and 
+wasting energy. The pilot chiller was using significantly more kWh to operate than it used when it was new. 
+The performance summary includes the measured efficiency and tonnage of the chiller in the baseline and post 
+testing periods, demonstrating the impact of thermal degradation. 
+The implementation of the PermaFrost NMR® ECM resulted in a restoration of 39 operating tons equating to 
+20.1%; an improvement of 21% in Coefficient of Performance (COP) and a reduction in kW/ton of 16.9%, 
+significantly reducing the cost to operate the chiller throughout the year.
+The Major US Telecom HVAC Equipment Manufacturer chiller treated has a nominal capacity of 500 tons and 1,020 gallons per minute (GPM) flow 
+through the evaporator. The chiller used in this pilot was tested at 49% load with a GPM flow right near design 
+at 1,034 after adjusting on site prior to starting the baseline readings. 
+6.57
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

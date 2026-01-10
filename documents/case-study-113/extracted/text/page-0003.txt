@@ -1,0 +1,44 @@
+®
+in Recovered
+Energy, Equating
+to a 21.5%
+reduction 
+.29 kW/Ton
+0.0
+0.3
+0.6
+0.9
+1.2
+1.5
+2
+Recovered Unit Cost with PermaFrost NMR® ECM
+The kW/ton is the standard Unit Cost  in the HVAC 
+industry. It is the HVAC industry’s standard of 
+determining how much energy is required to create 1 ton 
+of cooling (i.e., conditioned air). When you reduce your 
+unit cost of cooling you are saving regardless of how 
+much overall cooling you require.
+Data Center Provider has the industry epidemic problem of thermal 
+degradation in their Chillers and HVAC units. The 
+degraded equipment performance is costing Data Center Provider 
+significant operational dollars through wasted energy, 
+and capital dollars through additional run time, work 
+load, maintenance and replacement costs. The 35 NYC2 
+CRAC units were found to be using significantly more 
+energy to operate than when they were new, and lost 
+capacity is wearing out units faster.
+The chart below illustrates the performance restoration the ECM created in the treated units. The average 
+operational efficiency ratings of the 35 units before being treated with PermaFrost NMR®, as calculated in 
+kW/ton, were 1.35.
+The average operational efficiency ratings of the 35 units after being treated with PermaFrost NMR®, as 
+calculated in kW/ton, are currently 1.06. The higher baseline kW/ton ratings measured  in-situ were 
+expected when compared to the ASHRAE predicted loss of operational performance efficiency for similar 
+age and type cooling units.  
+Cost to Operate
+kW/ton
+Baseline
+Post ECM
+1.35
+1.06
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

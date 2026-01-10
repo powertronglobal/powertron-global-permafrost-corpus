@@ -1,0 +1,23 @@
+PermaFrost NMR®
+ Installation Instructions
+forChillers
+The following instructions are designed
+to guide licensed HVAC personnel
+through the PermaFrost NMR® installation
+process for water and air- cooled chillers. 
+Before the HVAC personnel proceeds with the installation process, it is important to inspect the equipment to be 
+treated and ensure that it is in proper working order. This is imperative especially in chillers. A thorough review of 
+satisfactory recent oil analysis is required. Excessive acid and or water presence will cause the failure of results.
+You should review this information with Powertron Global® engineering department before installation if any of these 
+levels are above the OEM allowed limits.
+Once this has been accomplished you may proceed with the Recommendations & Requirements of PermaFrost NMR®.
+Before you begin the installation of PermaFrost NMR®
+The two types of PermaFrost NMR® formulas for Chiller units are synthetic and mineral. It is important that the 
+correct PermaFrost NMR® formulation is matched to the correct  refrigerant oil type. The oil type always determines 
+the correct type of PermaFrost NMR® to be installed. On occasion, chillers are equipped with refrigerants such as 
+R-22 (mineral based), but have a synthetic refrigeration oil; never assume the oil type, this must be veriﬁed.
+  
+The installer must know how much their pump injects per stroke. For example, the Yellow Jacket Max-Flow #77930 
+that is recommended pumps 3.8 oz. per stroke (simply approximate 4 oz.). If you use an injector or some other piece of 
+equipment, follow recommend OEM guidelines for adding oil to HVAC equipment.
+RECOMMENDATIONS & REQUIREMENTS

@@ -1,0 +1,61 @@
+The post DB temperature (74 vs. 74.3 deg. F) entering the coil was matched as close as possible to the 
+baseline period. After matching this temperature the post readings were taken to ensure that the work the 
+coil had to do was as similar to the baseline. Normalizing the post amperage was not necessary even though 
+the entering condenser tower water was 5.14% cooler during the post measurements. The water flow of the 
+condenser was adjusted so that the compressor discharge pressures would match.
+**Please note that the design entering condenser water temperatures for this equipment as recorded during the baseline 
+and avoided energy reporting periods were not in accordance with design. This accounts for increased capacity over 
+design as detailed in the calculated analysis of the measured and verified data for both the baseline and the avoided 
+energy reporting periods. Please see the Conclusion/Notes at the end of the report for further details.
+Energy Science Division
+POST
+BASELINE
+Voltage
+Amperage
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Entering Air Temp DB
+Leaving Air Temp DB
+Entering Air Temp WB
+Leaving Air Temp WB
+Actual CFM
+Actual Coil Capacity Btuh / Tons
+Enthalpy Delta
+Calculated Watts
+Calculated Watts per Ton
+Entering Condenser Tower Water 
+Outdoor Air Temp (OAT)
+204.2 V
+83.86 A
+38.75 deg F
+99.4 deg F
+74 deg F
+56.8 deg F
+64 deg F
+53.4 deg F
+11,911 CFM
+377,876 Btuh / 31.49 Tons
+7.05  
+ 25,172.6 
+799 
+85.6 deg F
+ 74.5 deg F 
+201.6 V
+83.0 A
+40.5 deg F
+99.4 deg F
+74.3 deg F
+50.8 deg F
+63.6 deg F
+47.9 deg F
+11,911 CFM
+504,371 Btuh / 42.03 Tons
+9.41
+24,597.2
+603
+81.2 deg F
+75.0 deg F 
+MEASUREMENT
+**
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

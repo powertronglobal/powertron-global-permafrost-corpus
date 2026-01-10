@@ -1,0 +1,30 @@
+3
+Energy Conservation Method (ECM)
+The content detailed in this report will first demonstrate the ability of the split systems to perform prior to and 
+following the PermaFrost NMR® ECM being installed. The report will also illustrate the amount of thermal 
+degradation that had occurred due in large part to oil migration within the heat exchangers and how much of 
+that has been restored.
+ 
+The following report produces the utilization of the IPMVP as the M&V plan. 
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+• Tons = (Airflow * 4.5 * Enthalpy Delta) / 12,000 
+ 
+• KW/Ton = kW / Actual Tonnage 
+ 
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+ 
+• Seasonal Efficiency Energy Ratio (SEER) = COP x 3.792
+Notes
+Following a diagnostic examination of the equipment to determine the operational condition of the system was still 
+satisfactory; six-year post ECM data was collected and recorded by the M&V team. The delta of these measurements 
+versus the design data show the amount of capacity still present and the amount of money saved.
+The following IPMVP data points were recorded on 28 October 2014 using recently purchased devices calibrated in 
+accordance with NIST (National Institutes of Standards and Technology) standards to insure measurement accuracy. 
+The units were initially treated with the ECM in 20 August 2008. The six years since then not only ensures the ECM 
+had ample time to prove longevity of the thermal benefits. 
+The collection of the data in the post period was collected by Powertron Global® and visual evidence of all measurements 
+used in the calculations in this report are available. The detailed measurements are listed further below.
+Property of Powertron Global®

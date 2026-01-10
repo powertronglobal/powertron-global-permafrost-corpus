@@ -1,0 +1,14 @@
+Energy Science Division
+Post 2 - 2/5/2013
+A return trip was made out to the unit to further demonstrate PermaFrost NMR®'s ability to maintain or 
+even further improve a treated system.  This system has shown further improvement due to its age and 
+annual runtime demands.
+       System Eﬃciency or BTUH:
+4000 CFM x 4.5 (constant) X 5.93 (enthalpy Delta Post 2)= 106,740 BTU
+106,740 BTUH / 92,000 (Nominal Capacity BTUH) = 116% 
+The reason for the 116% total system efficiency improvement is due to the fact that the condensing unit is a 
+7.7 (92,000 BTUH) ton and the air handler is a 10 (120,000 BTUH) ton unit.  This unit has improved in 
+overall system efficiency from Post 1 to Post 2 by additional 24,480 BTUH or additional 29.8%.  This is due 
+to allowing more "seating" time for PermaFrost NMR® to further penetrate all heat exchange surfaces. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,56 @@
+JOB # 8587
+PAGE # 3
+PROJECT NAME: SPACE CENTER A VISITOR COMPLEX - SPLIT SYSTEM
+SYSTEM
+ZONE / UNIT #
+DUCT
+SIZE
+AREA
+SQ. FT
+CORR.
+FACT
+REQ'D
+FPM
+ACTUAL
+FPM
+REQ'D
+CFM
+ACTUAL
+CFM
+STATIC
+PRESS
+INSTRUMEN
+T USED
+1/6/16
+AHU-01
+20 X 24
+3.33
+-
+N/S
+1398
+N/S
+4658
+.04
+DT
+1/26/16
+AHU-01
+20 X 24
+3.33
+-
+N/S
+1400
+N/S
+4662
+.04
+DT
+REMARKS:
+DUCT / PIPE TRAVERSE SHEET
+INSTRUMENT USED:
+ANEM = 4" VANE ANEMOMETER;
+DT = DUCT TRAVERSE;
+H = HOOD;
+VEL = VELGRID/MATRIX
+DATE: 1/6/16; 1/26/16
+READINGS BY: E. NELSON
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

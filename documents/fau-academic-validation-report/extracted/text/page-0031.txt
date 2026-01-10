@@ -1,0 +1,223 @@
+31 
+Largest 
+Elec. 
+Distributer 
+#11 Before
+After
+Tire 
+Manufactu
+rer SA 
+Before
+After
+Large 
+Insuranc
+e Co. 
+Before
+After
+Howard 
+County MD 
+Before
+After
+225
+225
+409
+409.6
+476.56
+485.5
+475
+476.65
+16.4
+17.04
+82
+69.2
+68.43
+68.53
+51
+50
+37.4
+35.2
+31
+36
+34.2
+36.5
+38.5
+34.9
+118
+96.2
+107.2
+111.6
+104.2
+100.8
+113.7
+101.5
+70
+70
+73.4
+73.4
+75
+75.6
+77.6
+77.7
+48
+44.8
+57.4
+55.2
+55.5
+49.9
+59.8
+57.4
+61.4
+59
+61.01
+59.5
+62.7
+60.3
+64.7
+65.1
+46.6
+40.5
+54.83
+48.58
+48.3
+42.5
+56.6
+55.2
+703
+710
+25,769
+25,249
+18,678
+18,680
+10,468
+10,150
+28,345
+32,972
+476,598
+748,759
+754,794
+862,456
+264,736
+310,590
+2.36
+2.75
+39.7
+62.4
+62.9
+71.87
+22.07
+25.88
+8.96
+10.32
+4.11
+6.59
+8.98
+10.26
+5.62
+6.8
+DX Measured Parameter 
+Voltage
+Amperage
+Suction Refrigerant Temp F 
+Discharge Refrigerant Temp F 
+Entering Air Temp DB 
+Leaving Air Temp DB 
+Entering Air Temp WB 
+Leaving Air Temp WB 
+Actual CFM
+Actual Coil Capacity Btuh 
+Actual Coil Capacity Tons 
+Enthalpy Delta
+OAT at time of readings
+75
+91
+85
+85.5
+94.2
+92.1
+Calculated Parameters
+Refrigerant Approach
+26.4
+19.24
+21.3
+13.4
+21.3
+22.5
+Total Watts Normalized for Weather
+5,424
+5,636
+49,301
+41,666
+47,938
+48,909
+35,611
+35,034
+Watts Per Ton
+2298
+2049
+1242
+668
+762
+681
+1614
+1354
+Adjusted Baseline Tonnage
+Adjusted Baseline Total Watts
+COP
+1.53
+1.72
+2.83
+5.27
+4.61
+5.17
+2.18
+2.60
+Delta T Dry bulb
+22
+25.2
+16
+18.2
+19.5
+25.7
+17.8
+20.3
+Watts/degree decrease DB
+Delta T Wet(acctg for humidity)
+Watts/degree decrease WB
+kW (volts x amps x .85 x 1.732)/1000 OR
+(volts x amps x 1.56)/1000 OR (volts x amps
+x .9)/1000
+5.42
+5.64
+49.3
+41.7
+47.9
+48.9
+35.6
+35.0
+Adjusted Total Watts
+6,321
+5,636
+77,491
+41,666
+54,775
+48,909
+41,758
+35,034
+Btuh Coil Capacity
+28,345
+32,972
+476,598
+748,759
+754,794
+862,456
+264,736
+310,590
+System Efficiency
+78.7%
+91.6%
+56.7%
+89.1%
+56.7%
+89.1%
+56.7%
+89.1%

@@ -1,0 +1,864 @@
+═══ EXECUTIVE SUMMARY ═══
+PermaFrost NMR Energy Study: Major Telecom E Houston 10 Site
+
+Study Overview
+----------------------------------------
+This study analyzed 1,499,007 high-resolution measurements collected at 2-second intervals.
+Baseline period: 815,245 data points
+Post-treatment period: 683,265 data points
+
+Key Results
+----------------------------------------
+Energy Efficiency Improvement: 8.1%
+Baseline kW/ton: 1.833
+Post-treatment kW/ton: 1.684
+
+The PermaFrost NMR treatment reduced energy consumption by 8.1%, 
+lowering the system's kW per ton from 1.833 to 1.684.
+
+Facility Information
+----------------------------------------
+Customer: Major Telecom E
+Industry: Telecommunications
+
+Measurement Standards
+----------------------------------------
+Standard: ASHRAE Guideline 14-2014
+Note: High-resolution time-series data supports detailed analysis
+
+═══ METHODOLOGY ═══
+Measurement Methodology
+========================================
+
+Data Type: Time Series
+Total Measurements: 1,499,007
+
+Source Data Files:
+  - Major Telecom A CTH Data Tables CDD Runtimes.csv: 497 rows (unknown period)
+  - Baseline_507 thermal data.csv: 52,981 rows (baseline period)
+  - Baseline_509 Thermal Data.csv: 46,304 rows (baseline period)
+  - Baseline_510 Thermal Data.csv: 83,300 rows (baseline period)
+  - Baseline_520 Thermal Data.csv: 92,487 rows (baseline period)
+  - Node 507 Baseline.xlsx: 28,575 rows (baseline period)
+  - Node 507 Post.xlsx: 28,638 rows (post period)
+  - Node 509 Baseline.xlsx: 28,364 rows (baseline period)
+  - Node 509 Post.xlsx: 28,695 rows (post period)
+  - Node 510 Baseline.xlsx: 28,423 rows (baseline period)
+  - Node 510 Post.xlsx: 28,708 rows (post period)
+  - Node 511 Baseline.xlsx: 28,546 rows (baseline period)
+  - Node 511 Post.xlsx: 28,769 rows (post period)
+  - Node 512 Baseline.xlsx: 28,594 rows (baseline period)
+  - Node 512 Post.xlsx: 28,777 rows (post period)
+  - Node 513 Baseline.xlsx: 27,591 rows (baseline period)
+  - Node 513 Post.xlsx: 28,594 rows (post period)
+  - Node 514 Baseline.xlsx: 27,635 rows (baseline period)
+  - Node 514 Post.xlsx: 28,624 rows (post period)
+  - Node 515 Baseline.xlsx: 28,583 rows (baseline period)
+  - Node 515 Post.xlsx: 28,593 rows (post period)
+  - Node 516 Baseline.xlsx: 28,456 rows (baseline period)
+  - Node 516 Post.xlsx: 28,698 rows (post period)
+  - Node 517 Baseline.xlsx: 28,532 rows (baseline period)
+  - Node 517 Post.xlsx: 28,626 rows (post period)
+  - Node 518 Baseline.xlsx: 28,536 rows (baseline period)
+  - Node 518 Post.xlsx: 28,770 rows (post period)
+  - Node 519 Baseline.xlsx: 28,621 rows (baseline period)
+  - Node 519 Post.xlsx: 28,767 rows (post period)
+  - Node 520 Baseline.xlsx: 28,551 rows (baseline period)
+  - Node 520 Post.xlsx: 28,750 rows (post period)
+  - Node 521 Baseline.xlsx: 28,531 rows (baseline period)
+  - Node 521 Post.xlsx: 28,763 rows (post period)
+  - Node 522 Baseline.xlsx: 28,518 rows (baseline period)
+  - Node 522 Post.xlsx: 28,774 rows (post period)
+  - Node 523 Baseline.xlsx: 28,577 rows (baseline period)
+  - Node 523 Post.xlsx: 28,634 rows (post period)
+  - Node 524 Baseline.xlsx: 28,562 rows (baseline period)
+  - Node 524 Post.xlsx: 27,495 rows (post period)
+  - Node 525 Baseline.xlsx: 28,391 rows (baseline period)
+  - Node 525 Post.xlsx: 28,592 rows (post period)
+  - Node 526 Baseline.xlsx: 28,587 rows (baseline period)
+  - Node 526 Post.xlsx: 28,722 rows (post period)
+  - Post_507 Thermal Data.csv: 42,664 rows (post period)
+  - Post_509 Thermal Data.csv: 68,164 rows (post period)
+  - Post_510 Thermal Data.csv: 1,912 rows (post period)
+  - Post_520 Thermal Data.csv: 26,536 rows (post period)
+
+Measurement Protocol
+----------------------------------------
+This study follows the International Performance Measurement & Verification Protocol (IPMVP)
+for collecting and analyzing HVAC performance data. Key metrics measured include:
+
+  - Coefficient of Performance (COP)
+  - Energy Efficiency Ratio (EER)
+  - Power consumption (kW)
+  - Cooling capacity (Tons)
+  - kW per Ton efficiency
+  - Outdoor air temperature
+  - Chilled water flow rate (GPM)
+  - Chilled water delta temperature
+
+Measurements were collected at 2-second intervals using calibrated sensors
+to capture transient system behavior and ensure statistical significance.
+
+═══ DETAILED METRICS ═══
+Detailed Metrics Analysis
+========================================
+
+Data File: Major Telecom A CTH Data Tables CDD Runtimes.csv
+Period: Unknown
+Measurements: 497
+------------------------------
+
+
+Data File: Baseline_507 thermal data.csv
+Period: Baseline
+Measurements: 52,981
+------------------------------
+
+COP:
+  Mean: 2.408
+  Median: 2.459
+  Std Dev: 0.517
+  Range: 0.603 to 4.289
+
+eer:
+  Mean: 8.016
+  Median: 8.200
+  Std Dev: 1.715
+  Range: 2.000 to 14.240
+
+EER:
+  Mean: 8.016
+  Median: 8.201
+  Std Dev: 1.715
+  Range: 2.003 to 14.235
+
+kw:
+  Mean: 4.268
+  Median: 4.240
+  Std Dev: 0.202
+  Range: 3.070 to 4.830
+
+kweperkwr:
+  Mean: 1.548
+  Median: 1.430
+  Std Dev: 0.436
+  Range: 0.820 to 5.830
+
+kwr:
+  Mean: 0.000
+  Median: 0.000
+  Std Dev: 0.000
+  Range: 0.000 to 0.000
+
+kwton:
+  Mean: 1.548
+  Median: 1.430
+  Std Dev: 0.436
+  Range: 0.820 to 5.830
+
+kwton_1:
+  Mean: 1.548
+  Median: 1.430
+  Std Dev: 0.436
+  Range: 0.820 to 5.830
+
+Time Range:
+  Column: time
+  Start: 1970-01-01 00:00:01.683877877
+  End: 1970-01-01 00:00:01.684976957
+  Duration: 0.0 hours
+
+
+Data File: Baseline_509 Thermal Data.csv
+Period: Baseline
+Measurements: 46,304
+------------------------------
+
+COP:
+  Mean: 1.839
+  Median: 1.891
+  Std Dev: 1.079
+  Range: 0.140 to 50.243
+
+eer:
+  Mean: 6.009
+  Median: 6.240
+  Std Dev: 2.117
+  Range: 0.450 to 103.700
+
+EER:
+  Mean: 6.009
+  Median: 6.241
+  Std Dev: 2.117
+  Range: 0.450 to 103.326
+
+kw:
+  Mean: 5.469
+  Median: 5.460
+  Std Dev: 0.439
+  Range: 0.120 to 19.260
+
+kweperkwr:
+  Mean: 2.048
+  Median: 1.860
+  Std Dev: 0.675
+  Range: 0.070 to 25.110
+
+kwr:
+  Mean: 0.000
+  Median: 0.000
+  Std Dev: 0.000
+  Range: 0.000 to 0.000
+
+kwton:
+  Mean: 2.048
+  Median: 1.860
+  Std Dev: 0.675
+  Range: 0.070 to 25.110
+
+kwton_1:
+  Mean: 2.048
+  Median: 1.860
+  Std Dev: 0.675
+  Range: 0.070 to 25.110
+
+Time Range:
+  Column: time
+  Start: 1970-01-01 00:00:01.686144089
+  End: 1970-01-01 00:00:01.687529177
+  Duration: 0.0 hours
+
+
+Data File: Baseline_510 Thermal Data.csv
+Period: Baseline
+Measurements: 83,300
+------------------------------
+
+COP:
+  Mean: 0.947
+  Median: 0.974
+  Std Dev: 0.263
+  Range: 0.341 to 18.511
+
+eer:
+  Mean: 2.996
+  Median: 3.090
+  Std Dev: 0.815
+  Range: 1.100 to 36.250
+
+EER:
+  Mean: 2.996
+  Median: 3.087
+  Std Dev: 0.815
+  Range: 1.096 to 36.060
+
+kw:
+  Mean: 4.126
+  Median: 4.140
+  Std Dev: 0.285
+  Range: 0.130 to 4.700
+
+kweperkwr:
+  Mean: 4.065
+  Median: 3.610
+  Std Dev: 1.404
+  Range: 0.190 to 10.300
+
+kwr:
+  Mean: 0.000
+  Median: 0.000
+  Std Dev: 0.000
+  Range: 0.000 to 0.000
+
+kwton:
+  Mean: 4.065
+  Median: 3.610
+  Std Dev: 1.404
+  Range: 0.190 to 10.300
+
+kwton_1:
+  Mean: 4.065
+  Median: 3.610
+  Std Dev: 1.404
+  Range: 0.190 to 10.300
+
+Time Range:
+  Column: time
+  Start: 1970-01-01 00:00:01.686059908
+  End: 1970-01-01 00:00:01.687442885
+  Duration: 0.0 hours
+
+
+Data File: Baseline_520 Thermal Data.csv
+Period: Baseline
+Measurements: 92,487
+------------------------------
+
+COP:
+  Mean: 2.101
+  Median: 2.171
+  Std Dev: 0.589
+  Range: 0.174 to 31.973
+
+eer:
+  Mean: 6.996
+  Median: 7.230
+  Std Dev: 1.785
+  Range: 0.550 to 55.350
+
+EER:
+  Mean: 6.996
+  Median: 7.230
+  Std Dev: 1.785
+  Range: 0.551 to 55.521
+
+kw:
+  Mean: 5.538
+  Median: 5.580
+  Std Dev: 0.360
+  Range: 0.140 to 20.270
+
+kweperkwr:
+  Mean: 1.833
+  Median: 1.620
+  Std Dev: 0.698
+  Range: 0.110 to 20.270
+
+kwr:
+  Mean: 0.000
+  Median: 0.000
+  Std Dev: 0.000
+  Range: 0.000 to 0.000
+
+kwton:
+  Mean: 1.833
+  Median: 1.620
+  Std Dev: 0.698
+  Range: 0.110 to 20.270
+
+kwton_1:
+  Mean: 1.833
+  Median: 1.620
+  Std Dev: 0.698
+  Range: 0.110 to 20.270
+
+Time Range:
+  Column: time
+  Start: 1970-01-01 00:00:01.685860161
+  End: 1970-01-01 00:00:01.687063711
+  Duration: 0.0 hours
+
+
+Data File: Node 507 Baseline.xlsx
+Period: Baseline
+Measurements: 28,575
+------------------------------
+
+
+Data File: Node 507 Post.xlsx
+Period: Post
+Measurements: 28,638
+------------------------------
+
+
+Data File: Node 509 Baseline.xlsx
+Period: Baseline
+Measurements: 28,364
+------------------------------
+
+
+Data File: Node 509 Post.xlsx
+Period: Post
+Measurements: 28,695
+------------------------------
+
+
+Data File: Node 510 Baseline.xlsx
+Period: Baseline
+Measurements: 28,423
+------------------------------
+
+
+Data File: Node 510 Post.xlsx
+Period: Post
+Measurements: 28,708
+------------------------------
+
+
+Data File: Node 511 Baseline.xlsx
+Period: Baseline
+Measurements: 28,546
+------------------------------
+
+
+Data File: Node 511 Post.xlsx
+Period: Post
+Measurements: 28,769
+------------------------------
+
+
+Data File: Node 512 Baseline.xlsx
+Period: Baseline
+Measurements: 28,594
+------------------------------
+
+
+Data File: Node 512 Post.xlsx
+Period: Post
+Measurements: 28,777
+------------------------------
+
+
+Data File: Node 513 Baseline.xlsx
+Period: Baseline
+Measurements: 27,591
+------------------------------
+
+
+Data File: Node 513 Post.xlsx
+Period: Post
+Measurements: 28,594
+------------------------------
+
+
+Data File: Node 514 Baseline.xlsx
+Period: Baseline
+Measurements: 27,635
+------------------------------
+
+
+Data File: Node 514 Post.xlsx
+Period: Post
+Measurements: 28,624
+------------------------------
+
+
+Data File: Node 515 Baseline.xlsx
+Period: Baseline
+Measurements: 28,583
+------------------------------
+
+
+Data File: Node 515 Post.xlsx
+Period: Post
+Measurements: 28,593
+------------------------------
+
+
+Data File: Node 516 Baseline.xlsx
+Period: Baseline
+Measurements: 28,456
+------------------------------
+
+
+Data File: Node 516 Post.xlsx
+Period: Post
+Measurements: 28,698
+------------------------------
+
+
+Data File: Node 517 Baseline.xlsx
+Period: Baseline
+Measurements: 28,532
+------------------------------
+
+
+Data File: Node 517 Post.xlsx
+Period: Post
+Measurements: 28,626
+------------------------------
+
+
+Data File: Node 518 Baseline.xlsx
+Period: Baseline
+Measurements: 28,536
+------------------------------
+
+
+Data File: Node 518 Post.xlsx
+Period: Post
+Measurements: 28,770
+------------------------------
+
+
+Data File: Node 519 Baseline.xlsx
+Period: Baseline
+Measurements: 28,621
+------------------------------
+
+
+Data File: Node 519 Post.xlsx
+Period: Post
+Measurements: 28,767
+------------------------------
+
+
+Data File: Node 520 Baseline.xlsx
+Period: Baseline
+Measurements: 28,551
+------------------------------
+
+kW:
+  Mean: 1.655
+  Median: 0.000
+  Std Dev: 2.462
+  Range: 0.000 to 6.396
+
+Meter 1 kWh:
+  Mean: 40,254
+  Median: 0.000
+  Std Dev: 1,690,165
+  Range: 0.000 to 72,818,161
+
+Time Range:
+  Column: Date
+  Start: 1970-01-01 00:00:00.000000786
+  End: 2023-06-28 00:00:00
+  Duration: 468864.0 hours
+
+
+Data File: Node 520 Post.xlsx
+Period: Post
+Measurements: 28,750
+------------------------------
+
+kW:
+  Mean: 1.232
+  Median: 0.000
+  Std Dev: 11.383
+  Range: 0.000 to 1,899
+
+Meter 1 kWh:
+  Mean: 1,637
+  Median: 1,655
+  Std Dev: 161.560
+  Range: 81.626 to 1,899
+
+Time Range:
+  Column: ï»¿"DateTime"
+  Start: 2023-09-02 05:01:00
+  End: 2023-09-22 04:58:00
+  Duration: 479.9 hours
+
+
+Data File: Node 521 Baseline.xlsx
+Period: Baseline
+Measurements: 28,531
+------------------------------
+
+
+Data File: Node 521 Post.xlsx
+Period: Post
+Measurements: 28,763
+------------------------------
+
+
+Data File: Node 522 Baseline.xlsx
+Period: Baseline
+Measurements: 28,518
+------------------------------
+
+
+Data File: Node 522 Post.xlsx
+Period: Post
+Measurements: 28,774
+------------------------------
+
+
+Data File: Node 523 Baseline.xlsx
+Period: Baseline
+Measurements: 28,577
+------------------------------
+
+
+Data File: Node 523 Post.xlsx
+Period: Post
+Measurements: 28,634
+------------------------------
+
+
+Data File: Node 524 Baseline.xlsx
+Period: Baseline
+Measurements: 28,562
+------------------------------
+
+
+Data File: Node 524 Post.xlsx
+Period: Post
+Measurements: 27,495
+------------------------------
+
+
+Data File: Node 525 Baseline.xlsx
+Period: Baseline
+Measurements: 28,391
+------------------------------
+
+
+Data File: Node 525 Post.xlsx
+Period: Post
+Measurements: 28,592
+------------------------------
+
+
+Data File: Node 526 Baseline.xlsx
+Period: Baseline
+Measurements: 28,587
+------------------------------
+
+
+Data File: Node 526 Post.xlsx
+Period: Post
+Measurements: 28,722
+------------------------------
+
+
+Data File: Post_507 Thermal Data.csv
+Period: Post
+Measurements: 42,664
+------------------------------
+
+COP:
+  Mean: 3.871
+  Median: 4.090
+  Std Dev: 0.785
+  Range: 0.807 to 5.249
+
+eer:
+  Mean: 12.844
+  Median: 13.580
+  Std Dev: 2.591
+  Range: 2.690 to 17.420
+
+EER:
+  Mean: 12.844
+  Median: 13.584
+  Std Dev: 2.591
+  Range: 2.695 to 17.425
+
+kw:
+  Mean: 4.567
+  Median: 4.560
+  Std Dev: 0.262
+  Range: 3.850 to 5.260
+
+kweperkwr:
+
+kwr:
+
+kwton:
+  Mean: 0.967
+  Median: 0.860
+  Std Dev: 0.306
+  Range: 0.670 to 4.360
+
+kwton_1:
+  Mean: 0.967
+  Median: 0.860
+  Std Dev: 0.306
+  Range: 0.670 to 4.360
+
+Time Range:
+  Column: time
+  Start: 1970-01-01 00:00:01.693976542
+  End: 1970-01-01 00:00:01.695690193
+  Duration: 0.0 hours
+
+
+Data File: Post_509 Thermal Data.csv
+Period: Post
+Measurements: 68,164
+------------------------------
+
+COP:
+  Mean: 2.052
+  Median: 2.045
+  Std Dev: 1.448
+  Range: 0.136 to 43.962
+
+eer:
+  Mean: 6.655
+  Median: 6.780
+  Std Dev: 2.910
+  Range: 0.410 to 67.600
+
+EER:
+  Mean: 6.655
+  Median: 6.780
+  Std Dev: 2.909
+  Range: 0.415 to 67.597
+
+kw:
+  Mean: 5.485
+  Median: 5.510
+  Std Dev: 0.660
+  Range: 0.120 to 20.370
+
+kweperkwr:
+  Mean: 1.924
+  Median: 1.720
+  Std Dev: 0.803
+  Range: 0.080 to 25.860
+
+kwr:
+  Mean: 0.000
+  Median: 0.000
+  Std Dev: 0.000
+  Range: 0.000 to 0.000
+
+kwton:
+  Mean: 1.924
+  Median: 1.720
+  Std Dev: 0.803
+  Range: 0.080 to 25.860
+
+kwton_1:
+  Mean: 1.924
+  Median: 1.720
+  Std Dev: 0.803
+  Range: 0.080 to 25.860
+
+Time Range:
+  Column: time
+  Start: 1970-01-01 00:00:01.694149300
+  End: 1970-01-01 00:00:01.695690665
+  Duration: 0.0 hours
+
+
+Data File: Post_510 Thermal Data.csv
+Period: Post
+Measurements: 1,912
+------------------------------
+
+COP:
+  Mean: 1.331
+  Median: 1.361
+  Std Dev: 0.255
+  Range: 0.524 to 1.851
+
+eer:
+  Mean: 4.250
+  Median: 4.355
+  Std Dev: 0.817
+  Range: 1.700 to 5.860
+
+EER:
+  Mean: 4.250
+  Median: 4.354
+  Std Dev: 0.817
+  Range: 1.702 to 5.863
+
+kw:
+  Mean: 4.438
+  Median: 4.480
+  Std Dev: 0.312
+  Range: 3.480 to 5.100
+
+kweperkwr:
+  Mean: 2.772
+  Median: 2.585
+  Std Dev: 0.710
+  Range: 1.900 to 6.710
+
+kwr:
+  Mean: 0.000
+  Median: 0.000
+  Std Dev: 0.000
+  Range: 0.000 to 0.000
+
+kwton:
+  Mean: 2.772
+  Median: 2.585
+  Std Dev: 0.710
+  Range: 1.900 to 6.710
+
+kwton_1:
+  Mean: 2.772
+  Median: 2.585
+  Std Dev: 0.710
+  Range: 1.900 to 6.710
+
+Time Range:
+  Column: time
+  Start: 1970-01-01 00:00:01.695050323
+  End: 1970-01-01 00:00:01.695572486
+  Duration: 0.0 hours
+
+
+Data File: Post_520 Thermal Data.csv
+Period: Post
+Measurements: 26,536
+------------------------------
+
+COP:
+  Mean: 2.436
+  Median: 2.269
+  Std Dev: 2.865
+  Range: 0.142 to 87.925
+
+eer:
+  Mean: 7.811
+  Median: 7.600
+  Std Dev: 5.708
+  Range: 0.430 to 128.970
+
+EER:
+  Mean: 7.812
+  Median: 7.598
+  Std Dev: 5.717
+  Range: 0.426 to 128.974
+
+kw:
+  Mean: 5.625
+  Median: 5.700
+  Std Dev: 0.839
+  Range: 0.130 to 20.440
+
+kweperkwr:
+  Mean: 1.684
+  Median: 1.550
+  Std Dev: 0.688
+  Range: 0.040 to 24.770
+
+kwr:
+  Mean: 0.000
+  Median: 0.000
+  Std Dev: 0.000
+  Range: 0.000 to 0.000
+
+kwton:
+  Mean: 1.684
+  Median: 1.550
+  Std Dev: 0.688
+  Range: 0.040 to 24.770
+
+kwton_1:
+  Mean: 1.684
+  Median: 1.550
+  Std Dev: 0.688
+  Range: 0.040 to 24.770
+
+Time Range:
+  Column: time
+  Start: 1970-01-01 00:00:01.693583805
+  End: 1970-01-01 00:00:01.695933947
+  Duration: 0.0 hours
+
+
+
+═══ TEMPERATURE ANALYSIS ═══
+Temperature-Normalized Analysis
+========================================
+
+HVAC efficiency varies significantly with outdoor temperature.
+This analysis normalizes results by temperature bins to ensure
+fair comparison between baseline and post-treatment periods.
+
+Overall Results (All Temperature Bins):
+  Baseline Average: 1.833 kW/ton
+  Post-Treatment Average: 1.684 kW/ton
+  Improvement: 8.1%
+
+The improvement percentage represents the reduction in electrical
+power required to produce one ton of cooling capacity after
+PermaFrost NMR treatment was applied to the HVAC system.

@@ -1,0 +1,14 @@
+7/25/2016
+Performance Results ­ Air Cooled ­ Performance Analysis
+.
+1) Capacity shown has been reduced by fan motor heat (net).
+2) Unit Watt Input and SCOP include: Compressors, Blower Motor, Condenser 
+3) Coil airflow is reduced by a bypass of 0.96% of total unit airflow
+4) Discharge line length: 25 feet, Liquid line length: 25 feet, Suction line length: 0 feet
+5) Test method as defined by ASHRAE 127­2007 
+6) Capacity Tolerance is 5% 
+© 2016 Liebert Corporation. All Rights Reserved P5
+v. 1.2.14.14
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

@@ -1,0 +1,118 @@
+═══ EXECUTIVE SUMMARY ═══
+PermaFrost NMR Energy Study: Major Telecom E Meter 467
+
+Study Overview
+----------------------------------------
+This study analyzed 40,159 high-resolution measurements collected at 2-second intervals.
+Baseline period: 20,130 data points
+Post-treatment period: 20,029 data points
+
+
+Facility Information
+----------------------------------------
+Customer: Major Telecom E
+Industry: Telecommunications
+
+═══ METHODOLOGY ═══
+Measurement Methodology
+========================================
+
+Data Type: Time Series
+Total Measurements: 40,159
+
+Source Data Files:
+  - 467 BASELINE measurement-history copy.csv: 20,130 rows (baseline period)
+  - 467 POST measurement-history copy.csv: 20,029 rows (post period)
+
+Measurement Protocol
+----------------------------------------
+This study follows the International Performance Measurement & Verification Protocol (IPMVP)
+for collecting and analyzing HVAC performance data. Key metrics measured include:
+
+  - Coefficient of Performance (COP)
+  - Energy Efficiency Ratio (EER)
+  - Power consumption (kW)
+  - Cooling capacity (Tons)
+  - kW per Ton efficiency
+  - Outdoor air temperature
+  - Chilled water flow rate (GPM)
+  - Chilled water delta temperature
+
+Measurements were collected at 2-second intervals using calibrated sensors
+to capture transient system behavior and ensure statistical significance.
+
+═══ DETAILED METRICS ═══
+Detailed Metrics Analysis
+========================================
+
+Data File: 467 BASELINE measurement-history copy.csv
+Period: Baseline
+Measurements: 20,130
+------------------------------
+
+kW:
+  Mean: 19.445
+  Median: 20.804
+  Std Dev: 4.716
+  Range: 0.000 to 27.149
+
+Meter 1 kWh:
+  Mean: 48,340
+  Median: 48,315
+  Std Dev: 1,920
+  Range: 45,347 to 51,844
+
+Capacity (Tons):
+  Mean: 127.541
+  Median: 129.159
+  Std Dev: 19.885
+  Range: 0.000 to 247.121
+
+Chilled Water Flow Rate (GPM):
+  Mean: 201.003
+  Median: 198.794
+  Std Dev: 17.899
+  Range: 0.000 to 364.131
+
+Time Range:
+  Column: DateTime
+  Start: 2025-01-24 06:01:00
+  End: 2025-02-07 05:58:00
+  Duration: 335.9 hours
+
+
+Data File: 467 POST measurement-history copy.csv
+Period: Post
+Measurements: 20,029
+------------------------------
+
+kW:
+  Mean: 15.852
+  Median: 19.305
+  Std Dev: 8.190
+  Range: 0.000 to 24.872
+
+Meter 1 kWh:
+  Mean: 142,796
+  Median: 142,706
+  Std Dev: 1,484
+  Range: 140,234 to 145,528
+
+Capacity (Tons):
+  Mean: 39.151
+  Median: 49.896
+  Std Dev: 21.877
+  Range: 0.000 to 67.317
+
+Chilled Water Flow Rate (GPM):
+  Mean: 161.006
+  Median: 202.708
+  Std Dev: 80.997
+  Range: 0.000 to 294.148
+
+Time Range:
+  Column: DateTime
+  Start: 2025-12-01 06:01:00
+  End: 2025-12-15 05:58:00
+  Duration: 335.9 hours
+

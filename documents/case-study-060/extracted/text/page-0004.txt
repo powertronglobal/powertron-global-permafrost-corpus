@@ -1,0 +1,40 @@
+3
+Energy Conservation Method (ECM)
+The content detailed in this report will first demonstrate the ability of the pilot CRAC systems to perform prior to 
+the ECM being installed, as well as illustrate the amount of thermal degradation 
+within the heat exchangers.
+ 
+The following report produces the utilization of the IPMVP as the M&V plan. 
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+• kW = Volts * Amps * Power Factor * 1.732/1000 (for 3-Phase) 
+ 
+• kW/Ton = kW / Actual Tonnage 
+ 
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+ 
+• Actual Cooling Tons per Hour = CFM X 4.5 * 60 * Enthalpy Delta / 12,000 BTU 
+Notes
+Following a diagnostic examination to determine the operational condition of the CRAC systems was satisfactory, Baseline 
+M&V data was collected and recorded by the M&V team. Approximately 400+ runtime hours after installation of the 
+ECM, the M&V team returned to take Post M&V measurements in the identical fashion as in the baseline. The delta of 
+these measurements and associated calculations show the amount of capacity restored.
+The following baseline IPMVP data points were recorded on June 15, 2106. The two systems were then treated with 
+PermaFrost NMR® on the same day and allowed to run normally until July 22, 2016 to ensure the patented surface science 
+nanotechnology had ample time to seat into all the metal surfaces of the heat exchangers. All measurements were taken at 
+similar incoming air temperatures however the outdoor air temperature in the post was 6 degrees F warmer (93 deg F vs. 99 
+deg F). The manufacturer provided a computerized load selection chart to illustrate that for every degree higher in ambient 
+dry bulb temperature the system would lose approximately .60% of capacity (please see Appendix A). The total loss of 
+capacity per degree equated to 3.61% and then this percentage was added to each system's measured total capacity in the 
+post. For CRAC #59 an additional .97 tons was added to the measured total calculated capacity and for CRAC #60  an 
+additional .69 tons was added.
+Normalization of input kW (amperage specifically) was also employed in order to account for the 6 degrees F higher 
+ambient dry bulb temperature. Compressors account for 70% of the total amperage consumed which is also true with these 
+systems (please see Appendix A). The following formula was used: Actual Measured Amps x (Actual Measured Amps x 
+0.7 x % increase in Ambient DB Temp). For CRAC #59 the post-measured amperage of 46.2 was reduced to 44.1. For 
+CRAC #60 the post-measured amperage of 47.5 was reduced to 45.4 amps. These new amperage numbers were entered into 
+standard electrical formula of V x A x PF x 1.732/1000 in order to normalize system kW.
+®
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

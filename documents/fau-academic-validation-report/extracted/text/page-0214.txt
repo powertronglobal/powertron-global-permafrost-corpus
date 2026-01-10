@@ -1,0 +1,63 @@
+114        Appendix C Region Specific Materials 
+ 
+refrigerators, freezers and combinations thereof 
+92/42/EEC 
+Efficiency requirements for new hot-water boilers fired with 
+liquid or gaseous fuels 
+BDS EN 12261:2003 
+Gas flow meters 
+BDS EN 12261:2003/A1:2006 
+BDS EN 12261:2003/AC:2003 
+BDS EN 12405-1:2006 
+BDS EN 12405-1:2006/A1:2006
+BDS EN 12480:2003 
+BDS EN 12480:2003/A1:2006 
+BDS EN 1359:2000 
+BDS EN 1359:2000/A1:2006 
+BDS EN 14154-1:2006+A1:2007
+Water meters 
+BDS EN 14236:2009 
+Ultrasonic domestic gas meters 
+BDS EN 1434:2007 
+Heat meters 
+BDS EN 50470-1:2006 
+AC Electrical energy measurement 
+90/396/EC
+Appliances burning gaseous fuels
+87/404/EC 
+Simple pressure vessels 
+97/23/EC 
+Pressure equipment 
+92/75/EC 
+Energy labeling of household appliances 
+BDS EN 50294:1998/A2:2004
+Lighting measurement 
+BDS EN 50294:2003 
+BDS EN 50294:2003/A1:2003 
+ 
+ 
+C-6  Czech Republic - September 2010 
+Referenced standards, procedures and guidelines should be replaced by European or Czech 
+standards wherever necessary, legally required or practical. However other references in 
+IPMVP are nevertheless informative. The most important Czech technical standards are as 
+follows: 
+ 
+In the field of measuring and control tools and instruments: 
+ČSN 2500  In general 
+ČSN 2501  Verification of measuring instruments and measuring devices in general 
+ČSN 2502  Verification of certain measuring instruments and measuring devices 
+ČSN 2509  Measuring instrument accessories and record papers 
+ČSN 2570  Pressure gauges in general and accessories 
+ČSN 2572  Pressure gauges 
+ČSN 2574  Analyzing equipments 
+ČSN 2575  Volume measuring 
+ČSN 2576  Volumetric weight and density measuring 
+ČSN 2577  Liquid and gas flows in hollow sections measuring 
+ČSN 2578  Instruments for liquid and gas flows and quantities measuring 
+ČSN 2580  Thermometers in general, components 
+ČSN 2581  Glass liquid thermometers 
+ČSN 2582  Pressure-type thermometers, with contacts and for transformers 
+ČSN 2583  Thermocouple and resistance thermometers 
+ČSN 2585  Calorimeter and indicators for heating cost distribution 
+ 
+In the field of metrology: 

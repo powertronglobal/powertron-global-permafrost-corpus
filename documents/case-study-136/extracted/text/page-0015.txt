@@ -1,0 +1,115 @@
+HVAC Performance Comparison: EER
+ CU-2 Split
+EER Comparison 
+OSA Temp.
+Base EER
+Post EER
+60 degF
+0.0
+0.0
+61 degF
+0.0
+0.0
+62 degF
+6.78
+0.0
+63 degF
+6.45
+12.92
+64 degF
+5.38
+13.2
+65 degF
+3.98
+13.78
+66 degF
+4.32
+12.97
+67 degF
+5.67
+14.27
+68 degF
+6.82
+13.47
+69 degF
+6.29
+13.05
+70 degF
+7.45
+16.14
+71 degF
+7.12
+16.29
+72 degF
+5.86
+16.26
+73 degF
+6.01
+16.38
+74 degF
+5.47
+16.16
+75 degF
+4.05
+15.77
+76 degF
+4.92
+15.38
+77 degF
+4.09
+14.61
+78 degF
+3.37
+15.09
+79 degF
+3.28
+14.82
+80 degF
+3.3
+14.88
+81 degF
+4.36
+14.47
+82 degF
+5.25
+14.45
+83 degF
+7.2
+14.21
+84 degF
+7.09
+13.97
+85 degF
+7.52
+13.66
+86 degF
+8.05
+11.84
+87 degF
+0.0
+10.6
+88 degF
+0.0
+10.86
+89 degF
+0.0
+11.35
+90 degF
+0.0
+11.47
+-----
+5.6
+14.01
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+60 degF - 90 degF
+60.0 degF - 75.0 degF
+0.5 - 1.0
+5s
+19108 samples
+30824 samples

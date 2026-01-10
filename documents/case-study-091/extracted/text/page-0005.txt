@@ -1,0 +1,24 @@
+®
+4
+Formulas Used for Performance Calculations
+This report will illustrate the thermal degradation that has occurred in heat exchangers over time
+and how much of that has been restored after the ECM's introduction.
+ 
+Results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+• kW = (Volts * Amps * 1.47) /1000 
+ 
+• Cooling Tons = (GPM * 8.34 * 60 * CHW delta) / 12,000 
+ 
+• kW/Ton = kW / Actual Tonnage Measured
+ 
+• Coefficient of Performance (COP) = (12 / kW per ton) / 3.412
+ 
+• Refrigerant Approach = CHW Leaving Temp – Refrigerant Suction Temp 
+Notes
+The boundary of the testing was the Chillers themselves, flange to flange while matching the baseline and post water 
+temperatures entering the condenser and the returning chilled water temperatures entering the evaporator; therefore 
+confidence in the accuracy of the performance calculations is very high. Very similar flow rates were used in both testing 
+periods.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

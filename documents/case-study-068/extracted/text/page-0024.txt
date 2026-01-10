@@ -1,0 +1,140 @@
+Healthcare System ALLER EQUIPMENT TEST SHEET
+DATE:
+11/24/15; 1/6/16
+JOB # 8587
+PAGE # 1
+SPACE CENTER A VISITOR COMPLEX - Healthcare System ALLER EQUIPMENT
+SYSTEM NUMBER
+EQUIPMENT LOCATION
+CAPACITY
+EQUIPMENT MANUFACTURER
+MODEL NUMBER
+SERIAL NUMBER
+ENTERING WATER TEMP.
+LEAVING WATER TEMP.
+PRESSURE DROP - FT.
+GPM
+WATER TEMP. SETPOINT
+Healthcare System ALLER LOAD %
+ENTERING AIR TEMP.
+LEAVING AIR TEMP.
+ENTERING WATER TEMP.
+LEAVING WATER TEMP.
+PRESSURE DROP - FT.
+GPM
+WATER TEMP. SETPOINT
+VOLTAGE - T1 -T2-T3
+460
+460
+460
+473.5
+473.6
+473.5
+460
+460
+460
+476
+476
+475
+AMPERAGE T1-T2-T3
+442
+442
+442
+276.7
+268.8
+268.2
+442
+442
+442
+292.5
+282.5
+287.8
+REMARKS:
+READINGS BY: E. NELSON
+ACTUAL
+SPECIFIED
+SPECIFIED
+-
+-
+ACTUAL
+-
+-
+-
+-
+-
+-
+-
+ELECTRICAL
+SPECIFIED
+56
+ACTUAL
+-
+-
+-
+-
+SPECIFIED
+CONDENSER (AIR)
+CONDENSER (H 2 0)
+11.31
+SPECIFIED
+-
+95
+-
+11.2
+440
+436
+-
+41
+43.5
+U06A05906
+SPECIFIED
+ACTUAL
+56.0
+44
+CH-1 1/6/16
+OUTSIDE PAD
+-
+HVAC Equipment Manufacturer
+RTAC2504
+RTAC2504
+-
+HVAC Equipment Manufacturer
+44
+-
+-
+41
+100%
+11.31
+11.2
+436
+-
+-
+-
+-
+ACTUAL
+-
+-
+PROJECT NAME:
+440
+70.2
+ACTUAL
+ACTUAL
+56.0
+45.6
+SPECIFIED
+56
+U06A05906
+CH-1 11/24/15
+OUTSIDE PAD
+SPECIFIED
+COOLER
+-
+98.9
+70.1
+95
+ACTUAL
+100%
+-
+99.5
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

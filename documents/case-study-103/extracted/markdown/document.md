@@ -1,0 +1,735 @@
+# Major US Telecom.pdf
+
+Energy Science Division
+
+®
+
+Major US Telecom  - CALL CENTER
+
+Comprehensive HVAC/R Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+PermaFrost NMR® Eﬃciency Report
+
+Major US Telecom Call Center
+
+September, 2013
+
+Executive Summary
+
+This report contains specific information regarding the installation of the energy control measure
+
+(ECM) PermaFrost NMR® into three (3) package roof top units (RTU’s) supporting the various parts of the
+
+Major US Telecom Support Call Center in Chattanooga, TN.  Detailed forensic performance testing (outlined later in
+
+this report) was performed on the three RTU’s using R22 as the refrigerant.  Following testing, each RTU
+
+was treated with the proper amount and type of the PermaFrost NMR® technology specially formulated for
+
+these types of systems.
+
+Measurement and Verification (M&V) was conducted pre-installation and post-gestation. The purpose of
+
+the testing was to 1) show how the ECM improves the thermal performance of any system it is installed in,
+
+and 2) show that the ECM is safe and will not harm Major US Telecom’s  HVAC equipment.
+
+The improvement in efficiency and restored capacity gained directly at each RTU was solely attributable to
+
+the PermaFrost NMR® ECM. This is a result of the reversal of thermal inefficiency on heat exchange surfaces.
+
+Following treatment with the ECM, the three RTU’s showed an effective net average 21.4% reduction in
+
+kW/ton based on the exact capacity measured in the baseline M&V and the post gestation M&V when
+
+operating at 100% load. The ECM also produced an average increase cooling capacity of 23.4% which
+
+equates to 5.68 tons or an average of 1.89 tons per RTU. Prior to the ECM, the three RTU’s produced a total
+
+of 24.28 tons of cooling as measured in-situ. After the ECM, the average combined tonnage produced
+
+increased to 29.96 tons. This 23.4% cooling capacity increase from the baseline performance levels led to an
+
+effective average increase in COP across the RTU’s of 26.4% and a calculated reduction in kWh of 25.8% All
+
+of these factors directly correlate to what Major US Telecom will realize in energy savings as they operate these
+
+RTU’s in the future as well as other similar HVAC equipment across their portfolio.
+
+Following treatment the three RTU’s also showed a combined 23.5% increase in the Enthalpy Delta across
+
+the coil versus the Baseline, which is a critical measurement used to determine the thermodynamic
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+enhancement brought about by the PermaFrost NMR® ECM.  The result of the ECM improvements is an
+
+ROI to Major US Telecom that is measured in a months. The tables of data used to determine the financial payback
+
+are available for review at the end of this report.
+
+This 10-ton Carrier package RTU was one of three
+
+similar type and age units involved in the pilot. These
+
+units help cool the Major US Telecom Call Center in Chattanooga,
+
+TN.  The image shows several of the NIST-calibrated
+
+and certified digital instrumentation used to calculate
+
+the efficiency of each of the three RTU’s in both the
+
+Baseline and Post.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Product Brief
+
+PermaFrost NMR® is a multi-patented nanotechnology surface chemistry Energy Control Measure
+
+(ECM) that uses Nucleo Molecular Regenerative® (NMR™) technology as its core agent. A sustainable,
+
+one-time treatment with no down time required, PermaFrost NMR® lasts for at least 10 years in any type of
+
+system in which it is installed. Examples of the types of commercial HVACR systems and equipment that
+
+PermaFrost NMR® has proven success with are direct expansion air systems (DX); chilled water systems
+
+(both flooded and DX; air and water cooled); ice making equipment; ammonia refrigeration plants (single
+
+compressor and cascade) and variable refrigerant flow (VRF) designs. The equipment utilized in these
+
+systems within our expanding portfolio of clients includes centrifugal (single and multi-stage), scroll,
+
+reciprocating and screw configurations.
+
+The direct benefits of PermaFrost NMR® in any type of HVACR system are improved cooling performance,
+
+increased capacity and improved refrigerant velocity – all of which allow systems to achieve set point
+
+temperatures in a more rapid fashion which reduces compressor operating periods. The indirect benefits
+
+resulting from the enhanced thermodynamic characteristics following treatment include reduced run time,
+
+less kW hours used, less amp draw at the compressor, longer equipment life cycle time and a reduced
+
+carbon footprint for Major US Telecom.
+
+Energy Science Division
+
+BOUNDARY LAYER
+OIL REMOVED
+
+BEFORE TREATMENT
+AFTER TREATMENT
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Option B savings = Baseline Energy – Reporting Period Energy
+
++/ - Routine adjustments  + /- Non-Routine Adjustments
+
+Measurement and Veriﬁcation Protocol
+
+The International Performance Measurement and Verification Protocol (IPMVP) was utilized in the
+
+development of this report. The Association of Energy Engineers (AEE), The American Society of Heating,
+
+Refrigeration and Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization
+
+(EVO) accept the IPMVP as a global methodology for determining the effectiveness of energy conservation
+
+methods and products.
+
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize. They
+
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report. Option B is
+
+defined as: All parameter measurements with the boundary of the ECM as the single source of
+
+measurement. Savings are determined by field measurement of the energy use of the ECM affected
+
+equipment or system and any performance enhancements versus the baseline data.
+
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the
+
+savings and the length of the reporting period.  For the boundary utilized for Option B short-term
+
+measurements are very useful as data when the variables are contained. The savings are calculated by
+
+short-term measurements of baseline and energy reporting period (post), and /or engineering computations
+
+using measurements of proxies of energy use.
+
+The final computation follows the formula:
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Energy Conservation Method (ECM) Content
+
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the
+
+effects of thermal degradation and fouling on the heat exchange surfaces.
+
+A diagnostic examination of the pilot equipment was implemented to determine if the operational
+
+conditions of the systems were satisfactory. Baseline M&V was recorded on each of the three RTU’s and six
+
+compressors and then the proper amount and type of PermaFrost NMR® was injected directly into the
+
+suction side of the refrigerant loop. The gestation period for the Major US Telecom pilot was 9 weeks. Prior to taking
+
+Post measurements, systems need to achieve at least 300 or more hours of runtime to ensure adequate
+
+performance improvement time. At the end of this gestation period, Post M&V results were taken in the
+
+identical manner as in the baseline, taking special care to match the same or very similar outside air
+
+temperatures as well as the wet bulb and dry bulb temperatures of the air entering the respective coils.
+
+These are three of the most critical variables to contend with in an in-situ HVAC testing situation. When
+
+analyzing all of the data in the baseline and post, no adjustments to the data were needed.
+
+The following report produces the utilization
+
+of the International Performance
+
+Measurement and Verification Protocol
+
+(IPMVP) as the M&V plan. Don Wong,
+
+Director of Facilities for Major US Telecom; Ron
+
+Roberts, Property Management Firm C Account Manager for Major US Telecom;
+
+and Kristen Scutella, Business Development
+
+Executive at Comfort Systems USA all
+
+combined to pull together to carry out this
+
+successful pilot. The final calculations were
+
+performed by Powertron Global®’s Forensic
+
+Mechanical Engineer, [Senior Energy Engineer].
+
+As shown above, Bryan Johnston (left), HVAC technician for WJ
+
+O’Neil (subcontractor to Comfort Systems) physically witnessed the
+
+measurements being taken.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase)
+
+BTUH = CFM * 4.5 * Wet Bulb Enthalpy Delta
+
+kW/Ton = kW / Actual Tonnage
+
+Percentage Eﬃciency = Measured BTUH / Manufacturers Design BTUH
+
+Coeﬃcient of Performance (COP) = (12 / kW per ton /3.412)
+
+Detailed Results for Three 10-Ton Package RTU’s
+
+System Description / Design Characteristics
+
+These three RTU’s provide cooling for the Major US Telecom Customer Call Center located on Customer Delight
+
+Drive in Chattanooga, TN. Given the internal load of the facility and national weather BIN data, it is
+
+estimated that the RTU’s run ~4,035 hours per year prior to the ECM being implemented.
+
+Make
+
+Model
+
+Serial Number(s)
+
+Refrigerant Type
+
+Nominal Cooling Capacity in Tons
+
+Annual Runtime Hours
+
+Date RTU’s Installed
+
+Carrier
+
+48TME012PA
+
+4305G30736 / 7 / 8
+
+R22
+
+10 Tons
+
+4,035
+
+2007 (Nov)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Package RTU #1
+Package RTU #7
+Package RTU #12
+
+Energy Science Division
+
+Baseline & Energy Reporting (Post) Periods
+
+The identical IPMVP following data points were recorded for Baseline and Post on 6/26/13 and 9/5/13
+
+respectively using recently NIST-calibrated devices to insure measurement accuracy. In all tests the outside
+
+air temperatures as well as the wet and dry bulb temperatures entering the coil were very similar in both
+
+periods so no adjustments to the data was necessary. The measurements are as follows:
+
+BASELINE
+POST
+
+Voltage
+
+Amperage
+
+Suction Refrig Temp
+
+Suction Refrig Pressure
+
+Discharge Refrig Temp
+
+Discharge Refrig Pressure
+
+Entering Air DB Temp
+
+Leaving Air DB Temp
+
+Entering Air WB Temp
+
+Leaving Air WB Temp
+
+CFM Across Coils
+
+Cooling Capacity (Tons)
+
+Total WB Enthalpy Delta
+
+kW
+
+kW/Ton
+
+Calculated kWh
+
+COP
+
+Outside Air Temp
+
+466.6 V
+
+17.3 A
+
+35.5 F
+
+61.8 PSI
+
+112.6 F
+
+241.5 PSI
+
+72 F
+
+51.2 F
+
+62.3 F
+
+48.9
+
+2,623
+
+8.23
+
+8.37
+
+11.87
+
+1.441
+
+47,880
+
+2.44
+
+84 F
+
+MEASUREMENT
+
+464 V
+
+16.8 A
+
+35.9 F
+
+62.8 PSI
+
+114 F
+
+245 PSI
+
+72.1 F
+
+49.4 F
+
+62.3 F
+
+46.1 F
+
+2,620
+
+9.69
+
+9.86
+
+11.46
+
+1.183
+
+38,068
+
+2.97
+
+84 F
+
+BASELINE
+POST
+
+467.8 V
+
+18.3 A
+
+42.85 F
+
+71.9 PSI
+
+116.25 F
+
+254.3PSI
+
+72.6 F
+
+54.3 F
+
+63.4 F
+
+51.8
+
+3,065
+
+8.68
+
+7.55
+
+12.58
+
+1.450
+
+50,778
+
+2.43
+
+84 F
+
+468 V
+
+18.2 A
+
+42.2 F
+
+71.3 PSI
+
+114.5 F
+
+241 PSI
+
+73 F
+
+52.9 F
+
+63.8 F
+
+49.5 F
+
+3,031
+
+10.38
+
+9.13
+
+12.52
+
+1.207
+
+40,627
+
+2.91
+
+84 F
+
+BASELINE
+POST
+
+467.6 V
+
+18.2 A
+
+41.85 F
+
+71.05 PSI
+
+111.7 F
+
+231.5 PSI
+
+71.9 F
+
+58.2 F
+
+62.2 F
+
+53.8
+
+3,580
+
+7.37
+
+5.49
+
+12.51
+
+1.697
+
+50,479
+
+2.07
+
+82 F
+
+468 V
+
+17.5 A
+
+41.35 F
+
+70.6 PSI
+
+114.5 F
+
+239 PSI
+
+72.5 F
+
+54.2 F
+
+63.2 F
+
+51.7 F
+
+3,535
+
+9.89
+
+7.46
+
+12.04
+
+1.217
+
+31,977
+
+2.89
+
+82.4 F
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Improvements
+
+Total Calculated kWh (3 RTU’s)
+Average kWh Per RTU
+
+Cooling Capacity in Tons (3 RTU’s)
+Average Capacity Per RTU
+
+kW / Ton (3 RTU’s)
+Average kW / Ton Per RTU
+
+COP (3 RTU’s)
+Average COP Per RTU
+
+Total Enthalpy Delta (3 RTU’s)
+Average Enthalpy Delta Per RTU
+
+Post
+Delta
+Baseline
+
+(25.8%)
+(25.8%)
+
+23.4%
+23.4%
+
+(21.4%)
+(21.4%)
+
+26.4%
+26.4%
+
+23.5%
+23.5%
+
+110,672
+36,891
+
+29.96
+9.99
+
+3.607
+1.202
+
+8.77
+2.923
+
+26.45
+8.82
+
+38,465
+12,822
+
+5.68
+1.89
+
+.981
+.327
+
+1.83
+.61
+
+5.04
+1.68
+
+149,137
+49,712
+
+24.28 
+8.09
+
+4.588 
+1.529
+
+6.94
+2.313
+
+21.41
+7.14
+
+Results
+
+The following are the final calculated average performance measurement improvements following the
+
+PermaFrost NMR® Post measurement periods on the three Major US Telecom RTU’s.
+
+PermaFrost NMR®: Determining the Payback Period for Major US Telecom
+
+Utilizing data in the above charts, to obtain a true avoided energy cost and subsequent payback period for Major US Telecom for
+
+implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy
+
+savings resulting from the improvement in capacity. This greater capacity reduces the runtime hours and in turn
+
+reduces the annual kWh expended in the Post. The true ROI comes from determining what the cost to run the system
+
+was when operating at its original energy profile then subtracting the cost to operate the system at its newly restored
+
+energy profile less the percentage of increased capacity. This regression calculation is the most scientific method of
+
+accounting for the reduced number of hours the units will now run due to their increased capacity which allows the
+
+units to reach set temperatures quicker and shut off sooner.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Baseline kWh        36.96 kW * 4,035 Annual Operating Hrs = 149,134 kWh
+
+Cost to Run Baseline        149,134 kWh * $.09 = $13,422.06
+
+Post ECM kWh        36.02 kW * 4,035 Annual Operating Hrs = 145,340.7 kWh
+
+Revised kWh (based on avg. 23.4% restored capacity)        145,341 kWh * (1 - .234) = 111,331 kWh
+
+Revised Cost to Run Post        111,331 kWh * $.09 = $10,019.79
+
+Avoided Energy Costs (Savings) Per Month        ($13,422.06 - $10,019.79) / 12 = $283.52
+
+Cost of ECM        $3,750
+
+ROI        $3,750 / $283.52 = 13.2
+
+ROI = 13-14 months
+
+*Note – A cost of $.09 per kWh was used for this Chattanooga Pilot calculation. When using the national average kWh
+
+cost of $.105 the ROI will be 11.4 months.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

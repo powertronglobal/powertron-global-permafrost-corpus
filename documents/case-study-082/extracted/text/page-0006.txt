@@ -1,0 +1,27 @@
+Energy Science Division
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling Capacity in Tons  
+Average Annual Runtime Hours
+Age
+HVAC Equipment Manufacturer
+TWE180E300AA
+10341K17WA
+R410A
+15 Tons
+3,200
+2010
+       Detailed Results for Hospital A Fitness Center Split System  
+System Description / Design Characteristics
+This DX split system supporting the fitness center within the Hospital A at [Commercial Address], Newark, NJ. Given the 
+internal load from the members using the facility and the dance/aerobic studio, it is estimated that the 
+system runs ~2,800 hours each per year prior to the ECM being implemented. 
+Baseline & Energy Reporting (Post) Periods
+The identical IPMVP following data points were recorded for Baseline and Post on 6/11/13 and 7/11/13 
+respectively using recently NIST calibrated devices to insure measurement accuracy. The Return Air dry 
+bulb and wet bulb temperatures entering the coil were very similar in both periods, as well as the outside 
+air temperature so no adjustments were made to the calculations. The measurements are as follows: 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

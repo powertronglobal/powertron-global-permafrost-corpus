@@ -1,0 +1,1537 @@
+# Major US Telecom.pdf
+
+Energy Science Division
+
+®
+
+Study Date:
+      5 June 2014 – 26 June 2014
+
+Participants: 
+      Major US Telecom
+      [Facility Manager],
+      Sr. Program Manager
+      Corp. Special Projects
+
+[Special Projects Manager],
+      Special Projects  
+      
+      [Sr. Facility Engineer],
+      Sr. Facility Engineer
+      Network Reliability
+
+[Facilities Engineer],
+      Facilities Engineer
+
+[Client Representative] Associates
+      [Client Representative], CEM, LEED AP
+      Sr. Building Systems Consultant
+
+Powertron Global
+      [Senior Energy Engineer],
+      Director of Engineering
+
+Location:
+      410 Fieldcrest Road
+      Elmsford, NY
+
+Major US Telecom ELMSFORD DATA CENTER
+
+Chiller #2
+
+Comprehensive HVAC/R Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+HVAC/R Eﬃciency Report
+
+Purpose of Energy Eﬃciency Study
+
+The purpose of this study is to verify the industry wide problem of efficiency loss in HVAC/R systems as
+
+projected by ASHRAE research and to quantify the amount of money wasted due to this loss. Many industry
+
+leading organizations including ASHRAE project that all HVAC/R systems degrade in capacity and efficiency
+
+as they age. Thermal degradation is caused by a phenomenon that is present in all HVAC/R equipment that
+
+operates as a vapor compression cycle associated with refrigerant and compressor lubricant. This thermal
+
+degradation is well documented by the HVAC/R industry and the original equipment manufacturers (OEM’s).
+
+Thermal degradation prevents systems from operating at the original design efficiency, which leads to excessive
+
+run-times and additional kWh consumption.
+
+The chiller in this study is representative of a great majority of the portfolio of data center and central office
+
+equipment operated by Major US Telecom. If thermal degradation is present in this chiller, it is present in the entire
+
+inventory of equipment. Energy waste can be calculated based on this equipment (portfolio representation) and
+
+then accurately extrapolated across the entire inventory of equipment.
+
+Similarly, if the lost efficiency of this chiller can
+
+be restored, it would allow Major US Telecom to keep it in
+
+service longer without sacrificing performance
+
+or energy consumption. It will also provide
+
+Major US Telecom the flexibility of a much wider window
+
+of time wherein to undertake the costly capital
+
+expense of replacing this and other HVAC/R
+
+systems when they do eventually reach the end
+
+of their useful life.
+
+1
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+2
+
+Process
+
+This report contains specific information regarding the current performance profile of one of four main chillers
+
+that support the Major US Telecom Elmsford Data Center.
+
+Detailed performance testing (outlined later in this report) was performed on the pilot chiller before and after the
+
+installation of the ECM to determine the impact on the three key elements that greatly affect Major US Telecom’s HVAC
+
+power bill as they relate to the original design specifications:
+
+1.  The cooling capacity the chiller is capable of producing after 14 years in service.
+
+2.  The actual cost of power required to produce the amount of cooling tons the chiller is delivering as
+
+reflected in the kW/ton measurement.
+
+3.  The thermal dynamic ability of the chiller to still perform at or close to operational design.
+
+Methodology
+
+The measurements used in the efficiency calculations were collected and compiled in accordance with the IPMVP
+
+(International Measurement and Verification Protocol) framework using both instantaneous power reading and
+
+long term power readings with the chiller performing under similar operational and load conditions.
+
+The M&V team was led by [Client Representative] of [Client Representative] Associates, with support from [Senior Energy Engineer],
+
+Director of Engineering for Powertron Global®. Major US Telecom personnel overseeing the pilot and supporting the
+
+M&V team on site included [Special Projects Manager], [Sr. Facility Engineer] and [Facilities Engineer]. The overall project was managed and
+
+directed by [Facility Manager], Sr. Program Manager for Major US Telecom Corporate Special Projects.
+
+Notes
+
+Both the baseline and post readings were taken at 49% load with incoming condenser water within a degree of 78 degrees
+
+and incoming chilled water at 53 degrees, therefore no adjustments were made to the resulting data. Major US Telecom’s
+
+management of the chiller plant combined with the building load during the trial provided more than an adequate heat load
+
+on the facility to ensure the chiller would remain running during the actual data collection period.
+
+The chiller was tested over the span of three weeks while operating at an average of 49% motor load. This is the minimum
+
+amount of time the PermaFrost NMR® ECM requires in a chiller of this size to produce maximum results, therefore
+
+Major US Telecom can expect to continue to see continued improvements over the next month. The boundary of the testing was the
+
+chiller and nothing else therefore confidence in the accuracy of the performance calculations is very high.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+3
+
+Energy Conservation Method (ECM)
+
+The content detailed in this report will first demonstrate the ability of the pilot chiller to perform prior to the
+
+PermaFrost NMR® (ECM) being installed, as well as illustrate the amount of thermal degradation due in large
+
+part to thermal degradation within the heat exchangers (evaporator and condenser barrels).
+
+The following report lists the results of using the IPMVP as the M&V plan.
+
+The results were formulated by entering the data into the following applicable thermodynamic engineering
+
+formulas:
+
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase)
+
+• kW/Ton = kW / Actual Tonnage
+
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+
+• Actual Cooling Tons per Hour = Evaporator GPM X 8.34 * 60 * Chilled Water Delta T / 12,000 BTU
+
+• Refrigerant Approach = Supply Water Temp – Suction Temp of Evaporator (CH)
+
+Notes
+
+Following a diagnostic examination of the pilot equipment to determine the operational condition of the systems, it was
+
+determined that the chiller had a much higher volume of water flowing through it than design so the team adjusted it
+
+downward to OEM specifications. With all other chiller conditions deemed satisfactory, Baseline M&V data was collected
+
+and recorded by the M&V team.
+
+Three weeks after installation of the PermaFrost NMR®, the M&V
+
+team returned to take Post M&V measurements in the identical
+
+fashion as in the Baseline. The delta of these measurements and
+
+associated calculations show the amount of capacity restored.
+
+The data in both the baseline and post periods was collected by
+
+[Client Representative] Associates via the Pharma Company B system and installed
+
+HOBO power meter. Powertron Global also collected information
+
+directly from the chiller panel while the chiller was running under
+
+identical operational conditions. All readings were witnessed by
+
+Major US Telecom technicians. Photographic evidence of the measurements
+
+is included in this report. The measurements are listed below.
+
+M&V team works to adjust flow 
+rates through the chiller’s 
+evaporator and condenser barrels, 
+restoring them to within 2% of 
+HVAC Equipment Manufacturer design specifications before 
+recording all the baseline readings.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+4
+
+194 tons
+
+233 tons
+
+Baseline
+Tonnage
+
+Post ECM
+Tonnage
+
+• The Chiller should be operating @ 245 tons of cooling capacity
+   at 49%
+• The Chiller was operating @ 194 tons of cooling capacity prior
+   to installing ECM
+• The Chiller now has 39 tons of restored cooling capacity after ECM
+
+• The Chiller should be operating @ 6.75 COP or higher
+• The Chiller was operating @ 5.43 COP prior to the ECM
+   and 6.57 following the ECM
+• The average COP of the Chiller was increased by 21% 
+   following the ECM
+
+5.43
+Baseline COP
+
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+194
+tons Baseline
+
+100%
+CAPACITY @
+100% LOAD
+
+Avg. Baseline
+COP
+
+Avg. Post
+ECM COP
+
+5.43
+
+6.57
+Post ECM COP
+233
+tons Post ECM
+
+21%
+Improvement
+in COP
+39
+tons of
+Recovered
+Capacity
+
+TONNAGE
+COP
+
+Summary of HVAC/R Eﬃciency Study Results
+
+Chiller Eﬃciency with PermaFrost NMR® ECM
+
+Major US Telecom is experiencing significant thermal degradation in their data center HVAC systems. The lower
+
+baseline operating tonnage and COP ratings measured on site are in line with the ASHRAE loss of performance
+
+and cost to operate numbers. The degraded equipment performance was costing Major US Telecom significant money and
+
+wasting energy. The pilot chiller was using significantly more kWh to operate than it used when it was new.
+
+The performance summary includes the measured efficiency and tonnage of the chiller in the baseline and post
+
+testing periods, demonstrating the impact of thermal degradation.
+
+The implementation of the PermaFrost NMR® ECM resulted in a restoration of 39 operating tons equating to
+
+20.1%; an improvement of 21% in Coefficient of Performance (COP) and a reduction in kW/ton of 16.9%,
+
+significantly reducing the cost to operate the chiller throughout the year.
+
+The Major US Telecom HVAC Equipment Manufacturer chiller treated has a nominal capacity of 500 tons and 1,020 gallons per minute (GPM) flow
+
+through the evaporator. The chiller used in this pilot was tested at 49% load with a GPM flow right near design
+
+at 1,034 after adjusting on site prior to starting the baseline readings.
+
+6.57
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+Recovered
+Energy
+
+Equating to a
+16.9% reduction
+
+5
+
+Recovered Wasted Energy with PermaFrost NMR®
+Chiller
+
+The chart to the right illustrates the performance
+
+restoration the ECM created in the treated chiller. The
+
+average cost to operate this chiller before it was
+
+treated with PermaFrost NMR®, as calculated in
+
+kW/ton, was .65.
+
+The specific cost to operate this chiller after it was
+
+treated with PermaFrost NMR®, as calculated in
+
+kW/ton, is currently .54.
+
+The higher baseline kW/ton rating measured in-situ was expected when compared to the ASHRAE loss of
+
+performance efficiency and cost to operate estimate for a 14 year old chiller. The post results are also in line
+
+with the average improvement savings shown in more than 120,000 installations globally.
+
+Cost to Operate
+
+Baseline
+Post ECM
+
+kW/Ton
+
+.11   kW/Ton
+
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+0.8
+
+.65
+
+.54
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+6
+
+Chiller Eﬃciency Study Results
+Calculated Eﬃciency of Major US Telecom Chiller Baseline and Post
+
+The chart below illustrates just how far off design the Major US Telecom pilot chiller had degraded in terms of efficiency
+
+over an average of 14 years of the heat exchange coils being in use.
+
+The chiller was performing at an average of 79.2% of the original design efficiency. The nominal design rated
+
+tonnage of the chiller is 500 tons at 100% load and 245 tons at 49% load. In actuality however, the chiller was
+
+only producing 194 tons at the start of the pilot. The majority of the 20.8% efficiency loss in the chiller is directly
+
+attributable to the thermal degradation of the heat exchange surfaces. This is due in large part to thermal degradation
+
+creating an insulating barrier to heat transfer through the tube walls.
+
+After PermaFrost NMR® was installed, the average efficiency in the chiller jumped up to 95.1% of design
+
+specifications or 233 tons.  This represents a 20% improvement in efficiency over the baseline numbers.
+
+Original Design
+Eﬃciency
+
+ASHRAE Projected
+Eﬃciency Loss
+Over Time
+
+Actual Major US Telecom
+Design Eﬃciency as
+Measured In-Situ
+
+Actual Major US Telecom Chiller  Operating Eﬃciency
+vs. ASHRAE Projected Eﬃciency Loss
+
+HVAC/R Eﬃciency %
+
+DESIGN EFFICIENCY
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+Eﬃciency
+Improvement
+20%
+
+Age of Chillers
+
+Age of Major US Telecom
+Chiller
+14
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+7
+
+Original Design
+Eﬃciency
+
+ASHRAE Projected
+Cost to Operate
+Over Time
+
+Actual Cost to
+Operate Major US Telecom
+Systems As Is
+
+Operational Cost %
+
+Actual Major US Telecom Chiller Operating Cost
+vs. ASHRAE Historical Performance
+
+-40
+
+-20
+
+00
+
+20
+
+40
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+Age of Major US Telecom
+Chiller
+
+14
+
+EXPECTED COST
+
+Age of Chillers
+
+in Energy
+Savings
+
+Chiller Eﬃciency Study Results
+Cost to Major US Telecom to Operate the Chiller Baseline vs Post
+
+The next chart illustrates the just how much money the efficiency performance loss in the pilot chiller was
+
+costing Major US Telecom in the way of wasted energy each and every day it was operating prior to the PermaFrost
+
+NMR®. The average cost to operate the chiller as calculated in kW/ ton was .65 in the Baseline. When new, the
+
+kW/ton rating for chillers like these usually range from .50 - .52 kW/ton at 49% load. This means Major US Telecom was
+
+paying up to 20% more than design for the energy to run the chiller as a direct result of the baseline reduced
+
+level of performance. These kW/ton ratings are very much in line with the ASHRAE loss of performance and
+
+cost to operate numbers.
+
+The restored average kW/ton rating for the chiller following the PermaFrost NMR® is now .54. This represents
+
+a 16.9% reduction in energy costs for the chiller from the baseline for every ton of cooling produced. It also
+
+brings down the Major US Telecom costs to operate the chiller to nearly what they were when the chiller was new.
+
+The $15,716 in annual energy savings generated during the pilot have resulted in an initial payback period to
+
+Major US Telecom of approximately 9.2 months. Over just 10 more years in operation the accumulated net savings will
+
+reach $145,160, greatly reducing the eventual CapEx costs to replace the chiller when it finally reaches the end
+
+of its useful life.
+
+16.9%
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Major US Telecom Return on Initial PermaFrost NMR® Investment
+
+The following are the final calculated average performance measurements following the PermaFrost NMR®
+
+Post measurement period for the Major US Telecom pilot chiller.
+
+Baseline Energy Consumption without PermaFrost NMR®
+
+Baseline Tonnage: 193 tons
+
+kW Baseline (Adjusted): .65 kW/ton * 233 tons = 151.45 kW
+
+Annual kWh Baseline: 151.45 kW * 4,380 Annual Operating Hrs = 663,351 kWh
+
+Annual Cost Baseline: 663,351 kWh * $.14 = $92,869
+
+Post Energy Consumption with PermaFrost NMR®
+
+kW Post: .54 kW/ton * 233 tons = 125.82 kW
+
+Annual kWh Post: 125.82 kW * 4,380 hours = 551,092 kWh
+
+Annual Cost Post: 551,092 kWh * .14 cents = $77,153
+
+Savings Per Year
+
+Avoided Energy Cost (savings) Per Year: $92,869 - $77,153 = $15,716
+
+Estimated Energy Savings Per Month: $15,716 / 12 = $1,310
+
+Return On Investment
+
+Cost of PermaFrost NMR® installed in the pilot chiller: $12,000
+
+Estimated ROI Period for Chiller: $12,000 / $1,310 = 9.2 months
+
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period
+
+for Major US Telecom for implementing the PermaFrost NMR®, a detailed Regression Analysis is used to calculate the true
+
+energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended
+
+in the Post Analysis Period by reducing the load. ROI comes from determining what the cost to run the chiller was
+
+when operating at the original energy profile to produce the newly restored amount of available tonnage capacity and
+
+then subtracting the revised cost to run the chiller at the same restored tonnage after the PermaFrostNMR® was
+
+installed.
+
+This regression analysis is the most widely accepted method of accounting for the reduced load the chiller will now
+
+operate at due to the restored capacity. This restored capacity allows the chiller to maintain 48 degree leaving chilled
+
+water with increased efficiency resulting in reduced compressor demand loading.
+
+8
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+.65
+
+POST
+
+BASELINE
+
+.54
+
+kW/ton
+
+REDUCTION
+16.9%
+
+REDUCTION
+REDUCTION
+
+POST
+
+BASELINE
+
+Calculated Annual kWh
+
+16.9%
+
+20%
+
+POST
+
+BASELINE
+
+Chiller Water Delta
+
+IMPROVEMENT
+
+POST
+
+BASELINE
+6.5
+
+Refrigerant Approach
+
+61.5%
+
+4.5
+
+663,351
+
+551,092
+
+Key Results for Chiller with PermaFrost NMR® ECM
+
+2.5
+
+5.4
+
+9
+
+HVAC Equipment Manufacturer
+
+CVHE500
+
+L00B01487
+
+R123
+
+500
+
+4,380
+
+2000
+
+System Description
+
+Make
+
+Model
+
+Serial Number
+
+Refrigerant Type
+
+Nominal Cooling
+Capacity in Tons
+
+Average Annual
+Runtime Hours
+
+Date Installed
+
+485.0
+
+175.0
+
+45.1
+
+89.8
+
+47.6
+
+53
+
+78.3
+
+82.8
+
+5.4
+
+2.5
+
+124.8
+
+0.54
+
+233
+
+1034
+
+551,092
+
+49
+
+6.57
+
+72
+
+Energy Usage
+BASELINE
+POST
+
+Voltage
+
+Amperage
+
+Suction Refrigerant Temperature
+
+Discharge Refrigerant Temperature
+
+Chilled Water Leaving Temp (Supply)
+
+Chilled Water Entering Temp (Return)
+
+Condenser Water Temp Entering Chiller
+
+Condenser Water Temp leaving Chiller
+
+Chilled Water Delta T
+
+Refrigeration Approach
+
+kW (V x A x 1.47)
+
+kW / Ton
+
+Actual Measured Operating Tons
+
+Chiller GPM
+
+Annual kWh (after regression analysis)
+
+Chiller Load % During Testing
+
+Coeﬃcient of Perfromance (COP)
+
+OAT
+
+475.0
+
+180.0
+
+41.5
+
+90
+
+48
+
+52.5
+
+77.5
+
+81.8
+
+4.5
+
+6.5
+
+125.7
+
+0.65
+
+194
+
+1034
+
+663,351
+
+49
+
+5.43
+
+62
+
+Notes: The pilot chiller provides cooling to the main
+
+Major US Telecom data center floors. It operates in tandem with
+
+one of the other three chillers in the plant to share the
+
+cooling load. In case of a chiller failure one of the chillers
+
+can assume the entire load while another chiller is
+
+brought online. Given the facility load, the pilot chiller
+
+runs approximately 4,380 hours or more annually prior
+
+to the ECM being implemented.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Photographic Evidence of M&V Readings - Baseline
+
+10
+
+Photographic Evidence of M&V Readings - Post
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+-25.00%
+
+-20.00%
+
+-15.00%
+
+-10.00%
+
+-5.00%
+
+0.00%
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+
+11
+
+CH
+
+14
+
+111.4
+
+4380
+
+$0.140
+
+0.0%
+
+Unit Type (DX or CH)
+
+Unit Age
+
+Input Power kWE
+
+Annual Run Time Hours
+
+Current kWh Cost
+
+Annual kWh Cost Increase
+
+488,063
+
+1,102,535
+
+1,234,800
+
+$172,872
+
+kWh per Year
+
+Total Wasted kWh
+
+Total kWh Saved
+
+Total Savings
+
+Wasted Chiller #2
+Energy Costs
+Up to Now
+$154,355
+Future Avoided
+Energy Costs for
+Remaining 10 Years
+of Equipment Life
+$172,872
+
+Accumulated
+Savings
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+Accumulated
+kWh Saved
+
+112,255
+224,509
+336,764
+449,018
+561,273
+673,527
+785,782
+898,037
+1,010,291
+1,122,546
+1,234,800
+
+Cost
+Per kWh
+
+0.140
+0.140
+0.140
+0.140
+0.140
+0.140
+0.140
+0.140
+0.140
+0.140
+0.140
+
+Saved Costs
+Saved kWh
+Wasted kWh
+
+16,106
+31,236
+44,902
+56,615
+67,353
+76,626
+83,947
+90,292
+96,637
+101,517
+105,422
+109,326
+110,790
+111,767
+
+Eﬃciency
+Loss
+Unit Age
+
+3.3%
+6.4%
+9.2%
+11.6%
+13.8%
+15.7%
+17.2%
+18.5%
+19.8%
+20.8%
+21.6%
+22.4%
+22.7%
+22.9%
+23.0%
+23.0%
+23.0%
+23.0%
+23.0%
+23.0%
+23.0%
+23.0%
+23.0%
+23.0%
+23.0%
+
+112,255
+112,255
+112,255
+112,255
+112,255
+112,255
+112,255
+112,255
+112,255
+112,255
+112,255
+
+15,716
+15,716
+15,716
+15,716
+15,716
+15,716
+15,716
+15,716
+15,716
+15,716
+15,716
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+15,716
+31,431
+47,147
+62,863
+78,578
+94,294
+110,009
+125,725
+141,441
+157,156
+172,872
+
+Estimated Savings to Major US Telecom for Treating Chiller #2
+
+The chart below illustrates the substantial savings potential Major US Telecom will realize following the treatment of
+
+Chiller #2 with PermaFrost NMR®.
+
+Kilowatt Hours (kWh) Loss / Gain With / Without PermaFrost NMR® Treatment
+
+Savings indicated inside red circle equates to a 9.2 Month Initial Project Payback for Major US Telecom after treating
+
+chiller #2. This is determined by dividing the $12,000 cost of treating the 500-ton chiller with PermaFrost
+
+NMR® by the anticipated annual savings of $15,716 and then multiplying the result by 12 months.
+
+Savings indicated inside orange circle equates to an overall ROI for Major US Telecom of 1,440% over the remaining
+
+10 years of projected useful system life of chiller #2. This is determined by dividing the projected 10 years of
+
+avoided cost savings of $172,872 by the $12,000 cost of treating the chiller with PermaFrost NMR® and then
+
+multiplying the result by 100.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+-25.00%
+
+-20.00%
+
+-15.00%
+
+-10.00%
+
+-5.00%
+
+0.00%
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+
+12
+
+CH
+
+14
+
+445.7
+
+4380
+
+$0.140
+
+0.0%
+
+Unit Type (DX or CH)
+
+Unit Age
+
+Input Power kWE
+
+Annual Run Time Hours
+
+Current kWh Cost
+
+Annual kWh Cost Increase
+
+1,952,254
+
+4,410,141
+
+4,939,202
+
+$691,488
+
+kWh per Year
+
+Total Wasted kWh
+
+Total kWh Saved
+
+Total Savings
+
+Wasted Chiller Plant
+Energy Costs
+Up to Now
+$617,420
+Future Avoided
+Energy Costs for
+Remaining 10 Years
+of Equipment Life
+$691,488
+
+Accumulated
+Savings
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+Accumulated
+kWh Saved
+
+449,018
+898,037
+1,347,055
+1,796,073
+2,245,092
+2,694,110
+3,143,128
+3,592,147
+4,041,165
+4,490,183
+4,939,202
+
+Cost
+Per kWh
+
+0.140
+0.140
+0.140
+0.140
+0.140
+0.140
+0.140
+0.140
+0.140
+0.140
+0.140
+
+Saved Costs
+Saved kWh
+Wasted kWh
+
+64,424
+124,944
+179,607
+226,461
+269,411
+306,504
+335,788
+361,167
+386,546
+406,069
+421,687
+437,305
+443,162
+447,066
+
+Eﬃciency
+Loss
+Unit Age
+
+3.3%
+6.4%
+9.2%
+11.6%
+13.8%
+15.7%
+17.2%
+18.5%
+19.8%
+20.8%
+21.6%
+22.4%
+22.7%
+22.9%
+23.0%
+23.0%
+23.0%
+23.0%
+23.0%
+23.0%
+23.0%
+23.0%
+23.0%
+23.0%
+23.0%
+
+449,018
+449,018
+449,018
+449,018
+449,018
+449,018
+449,018
+449,018
+449,018
+449,018
+449,018
+
+62,863
+62,863
+62,863
+62,863
+62,863
+62,863
+62,863
+62,863
+62,863
+62,863
+62,863
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+62,863
+125,725
+188,588
+251,450
+314,313
+377,175
+440,038
+502,901
+565,763
+628,626
+691,48872
+
+Estimated Savings to Major US Telecom for Treating Four Chillers
+at Elmsford
+
+The chart below illustrates the substantial savings potential Major US Telecom will realize when treating all four of the
+
+chillers at Elmsford data center with PermaFrost NMR®.
+
+Kilowatt Hours (kWh) Loss / Gain With / Without PermaFrost NMR® Treatment
+
+Savings indicated inside red circle equates to a 9.2 Month Project Payback for Major US Telecom when treating all four
+
+of the chillers at Elmsford. This is determined by dividing the $48,000 cost of treating the four 500-ton chillers
+
+with PermaFrost NMR by the anticipated annual savings of $62,863 and then multiplying the result by 12
+
+months.
+
+Savings indicated inside orange circle equates to an overall ROI for Major US Telecom of 1,140% over the remaining
+
+10 years of projected useful system life across all of Elmsford. This is determined by dividing the projected 10
+
+years of avoided cost savings of $691,488 from all four chillers by the $48,000 cost of treating the chillers with
+
+PermaFrost NMR and then multiplying the result by 100.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+65.2
+
+Passenger vehicles
+
+15.9
+
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+
+34,841
+
+Gallons of gasoline
+consumed
+
+332,581
+
+Pounds of coal burned
+annually
+
+720
+
+Barrels of oil
+consumed
+
+1.7
+
+Railcars worth
+of coal burned
+
+42.6
+
+Homes’ electricity use for
+one year
+
+13
+
+Major US Telecom is Saving More than Just Energy across
+Elmsford Data Center
+
+By treating their Elmsford data center and its 2,000-tons of cooling with PermaFrost NMR®, based on the
+
+current manner Major US Telecom operates the chillers, it will save approximately 449,036 kWh per year and all the
+
+costs associated with those savings.
+
+From an environmental impact standpoint, Major US Telecom will also benefit the surrounding communities of New
+
+York.  Imagine how great the environmental impact will be when Major US Telecom moves forward with treating all
+
+their chillers in all their data centers.
+
+The 449,036 kWh saved per year equates to preventing 310 metric tons of greenhouse gas emissions from
+
+being released or any of the following:
+
+Annual greenhouse emissions from:
+
+CO2 emissions from:
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

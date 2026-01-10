@@ -1,0 +1,297 @@
+{
+  "title": "Industry-Specific Fact Sheets",
+  "version": "1.0.0",
+  "last_updated": "2025-12-28",
+  "industries": {
+    "telecommunications": {
+      "case_study_count": 13,
+      "average_efficiency_improvement_pct": 20.4,
+      "average_annual_savings_usd": 8758,
+      "total_documented_savings_usd": 105096.9,
+      "equipment_types": [
+        "RTU",
+        "Refrigeration",
+        "Chiller",
+        "CRAC"
+      ],
+      "key_benefits": [
+        "Critical cooling for network equipment",
+        "Cell site and data center applications",
+        "24/7 reliability requirements met",
+        "Caribbean and international proven",
+        "Telecom Equipment Mfg equipment validated"
+      ],
+      "notable_installations": [
+        "Major Telecom A",
+        "Major Telecom B",
+        "Major Telecom C",
+        "Telecom Equipment Mfg",
+        "Caribbean Telecom Provider A"
+      ]
+    },
+    "hospitality": {
+      "case_study_count": 4,
+      "average_efficiency_improvement_pct": 22.8,
+      "average_annual_savings_usd": 23847,
+      "total_documented_savings_usd": 71541.7,
+      "equipment_types": [
+        "Refrigeration",
+        "Chiller"
+      ],
+      "key_benefits": [
+        "Chiller and RTU applications",
+        "Improves guest comfort through better cooling",
+        "Supports green hotel certifications",
+        "Caribbean installations proven ([Caribbean Location])",
+        "Immediate energy cost reduction"
+      ],
+      "notable_installations": [
+        "Hotel Chain A [Louisiana Location]",
+        "Hotel Chain A [Caribbean Location]",
+        "Gaming Company A"
+      ]
+    },
+    "government": {
+      "case_study_count": 3,
+      "average_efficiency_improvement_pct": 13.6,
+      "average_annual_savings_usd": 17964,
+      "total_documented_savings_usd": 17964,
+      "equipment_types": [
+        "Refrigeration",
+        "Chiller",
+        "Split System"
+      ],
+      "key_benefits": [
+        "IPMVP-compliant documentation for rebates",
+        "PE-certified results for procurement",
+        "Proven at military installations",
+        "Supports federal energy mandates",
+        "Made in USA"
+      ],
+      "notable_installations": [
+        "Military Base A",
+        "Defense Agency A",
+        "State Military A",
+        "County Law Enforcement A"
+      ]
+    },
+    "commercial": {
+      "case_study_count": 16,
+      "average_efficiency_improvement_pct": 19.3,
+      "average_annual_savings_usd": 14888,
+      "total_documented_savings_usd": 74440,
+      "equipment_types": [
+        "RTU",
+        "DX System",
+        "Chiller"
+      ],
+      "key_benefits": []
+    },
+    "retail": {
+      "case_study_count": 13,
+      "average_efficiency_improvement_pct": 20.4,
+      "average_annual_savings_usd": 12140,
+      "total_documented_savings_usd": 60701,
+      "equipment_types": [
+        "RTU",
+        "Refrigeration",
+        "Chiller",
+        "Split System"
+      ],
+      "key_benefits": [
+        "RTU and refrigeration applications",
+        "Multi-location rollout proven",
+        "Reduces operating costs",
+        "Works with existing equipment",
+        "Quick payback period"
+      ],
+      "notable_installations": [
+        "Retail Chain B",
+        "Retail Chain A",
+        "Apparel Retailer A",
+        "Retail Chain C",
+        "Convenience Chain A"
+      ]
+    },
+    "banking": {
+      "case_study_count": 37,
+      "average_efficiency_improvement_pct": 26.3,
+      "average_annual_savings_usd": 24070,
+      "total_documented_savings_usd": 818392.0,
+      "equipment_types": [
+        "DX System",
+        "Chiller",
+        "Refrigeration",
+        "RTU",
+        "CRAC"
+      ],
+      "key_benefits": [
+        "Supports ESG and sustainability reporting",
+        "Verified savings for financial documentation",
+        "Branch and data center applications",
+        "6+ year longevity proven (Major Global Bank A study)",
+        "UL-verified testing methodology (Major Bank B)"
+      ],
+      "notable_installations": [
+        "Major Global Bank A (7 locations)",
+        "Major Bank B",
+        "Regional Bank A",
+        "Financial Services A",
+        "Brazilian Bank A Bank"
+      ]
+    },
+    "data_center": {
+      "case_study_count": 14,
+      "average_efficiency_improvement_pct": 25.0,
+      "average_annual_savings_usd": 32250,
+      "total_documented_savings_usd": 387005,
+      "equipment_types": [
+        "RTU",
+        "Refrigeration",
+        "Chiller",
+        "CRAC"
+      ],
+      "key_benefits": [
+        "Improves PUE through more efficient cooling",
+        "Works on CRAC, CRAH, and chiller systems",
+        "24/7 operation maximizes annual savings",
+        "No downtime required for installation",
+        "Real-time monitoring available via F2 FMV platform"
+      ],
+      "notable_installations": [
+        "Data Center Provider A NYC/[New Jersey Location]/[Georgia Location]",
+        "Data Center B",
+        "Telecom Equipment Mfg",
+        "Regional Telecom A"
+      ]
+    },
+    "food_manufacturing": {
+      "case_study_count": 2,
+      "average_efficiency_improvement_pct": 35.0,
+      "average_annual_savings_usd": 18810,
+      "total_documented_savings_usd": 37621,
+      "equipment_types": [
+        "Chiller"
+      ],
+      "key_benefits": []
+    },
+    "pharmaceutical": {
+      "case_study_count": 2,
+      "average_efficiency_improvement_pct": 5.3,
+      "average_annual_savings_usd": 19363,
+      "total_documented_savings_usd": 38726,
+      "equipment_types": [
+        "Chiller"
+      ],
+      "key_benefits": []
+    },
+    "military": {
+      "case_study_count": 6,
+      "average_efficiency_improvement_pct": 22.8,
+      "average_annual_savings_usd": 21732,
+      "total_documented_savings_usd": 86929,
+      "equipment_types": [
+        "Chiller",
+        "Split System"
+      ],
+      "key_benefits": []
+    },
+    "industrial": {
+      "case_study_count": 2,
+      "average_efficiency_improvement_pct": 18.0,
+      "average_annual_savings_usd": 12984,
+      "total_documented_savings_usd": 25969,
+      "equipment_types": [
+        "DX System",
+        "Chiller"
+      ],
+      "key_benefits": []
+    },
+    "manufacturing": {
+      "case_study_count": 2,
+      "average_efficiency_improvement_pct": 23.9,
+      "average_annual_savings_usd": 4998,
+      "total_documented_savings_usd": 9996,
+      "equipment_types": [
+        "Chiller"
+      ],
+      "key_benefits": []
+    },
+    "education": {
+      "case_study_count": 4,
+      "average_efficiency_improvement_pct": 32.8,
+      "average_annual_savings_usd": 14169,
+      "total_documented_savings_usd": 56677,
+      "equipment_types": [
+        "RTU",
+        "Chiller"
+      ],
+      "key_benefits": []
+    },
+    "restaurant": {
+      "case_study_count": 5,
+      "average_efficiency_improvement_pct": 24.1,
+      "average_annual_savings_usd": 3841,
+      "total_documented_savings_usd": 11524.2,
+      "equipment_types": [
+        "RTU",
+        "Chiller"
+      ],
+      "key_benefits": [
+        "Works on RTUs, walk-in coolers, refrigeration",
+        "Multi-year savings proven (Restaurant Chain A, QSR Chain A)",
+        "Chain-wide rollout potential",
+        "Reduces energy costs in high-margin business",
+        "No disruption to operations"
+      ],
+      "notable_installations": [
+        "Restaurant Chain A",
+        "QSR Chain A",
+        "QSR Chain C' Donuts",
+        "QSR Chain B"
+      ]
+    },
+    "entertainment": {
+      "case_study_count": 3,
+      "average_efficiency_improvement_pct": 29.7,
+      "average_annual_savings_usd": 13777,
+      "total_documented_savings_usd": 41332,
+      "equipment_types": [
+        "Chiller",
+        "Split System"
+      ],
+      "key_benefits": []
+    },
+    "healthcare": {
+      "case_study_count": 2,
+      "average_efficiency_improvement_pct": 12.8,
+      "average_annual_savings_usd": 28776,
+      "total_documented_savings_usd": 57552,
+      "equipment_types": [
+        "Chiller",
+        "CRAC"
+      ],
+      "key_benefits": [
+        "Critical cooling reliability maintained",
+        "No system shutdown required",
+        "Pharmaceutical-grade facilities validated",
+        "Hospital and clinic applications",
+        "Supports healthcare sustainability goals"
+      ],
+      "notable_installations": [
+        "Regional Hospital A",
+        "Pharma Company B [Connecticut Location]",
+        "Pharma Company B NB",
+        "Major Pharma A"
+      ]
+    },
+    "marketing": {
+      "case_study_count": 2,
+      "average_efficiency_improvement_pct": null,
+      "average_annual_savings_usd": null,
+      "total_documented_savings_usd": 0,
+      "equipment_types": [],
+      "key_benefits": []
+    }
+  }
+}

@@ -1,0 +1,54 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2024 Powertron Global, LLC. 
+ 
+ 
+ 
+ 
+ 
+The capacity formula is: 
+ 
+ 
+CFM x 4.5 x Enthalpy ∆ = BTUs / 12,000 = Tons (capacity) 
+ 
+ 
+CFM – Cubic Feet per Minute of Air Flow or Air Volume 
+4.5 – Ratio of Standard Air (constant) 
+Enthalpy ∆ - Enthalpy Delta of the Inlet – Outlet Enthalpy 
+BTU – British Thermal Units  
+12,000 – every 12,000 BTUs equals 1 Ton (constant) 
+ 
+ 
+Example 
+ 
+4000 (CFM) X 4.5 (Standard Air Ratio) X 8 (Enthalpy Delta) = 144,000 BTU, then 
+divide by 12,000 = 12 tons 
+ 
+ 
+ 
+To Determine Electrical Energy Consumption: 
+ 
+Total electrical consumption is measured at the main source of electric service of 
+each unit. This three-phase formula includes, voltage, amperage, phase and power 
+factor. This is then divided by 1000 to obtain kilowatts. The electrical formula for  
+ 
+ 
+kilowatt (kW) is: 
+ 
+kW = V x A x 1.72 x PF / 1000 
+ 
+V – Voltage 
+A – Amperage 
+PF – Power Factor 
+1000 – constant  
+ 
+ 
+Example 
+ 
+480 (volts) X 45 (amps) X 1.72 (sq. root of 3) X 0.90 (power factor) / 1000 = 19.4 
+kilowatts  
+ 
+ 
+ 
+ 
+ 

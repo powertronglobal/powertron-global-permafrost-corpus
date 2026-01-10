@@ -1,0 +1,49 @@
+48        Other Common M&V Issues 
+ 
+ 
+Reductions in purchases from the electrical grid should be divided into those due to load 
+reduction and those due to increased self-generation at the facility. 
+ 
+The adjusted baseline used for computing energy savings may need to change to suit the 
+requirements of the particular emission-trading program. For emission-trading purposes, 
+adjusted baselines need to consider whether the ECMs were 'surplus' or 'additional' to 
+normal behavior. ECMs may not be allowed for emisison trading if they are 'business as 
+usual' or  simply compliance with existing regulations. Baseline rules are defined by the 
+relevant emission-trading program. For example, where equipment minimum–efficiency 
+standards govern the equipment market, these standards set the baseline for determining 
+tradable amounts.  
+ 
+Segregate energy savings by site, if a project spans a power pool's boundary line, or if 
+emission quantities may be outside an air shed of concern. 
+ 
+Segregate fuel savings by fuel or boiler type, if different emission rates apply to each 
+combustion device. 
+Each emission-trading system usually has its own rules surrounding emission factors to be 
+applied to energy savings. For fuel savings, default emission rates may be given when no 
+emission-measuring equipment is in place. For electricity savings, default values may also be 
+given for the power grid emission rate. Alternatively users may establish their own emisison rate 
+for electricity savings, following recognized principles such as those published as part of the 
+Guidelines for Grid-Connected Electricity Projects (WRI 2007).  
+8.8  Minimum Operating Conditions 
+An energy-efficiency program should not affect the use of the facility to which it is applied, 
+without the agreement of building occupants or industrial process managers. Key user 
+paramaters may be: light level, temperature, ventilation rate, compresssed air pressure, steam 
+pressure and temperature, water flow rate, production rate, etc.  
+The M&V Plan should record the agreed minimum operating conditions that will be maintained 
+(see Chapter 5).  
+IPMVP Volume II, Concepts and Practices for Improved Indoor Environmental Quality, suggests 
+methods of monitoring indoor space conditions throughout an energy-efficiency program.  
+8.9  Weather Data 
+Where monthly energy measurements are used, weather data should be recorded daily so it 
+can be matched to the actual energy-metering reading dates.  
+For monthly or daily analysis, government published weather data is usually the most accurate 
+and verifiable. However weather data from government sources may not be available as 
+promptly as site-monitored weather data. If you use on-site weather-monitoring equipment, be 
+sure it is regularly and properly calibrated. 
+When analyzing the response of energy use to weather in mathematical modeling, daily mean 
+temperature data or degree days may be used. 
+8.10  Minimum Energy Standards  
+When a certain level of efficiency is required either by law or the facility owner's standard 
+practice, savings may be based on the difference between reporting-period energy and that 
+minimum standard. In these situations, baseline-period energy may be set equal to or less than 
+the applicable minimum energy standards.  

@@ -1,0 +1,55 @@
+20        IPMVP Framework and Options 
+ 
+an industrial plant provide a common example of constant power flow, assuming they have a 
+constant load. However motor-operating periods may vary with the type of product being 
+produced from day to day. Where a parameter may change periodically, the occasional 
+measurements of the parameter (operating hours in this motor example) should happen at times 
+representative of the normal system behavior.  
+Where a parameter may vary daily or hourly, as in most building heating or cooling systems, 
+continuous metering may be simplest. For weather dependent loads, measurements may be 
+taken over a long enough period to adequately characterize the load pattern through all parts of 
+its normal annual cycle (i.e. each season, and weekday/weekend) and repeated as necessary 
+through the reporting period. Examples of such day-type profiling can be found in Katipamula 
+and Haberl (1991), Akbari et al. (1988), Hadley and Tomich (1986), Bou Saada and Haberl 
+(1995a, 1995b) and Bou Saada et al. (1996).  
+Where multiple versions of the same ECM installation are included within the measurement 
+boundary, statistically valid samples may be used as valid measurements of the total parameter. 
+Such situations may arise, for example, where total lighting power draw cannot be read at the 
+electrical panel due to the presence of non-lighting loads on the same panel. Instead a 
+statistically significant sample of fixtures is measured before and after retrofit to assess the 
+change in power draw. These sample data may be used as the ‘measurements’ of total lighting 
+power draw. Appendix B-3 discusses the statistical issues involved in sampling. 
+Portable meters may be used if only short-term metering is needed. The costs of portable 
+meters can be shared with other objectives. However, permanently installed meters also provide 
+feedback to operating staff or automated control equipment for optimization of systems. Added 
+meters may also enable billing of individual users or departments in the facility.   
+Retrofit isolation techniques are best applied where:  
+ 
+Only the performance of the systems affected by the ECM is of concern, either due to the 
+responsibilities assigned to the parties in an energy performance contract, or due to the 
+savings of the ECM being too small to be detected in the time available using Option C.  
+ 
+Interactive effects of the ECM on the energy use of other facility equipment can be 
+reasonably estimated, or assumed to be insignificant.  
+ 
+Possible changes to the facility, beyond the measurement boundary, would be difficult to 
+identify or assess.  
+ 
+The independent variables, which affect energy use, are not excessively difficult or 
+expensive to monitor.  
+ 
+Sub-meters already exist to isolate energy use of systems.  
+ 
+Meters added at the measurement boundary can be used for other purposes such as 
+operational feedback or tenant billing.  
+ 
+Measurement of parameters is less costly than Option D simulations or Option C non-routine 
+adjustments. 
+ 
+Long term testing is not warranted. 
+ 
+There is no need to directly reconcile savings reports with changes in payments to energy 
+suppliers. 
+The unique characteristics of each of the retrofit-isolation techniques are discussed in Chapters 
+4.7.1 and 4.7.2, below. Common measurement issues arising when using retrofit-isolation 
+techniques are discussed in Chapter 4.8.3..  

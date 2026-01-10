@@ -1,0 +1,2170 @@
+{
+  "military-base-a-permafrost-results": {
+    "doc_id": "dataroom_026",
+    "title": "Military Base A PermaFrost Results",
+    "category": "government-validation",
+    "doc_type": "case-study",
+    "pages": 7,
+    "files": {
+      "metadata": "documents/military-base-a-permafrost-results/metadata.json",
+      "all_text": "documents/military-base-a-permafrost-results/dataset/ALL_TEXT.txt",
+      "chunks": "documents/military-base-a-permafrost-results/dataset/chunks-0000.jsonl",
+      "markdown": "documents/military-base-a-permafrost-results/extracted/markdown/document.md"
+    }
+  },
+  "capex-accounting-guide": {
+    "doc_id": "dataroom_006",
+    "title": "PermaFrost NMR as Capital Expense Guide",
+    "category": "executive",
+    "doc_type": "financial-guidance",
+    "pages": 1,
+    "files": {
+      "metadata": "documents/capex-accounting-guide/metadata.json",
+      "all_text": "documents/capex-accounting-guide/dataset/ALL_TEXT.txt",
+      "chunks": "documents/capex-accounting-guide/dataset/chunks-0000.jsonl",
+      "markdown": "documents/capex-accounting-guide/extracted/markdown/document.md"
+    }
+  },
+  "case-study-001": {
+    "doc_id": "pdf_014",
+    "title": "case-study-001",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-001/metadata.json",
+      "all_text": "documents/case-study-001/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-001/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-001/extracted/markdown/document.md"
+    }
+  },
+  "case-study-002": {
+    "doc_id": "pdf_012",
+    "title": "case-study-002",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-002/metadata.json",
+      "all_text": "documents/case-study-002/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-002/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-002/extracted/markdown/document.md"
+    }
+  },
+  "case-study-003": {
+    "doc_id": "pdf_013",
+    "title": "case-study-003",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-003/metadata.json",
+      "all_text": "documents/case-study-003/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-003/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-003/extracted/markdown/document.md"
+    }
+  },
+  "case-study-004": {
+    "doc_id": "pdf_019",
+    "title": "case-study-004",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-004/metadata.json",
+      "all_text": "documents/case-study-004/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-004/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-004/extracted/markdown/document.md"
+    }
+  },
+  "case-study-005": {
+    "doc_id": "pdf_015",
+    "title": "case-study-005",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-005/metadata.json",
+      "all_text": "documents/case-study-005/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-005/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-005/extracted/markdown/document.md"
+    }
+  },
+  "case-study-006": {
+    "doc_id": "pdf_001",
+    "title": "case-study-006",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-006/metadata.json",
+      "all_text": "documents/case-study-006/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-006/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-006/extracted/markdown/document.md"
+    }
+  },
+  "case-study-007": {
+    "doc_id": "pdf_002",
+    "title": "case-study-007",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-007/metadata.json",
+      "all_text": "documents/case-study-007/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-007/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-007/extracted/markdown/document.md"
+    }
+  },
+  "case-study-008": {
+    "doc_id": "pdf_016",
+    "title": "case-study-008",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-008/metadata.json",
+      "all_text": "documents/case-study-008/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-008/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-008/extracted/markdown/document.md"
+    }
+  },
+  "case-study-009": {
+    "doc_id": "pdf_017",
+    "title": "case-study-009",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-009/metadata.json",
+      "all_text": "documents/case-study-009/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-009/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-009/extracted/markdown/document.md"
+    }
+  },
+  "case-study-010": {
+    "doc_id": "pdf_018",
+    "title": "case-study-010",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-010/metadata.json",
+      "all_text": "documents/case-study-010/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-010/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-010/extracted/markdown/document.md"
+    }
+  },
+  "case-study-011": {
+    "doc_id": "pdf_022",
+    "title": "case-study-011",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-011/metadata.json",
+      "all_text": "documents/case-study-011/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-011/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-011/extracted/markdown/document.md"
+    }
+  },
+  "case-study-012": {
+    "doc_id": "pdf_023",
+    "title": "case-study-012",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-012/metadata.json",
+      "all_text": "documents/case-study-012/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-012/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-012/extracted/markdown/document.md"
+    }
+  },
+  "case-study-013": {
+    "doc_id": "pdf_024",
+    "title": "case-study-013",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-013/metadata.json",
+      "all_text": "documents/case-study-013/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-013/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-013/extracted/markdown/document.md"
+    }
+  },
+  "case-study-014": {
+    "doc_id": "pdf_020",
+    "title": "case-study-014",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-014/metadata.json",
+      "all_text": "documents/case-study-014/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-014/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-014/extracted/markdown/document.md"
+    }
+  },
+  "case-study-015": {
+    "doc_id": "pdf_021",
+    "title": "case-study-015",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-015/metadata.json",
+      "all_text": "documents/case-study-015/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-015/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-015/extracted/markdown/document.md"
+    }
+  },
+  "case-study-016": {
+    "doc_id": "pdf_025",
+    "title": "case-study-016",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-016/metadata.json",
+      "all_text": "documents/case-study-016/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-016/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-016/extracted/markdown/document.md"
+    }
+  },
+  "case-study-017": {
+    "doc_id": "pdf_003",
+    "title": "case-study-017",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-017/metadata.json",
+      "all_text": "documents/case-study-017/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-017/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-017/extracted/markdown/document.md"
+    }
+  },
+  "case-study-018": {
+    "doc_id": "pdf_004",
+    "title": "case-study-018",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-018/metadata.json",
+      "all_text": "documents/case-study-018/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-018/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-018/extracted/markdown/document.md"
+    }
+  },
+  "case-study-019": {
+    "doc_id": "pdf_027",
+    "title": "case-study-019",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-019/metadata.json",
+      "all_text": "documents/case-study-019/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-019/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-019/extracted/markdown/document.md"
+    }
+  },
+  "case-study-020": {
+    "doc_id": "pdf_028",
+    "title": "case-study-020",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-020/metadata.json",
+      "all_text": "documents/case-study-020/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-020/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-020/extracted/markdown/document.md"
+    }
+  },
+  "case-study-021": {
+    "doc_id": "pdf_029",
+    "title": "case-study-021",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-021/metadata.json",
+      "all_text": "documents/case-study-021/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-021/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-021/extracted/markdown/document.md"
+    }
+  },
+  "case-study-022": {
+    "doc_id": "pdf_026",
+    "title": "case-study-022",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-022/metadata.json",
+      "all_text": "documents/case-study-022/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-022/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-022/extracted/markdown/document.md"
+    }
+  },
+  "case-study-023": {
+    "doc_id": "pdf_005",
+    "title": "case-study-023",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-023/metadata.json",
+      "all_text": "documents/case-study-023/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-023/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-023/extracted/markdown/document.md"
+    }
+  },
+  "case-study-024": {
+    "doc_id": "pdf_006",
+    "title": "case-study-024",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-024/metadata.json",
+      "all_text": "documents/case-study-024/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-024/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-024/extracted/markdown/document.md"
+    }
+  },
+  "case-study-025": {
+    "doc_id": "pdf_030",
+    "title": "case-study-025",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-025/metadata.json",
+      "all_text": "documents/case-study-025/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-025/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-025/extracted/markdown/document.md"
+    }
+  },
+  "case-study-026": {
+    "doc_id": "pdf_031",
+    "title": "case-study-026",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-026/metadata.json",
+      "all_text": "documents/case-study-026/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-026/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-026/extracted/markdown/document.md"
+    }
+  },
+  "case-study-027": {
+    "doc_id": "pdf_032",
+    "title": "case-study-027",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-027/metadata.json",
+      "all_text": "documents/case-study-027/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-027/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-027/extracted/markdown/document.md"
+    }
+  },
+  "case-study-028": {
+    "doc_id": "pdf_033",
+    "title": "case-study-028",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-028/metadata.json",
+      "all_text": "documents/case-study-028/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-028/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-028/extracted/markdown/document.md"
+    }
+  },
+  "case-study-029": {
+    "doc_id": "pdf_034",
+    "title": "case-study-029",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-029/metadata.json",
+      "all_text": "documents/case-study-029/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-029/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-029/extracted/markdown/document.md"
+    }
+  },
+  "case-study-030": {
+    "doc_id": "pdf_035",
+    "title": "case-study-030",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-030/metadata.json",
+      "all_text": "documents/case-study-030/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-030/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-030/extracted/markdown/document.md"
+    }
+  },
+  "case-study-031": {
+    "doc_id": "pdf_036",
+    "title": "case-study-031",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-031/metadata.json",
+      "all_text": "documents/case-study-031/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-031/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-031/extracted/markdown/document.md"
+    }
+  },
+  "case-study-032": {
+    "doc_id": "pdf_007",
+    "title": "case-study-032",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-032/metadata.json",
+      "all_text": "documents/case-study-032/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-032/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-032/extracted/markdown/document.md"
+    }
+  },
+  "case-study-033": {
+    "doc_id": "pdf_008",
+    "title": "case-study-033",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-033/metadata.json",
+      "all_text": "documents/case-study-033/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-033/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-033/extracted/markdown/document.md"
+    }
+  },
+  "case-study-034": {
+    "doc_id": "pdf_038",
+    "title": "case-study-034",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-034/metadata.json",
+      "all_text": "documents/case-study-034/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-034/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-034/extracted/markdown/document.md"
+    }
+  },
+  "case-study-035": {
+    "doc_id": "pdf_037",
+    "title": "case-study-035",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-035/metadata.json",
+      "all_text": "documents/case-study-035/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-035/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-035/extracted/markdown/document.md"
+    }
+  },
+  "case-study-036": {
+    "doc_id": "pdf_009",
+    "title": "case-study-036",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-036/metadata.json",
+      "all_text": "documents/case-study-036/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-036/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-036/extracted/markdown/document.md"
+    }
+  },
+  "case-study-037": {
+    "doc_id": "pdf_039",
+    "title": "case-study-037",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-037/metadata.json",
+      "all_text": "documents/case-study-037/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-037/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-037/extracted/markdown/document.md"
+    }
+  },
+  "case-study-038": {
+    "doc_id": "pdf_040",
+    "title": "case-study-038",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-038/metadata.json",
+      "all_text": "documents/case-study-038/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-038/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-038/extracted/markdown/document.md"
+    }
+  },
+  "case-study-039": {
+    "doc_id": "pdf_041",
+    "title": "case-study-039",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-039/metadata.json",
+      "all_text": "documents/case-study-039/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-039/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-039/extracted/markdown/document.md"
+    }
+  },
+  "case-study-040": {
+    "doc_id": "pdf_042",
+    "title": "case-study-040",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-040/metadata.json",
+      "all_text": "documents/case-study-040/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-040/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-040/extracted/markdown/document.md"
+    }
+  },
+  "case-study-041": {
+    "doc_id": "pdf_043",
+    "title": "case-study-041",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-041/metadata.json",
+      "all_text": "documents/case-study-041/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-041/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-041/extracted/markdown/document.md"
+    }
+  },
+  "case-study-042": {
+    "doc_id": "pdf_044",
+    "title": "case-study-042",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-042/metadata.json",
+      "all_text": "documents/case-study-042/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-042/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-042/extracted/markdown/document.md"
+    }
+  },
+  "case-study-043": {
+    "doc_id": "pdf_045",
+    "title": "case-study-043",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-043/metadata.json",
+      "all_text": "documents/case-study-043/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-043/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-043/extracted/markdown/document.md"
+    }
+  },
+  "case-study-044": {
+    "doc_id": "pdf_046",
+    "title": "case-study-044",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-044/metadata.json",
+      "all_text": "documents/case-study-044/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-044/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-044/extracted/markdown/document.md"
+    }
+  },
+  "case-study-045": {
+    "doc_id": "pdf_120",
+    "title": "case-study-045",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-045/metadata.json",
+      "all_text": "documents/case-study-045/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-045/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-045/extracted/markdown/document.md"
+    }
+  },
+  "case-study-046": {
+    "doc_id": "pdf_047",
+    "title": "case-study-046",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-046/metadata.json",
+      "all_text": "documents/case-study-046/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-046/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-046/extracted/markdown/document.md"
+    }
+  },
+  "case-study-047": {
+    "doc_id": "pdf_048",
+    "title": "case-study-047",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-047/metadata.json",
+      "all_text": "documents/case-study-047/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-047/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-047/extracted/markdown/document.md"
+    }
+  },
+  "case-study-048": {
+    "doc_id": "pdf_049",
+    "title": "case-study-048",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-048/metadata.json",
+      "all_text": "documents/case-study-048/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-048/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-048/extracted/markdown/document.md"
+    }
+  },
+  "case-study-049": {
+    "doc_id": "pdf_050",
+    "title": "case-study-049",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-049/metadata.json",
+      "all_text": "documents/case-study-049/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-049/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-049/extracted/markdown/document.md"
+    }
+  },
+  "case-study-050": {
+    "doc_id": "pdf_051",
+    "title": "case-study-050",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-050/metadata.json",
+      "all_text": "documents/case-study-050/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-050/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-050/extracted/markdown/document.md"
+    }
+  },
+  "case-study-051": {
+    "doc_id": "pdf_052",
+    "title": "case-study-051",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-051/metadata.json",
+      "all_text": "documents/case-study-051/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-051/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-051/extracted/markdown/document.md"
+    }
+  },
+  "case-study-052": {
+    "doc_id": "pdf_053",
+    "title": "case-study-052",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-052/metadata.json",
+      "all_text": "documents/case-study-052/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-052/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-052/extracted/markdown/document.md"
+    }
+  },
+  "case-study-053": {
+    "doc_id": "pdf_054",
+    "title": "case-study-053",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-053/metadata.json",
+      "all_text": "documents/case-study-053/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-053/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-053/extracted/markdown/document.md"
+    }
+  },
+  "case-study-054": {
+    "doc_id": "pdf_055",
+    "title": "case-study-054",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-054/metadata.json",
+      "all_text": "documents/case-study-054/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-054/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-054/extracted/markdown/document.md"
+    }
+  },
+  "case-study-055": {
+    "doc_id": "pdf_056",
+    "title": "case-study-055",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-055/metadata.json",
+      "all_text": "documents/case-study-055/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-055/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-055/extracted/markdown/document.md"
+    }
+  },
+  "case-study-056": {
+    "doc_id": "pdf_057",
+    "title": "case-study-056",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-056/metadata.json",
+      "all_text": "documents/case-study-056/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-056/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-056/extracted/markdown/document.md"
+    }
+  },
+  "case-study-057": {
+    "doc_id": "pdf_058",
+    "title": "case-study-057",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-057/metadata.json",
+      "all_text": "documents/case-study-057/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-057/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-057/extracted/markdown/document.md"
+    }
+  },
+  "case-study-058": {
+    "doc_id": "pdf_121",
+    "title": "case-study-058",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-058/metadata.json",
+      "all_text": "documents/case-study-058/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-058/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-058/extracted/markdown/document.md"
+    }
+  },
+  "case-study-059": {
+    "doc_id": "pdf_060",
+    "title": "case-study-059",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-059/metadata.json",
+      "all_text": "documents/case-study-059/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-059/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-059/extracted/markdown/document.md"
+    }
+  },
+  "case-study-060": {
+    "doc_id": "pdf_059",
+    "title": "case-study-060",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-060/metadata.json",
+      "all_text": "documents/case-study-060/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-060/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-060/extracted/markdown/document.md"
+    }
+  },
+  "case-study-061": {
+    "doc_id": "pdf_061",
+    "title": "case-study-061",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-061/metadata.json",
+      "all_text": "documents/case-study-061/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-061/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-061/extracted/markdown/document.md"
+    }
+  },
+  "case-study-062": {
+    "doc_id": "pdf_062",
+    "title": "case-study-062",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-062/metadata.json",
+      "all_text": "documents/case-study-062/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-062/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-062/extracted/markdown/document.md"
+    }
+  },
+  "case-study-063": {
+    "doc_id": "pdf_064",
+    "title": "case-study-063",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-063/metadata.json",
+      "all_text": "documents/case-study-063/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-063/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-063/extracted/markdown/document.md"
+    }
+  },
+  "case-study-064": {
+    "doc_id": "pdf_065",
+    "title": "case-study-064",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-064/metadata.json",
+      "all_text": "documents/case-study-064/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-064/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-064/extracted/markdown/document.md"
+    }
+  },
+  "case-study-065": {
+    "doc_id": "pdf_066",
+    "title": "case-study-065",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-065/metadata.json",
+      "all_text": "documents/case-study-065/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-065/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-065/extracted/markdown/document.md"
+    }
+  },
+  "case-study-066": {
+    "doc_id": "pdf_067",
+    "title": "case-study-066",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-066/metadata.json",
+      "all_text": "documents/case-study-066/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-066/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-066/extracted/markdown/document.md"
+    }
+  },
+  "case-study-067": {
+    "doc_id": "pdf_068",
+    "title": "case-study-067",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-067/metadata.json",
+      "all_text": "documents/case-study-067/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-067/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-067/extracted/markdown/document.md"
+    }
+  },
+  "case-study-068": {
+    "doc_id": "pdf_063",
+    "title": "case-study-068",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-068/metadata.json",
+      "all_text": "documents/case-study-068/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-068/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-068/extracted/markdown/document.md"
+    }
+  },
+  "case-study-069": {
+    "doc_id": "pdf_069",
+    "title": "case-study-069",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-069/metadata.json",
+      "all_text": "documents/case-study-069/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-069/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-069/extracted/markdown/document.md"
+    }
+  },
+  "case-study-070": {
+    "doc_id": "pdf_070",
+    "title": "case-study-070",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-070/metadata.json",
+      "all_text": "documents/case-study-070/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-070/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-070/extracted/markdown/document.md"
+    }
+  },
+  "case-study-071": {
+    "doc_id": "pdf_071",
+    "title": "case-study-071",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-071/metadata.json",
+      "all_text": "documents/case-study-071/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-071/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-071/extracted/markdown/document.md"
+    }
+  },
+  "case-study-072": {
+    "doc_id": "pdf_074",
+    "title": "case-study-072",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-072/metadata.json",
+      "all_text": "documents/case-study-072/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-072/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-072/extracted/markdown/document.md"
+    }
+  },
+  "case-study-073": {
+    "doc_id": "pdf_075",
+    "title": "case-study-073",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-073/metadata.json",
+      "all_text": "documents/case-study-073/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-073/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-073/extracted/markdown/document.md"
+    }
+  },
+  "case-study-074": {
+    "doc_id": "pdf_076",
+    "title": "case-study-074",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-074/metadata.json",
+      "all_text": "documents/case-study-074/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-074/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-074/extracted/markdown/document.md"
+    }
+  },
+  "case-study-075": {
+    "doc_id": "pdf_077",
+    "title": "case-study-075",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-075/metadata.json",
+      "all_text": "documents/case-study-075/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-075/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-075/extracted/markdown/document.md"
+    }
+  },
+  "case-study-076": {
+    "doc_id": "pdf_078",
+    "title": "case-study-076",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-076/metadata.json",
+      "all_text": "documents/case-study-076/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-076/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-076/extracted/markdown/document.md"
+    }
+  },
+  "case-study-077": {
+    "doc_id": "pdf_079",
+    "title": "case-study-077",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-077/metadata.json",
+      "all_text": "documents/case-study-077/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-077/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-077/extracted/markdown/document.md"
+    }
+  },
+  "case-study-078": {
+    "doc_id": "pdf_072",
+    "title": "case-study-078",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-078/metadata.json",
+      "all_text": "documents/case-study-078/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-078/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-078/extracted/markdown/document.md"
+    }
+  },
+  "case-study-079": {
+    "doc_id": "pdf_073",
+    "title": "case-study-079",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-079/metadata.json",
+      "all_text": "documents/case-study-079/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-079/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-079/extracted/markdown/document.md"
+    }
+  },
+  "case-study-080": {
+    "doc_id": "pdf_080",
+    "title": "case-study-080",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-080/metadata.json",
+      "all_text": "documents/case-study-080/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-080/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-080/extracted/markdown/document.md"
+    }
+  },
+  "case-study-081": {
+    "doc_id": "pdf_082",
+    "title": "case-study-081",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-081/metadata.json",
+      "all_text": "documents/case-study-081/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-081/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-081/extracted/markdown/document.md"
+    }
+  },
+  "case-study-082": {
+    "doc_id": "pdf_083",
+    "title": "case-study-082",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-082/metadata.json",
+      "all_text": "documents/case-study-082/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-082/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-082/extracted/markdown/document.md"
+    }
+  },
+  "case-study-083": {
+    "doc_id": "pdf_084",
+    "title": "case-study-083",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-083/metadata.json",
+      "all_text": "documents/case-study-083/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-083/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-083/extracted/markdown/document.md"
+    }
+  },
+  "case-study-084": {
+    "doc_id": "pdf_122",
+    "title": "case-study-084",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-084/metadata.json",
+      "all_text": "documents/case-study-084/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-084/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-084/extracted/markdown/document.md"
+    }
+  },
+  "case-study-085": {
+    "doc_id": "pdf_081",
+    "title": "case-study-085",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-085/metadata.json",
+      "all_text": "documents/case-study-085/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-085/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-085/extracted/markdown/document.md"
+    }
+  },
+  "case-study-086": {
+    "doc_id": "pdf_010",
+    "title": "case-study-086",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-086/metadata.json",
+      "all_text": "documents/case-study-086/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-086/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-086/extracted/markdown/document.md"
+    }
+  },
+  "case-study-087": {
+    "doc_id": "pdf_085",
+    "title": "case-study-087",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-087/metadata.json",
+      "all_text": "documents/case-study-087/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-087/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-087/extracted/markdown/document.md"
+    }
+  },
+  "case-study-088": {
+    "doc_id": "pdf_087",
+    "title": "case-study-088",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-088/metadata.json",
+      "all_text": "documents/case-study-088/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-088/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-088/extracted/markdown/document.md"
+    }
+  },
+  "case-study-089": {
+    "doc_id": "pdf_088",
+    "title": "case-study-089",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-089/metadata.json",
+      "all_text": "documents/case-study-089/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-089/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-089/extracted/markdown/document.md"
+    }
+  },
+  "case-study-090": {
+    "doc_id": "pdf_086",
+    "title": "case-study-090",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-090/metadata.json",
+      "all_text": "documents/case-study-090/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-090/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-090/extracted/markdown/document.md"
+    }
+  },
+  "case-study-091": {
+    "doc_id": "pdf_090",
+    "title": "case-study-091",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-091/metadata.json",
+      "all_text": "documents/case-study-091/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-091/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-091/extracted/markdown/document.md"
+    }
+  },
+  "case-study-092": {
+    "doc_id": "pdf_089",
+    "title": "case-study-092",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-092/metadata.json",
+      "all_text": "documents/case-study-092/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-092/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-092/extracted/markdown/document.md"
+    }
+  },
+  "case-study-093": {
+    "doc_id": "pdf_092",
+    "title": "case-study-093",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-093/metadata.json",
+      "all_text": "documents/case-study-093/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-093/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-093/extracted/markdown/document.md"
+    }
+  },
+  "case-study-094": {
+    "doc_id": "pdf_093",
+    "title": "case-study-094",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-094/metadata.json",
+      "all_text": "documents/case-study-094/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-094/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-094/extracted/markdown/document.md"
+    }
+  },
+  "case-study-095": {
+    "doc_id": "pdf_091",
+    "title": "case-study-095",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-095/metadata.json",
+      "all_text": "documents/case-study-095/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-095/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-095/extracted/markdown/document.md"
+    }
+  },
+  "case-study-096": {
+    "doc_id": "pdf_094",
+    "title": "case-study-096",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-096/metadata.json",
+      "all_text": "documents/case-study-096/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-096/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-096/extracted/markdown/document.md"
+    }
+  },
+  "case-study-097": {
+    "doc_id": "pdf_095",
+    "title": "case-study-097",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-097/metadata.json",
+      "all_text": "documents/case-study-097/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-097/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-097/extracted/markdown/document.md"
+    }
+  },
+  "case-study-098": {
+    "doc_id": "pdf_096",
+    "title": "case-study-098",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-098/metadata.json",
+      "all_text": "documents/case-study-098/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-098/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-098/extracted/markdown/document.md"
+    }
+  },
+  "case-study-099": {
+    "doc_id": "pdf_097",
+    "title": "case-study-099",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-099/metadata.json",
+      "all_text": "documents/case-study-099/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-099/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-099/extracted/markdown/document.md"
+    }
+  },
+  "case-study-100": {
+    "doc_id": "pdf_098",
+    "title": "case-study-100",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-100/metadata.json",
+      "all_text": "documents/case-study-100/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-100/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-100/extracted/markdown/document.md"
+    }
+  },
+  "case-study-101": {
+    "doc_id": "pdf_099",
+    "title": "case-study-101",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-101/metadata.json",
+      "all_text": "documents/case-study-101/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-101/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-101/extracted/markdown/document.md"
+    }
+  },
+  "case-study-102": {
+    "doc_id": "pdf_100",
+    "title": "case-study-102",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-102/metadata.json",
+      "all_text": "documents/case-study-102/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-102/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-102/extracted/markdown/document.md"
+    }
+  },
+  "case-study-103": {
+    "doc_id": "pdf_102",
+    "title": "case-study-103",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-103/metadata.json",
+      "all_text": "documents/case-study-103/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-103/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-103/extracted/markdown/document.md"
+    }
+  },
+  "case-study-104": {
+    "doc_id": "pdf_011",
+    "title": "case-study-104",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-104/metadata.json",
+      "all_text": "documents/case-study-104/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-104/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-104/extracted/markdown/document.md"
+    }
+  },
+  "case-study-105": {
+    "doc_id": "pdf_123",
+    "title": "case-study-105",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-105/metadata.json",
+      "all_text": "documents/case-study-105/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-105/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-105/extracted/markdown/document.md"
+    }
+  },
+  "case-study-106": {
+    "doc_id": "pdf_101",
+    "title": "case-study-106",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-106/metadata.json",
+      "all_text": "documents/case-study-106/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-106/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-106/extracted/markdown/document.md"
+    }
+  },
+  "case-study-107": {
+    "doc_id": "pdf_103",
+    "title": "case-study-107",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-107/metadata.json",
+      "all_text": "documents/case-study-107/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-107/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-107/extracted/markdown/document.md"
+    }
+  },
+  "case-study-108": {
+    "doc_id": "pdf_106",
+    "title": "case-study-108",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-108/metadata.json",
+      "all_text": "documents/case-study-108/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-108/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-108/extracted/markdown/document.md"
+    }
+  },
+  "case-study-109": {
+    "doc_id": "pdf_105",
+    "title": "case-study-109",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-109/metadata.json",
+      "all_text": "documents/case-study-109/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-109/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-109/extracted/markdown/document.md"
+    }
+  },
+  "case-study-110": {
+    "doc_id": "pdf_107",
+    "title": "case-study-110",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-110/metadata.json",
+      "all_text": "documents/case-study-110/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-110/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-110/extracted/markdown/document.md"
+    }
+  },
+  "case-study-111": {
+    "doc_id": "pdf_108",
+    "title": "case-study-111",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-111/metadata.json",
+      "all_text": "documents/case-study-111/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-111/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-111/extracted/markdown/document.md"
+    }
+  },
+  "case-study-112": {
+    "doc_id": "pdf_104",
+    "title": "case-study-112",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-112/metadata.json",
+      "all_text": "documents/case-study-112/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-112/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-112/extracted/markdown/document.md"
+    }
+  },
+  "case-study-113": {
+    "doc_id": "pdf_109",
+    "title": "case-study-113",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-113/metadata.json",
+      "all_text": "documents/case-study-113/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-113/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-113/extracted/markdown/document.md"
+    }
+  },
+  "case-study-114": {
+    "doc_id": "pdf_110",
+    "title": "case-study-114",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-114/metadata.json",
+      "all_text": "documents/case-study-114/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-114/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-114/extracted/markdown/document.md"
+    }
+  },
+  "case-study-115": {
+    "doc_id": "pdf_124",
+    "title": "case-study-115",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-115/metadata.json",
+      "all_text": "documents/case-study-115/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-115/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-115/extracted/markdown/document.md"
+    }
+  },
+  "case-study-116": {
+    "doc_id": "pdf_111",
+    "title": "case-study-116",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-116/metadata.json",
+      "all_text": "documents/case-study-116/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-116/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-116/extracted/markdown/document.md"
+    }
+  },
+  "case-study-117": {
+    "doc_id": "pdf_113",
+    "title": "case-study-117",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-117/metadata.json",
+      "all_text": "documents/case-study-117/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-117/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-117/extracted/markdown/document.md"
+    }
+  },
+  "case-study-118": {
+    "doc_id": "pdf_114",
+    "title": "case-study-118",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-118/metadata.json",
+      "all_text": "documents/case-study-118/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-118/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-118/extracted/markdown/document.md"
+    }
+  },
+  "case-study-119": {
+    "doc_id": "pdf_112",
+    "title": "case-study-119",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-119/metadata.json",
+      "all_text": "documents/case-study-119/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-119/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-119/extracted/markdown/document.md"
+    }
+  },
+  "case-study-120": {
+    "doc_id": "pdf_116",
+    "title": "case-study-120",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-120/metadata.json",
+      "all_text": "documents/case-study-120/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-120/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-120/extracted/markdown/document.md"
+    }
+  },
+  "case-study-121": {
+    "doc_id": "pdf_117",
+    "title": "case-study-121",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-121/metadata.json",
+      "all_text": "documents/case-study-121/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-121/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-121/extracted/markdown/document.md"
+    }
+  },
+  "case-study-122": {
+    "doc_id": "pdf_115",
+    "title": "case-study-122",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-122/metadata.json",
+      "all_text": "documents/case-study-122/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-122/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-122/extracted/markdown/document.md"
+    }
+  },
+  "case-study-123": {
+    "doc_id": "pdf_118",
+    "title": "case-study-123",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-123/metadata.json",
+      "all_text": "documents/case-study-123/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-123/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-123/extracted/markdown/document.md"
+    }
+  },
+  "case-study-124": {
+    "doc_id": "pdf_119",
+    "title": "case-study-124",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/case-study-124/metadata.json",
+      "all_text": "documents/case-study-124/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-124/dataset/chunks-0000.jsonl",
+      "markdown": "documents/case-study-124/extracted/markdown/document.md"
+    }
+  },
+  "certificate-of-analysis": {
+    "doc_id": "dataroom_013",
+    "title": "Certificate of Analysis - Texas Oiltech",
+    "category": "safety",
+    "doc_type": "certification",
+    "pages": 9,
+    "files": {
+      "metadata": "documents/certificate-of-analysis/metadata.json",
+      "all_text": "documents/certificate-of-analysis/dataset/ALL_TEXT.txt",
+      "chunks": "documents/certificate-of-analysis/dataset/chunks-0000.jsonl",
+      "markdown": "documents/certificate-of-analysis/extracted/markdown/document.md"
+    }
+  },
+  "certificate-of-insurance": {
+    "doc_id": "dataroom_015",
+    "title": "Certificate of Insurance",
+    "category": "safety",
+    "doc_type": "insurance",
+    "pages": 1,
+    "files": {
+      "metadata": "documents/certificate-of-insurance/metadata.json",
+      "all_text": "documents/certificate-of-insurance/dataset/ALL_TEXT.txt",
+      "chunks": "documents/certificate-of-insurance/dataset/chunks-0000.jsonl",
+      "markdown": "documents/certificate-of-insurance/extracted/markdown/document.md"
+    }
+  },
+  "chiller-installation-instructions": {
+    "doc_id": "dataroom_009",
+    "title": "Chiller Installation Instructions",
+    "category": "operations",
+    "doc_type": "installation-manual",
+    "pages": 3,
+    "files": {
+      "metadata": "documents/chiller-installation-instructions/metadata.json",
+      "all_text": "documents/chiller-installation-instructions/dataset/ALL_TEXT.txt",
+      "chunks": "documents/chiller-installation-instructions/dataset/chunks-0000.jsonl",
+      "markdown": "documents/chiller-installation-instructions/extracted/markdown/document.md"
+    }
+  },
+  "Major Global Bank A-longevity-study": {
+    "doc_id": "dataroom_022",
+    "title": "Major Global Bank A 6-Year Longevity Study",
+    "category": "longevity-study",
+    "doc_type": "case-study",
+    "pages": 9,
+    "files": {
+      "metadata": "documents/Major Global Bank A-longevity-study/metadata.json",
+      "all_text": "documents/Major Global Bank A-longevity-study/dataset/ALL_TEXT.txt",
+      "chunks": "documents/Major Global Bank A-longevity-study/dataset/chunks-0000.jsonl",
+      "markdown": "documents/Major Global Bank A-longevity-study/extracted/markdown/document.md"
+    }
+  },
+  "defense-agency-a-test": {
+    "doc_id": "dataroom_027",
+    "title": "Defense Agency A Test Install",
+    "category": "government-validation",
+    "doc_type": "case-study",
+    "pages": 3,
+    "files": {
+      "metadata": "documents/defense-agency-a-test/metadata.json",
+      "all_text": "documents/defense-agency-a-test/dataset/ALL_TEXT.txt",
+      "chunks": "documents/defense-agency-a-test/dataset/chunks-0000.jsonl",
+      "markdown": "documents/defense-agency-a-test/extracted/markdown/document.md"
+    }
+  },
+  "dx-installation-instructions": {
+    "doc_id": "dataroom_010",
+    "title": "DX System Installation Instructions",
+    "category": "operations",
+    "doc_type": "installation-manual",
+    "pages": 3,
+    "files": {
+      "metadata": "documents/dx-installation-instructions/metadata.json",
+      "all_text": "documents/dx-installation-instructions/dataset/ALL_TEXT.txt",
+      "chunks": "documents/dx-installation-instructions/dataset/chunks-0000.jsonl",
+      "markdown": "documents/dx-installation-instructions/extracted/markdown/document.md"
+    }
+  },
+  "military-base-b-demonstration": {
+    "doc_id": "dataroom_028",
+    "title": "EMIP Demonstration - Military Base B",
+    "category": "government-validation",
+    "doc_type": "case-study",
+    "pages": 13,
+    "files": {
+      "metadata": "documents/military-base-b-demonstration/metadata.json",
+      "all_text": "documents/military-base-b-demonstration/dataset/ALL_TEXT.txt",
+      "chunks": "documents/military-base-b-demonstration/dataset/chunks-0000.jsonl",
+      "markdown": "documents/military-base-b-demonstration/extracted/markdown/document.md"
+    }
+  },
+  "f2-fmv-platform-deck": {
+    "doc_id": "dataroom_017",
+    "title": "F2 FMV IoT Platform Documentation",
+    "category": "technical",
+    "doc_type": "platform-documentation",
+    "pages": 7,
+    "files": {
+      "metadata": "documents/f2-fmv-platform-deck/metadata.json",
+      "all_text": "documents/f2-fmv-platform-deck/dataset/ALL_TEXT.txt",
+      "chunks": "documents/f2-fmv-platform-deck/dataset/chunks-0000.jsonl",
+      "markdown": "documents/f2-fmv-platform-deck/extracted/markdown/document.md"
+    }
+  },
+  "fau-academic-validation-report": {
+    "doc_id": "dataroom_018",
+    "title": "Florida Atlantic University PermaFrost NMR ECM Evaluation",
+    "category": "lab-report",
+    "doc_type": "academic-research",
+    "pages": 225,
+    "files": {
+      "metadata": "documents/fau-academic-validation-report/metadata.json",
+      "all_text": "documents/fau-academic-validation-report/dataset/ALL_TEXT.txt",
+      "chunks": "documents/fau-academic-validation-report/dataset/chunks-0000.jsonl",
+      "markdown": "documents/fau-academic-validation-report/extracted/markdown/document.md"
+    }
+  },
+  "financial-fact-sheet": {
+    "doc_id": "dataroom_001",
+    "title": "Financial Fact Sheet - Pricing and ROI",
+    "category": "executive",
+    "doc_type": "fact-sheet",
+    "pages": 2,
+    "files": {
+      "metadata": "documents/financial-fact-sheet/metadata.json",
+      "all_text": "documents/financial-fact-sheet/dataset/ALL_TEXT.txt",
+      "chunks": "documents/financial-fact-sheet/dataset/chunks-0000.jsonl",
+      "markdown": "documents/financial-fact-sheet/extracted/markdown/document.md"
+    }
+  },
+  "installation-guide": {
+    "doc_id": "dataroom_011",
+    "title": "PermaFrost NMR Installation Guide",
+    "category": "operations",
+    "doc_type": "installation-manual",
+    "pages": 1,
+    "files": {
+      "metadata": "documents/installation-guide/metadata.json",
+      "all_text": "documents/installation-guide/dataset/ALL_TEXT.txt",
+      "chunks": "documents/installation-guide/dataset/chunks-0000.jsonl",
+      "markdown": "documents/installation-guide/extracted/markdown/document.md"
+    }
+  },
+  "mbe-certification": {
+    "doc_id": "dataroom_004",
+    "title": "Minority Business Enterprise Certification",
+    "category": "executive",
+    "doc_type": "certification",
+    "pages": 1,
+    "files": {
+      "metadata": "documents/mbe-certification/metadata.json",
+      "all_text": "documents/mbe-certification/dataset/ALL_TEXT.txt",
+      "chunks": "documents/mbe-certification/dataset/chunks-0000.jsonl",
+      "markdown": "documents/mbe-certification/extracted/markdown/document.md"
+    }
+  },
+  "nmr-technology-fact-sheet": {
+    "doc_id": "dataroom_005",
+    "title": "PermaFrost NMR Technology Fact Sheet",
+    "category": "executive",
+    "doc_type": "fact-sheet",
+    "pages": 2,
+    "files": {
+      "metadata": "documents/nmr-technology-fact-sheet/metadata.json",
+      "all_text": "documents/nmr-technology-fact-sheet/dataset/ALL_TEXT.txt",
+      "chunks": "documents/nmr-technology-fact-sheet/dataset/chunks-0000.jsonl",
+      "markdown": "documents/nmr-technology-fact-sheet/extracted/markdown/document.md"
+    }
+  },
+  "ny-city-chiller-study": {
+    "doc_id": "dataroom_002",
+    "title": "New York City Chiller Case Study",
+    "category": "case-study",
+    "doc_type": "case-study",
+    "pages": 9,
+    "files": {
+      "metadata": "documents/ny-city-chiller-study/metadata.json",
+      "all_text": "documents/ny-city-chiller-study/dataset/ALL_TEXT.txt",
+      "chunks": "documents/ny-city-chiller-study/dataset/chunks-0000.jsonl",
+      "markdown": "documents/ny-city-chiller-study/extracted/markdown/document.md"
+    }
+  },
+  "permafrost-measurement-database": {
+    "doc_id": "permafrost-measurement-database",
+    "title": "PermaFrost NMR Measurement Database",
+    "category": "case-study",
+    "doc_type": "document",
+    "pages": 0,
+    "files": {
+      "metadata": "documents/permafrost-measurement-database/metadata.json",
+      "all_text": "documents/permafrost-measurement-database/dataset/ALL_TEXT.txt",
+      "chunks": "documents/permafrost-measurement-database/dataset/chunks-0000.jsonl",
+      "markdown": "documents/permafrost-measurement-database/extracted/markdown/document.md"
+    }
+  },
+  "powertron-overview-deck": {
+    "doc_id": "dataroom_007",
+    "title": "Powertron Global Overview Presentation",
+    "category": "executive",
+    "doc_type": "presentation",
+    "pages": 12,
+    "files": {
+      "metadata": "documents/powertron-overview-deck/metadata.json",
+      "all_text": "documents/powertron-overview-deck/dataset/ALL_TEXT.txt",
+      "chunks": "documents/powertron-overview-deck/dataset/chunks-0000.jsonl",
+      "markdown": "documents/powertron-overview-deck/extracted/markdown/document.md"
+    }
+  },
+  "product-longevity-overview": {
+    "doc_id": "dataroom_023",
+    "title": "Product Longevity Overview",
+    "category": "longevity-study",
+    "doc_type": "technical-overview",
+    "pages": 1,
+    "files": {
+      "metadata": "documents/product-longevity-overview/metadata.json",
+      "all_text": "documents/product-longevity-overview/dataset/ALL_TEXT.txt",
+      "chunks": "documents/product-longevity-overview/dataset/chunks-0000.jsonl",
+      "markdown": "documents/product-longevity-overview/extracted/markdown/document.md"
+    }
+  },
+  "restaurant-chain-a-longevity-study": {
+    "doc_id": "dataroom_024",
+    "title": "Restaurant Chain A 2-Year Longevity Study",
+    "category": "longevity-study",
+    "doc_type": "case-study",
+    "pages": 15,
+    "files": {
+      "metadata": "documents/restaurant-chain-a-longevity-study/metadata.json",
+      "all_text": "documents/restaurant-chain-a-longevity-study/dataset/ALL_TEXT.txt",
+      "chunks": "documents/restaurant-chain-a-longevity-study/dataset/chunks-0000.jsonl",
+      "markdown": "documents/restaurant-chain-a-longevity-study/extracted/markdown/document.md"
+    }
+  },
+  "sa-retail-dx-study": {
+    "doc_id": "dataroom_003",
+    "title": "South Africa Retail DX Case Study",
+    "category": "case-study",
+    "doc_type": "case-study",
+    "pages": 164,
+    "files": {
+      "metadata": "documents/sa-retail-dx-study/metadata.json",
+      "all_text": "documents/sa-retail-dx-study/dataset/ALL_TEXT.txt",
+      "chunks": "documents/sa-retail-dx-study/dataset/chunks-0000.jsonl",
+      "markdown": "documents/sa-retail-dx-study/extracted/markdown/document.md"
+    }
+  },
+  "safety-data-sheet": {
+    "doc_id": "dataroom_012",
+    "title": "PermaFrost NMR Safety Data Sheet (16-Section)",
+    "category": "safety",
+    "doc_type": "sds",
+    "pages": 14,
+    "files": {
+      "metadata": "documents/safety-data-sheet/metadata.json",
+      "all_text": "documents/safety-data-sheet/dataset/ALL_TEXT.txt",
+      "chunks": "documents/safety-data-sheet/dataset/chunks-0000.jsonl",
+      "markdown": "documents/safety-data-sheet/extracted/markdown/document.md"
+    }
+  },
+  "sustainability-fact-sheet": {
+    "doc_id": "dataroom_008",
+    "title": "Sustainability Fact Sheet",
+    "category": "executive",
+    "doc_type": "fact-sheet",
+    "pages": 2,
+    "files": {
+      "metadata": "documents/sustainability-fact-sheet/metadata.json",
+      "all_text": "documents/sustainability-fact-sheet/dataset/ALL_TEXT.txt",
+      "chunks": "documents/sustainability-fact-sheet/dataset/chunks-0000.jsonl",
+      "markdown": "documents/sustainability-fact-sheet/extracted/markdown/document.md"
+    }
+  },
+  "major-bank-b-ul-verified-study": {
+    "doc_id": "dataroom_019",
+    "title": "Major Bank B Comprehensive Energy Efficiency Study - UL Verified",
+    "category": "lab-report",
+    "doc_type": "ul-verified-methodology",
+    "pages": 12,
+    "files": {
+      "metadata": "documents/major-bank-b-ul-verified-study/metadata.json",
+      "all_text": "documents/major-bank-b-ul-verified-study/dataset/ALL_TEXT.txt",
+      "chunks": "documents/major-bank-b-ul-verified-study/dataset/chunks-0000.jsonl",
+      "markdown": "documents/major-bank-b-ul-verified-study/extracted/markdown/document.md"
+    }
+  },
+  "third-party-mv-report": {
+    "doc_id": "dataroom_016",
+    "title": "Third-Party M&V Report",
+    "category": "lab-report",
+    "doc_type": "verification",
+    "pages": 1,
+    "files": {
+      "metadata": "documents/third-party-mv-report/metadata.json",
+      "all_text": "documents/third-party-mv-report/dataset/ALL_TEXT.txt",
+      "chunks": "documents/third-party-mv-report/dataset/chunks-0000.jsonl",
+      "markdown": "documents/third-party-mv-report/extracted/markdown/document.md"
+    }
+  },
+  "ul-lab-report-2015": {
+    "doc_id": "dataroom_020",
+    "title": "Underwriters Laboratories Test Report",
+    "category": "lab-report",
+    "doc_type": "lab-certification",
+    "pages": 9,
+    "files": {
+      "metadata": "documents/ul-lab-report-2015/metadata.json",
+      "all_text": "documents/ul-lab-report-2015/dataset/ALL_TEXT.txt",
+      "chunks": "documents/ul-lab-report-2015/dataset/chunks-0000.jsonl",
+      "markdown": "documents/ul-lab-report-2015/extracted/markdown/document.md"
+    }
+  },
+  "ul-verified-analytics": {
+    "doc_id": "dataroom_021",
+    "title": "UL Verified Analytics Report",
+    "category": "lab-report",
+    "doc_type": "methodology-certification",
+    "pages": 1,
+    "files": {
+      "metadata": "documents/ul-verified-analytics/metadata.json",
+      "all_text": "documents/ul-verified-analytics/dataset/ALL_TEXT.txt",
+      "chunks": "documents/ul-verified-analytics/dataset/chunks-0000.jsonl",
+      "markdown": "documents/ul-verified-analytics/extracted/markdown/document.md"
+    }
+  },
+  "warranties-insurance": {
+    "doc_id": "dataroom_014",
+    "title": "Warranties and Insurance Documentation",
+    "category": "safety",
+    "doc_type": "warranty",
+    "pages": 1,
+    "files": {
+      "metadata": "documents/warranties-insurance/metadata.json",
+      "all_text": "documents/warranties-insurance/dataset/ALL_TEXT.txt",
+      "chunks": "documents/warranties-insurance/dataset/chunks-0000.jsonl",
+      "markdown": "documents/warranties-insurance/extracted/markdown/document.md"
+    }
+  },
+  "QSR Chain A-longevity-study": {
+    "doc_id": "dataroom_025",
+    "title": "QSR Chain A 2-Year Energy Study",
+    "category": "longevity-study",
+    "doc_type": "case-study",
+    "pages": 8,
+    "files": {
+      "metadata": "documents/QSR Chain A-longevity-study/metadata.json",
+      "all_text": "documents/QSR Chain A-longevity-study/dataset/ALL_TEXT.txt",
+      "chunks": "documents/QSR Chain A-longevity-study/dataset/chunks-0000.jsonl",
+      "markdown": "documents/QSR Chain A-longevity-study/extracted/markdown/document.md"
+    }
+  },
+  "major-telecom-e-meter-597-thermal": {
+    "doc_id": "tabular_001",
+    "title": "Major Telecom E Meter 597 Thermal Study",
+    "category": "tabular-study",
+    "doc_type": "thermal-analysis",
+    "data_rows": 114594,
+    "files": {
+      "metadata": "documents/major-telecom-e-meter-597-thermal/metadata.json",
+      "all_text": "documents/major-telecom-e-meter-597-thermal/dataset/ALL_TEXT.txt",
+      "chunks": "documents/major-telecom-e-meter-597-thermal/dataset/chunks-0000.jsonl",
+      "measurements": "documents/major-telecom-e-meter-597-thermal/dataset/measurements.json"
+    }
+  },
+  "major-telecom-e-meter-598-thermal": {
+    "doc_id": "tabular_002",
+    "title": "Major Telecom E Meter 598 Thermal Study",
+    "category": "tabular-study",
+    "doc_type": "thermal-analysis",
+    "data_rows": 19320,
+    "files": {
+      "metadata": "documents/major-telecom-e-meter-598-thermal/metadata.json",
+      "all_text": "documents/major-telecom-e-meter-598-thermal/dataset/ALL_TEXT.txt",
+      "chunks": "documents/major-telecom-e-meter-598-thermal/dataset/chunks-0000.jsonl",
+      "measurements": "documents/major-telecom-e-meter-598-thermal/dataset/measurements.json"
+    }
+  },
+  "major-telecom-e-meter-467": {
+    "doc_id": "tabular_003",
+    "title": "Major Telecom E Meter 467 Study",
+    "category": "tabular-study",
+    "doc_type": "thermal-analysis",
+    "data_rows": 40159,
+    "files": {
+      "metadata": "documents/major-telecom-e-meter-467/metadata.json",
+      "all_text": "documents/major-telecom-e-meter-467/dataset/ALL_TEXT.txt",
+      "chunks": "documents/major-telecom-e-meter-467/dataset/chunks-0000.jsonl",
+      "measurements": "documents/major-telecom-e-meter-467/dataset/measurements.json"
+    }
+  },
+  "major-telecom-e-meter-597-lift": {
+    "doc_id": "tabular_004",
+    "title": "Major Telecom E Meter 597 Compressor Lift Study",
+    "category": "tabular-study",
+    "doc_type": "lift-analysis",
+    "data_rows": 5614,
+    "files": {
+      "metadata": "documents/major-telecom-e-meter-597-lift/metadata.json",
+      "all_text": "documents/major-telecom-e-meter-597-lift/dataset/ALL_TEXT.txt",
+      "chunks": "documents/major-telecom-e-meter-597-lift/dataset/chunks-0000.jsonl",
+      "measurements": "documents/major-telecom-e-meter-597-lift/dataset/measurements.json"
+    }
+  },
+  "major-telecom-e-meter-502": {
+    "doc_id": "tabular_005",
+    "title": "Major Telecom E Meter 502 Costa Mesa FMV Study",
+    "category": "tabular-study",
+    "doc_type": "fmv-analysis",
+    "data_rows": 134570,
+    "files": {
+      "metadata": "documents/major-telecom-e-meter-502/metadata.json",
+      "all_text": "documents/major-telecom-e-meter-502/dataset/ALL_TEXT.txt",
+      "chunks": "documents/major-telecom-e-meter-502/dataset/chunks-0000.jsonl",
+      "measurements": "documents/major-telecom-e-meter-502/dataset/measurements.json"
+    }
+  },
+  "major-telecom-e-meter-526": {
+    "doc_id": "tabular_006",
+    "title": "Major Telecom E Meter 526 Murrieta FMV Study",
+    "category": "tabular-study",
+    "doc_type": "fmv-analysis",
+    "data_rows": 67547,
+    "files": {
+      "metadata": "documents/major-telecom-e-meter-526/metadata.json",
+      "all_text": "documents/major-telecom-e-meter-526/dataset/ALL_TEXT.txt",
+      "chunks": "documents/major-telecom-e-meter-526/dataset/chunks-0000.jsonl",
+      "measurements": "documents/major-telecom-e-meter-526/dataset/measurements.json"
+    }
+  },
+  "major-telecom-e-houston-1yr-review": {
+    "doc_id": "tabular_007",
+    "title": "Major Telecom E Houston 1-Year Longevity Review",
+    "category": "longevity-study",
+    "doc_type": "longevity-analysis",
+    "data_rows": 1316834,
+    "files": {
+      "metadata": "documents/major-telecom-e-houston-1yr-review/metadata.json",
+      "all_text": "documents/major-telecom-e-houston-1yr-review/dataset/ALL_TEXT.txt",
+      "chunks": "documents/major-telecom-e-houston-1yr-review/dataset/chunks-0000.jsonl",
+      "measurements": "documents/major-telecom-e-houston-1yr-review/dataset/measurements.json"
+    }
+  },
+  "major-telecom-e-houston-10-site": {
+    "doc_id": "tabular_008",
+    "title": "Major Telecom E Houston 10-Site Confirmatory Test",
+    "category": "tabular-study",
+    "doc_type": "multi-site-analysis",
+    "data_rows": 1499007,
+    "files": {
+      "metadata": "documents/major-telecom-e-houston-10-site/metadata.json",
+      "all_text": "documents/major-telecom-e-houston-10-site/dataset/ALL_TEXT.txt",
+      "chunks": "documents/major-telecom-e-houston-10-site/dataset/chunks-0000.jsonl",
+      "measurements": "documents/major-telecom-e-houston-10-site/dataset/measurements.json"
+    }
+  },
+  "major-telecom-e-meter-597-kwh": {
+    "doc_id": "tabular_009",
+    "title": "Major Telecom E Meter 597 kWh Energy Study",
+    "category": "tabular-study",
+    "doc_type": "kwh-analysis",
+    "data_rows": 254427,
+    "files": {
+      "metadata": "documents/major-telecom-e-meter-597-kwh/metadata.json",
+      "all_text": "documents/major-telecom-e-meter-597-kwh/dataset/ALL_TEXT.txt",
+      "chunks": "documents/major-telecom-e-meter-597-kwh/dataset/chunks-0000.jsonl",
+      "measurements": "documents/major-telecom-e-meter-597-kwh/dataset/measurements.json"
+    }
+  },
+  "major-telecom-e-meter-598-kwh": {
+    "doc_id": "tabular_010",
+    "title": "Major Telecom E Meter 598 kWh Energy Study",
+    "category": "tabular-study",
+    "doc_type": "kwh-analysis",
+    "data_rows": 320712,
+    "files": {
+      "metadata": "documents/major-telecom-e-meter-598-kwh/metadata.json",
+      "all_text": "documents/major-telecom-e-meter-598-kwh/dataset/ALL_TEXT.txt",
+      "chunks": "documents/major-telecom-e-meter-598-kwh/dataset/chunks-0000.jsonl",
+      "measurements": "documents/major-telecom-e-meter-598-kwh/dataset/measurements.json"
+    }
+  },
+  "major-telecom-e-meter-623-kwh": {
+    "doc_id": "tabular_011",
+    "title": "Major Telecom E Meter 623 kWh Energy Study",
+    "category": "tabular-study",
+    "doc_type": "kwh-analysis",
+    "data_rows": 68973,
+    "files": {
+      "metadata": "documents/major-telecom-e-meter-623-kwh/metadata.json",
+      "all_text": "documents/major-telecom-e-meter-623-kwh/dataset/ALL_TEXT.txt",
+      "chunks": "documents/major-telecom-e-meter-623-kwh/dataset/chunks-0000.jsonl",
+      "measurements": "documents/major-telecom-e-meter-623-kwh/dataset/measurements.json"
+    }
+  },
+  "case-study-135": {
+    "title": "Entertainment Venue A M&V Report",
+    "category": "engineering_analysis",
+    "paths": {
+      "metadata": "documents/case-study-135/metadata.json",
+      "all_text": "documents/case-study-135/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-135/dataset/chunks-0000.jsonl"
+    }
+  },
+  "case-study-136": {
+    "title": "Major Telecom F Critical Facility M&V Report",
+    "category": "engineering_analysis",
+    "paths": {
+      "metadata": "documents/case-study-136/metadata.json",
+      "all_text": "documents/case-study-136/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-136/dataset/chunks-0000.jsonl"
+    }
+  },
+  "case-study-137": {
+    "title": "Cultural Institution A Visitor Center M&V Report",
+    "category": "engineering_analysis",
+    "paths": {
+      "metadata": "documents/case-study-137/metadata.json",
+      "all_text": "documents/case-study-137/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-137/dataset/chunks-0000.jsonl"
+    }
+  },
+  "case-study-138": {
+    "title": "Big Box Retailer A DX M&V Report",
+    "category": "engineering_analysis",
+    "paths": {
+      "metadata": "documents/case-study-138/metadata.json",
+      "all_text": "documents/case-study-138/dataset/ALL_TEXT.txt",
+      "chunks": "documents/case-study-138/dataset/chunks-0000.jsonl"
+    }
+  }
+}

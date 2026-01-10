@@ -1,0 +1,22 @@
+ 
+ 
+Page 15 of 38 
+ 
+Figure 20 - Median EER plotted against Median COP  
+A linear relationship (with few outliers) is apparent. 
+ 
+In summary, the variables that make up each data point are:  
+ 
+1. Median Kw/ton - (kwtons) 
+2. Median COP - (med COP) 
+3. Median capacity in BTU tons when compressor 1 is on - (comp1Ton) 
+4. Median capacity in BTU tons when compressor 1 and 2 are on - (comp2Ton) 
+5. Max outside air temp in degrees F - (max temp) 
+6. Amount of time compressor 1 is on in seconds - (time1) 
+7. Amount of time compressor 2 is on in seconds - (time2) 
+ 
+Dates of the 8 points from October 2019  are:  10/01-10/06 and 10/08-10/09. 
+ 
+Dates of the 30 points from May 2020 are: 05/01-05/30. 
+ 
+Figure 21 shows time series plots of the data.  

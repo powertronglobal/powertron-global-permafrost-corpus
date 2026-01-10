@@ -1,0 +1,43 @@
+®
+2
+Summary Results of the Data Center Provider Study
+This report contains specific information regarding the performance profiles of two large chillers; the first is 
+housed at the Data Center Provider [Southeast Location] Metro facility and the second at the Data Center Provider Santa Clara II facility. At the conclusion of 
+the pilot, the two chillers displayed the substantial changes listed below. 
+Of note, the improvements produced in the pilot chillers and illustrated in the remainder of this report 
+resulted in Data Center Provider implementing the PermaFrost NMR® technology in their entire portfolio data centers 
+across the country.  This totals more than 15 million square feet of operational raised floor space and nearly 
+50,000 tons of cooling.
+[Southeast Location] Metro Chiller  
+ 
+• Annual kWh consumed based on avg kW/ton fell by 339,750 from 3,821,750 to 3,482,000 or 8.9%
+ 
+• Overall capacity rose by 272 tons from 3,125 tons to 3,397 tons or 8.7%
+ 
+• Average cost per unit of cooling (i.e., kW/ton) fell by .04 from 0.45 to 0.41 or 8.9%
+ 
+• Energy costs to operate the chiller fell by $20,385 from $229,305 to $208,920 or 8.9% 
+ 
+• Coefficient of Performance (COP) increased by 0.72 from 7.85 to 8.57 or 9.2%
+The efficiency improvements demonstrated in the [Southeast Location] Metro chiller equate to an Initial Payback Period 
+(IPP) of 14.6 months and a corresponding Internal Rate of Return (IRR) of 82.3%.
+Santa Clara II Chiller  
+ 
+• Annual kWh consumed fell by 94,395 from 944,385 to 847,815 or 10.2% 
+ 
+• Overall capacity rose by 35 tons from 408 tons to 443 tons or 8.7%
+ 
+• Average cost per unit of cooling (i.e., kW/ton) fell by .05 from 0.49 to 0.44 or 10.2%
+ 
+• Energy costs to operate the chiller fell by $10,622 from $103,882 to $93,260 or 10.2% 
+ 
+• Coefficient of Performance (COP) increased by .83 from 7.15 to 7.98 or 11.6%
+The efficiency improvements demonstrated in the Santa Clara II chiller equate to an Initial Payback Period 
+(IPP) of 14.4 months and a corresponding Internal Rate of Return (IRR) of 83.2%. 
+Further details of both sets of the measurements are described in separate sections later in this report. All 
+testing was directed by [Client Representative], P.E., CSSGB, Director Mission Critical Facilities for Data Center Provider. All 
+measurements were taken and recorded by Gibbens Drake Scott Engineering, an independent 3rd party 
+testing firm hired by Data Center Provider. [Senior Energy Engineer], Director of Engineering for Powertron Global witnessed all of 
+the measurements.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

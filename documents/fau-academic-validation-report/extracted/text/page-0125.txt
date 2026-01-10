@@ -1,0 +1,50 @@
+ 
+IPMVP Framework and Options       25 
+ 
+15 minute intervals, then the recording meter should be set to record data for the same 15 
+minute intervals. However if the power company uses a moving interval to record electric 
+demand data, the data recorder should have similar capabilities. Such moving interval capability 
+can be emulated by recording data on one minute fixed intervals and then recreating the power 
+company’s intervals using post-processing software. However, care should be taken to ensure 
+that the facility does not contain unusual combinations of equipment that generate high one 
+minute peak loads which may show up differently in a moving interval than in a fixed interval. 
+After processing the data into power company intervals, convert it to hourly data for archiving 
+and further analysis. 
+Calibration 
+Meters should  be calibrated as recommended by the equipment manufacturer, and following 
+procedures of recognized measurement authorities. Primary standards and no less than third-
+order-standard traceable calibration equipment should be utilized wherever possible. Sensors 
+and metering equipment should be selected based in part on the ease of calibration and the 
+ability to hold calibration. An attractive solution is the selection of equipment that is self-
+calibrating. 
+Selected calibration references  are provided in Chapter 10.3.  
+4.8   Option C: Whole Facility  
+Option C: Whole Facility, involves use of utility meters, whole-facility meters, or sub-meters to 
+assess the energy performance of a total facility. The measurement boundary encompasses 
+either the whole facility or a major section. This Option determines the collective savings of all 
+ECMs applied to the part of the facility monitored by the energy meter. Also, since whole-facility 
+meters are used, savings reported under Option C include the positive or negative effects of any 
+non-ECM changes made in the facility.  
+Option C is intended for projects where expected savings are large compared to the random or 
+unexplained energy variations which occur at the whole-facility level. If savings are large 
+compared to the unexplained variations in the baseline-energy data, then identifying savings will 
+be easy. Also the longer the period of savings analysis after ECM installation, the less 
+significant is the impact of short-term unexplained variations11. Typically savings should exceed 
+10% of the baseline energy if you expect to confidently discriminate the savings from the 
+baseline data when the reporting period is shorter than two years.  
+Identifying facility changes that will require non-routine adjustments is the primary challenge 
+associated with Option C, particularly when savings are monitored for long periods. (See also 
+Chapter 8.2 on non-routine baseline adjustments.) Therefore, you should perform periodic 
+inspections of all equipment and operations in the facility during the reporting period. These 
+inspections identify changes in the static factors from baseline conditions. Such inspections may 
+be part of regular monitoring to ensure that the intended operating methods are still being 
+followed.   
+4.8.1 Option C: Energy Data Issues  
+Where utility supply is only measured at a central point in a group of facilities, sub-meters are 
+needed at each facility or group of facilities for which individual performance is assessed.  
+Several meters may be used to measure the flow of one energy type into a facility. If a meter 
+supplies energy to a system that interacts with other energy systems, directly or indirectly, this 
+meter’s data should be included in the whole-facility savings determination.  
+                                                  
+11 See Appendix B-5. ASHRAE (2002) provides quantitative methods for assessing the impact of variations in the 
+baseline data as the reporting period lengthens. 

@@ -1,0 +1,42 @@
+®
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+5
+Recovered Wasted Energy with PermaFrost NMR® - Chiller
+The next chart illustrates the performance restoration 
+PermaFrost NMR® created in the treated chiller. The 
+average cost to operate the chiller before it was treated 
+with PermaFrost NMR®, as calculated in kW/ton, was 
+.97.
+The specific cost to operate this chiller after it has been 
+treated with PermaFrost NMR®, as calculated in 
+kW/ton, is currently .81.
+The baseline kW/ton ratings measured in-situ were expected when compared to the ASHRAE loss of 
+performance efficiency and cost to operate estimations for 10 year old equipment. The post results are also 
+in line with the average improvement savings shown over more than 120,000 installations globally.
+Cost to Major US Telecom for Lost Eﬃciency
+Left unfixed, the chiller system with it's reduced level of performance is costing (in money) an additional 
+16.5% than it would if it were running at the original design specification. Extrapolated across Major US Telecom's 
+inventory of equipment, this presents a tremendous savings opportunity in reduced costs and lower 
+energy consumption.
+Recovered
+Energy
+Cost to Operate
+Baseline
+Post ECM
+kW/ton
+.16 kw/ton 
+.97
+.81
+Additional kWh Wasted at Major US Telecom per Year
+Additional Cost to Major US Telecom per Year
+76,500 kWh
+$6,885
+Cost of Waste
+Reduced Level of Performance Causes
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

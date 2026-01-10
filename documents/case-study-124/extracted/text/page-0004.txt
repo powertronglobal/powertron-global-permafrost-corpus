@@ -1,0 +1,32 @@
+3
+Energy Conservation Method (ECM)
+The content detailed in this report will first demonstrate the ability of the pilot chiller to perform prior to the ECM 
+being installed, as well as illustrate the amount of thermal degradation within the 
+heat exchangers.
+ 
+The following report produces the utilization of the IPMVP as the M&V plan. 
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+• kW/Ton = kW / Actual Tonnage 
+ 
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+ 
+• Actual Cooling Tons per Hour = Evaporator GPM X 8.34 * 60 * Chilled Water Delta T / 12,000 BTU 
+ 
+• Refrigerant Approach = Supply Water Temp – Saturated Evaporator Temp (CH) 
+Notes
+Following a diagnostic examination to determine the operational condition of the chiller was satisfactory, Baseline M&V data 
+was collected and recorded by the M&V team. 400+ runtime hours after installation of the ECM, the M&V team returned to 
+take Post M&V measurements in the identical fashion as in the Baseline. The delta of these measurements and associated 
+calculations show the amount of capacity and efficiency restored.
+The following IPMVP data points were recorded on 1/13/16 using recently calibrated by NIST (National Institutes of 
+Standards and Technology) to insure measurement accuracy and in combination with the chiler's control panel. The chiller was 
+then treated with PermaFrost NMR® on May 10, 2016 and allowed to run normally until 6/25/16 to ensure the patented 
+surface science nanotechnology had ample time to seat into all the metal surfaces of the heat exchangers. All post measurements 
+were taken at identical incoming water temperatures however the outside air temps were higher in the post by 9.5%. No 
+weather adjustments were made.
+This report is provided to Non-Profit Organization. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

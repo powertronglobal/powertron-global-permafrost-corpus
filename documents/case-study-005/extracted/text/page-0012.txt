@@ -1,0 +1,129 @@
+Results for Packaged RTUs with PermaFrost NMR® ECM
+Key Results for Unit #7 (91.3 ton design)
+11
+System Description
+478.7 V
+155.5 A 
+ 39.8 F
+ 96 F
+68.4 PSI
+184.6 PSI
+ 75.1 F
+ 65.4 F
+56.9 F
+52.3 F
+30.37
+20.97
+9.4
+17.1 F 
+ 90.0
+27,300***
+109.4
+1.22
+2.89
+344,684
+81 F 
+Energy Usage
+BASELINE
+POST
+Voltage  
+Amperage  
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Suction Pressure (Avg)
+Discharge Pressure (Avg)
+Entering Air Temp DB (Return)
+Entering Air Temp WB (Return)
+Leaving Air Temp DB (Supply)
+Leaving Air Temp WB (Supply)
+Enthalpy of Entering WB
+Enthalpy of Leaving WB
+Enthalpy Delta
+Evaporator Approach
+Measured Tons Produced 
+Airﬂow (Ft3/Min)
+Total kW
+Calculated kW / Ton  
+Coeﬃcient of Performance (COP)
+kWh after Regression Analysis
+O.A.T.
+479.3 V
+160.3 A 
+ 39.8 F
+ 112.1 F
+68.1 PSI
+233 PSI
+ 74.1 F
+ 64.7 F
+58.1 F
+54.5 F
+29.84
+22.92
+6.92
+18.3 F 
+ 70.8
+27,300
+112.9
+1.60
+2.21
+453,600
+81 F 
+1.60
+POST
+BASELINE
+1.22
+kW/ton
+REDUCTION
+23.8%
+POST
+BASELINE
+COP
+IMPROVEMENT
+30.8%
+27.1%
+POST
+BASELINE
+Operating Tonnage
+IMPROVEMENT
+POST
+BASELINE
+18.3
+Refrigerant Approach
+IMPROVEMENT
+6.6%
+70.8
+2.21
+2.89
+17.1
+90.0
+Notes
+The three pilot RTUs provide cooling to opposite 
+sections of the Major US Theater Chain [Location] Theaters. 
+Given the weather BIN data of all hours over 55 
+degrees in Houston (7,086), the internal load of 
+the theaters combined with the hours of 
+operations, and the size and age of the RTUs, it 
+is estimated that the RTUs each run 
+approximately 3,150 hours or more annually 
+prior to the ECM being implemented.  
+*Measured AMPs were slightly lower than design as one condenser fan was having issues and was shut oﬀ
+**Low refrigerant temps seemed to indicate unit was low on refrigerant and techs did not have any on hand so it was left alone for test
+***Post CFM readings were within accepted tolerance of +/- 2% so the same reading was used as in the baseline
+HVAC Equipment Manufacturer
+SXHGC09040K75AD
+J97E71548
+R22
+91.3
+3,150
+1997
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

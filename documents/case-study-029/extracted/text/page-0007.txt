@@ -1,0 +1,290 @@
+6
+DX
+5
+12
+3980
+$0.120
+0.0%
+Unit Type (DX or CH)
+Unit Age
+Input Power kWE
+Annual Run Time Hours
+Current kWh Cost
+Annual kWh Cost Increase
+47,760
+22,256
+247,970
+$29,756
+kWh per Year
+Total Wasted kWh
+Total kWh Saved
+Total Savings
+Accumulated
+Savings
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+Accumulated
+kWh Saved
+8,406
+17,862
+28,131
+39,068
+50,626
+62,661
+75,079
+87,878
+100,965
+114,242
+127,615
+140,988
+154,360
+167,733
+181,106
+194,479
+207,852
+221,224
+234,597
+247,970
+Cost
+Per kWh
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+Saved Costs
+Saved kWh
+Wasted kWh
+1,337
+2,961
+4,489
+6,066
+7,403
+Eﬃciency
+Loss
+Unit Age
+2.8%
+6.2%
+9.4%
+12.7%
+15.5%
+17.6%
+19.8%
+21.5%
+22.9%
+24.2%
+25.2%
+26.0%
+26.8%
+27.4%
+27.8%
+28.0%
+28.0%
+28.0%
+28.0%
+28.0%
+28.0%
+28.0%
+28.0%
+28.0%
+28.0%
+8,406
+9,456
+10,268
+10,937
+11,558
+12,036
+12,418
+12,800
+13,086
+13,277
+13,373
+13,373
+13,373
+13,373
+13,373
+13,373
+13,373
+13,373
+13,373
+13,373
+1,009
+1,135
+1,232
+1,312
+1,387
+1,444
+1,490
+1,536
+1,570
+1,593
+1,605
+1,605
+1,605
+1,605
+1,605
+1,605
+1,605
+1,605
+1,605
+1,605
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+1,009
+2,143
+3,376
+4,688
+6,075
+7,519
+9,009
+10,545
+12,116
+13,709
+15,314
+16,919
+18,523
+20,128
+21,733
+23,337
+24,942
+26,547
+28,152
+29,756
+Major Global Bank PermaFrost® NMR 5-Yr Performance Analysis
+Kilowatt Hours (kWh) Loss / Gain With / Without PermaFrost NMR® Treatment
+(*)  Savings indicated inside red circle equates to a 12.3 month Initial Payback Period (IPP) for Major Global Bank when 
+factoring in the cost to treat the four (4) DX units at the pilot site. This is determined by dividing the $1,040 
+cost of treating the DX units with PermaFrost NMR® by the initial annual savings of $1,009 and multiplying 
+the result by 12 months. 
+These same savings indicated above equates to a 97% Internal Rate of Return (IRR) for Major Global Bank when treating 
+the four (4) DX units at the pilot site. This is determined by dividing the $1,009 estimated annual savings by 
+the $1,040 cost of treating the units with PermaFrost NMR® and then multiplying the result by 100.
+Savings indicated inside orange circle equates to an overall ROI for Major Global Bank of 584% accrued over the past 5 
+years of useful equipment life. This is determined by dividing the 5 years of avoided cost savings of $6,075 
+by the $1,040 initial cost of treating the units with PermaFrost NMR® and then multiplying the result by 100.
+The number inside purple circle equates to the average ASHRAE degradation % these units would have 
+currently been performing at if not treated with PermaFrost NMR more than 5 years ago. Following detailed 
+IPMVP testing the units were restored to near initial design capacity or slightly above. 
+All calculations are based on the four (4) DX units each running 3,980 hours per year while paying $0.12 per 
+kWh delivered while operating at just 70% load at a cost of $80 to treat each of the 13 tons. The 3,980 hours 
+assume the facility turns off the units rather than putting them into setback mode when the facility is closed 
+at night and on Sundays. 
+-30.00%
+-25.00%
+-20.00%
+-15.00%
+-10.00%
+-5.00%
+0.00%
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+Avoided Wasted
+Energy Costs
+Over Past
+5 years
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

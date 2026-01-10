@@ -1,0 +1,67 @@
+Post Treatment - No. 2009JC026
+     Inspection results 
+ 
+ 
+ 
+ 
+ 
+Date of Test: May. 19, 2009
+Inspection Report
+16
+ 
+ 
+ 
+Hefei General Machinery & Electrical Products Inspection Institute
+Inspection item
+Unit
+Nameplate
+parameter
+Technical requirements
+speciefied in the Standard
+Inspected
+data
+Single-item
+evaluation
+Refrigerating capacity
+W
+/
+/
+4449
+/
+Input power
+W
+/
+/
+2068
+/
+Dry bulb temperature at
+evaporator air outlet
+ºC
+/
+/
+12.68
+/
+Wet bulb temperature at
+evaporator air outlet
+ºC
+/
+/
+11.74
+/
+     Remarks,
+1.   Measured nominal cooling condition:
+ 
+Indoor side 
+Dry bulb temperature 26.95°C       Wet bulb temperature 18.98°C
+      Outdoor side 
+Dry bulb temperature 34.98°C
+                      
+Air outlet static pressure 0Pa
+2.   The refrigerating capacity, input power, dry bulb temperature at evaporator air 
+outlet, wet bulb temperature at evaporator air outlet listed in the table are tested 
+according to the provisions of Chinese Standard GB/T 7725-2004.
+3.   The refrigerant used in this test is R22, and its filling volume is 1,670g.
+4.   The refrigerating capacity, input power, dry bulb temperature at evaporator air 
+outlet, and wet bulb temperature at evaporator air outlet listed in this table were 
+measured after the machine had been in operation for 15 hours following filling of 50 
+ml of the PFHCFC model of PermaFrost® refrigerant.

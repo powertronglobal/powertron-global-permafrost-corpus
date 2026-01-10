@@ -1,0 +1,137 @@
+®
+Key Results for DX Unit with PermaFrost NMR® ECM
+9
+HVAC Equipment Manufacturer
+YHC092A4RMIGR
+424101173L
+R22
+7.7
+3,000
+2004
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Age
+System Description
+485.9
+13.0
+50.6
+121
+84.5
+263.5
+76.7
+53.3
+70
+51.3
+34.09
+21.03
+13.06
+2.7
+9.29
+1.14
+8.15
+1664.4
+88
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Suction Temperature  
+Discharge Temperature 
+ 
+Suction Pressure 
+ 
+Discharge Pressure 
+ 
+Entering Air DB 
+ 
+Leaving Air DB 
+ 
+Entering Air WB 
+ 
+Leaving Air WB 
+ 
+Enthalpy of Entering WB 
+ 
+Enthalpy of Leaving WB 
+ 
+Delta-T of Enthalpy 
+ 
+Evaporator Approach  
+kW (V x A x 1.47) 
+ 
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Unit CFM 
+ 
+OAT 
+ 
+482.7
+13.2
+50.1
+121.2
+84.5
+264.1
+78.7
+63.7
+67.2
+55.4
+31.78
+23.47
+8.31
+13.6
+9.39
+1.81
+5.19
+1664.4
+88
+Notes
+The pilot DX unit provides cooling to the Gymnasium 
+hallway at the West Lake High School Campus. The annual 
+run-time on the pilot unit is approximately 3000 hours, (based 
+upon 11.5 hours per day during 187 days of school and some 
+additional school events during the summer), or more prior to 
+PermaFrost NMR® being implemented.
+1.81
+POST
+BASELINE
+1.14
+kW/ton
+REDUCTION
+37%
+REDUCTION
+REDUCTION
+POST
+BASELINE
+36.9%
+57.2%
+POST
+BASELINE
+Enthalpy Delta
+IMPROVEMENT
+POST
+BASELINE
+13.6
+Refrigerant Approach
+80.1%
+8.31
+44,250
+27,900
+2.7
+13.06
+(w/regression analysis)
+Calculated Annual kWh
+BASELINE
+POST
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

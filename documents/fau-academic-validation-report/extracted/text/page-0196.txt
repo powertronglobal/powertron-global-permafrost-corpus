@@ -1,0 +1,129 @@
+96        Appendix B Uncertainty 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+)
+ˆ
+(
+2
+^
+
+
+
+
+p
+n
+Y
+Y
+SE
+i
+i
+Y
+  
+ 
+B-11 
+ 
+where p is the number of independent variables in the regression equation. 
+This statistic is often referred to as the root-mean squared error (RMSE).  
+ 
+Dividing the RMSE by the average energy use produces the coefficient of variation of RMSE, or 
+the CV(RMSE).  
+ 
+ 
+ 
+ 
+ 
+__
+^
+)
+(
+Y
+SE
+RMSE
+CV
+Y
+
+   
+ 
+ 
+B-12 
+ 
+A similar measure is the mean bias error (MBE) defined as: 
+ 
+ 
+ 
+ 
+ 
+n
+Y
+Y
+MBE
+i
+i
+
+
+
+)
+(
+^
+ 
+   
+ 
+ 
+B-13 
+ 
+The MBE is a good indicator of overall bias in the regression estimate. Positive MBE indicates 
+that regression estimates tend to overstate the actual values. Overall positive bias does tend to 
+cancel out negative bias. The RMSE does not suffer from this cancellation problem.  
+All three measures may be used in evaluating the calibration of simulation models in Option D.  
+B-2.2.3   t-statistic  
+Since regression-model coefficients (bk) are statistical estimates of the true relationship 
+between an individual X variable and Y, they are subject to variation. The accuracy of the 
+estimate is measured by the standard error of the coefficient and the associated value of the t-
+statistic. A t-statistic is a statistical test to determine whether an estimate has statistical 
+significance. Once a value is estimated using the test, it can be compared against critical t-
+values from a t-table (Table B-1).   
+The standard error of each coefficient is computed by regression software. The following 
+equation applies for the case of one independent variable.    
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+2
+2
+^
+)
+(
+)
+2
+/(
+)
+(
+X
+X
+n
+Y
+Y
+SE
+i
+i
+b
+  
+B-14 
+ 
+For cases with more than one independent variable, the equation provides reasonable 
+approximation when the independent variables are truly independent (i.e., not correlated). 
+Otherwise, the equation gets very complex and the M&V analyst is better off using a software 
+package to compute the standard errors of the coefficients.  

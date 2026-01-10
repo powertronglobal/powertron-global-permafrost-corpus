@@ -1,0 +1,29 @@
+Conclusion
+The improved efficiency (kW per ton) at the unit at 80% load was 9.4% with and additional 3.8% increase 
+in capacity.  The improvement in the refrigerant approach, a measurable thermodynamic enhancement 
+of PermaFrost NMR®, at 80% load was 53%.  These results are highly significant.  Chiller #1 not only 
+provides chilled water at the rated GPM and design chilled water outlet temperature at reduced kW-hr and 
+cost, it also does this at a greater tonnage per kW.  This allows the chiller to produce more tonnage at less 
+energy. 
+These results are in line with what we would expect on a chiller that has only 1.6 years of actual runtime. 
+According to ASHRAE, thermal inefficiency of the heat transfer surfaces of air conditioning and refrigeration 
+systems, will cause a loss of about 7% efficiency the first year, 5% the second year, and 2% per year the 
+following years.  This loss will continue to accumulate until equilibrium is reached between flow force and 
+adhesion.  At this point the thermal boundary layer formed has achieved its maximum thickness, producing 
+maximum loss of efficiency.  Published ASHRAE information confirms these observations.  According to 
+ASHRAE, performance is degraded by as much as 30% due to the thermal degradation of internal 
+surfaces.  Higher percentages up to 40% have been observed in systems 20 years old or older.
+These identical units (Chiller #1 & #5) have approximately 1.6 years of actual runtime, which equates to a 
+loss of efficiency of 9.6% according to the above thermal inefficiency rates from ASHRAE. The efficiency 
+improvement on Chiller #1 is 9.4%, which puts these results in line with a ASHRAE.  Now that Chiller #1 
+has been treated with PermaFrost NMR®, the efficiency has been restored and the heat exchange surfaces 
+are now protected from thermal inefficiency reoccurring for the life of the unit.
+Chiller number one, treated with PermaFrost NMR®, has produced significant results.  Additionally, there 
+are several direct benefits and indirect benefits that increase the return on investment but may not be easily 
+measured.  These additional direct and indirect benefits are as follows:
+• Increased tonnage per kW will allow the staff to operate this chiller in some time periods as the only chiller 
+that will be required versus operating two chillers to capture a similar load.  The scenario of 80 percent load 
+Energy Science Division
+®
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,33 @@
+PermaFrost NMR® Eﬃciency Report
+Data Center Provider Data Center Group
+May, 2013
+Executive Summary
+         This report contains specific information regarding the installation of the energy control measure (ECM) 
+PermaFrost NMR® in the primary HVAC Roof Top Unit (RTU) serving the main offices at the Data Center Provider Data 
+Center Facilities located at 6000 Technology Blvd, Sanston (Richmond), VA. Detailed forensic performance 
+testing (outlined later in this report) was performed on a nominal 132.8 ton (476 kWR) packaged RTU 
+outfitted with four compressors (two 30-HP compressors and two 35-HP compressors) using R22 refrigerant. 
+Following testing, the RTU was treated with the proper amount and type of the PermaFrost NMR® 
+technology specially formulated for these types of systems.  Measurement and Verification (M&V) was 
+conducted pre-installation and post-gestation.
+ 
+The improvement in efficiency and restored capacity gained directly 
+at the system was solely attributable to the PermaFrost NMR® ECM. 
+This is a result of the reversal of thermal inefficiency on heat exchange surfaces, 
+creating greater efficiency in refrigerant approach and the thermal
+energy transfer abilities of the cooler and condenser vessels. 
+Following treatment with the PermaFrost NMR® technology, the system showed an effective net 42.9% 
+reduction in kW/ton based on the exact capacity measured in the baseline M&V and the post gestation 
+M&V. With two of the four 31-ton (109 kWR) compressors operating at full load, the system showed a slight 
+7.2% increase in kW consumption while simultaneously producing an increase in capacity of 36.6 tons (126 
+kWR). This 88.2% increase from the baseline performance levels produced an effective in system efficiency of 
+87.7%, which directly correlates to what Data Center Provider will realize in energy savings as they operate the system in the 
+future under the same parameters. 
+Following treatment with the PermaFrost NMR® technology, the system also showed a substantial 
+improvement in Enthalpy Delta, which is a critical HVAC measurement used to determine the thermodynamic 
+enhancement brought about by the PermaFrost NMR® ECM.  The result of the ECM improvement is an ROI to 
+Data Center Provider that is measured in months. The tables of data are available for review at the end of this report. Financial 
+calculations determining the true ROI are proprietary to Data Center Provider under separate cover.  
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

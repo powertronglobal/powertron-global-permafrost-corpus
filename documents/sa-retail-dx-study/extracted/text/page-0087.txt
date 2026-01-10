@@ -1,0 +1,48 @@
+9/21/2020
+Powertron Global
+https://fmv.powertronglobal.com/?obj=reports
+6/13
+Temperature
+Base TONS
+Post TONS
+% Change
+Baseline Samples
+Post Samples
+92
+8.11
+9.27
+14
+2748
+501
+93
+7.80
+9.02
+16
+3029
+1022
+94
+7.69
+8.66
+13
+2643
+402
+95
+8.11
+8.84
+9
+2331
+17
+96
+7.78
+3167
+97
+7.64
+3079
+98
+7.24
+4579
+99
+7.10
+4381
+       
+       

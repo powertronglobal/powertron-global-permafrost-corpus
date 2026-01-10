@@ -1,0 +1,1141 @@
+================================================================================
+DOCUMENT: Case Study 114
+DOC_ID: pdf_110
+SHA256: 5949cac7eb0fa60759972afabc16408c82c28809e20ab07695653c33f331640e
+================================================================================
+
+═══ PAGE 001 ═══
+
+Energy Science Division
+®
+RETAIL CHAIN C - Houston Distribution Center
+Study Date:
+     July 16 – Sept 25, 2014
+Participants: 
+     Retail Chain C
+     [Sr. Director of Engineering],
+     Sr. Director of Engineering
+ 
+     [Facility Manager],
+     Facility Manager
+     [Client Representative],
+     Asst. Facility Manager
+ 
+     HVAC Services Provider
+     [Sr. Service Technician],
+     Sr. Service Technician
+     [Client Representative],
+     Sr. Service Technician
+     [Client Representative],
+     Service Technician
+     Powertron Global
+     [Senior Energy Engineer],
+     Director of Engineering
+Location:
+     10485 West Belfort Rd
+     [Texas City]
+Comprehensive HVAC/R Capacity Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 002 ═══
+
+®
+1
+Retail Chain C Energy Eﬃciency Study
+Purpose of Energy Eﬃciency Study
+This efficiency study was conducted in an effort to verify the effectiveness of the PermaFrost NMR®  Energy 
+Conservation Measure (ECM) in four large roof top units (RTUs) and a chiller at Retail Chain C (Retail Chain C) 
+distribution facility and to document the future avoided energy costs associated with the same. These units 
+represent a microcosm of the overall Retail Chain C portfolio of equipment. 
+Understanding the Opportunity for Efficiency Restoration
+All Heating, Ventilation, Air Conditioning and Refrigeration (HVACR) systems experience thermal
+degradation over time. Internal surfaces of heat exchangers lose their optimal thermal transfer
+characteristics, resulting in reduced capacity, lower efficiency, and higher operating costs. This
+degradation affects superheat levels and overall system performance, impacting the useful
+equipment life of the HVACR system.
+Restoring System Efficiency with PermaFrost NMR
+PermaFrost NMR® technology addresses this thermal degradation by creating a permanent thermal
+metal coating on the tube walls, whether on the inside or outside surfaces depending on the HVACR
+equipment. This coating conditions the metal surfaces, reducing friction and restoring the system's
+original thermal transfer efficiency. In every application this results in a lower per unit cost of cooling
+which ultimately translates into lower overall energy costs. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 003 ═══
+
+®
+2
+Summary Results of Retail Chain C Study
+This comprehensive report contains specific information regarding the performance profiles of four 25-ton 
+Roof Top Units (RTUs) and one 140-ton air cooled chiller at Retail Chain C facility in [Texas City]. 
+At the conclusion of the pilot, the five units showed the following substantial changes: 
+ 
+• Overall capacity rose by 32.19 tons from 108.31 tons to 140.5 tons or 29.7%
+ 
+• Average cost per unit of cooling (i.e., kW/ton) fell by .46 from 1.52 to 1.06 or 30.3%
+ 
+• Aggregate kWh consumed based on avg kW/ton fell by 223,749 from 739,345 to 515,596 or 30.3% 
+ 
+• Energy costs to operate the five units fell by $22,375 from $73,935 to $51,560 or 30.3%  
+These efficiency improvements demonstrated equate to an Initial Payback Period (IPP) of the Retail Chain C project 
+(including all testing fees) of 11.7 months and a corresponding Internal Rate of Return (IRR) of 103%. This is 
+exactly what was estimated in the proposal given the age and average runtime of the equipment.
+Further details of the measurements are described in the various sections later in this report. All testing was 
+conducted by Powertron Global’s Director of Engineering, [Senior Energy Engineer] while being assisted and 
+witnessed throughout by [Facility Manager] of Retail Chain C and his HVAC contractor, HVAC Services Provider.   
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 004 ═══
+
+®
+3
+Process
+This comprehensive report contains specific information regarding the performance profiles of four of the 116 
+packaged RTUs and one air-cooled chiller that support Retail Chain C facility in [Texas City]. 
+Detailed performance testing (outlined later in this report) was performed on the units before (baseline) and 
+after (post) the installation of the ECM. This testing determined the impact on three key elements relating to 
+the original design specifications that greatly affect the HVAC portion of Retail Chain C power bill.  They include:
+ 
+1. The cooling capacity the units are capable of producing after 11+ years in service. 
+ 
+2. The actual cost of per unit of cooling the units are delivering as reflected in the kW/ton 
+ 
+    measurement. 
+ 
+3. The thermal dynamic ability of the equipment to still perform at or close to operational design.  
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) framework and the standards set forth by the 
+National Environmental Balancing Bureau (NEBB).
+ 
+Powertron Global’s Director of Engineering, [Senior Energy Engineer] took and recorded all of the readings while 
+being assisted and witnessed by HVAC Services Provider technicians during every phase of the testing.  
+The collection periods for each of the units were similar in both the baseline and post periods to best replicate 
+internal building loads.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 005 ═══
+
+®
+4
+Energy Conservation Method (ECM)
+The content detailed in this report will first demonstrate the ability of the pilot chiller to perform prior to 
+PermaFrost NMR® (ECM) being installed, as well as illustrate the amount of thermal degradation due in large 
+part to thermal degradation within the heat exchangers (evaporator and condenser barrels).
+ 
+The following report produces the utilization of the IPMVP as the M&V plan. 
+The results were formulated by entering the data into the following applicable thermodynamic 
+engineering formulas:
+ 
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+• Ton = (Airflow * 4.5 * Enthalpy Delta) / 12,000 
+ 
+• kW/Ton = kW / Actual Tonnage 
+ 
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+ 
+• Actual Cooling Tons per Hour = Evaporator GPM X 8.34 * 60 * Chilled Water Delta T / 12,000 BTU 
+ 
+• Refrigerant Approach = Supply Water Temp – Saturated Evaporator Temp (CH) 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 006 ═══
+
+®
+5
+Engineering Notes
+Following a diagnostic examination of the pilot equipment to determine the operational condition of the units were 
+satisfactory, Baseline M&V data was collected and recorded by the M&V team with assistance from HVAC Services Provider. Units 
+51 and 52 were initially tested and treated on 16 July 2014 and had 400+ runtime hours after installation of the ECM 
+before the post readings were taken on 25 Sept 2014. Due to some maintenance and scheduling issues, units 50 and 57 
+were not initially tested and treated until 14 Aug 2014 and had just over 300 runtime hours while the chiller, which was 
+also tested and treated on 14 Aug, had just under 250 runtime hours on it when post readings were taken on 25 Sept 
+2014. Since the combined results were well within expected savings parameters, no further readings are necessary.  
+Both the baseline dates were nearly identical weather and building load perspective. The scheduled post reading date was 
+somewhat cooler but the internal building load was the same in three of the spaces served by the units. To replicate 
+similar weather conditions on the RTUs, doors were opened to the compressors to get the head pressures to close to what 
+they were in the baseline readings. Any shortfalls in pressures were adjusted for by raising the post amps accordingly. 
+Due to differences in operational load, the area served by unit 50 was above the 1 degree entering air WB temperature 
+difference testing parameters we normally accept to assure high confidence in the data but the team decided to leave it a 
+part of the study for transparency. The load on circuit B of the chiller was much higher in the post (86.5%) than in the 
+baseline (50%) and since circuit A was still down for maintenance the M&V team could not load limit the chiller to take 
+measurements without negatively affecting laundry operations. For this portion of the test the key element to look at is the 
+reduction of kW/ton. 
+As expected in any in-situ testing, all the RTUs had varying airflows, refrigerant temps and enthalpy deltas which show 
+up in the varying levels of performance. This is the reason to focus on the delta improvements both at each unit and as an 
+aggregate. 
+The collection of the data in both the baseline and post periods was collected by Powertron Global® while witnessed 
+throughout by HVAC Services Provider technicians. Pictures were also taken of all the key readings used in the formulas and are 
+available upon request.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 007 ═══
+
+®
+6
+108.31 tons
+140.5 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The units should be operating @ 135 tons of cooling capacity
+• The units were operating @ 108.31 tons of cooling capacity prior to
+   installing ECM
+• The units now have 32.19 tons of restored cooling capacity after ECM
+• The units should be operating @ 3.75 COP or more on avg.
+• The units were operating @ 2.7 COP prior to the ECM
+   and 3.55 following the ECM
+• The COP of the units were increased by 31.5%  following the ECM
+2.7
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+108.31
+tons Baseline
+100%
+CAPACITY @
+90% LOAD
+Baseline
+COP
+Post ECM
+COP
+2.7
+3.55
+3.55
+Post ECM COP
+140.5
+tons Post ECM
+31.5%
+Improvement
+in COP
+32.19
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of HVAC/R Eﬃciency Study Results
+Calculated Capacity of Retail Chain C Units Baseline and Post
+The charts below illustrate just how far off Retail Chain C units had degraded in terms of capacity over 11+ years of use. 
+With the RTUs operating at 100% load and the chiller at 50% load (adjusted down from 87% in post), these  
+same five pilot units were determined in the baseline measurement periods to be producing a total of 108.31 
+tons of cooling out of a possible 135 nominal design tons. This represents 80.2% of nominal design capacity. The 
+majority of this capacity loss is directly attributable to the thermal degradation of the heat exchange surfaces 
+over time. This is due in large part to thermal degradation which creates an insulating barrier to heat transfer on the 
+tube walls. 
+After the PermaFrost NMR® ECM was installed and allowed to work inside the units for an average of 300+ 
+runtime hours, the average total capacity of the five pilot units rose 32.19 tons to 140.5 tons or 104% of the 
+overall nominal design capacity of all five units. This represents a 29.7% increase in nominal capacity over the 
+baseline numbers.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 008 ═══
+
+®
+Reduction in
+Per Unit Costs
+Equating
+to 30.3%
+7
+Calculated Cost Per Cooling Unit to Operate
+The chart to the right illustrates the performance
+efficiency the PermaFrost NMR® ECM created in the 
+five treated pilot units. The average cost to operate 
+these units before they were treated, as calculated in 
+kW/ton, was 1.52.
+The specific cost to operate these same units after 
+they were treated with PermaFrost NMR®, as 
+calculated in kW/ton, is currently 1.06.
+The baseline kW/ton ratings measured in-situ were 
+expected when compared to the ASHRAE loss of 
+performance efficiency and cost to operate estimations 
+for 11+ year old equipment. The post results are also 
+in line with the average improvement savings shown 
+over more than 125,000 installations globally.  
+Cost Per Cooling Unit to Operate
+kW/ton
+.46 kW/ton
+0.0
+0.5
+1.0
+1.5
+2.0
+Baseline
+Post ECM
+1.52
+1.06
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 009 ═══
+
+®
+Energy Consumption & Financial Metrics
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the five Retail Chain C pilot units.
+Baseline Energy Consumption
+Adjusted Baseline Tonnage: 140.5 tons
+Adjusted kW Baseline: 1.52 kW/ton * 140.5 tons = 213.56 kW
+Adjusted Baseline kWh: 213.56 kW * 3,462 Annual Operating Hrs = 739,345 kWh
+Revised Cost to Run Baseline: 739,345 kWh * $.10 = $73,935
+Post Energy Consumption
+kW Post: 1.06 kW/ton * 140.5 tons = 148.93 kW
+Annual kWh Post: 148.93 kW * 3,462 hours = 515,596 kWh
+Annual Cost Post: 515,596 kWh * .10 cents = $51,560
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $73,935 - $51,560 = $22,375
+Estimated Energy Savings Per Month: $22,375 / 12 = $1,865
+Initial Payback Period (IPP)
+Cost of PermaFrost NMR® installed in five pilot units (including M&V): $21,750
+Estimated IPP for Retail Chain C on the five pilot units: $21,750 / $1,865 = 11.7 months
+Annual Internal Rate of Return = 103%
+Return on Investment Over 10 Years = 1,029%
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period for 
+Retail Chain C for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended in the 
+Avoided Energy Reporting (Post) Analysis Period. IPP comes from determining what the cost to run the systems was 
+when operating at the original energy profile to produce the newly restored amount of available tonnage capacity and then 
+subtracting the revised cost to run the systems at the same restored tonnage after the PermaFrost NMR® ECM was 
+installed. This regression analysis is the most widely accepted method of accounting for the reduced number of hours the 
+systems will now operate due to the restored capacity. This restored capacity allows the systems to reach the internal 
+building set points with increased efficiency resulting in reduced compressor demand loading.
+8
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 010 ═══
+
+®
+32.5
+Passenger vehicles
+7.9
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+17,361
+Gallons of gasoline
+consumed
+165,721
+Pounds of coal burned
+annually
+359
+Barrels of oil
+consumed
+.827
+Railcars worth
+of coal burned
+21.2
+Homes’ electricity use for
+one year
+9
+Retail Chain C is Saving More than just Energy
+By treating all five Retail Chain C units with PermaFrost NMR® and based on the current manner in which Retail Chain C 
+operates these units, the company will save approximately 223,749 kWh per year and all the costs associated 
+with those savings. From an environmental impact standpoint, Retail Chain C is also benefitting the surrounding 
+communities in Houston. Imagine how great the environmental impact will be when Retail Chain C moves forward 
+with treating all their HVAC equipment across the USA.
+The 223,749 kWh saved per year equates to preventing 154 metric tons of greenhouse gas emissions from 
+being released or any of the following:
+Annual greenhouse emissions from:
+CO2 emissions from:
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 011 ═══
+
+®
+Speciﬁc Data from Each Pilot Unit
+Laundry Chiller
+RTU #57 
+RTU #52
+RTU #51
+RTU #50
+10
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 012 ═══
+
+®
+0.8
+POST
+BASELINE
+0.71
+kW/ton
+REDUCTION
+11.3%
+REDUCTION
+POST
+BASELINE
+11.2%
+11.5%
+POST
+BASELINE
+Enthalpy Delta
+IMPROVEMENT
+11.3
+32.43
+36.06
+112,139
+12.6
+Results for RTU #50 After Treatment with PermaFrost NMR®
+HVAC Equipment Manufacturer
+YCD300B4L
+334101021D
+R22
+25
+4,380
+2003
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+479.5
+36.1
+36.6
+42.8
+123.8
+72.8
+273.5
+78
+52.5
+66
+46.1
+30.83
+18.21
+12.62
+9.7
+25.45
+25.60
+0.71
+36.06
+7,620
+112,139
+100
+77
+123.8
+0.018
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Adj Amps for Cooler Post OAT 
+ 
+Suction Temperature  
+Discharge Temperature 
+ 
+Suction Pressure 
+ 
+Discharge Pressure 
+ 
+Entering Air DB 
+ 
+Leaving Air DB 
+ 
+Entering Air WB 
+ 
+Leaving Air WB 
+ 
+Enthalpy of Entering WB 
+ 
+Enthalpy of Leaving WB 
+ 
+Delta-T of Enthalpy 
+ 
+Evaporator Approach  
+kW (V x A x 1.47) 
+ 
+Adjusted kW  
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Unit CFM 
+ 
+Adjusted Annual kWh  
+ 
+Unit % Load During Testing  
+OAT 
+ 
+Adj for Diﬀerences in CDR Pressures 
+ 
+Adj for Cooler Post on Condenser Coils 
+ 
+477.0
+37.0
+40.6
+126.1
+69.5
+282.2
+78
+56.4
+68.1
+51.5
+32.5
+21.15
+11.35
+15.8
+25.97
+28.85
+0.80
+32.43
+7,620
+126,363
+100
+87
+126.1
+11
+Notes
+The pilot unit provides cooling to working 
+spaces on the 1st floor at Retail Chain C complex. Given 
+the average building load, the pilot unit runs 
+approximately 4,380 hours or more annually 
+prior to the ECM being implemented.
+IMPROVEMENT
+POST
+BASELINE
+126,363
+Calculated Annual kWh 
+11.3%
+Tonnage
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 013 ═══
+
+®
+1.64
+POST
+BASELINE
+1.09
+kW/ton
+REDUCTION
+33.5%
+REDUCTION
+POST
+BASELINE
+Tonnage
+44.8%
+44.8%
+POST
+BASELINE
+Enthalpy Delta
+IMPROVEMENT
+5.4
+15.43
+22.35
+106,703
+7.82
+Results for RTU #51 After Treatment with PermaFrost NMR®
+HVAC Equipment Manufacturer
+YCD300B4L
+334100434D
+R22
+25
+4,380
+2003
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+12
+Notes
+The pilot unit provides cooling to working 
+spaces on the 1st floor at Retail Chain C complex. Given 
+the average building load, the pilot unit runs 
+approximately 4,380 hours or more annually 
+prior to the ECM being implemented.
+IMPROVEMENT
+POST
+BASELINE
+160,527
+Calculated Annual kWh 
+33.5%
+480.3
+34.5
+34.9
+41.4
+117
+70.6
+249.3
+73.7
+55.3
+64.4
+52.6
+29.61
+21.79
+7.82
+13.9
+24.34
+24.36
+1.09
+22.35
+7,620
+106,703
+100
+76
+117
+0.016
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Adj Amps for Cooler Post OAT 
+ 
+Suction Temperature  
+Discharge Temperature 
+ 
+Suction Pressure 
+ 
+Discharge Pressure 
+ 
+Entering Air DB 
+ 
+Leaving Air DB 
+ 
+Entering Air WB 
+ 
+Leaving Air WB 
+ 
+Enthalpy of Entering WB 
+ 
+Enthalpy of Leaving WB 
+ 
+Delta-T of Enthalpy 
+ 
+Evaporator Approach  
+kW (V x A x 1.47) 
+ 
+Adjusted kW  
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Unit CFM 
+ 
+Adjusted Annual kWh  
+ 
+Unit % Load During Testing  
+OAT 
+ 
+Adj for Diﬀerences in CDR Pressures 
+ 
+Adj for Cooler Post on Condenser Coils 
+ 
+480.9
+35.9
+40.5
+118.9
+69.3
+256.3
+75
+65.3
+64.5
+56.7
+29.69
+24.29
+5.4
+24.8
+25.38
+36.65
+1.64
+15.43
+7,620
+160,527
+100
+86
+118.9
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 014 ═══
+
+®
+1.39
+POST
+BASELINE
+.99
+kW/ton
+REDUCTION
+28.8%
+REDUCTION
+POST
+BASELINE
+Tonnage
+31.8%
+31.8%
+POST
+BASELINE
+Enthalpy Delta
+IMPROVEMENT
+6.8
+19.43
+25.6
+111,007
+8.96
+Results for RTU #52 After Treatment with PermaFrost NMR®
+HVAC Equipment Manufacturer
+YCD300B4L
+333101313D
+R22
+25
+4,380
+2003
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+13
+Notes
+The pilot unit provides cooling to working 
+spaces on the 2nd floor at Retail Chain C complex. Given 
+the average building load, the pilot unit runs 
+approximately 4,380 hours or more annually 
+prior to the ECM being implemented.
+IMPROVEMENT
+POST
+BASELINE
+155,840
+Calculated Annual kWh 
+28.8%
+480.0
+35.9
+36.0
+40.5
+118.9
+69.3
+256.3
+74.4
+55.1
+64.9
+51.3
+29.99
+21.03
+8.96
+14.6
+25.35
+25.34
+0.99
+25.60
+7,620
+111,007
+100
+76
+118.9
+0.003
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Adj Amps for Cooler Post OAT 
+ 
+Suction Temperature  
+Discharge Temperature 
+ 
+Suction Pressure 
+ 
+Discharge Pressure 
+ 
+Entering Air DB 
+ 
+Leaving Air DB 
+ 
+Entering Air WB 
+ 
+Leaving Air WB 
+ 
+Enthalpy of Entering WB 
+ 
+Enthalpy of Leaving WB 
+ 
+Delta-T of Enthalpy 
+ 
+Evaporator Approach  
+kW (V x A x 1.47) 
+ 
+Adjusted kW  
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Unit CFM 
+ 
+Adjusted Annual kWh  
+ 
+Unit % Load During Testing  
+OAT 
+ 
+Adj for Diﬀerences in CDR Pressures 
+ 
+Adj for Cooler Post on Condenser Coils 
+ 
+478.5
+38.5
+40.1
+119.3
+68.9
+257.2
+75.1
+60
+64.7
+54.7
+29.84
+23.04
+6.8
+19.9
+27.10
+35.58
+1.39
+19.43
+7,620
+155,840
+100
+86
+119.3
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 015 ═══
+
+®
+1.14
+POST
+BASELINE
+.94
+kW/ton
+REDUCTION
+17.4%
+REDUCTION
+POST
+BASELINE
+Tonnage
+14.8%
+14.8%
+POST
+BASELINE
+Enthalpy Delta
+IMPROVEMENT
+7.95
+22.72
+26.09
+107,646
+9.13
+Results for RTU #57 After Treatment with PermaFrost NMR®
+HVAC Equipment Manufacturer
+YCD300B4L
+334100790D
+R22
+25
+4,380
+2003
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+14
+Notes
+The pilot unit provides cooling to working 
+spaces on the 2nd floor at Retail Chain C complex. Given 
+the average building load, the pilot unit runs 
+approximately 4,380 hours or more annually 
+prior to the ECM being implemented.
+IMPROVEMENT
+POST
+BASELINE
+130,261
+Calculated Annual kWh 
+17.4%
+477.7
+35.00
+34.57
+37.4
+122.7
+64.8
+269.2
+73.7
+52.7
+64.3
+50.2
+29.54
+20.41
+9.13
+15.3
+24.58
+24.58
+0.94
+26.09
+7,620
+107,646
+100
+77
+122.7
+-0.017
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Adj Amps for Higher Post Discharge PSI 
+ 
+Suction Temperature  
+Discharge Temperature 
+ 
+Suction Pressure 
+ 
+Discharge Pressure 
+ 
+Entering Air DB 
+ 
+Leaving Air DB 
+ 
+Entering Air WB 
+ 
+Leaving Air WB 
+ 
+Enthalpy of Entering WB 
+ 
+Enthalpy of Leaving WB 
+ 
+Delta-T of Enthalpy 
+ 
+Evaporator Approach  
+kW (V x A x 1.47) 
+ 
+Adjusted kW  
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Unit CFM 
+ 
+Adjusted Annual kWh  
+ 
+Unit % Load During Testing  
+OAT 
+ 
+Adj for Diﬀerences in CDR Pressures 
+ 
+Adj for Cooler Post on Condenser Coils 
+ 
+476.6
+36.97
+39.9
+120.6
+68.6
+261.9
+75
+55.7
+64.1
+52
+29.39
+21.44
+7.95
+15.8
+25.90
+29.74
+1.14
+22.72
+7,620
+130,261
+100
+87
+120.6
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 016 ═══
+
+®
+2.63
+POST
+BASELINE
+1.57
+kW/ton
+REDUCTION
+40.3%
+REDUCTION
+POST
+BASELINE
+Adj. Operating Tonnage
+66.1%
+177%
+POST
+BASELINE
+Chilled Water Delta
+IMPROVEMENT
+2.2
+18.3
+30.4
+99,008
+Results for Laundry Chiller After Treatment with
+PermaFrost NMR®
+HVAC Equipment Manufacturer
+RTAC1404
+U04J07770
+R134A
+140
+2,080
+2002
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+478.3
+113.3
+67.6
+43
+127.8
+47.8
+53.9
+Air Cooled
+Air Cooled
+6.1
+79.7
+47.6
+1.57
+40.3%
+51
+30.4
+200
+165,696
+86.5
+75
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Amps Adj by kW/Ton % Reduction 
+ 
+Saturated Suction Temperature 
+ 
+Discharge Refrigerant Temperature  
+Chilled Water Leaving Temp (Supply) 
+ 
+Chilled Water Entering Temp (Return) 
+ 
+Condenser Water Temp Entering Chiller 
+ 
+Condenser Water Temp leaving Chiller 
+ 
+Chilled Water Delta T 
+kW (V x A x 1.47) 
+ 
+kW Adj by kW/Ton % Reduction 
+ 
+kW / Ton 
+ 
+Percentage Reduction in Post kW/Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Actual Tons Adj by kW/Ton % Reduction  
+ 
+Chiller GPM  
+Annual kWh (before adj higher post load)  
+Chiller Load % During Testing 
+ 
+OAT 
+ 
+479.8
+68.5
+39.1
+105.1
+41.5
+43.7
+Air Cooled
+Air Cooled
+2.2
+48.3
+2.63
+18.3
+200
+100,492
+49.3
+87
+15
+Notes
+The chiller provides cooling to the laundry 
+facility on the 1st floor at Retail Chain C complex. Given 
+the average building load, the chiller runs 
+approximately 2,080 hours or more annually 
+prior to the ECM being implemented.
+IMPROVEMENT
+POST
+BASELINE
+166,400
+Calculated Annual kWh 
+40.5%
+6.1
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+

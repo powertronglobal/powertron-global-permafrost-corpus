@@ -1,0 +1,51 @@
+24        IPMVP Framework and Options 
+ 
+Option B: Calculations 
+General Equation 1) in Chapter 4.1 is used in all IPMVP adherent computations. However under 
+Option B, there may be no need for adjustments, routine or non-routine, depending upon the 
+location of the measurement boundary, the length of the reporting period, or the amount of time 
+between baseline and reporting period measurements. Therefore, for Option B, Equation 1 may 
+simplify down to: 
+ 
+Option B Savings  =  Baseline Energy  -  Reporting-Period Energy  
+1e) 
+ 
+Option B: Best Applications  
+In addition to the retrofit-isolation methods in Chapter 4.8, above, Option B is best applied 
+where:  
+ 
+Meters added for isolation purposes will be used for other purposes such as operational 
+feedback or tenant billing.  
+ 
+Measurement of all parameters is less costly than simulation in Option D. 
+ 
+Savings or operations within the measurement boundary are variable.  
+4.7.3 Retrofit Isolation Measurement Issues 
+Retrofit isolation usually requires the addition of special meters, on either a short term or 
+permanent basis. These meters may be installed during an energy audit to help characterize 
+energy use before design of the ECM. Or meters may be installed to measures baseline 
+performance for an M&V Plan.  
+You can measure temperature, humidity, flow, pressure, equipment runtime, electricity or 
+thermal energy, for example, at the measurement boundary. Follow good measurement 
+practices to enable calculation of energy savings with reasonable accuracy and repeatability. 
+Measurement practices are continually evolving as metering equipment improves. Therefore, 
+use the latest measurement practices to support your savings (see also Chapter 8.11).  
+The following sections define some key measurement issues to consider when using retrofit-
+isolation techniques.   
+Electricity Measurements 
+To measure electricity accurately we measure the voltage, amperage and power factor, or true 
+rms10 wattage with a single instrument. However measurement of amperage and voltage alone 
+can adequately define wattage in purely resistive loads, such as incandescent lamps and 
+resistance heaters without blower motors. When measuring power, make sure that a resistive 
+load’s electrical wave-form is not distorted by other devices in the facility.  
+Measure electric demand at the same time that the power company determines the peak 
+demand for its billing. This measurement usually requires continuous recording of the demand 
+at the sub-meter. From this record, the sub-meter’s demand can be read for the time when the 
+power company reports that the peak demand occurred on its meter. The power company may 
+reveal the time of peak demand either on its invoices or by special report.  
+Electric-demand measurement methods vary amongst utilities. The method of measuring 
+electric demand on a sub-mter should replicate the method the power company uses for the 
+relevant billing meter. For example, if the power company calculates peak demand using fixed 
+                                                  
+10 Rms (root mean squared) values can be reported by solid state digital instruments to properly account for the net 
+power when wave distortions exist in alternating current circuits. 

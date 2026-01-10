@@ -1,0 +1,40 @@
+®
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+12
+Improved Unit Cost Following ECM
+The “Unit Cost” in the HVAC industry is the kW/ton 
+ratio. KW/ton is commonly used for larger commercial 
+and industrial air conditioning, heat pump and 
+refrigeration systems. It is the HVAC industry’s standard 
+of determining how much energy is required to create a 
+single ton of cooling (i.e., conditioned air). When you 
+reduce the unit cost of cooling you are saving energy 
+regardless of how much overall cooling is required.
+The chart to the right clearly illustrates the amount of 
+efficiency restoration the ECM created in the 25-ton pilot 
+RTU after treatment. The treated RTU is now performing 
+26.3% more efficiently than before being treated. This 
+degradation in operational efficiency was costing 
+Regional Telecom a substantial amount of money in wasted 
+energy.  
+kW/ton
+ .31 kW/ton
+Recovered
+Energy
+Equating to a
+26.3% Reduction
+25-Ton System Performance Eﬃciency
+After Treatment
+Baseline
+Post ECM
+1.18
+0.87
+KINGMAN 25-TON PILOT UNIT DATA
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

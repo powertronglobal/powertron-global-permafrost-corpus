@@ -1,0 +1,288 @@
+{
+  "title": "International Market Playbooks",
+  "version": "1.0.0",
+  "last_updated": "2025-12-28",
+  "purpose": "Region-specific market guidance for international PermaFrost deployments",
+  "data_source": "22 international measurements from corpus geographic_index.json",
+
+  "market_overview": {
+    "total_international_measurements": 22,
+    "countries_with_installations": 5,
+    "regions_covered": ["Latin America", "Caribbean", "Europe", "Africa"],
+    "note": "International deployments follow same M&V methodology as US installations"
+  },
+
+  "latin_america": {
+    "brazil": {
+      "measurements": 8,
+      "market_status": "Active with established presence",
+      "industries_served": ["Banking", "Telecom", "Commercial"],
+      "key_considerations": {
+        "climate": "Tropical climate means higher cooling loads and more runtime hours",
+        "energy_costs": "High electricity rates increase ROI potential",
+        "refrigerants": "R-22 still common in older equipment; R-410A in newer",
+        "regulations": "Following Kigali Amendment timeline (Group 1 developing)"
+      },
+      "sales_approach": {
+        "value_proposition": "High runtime hours in tropical climate maximize savings",
+        "key_metrics": "Emphasize annual savings in local currency (BRL)",
+        "documentation": "PE-certified reports translate to local credibility",
+        "typical_payback": "6-12 months due to extended runtime"
+      },
+      "technical_notes": {
+        "voltage": "220V standard (some 380V three-phase)",
+        "frequency": "60 Hz (compatible with US equipment)",
+        "formulations": "Same as US - DX Synthetic/Mineral, Chiller variants"
+      }
+    },
+    "mexico": {
+      "measurements": 0,
+      "market_status": "Emerging opportunity",
+      "market_potential": {
+        "proximity": "Border proximity to US simplifies logistics",
+        "climate": "Northern regions seasonal; central/south tropical",
+        "industry": "Manufacturing (maquiladoras), hospitality, commercial"
+      },
+      "entry_considerations": [
+        "Spanish language documentation needed",
+        "Local technical support partnerships",
+        "CFE (utility) potential for rebate programs"
+      ]
+    },
+    "puerto_rico": {
+      "measurements": 3,
+      "market_status": "Active - US territory",
+      "key_considerations": {
+        "regulatory": "US EPA regulations apply",
+        "utility": "LUMA Energy - high electricity rates",
+        "climate": "Tropical - year-round cooling demand",
+        "logistics": "No customs barriers (US territory)"
+      },
+      "value_proposition": "High energy costs + year-round cooling = rapid payback"
+    }
+  },
+
+  "caribbean": {
+    "[Caribbean Location]": {
+      "measurements": 7,
+      "market_status": "Proven success - hospitality focus",
+      "industries_served": ["Hospitality", "Commercial"],
+      "key_considerations": {
+        "climate": "Tropical marine - consistent year-round cooling loads",
+        "energy_source": "Island grid with high generation costs",
+        "primary_sector": "Tourism/hospitality drives demand"
+      },
+      "sales_approach": {
+        "Retail Chain A": "Hotels, resorts, casinos",
+        "value_proposition": "Energy efficiency directly impacts operating margins",
+        "key_metric": "Cost per occupied room reduced",
+        "sustainability": "Green credentials valuable for eco-tourism"
+      },
+      "documented_results": {
+        "note": "Hotel Chain A [Caribbean Location] installation documented in corpus",
+        "equipment_types": ["Chillers", "RTUs"]
+      }
+    },
+    "caribbean_expansion": {
+      "Retail Chain A_markets": ["Bahamas", "Jamaica", "Dominican Republic", "Cayman Islands"],
+      "common_factors": [
+        "High electricity costs (island generation)",
+        "Tourism-dependent economies",
+        "Year-round cooling demand",
+        "US equipment common"
+      ],
+      "approach": "Reference [Caribbean Location] success for regional credibility"
+    }
+  },
+
+  "europe": {
+    "united_kingdom": {
+      "measurements": 2,
+      "market_status": "Early presence",
+      "key_considerations": {
+        "climate": "Moderate cooling season (May-September)",
+        "regulations": "UK F-gas regulations post-Brexit",
+        "energy_costs": "High electricity rates support ROI",
+        "standards": "CE marking considerations for additives"
+      },
+      "market_approach": {
+        "runtime_reality": "Shorter cooling season = longer payback than tropical",
+        "typical_payback": "18-30 months (seasonal operation)",
+        "Retail Chain A_sectors": "Data centers (24/7 operation), commercial offices"
+      },
+      "data_center_opportunity": {
+        "uk_data_center_growth": "London is major European data center hub",
+        "value_proposition": "PUE improvement, 24/7 operation maximizes savings"
+      }
+    },
+    "european_union": {
+      "measurements": 0,
+      "market_status": "Expansion Retail Chain A",
+      "regulatory_environment": {
+        "f_gas_regulation": "EU 517/2014 - aggressive HFC phase-down",
+        "current_phase": "31% of baseline by 2024",
+        "impact": "Equipment efficiency increasingly important as refrigerant costs rise"
+      },
+      "Retail Chain A_markets": {
+        "southern_europe": {
+          "countries": ["Spain", "Italy", "Greece", "Portugal"],
+          "rationale": "Mediterranean climate = extended cooling season",
+          "typical_payback": "12-18 months"
+        },
+        "central_europe": {
+          "countries": ["Germany", "France", "Netherlands", "Belgium"],
+          "rationale": "Data centers, commercial buildings",
+          "typical_payback": "18-24 months (shorter season)"
+        }
+      },
+      "entry_requirements": [
+        "CE marking compliance",
+        "REACH chemical registration",
+        "Local language documentation",
+        "EU distributor partnerships"
+      ]
+    }
+  },
+
+  "africa_middle_east": {
+    "south_africa": {
+      "measurements": 2,
+      "market_status": "Proven presence",
+      "key_considerations": {
+        "energy_crisis": "Eskom load-shedding makes efficiency critical",
+        "climate": "Moderate - Johannesburg; Mediterranean - Cape Town",
+        "banking_sector": "Strong presence (International Bank A documented)"
+      },
+      "value_proposition": {
+        "primary": "Reduce grid dependence during load-shedding",
+        "secondary": "Lower operating costs in competitive banking sector",
+        "tertiary": "Corporate sustainability requirements"
+      },
+      "expansion_potential": {
+        "sectors": ["Banking", "Mining", "Commercial", "Data centers"],
+        "note": "Johannesburg emerging as African data center hub"
+      }
+    },
+    "middle_east": {
+      "measurements": 0,
+      "market_status": "High potential - unexplored",
+      "market_characteristics": {
+        "climate": "Extreme cooling loads (40-50C summers)",
+        "runtime": "Near 24/7 cooling in summer months",
+        "energy_subsidies": "Some markets have subsidized electricity (reducing ROI)"
+      },
+      "Retail Chain A_markets": {
+        "uae": {
+          "opportunity": "Dubai, Abu Dhabi commercial and hospitality",
+          "challenge": "Subsidized electricity in some sectors",
+          "approach": "Retail Chain A private commercial where full rates apply"
+        },
+        "saudi_arabia": {
+          "opportunity": "Vision 2030 sustainability initiatives",
+          "sectors": "Commercial, industrial, hospitality",
+          "approach": "Sustainability angle for government buildings"
+        }
+      },
+      "considerations": [
+        "Extreme heat validates efficiency improvements",
+        "Gulf states investing in sustainability",
+        "Local technical partnerships essential"
+      ]
+    }
+  },
+
+  "asia_pacific": {
+    "market_status": "Future expansion territory",
+    "no_current_measurements": true,
+    "Retail Chain A_markets": {
+      "australia": {
+        "opportunity": "Similar regulatory environment to US/EU",
+        "climate": "Varies - tropical north to temperate south",
+        "approach": "Reference South Africa success for similar market profile"
+      },
+      "singapore": {
+        "opportunity": "Major data center hub, year-round cooling",
+        "climate": "Tropical - consistent 24/7 cooling loads",
+        "approach": "PUE focus for data center sector"
+      },
+      "india": {
+        "opportunity": "Massive commercial growth, high cooling demand",
+        "challenge": "Price sensitivity, local competition",
+        "approach": "Retail Chain A multinational corporate facilities"
+      }
+    }
+  },
+
+  "cross_market_themes": {
+    "data_centers": {
+      "universal_appeal": "PUE improvement relevant in all markets",
+      "24_7_operation": "Maximizes annual savings regardless of location",
+      "Retail Chain A_everywhere": "Global data center operators (Equinix, Digital Realty, etc.)"
+    },
+    "banking_financial": {
+      "proven_sector": "Major Global Bank A, Major Bank B, International Bank A all documented",
+      "global_presence": "Major banks have facilities worldwide",
+      "approach": "Reference existing bank installations for credibility"
+    },
+    "hospitality": {
+      "tropical_focus": "Hotels in warm climates ideal candidates",
+      "chain_rollouts": "Success at one property enables portfolio approach",
+      "sustainability": "Green credentials valuable for eco-tourism"
+    }
+  },
+
+  "localization_requirements": {
+    "documentation": {
+      "required": [
+        "Technical specifications in local language",
+        "M&V reports with local units (metric)",
+        "Safety data sheets per local regulations"
+      ],
+      "recommended": [
+        "Case studies from similar climate/market",
+        "Local currency financial projections",
+        "References from recognized local companies"
+      ]
+    },
+    "regulatory": {
+      "considerations": [
+        "Chemical registration (REACH in EU)",
+        "Import requirements",
+        "Environmental compliance",
+        "Professional certification recognition"
+      ]
+    },
+    "operational": {
+      "requirements": [
+        "Local technical support capability",
+        "Training for local technicians",
+        "Supply chain for product availability",
+        "Warranty support in local market"
+      ]
+    }
+  },
+
+  "training_notes": {
+    "key_messages": [
+      "International deployments follow same proven M&V methodology",
+      "Tropical/warm climates offer faster payback due to runtime",
+      "Data centers are universal targets regardless of location",
+      "Reference existing international installations for credibility",
+      "Adjust payback expectations for seasonal markets"
+    ],
+    "common_objections": [
+      {
+        "objection": "Is this proven outside the US?",
+        "response": "Yes - documented installations in Brazil, [Caribbean Location], UK, South Africa, Puerto Rico with same PE-certified methodology"
+      },
+      {
+        "objection": "Will it work in extreme heat?",
+        "response": "The hotter the climate, the more runtime hours to capture efficiency gains. Tropical climates typically see faster payback"
+      },
+      {
+        "objection": "What about local regulations?",
+        "response": "PermaFrost is a treatment additive, not a refrigerant - not subject to refrigerant regulations. Compatible with all common refrigerants"
+      }
+    ]
+  }
+}

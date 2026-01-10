@@ -1,0 +1,41 @@
+ 
+10 
+• Chiller kW;  
+• Chilled Water flow in GPM 
+• Condenser water flow in GPM (water cooled only) 
+• Delta T across the cooler  
+• Delta T across the condenser (water cooled only)  
+• Operating Tonnage;  
+• kW per Ton 
+• Actual tonnage  
+• Outdoor air temperature and humidity 
+ 
+The following parameters were calculated for standard HVAC system site before and after 
+PermaFrost NMR® injection: 
+ 
+• kW=Volts * Amps * (1.47 single phase  OR 1.56 for 3-phase ) / 1000 
+• Delta T = Return Air DB – Supply Air DB 
+• Enthalpy = Return Air WB Deg. F and Supply Air WB Deg. F Converted to Enthalpy 
+• Actual Btuh Capacity = Measured CFM X 4.5 * Enthalpy Delta 
+• System Efficiency % = Actual Coil Capacity Btuh / Nominal Coil Capacity Btuh 
+• EER = Btuh / Watts 
+ 
+For the Chillers, the following were calculated before and after PermaFrost NMR® injection: 
+ 
+• kW=Volts * Amps * .85 * 1.732 / 1000 
+• GPM2 = GPM * Measured Pressure Drop (ft) / by Design Pressure Drop (ft) (sqd) 
+• Cooling tons/hr = Evaporator GPM X 8.34 * 60 * Chilled Water Delta T / 12,000 BTU 
+• kW per Ton  = Actual kW / Actual Tonnage 
+• COP = 12 / kW per ton / 3.412 
+• Refrigerant Approach = Supply Water Temp – Saturated Evaporator Temp 
+ 
+Task 2 
+ 
+A draft report of the data developed will be created for review by Powertron Global personnel 
+concerning the PermaFrost NMR® product.  Included were the results of the control tests.  
+ 
+Task 3 
+ 
+A final report of the data developed will be created for use with the PermaFrost NMR® product.   
+ 
+ 

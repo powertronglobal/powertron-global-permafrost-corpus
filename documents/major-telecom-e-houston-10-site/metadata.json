@@ -1,0 +1,352 @@
+{
+  "doc_id": "major-telecom-e-houston-10-site",
+  "slug": "major-telecom-e-houston-10-site",
+  "title": "Major Telecom E SITE Field Study",
+  "source_type": "tabular",
+  "source_folder": "Major Telecom E Houston 10 Cell Tower Hub Site Confirmatory Test",
+  "source_files": [
+    {
+      "filename": "Major Telecom A CTH Data Tables CDD Runtimes.csv",
+      "type": "csv",
+      "rows": 497,
+      "period": "unknown",
+      "size_bytes": 22094
+    },
+    {
+      "filename": "Baseline_507 thermal data.csv",
+      "type": "csv",
+      "rows": 52981,
+      "period": "baseline",
+      "size_bytes": 11942441
+    },
+    {
+      "filename": "Baseline_509 Thermal Data.csv",
+      "type": "csv",
+      "rows": 46304,
+      "period": "baseline",
+      "size_bytes": 10291820
+    },
+    {
+      "filename": "Baseline_510 Thermal Data.csv",
+      "type": "csv",
+      "rows": 83300,
+      "period": "baseline",
+      "size_bytes": 18707797
+    },
+    {
+      "filename": "Baseline_520 Thermal Data.csv",
+      "type": "csv",
+      "rows": 92487,
+      "period": "baseline",
+      "size_bytes": 20401426
+    },
+    {
+      "filename": "Node 507 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 28575,
+      "period": "baseline",
+      "size_bytes": 853449
+    },
+    {
+      "filename": "Node 507 Post.xlsx",
+      "type": "xlsx",
+      "rows": 28638,
+      "period": "post",
+      "size_bytes": 848063
+    },
+    {
+      "filename": "Node 509 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 28364,
+      "period": "baseline",
+      "size_bytes": 785263
+    },
+    {
+      "filename": "Node 509 Post.xlsx",
+      "type": "xlsx",
+      "rows": 28695,
+      "period": "post",
+      "size_bytes": 812526
+    },
+    {
+      "filename": "Node 510 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 28423,
+      "period": "baseline",
+      "size_bytes": 842279
+    },
+    {
+      "filename": "Node 510 Post.xlsx",
+      "type": "xlsx",
+      "rows": 28708,
+      "period": "post",
+      "size_bytes": 827010
+    },
+    {
+      "filename": "Node 511 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 28546,
+      "period": "baseline",
+      "size_bytes": 836748
+    },
+    {
+      "filename": "Node 511 Post.xlsx",
+      "type": "xlsx",
+      "rows": 28769,
+      "period": "post",
+      "size_bytes": 836171
+    },
+    {
+      "filename": "Node 512 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 28594,
+      "period": "baseline",
+      "size_bytes": 846788
+    },
+    {
+      "filename": "Node 512 Post.xlsx",
+      "type": "xlsx",
+      "rows": 28777,
+      "period": "post",
+      "size_bytes": 845592
+    },
+    {
+      "filename": "Node 513 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 27591,
+      "period": "baseline",
+      "size_bytes": 821594
+    },
+    {
+      "filename": "Node 513 Post.xlsx",
+      "type": "xlsx",
+      "rows": 28594,
+      "period": "post",
+      "size_bytes": 854445
+    },
+    {
+      "filename": "Node 514 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 27635,
+      "period": "baseline",
+      "size_bytes": 829685
+    },
+    {
+      "filename": "Node 514 Post.xlsx",
+      "type": "xlsx",
+      "rows": 28624,
+      "period": "post",
+      "size_bytes": 847047
+    },
+    {
+      "filename": "Node 515 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 28583,
+      "period": "baseline",
+      "size_bytes": 818579
+    },
+    {
+      "filename": "Node 515 Post.xlsx",
+      "type": "xlsx",
+      "rows": 28593,
+      "period": "post",
+      "size_bytes": 812151
+    },
+    {
+      "filename": "Node 516 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 28456,
+      "period": "baseline",
+      "size_bytes": 843245
+    },
+    {
+      "filename": "Node 516 Post.xlsx",
+      "type": "xlsx",
+      "rows": 28698,
+      "period": "post",
+      "size_bytes": 842701
+    },
+    {
+      "filename": "Node 517 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 28532,
+      "period": "baseline",
+      "size_bytes": 790873
+    },
+    {
+      "filename": "Node 517 Post.xlsx",
+      "type": "xlsx",
+      "rows": 28626,
+      "period": "post",
+      "size_bytes": 805312
+    },
+    {
+      "filename": "Node 518 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 28536,
+      "period": "baseline",
+      "size_bytes": 809727
+    },
+    {
+      "filename": "Node 518 Post.xlsx",
+      "type": "xlsx",
+      "rows": 28770,
+      "period": "post",
+      "size_bytes": 810827
+    },
+    {
+      "filename": "Node 519 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 28621,
+      "period": "baseline",
+      "size_bytes": 1335775
+    },
+    {
+      "filename": "Node 519 Post.xlsx",
+      "type": "xlsx",
+      "rows": 28767,
+      "period": "post",
+      "size_bytes": 1334026
+    },
+    {
+      "filename": "Node 520 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 28551,
+      "period": "baseline",
+      "size_bytes": 1002221
+    },
+    {
+      "filename": "Node 520 Post.xlsx",
+      "type": "xlsx",
+      "rows": 28750,
+      "period": "post",
+      "size_bytes": 1082054
+    },
+    {
+      "filename": "Node 521 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 28531,
+      "period": "baseline",
+      "size_bytes": 857132
+    },
+    {
+      "filename": "Node 521 Post.xlsx",
+      "type": "xlsx",
+      "rows": 28763,
+      "period": "post",
+      "size_bytes": 850213
+    },
+    {
+      "filename": "Node 522 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 28518,
+      "period": "baseline",
+      "size_bytes": 841272
+    },
+    {
+      "filename": "Node 522 Post.xlsx",
+      "type": "xlsx",
+      "rows": 28774,
+      "period": "post",
+      "size_bytes": 837800
+    },
+    {
+      "filename": "Node 523 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 28577,
+      "period": "baseline",
+      "size_bytes": 834611
+    },
+    {
+      "filename": "Node 523 Post.xlsx",
+      "type": "xlsx",
+      "rows": 28634,
+      "period": "post",
+      "size_bytes": 835124
+    },
+    {
+      "filename": "Node 524 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 28562,
+      "period": "baseline",
+      "size_bytes": 832468
+    },
+    {
+      "filename": "Node 524 Post.xlsx",
+      "type": "xlsx",
+      "rows": 27495,
+      "period": "post",
+      "size_bytes": 789300
+    },
+    {
+      "filename": "Node 525 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 28391,
+      "period": "baseline",
+      "size_bytes": 873384
+    },
+    {
+      "filename": "Node 525 Post.xlsx",
+      "type": "xlsx",
+      "rows": 28592,
+      "period": "post",
+      "size_bytes": 876937
+    },
+    {
+      "filename": "Node 526 Baseline.xlsx",
+      "type": "xlsx",
+      "rows": 28587,
+      "period": "baseline",
+      "size_bytes": 873642
+    },
+    {
+      "filename": "Node 526 Post.xlsx",
+      "type": "xlsx",
+      "rows": 28722,
+      "period": "post",
+      "size_bytes": 872152
+    },
+    {
+      "filename": "Post_507 Thermal Data.csv",
+      "type": "csv",
+      "rows": 42664,
+      "period": "post",
+      "size_bytes": 9469348
+    },
+    {
+      "filename": "Post_509 Thermal Data.csv",
+      "type": "csv",
+      "rows": 68164,
+      "period": "post",
+      "size_bytes": 15236019
+    },
+    {
+      "filename": "Post_510 Thermal Data.csv",
+      "type": "csv",
+      "rows": 1912,
+      "period": "post",
+      "size_bytes": 430310
+    },
+    {
+      "filename": "Post_520 Thermal Data.csv",
+      "type": "csv",
+      "rows": 26536,
+      "period": "post",
+      "size_bytes": 5985736
+    }
+  ],
+  "data_resolution": {
+    "type": "time_series",
+    "total_rows": 1499007
+  },
+  "company": {
+    "name": "Major Telecom E",
+    "industry": "Telecommunications"
+  },
+  "created_at": "2026-01-05T21:30:46.037724",
+  "processing_version": "1.0.0",
+  "ashrae_compliance": {
+    "standard": "ASHRAE Guideline 14-2014",
+    "note": "High-resolution time-series data supports detailed analysis"
+  }
+}

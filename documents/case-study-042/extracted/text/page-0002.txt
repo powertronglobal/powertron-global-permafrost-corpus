@@ -1,0 +1,27 @@
+Performance Report on PermaFrost NMR® ECM
+Major Restaurant Chain’ Donuts - 2 locations
+September 6, 2012
+Executive Summary
+        This report contains specific information regarding the installation of the energy control measure (ECM) 
+PermaFrost NMR®.  Though all of the HVAC and refrigeration units supporting the two Major Restaurant Chain Donuts 
+locations involved in the pilot were treated, detailed forensic performance testing (outlined later in this 
+report) was performed on 50% of the operating units at each location.  The three units tested were all Carrier 
+packaged rooftop units using R22 refrigerant and totaling 13 tons (one 5-ton unit and two 4-ton units).  
+These two particular franchise locations are part of a series of stores owned by Chandresh Patel in the 
+Detroit metropolitan area.
+ 
+The substantial improvement in efficiency and restored capacity gained directly at the units was solely 
+attributable to the PermaFrost NMR® ECM.  The units now provide cooler supply air with greater efficiency 
+due to the restoration of the heat transfer ability of the evaporator and condenser coils, both of which have a 
+direct correlation to an increase in the number of Btuh the machines are now capable of producing. 
+ 
+Total system efficiency across all three units improved by an average of 21.8%, while the EER across the 
+units rose by 25.9%. There was an overall increase in coil capacity of 28,260 Btuh, equating to the restoration 
+of 2.36-tons of capacity or 18.1%.  There is also a reduction of 19.5% in both total power and watts per ton, 
+which is another measurable way to view the thermodynamic enhancement of the PermaFrost NMR® 
+ECM.  Without any power company rebates factored in, the result of the average ECM improvements is an 
+ROI to Major Restaurant Chain Donuts of just 9.6 months based on the runtime information provided to the team by the 
+store owners.  The tables of data and financial calculations are available for review at the end of this report.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

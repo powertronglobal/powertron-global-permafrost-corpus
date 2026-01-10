@@ -1,0 +1,714 @@
+{
+  "title": "PII Unicorn Check Report",
+  "generated": "2026-01-07T11:47:20.300849",
+  "purpose": "Identifies records where State + Industry combination could reveal customer identity despite name obfuscation",
+  "summary": {
+    "total_records": 134,
+    "records_with_state": 97,
+    "unicorns_found": 38,
+    "critical_risk": 0,
+    "high_risk": 38
+  },
+  "risk_definitions": {
+    "CRITICAL": "Small state (<5 records) + specific industry = highly identifiable",
+    "HIGH": "Single customer per industry in any state"
+  },
+  "recommended_action": "Replace 'state' with 'region' or 'climate_zone' for flagged records",
+  "unicorns": [
+    {
+      "state": "AL",
+      "industry": "commercial",
+      "risk_level": "HIGH",
+      "customer_pattern": "Southern City Facility A",
+      "study_count": 1,
+      "studies": [
+        "CS_004"
+      ],
+      "climate_zones": [
+        "3A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "AL",
+      "industry": "manufacturing",
+      "risk_level": "HIGH",
+      "customer_pattern": "Major Tire Mfg_gadsen",
+      "study_count": 1,
+      "studies": [
+        "CS_039"
+      ],
+      "climate_zones": [
+        "3A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "CA",
+      "industry": "banking",
+      "risk_level": "HIGH",
+      "customer_pattern": "REIT B",
+      "study_count": 1,
+      "studies": [
+        "CS_053"
+      ],
+      "climate_zones": [
+        "3B"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "West",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "CA",
+      "industry": "data_center",
+      "risk_level": "HIGH",
+      "customer_pattern": "Data Center B_chiller",
+      "study_count": 1,
+      "studies": [
+        "CS_076"
+      ],
+      "climate_zones": [
+        "3B"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "West",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "CT",
+      "industry": "pharmaceutical",
+      "risk_level": "HIGH",
+      "customer_pattern": "Pharma Company B_[Connecticut Location]",
+      "study_count": 1,
+      "studies": [
+        "CS_027"
+      ],
+      "climate_zones": [
+        "5A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Northeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "DC",
+      "industry": "banking",
+      "risk_level": "HIGH",
+      "customer_pattern": "Real Estate Company C",
+      "study_count": 1,
+      "studies": [
+        "CS_033"
+      ],
+      "climate_zones": [
+        "4A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "FL",
+      "industry": "banking",
+      "risk_level": "HIGH",
+      "customer_pattern": "Financial Services A",
+      "study_count": 1,
+      "studies": [
+        "CS_038"
+      ],
+      "climate_zones": [
+        "2A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "FL",
+      "industry": "commercial",
+      "risk_level": "HIGH",
+      "customer_pattern": "Space Center Visitor Complex A",
+      "study_count": 1,
+      "studies": [
+        "CS_050"
+      ],
+      "climate_zones": [
+        "2A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "FL",
+      "industry": "entertainment",
+      "risk_level": "HIGH",
+      "customer_pattern": "Sports Organization A_HQ",
+      "study_count": 1,
+      "studies": [
+        "CS_087"
+      ],
+      "climate_zones": [
+        "2A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "FL",
+      "industry": "lab_report",
+      "risk_level": "HIGH",
+      "customer_pattern": "2022_Oakridge_FAU-report",
+      "study_count": 1,
+      "studies": [
+        "CS_126"
+      ],
+      "climate_zones": [
+        "2A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "GA",
+      "industry": "telecommunications",
+      "risk_level": "HIGH",
+      "customer_pattern": "ISP A",
+      "study_count": 1,
+      "studies": [
+        "CS_001"
+      ],
+      "climate_zones": [
+        "3A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "HI",
+      "industry": "banking",
+      "risk_level": "HIGH",
+      "customer_pattern": "Nonprofit Fitness A_HI_Reportv3",
+      "study_count": 1,
+      "studies": [
+        "CS_057"
+      ],
+      "climate_zones": [
+        "1A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Pacific",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "HI",
+      "industry": "healthcare",
+      "risk_level": "HIGH",
+      "customer_pattern": "Healthcare A_post report_v3",
+      "study_count": 1,
+      "studies": [
+        "CS_094"
+      ],
+      "climate_zones": [
+        "1A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Pacific",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "IL",
+      "industry": "banking",
+      "risk_level": "HIGH",
+      "customer_pattern": "Data Center C",
+      "study_count": 1,
+      "studies": [
+        "CS_014"
+      ],
+      "climate_zones": [
+        "5A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Midwest",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "LA",
+      "industry": "hospitality",
+      "risk_level": "HIGH",
+      "customer_pattern": "Hotel Chain A [Louisiana Location]",
+      "study_count": 1,
+      "studies": [
+        "CS_002"
+      ],
+      "climate_zones": [
+        "2A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "MA",
+      "industry": "banking",
+      "risk_level": "HIGH",
+      "customer_pattern": "Island Location A Arena",
+      "study_count": 1,
+      "studies": [
+        "CS_106"
+      ],
+      "climate_zones": [
+        "5A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Northeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "MD",
+      "industry": "retail",
+      "risk_level": "HIGH",
+      "customer_pattern": "Grocery Chain A",
+      "study_count": 1,
+      "studies": [
+        "CS_012"
+      ],
+      "climate_zones": [
+        "4A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "MD",
+      "industry": "government",
+      "risk_level": "HIGH",
+      "customer_pattern": "County Law Enforcement A",
+      "study_count": 1,
+      "studies": [
+        "CS_021"
+      ],
+      "climate_zones": [
+        "4A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "MD",
+      "industry": "food_manufacturing",
+      "risk_level": "HIGH",
+      "customer_pattern": "Food Mfg A",
+      "study_count": 1,
+      "studies": [
+        "CS_075"
+      ],
+      "climate_zones": [
+        "4A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "MD",
+      "industry": "banking",
+      "risk_level": "HIGH",
+      "customer_pattern": "Convenience Chain A",
+      "study_count": 1,
+      "studies": [
+        "CS_107"
+      ],
+      "climate_zones": [
+        "4A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "MD",
+      "industry": "education",
+      "risk_level": "HIGH",
+      "customer_pattern": "Educational Institution A",
+      "study_count": 1,
+      "studies": [
+        "CS_108"
+      ],
+      "climate_zones": [
+        "4A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "MO",
+      "industry": "hospitality",
+      "risk_level": "HIGH",
+      "customer_pattern": "Gaming Company A",
+      "study_count": 1,
+      "studies": [
+        "CS_020"
+      ],
+      "climate_zones": [
+        "4A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Midwest",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "NJ",
+      "industry": "food_manufacturing",
+      "risk_level": "HIGH",
+      "customer_pattern": "Food Producer A",
+      "study_count": 1,
+      "studies": [
+        "CS_019"
+      ],
+      "climate_zones": [
+        "4A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Northeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "NJ",
+      "industry": "healthcare",
+      "risk_level": "HIGH",
+      "customer_pattern": "Regional Hospital A",
+      "study_count": 1,
+      "studies": [
+        "CS_064"
+      ],
+      "climate_zones": [
+        "4A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Northeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "NJ",
+      "industry": "pharmaceutical",
+      "risk_level": "HIGH",
+      "customer_pattern": "Pharma Company B_NB",
+      "study_count": 1,
+      "studies": [
+        "CS_073"
+      ],
+      "climate_zones": [
+        "4A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Northeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "NV",
+      "industry": "banking",
+      "risk_level": "HIGH",
+      "customer_pattern": "Commercial Property A",
+      "study_count": 1,
+      "studies": [
+        "CS_080"
+      ],
+      "climate_zones": [
+        "3B"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "West",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "NY",
+      "industry": "telecommunications",
+      "risk_level": "HIGH",
+      "customer_pattern": "Major Telecom B",
+      "study_count": 1,
+      "studies": [
+        "CS_054"
+      ],
+      "climate_zones": [
+        "5A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Northeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "NY",
+      "industry": "real_estate",
+      "risk_level": "HIGH",
+      "customer_pattern": "Real Estate A_River",
+      "study_count": 1,
+      "studies": [
+        "CS_055"
+      ],
+      "climate_zones": [
+        "5A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Northeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "NY",
+      "industry": "commercial",
+      "risk_level": "HIGH",
+      "customer_pattern": "Company A",
+      "study_count": 1,
+      "studies": [
+        "CS_062"
+      ],
+      "climate_zones": [
+        "5A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Northeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "NY",
+      "industry": "military",
+      "risk_level": "HIGH",
+      "customer_pattern": "Healthcare System A",
+      "study_count": 1,
+      "studies": [
+        "CS_097"
+      ],
+      "climate_zones": [
+        "5A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Northeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "PA",
+      "industry": "banking",
+      "risk_level": "HIGH",
+      "customer_pattern": "Regional ISP A",
+      "study_count": 1,
+      "studies": [
+        "CS_041"
+      ],
+      "climate_zones": [
+        "5A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Northeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "PA",
+      "industry": "data_center",
+      "risk_level": "HIGH",
+      "customer_pattern": "Telecom Provider X",
+      "study_count": 1,
+      "studies": [
+        "CS_084"
+      ],
+      "climate_zones": [
+        "5A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Northeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "TN",
+      "industry": "telecommunications",
+      "risk_level": "HIGH",
+      "customer_pattern": "Major Telecom C",
+      "study_count": 1,
+      "studies": [
+        "CS_007"
+      ],
+      "climate_zones": [
+        "4A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "TX",
+      "industry": "hospitality",
+      "risk_level": "HIGH",
+      "customer_pattern": "Hotel Chain A [Caribbean Location]",
+      "study_count": 1,
+      "studies": [
+        "CS_022"
+      ],
+      "climate_zones": [
+        "2A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southwest",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "TX",
+      "industry": "industrial",
+      "risk_level": "HIGH",
+      "customer_pattern": "Electrical Distributor A",
+      "study_count": 1,
+      "studies": [
+        "CS_056"
+      ],
+      "climate_zones": [
+        "2A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southwest",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "VA",
+      "industry": "defense_contractor",
+      "risk_level": "HIGH",
+      "customer_pattern": "Defense Contractor A",
+      "study_count": 1,
+      "studies": [
+        "CS_005"
+      ],
+      "climate_zones": [
+        "4A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "VA",
+      "industry": "data_center",
+      "risk_level": "HIGH",
+      "customer_pattern": "Data Center B_RTU",
+      "study_count": 1,
+      "studies": [
+        "CS_052"
+      ],
+      "climate_zones": [
+        "4A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Southeast",
+        "use_climate_zone": true
+      }
+    },
+    {
+      "state": "WI",
+      "industry": "telecommunications",
+      "risk_level": "HIGH",
+      "customer_pattern": "Major Telecom A_Racine",
+      "study_count": 1,
+      "studies": [
+        "CS_029"
+      ],
+      "climate_zones": [
+        "6A"
+      ],
+      "recommended_replacement": {
+        "remove_state": true,
+        "suggested_region": "Midwest",
+        "use_climate_zone": true
+      }
+    }
+  ],
+  "mitigation_options": {
+    "option_a": "Replace state with region (Northeast/Southeast/Midwest/West/Pacific)",
+    "option_b": "Replace specific industry with generic category",
+    "option_c": "Use climate_zone as sole geographic identifier",
+    "option_d": "Remove state field entirely for unicorn records"
+  },
+  "mitigation_status": {
+    "applied": true,
+    "applied_date": "2026-01-07T11:49:14.580704",
+    "records_modified": 38
+  }
+}

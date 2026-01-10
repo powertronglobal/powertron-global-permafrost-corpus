@@ -1,0 +1,47 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2024 Powertron Global, LLC. 
+ 
+ 
+ 
+Project Description 
+ 
+Compliant testing is designed to monitor the operation of any system, before and 
+after installation of PermaFrost NMR® to verify the amount of thermal capacity 
+restored and current kW/ton energy savings improvement. Monitoring isolates the 
+entry and departure points of the medium being cooled and the electrical power 
+being used. Thus, the overall cooling capacity results can be compared to the 
+overall power required per unit of cooling kW/Ton (kilowatt-per-ton), EER (Energy 
+Efficiency Ratio), COP (Co-Efficient of Performance). 
+ 
+Notes: 
+ 
+Unit/Node 507 located at CK01 (2704090) in New Braunfels has both 
+compressors/circuits wired (“jumped”) in a way that typically calls for both 
+compressors each time it is called upon therefore causing this unit to handle the 
+building load quite the majority of the time (see 508 notes below).  
+ 
+This units staged cooling (first and second stage cooling) cannot function as per 
+the manufacturers as a result.   This condition drastically is reducing the life cycle 
+of this unit. Powertron recommends having a technician review this condition.  
+ 
+Unit/Node 508 located at CK01, (2704090) the adjacent unit to 507, only 
+operates during extreme temperatures when temperatures of >100 F are present.  
+An attempt was made to artificially make it run but was mostly unsuccessful 
+within a report structure. This unit is of 2023 vintage and contains some energy 
+efficient features not being utilized and could share the workload with 507. 
+ 
+Unit/Node 509 located at CK02 (2704091) is not called upon very often therefore 
+not obtaining the required gestation for the benefits of the product to take full 
+effect. Those benefits will eventually be realized at a later date once the unit runs 
+more. This will be likely when the warmer temps return in the spring. 
+ 
+Unit/Node 510 (also located at CK02) only runs with one compressor quite the 
+majority of the time therefore only obtaining the required gestation in only one 
+circuit/compressor. Powertron expects this unit to reach its full potential (circuit 2 
+improvements) once the warmer weather returns.  
+ 
+ 
+ 
+ 
+ 

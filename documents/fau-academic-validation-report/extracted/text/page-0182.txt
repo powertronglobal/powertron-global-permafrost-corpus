@@ -1,0 +1,51 @@
+82        Appendix A Examples 
+ 
+stated her energy budgets under long-term average weather conditions and the previous year’s 
+occupancy.  
+Results  In order to account for budget variances, as soon as a year was complete, the energy 
+manager prepared a regression model of the usage on each utility account, using actual 
+weather and occupancy factors for that year. She then took three steps to separately determine 
+the primary effects of weather, occupancy and utility rates: 
+ 
+Weather She inserted normal weather statistics into the most recent year’s models. Using 
+actual utility rates for the year, she determined how much the energy (and cost) would have 
+been if the weather had been normal. (She also noted how much the actual heating and 
+cooling degree days varied from normal, and from the previous year, at each location.) 
+ 
+Occupancy She inserted the occupancy factors of the previous year into the most recent 
+year’s models. Using actual utility rates for the recent year, she determined how much the 
+energy (and cost) would have been if the occupancy had been the same as the previous 
+year. (She also noted how much the occupancy had changed from year to year at each 
+location.) 
+ 
+Utility Rates She applied the previous year’s utility rate to the most recent year’s 
+consumption (and demand) to determine how much of the budget variance was related to 
+rate changes for each utility at each location. 
+With the impact of these three known variables defined, the energy manager still needed to 
+account for the remaining variances. So she inserted the recent year’s weather and occupancy 
+factors into the mathematical models of the previous year, and using current utility rates 
+reported cost avoidance from the previous year’s pattern. This cost avoidance was then 
+analyzed in relation to changes in static factors recorded for each site relative to the previous 
+year’s record.  All remaining variance was reported as truly random, or unknown phenomena.   
+This analysis process not only allowed the energy manager to account for budget variances, it 
+also informed her of where to focus efforts to manage unaccounted variances. In addition it 
+allowed her to make more informed budgets for subsequent years. 
+A-8  Multiple ECMs In A Building Without Energy Meters In The Baseline 
+Period – Option D  
+Situation  An energy efficiency project was implemented in an American university library 
+building, involving seven ECMs spanning lighting, HVAC, operator training and occupant 
+awareness campaigns. The building is part of a multiple-building campus without individual 
+building meters. The objectives of the project were to reduce energy costs in the library. 
+Factors Affecting The M&V Design  Since the project at the library was very small relative to 
+the entire campus, its effect could not be measured using the main campus utility meters. 
+The university wished to achieve savings as quickly as possible, despite the lack of a baseline 
+energy record.  
+Savings are to be reported continuously, as soon as possible after retrofit, using the then 
+current energy contract prices. 
+M&V Plan  It was decided not to wait to obtain a year’s worth of energy data from new meters 
+before implementing the measures.  Instead IPMVP Volume I, EVO 10000 – 1:2012, Option D, 
+Equation 1f) would be used, simulating pre-retrofit performance. Therefore, as part of the 
+energy-management program steam, electricity and electric demand meters were installed on 
+the main supply lines to the library.   
+The measurement boundary of this project was defined as all energy-using systems in the 
+library. However the important energy effect was at the main campus utility meters. To 

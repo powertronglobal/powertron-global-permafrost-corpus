@@ -1,0 +1,1628 @@
+═══ PAGE 001 ═══
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2017 Powertron Global, LLC. 
+Measurement & Verification (M&V) Report 
+PermaFrost NMR® Testing and Results
+ Telecommunications and Media 
+Conglomerate - Ellicott City, Maryland 
+October 16, 2017 
+Project Overview   To determine the PermaFrost NMR® impact and effect on 
+Customer‘s HVAC/R equipment. Three (3) DX systems (two split 
+systems and one package) were selected, treated and monitored 
+and measured. 
+Representatives 
+[Director, Facilities], Director of Critical Facility Maintenence
+Powertron Global® 
+[Senior Energy Engineer], Forensic Mechanical Engineer & Chief 
+Science Officer 
+Process 
+Testing was performed on two (2) 15 year-old Liebert 5-Ton split 
+systems and one (1) 9 year-old Liebert 5-ton package system 
+
+═══ PAGE 002 ═══
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2017 Powertron Global, LLC. 
+  EXECUTIVE SUMMARY 
+Average efficiency improvements per system 
+CU-1 Split 
+kW/Ton 
+Capacity
+-Tons
+COP 
+EER 
+Enthalpy 
+Baseline Aug 25-Sep 5, 2017 
+1.01 
+3.32 
+3.56 
+12.14 
+3.01 
+Post Oct 5-13, 2017 
+.58 
+4.32 
+6.36 
+21.69 
+4.27 
+Improvement % 
+42.6% 
+30.1% 
+78.7% 
+78.7% 
+41.9% 
+CU-2 Split 
+kW/Ton 
+Capacity
+-Tons
+COP 
+EER 
+Enthalpy 
+Baseline Aug 25-Sep 5, 2017 
+2.31 
+2.70 
+1.64 
+5.60 
+2.49 
+Post Oct 5-13, 2017 
+.87 
+5.02 
+4.11 
+14.01 
+4.89 
+Improvement % 
+62.3% 
+85.9% 
+150.6% 
+150.2% 
+96.4% 
+Package 1 
+kW/Ton 
+Capacity
+-Tons
+COP 
+EER 
+Enthalpy 
+Baseline Aug 25-Sep 5, 2017 
+1.56 
+3.84 
+2.44 
+8.34 
+3.47 
+Post Oct 5-13, 2017 
+1.13 
+4.46 
+3.33 
+11.35 
+4.17 
+Improvement % 
+27.6% 
+16.1% 
+36.5% 
+36.1% 
+20.2% 
+1.
+Introduction
+Maicom tested from August 25, 2017 to October 13, 2017 located in Ellicott City,
+Maryland to verify Powertron Global’s PermaFrost NMR® energy efficiency
+improvement effect on three (3) x 5-Ton DX system’s refrigeration circuits:
+
+═══ PAGE 003 ═══
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2017 Powertron Global, LLC. 
+Equipment Information 
+TYPE 
+Equipment 
+ID 
+Manufacturer 
+ Model Number 
+Serial 
+Number 
+Type 
+Year 
+Mfg. 
+Refrig. 
+Type 
+Tonnage 
+DX 
+CU-1 
+Liebert-
+Emerson 
+PFC067A-YLO 
+D045876 
+CRAC 
+2002 
+22 
+5 
+DX 
+CU-02 
+Liebert-
+Emerson 
+PFC067A-YLO 
+D046148 
+CRAC 
+2002 
+22 
+5 
+DX 
+PKG-1 
+Liebert-
+Emerson 
+ET0607RY0CT6484 
+Y11KH50140 
+CRAC 
+2008 
+407C 
+5 
+The testing included monitoring the operation before and after (PRE and POST) 
+PermaFrost NMR® treatment to verify the amount of cooling capacity (tons) 
+restoration and the resultant kW/ton energy savings improvement.  
+The Measurement and Verification (M&V) protocol defined the boundary by 
+isolating the entry and departure points of the medium being cooled to determine 
+cooling performance and comparing that with the power being used to quantify 
+the power costs per unit of cooling, kW/Ton (kilowatt-per-ton), EER (Energy 
+Efficiency Ratio) and COP (Co-Efficient of Performance). 
+1.
+Method of Procedure for testing:
+The objective of measuring the overall cooling production of HVAC/R systems 
+can be realized by measuring the total energy consumed by the specific unit 
+being tested and the total BTU production of the system then calculating these 
+parameters to obtain current capacity, kW per ton, EER (energy efficient ratio) 
+and COP (coefficient of performance). Using that information the total BTUH of 
+cooling production can be realized. The objective of measuring overall power 
+consumed by an HVAC/R system can be realized by measuring voltage, 
+amperage and power factor.  
+For these specific HVAC/R systems many parameters were measured every 
+thirty milliseconds for a period of twelve (12) and nine (9) days for the 
+development of a scientific baseline performance. Data was extracted from the 
+parameters measured every five (5) seconds during all operating hours.  
+Total BTUH was developed along with total kW consumption by measuring all 
+required data points (35 points see appendix for points measured) and entering 
+them into industry best practice engineering formulae. All measurement hardware 
+was certified under NIST or CE standards. Engineering formulae was developed 
+by AHRI / ASHRAE (American Heating and Refrigeration Institute / American 
+
+═══ PAGE 004 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2017 Powertron Global, LLC. 
+ 
+Society of Heating Refrigeration & Air Conditioning Engineers) 
+ 
+The outdoor air temperature entering the air-cooled condenser coils of each unit 
+will affect the design capacity. Therefore we have provided analysis of the twelve 
+(12) day & nine (9) day periods to provide a performance profile of subsequent 
+kW per ton, EER and COP across a variation of outdoor air temperatures 
+consisting of a thirty (30) degree span (60ºF-90ºF) to demonstrate the current 
+performance across the temperature span. 
+ 
+The resultant data was extracted every five (5) seconds from the specific 
+parameters measured throughout the entire day.  It was then applied to industry 
+best practice engineering formulae developed by AHRI / ASHRAE (American 
+Heating and Refrigeration Institute / American Society of Heating Refrigeration & 
+Air Conditioning Engineers) for comparison: 
+ 
+Kilo-watt (kW) = Volts (V) x Amps (A) x Power Factor (PF) x √3 / 1000 
+British Thermal Units (BTU) = CFM x 4.5 x Enthalpy Delta  
+Capacity / Tons = BTU / 12,000 
+Kilo-watt per Ton (kW/Ton) = kW Energy / Tons (capacity) 
+Co-Efficient of Performance (COP) = 12/kW per ton/ 3.412 
+Energy Efficiency Ratio (EER) = BTU / Watts 
+ 
+During all twenty-four hours in a day, outdoor air temperature entering the air-
+cooled condenser coils of each system varies significantly. Accordingly, pre or 
+baseline and post analysis and comparison of improved capacity is across a thirty 
+(30) degree temperature span (60ºF-90ºF) for kW per Ton, COP and EER. 
+ 
+ 
+To Determine Capacity: 
+ 
+The evaporator entering air volume and the return enthalpy are measured by the 
+CFM and inlet enthalpy sensors. The evaporator leaving air enthalpy is measured 
+by the outlet air enthalpy sensor. The inlet and outlet enthalpies are subtracted 
+from each other resulting in a sum called the Enthalpy delta. This enthalpy delta 
+(∆) is used in the shown formula below. Other components of this formula 
+complete the equation. These include the volume of air passing through the 
+evaporator (CFM or Cubic feet of air per minute) and an engineering standard ratio 
+of 4.5 (Ratio of Standard Air) or constant.  The result of this calculation yields the 
+industry standard the British Thermal Unit (BTU), which is used to calculate the 
+unit’s capacity in BTU. This BTU number is then divided by the constant 12,000 
+which is to convert to refrigeration tons because every 12,000 BTUs equals 1 Ton 
+of HVAC capacity. The capacity formula is: 
+ 
+ 
+
+═══ PAGE 005 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2017 Powertron Global, LLC. 
+ 
+CFM x 4.5 x Enthalpy ∆ = BTUs / 12,000 = Tons (capacity) 
+ 
+ 
+CFM – Cubic Feet per Minute of Air Flow or Air Volume 
+4.5 – Ratio of Standard Air (constant) 
+Enthalpy ∆ - Enthalpy Delta of the Inlet – Outlet Enthalpy 
+BTU – British Thermal Units  
+12,000 – every 12,000 BTUs equals 1 Ton (constant) 
+ 
+Example 
+ 
+4000 (CFM) X 4.5 (Standard Air Ratio) X 8 (Enthalpy Delta) = 144,000 BTU, then 
+divide by 12,000 = 12 tons 
+ 
+ 
+To Determine Electrical Energy Consumption: 
+ 
+Total electrical consumption is measured at the main source of electric service of 
+each rooftop unit. This includes, voltage, amperage and power factor and a 
+constant of the square root of 3 (√3). This is then divided by 1000 to obtain 
+kilowatts. The electrical formula for kilowatt (kW) is: 
+ 
+kW = V x A x PF x √3 / 1000 
+ 
+V – Voltage 
+A – Amperage 
+PF – Power Factor 
+√3 – Square Root of 3 for 3-phase Input Power 
+1000 – constant  
+ 
+ 
+Example 
+ 
+480 (volts) X 45 (amps) X √3 (phase angle for three phase power only) X 0.90 
+(power factor) / 1000 = 33.67 kilowatts  
+ 
+ 
+To Determine Efficiency: 
+ 
+Divide the measured kilowatts (kW) by the measured tons to obtain kW per ton. 
+kW per ton is the industry standard to determine system efficiency.  
+ 
+Example 
+ 
+33.67 kW / 12 tons = 2.80 kilowatts per ton   
+ 
+ 
+ 
+ 
+ 
+
+═══ PAGE 006 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2017 Powertron Global, LLC. 
+ 
+4.    Technical 
+ 
+When PermaFrost NMR® is installed into a unit, a molecular transformation 
+develops. This transformation displaces layers of lubricating fluids that have been 
+impinged in the evaporator and condenser heat exchanger surfaces. When the 
+fluid is displaced, the evaporator and condenser can transfer additional heat 
+energy through the tube walls (thermal restoration). This enables the evaporator to 
+completely dehumidify the air per the unit’s design specifications.  When more 
+dehumidification is developed, the enthalpy (a measure of how many grains of 
+moisture are contained in a pound of air) increases. 
+ 
+If the CFM and 4.5 remain constant, then it is the effect of PermaFrost NMR®’s 
+Enthalpy Delta increase that restores (increases) the lost capacity (Tons).  
+ 
+If the tonnage increases, then the kW/ton decreases by means of mathematical 
+function, demonstrating PermaFrost NMR®’s post-treatment effect lowering the 
+electrical cost of every ton of cooling produced, no matter how many tons are 
+called for at any given time.  
+  
+PermaFrost NMR® cannot change any unit’s electrical characteristics i.e. 
+everything that requires electricity is rated for the required power under different 
+loads e.g. compressors and fans.  
+ 
+ 
+ 
+ 
+5.    Conclusion 
+ 
+The Maicom testing results validate the performance of the three (3) HVAC/R 
+systems is consistent with a previously tested UL (formerly Underwriters 
+Laboratories) unit as well as +300 case studies for review.  The results of the 
+testing demonstrate the efficacy of PermaFrost NMR® by restoring the evaporator 
+and condenser heat transfer capabilities per manufacturer’s design, thereby 
+increasing cooling capacity while lowering the electrical cost per ton of cooling.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+═══ PAGE 007 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2017 Powertron Global, LLC. 
+ 
+F. 
+APPENDIX 
+ 
+I. 
+CU-1 Performance Analysis Summary 
+II. 
+CU-2 Performance Analysis Summary 
+III. 
+PKG-1 Performance Analysis Summary 
+IV. 
+35 Points Measured  
+ 
+*(all raw data files are available and will be provided) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+═══ PAGE 008 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2017 Powertron Global, LLC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+APPENDIX I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+═══ PAGE 009 ═══
+HVAC Performance Comparison: kW/Ton
+ CU-1 Split
+kW/Ton Comparison 
+OSA Temp.
+Base kW/Ton
+Post kW/Ton
+60 degF
+0.94 kW/Ton
+0.3 kw/Ton
+61 degF
+0.75 kW/Ton
+0.39 kw/Ton
+62 degF
+1.1 kW/Ton
+0.41 kw/Ton
+63 degF
+0.89 kW/Ton
+0.53 kw/Ton
+64 degF
+1.04 kW/Ton
+0.41 kw/Ton
+65 degF
+0.82 kW/Ton
+0.61 kw/Ton
+66 degF
+1.19 kW/Ton
+0.53 kw/Ton
+67 degF
+1.05 kW/Ton
+0.57 kw/Ton
+68 degF
+0.82 kW/Ton
+0.46 kw/Ton
+69 degF
+1.1 kW/Ton
+0.62 kw/Ton
+70 degF
+1.1 kW/Ton
+0.63 kw/Ton
+71 degF
+1.07 kW/Ton
+0.6 kw/Ton
+72 degF
+0.92 kW/Ton
+0.62 kw/Ton
+73 degF
+0.83 kW/Ton
+0.64 kw/Ton
+74 degF
+1.18 kW/Ton
+0.61 kw/Ton
+75 degF
+1.18 kW/Ton
+0.66 kw/Ton
+76 degF
+0.98 kW/Ton
+0.66 kw/Ton
+77 degF
+1.1 kW/Ton
+0.64 kw/Ton
+78 degF
+0.69 kW/Ton
+0.67 kw/Ton
+79 degF
+1.19 kW/Ton
+0.69 kw/Ton
+80 degF
+1.04 kW/Ton
+0.64 kw/Ton
+81 degF
+1.04 kW/Ton
+0.7 kw/Ton
+82 degF
+1.02 kW/Ton
+0.72 kw/Ton
+83 degF
+1.12 kW/Ton
+0.6 kw/Ton
+84 degF
+1.01 kW/Ton
+0.0 kw/Ton
+85 degF
+1.09 kW/Ton
+0.0 kw/Ton
+86 degF
+0.82 kW/Ton
+0.0 kw/Ton
+87 degF
+1.17 kW/Ton
+0.0 kw/Ton
+88 degF
+0.0 kW/Ton
+0.0 kw/Ton
+89 degF
+0.0 kW/Ton
+0.0 kw/Ton
+90 degF
+0.0 kW/Ton
+0.0 kw/Ton
+-----
+1.01 kW/Ton
+0.58 kW/Ton
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+60 degF - 90 degF
+60.0 degF - 75.0 degF
+0.5 - 1.0
+5s
+15176 samples
+11977 samples
+
+═══ PAGE 010 ═══
+HVAC Performance Comparison: COP
+ CU-1 Split
+COP Comparison 
+OSA Temp.
+Base COP
+Post COP
+60 degF
+3.74
+11.85
+61 degF
+4.66
+8.98
+62 degF
+3.19
+8.52
+63 degF
+3.96
+6.63
+64 degF
+3.37
+8.48
+65 degF
+4.31
+5.81
+66 degF
+2.96
+6.6
+67 degF
+3.34
+6.22
+68 degF
+4.28
+7.67
+69 degF
+3.19
+5.7
+70 degF
+3.19
+5.55
+71 degF
+3.27
+5.83
+72 degF
+3.81
+5.69
+73 degF
+4.22
+5.48
+74 degF
+2.98
+5.75
+75 degF
+2.98
+5.32
+76 degF
+3.57
+5.3
+77 degF
+3.19
+5.51
+78 degF
+5.07
+5.26
+79 degF
+2.96
+5.09
+80 degF
+3.39
+5.53
+81 degF
+3.39
+5.02
+82 degF
+3.46
+4.9
+83 degF
+3.13
+5.85
+84 degF
+3.48
+0.0
+85 degF
+3.22
+0.0
+86 degF
+4.3
+0.0
+87 degF
+3.01
+0.0
+88 degF
+0.0
+0.0
+89 degF
+0.0
+0.0
+90 degF
+0.0
+0.0
+-----
+3.56
+6.36
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+60 degF - 90 degF
+60.0 degF - 75.0 degF
+0.5 - 1.0
+5s
+15176 samples
+11977 samples
+
+═══ PAGE 011 ═══
+HVAC Performance Comparison: EER
+ CU-1 Split
+EER Comparison 
+OSA Temp.
+Base EER
+Post EER
+60 degF
+12.77
+40.42
+61 degF
+15.91
+30.64
+62 degF
+10.89
+29.06
+63 degF
+13.53
+22.63
+64 degF
+11.51
+28.93
+65 degF
+14.71
+19.82
+66 degF
+10.09
+22.51
+67 degF
+11.4
+21.23
+68 degF
+14.61
+26.17
+69 degF
+10.88
+19.45
+70 degF
+10.9
+18.95
+71 degF
+11.17
+19.9
+72 degF
+13.0
+19.42
+73 degF
+14.42
+18.69
+74 degF
+10.18
+19.62
+75 degF
+10.17
+18.14
+76 degF
+12.19
+18.08
+77 degF
+10.89
+18.8
+78 degF
+17.3
+17.96
+79 degF
+10.11
+17.37
+80 degF
+11.57
+18.85
+81 degF
+11.56
+17.12
+82 degF
+11.79
+16.73
+83 degF
+10.7
+19.95
+84 degF
+11.87
+0.0
+85 degF
+10.99
+0.0
+86 degF
+14.68
+0.0
+87 degF
+10.25
+0.0
+88 degF
+0.0
+0.0
+89 degF
+0.0
+0.0
+90 degF
+0.0
+0.0
+-----
+12.14
+21.69
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+60 degF - 90 degF
+60.0 degF - 75.0 degF
+0.5 - 1.0
+5s
+15176 samples
+11977 samples
+
+═══ PAGE 012 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2017 Powertron Global, LLC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   APPENDIX II 
+
+═══ PAGE 013 ═══
+HVAC Performance Comparison: kW/Ton
+ CU-2 Split
+kW/Ton Comparison 
+OSA Temp.
+Base kW/Ton
+Post kW/Ton
+60 degF
+0.0 kW/Ton
+0.0 kw/Ton
+61 degF
+0.0 kW/Ton
+0.0 kw/Ton
+62 degF
+1.77 kW/Ton
+0.0 kw/Ton
+63 degF
+1.86 kW/Ton
+0.93 kw/Ton
+64 degF
+2.23 kW/Ton
+0.91 kw/Ton
+65 degF
+3.02 kW/Ton
+0.87 kw/Ton
+66 degF
+2.78 kW/Ton
+0.93 kw/Ton
+67 degF
+2.11 kW/Ton
+0.84 kw/Ton
+68 degF
+1.76 kW/Ton
+0.89 kw/Ton
+69 degF
+1.91 kW/Ton
+0.92 kw/Ton
+70 degF
+1.61 kW/Ton
+0.74 kw/Ton
+71 degF
+1.68 kW/Ton
+0.74 kw/Ton
+72 degF
+2.05 kW/Ton
+0.74 kw/Ton
+73 degF
+2.0 kW/Ton
+0.73 kw/Ton
+74 degF
+2.19 kW/Ton
+0.74 kw/Ton
+75 degF
+2.96 kW/Ton
+0.76 kw/Ton
+76 degF
+2.44 kW/Ton
+0.78 kw/Ton
+77 degF
+2.93 kW/Ton
+0.82 kw/Ton
+78 degF
+3.56 kW/Ton
+0.8 kw/Ton
+79 degF
+3.66 kW/Ton
+0.81 kw/Ton
+80 degF
+3.64 kW/Ton
+0.81 kw/Ton
+81 degF
+2.75 kW/Ton
+0.83 kw/Ton
+82 degF
+2.28 kW/Ton
+0.83 kw/Ton
+83 degF
+1.67 kW/Ton
+0.84 kw/Ton
+84 degF
+1.69 kW/Ton
+0.86 kw/Ton
+85 degF
+1.6 kW/Ton
+0.88 kw/Ton
+86 degF
+1.49 kW/Ton
+1.01 kw/Ton
+87 degF
+0.0 kW/Ton
+1.13 kw/Ton
+88 degF
+0.0 kW/Ton
+1.11 kw/Ton
+89 degF
+0.0 kW/Ton
+1.06 kw/Ton
+90 degF
+0.0 kW/Ton
+1.05 kw/Ton
+-----
+2.31 kW/Ton
+0.87 kW/Ton
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+60 degF - 90 degF
+60.0 degF - 75.0 degF
+0.5 - 1.0
+5s
+19108 samples
+30824 samples
+
+═══ PAGE 014 ═══
+HVAC Performance Comparison: COP
+ CU-2 Split
+COP Comparison 
+OSA Temp.
+Base COP
+Post COP
+60 degF
+0.0
+0.0
+61 degF
+0.0
+0.0
+62 degF
+1.99
+0.0
+63 degF
+1.89
+3.79
+64 degF
+1.58
+3.87
+65 degF
+1.17
+4.04
+66 degF
+1.27
+3.8
+67 degF
+1.66
+4.18
+68 degF
+2.0
+3.95
+69 degF
+1.84
+3.82
+70 degF
+2.18
+4.73
+71 degF
+2.09
+4.77
+72 degF
+1.72
+4.76
+73 degF
+1.76
+4.8
+74 degF
+1.6
+4.74
+75 degF
+1.19
+4.62
+76 degF
+1.44
+4.51
+77 degF
+1.2
+4.28
+78 degF
+0.99
+4.42
+79 degF
+0.96
+4.34
+80 degF
+0.97
+4.36
+81 degF
+1.28
+4.24
+82 degF
+1.54
+4.24
+83 degF
+2.11
+4.16
+84 degF
+2.08
+4.09
+85 degF
+2.2
+4.0
+86 degF
+2.36
+3.47
+87 degF
+0.0
+3.11
+88 degF
+0.0
+3.18
+89 degF
+0.0
+3.33
+90 degF
+0.0
+3.36
+-----
+1.64
+4.11
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+60 degF - 90 degF
+60.0 degF - 75.0 degF
+0.5 - 1.0
+5s
+19108 samples
+30824 samples
+
+═══ PAGE 015 ═══
+HVAC Performance Comparison: EER
+ CU-2 Split
+EER Comparison 
+OSA Temp.
+Base EER
+Post EER
+60 degF
+0.0
+0.0
+61 degF
+0.0
+0.0
+62 degF
+6.78
+0.0
+63 degF
+6.45
+12.92
+64 degF
+5.38
+13.2
+65 degF
+3.98
+13.78
+66 degF
+4.32
+12.97
+67 degF
+5.67
+14.27
+68 degF
+6.82
+13.47
+69 degF
+6.29
+13.05
+70 degF
+7.45
+16.14
+71 degF
+7.12
+16.29
+72 degF
+5.86
+16.26
+73 degF
+6.01
+16.38
+74 degF
+5.47
+16.16
+75 degF
+4.05
+15.77
+76 degF
+4.92
+15.38
+77 degF
+4.09
+14.61
+78 degF
+3.37
+15.09
+79 degF
+3.28
+14.82
+80 degF
+3.3
+14.88
+81 degF
+4.36
+14.47
+82 degF
+5.25
+14.45
+83 degF
+7.2
+14.21
+84 degF
+7.09
+13.97
+85 degF
+7.52
+13.66
+86 degF
+8.05
+11.84
+87 degF
+0.0
+10.6
+88 degF
+0.0
+10.86
+89 degF
+0.0
+11.35
+90 degF
+0.0
+11.47
+-----
+5.6
+14.01
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+60 degF - 90 degF
+60.0 degF - 75.0 degF
+0.5 - 1.0
+5s
+19108 samples
+30824 samples
+
+═══ PAGE 016 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2017 Powertron Global, LLC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   APPENDIX III 
+
+═══ PAGE 017 ═══
+HVAC Performance Comparison: kW/Ton
+ PK-1
+kW/Ton Comparison 
+OSA Temp.
+Base kW/Ton
+Post kW/Ton
+60 degF
+1.02 kW/Ton
+0.95 kw/Ton
+61 degF
+1.17 kW/Ton
+0.79 kw/Ton
+62 degF
+1.19 kW/Ton
+0.91 kw/Ton
+63 degF
+1.28 kW/Ton
+0.82 kw/Ton
+64 degF
+1.23 kW/Ton
+0.79 kw/Ton
+65 degF
+1.28 kW/Ton
+0.89 kw/Ton
+66 degF
+1.23 kW/Ton
+0.88 kw/Ton
+67 degF
+1.27 kW/Ton
+0.94 kw/Ton
+68 degF
+1.29 kW/Ton
+0.93 kw/Ton
+69 degF
+1.33 kW/Ton
+0.99 kw/Ton
+70 degF
+1.5 kW/Ton
+1.02 kw/Ton
+71 degF
+1.61 kW/Ton
+1.01 kw/Ton
+72 degF
+1.53 kW/Ton
+1.01 kw/Ton
+73 degF
+1.3 kW/Ton
+1.07 kw/Ton
+74 degF
+1.27 kW/Ton
+1.05 kw/Ton
+75 degF
+1.36 kW/Ton
+1.11 kw/Ton
+76 degF
+1.65 kW/Ton
+1.12 kw/Ton
+77 degF
+1.7 kW/Ton
+1.08 kw/Ton
+78 degF
+1.73 kW/Ton
+1.15 kw/Ton
+79 degF
+1.42 kW/Ton
+1.17 kw/Ton
+80 degF
+1.82 kW/Ton
+1.14 kw/Ton
+81 degF
+1.61 kW/Ton
+1.16 kw/Ton
+82 degF
+1.15 kW/Ton
+1.22 kw/Ton
+83 degF
+1.48 kW/Ton
+1.23 kw/Ton
+84 degF
+1.72 kW/Ton
+1.26 kw/Ton
+85 degF
+3.94 kW/Ton
+1.35 kw/Ton
+86 degF
+3.1 kW/Ton
+1.45 kw/Ton
+87 degF
+0.0 kW/Ton
+3.23 kw/Ton
+88 degF
+0.0 kW/Ton
+0.0 kw/Ton
+89 degF
+0.0 kW/Ton
+0.0 kw/Ton
+90 degF
+0.0 kW/Ton
+0.0 kw/Ton
+-----
+1.56 kW/Ton
+1.13 kW/Ton
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+60 degF - 90 degF
+60.0 degF - 75.0 degF
+0.5 - 1.0
+5s
+17151 samples
+31582 samples
+
+═══ PAGE 018 ═══
+HVAC Performance Comparison: COP
+ PK-1
+COP Comparison 
+OSA Temp.
+Base COP
+Post COP
+60 degF
+3.44
+3.71
+61 degF
+3.01
+4.47
+62 degF
+2.95
+3.87
+63 degF
+2.75
+4.28
+64 degF
+2.86
+4.46
+65 degF
+2.75
+3.95
+66 degF
+2.86
+3.99
+67 degF
+2.77
+3.73
+68 degF
+2.73
+3.76
+69 degF
+2.64
+3.56
+70 degF
+2.34
+3.44
+71 degF
+2.19
+3.47
+72 degF
+2.29
+3.5
+73 degF
+2.71
+3.29
+74 degF
+2.77
+3.35
+75 degF
+2.58
+3.17
+76 degF
+2.13
+3.13
+77 degF
+2.07
+3.25
+78 degF
+2.03
+3.05
+79 degF
+2.48
+3.0
+80 degF
+1.94
+3.1
+81 degF
+2.18
+3.03
+82 degF
+3.06
+2.89
+83 degF
+2.38
+2.85
+84 degF
+2.05
+2.78
+85 degF
+0.89
+2.61
+86 degF
+1.14
+2.43
+87 degF
+0.0
+1.09
+88 degF
+0.0
+0.0
+89 degF
+0.0
+0.0
+90 degF
+0.0
+0.0
+-----
+2.44
+3.33
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+60 degF - 90 degF
+60.0 degF - 75.0 degF
+0.5 - 1.0
+5s
+17151 samples
+31582 samples
+
+═══ PAGE 019 ═══
+HVAC Performance Comparison: EER
+PK-1
+EER Comparison 
+OSA Temp.
+Base EER
+Post EER
+60 degF
+11.75
+12.65
+61 degF
+10.27
+15.26
+62 degF
+10.07
+13.19
+63 degF
+9.4
+14.59
+64 degF
+9.77
+15.21
+65 degF
+9.4
+13.48
+66 degF
+9.75
+13.6
+67 degF
+9.47
+12.71
+68 degF
+9.3
+12.84
+69 degF
+8.99
+12.15
+70 degF
+7.99
+11.73
+71 degF
+7.47
+11.85
+72 degF
+7.82
+11.93
+73 degF
+9.23
+11.21
+74 degF
+9.46
+11.42
+75 degF
+8.8
+10.81
+76 degF
+7.27
+10.68
+77 degF
+7.05
+11.08
+78 degF
+6.93
+10.4
+79 degF
+8.46
+10.24
+80 degF
+6.6
+10.56
+81 degF
+7.43
+10.34
+82 degF
+10.45
+9.86
+83 degF
+8.12
+9.72
+84 degF
+6.99
+9.49
+85 degF
+3.05
+8.9
+86 degF
+3.88
+8.28
+87 degF
+0.0
+3.71
+88 degF
+0.0
+0.0
+89 degF
+0.0
+0.0
+90 degF
+0.0
+0.0
+-----
+8.34
+11.35
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+60 degF - 90 degF
+60.0 degF - 75.0 degF
+0.5 - 1.0
+5s
+17151 samples
+31582 samples
+
+═══ PAGE 020 ═══
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2017 Powertron Global, LLC. 
+APPENDIX IV 
+ 
+ 
+Points Measured per Unit 
+ 
+- 
+Total Instantaneous Real Power 
+- 
+CFM 
+- 
+COP 
+- 
+Compressor #1 on/off  
+- 
+Compressor #2 on/off 
+- 
+Delta Enthalpy 
+- 
+Delta Temperature 
+- 
+EER 
+- 
+Inlet Enthalpy 
+- 
+Instantaneous Current, Phase A 
+- 
+Instantaneous Current, Phase B 
+- 
+Instantaneous Current, Phase C 
+- 
+L-N Voltage 
+- 
+Outlet Enthalpy 
+- 
+Outside Air Temperature 
+- 
+Power Factor, Phase A 
+- 
+Power Factor, Phase B 
+- 
+Power Factor, Phase C 
+- 
+Real Power, Phase A 
+- 
+Real Power, Phase B 
+- 
+Real Power, Phase C 
+- 
+Return Air Dew point 
+- 
+Return Air Temperature 
+- 
+Return Duct Humidity 
+- 
+Supply Air Temperature 
+- 
+Supply Duct Humidity 
+- 
+Total Capacity (BTU’s) 
+- 
+Total Capacity (Tons) 
+- 
+Total Power Factor 
+- 
+Voltage A-N 
+- 
+Voltage B-N 
+- 
+Voltage C-N 
+- 
+kW per Ton 
+- 
+kWE per kWR 
+- 
+kWR 

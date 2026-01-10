@@ -1,0 +1,459 @@
+================================================================================
+DOCUMENT: Case Study 122
+DOC_ID: pdf_115
+SHA256: 228ebb5ebcae773a8f8da71d8dc560a33e37b088fff0510a5194b4355fa8b1eb
+================================================================================
+
+═══ PAGE 001 ═══
+
+Energy Science Division
+®
+Comprehensive 4-Year Energy Eﬃciency Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+COMMERCIAL TOWER A, NEW YORK, NY.
+Study Dates:
+     August 2011 – August 2015
+Participants:
+      Commercial Real Estate Developer
+      [Client Representative]
+      [Former Chief Engineer]
+      Former Chief Engineer      
+      [Client Representative] 
+      Chief Building Engineer
+      [Client Representative] 
+      Building Engineer
+      HVAC Contractor A
+      [Contractor VP] 
+      VP of Operations
+      Powertron Global (PTG)
+      [Senior Energy Engineer]
+      Director of Engineering
+      [Director Global Business]
+      Director Global Business
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 002 ═══
+
+®
+1
+Study Summary
+The +20% improved efficiency (COP) measured four years ago has sustained and is still present in the 
+PermaFrost NMR® treated unit. Compared to the untreated units, it is still operating approximately 24.6% 
+more efficiently four years later. If all of the units in the building (7000 tons) were treated at the time of the 
+initial pilot the site would have saved $4,326,000 in energy costs on an initial investment of $875,000. This equates 
+to a four year ROI of 595%.  
+Study Overview
+This report details the results of the recently completed comprehensive four-year energy performance study 
+conducted at the Commercial Real Estate Developer Commercial Tower A Building in New York, NY.  The study ran from August 2011 
+to August 2015.
+The pilot was designed to illustrate the positive impact the PermaFrost NMR® energy control measure (ECM) 
+would have in both the short term and long term on the overall cooling performance of a nominal 32-ton package 
+unit. The improvements for this or any field test resulting from PermaFrost NMR® are dependent on factors such 
+as age, condition, service history, design and application of each unit. In this particular analysis the results were 
+in line with 13 year historical averages. The 53rd floor pilot unit and the identical untreated control unit on the 
+32nd floor support similar sized east side elevator motor rooms and both were put into full service in 2006. 
+Highlights of the study when comparing the pilot unit to itself before and 30 days and four 
+years after treatment include the following:
+• When initially tested in 2011 after just five years in service, the pilot unit was producing 27.7 tons of 
+cooling capacity. Thirty days after treatment, the cooling capacity jumped 18.8% to 32.9 tons. Four years 
+after initial treatment, the pilot unit is sustaining a cooling capacity of 32.5 tons.
+• When the efficiency improvements were measured on the treated system four year ago, the initial 
+payback was estimated to be less than 12 months. The current efficiency of the system shows that 
+Commercial Real Estate Developer realized the initial payback in 11.9 months. 
+• The annual cost to operate the pilot unit was estimated to be $25,396 before initial treatment with 
+PermaFrost NMR®. Four years later, the cost to run the unit is $21,341 per year illustrating the 
+sustainability of the PermaFrost NMR® technology. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 003 ═══
+
+®
+2
+Highlights of the study when comparing the treated pilot unit to an identical untreated control 
+unit after nine years in service include the following:
+• The cooling capacity of the treated unit is 32.5 tons or 22.6% higher than the 26.5 ton cooling capacity 
+of the untreated control unit.
+• The efficiency of the treated unit in terms of kW/ton is 19.7% better than the untreated control unit 
+and the Coefficient of Performance (COP) is 24.6% better.
+• The estimated annual cost to operate the treated unit is currently $21,341, while the untreated unit 
+costs $26,582 annually to operate. In the past four years the untreated unit has cost Commercial Real Estate Developer $20,964 
+more in energy to operate or $655 more per ton.  
+• Extrapolated out across the 7,000 tons of cooling in Commercial Tower A, if all the units in the building were treated 
+at the time of the initial pilot Commercial Real Estate Developer would have saved its tenants $4,326,000 in energy costs on an 
+initial investment of $875,000. This equates to a four year ROI of 595%.  
+The package cooling units involved in the study are recorded as follows:
+    
+Mammoth, Mfg date: 2006, R22, 408 volt-3 Phase, Model DS105ASMOEI5OIA   (Treated) 
+    
+Mammoth, Mfg date: 2006, R22, 408 volt-3 Phase, Model DS105ASMOEI5OIA   (Untreated)
+ 
+Objectives
+The five key objectives for this jointly-conducted ECM pilot study between Commercial Real Estate Developer Building Engineers, 
+HVAC Contractor A Mechanical Engineers and the Powertron Global Engineering team were all achieved. They 
+included the following: 
+1. Determine that the “as-is” capacity and efficiency of the pilot Mammoth unit supporting the east side 
+elevator motor room had degraded in 2011 by at least 10% after five years in operation.  
+2. Demonstrate that a minimum of 10% performance improvement occurred in the pilot cooling unit 
+one month after being treated with the PermaFrost NMR® ECM in 2011.   
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 004 ═══
+
+®
+3
+3. Demonstrate the sustainability of the ECM by showing 90% or more of the material performance 
+improvements generated in 2011, just one month after being treated with PermaFrost NMR®, still 
+remained in this same cooling unit four years later. 
+4. After nine years in service, demonstrate the effectiveness and sustainability of the ECM by increasing 
+the “as-is” efficiency and capacity of the treated pilot unit by more than 10% when compared to an 
+identical untreated control unit performing the same function on another floor. 
+5. To support an effective business case for further deployments of the ECM within the Commercial Real Estate Developer 
+portfolio of properties, demonstrate financial benefits associated with efficiency improvements realized 
+over the duration of the study. These benefits must be equivalent to a 24-month or less payback to 
+Commercial Real Estate Developer on their initial pilot project costs.  
+ECM Product Brief
+PermaFrost NMR® is a multi-patented surface science nanotechnology that uses Nucleo Molecular 
+Regenerative (NMR®) technology as its core agent. A sustainable, one-time treatment with no down time 
+required, PermaFrost NMR® lasts for the remaining life of any type of climate control system in which it is 
+installed. The direct benefits of PermaFrost NMR® are improved cooling efficiency and increased capacity, both 
+of which result in lower overall costs to operate a system and extended equipment life.
+Methodology
+After verifying the amount of air flowing across the evaporator coil before beginning the pilot, the subsequent 
+measurements used in the efficiency calculations were collected and compiled in accordance with Option B of 
+the IPMVP (International Measurement and Verification Protocol) framework. 
+The results presented below were formulated by entering the data into the following thermodynamic 
+engineering formulas:
+ 
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+• kW/ton = Actual Measured Energy / Actual Measured Capacity 
+ 
+• Coefficient of Performance (COP) = 12 / (kW/ton) /3.412
+ 
+• Actual Cooling Capacity per Hour = (Measured CFM * 4.5 * Enthalpy Delta T) / 12,000 BTU
+ 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 005 ═══
+
+®
+0.0
+0.3
+0.6
+0.9
+1.2
+1.5
+4
+Recovered Wasted Energy with PermaFrost NMR® ECM
+As expected, Commercial Real Estate Developer has the problem of thermal degradation in their HVAC units. The degraded 
+equipment performance is costing Commercial Real Estate Developer and their tenants significant operational dollars through 
+wasted energy. When initially tested in 2011 before being treated, the pilot cooling unit was found to already 
+be using significantly more energy to operate after just five years in service than when it was new. The same 
+thing is true for the untreated control cooling unit after nine years in service.
+The chart to the lower left illustrates the efficiency restoration the ECM has sustained in the pilot unit versus 
+itself four years after treatment. The chart to the lower right illustrates the efficiency restoration the ECM 
+has produced in the 9-year old pilot unit treated in 2011 versus a very similar control unit that has yet to be 
+treated. What stands out is the initial PermaFrost NMR® efficiency improvements have proved to be 
+sustainable over a long period of time while the untreated control unit has continued to degrade in 
+performance. This degradation in operational efficiency is costing Commercial Real Estate Developer and their tenants a substantial 
+amount of money in wasted energy. As the second chart clearly illustrates, the treated pilot unit is currently 
+performing 24.6% more efficiently than the untreated control unit. This gap will only continue to widen 
+until it levels off at 30-35% loss of efficiency.
+Increased Energy
+Equating to 19.7%
+Increased Energy
+Consumption
+kW/ton
+.28 kW/ton
+.20 kW/ton
+Sustained Energy
+Reduction
+14.9% Sustained
+Energy Reduction
+Treated Pilot Unit Performance Eﬃciency
+4 Years after Treatment
+Baseline
+Post ECM
+0.0
+0.3
+0.6
+0.9
+1.2
+1.5
+2011 Initial Baseline
+2015 4-Year Post
+kW/ton
+Untreated 9-Year Old Control Unit
+Performance Eﬃciency vs. Treated Unit
+Performance Eﬃciency
+Baseline
+Post ECM
+2015 Control Unit
+2015 Pilot Unit
+1.42
+1.14
+1.34
+1.14
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 006 ═══
+
+®
+• The Untreated Unit is currently producing 26.5 tons of cooling capacity
+• The Treated Unit is producing 32.5 tons of cooling capacity or an
+  additional 6.0 tons which equates to 22.8% more than the Untreated Unit
+• The Untreated Unit is currently producing a COP of 2.48
+• The Treated Unit is producing a COP of 3.09 which equates
+  to 24.6% more than the Untreated Unit
+2.48
+COP
+Untreated Unit
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+26.5
+tons
+Untreated Unit
+100%
+CAPACITY @
+100% LOAD
+Untreated
+Treated
+2.48
+3.09
+Untreated
+Treated
+26.5
+32.5
+3.09
+COP Treated Unit
+32.5
+tons Treated Unit
+24.6%
+Improvement
+in COP
+6.0
+tons of
+Additional
+Capacity
+TONNAGE
+COP
+August 2015 Measured Performance of Comparable Units
+after 9-Years in Service
+5
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 007 ═══
+
+®
+2015 BASELINE
+32nd FL Control Unit
+(Untreated)
+Summary of All Performance Measurements in
+Treated and Untreated Units
+The chart below lists all of the measurements taken on the Treated Pilot Unit over the past four years and 
+those same measurements taken on the Untreated Control Unit in August 2015. 
+TYPE OF MEASUREMENT
+2011 BASELINE
+53rd FL Pilot Unit
+(After 5 yrs in Service)
+472.1
+53.5
+43.5
+73.8
+110.1
+227
+72.5
+50.1
+59.0
+48.7
+25.78
+19.59
+6.19
+11,950
+80
+0.22
+44.09
+27.74
+1.34
+2.62
+2011 POST
+53rd FL Pilot Unit
+(30 days after PermaFrost)
+472.5
+52.9
+43.9
+74.3
+105.2
+211
+72.4
+47.5
+58.9
+46.4
+25.71
+18.37
+7.34
+11,950
+80
+0.22
+36.74
+32.89
+1.12
+3.15
+2015 POST
+53rd FL Pilot Unit
+(4 yrs after PermaFrost)
+471.6
+53.5
+43.7
+72.9
+108.3
+219.5
+72.5
+47.8
+59.0
+46.7
+25.78
+18.52
+7.26
+11,950
+80
+0.20
+37.09
+32.53
+1.14
+3.09
+Volts
+Amps
+Avg Suction Temp (100% load)
+Avg Suction Pressure (100% load)
+Avg Discharge Temp (100% load)
+Avg Discharge Pressure (100% load)
+Entering DB
+Leaving DB
+Entering WB
+Leaving WB
+Entering Enthalpy
+Leaving Enthalpy
+Enthalpy Delta
+CFM*
+Outside Air Temp
+Total Static Pressure
+Adjusted kW
+Tons
+kW/Ton
+COP
+(*) - All CFM's measured fell within the 2% margin of error so the same CFM's were used in all calculations so not to affect the results
+more positively or negatively.
+473.6
+54.0
+43.1
+73.2
+107.2
+217.1
+72.3
+51.9
+59.4
+49.7
+26.05
+20.14
+5.91
+11,950
+80
+0.21
+45.68
+26.48
+1.42
+2.48
+6
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 008 ═══
+
+®
+Energy Consumption & Financial Metrics
+The following are the final calculated performance measurements following the PermaFrost NMR® Post 
+measurement period for the pilot treated unit compared to the untreated control unit.
+Untreated Unit Baseline Energy Consumption
+Baseline Capacity:  26.5 tons
+Adjusted kW Baseline:  1.42 * 32.5 tons = 46.15 kW
+Adjusted Baseline kWh:  46.15 * 3,600 Annual Operating Hrs = 166,140 kWh
+Revised Cost to Run Baseline: 166,140 kWh * $.16 = $26,582
+Treated Unit Energy Consumption
+kW Post:  1.14 * 32.5 tons = 37.05 kW
+Annual kWh Post:  37.05 * 3,600 hours = 133,380 kWh
+Annual Cost Post:  133,380 kWh * $.16 cents = $21,341
+Savings Per Year
+Avoided Energy Cost (savings) Per Year:  $26,582 - $21,341 = $5,241
+Estimated Energy Savings per Month: $5,241 / 12 = $437
+Return on Investment
+Cost of PermaFrost NMR® installed in each nominal 32 ton capacity cooling units: $4,000
+Estimated ROI Period for Commercial Real Estate Developer on each cooling unit: $4,000 / $437 = ~9.2 Months
+Annual Internal Rate of Return = 131%
+Return on Investment Over 5 Years = 655%
+Energy Saved Each Year Once all Mammoth Units in Commercial Tower A Totaling 7,000 tons of Cooling are Treated = $1.146M
+Utilizing data collected during the pilot study, to obtain a true avoided energy cost and subsequent payback period for 
+Commercial Real Estate Developer for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true 
+energy savings resulting from the improvement in both capacity and efficiency. Working together, these improvements 
+reduce the annual kWh expended in the Post Analysis Period. The ROI comes from determining what the cost to run the 
+cooling unit was when operating at the original energy profile to produce the newly restored amount of available capacity 
+and then subtracting the revised cost to run the cooling unit at the same restored capacity after the PermaFrostNMR® 
+ECM was installed. This regression analysis is the most widely accepted method of accounting for the reduced number of 
+hours and/or load % at which the unit will now operate due to the restored performance profile. This restored performance 
+profile allows the cooling unit to satisfy the internal area set point with increased efficiency resulting in reduced 
+compressor demand loading.
+7
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 009 ═══
+
+®
+19
+Passenger vehicles
+4.6
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+10,168
+Gallons of gasoline
+consumed
+97,056
+Pounds of coal burned
+annually
+210
+Barrels of oil
+consumed
+12.4
+Homes’ electricity use for
+one year
+8
+Commercial Real Estate Developer is Saving More than Just Energy
+By treating just the pilot cooling unit with PermaFrost NMR®, based on the manner in which the pilot unit is 
+currently being operated, based on the manner in which the treated pilot unit is now currently performing, 
+Commercial Real Estate Developer has saved over the past four years an estimated 131,040 kWh and all the costs associated with 
+those savings. From an environmental impact standpoint, Commercial Real Estate Developer has and will continue to benefit all the 
+surrounding communities in which they operate.  Imagine the positive environmental impacts of treating the 
+rest of Commercial Tower A and even the entire Commercial Real Estate Developer portfolio of equipment spread across the northeast.  
+The 131,040 kWh saved per year equates to preventing 90.4 metric tons of greenhouse gas emissions from 
+being released or any of the following:
+Annual greenhouse emissions from:
+CO2 emissions from:
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+

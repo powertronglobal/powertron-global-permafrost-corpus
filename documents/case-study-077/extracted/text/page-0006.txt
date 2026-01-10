@@ -1,0 +1,47 @@
+Make
+Model
+Refrigerant Type
+Nominal Cooling Capacity Btuh / tons
+CFM
+HVAC Equipment Manufacturer
+SWUA-5004
+R22
+623,000 Btuh / 51.92 tons
+20,000
+5
+System Description / Design Characteristics
+This unit provides cooling for the 4th floor of the office building and is estimated to run 2,400 hours per year.  
+Baseline Measurement Period Selection
+The following data was recorded on 8/22/2012 using recently NIST calibrated devices to insure 
+measurement accuracy.  The results were recorded as a result of the implementation of the IPMVP Protocol.
+Energy Science Division
+Voltage
+Amperage
+Suction Refrigerant  Temp
+Discharge Refrigerant Temp
+Entering Air Temp DB
+Leaving Air Temp DB
+Entering Air Temp WB
+Leaving Air Temp WB
+Actual CFM
+Calculated Coil Capacity Btuh / tons
+Enthalpy Delta
+Calculated Total Watts
+Calculated Watts per Ton
+Condenser Water Temperature  
+472.13V
+90.63A
+32.2 F
+115.5 F
+77.5 F
+57.45 F
+61.8 F
+52.9 F
+20,000
+515,700 Btuh / 42.98 tons
+5.73
+62,900
+1,464 CWPT
+84 F  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

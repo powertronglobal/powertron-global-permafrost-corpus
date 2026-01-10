@@ -1,0 +1,48 @@
+Energy Science Division
+Results
+The following are the final calculated performance measurements (detailed below the chart) after performing 
+the regression analysis to account to the restored capacity brought about by  PermaFrost NMR®.
+Utilizing the data in the above charts, the following steps were taken to determine a very accurate ROI for 
+Healthcare System A for implementing this ECM:
+Baseline kWh = (9,340 CTW / 1,000) * 6,570 Annual Operating Hrs = 61,364 kWh
+Baseline Cost To Run = 61,364 kWh * $.11 = $6,750
+Regression Analysis is then used to account for amount of tonnage restored to Pilot Unit    
+Adjusted Base Tonnage = 8.52 tons (equates to tonnage in ERP)
+Adjusted Total Watts = 1,419 WPT * 8.52 tons = 12,090 TW
+Adjusted Base kWh = (12,090 TW/1,000) * 6,570 Annual Operating Hrs = 79,431 kWh
+Revised Cost to Run Prior to ECM = 79,431 kWh * $.11 = $8,737
+Post ECM kWh = (8,268 NTW / 1,000) * 6,570 Annual Operating Hrs = 54,321 kWh
+Cost to Run After ECM = 54,321 kWh * $.11 = $5,975
+Cost Savings per Month = ($8,737 - $5,975) / 12 = $230.16
+Cost of PermaFrost NMR® installed @ $1,000 / $230.16 = 4.3
+ 
+ROI = 4.3 months
+Eﬃciency Improvements
+Adjusted Total Watts
+Btuh Capacity
+System Eﬃciency %
+Enthalpy Delta
+Adjusted Watts per Ton
+EER
+31.6%
+29.4%
+29.4%
+29.4%
+31.5%
+46.3%
+Energy Reporting Period
+8,268
+102,215
+111.1%
+7.97
+972
+ 12.36
+Baseline
+12,090
+79,002
+ 85.87%
+6.16
+1,419
+ 8.46
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

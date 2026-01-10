@@ -1,0 +1,35 @@
+   2 
+Process
+This report contains specific information regarding the current performance profile of two CRAC systems that 
+support the Tech Company A facility in [Texas Location], TX. 
+Detailed performance testing (outlined later in this report) was performed on the two pilot CRAC systems 
+before and after the installation of the ECM to determine the impact on the three key elements that greatly 
+affect the HVAC/R portion of the power bill as they relate to the original design specifications:
+ 
+ 
+1. The cooling capacity the CRAC systems produced after 10 years in service, before and after the 
+ 
+    administration of the ECM. 
+ 
+2. The actual cost of power required to produce the amount of cooling tons the systems can deliver as     
+ 
+    reflected in the kW/ton measurement, before and after the administration of the ECM. 
+ 
+3. The thermal dynamic ability of the systems to perform in relation to operational design, before and 
+ 
+    after the administration of the ECM.
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the IPMVP 
+(International Measurement and Verification Protocol) framework. The team consisted [Sustainability Director] of Major Technology Company; Raul 
+Olvera of Facilities Services Provider; Powertron Global’s Director of Engineering, [Senior Energy Engineer].  
+Notes
+The equipment tested were two 22-ton (nominal) CRAC systems manufactured by Liebert.  Both the baseline and post 
+measurements were taken in identical fashion with recently NIST calibrated devices.  M&V equipment details and 
+certification sheets are available by request. The CFM in the baseline and post for both systems were identical for each system. 
+[M&O Supervisor] of Facilities Services Provider and [Sustainability Director] of Major Technology Company witnessed and signed off on the collections of data in both the baseline and post 
+periods. The boundary of the testing was at the CRAC units and nothing else; therefore confidence in the accuracy of the 
+performance calculations is very high.
+®
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

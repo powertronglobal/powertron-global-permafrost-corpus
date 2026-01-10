@@ -1,0 +1,903 @@
+# Military Installation.pdf
+
+Energy Science Division
+
+®
+
+Military Installation/ ESLER AIR FIELD
+
+CENTRAL MAINTENANCE FACILITY 6050 - (2) AIR-COOLED Healthcare System ALLERS
+
+Study Date:
+     4/22/15 – 6/18/15
+
+Participants:
+
+State Military A 
+     [Military Representative]
+
+Infrastructure Contractor
+     [Infrastructure Consultant]
+
+Services Contractor
+     [Services Coordinator]
+
+Powertron Global
+     [Senior Energy Engineer],
+     Director of Engineering
+
+Location:
+     Pineville, LA
+
+Comprehensive HVAC/R Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+1
+
+HVAC/R Eﬃciency Report
+
+Purpose of Energy Eﬃciency Study
+
+The purpose of this study is to verify the industry wide problem of efficiency loss in HVAC/R as projected by
+
+ASHRAE research and to quantify the amount of money wasted due to this loss. Many industry leading
+
+organizations including ASHRAE project that all HVAC/R units degrade in capacity and efficiency as they age.
+
+Thermal degradation is caused by a phenomenon that is present in all HVAC/R equipment that operates as a
+
+vapor compression cycle associated with refrigerant and compressor lubricant. This thermal degradation is well
+
+documented by the HVACR industry and the original equipment manufacturers (OEM’s). Thermal degradation
+
+prevents units from operating at the original design efficiency, which leads to excessive run-times and additional
+
+kWh consumption.
+
+The chillers in this study (pictured below) are
+
+representative of a great majority of the
+
+portfolio of equipment operated by LA
+
+National Guard. If thermal degradation is
+
+present in these chillers it is present in the
+
+entire inventory of equipment. Energy waste
+
+can be calculated based on this equipment
+
+(portfolio representation) and then accurately
+
+extrapolated across the entire inventory of
+
+equipment.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+2
+
+Process
+
+This report contains specific information regarding the current performance profile of two chillers that support
+
+the Military Installation CMF 6050 in Pineville, LA
+
+Detailed performance testing (outlined later in this report) was performed on the pilot chillers before and after
+
+the installation of the ECM to determine the impact on the three key elements that greatly affect the HVAC
+
+power bill as they relate to the original design specifications:
+
+1.  The cooling capacity the chillers produce after 10 years in service, before and after the
+
+administration of the ECM.
+
+2.  The actual cost of power required to produce the amount of cooling tons the chillers can deliver as
+
+reflected in the kW/ton measurement, before and after the administration of the ECM.
+
+3.  The thermal dynamic ability of the chillers to perform in relation to operational design, before and
+
+after the administration of the ECM.
+
+Methodology
+
+The measurements used in the efficiency calculations were collected and compiled in accordance with the
+
+IPMVP (International Measurement and Verification Protocol) framework. The team consisted Captain Jeremy
+
+A. Futrell and [Infrastructure Consultant] & [Client Representative] of Infrastructure Contractor.
+
+Notes
+
+The equipment tested (2) RTAA-100 air-cooled chillers manufactured by HVAC Equipment Manufacturer.  Both the baseline and post measurement
+
+s were taken with outside air temperatures of 81-82 degrees.
+
+The flow rate through the evaporators were nearly identical in the baseline and post and the return chilled water entering
+
+the chiller in the baseline and post were identical so no adjustments were made.
+
+The boundary of the testing was the chillers and nothing else; therefore confidence in the accuracy of the performance
+
+calculations is very high.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+3
+
+Energy Conservation Method (ECM)
+
+The content detailed in this report will first demonstrate the ability of the pilot chillers to perform prior to the
+
+PermaFrost NMR® (ECM) being installed, as well as illustrate the amount of thermal degradation due in large
+
+part to thermal degradation within the heat exchangers.
+
+The following report produces the utilization of the IPMVP as the M&V plan.
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase)
+
+• kW/Ton = kW / Actual Tonnage
+
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+
+• Actual Cooling Tons per Hour = Evaporator GPM X 8.34 * 60 * Chilled Water Delta T / 12,000 BTU
+
+• Refrigerant Approach = Supply Water Temp – Saturated Evaporator Temp (CH)
+
+Notes
+
+Following a diagnostic examination to determine the operational condition of the chillers were satisfactory, Baseline
+
+M&V data was collected and recorded by the M&V team. 400+ runtime hours after installation of the ECM, the M&V
+
+team returned on a very similar weather day to the Baseline to take Post M&V measurements in the identical fashion as
+
+in the Baseline and at the almost identicle outdoor air temperature. The delta of these measurements and associated
+
+calculations show the amount of capacity restored.
+
+The following IPMVP data points were recorded on April 22/23, 2015 using recently calibrated by NIST (National
+
+Institutes of Standards and Technology) to insure GPM measurement accuracy. The remaining measurements were
+
+taken directly from the chiller’s control panel. The chiller was then treated with PermaFrost NMR® on the same day and
+
+allowed to run normally until June 18, 2015 to ensure the patented surface science nanotechnology had ample time to seat
+
+into all the metal surfaces of the heat exchangers. All measurements were taken at identical incoming water temperatures
+
+as well as almost identical outdoor air temperatures. Judd Decuir, Gregory and Sunba of the State Military A,
+
+witnessed the collection of the data.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+4
+
+170 tons
+
+200 tons
+
+Baseline
+Tonnage
+
+Post ECM
+Tonnage
+
+• The Chillers should be operating @ 200 tons of cooling capacity
+
+• The Chillers were operating @ 170 tons of cooling capacity prior to
+
+installing ECM
+
+• The Chillers now have 30 tons of restored cooling capacity after ECM
+
+equating to a 17.6% increase
+
+• The Chillers should be operating @ 2.9 COP or higher
+
+• The Chillers were operating @ 2.54 COP prior to the ECM
+
+and 2.97 following the ECM
+
+• The average COP of the Chillers was increased by 14.5%
+
+following the ECM
+
+2.54
+Baseline COP
+
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+170
+tons Baseline
+
+100%
+CAPACITY @
+90% LOAD
+
+Baseline
+COP
+
+Post ECM
+COP
+
+2.54
+
+2.97
+
+2.97
+Post ECM COP
+200
+tons Post ECM
+
+16.9%
+Improvement
+in COP
+30
+tons of
+Recovered
+Capacity
+
+TONNAGE
+COP
+
+Summary of HVAC/R Eﬃciency Study Results
+
+Chiller Eﬃciency with PermaFrost NMR® ECM - 2 Chillers Combined
+
+The Military Installation has the problem of thermal degradation in its Chillers and HVAC units.
+
+The lower operating tonnage and COP ratings measured on site are in line with the ASHRAE loss of
+
+performance and cost to operate numbers. The degraded equipment performance is costing significant money
+
+and wasting energy. The chillers are using significantly more energy to operate than when they were new.
+
+The performance summary includes the measured efficiency and tonnage of the chillers in the baseline and
+
+post testing periods demonstrating the impact of thermal degradation.
+
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 30 operating tons and an average
+
+improvement of 16.9% in Coefficient of Performance (COP), significantly reducing the cost to operate the
+
+chillers throughout the year.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+0.0
+
+0.3
+
+0.6
+
+0.9
+
+1.2
+
+1.5
+
+Reduction in
+Per Unit Costs
+
+Equating to a
+14.4% reduction
+
+5
+
+Recovered Wasted Energy with ECM
+2 Chillers Combined
+
+The chart to the right illustrates the performance
+
+restoration the ECM created in the treated chillers. The
+
+average cost to operate these chillers before being
+
+treated with PermaFrost NMR®, as calculated in
+
+kW/ton, was 1.39.
+
+The average specific cost to operate these chillers after
+
+being treated with PermaFrost NMR®, as calculated in
+
+kW/ton, is currently 1.19.
+
+The higher baseline kW/ton rating measured in-situ was
+
+expected when compared to the ASHRAE loss of
+
+performance efficiency and cost to operate estimate for a
+
+10-year old chillers utilizing R-22 refrigerant. The post
+
+results are also in line with the average improvement
+
+savings shown over more than 130,000 installations globally.
+
+Cost Per Cooling Unit to Operate
+
+kW/ton
+
+.20 kW/ton
+
+Baseline
+Post ECM
+
+1.39
+
+1.19
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Energy Consumption & Financial Metrics
+2 Chillers Combined
+
+The following are the final calculated performance measurements following the PermaFrost NMR® Post
+
+measurement period for the Military Installation chillers.
+
+Baseline Energy Consumption
+
+Baseline Tonnage: 170 tons
+
+*Adjusted kW Baseline: 1.39 kW/ton * 200 tons = 278 kW
+
+Adjusted Baseline kWh: 278 kW * 4000 Annual Operating Hrs = 1,112,000 kWh
+
+Revised Cost to Run Baseline: 1,112,000 kWh * $.10 = $111,200
+
+Post Energy Consumption
+
+kW Post: 1.19 kW/ton * 200 tons = 238 kW
+
+Annual kWh Post: 238 kW * 4000 hours = 952,000 kWh
+
+Annual Cost Post: 952,000 kWh * .10 cents = $95,200
+
+Savings Per Year
+
+Avoided Energy Cost (savings) Per Year: $111,200 - $95,200 = $16,000
+
+Estimated Energy Savings Per Month: $16,000 / 12 = $1,333
+
+Initial Payback Period
+
+Cost of PermaFrost NMR® installed in the pilot chiller: $19,250
+
+Estimated ROI Period for Global Telecom Equipment Manufacturer on the chiller: $19,250 / $1,333 = 14.4 months
+
+Annual Rate of Return = 83.1%
+
+Return on Investment Over 5 Years = 415.6%
+
+*Utilizing data in the charts contained in this report, to obtain true avoided energy cost and subsequent payback period for
+
+Military Installation for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate
+
+the true energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh
+
+expended in the Post Analysis Period. ROI comes from determining what the cost to run the chillers were when operating
+
+at the original energy profile to produce the newly restored amount of available tonnage capacity and then subtracting the
+
+revised cost to run the chiller at the same restored tonnage after the PermaFrost NMR® ECM was installed. This
+
+regression analysis is the most widely accepted method of accounting for the reduced number of hours or load the chiller
+
+will now operate due to the restored capacity. This restored capacity allows the chillers to reach the internal building set
+
+points with increased efficiency resulting in reduced compressor demand loading.
+
+6
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+1.37
+
+POST
+
+BASELINE
+
+1.20
+
+kW/ton
+
+REDUCTION
+12.4%
+
+POST
+
+BASELINE
+
+36.2%
+
+13.5%
+
+POST
+
+BASELINE
+
+Chilled Water Delta
+
+IMPROVEMENT
+
+IMPROVEMENT
+
+10.4
+
+5.8
+
+3.7
+97.9
+
+11.8
+
+Key Results for Chiller #1 with PermaFrost NMR® ECM
+
+HVAC Equipment Manufacturer
+
+RTAA-1004
+
+U05J03530
+
+R-22
+
+100
+
+4000
+
+2005
+
+System Description
+
+Manufacturer
+
+Model Number
+
+Serial Number
+
+Refrigerant Type
+
+Nominal Cooling
+Capacity in Tons
+
+Average Annual
+Runtime Hours
+
+Date Installed
+
+484.3
+
+165.6
+
+38.8
+
+99.3
+
+42.5
+
+54.3
+
+air
+
+air
+
+11.8
+
+3.7
+
+117.9
+
+1.204
+
+97.9
+
+199
+
+82.4
+
+Energy Usage
+BASELINE
+POST
+
+Voltage
+
+Amperage
+
+Saturated Suction Temperature
+
+Discharge Refrigerant Temperature
+
+Chilled Water Leaving Temp (Supply)
+
+Chilled Water Entering Temp (Return)
+
+Condenser Water Temp Entering Chiller
+
+Condenser Water Temp Leaving Chiller
+
+Chilled Water Delta T
+
+Refrigeration Approach
+
+kW (V x A x 1.47)
+
+kW / Ton
+
+Actual Measured Operating Tons
+
+Chiller GPM
+
+OAT
+
+484.7
+
+163.6
+
+38.1
+
+101.2
+
+43.9
+
+54.3
+
+air
+
+air
+
+10.4
+
+5.8
+
+116.6
+
+1.371
+
+85.0
+
+196
+
+81.7
+
+7
+
+Notes
+
+The pilot chiller provides cooling to the LA
+
+National Guard in Pineville. Given the facility
+
+load the pilot chiller runs approximately 4,000
+
+hours or more annually prior to the ECM being
+
+implemented.
+
+REDUCTION
+
+POST
+
+BASELINE
+85
+
+Operating Tonnage
+
+15.2%
+
+Refrigerant Approach
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Key Results for Chiller #2 with PermaFrost NMR® ECM
+
+HVAC Equipment Manufacturer
+
+RTAA-1004
+
+U05J03531
+
+R-22
+
+100
+
+4000
+
+2005
+
+System Description
+
+Manufacturer
+
+Model Number
+
+Serial Number
+
+Refrigerant Type
+
+Nominal Cooling
+Capacity in Tons
+
+Average Annual
+Runtime Hours
+
+Date Installed
+
+485.0
+
+167.7
+
+38.4
+
+101.8
+
+42.9
+
+55
+
+air
+
+air
+
+12.1
+
+4.5
+
+119.6
+
+1.173
+
+101.9
+
+202
+
+82.8
+
+Energy Usage
+BASELINE
+POST
+
+Voltage
+
+Amperage
+
+Saturated Suction Temperature
+
+Discharge Refrigerant Temperature
+
+Chilled Water Leaving Temp (Supply)
+
+Chilled Water Entering Temp (Return)
+
+Condenser Water Temp Entering Chiller
+
+Condenser Water Temp Leaving Chiller
+
+Chilled Water Delta T
+
+Refrigeration Approach
+
+kW (V x A x 1.47)
+
+kW / Ton
+
+Actual Measured Operating Tons
+
+Chiller GPM
+
+OAT
+
+481.9
+
+167.0
+
+38
+
+108.3
+
+44.7
+
+55
+
+air
+
+air
+
+10.3
+
+6.7
+
+118.3
+
+1.398
+
+84.6
+
+197
+
+81
+
+8
+
+Notes
+
+The pilot chiller provides cooling to the LA
+
+National Guard in Pineville. Given the facility
+
+load the pilot chiller runs approximately 4,000
+
+hours or more annually prior to the ECM being
+
+implemented.
+
+1.40
+
+POST
+
+BASELINE
+
+1.17
+
+kW/ton
+
+REDUCTION
+16.4%
+
+POST
+
+BASELINE
+
+32.8%
+
+17.5%
+
+POST
+
+BASELINE
+
+Chilled Water Delta
+
+IMPROVEMENT
+
+IMPROVEMENT
+
+10.3
+
+6.7
+
+4.5
+101.9
+
+12.1
+
+REDUCTION
+
+POST
+
+BASELINE
+84.6
+
+Operating Tonnage
+
+20.4%
+
+Refrigerant Approach
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+23.1
+
+Passenger vehicles
+
+5.6
+
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+
+12,352
+
+Gallons of gasoline
+consumed
+
+117,912
+
+Pounds of coal burned
+annually
+
+255
+
+Barrels of oil
+consumed
+
+.589
+
+Railcars worth
+of coal burned
+
+10
+
+Homes’ electricity use for
+one year
+
+9
+
+Military Installation is Saving More than Just Energyy
+
+By treating these pilot chillers with PermaFrost NMR®, based on the current manner in which the LA
+
+National Guard operates them, it will save approximately 159,200 kWh per year and all the costs associated
+
+with those savings. From an environmental impact standpoint, the Military Installation is also benefitting the
+
+surrounding community of Pineville. Imagine how great the environmental impact will be when State Military A
+
+after treating all their HVAC/R equipment in all their properties across their portfolio.
+
+The 159,200 kWh saved per year equates to preventing 110 metric tons of greenhouse gas emissions from
+
+being released or any of the following:
+
+Annual greenhouse emissions from:
+
+CO2 emissions from:
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

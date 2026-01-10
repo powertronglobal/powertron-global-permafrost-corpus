@@ -1,0 +1,37 @@
+Energy Consumption & Financial Metrics
+The following are the ﬁnal calculated average performance measurements and ﬁnancial projections before and 
+after the two ECM’s were installed on the four pilot CRAC systems. These results will vary slightly from the tables 
+listed earlier in this report due to rounding only to the ﬁrst decimal position for cooling ton and kW values.
+Average Baseline Energy Consumption
+Baseline Capacity:  91.6 tons
+Adjusted kW Baseline:  1.58 kW/ton * 111.2 tons = 175.7 kW
+Adjusted Baseline kWh:  175.7 kW * 7,400 Annual Operating Hours = 1,300,180 kWh
+Revised Cost to Run Baseline: 1,300,180 kWh * $.09 = $117,016
+Average Post Energy Consumption
+kW Post:  1.13 kW/ton * 111.2 tons = 125.7 kW
+Annual kWh Post:  125.7 kW * 7,400 hours = 930,180 kWh
+Annual Cost Post:  930,180 kWh * $.09 cents = $83,716
+Average Savings Per Year Per Unit
+Avoided Energy Cost (savings) Per Year:  $117,016 - $83,716 = $33,300
+Estimated Energy Savings per Month: $33,300 / 12 = $2,775
+Return on Investment
+Cost of PermaFrost NMR® and Circuit Master® devices installed in the pilot cooling systems: $29,428
+Estimated ROI for Data Center Provider/Data Center REIT when treating the pilot cooling systems: $29,428 / $2,775 = ~10.6 mos
+Additional Savings
+In addition to the above savings, demand was also reduced potentially providing additional cost savings.  In order 
+to identify these savings, a copy of the electric bills is required to identify the cost of demand and the additional 
+cost impact these energy conservation measures provided.
+Annual Internal Rate of Return = 113%
+Return on Investment Over 5 Years = 566%
+Explanation of Regression Analysis
+To obtain a realistic avoided energy cost and subsequent payback period for Data Center Provider/Data Center REIT for implementing the PermaFrost NMR® and Circuit Master® 
+ECMs, a detailed Regression Analysis is used to calculate the true energy savings resulting from the improvement in both capacity and efficiency 
+utilizing data collected during the pilot study. Working together, these improvements reduce the annual kWh expended in the Post Analysis 
+Period. The ROI comes from determining what the cost to run the cooling systems was when operating at the original energy profile to produce 
+the newly restored amount of available capacity before then subtracting the revised cost to run the cooling systems at the same restored capacity 
+after the ECMs were installed. This regression analysis is the most widely accepted method of accounting for the reduced number of hours and/or 
+load % at which the systems will now operate due to the restored performance profile. This restored performance profile allows will normally allow 
+the cooling systems to satisfy the internal area set points with increased efficiency resulting in reduced compressor demand loading.
+14
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

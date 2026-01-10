@@ -1,0 +1,639 @@
+================================================================================
+DOCUMENT: Case Study 086
+DOC_ID: pdf_010
+SHA256: 46e6a77e01cb1beaf84cfa4bc7106c29a2e8af692a947bc1de5a0af9ce0c7655
+================================================================================
+
+═══ PAGE 001 ═══
+
+M&V Report PermaFrost NMR 
+Testing Results Botanical Gardens A 
+Bronx, NY 
+Project Overview   Energy reduction in the Visitor Center’s cooling systems through 
+the installation of the Powertron Global product “PermaFrost 
+NMR” into the refrigerant circuits of cooling systems. 
+Project Team 
+Botanical Gardens A 
+[VP Security & Operations] 
+[Director for Engineering] 
+Powertron Global 
+[Senior Energy Engineer], Forensic Mechanical Engineer & Chief 
+Science Officer 
+Process 
+Testing was performed on two 13-year-old Carrier 15-Ton 
+package units servicing the Visitor’s Center. 
+Survey Summary The performance improvement of the equipment after the 
+PermaFrost NMR was added with respect to kW/Ton, COP & 
+EER. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. This 
+document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 002 ═══
+
+A. 
+INTRODUCTION 
+From August 1, to September 3, 2016 at the Botanical Gardens A, 
+testing was implemented to verify energy reduction through the Powertron Global 
+product PermaFrost NMR affecting the refrigerant circuits of two 15-Ton package 
+DX units. 
+Unit #3 - Carrier 48HJM017- 72088, Mfg Date 2003, R-22 equipped 
+Unit #4 - Carrier 48HJM017- 72088, Mfg Date 2003, R-22 equipped 
+The testing was designed to monitor the operation of the systems before and 
+after the installation of PermaFrost NMR and to verify the amount of capacity 
+restoration and the resulted energy savings.  
+The monitoring isolates the entry and departure points of the medium being 
+cooled and the power being used. By recording the conditions at those entry and 
+departure points the overall cooling results can be compared to the overall power 
+consumed to quantify the power costs per unit of cooling kW/Ton (kilowatt-per-
+ton), EER (Energy Efficiency Ratio) & COP (Co-Efficient of Performance). 
+B. 
+EXECUTIVE SUMMARY 
+The average efficiency improvements per system are: 
+UNIT	
+  #3	
+  
+kW/Ton	
+  
+COP	
+  
+EER	
+  
+Baseline	
+  
+1.49	
+  
+2.43	
+  
+8.27	
+  
+Post	
+  
+1.12	
+  
+3.15	
+  
+10.76	
+  
+Improvement	
+  %	
+  
+24.8%	
+  
+29.6%	
+  
+30.1%	
+  
+UNIT	
+  #4	
+  
+kW/Ton	
+  
+COP	
+  
+EER	
+  
+Baseline	
+  
+1.56	
+  
+2.43	
+  
+8.29	
+  
+Post	
+  
+0.71	
+  
+5.04	
+  
+17.2	
+  
+Improvement	
+  %	
+  
+54.5%	
+  
+107.4%	
+  
+107.5%	
+  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. This 
+document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 003 ═══
+
+C. 
+GENERAL FINDINGS 
+1.
+Method of Procedure for testing:
+The objective of measuring the overall cooling production of HVAC systems can 
+be realized by measuring the total energy consumed by the specific unit being 
+tested and the total BTU production of the system then calculating these 
+parameters to obtain kW per ton, EER (energy efficient ratio) and COP 
+(coefficient of performance) Using that information the total BTUH of cooling 
+production can be realized. The objective of measuring overall power consumed 
+by an HVAC system can be realized by measuring voltage, amperage and power 
+factor.  
+For these specific HVAC systems many parameters were measured every two 
+seconds for a period of seven (7) days for the development of a scientific 
+baseline of performance and a post period of seven (7) days for the development 
+of a scientific post analysis of performance. Data was extracted from the 
+parameters measured every five (5) seconds during the normal operating hours 
+of 9am to 5pm.  
+Total BTUH was developed along with total kW consumption by measuring all 
+required data points (13 points see appendix for points measured) and entering 
+them into industry best practice engineering formulae. All measurement hardware 
+was certified under NIST or CE standards. Engineering formulae was developed 
+by AHRI / ASHRAE (American Heating and Refrigeration Institute / American 
+Society of Heating Refrigeration & Air Conditioning Engineers) 
+During regular business hours the outdoor air temperature entering the air-cooled 
+condenser coils of each unit will affect the design capacity. Therefore we have 
+provided baseline and post analysis of the seven (7) day periods at several 
+outdoor air temperature intervals so as to provide the comparison of improved 
+capacity and subsequent kW per ton, EER and COP across a variation of 
+outdoor air temperatures consisting of a eleven (11) degree span (80-90 degrees 
+F). 
+D.  
+CONCLUSION 
+Testing validates that the PermaFrost NMR product does improve HVAC/R 
+energy efficiency when added to the refrigerant circuit of a cooling system. 
+ASHRAE estimates that air-conditioning will lose 30% of its cooling capacity due 
+to the thermal degradation of internal surfaces. Higher percentages up to 40% 
+have been observed in systems that have extremely high runtimes.  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. This 
+document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 004 ═══
+
+PermaFrost NMR restored the system to near or its intended design capacity. 
+The opportunity for improvement varies based upon the amount of thermal 
+degradation present which is derived from total amount of runtime hours over its 
+service life (age), the loading of the unit and the application such and DX verses 
+water-cooled chiller.  
+Mechanical equipment that consumes power predominately to operate a 
+refrigeration compressor (water or air-cooled DX, water or air-cooled chillers, ice 
+machines, etc.) will significantly benefit from the PermaFrost NMR treatment due 
+to restored capacity therefore lowering the kW/Ton. 
+In addition to lowering the kW/Ton of the equipment, additional benefit is found 
+when the system can cycle off a compressor due to the additional capacity 
+restored. Running the compressor(s) less significantly reduces energy 
+consumption. In this case Unit #3 and #4 had significantly less runtime hours with 
+matching weather data. Please Appendixes I & II for details. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. This 
+document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 005 ═══
+
+F. 
+APPENDIX 
+I. 
+Unit #3 Performance Analysis Summary 
+II.
+Unit #4 Performance Analysis Summary
+III.
+Points Measured
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. This 
+document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 006 ═══
+
+HVAC Performance Comparison: kW/Ton, EER, COP
+Unit #3 Major Botanical Garden
+kW/Ton Comparison
+OSA Temp.
+Base Avg. kW/Ton
+Post Avg. kW/Ton
+80 degF
+1.23 kW/Ton
+1.0 kw/Ton
+81 degF
+1.14 kW/Ton
+1.04 kw/Ton
+82 degF
+1.26 kW/Ton
+1.07 kw/Ton
+83 degF
+1.3 kW/Ton
+1.11 kw/Ton
+84 degF
+1.41 kW/Ton
+1.09 kw/Ton
+85 degF
+1.43 kW/Ton
+1.09 kw/Ton
+86 degF
+1.52 kW/Ton
+1.12 kw/Ton
+87 degF
+1.75 kW/Ton
+1.17 kw/Ton
+88 degF
+1.75 kW/Ton
+1.21 kw/Ton
+89 degF
+1.68 kW/Ton
+1.21 kw/Ton
+90 degF
+1.88 kW/Ton
+1.2 kw/Ton
+Averages
+1.49 kW/Ton
+1.12 kW/Ton
+COP Comparison
+OSA Temp.
+Base Avg. COP
+Post Avg. COP
+80 degF
+2.85
+3.51
+81 degF
+3.08
+3.39
+82 degF
+2.79
+3.28
+83 degF
+2.7
+3.18
+84 degF
+2.49
+3.22
+85 degF
+2.46
+3.24
+86 degF
+2.31
+3.15
+87 degF
+2.01
+3.01
+88 degF
+2.01
+2.9
+89 degF
+2.1
+2.9
+90 degF
+1.87
+2.92
+Averages
+2.43
+3.15
+EER Comparison
+OSA Temp.
+Base Avg. EER
+Post Avg. EER
+80 degF
+9.73
+11.98
+81 degF
+10.51
+11.55
+82 degF
+9.51
+11.19
+83 degF
+9.21
+10.84
+84 degF
+8.5
+10.97
+85 degF
+8.38
+11.05
+86 degF
+7.89
+10.75
+87 degF
+6.87
+10.27
+88 degF
+6.87
+9.91
+89 degF
+7.16
+9.91
+90 degF
+6.38
+9.96
+Averages
+8.27
+10.76
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. This 
+document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 007 ═══
+
+HVAC Performance Comparison: kW/Ton, EER, COP
+Unit #4 Major Botanical Garden
+kW/Ton Comparison
+OSA Temp.
+Base Avg. kW/Ton
+Post Avg. kW/Ton
+80 degF
+0.77 kW/Ton
+0.6 kw/Ton
+81 degF
+1.31 kW/Ton
+0.61 kw/Ton
+82 degF
+1.33 kW/Ton
+0.64 kw/Ton
+83 degF
+1.36 kW/Ton
+0.66 kw/Ton
+84 degF
+1.67 kW/Ton
+0.67 kw/Ton
+85 degF
+1.22 kW/Ton
+0.69 kw/Ton
+86 degF
+1.87 kW/Ton
+0.77 kw/Ton
+87 degF
+2.04 kW/Ton
+0.74 kw/Ton
+88 degF
+1.81 kW/Ton
+0.72 kw/Ton
+89 degF
+1.86 kW/Ton
+0.81 kw/Ton
+90 degF
+1.92 kW/Ton
+0.88 kw/Ton
+Averages
+1.56 kW/Ton
+0.71 kW/Ton
+COP Comparison
+OSA Temp.
+Base Avg. COP
+Post Avg. COP
+80 degF
+4.56
+5.88
+81 degF
+2.68
+5.8
+82 degF
+2.64
+5.52
+83 degF
+2.59
+5.31
+84 degF
+2.1
+5.28
+85 degF
+2.88
+5.13
+86 degF
+1.88
+4.57
+87 degF
+1.72
+4.76
+88 degF
+1.94
+4.86
+89 degF
+1.89
+4.36
+90 degF
+1.84
+3.99
+Averages
+2.43
+5.04
+EER Comparison
+OSA Temp.
+Base Avg. EER
+Post Avg. EER
+80 degF
+15.57
+20.06
+81 degF
+9.15
+19.8
+82 degF
+9.01
+18.83
+83 degF
+8.85
+18.12
+84 degF
+7.18
+18.02
+85 degF
+9.84
+17.51
+86 degF
+6.41
+15.59
+87 degF
+5.87
+16.25
+88 degF
+6.62
+16.58
+89 degF
+6.46
+14.87
+90 degF
+6.26
+13.62
+Averages
+8.29
+17.2
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. This 
+document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 008 ═══
+
+APPENDIX III	
+  
+Points	
+  Measured	
+  per	
+  Unit	
+  
+- 
+Total	
+  Instantaneous	
+  Real	
+  Power	
+  
+- 
+CFM	
+  
+- 
+COP	
+  
+- 
+Compressor	
+  #1	
+  on/off	
+  	
+  
+- 
+Compressor	
+  #2	
+  on/off	
+  
+- 
+Delta	
+  Enthalpy	
+  
+- 
+Delta	
+  Temperature	
+  
+- 
+EER	
+  
+- 
+Inlet	
+  Enthalpy	
+  
+- 
+Instantaneous	
+  Current,	
+  Phase	
+  A	
+  
+- 
+Instantaneous	
+  Current,	
+  Phase	
+  B	
+  
+- 
+Instantaneous	
+  Current,	
+  Phase	
+  C	
+  
+- 
+L-­‐N	
+  Voltage	
+  
+- 
+Outlet	
+  Enthalpy	
+  
+- 
+Outside	
+  Air	
+  Temperature	
+  
+- 
+Power	
+  Factor,	
+  Phase	
+  A	
+  
+- 
+Power	
+  Factor,	
+  Phase	
+  B	
+  
+- 
+Power	
+  Factor,	
+  Phase	
+  C	
+  
+- 
+Real	
+  Power,	
+  Phase	
+  A	
+  
+- 
+Real	
+  Power,	
+  Phase	
+  B	
+  
+- 
+Real	
+  Power,	
+  Phase	
+  C	
+  
+- 
+Return	
+  Air	
+  Dew	
+  point	
+  
+- 
+Return	
+  Air	
+  Temperature	
+  
+- 
+Return	
+  Duct	
+  Humidity	
+  
+- 
+Supply	
+  Air	
+  Temperature	
+  
+- 
+Supply	
+  Duct	
+  Humidity	
+  
+- 
+Total	
+  Capacity	
+  (BTU’s)	
+  
+- 
+Total	
+  Capacity	
+  (Tons)	
+  
+- 
+Total	
+  Power	
+  Factor	
+  
+- 
+Voltage	
+  A-­‐N	
+  
+- 
+Voltage	
+  B-­‐N	
+  
+- 
+Voltage	
+  C-­‐N	
+  
+- 
+kW	
+  per	
+  Ton	
+  
+- 
+kWE	
+  per	
+  kWR	
+  
+- 
+kWR	
+  
+

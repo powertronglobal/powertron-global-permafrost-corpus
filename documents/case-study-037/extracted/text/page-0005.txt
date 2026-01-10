@@ -1,0 +1,8 @@
+4
+The Caribbean Telecom Provider energy meter data from each of the comparison blocks of time are depicted in the graphs on the 
+next few pages. The Caribbean Telecom Provider Engineering team has all the details behind these charts as well as all the other raw 
+data pulled directly from the power meter.
+AVERAGE MAX CURRENT BY HOUR
+This report is provided to Caribbean Telecom Group. It is confidential and proprietary to Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

@@ -1,0 +1,267 @@
+# Major US Telecom CTH 1 Year Review Part II.pdf
+
+2006 Windy Terrace Suite A 
+www.powertronglobal.com
+
+Major US Telecom Cell Hut Tower 1-Year Review - Baseline II vs Post II
+
+(2023 vs 2024) 
+ 
+ 
+ 
+Introduction 
+ 
+The purpose of this report is to demonstrate PermaFrost NMR (PF NMR) 
+results are ongoing in previously treated HVAC equipment and that the 
+technology meets it’s claims of being a permanent, one time application. 
+Major US Telecom requested Powertron Global make a return trip to [Texas City] to 
+capture a second round of post power consumption (kWh) & temperature 
+(CDD) data from the treated cell tower sites in 2023. PermaFrost NMR lasts 
+for the remaining useful service life of any HVAC unit that it is administered 
+to due to nanotechnology’s ability to embed itself into the internal metal 
+surfaces of a closed refrigeration circuit to restore the heat transfer 
+properties of the metal.  
+ 
+It was determined to select eight (8) of the original ten (10) sites selected due 
+to two (2) of the ten (10) sites from last year experiencing mechanical issues 
+(not due to PF NMR) during the post data collection period. Those issues are 
+well documented in the initial post review report of 2023 provided to Major US Telecom. 
+Please see last year’s confirmatory test of 2023 for details. The eight (8) sites 
+are:
+
+FA # 
+Equip ID 
+Address 
+Cell Hut# 
+Year Mfg.
+
+10078552 
+511/512 
+Signat Dr 
+3 
+2012 
+10079758 
+513/514 
+Memorial Blvd 
+4 
+2013 
+10025097 
+515/516 
+Rockley Rd 
+5 
+2013 
+10153087 
+517/518 
+Fondren Rd 
+6 
+2013 
+10079766 
+519/520 
+Nelms St 
+7 
+2012 
+10025108 
+521/522 
+W Monroe St 
+8 
+2012 
+11584595 
+523/524 
+Sabo Rd 
+9 
+2012 
+11584594 
+525/526 
+Scarsdale Rd 
+10 
+2013
+
+---
+
+2006 Windy Terrace Suite A 
+www.powertronglobal.com
+
+Methodology 
+ 
+Powertron Global attached one F2 (IoT Measurement & Verification) device 
+per site that included two (2) revenue grade power meters (one for each Bard 
+unit), an outdoor air temperature sensor and a dry contact on each of the 
+treated sixteen (16) Bard units (compressor on/off sensor). These are the 
+same make and model of devices and sensors that were implemented in 
+2023. 
+ 
+Powertron Global was tasked by Major US Telecom to compare twenty (20) days of 
+baseline (II) from 2023, which differed from the original baseline due to the 
+standard of matching heat loads/CDDs to newly captured post (II) data 
+collection 2024 – 1 year later. Powertron Global was careful in choosing the 
+twenty (20) day selections for each treated unit as to match the outdoor air 
+temperature or external heat load to normalize the data sets. Each unit’s data 
+set was customized to match exactly or with a variance in CDDs of only 1% or 
+less (.07% on average). This variance is considered insignificant between 
+data sets giving confidence in the data. This exact methodology was 
+implemented the year prior. Please see CDD table contained in this report. 
+ 
+All detailed per node/HVAC unit data sets with exact dates, pre and post, are 
+found in the accompanying spreadsheet provided to Major US Telecom along with all raw 
+data files.
+
+---
+
+2006 Windy Terrace Suite A 
+www.powertronglobal.com
+
+Data
+
+2023 Baseline II vs 2024 Post II
+
+kWh 
+Cell Hut 3 
+Cell Hut 4 
+Cell Hut 5 
+Cell Hut 6 
+Baseline 
+684.1 
+814.8 
+483.2 
+320.3 
+Post 
+592.2 
+792.3 
+369.1 
+268.3 
+Diff% 
+13.4% 
+2.8% 
+23.6% 
+16.2%
+
+kWh 
+Cell Hut 7 
+Cell Hut 8 
+Cell Hut 9 
+Cell Hut 10 
+Baseline 
+538.06 
+545.2 
+418 
+1388 
+Post 
+277.8 
+410.7 
+363 
+1085.4 
+Diff% 
+48.4% 
+24.7% 
+13.2% 
+21.8%
+
+Total kWh
+
+Baseline 
+5192 
+Post 
+4159 
+Diff% 
+19.9% 
+Savings
+
+**All raw data files have been provided to Major US Telecom
+
+CDD 
+2023 
+2024 
+Post Iv2 vs. Post II 
+Baseline II 
+Post II 
+Diff% 
+Cell Hut 3 
+511 
+346 
+343 
+-0.87% 
+512 
+344 
+343 
+-0.29% 
+Cell Hut 4 
+513 
+362 
+360 
+-0.56% 
+514 
+358 
+360 
+0.56% 
+Cell Hut 5 
+515 
+366 
+369 
+0.81% 
+516 
+365 
+369 
+1.08% 
+Cell Hut 6 
+517 
+403 
+407 
+0.98% 
+518 
+403 
+407 
+0.98% 
+Cell Hut 7 
+519 
+N/A 
+358 
+0.00% 
+520 
+362 
+358 
+-1.1% 
+Cell Hut 8 
+521 
+384 
+383 
+-0.26% 
+522 
+383 
+383 
+0.00% 
+Cell Hut 9 
+523 
+369 
+372 
+0.81% 
+524 
+372 
+372 
+0.00% 
+Cell Hut 10 
+525 
+371 
+368 
+-0.8% 
+  
+526 
+369 
+368 
+-0.27%
+
+0.07% 
+AVG
+
+---
+
+2006 Windy Terrace Suite A 
+www.powertronglobal.com
+
+Conclusion 
+ 
+The latest twenty (20) day analysis of Baseline II vs. Post II (1 year later) data 
+sets demonstrate an average savings of 19.9% across the cell sites. Last year’s 
+twenty (20) day Baseline I vs. Post I analysis demonstrated an average 
+savings of 19.4%. Overall the latest data findings confirms the product’s 
+claims and demonstrates it is still working one (1) year later and will 
+continue to work for the remaining useful service life of the treated units.

@@ -1,0 +1,68 @@
+4786820856
+4/7/2015
+2030380-NW
+Samuel Holliverse
+Ricky Chang
+Signature
+[Technical Engineer]
+Signature
+AC Type
+None
+AC Type 
+Test No 
+Done 
+Comments/Parameters 
+1
+X
+2
+3
+4
+Description of Sample/s 
+56-LO-F0406 Issue: 2.0 
+UL LLC
+801 Klein Road, Suite 200, [Texas Location], TX 75074
+Laboratory Data Package
+TEST LOCATION : 
+UL LLC
+801 Klein Road, Suite 200, [Texas Location], TX 75074
+CLIENT INFORMATION 
+Company Name:
+PowerTron Global LLC
+Address:
+211 Ranch Rd. 620 South, Suite 140
+Austin, Texas 78734
+Project Number:
+Date:
+Sample Number:
+AUDIT INFORMATION: 
+Description of Tests  Per Standard No. 
+and edition and/or revision date
+ANSI/AHRI Standard 340/360-2007 with Addenda 1 and 2
+ANSI ASHRAE Standard 37-2009
+Tests Conducted by:
+Samuel Holliverse
+Ricky Chang
+Printed Name
+Reviewed and accepted by 
+Responsible Engineer 
+[Technical Engineer]
+Printed Name
+Type of Air Conditioning Equipment ( Pulldown menu - Click on Box beside AC/HP Type and select Type) 
+TESTS TO BE CONDUCTED 
+Test Name 
+ANSI/AHRI Standard 340/360 -2007 with Addenda 1 
+and 2 ANSI ASHRAE Standard 37 - 2009
+7.5Ton Package Unit
+Package System Model No. 
+Trane TSC090A3EGAZUB
+Nameplate V, Ph, HZ, A 
+208~230 V/ 3Ph/ 60 Hz
+Condenser Type 
+  [X] Air-Cooled [ ] Water cooled [ ] Evaporatively-cooled
+Compressor Type 
+  [X] Hermetic   [ ] Semi-Hermetic [ ] Motor-Driven 
+Indoor Section 
+  [ ] With [X] Without  Electric heat 
+UL LLC
+801 Klein Road, Suite 200
+[Texas Location], Tx 75074

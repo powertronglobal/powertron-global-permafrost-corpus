@@ -1,0 +1,50 @@
+{
+  "doc_id": "pdf_066",
+  "terms": [
+    {
+      "term": "Energy Conservation Measure",
+      "abbreviation": "ECM",
+      "definition": null
+    },
+    {
+      "term": "Air Conditioning and Refrigeration",
+      "abbreviation": "HVACR",
+      "definition": null
+    },
+    {
+      "term": "Performance",
+      "abbreviation": "COP",
+      "definition": null
+    },
+    {
+      "term": "Increase\nAnnual Operating Hours\nTotal Power Cost per kWE\nkWE Measured",
+      "abbreviation": "BASE",
+      "definition": null
+    },
+    {
+      "term": "Measured",
+      "abbreviation": "AERP",
+      "definition": null
+    },
+    {
+      "term": "Annual Energy Savings\nTechnology Treatment Cost\nReturn on Investment",
+      "abbreviation": "ROI",
+      "definition": null
+    },
+    {
+      "term": "International Measurement and Verification Protocol",
+      "abbreviation": "IPMVP",
+      "definition": null
+    },
+    {
+      "term": "Technology",
+      "abbreviation": "NIST",
+      "definition": null
+    },
+    {
+      "term": "Power Factor",
+      "abbreviation": "PF",
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+Energy Science Division
+Improvements
+kW / Ton  
+Evaporator Approach
+Total kWh
+Measured Tons
+COP
+Total kW 
+28.2 %
+30.7 %
+29.1 %
+25.2 %
+39.3 %
+28.4 %
+Post
+.545
+15.1 F 
+13,709
+5.76
+6.45
+3.13
+Baseline
+.759
+21.8 F 
+19,184
+4.60
+4.63
+4.37
+PermaFrost NMR®: Determining the Payback Period for Major Financial Services Firm Oﬃce Park
+Utilizing data in the above charts, to obtain a true avoided energy cost and subsequent payback period for Raymond 
+James Office Park for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate 
+the true energy savings resulting from the improvement in capacity. This greater capacity reduces the runtime hours 
+and in turn reduces the annual kWh expended in the Post. The true ROI comes from determining what the cost to run 
+the units was when operating at their original energy profile to produce the newly restored amount of tonnage and then 
+subtracting the new cost to run the units at this same newly restored tonnage after the PermaFrost NMR® ECM was 
+installed. This regression calculation is the most scientific method of accounting for the reduced number of hours the units 
+will now run due to their increased capacity which allows the units to reach set temperatures quicker and shut off sooner.
+Adjusted kW Baseline        .759 kW/ton * 5.76 tons =4.37 kW
+Adjusted Baseline kWh        4.38 kW * 4380 Annual Operating hours = 19,184 kWh
+Revised Cost to Run Baseline        19,184 kWh * $ .1325 = $2,542
+kW Post         .545 kW/ton * 5.76 tons = 3.13 kW
+Annual kWh Post         3.13 kW * 4380 hours = 13,709 kWh
+Annual Cost Post         13,709 kWh * $.1325 cents = $1,816
+Avoided Energy Cost (savings) Per Month        ($2,542 - $1,816)/12 = $61
+Cost of PermaFrost NMR® installed in pilot System        $600
+Estimated Energy Savings Payback Period for this unit $600/ $61        10 months
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

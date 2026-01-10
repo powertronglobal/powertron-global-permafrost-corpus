@@ -1,0 +1,137 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2024 Powertron Global, LLC. 
+ 
+ 
+Executive Summary 
+ 
+A confirmatory test was conducted on eight (8) rooftop package air conditioning 
+units (RTUs) located in the San Antonio Texas area at four (4) locations. Overall 
+the efficiency improvements achieved were recorded at a 17.2% thermal capacity 
+improvement and 25.7% reduction in kWh usage.  Prior to the implementation of 
+the PermaFrost NMR nanotech solution, the units were operating at an average 
+consumption rate of 1.37 kW per ton. After treatment the average kW/ton ratings is 
+1.15 kW per ton however not all units or circuits have fully gestated and expect 
+those numbers to further improve once that occurs. These thermal efficiency 
+improvements have revealed the reduction in kWh savings by utilizing Cooling 
+Degree-Days (CDD) comparisons (287 CDDs baseline vs. 287 CDDs post). A total 
+of 2,140,762 data samples were utilized to comprise this report. Details can be 
+found below and in the appendix sections of applicable units. 
+  
+Units with 
+Comparable Data 
+Baseline 
+Post 
+Baseline 
+Post 
+Equip 
+ID 
+Location 
+CK ID 
+kW/Ton 
+(Avg) 
+kW/Ton 
+(Avg) 
+kWh% 
+Improvement 
+kWh  
+kWh 
+kWh% 
+Improvement 
+*510 
+2704091 
+1.2 
+1.08 
+10.0% 
+617.31 
+500.00 
+19.0% 
+511 
+2704068 
+1.17 
+0.95 
+18.8% 
+649.35 
+533.59 
+17.8% 
+512 
+2704068 
+2.18 
+1.62 
+25.7% 
+262.05 
+165.33 
+36.9% 
+513 
+2704076 
+1.18 
+1.01 
+14.4% 
+525.7 
+338.36 
+35.6% 
+514 
+2704076 
+1.38 
+1.19 
+13.8% 
+319.9 
+259.22 
+19.0% 
+ 
+Units with Missing or Non 
+Comparable Data 
+Baseline 
+Post 
+Baseline 
+Post 
+Equip 
+ID 
+Location 
+CK ID 
+kW/Ton 
+(Avg) 
+kW/Ton 
+(Avg) 
+kWh% 
+Improvement 
+kWh  
+kWh 
+kWh% 
+Improvement 
+**507 
+2704076 
+1.33 
+1.06 
+20.3% 
+not 
+comparable  
+not 
+comparable 
+see notes 
+***508 
+2704076 
+no data 
+no data 
+see notes 
+no data 
+no data 
+see notes 
+***509 
+2704091 
+1.16 
+no data 
+see notes 
+no data 
+no data 
+see notes 
+AVERAGE 
+17.2% 
+AVERAGE 
+25.7% 
+ 
+* Unit only ran on 1 compressor/circuit therefore results are on 1 circuit only at this time 
+** Units did not achieve the required gestation runtimes on either circuit 
+*** Unit is jumped/wired to run both compressors 
+ 
+ 

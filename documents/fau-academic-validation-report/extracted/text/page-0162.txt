@@ -1,0 +1,47 @@
+62        References 
+ 
+49. Knebel, D.E. 1983. "Simplified Energy Analysis Using the Modified Bin Method", ASHRAE, 
+[Southeast Location], Georgia, ISBN 0-910110-39-5. 
+50. Kulwicki, B. 1991. "Humidity Sensors", Journal of the American Ceramic Society, Vol. 74, 
+pp. 697-707.  
+51. Landman, D. and Haberl, J. 1996a. "Monthly Variable-Based Degree Day Template: A 
+Spreadsheet Procedure for Calculating 3-parameter Change-point Model for Residential or 
+Commercial Buildings", Energy Systems Laboratory Report No. ESL-TR-96/09-02. 
+52. Landman, D. and Haberl, J. 1996b. "A Study of Diagnostic Pre-Screening Methods for 
+Analyzing Energy Use of K-12 Public Schools", Energy Systems Laboratory Report No. 
+ESL-TR-96/11-01, November. 
+53. Leider, M. 1990. A Solid State Amperometric Humidity Sensor, Journal of Applied 
+Electrochemistry, Chapman and Hill: Vol. 20, pp. 964-8. 
+54. Liptak, B. 1995. Instrument Engineers' Handbook, 3rd Edition: Process Measurement and 
+Analysis. Chilton Book Company, Radnor, Pennsylvania, ISBN 0-8019-8197-2. 
+55. Miller, R. 1989. Flow Measurement Handbook, McGraw Hill Publishing Company, New York, 
+New York, ISBN 0-07-042046-7. 
+56. Morrissey, C.J. 1990. "Acoustic Humidity Sensor", NASA Tech Brief. Vol. 14, No. 19, April, 
+(acoustic). 
+56a. ORNL (1999) “A Practical Guide for Commissioning Existing Buildings” Prepared by 
+Portland Energy Coservation Inc., for Oak Ridge National Laboratory (ORNL/TM-1999/34)  
+Available through http://eber.ed.ornl.gov/commercialproducts/retrocx.htm 
+57. Rabl, A. 1988. "Parameter Estimation in Buildings: Methods for Dynamic Analysis of 
+Measured Energy Use", Journal of Solar Energy Engineering, Vol. 110, pp. 52-66. 
+58. Rabl, A. and Riahle, A. 1992. "Energy Signature Model for Commercial Buildings: Test With 
+Measured Data and Interpretation", Energy and Buildings, Vol. 19, pp.143-154. 
+59. Ramboz, J.D. and McAuliff, R.C. 1983. "A Calibration Service for Wattmeters and Watt-Hour 
+Meters", N.B.S. Technical Note 1179.  
+60. Reddy, T. and Claridge, D. 2000. "Uncertainty of "Measured" Energy Savings From 
+Statistical Baseline Models," ASHRAE HVAC&R Research, Vol 6, No 1, January 2000. 
+61. Reynolds, C. and Fels, M. 1988. "Reliability Criteria for Weather Adjustment of Energy 
+Billing Data", Proceedings of ACEEE 1988 Summer Study on Energy Efficiency in Buildings, 
+Vol. 10, pp.10.237-10.241. 
+62. Robinson, J., Bryant, J., Haberl, J. and Turner, D. 1992. "Calibration of Tangential 
+Paddlewheel Insertion Flowmeters", Proceedings of the 1992 Hot and Humid Conference, 
+Texas A&M University, Energy Systems Laboratory Report No. ESL-PA-92/02-09.  
+63. Ross, I.J. and White, G.M. 1990. "Humidity", Instrumentation and Measurement for 
+Environmental Sciences: Transactions of the ASAE, 2nd ed., p. 8-01. 
+64. Ruch, D. and Claridge, D. 1991. "A Four Parameter Change-Point Model for Predicting 
+Energy Consumption in Commercial Buildings", Proceedings of the ASME-JSES-JSME. 
+65. SEL 1996. TRNSYS Version 14.2, and Engineering Equation Solver (EES). Solar Energy 
+Laboratory, Mechanical Engineering Department, University of Wisconsin, Madison, 
+Wisconsin. 
+66. Soebarto, V. 1996. "Development of a Calibration Methodology for Hourly Building Energy 
+Simulation Models Using Disaggregated Energy Use Data From Existing Buildings", Ph.D. 
+Dissertation, Department of Architecture, Texas A&M University, August. 

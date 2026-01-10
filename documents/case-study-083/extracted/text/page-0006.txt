@@ -1,0 +1,50 @@
+®
+5
+14.3 tons
+22.2 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The PU should be operating @ 23.4 tons of cooling capacity
+• The PU was operating @ 14.3 tons of cooling capacity prior to
+   installing ECM
+• The PU now has 7.9 tons of restored cooling capacity after ECM
+• The PU should be operating @ 3 COP or higher
+• The PU was operating @ 1.74 COP prior to the ECM
+   and 2.68 following the ECM
+• The average COP of the PU was increased by 54%
+   following the ECM
+1.74
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+14.3
+tons Baseline
+CAPACITY
+@ 67%
+LOAD
+Baseline
+COP
+Post ECM
+COP
+1.74
+2.68
+2.68
+Post ECM COP
+22.2
+tons Post ECM
+54%
+Improvement
+in COP
+7.9
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+NKGF PU Eﬃciency with PermaFrost NMR® ECM
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,2718 @@
+================================================================================
+DOCUMENT: Case Study 068
+DOC_ID: pdf_063
+SHA256: 398359871337100d8a4349e3df292023f225bc1db7a35a8c877c5c4b850a0e9d
+================================================================================
+
+═══ PAGE 001 ═══
+
+Energy Science Division
+®
+SPACE CENTER A VISITOR COMPLEX
+Study Dates:
+     11/24/15 – 1/26/16      
+Participants: 
+     Hospitality Management Company
+     [Chief Operations Officer], 
+     Chief Operations Oﬃcer
+     [Director of Facilities],
+     Director of Facilities
+     [Facility Manager],
+     Facility Manager
+     [Client Representative],
+     Sr. HVAC Mechanic
+     Test & Balance Company A (T&B Company A)    
+     [Test & Balance Engineer],
+     Test & Balance Engineer
+     [Client Representative]
+     Test & Balance Technician
+      
+     Powertron Global (PTG)
+     [Senior Energy Engineer], P.E.
+     Director of Engineering
+     [Director Global Business]
+     Director Global Business
+ Location:
+     Titusville, FL    
+Comprehensive HVAC/R Capacity Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 002 ═══
+
+1
+Background
+This report details the results of the recently completed comprehensive energy performance pilot study 
+conducted at the Space Center A Visitor Complex (Space Center A Visitor Complex) located along the NASA Causeway in 
+Titusville, Florida.  This study looked at three common types of HVAC/R equipment supporting the Space Center A Visitor Complex as 
+well as the majority of the other properties Hospitality Management Company manages and operates for clients. The equipment 
+tested included a 240-ton air cooled chiller, a 10-ton split system, and and a small walk-in cooler (WIC).
+All the measurements for this pilot were taken and certified by Test & Balance Company A (T&B Company A), a 
+highly respected Test & Balance company based in Lutz, FL.  All testing followed the International 
+Measurement and Verification Protocols (IPMVP). The IPMVP is endorsed by the US Department of Energy as 
+the best method for measuring capacity, performance and efficiency of HVAC/R systems in-situ. 
+T&B Company A took care to use the same certified test equipment and measure in the same fashion under identical 
+weather conditions in both the baseline and post collection periods. This ensured that all the benefits produced 
+could definitively be attributed to the PermaFrost NMR® energy conservation measure (ECM). 
+Overview
+Running from November 24, 2015 to January 26, 2016, the pilot was designed to illustrate the positive impact 
+PermaFrost NMR® would have on the capacity, performance and overall efficiency measured in kW/ton and 
+COP of the three pilot HVAC/R systems.
+As demonstrated in this field trial, PermaFrost NMR® restores the capacity on the HVAC/R systems that has 
+been lost over time due to fouling of the heat exchange surfaces. The ECM will immediately benefit Space Center A Visitor Complex in 
+any or all of the following ways:
+ 
+• Restoring capacity of the systems to satisfy fluctuating building loads or lower room temps
+ 
+• Producing additional system redundancy at no extra cost or interruption to operations 
+ 
+• Improving system efficiency, lowering cost to produce each ton of cooling required (kW/ton & COP)
+ 
+• Restoring thermal efficiency, allowing systems to achieve thermostat set points faster, reducing runtime 
+ 
+   and extending equipment life 
+ 
+• Reducing annual kWh usage by the HVAC systems 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 003 ═══
+
+2
+The improvements demonstrated in this or any field test resulting from PermaFrost NMR® are dependent on 
+factors such as age, condition, service history, runtime of one or both compressors, and the design and 
+operational application of each system. The results in this pilot were very consistent with 14+ year historical 
+performance averages as well as the recent independent laboratory study completed in May, 2015 on DX 
+equipment by Underwriters Laboratories (UL) in their testing chambers in [Texas Location], TX.
+The data for each of the three pilot systems will be shown in separate sections. The corresponding certified 
+T&B Company A measurements for each system will be listed in appendices A, B and C respectively.
+Financial Beneﬁts of the Study
+Space Center A Visitor Complex will realize the following financial benefits from investing a total of $9,000 on the installation of 
+PermaFrost NMR® in the three HVAC/R systems included in this study: 
+ 
+- Total Annual Energy Savings  
+  
+ 
+ 
+ 
+$12,506
+ 
+- Avoided cost of additional capacity replacement @ $1000/ton 
+$ 41,000
+ 
+- Initial Payback Period (energy only)                   
+ 
+ 
+8.6 months
+ 
+- Annual Internal Rate of Return (energy only) 
+ 
+ 
+139%
+ 
+- Return On Investment over 5 years (energy only) 
+ 
+ 
+695%
+ 
+- Estimated Reduction in Annual kWh’s  
+ 
+ 
+ 
+119,106
+ 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 004 ═══
+
+3
+Highlights of the study:
+When comparing the three HVAC systems before and after PermaFrost NMR® was installed, below are some of 
+the highlights of the study:
+ 
+• With PermaFrost NMR® all the benefits produced are directly linked to increasing capacity. When 
+ 
+    initially tested, the pilot systems together were producing 197 tons of cooling. Following installation, 
+ 
+    the cooling capacity jumped by 41 tons or 20.8% to 238 tons. 
+ 
+• The overall cost to produce each ton of cooling on the chiller and split system on average dropped  
+ 
+    21.9% from  1.28 kW/ton in the baseline to 1.0 kW/ton in the post. This means for every ton of the  
+ 
+    two pilot systems are asked to produce, Space Center A Visitor Complex is spending 21.9% on average less to do so.
+ 
+• The capacity improvement in the walk-in cooler increased by 84.9% going from 2,181 BTU/H to 4,033 
+ 
+    BTU/H which resulted in a COP improvement of 118%.
+ 
+• The projected annual kWh’s were reduced by 119,106 or 13.5%, from 879,235 to 760,129.
+ 
+• The average cost to operate the three pilot systems dropped 13.5% from an average of $92,320 in the 
+ 
+    baseline to $79,814 in the post. This reflects annual energy savings of $12,506.
+The three HVAC systems involved in the pilot are recorded as follows:
+HVAC Equipment Manufacturer Chiller, Mfg date: 2006, R22, Nominal 250-tons, 480V/3Ph, Model RTAC250
+Carrier Split, Mfg date: 2003, R22, Nominal 10-tons, 480V/3Ph, Model 38ARS012
+Witt WIC, Mfg date: 2001, R22, Single fan Evaporator
+  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 005 ═══
+
+5
+Testing Methodology
+The M&V team used the aforementioned IPMVP methodology to capture the performance and energy use of 
+the three pilot systems. First, after verifying the amount of air flowing across the evaporator coils in the DX 
+equipment or water flowing through the evaporator barrel of the chiller before beginning each pilot phase, the 
+subsequent measurements used in the efficiency calculations were collected and compiled in accordance with 
+Option B of the IPMVP. This Protocol was developed by experts in the international community to provide a 
+consistent method for analyzing HVAC/R system performance. Baseline measurements for the chiller and WIC 
+were taken on November 24, 2015. Post measurements for these same two systems were taken on January 6, 
+2016. The baseline for the split system was taken on this same day while the post measurements were taken on 
+January 26, 2016.
+ 
+The results presented below were formulated by entering the data into the following thermodynamic 
+engineering formulas:
+ 
+• kW = Volts * Amps * Power Factor * Sq Rt 3 /1000 (for 3-Phase) 
+ 
+• kW/ton = Actual Measured Energy / Actual Measured Capacity 
+ 
+• Coefficient of Performance (COP) = 12 / (kW/ton) /3.412
+ 
+• Tons of Cooling = (Measured CFM * 4.5 * Enthalpy Delta T) / 12,000 BTU
+ 
+• BTUs (Refrigeration) = (Airflow * 1.08 * Temp Δ)
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 006 ═══
+
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+6
+Improved Unit Cost Following ECM
+The “Unit Cost” in the HVAC industry is the kW/ton ratio. 
+KW/ton is commonly used for larger commercial and 
+industrial air conditioning, heat pump and refrigeration 
+systems. It is the HVAC industry’s standard of determining 
+how much energy is required to create a single ton of 
+cooling (i.e., conditioned air). When you reduce the unit 
+cost of cooling you are saving energy regardless of how 
+much overall cooling is required.
+The chart to the right clearly illustrates the amount of 
+efficiency restoration the ECM created in the pilot chiller 
+after treatment. The treated chiller is now performing 11.5% 
+more efficiently than before being treated. This degradation 
+in operational efficiency was costing Space Center A Visitor Complex a substantial 
+amount of money in wasted energy.  This improvement 
+comes in spite of a bad condensing fan that kept locking up 
+during the post collection period causing the current and 
+discharge pressures to be falsely elevated. Once the fan 
+motor is replaced the kW/ton will improve even more.
+kW/ton
+ .115 kW/ton
+Recovered
+Energy
+Equating to a
+11.5% Reduction
+Pilot Chiller Performance Eﬃciency
+After Treatment
+Baseline
+Post ECM
+1.00
+.885
+Healthcare System ALLER PILOT DATA
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 007 ═══
+
+• Following treatment, the pilot chiller has regained a total of
+38 tons of capacity or 20.1% 
+• Following treatment, the COP of the pilot chiller increased
+by .45 or 12.8% 
+3.52
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+189
+tons Baseline
+100%
+CAPACITY @
+100% LOAD
+Baseline
+PermaFrost NMR®
+Installed
+3.52
+3.97
+Baseline
+PermaFrost NMR®
+Installed
+189
+227
+3.97
+Post Installation COP
+227
+tons Post Installation
+12.8%
+Improvement
+in COP
+38
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of Key Performance Measurements in Treated Pilot Chiller
+The charts below summarize the substantial improvements resulting from the implementation of the 
+PermaFrost NMR® ECM into the pilot chiller. 
+7
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 008 ═══
+
+Additional Results for Pilot Chiller when Employing the ECM
+IPMVP Baseline & Post Measurements in Treated Pilot Chiller
+The chart below lists all of the performance measurements taken on the treated pilot chiller. Only recently 
+calibrated quality instruments were used to capture the data. Care was also taken to take both the baseline and 
+post collection measurements at nearly identical weather conditions.
+8
+227.0
+POST
+BASELINE
+200.9
+Calculated kW
+REDUCTION
+11.5%
+REDUCTION
+11.5%
+POST
+BASELINE
+Calculated kWh Reduction
+794,500
+703,150
+Type of Measurement
+BASELINE
+POST
+Volts
+Amps
+Evap Refrig Temp
+Cond Refrig Pressure
+CW Entering
+CW Leaving
+CW Delta
+Evap GPM 
+Outside Air Temp.
+kW
+Tons
+kW/Ton
+Coeﬃcient of Performance (COP)
+Approach
+Calculated Annual Cost to Run
+Annual $ Savings vs Baseline
+473.5
+271.2
+42.5
+141.8
+56
+45.6
+10.4
+436
+70.2
+188.8
+189.0
+1.000
+3.52
+3.1
+$83,423
+475.7
+287.6
+41.6
+162.6
+56
+43.5
+12.5
+436
+70.1
+200.9
+227.0
+0.885
+3.97
+1.9
+$73,831
+$9,592
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 009 ═══
+
+Energy Consumption & Financial Metrics for Pilot Chiller
+The following are the final calculated average performance measurements and financial projections before and 
+after the ECM was installed in the pilot chiller. These results may vary slightly from the tables listed earlier in 
+this report due to rounding only to the first decimal position for cooling tons and kW values.
+Average Baseline Energy Consumption
+Baseline Capacity:  189 tons
+Adjusted kW Baseline:  1.00 kW/ton * 227 tons = 227 kW
+Adjusted Baseline kWh:  227 kW * 3,500 Annual Operating Hours = 794,500 kWh
+Revised Cost to Run Baseline: 794,500 kWh * $.105 = $83,423
+Average Post Energy Consumption
+kW Post:  .885 kW/ton * 227 tons = 200.9 kW
+Annual kWh Post:  200.9 kW * 3,500 hours = 703,150 kWh
+Annual Cost Post:  703,150 kWh * $.105 cents = $73,831
+Average Savings per Year Per System
+Avoided Energy Cost (savings) Per Year:  $83,423 - $73,831 = $9,592
+Estimated Energy Savings per Month: $9,592 / 12 = $799
+Return on Investment
+Cost of PermaFrost NMR® installed in the pilot chiller: $7,500
+Estimated ROI for Space Center A Visitor Complex when treating the pilot chiller: $7,500 / $799 = ~9.4 mos
+Annual Internal Rate of Return = 128%
+Return on Investment Over 5 Years = 639%
+Explanation of Regression Analysis
+To obtain a realistic avoided energy cost and subsequent payback period for Space Center A Visitor Complex for implementing the PermaFrost 
+NMR® ECM, a detailed Regression Analysis is used to calculate the true energy savings resulting from the improvement 
+in both capacity and efficiency utilizing data collected during the pilot study. These improvements reduce the annual kWh 
+expended in the Post Analysis Period. The ROI comes from determining what the cost to run the chiller was when 
+operating at the original energy profile to produce the newly restored amount of available capacity before then subtracting 
+the revised cost to run the chiller at the same restored capacity after the ECM was installed. This regression analysis is the 
+most widely accepted method of accounting for the reduced number of hours and/or load % at which the chiller will now 
+operate due to the restored performance profile. If the building control system and associated air handler units are operating 
+normally, this restored performance profile will normally allow the chiller to satisfy the internal area set points with 
+increased efficiency resulting in reduced compressor demand loading.
+9
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 010 ═══
+
+0.0
+0.5
+1.0
+1.5
+2.0
+10
+Improved Unit Cost Following ECM
+The “Unit Cost” in the HVAC industry is the kW/ton ratio. 
+KW/ton is commonly used for larger commercial and 
+industrial air conditioning, heat pump and refrigeration 
+systems. It is the HVAC industry’s standard of determining 
+how much energy is required to create a single ton of 
+cooling (i.e., conditioned air). When you reduce the unit 
+cost of cooling you are saving energy regardless of how 
+much overall cooling is required.
+The chart to the right clearly illustrates the amount of 
+efficiency restoration the ECM created in the pilot split 
+system after treatment. The treated system is now 
+performing 28.8% more efficiently than before being 
+treated. This degradation in operational efficiency was 
+costing Space Center A Visitor Complex a substantial amount of money in wasted 
+energy.  
+kW/ton
+0.45 kW/ton
+Recovered
+Energy
+Equating to a
+28.8% Reduction
+Split System Performance Eﬃciency
+After Treatment
+Baseline
+Post ECM
+1.56
+1.11
+SPLIT SYSTEM PILOT DATA
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 011 ═══
+
+• Following treatment, the pilot split system has regained a total
+of 2.82 tons of capacity or 36.4% 
+• Following treatment, the COP of the pilot split system
+increased by .91 or 40.4% 
+2.25
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+7.74
+tons Baseline
+100%
+CAPACITY @
+100% LOAD
+Baseline
+PermaFrost NMR®
+Installed
+2.25
+3.16
+Baseline
+PermaFrost NMR®
+Installed
+7.74
+10.56
+3.16
+Post Installation COP
+10.56
+tons Post Installation
+40.4%
+Improvement
+in COP
+2.82
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of Key Performance Measurements in Treated Pilot Split System
+The charts below summarize the substantial improvements resulting from the implementation of the 
+PermaFrost NMR® ECM into the pilot split system. 
+11
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 012 ═══
+
+Additional Results for Pilot Split System when Employing the ECM
+IPMVP Baseline & Post Measurements in Treated Pilot Split System
+The chart below lists all of the performance measurements taken on the treated split system. Only recently 
+calibrated quality instruments were used to capture the data. Care was also taken to take both the baseline and 
+post collection measurements at nearly identical weather conditions.
+12
+16.5
+POST
+BASELINE
+11.7
+Calculated kW
+REDUCTION
+29.1%
+REDUCTION
+29.1%
+POST
+BASELINE
+Calculated kWh Reduction
+72,105
+51,129
+Type of Measurement
+BASELINE
+POST
+Volts
+Amps
+Suction Temp
+Discharge Pressure
+Entering Air DB
+Leaving Air DB
+DB Air Delta
+Entering Air WB
+Leaving Air WB
+Entering WB Enthalpy
+Leaving WB Enthalpy
+Enthalpy Delta
+CFM Measured at Air Handler
+Outside Air Temp.
+kW
+Tons
+kW/Ton
+Coeﬃcient of Performance (COP)
+Calculated Annual Cost to Run
+Annual $ Savings vs Baseline
+468.5
+17.56
+32.1
+263.7
+68
+57.4
+10.6
+61.2
+54.4
+27.29
+22.86
+4.43
+4,662
+76
+12.1
+7.7
+1.560
+2.25
+$7,557
+470.8
+16.96
+34.6
+257.2
+68
+54.3
+13.7
+58.6
+48.5
+25.52
+19.48
+6.04
+4,662
+76
+11.7
+10.6
+1.110
+3.16
+$5,387
+$2,202
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 013 ═══
+
+Energy Consumption & Financial Metrics for Pilot Split System
+The following are the final calculated average performance measurements and financial projections before and 
+after the ECM was installed in the pilot split system. These results may vary slightly from the tables listed 
+earlier in this report due to rounding only to the first decimal position for cooling tons and kW values.
+Average Baseline Energy Consumption
+Baseline Capacity:  7.74 tons
+Adjusted kW Baseline:  1.56 kW/ton * 10.56 tons = 16.5 kW
+Adjusted Baseline kWh:  16.5 kW * 4,370 Annual Operating Hours = 72,105 kWh
+Revised Cost to Run Baseline: 72,105 kWh * $.105 = $7,571
+Average Post Energy Consumption
+kW Post:  1.11 kW/ton * 10.56 tons = 11.7 kW
+Annual kWh Post:  11.7 kW * 4,370 hours = 51,129 kWh
+Annual Cost Post:  51,129 kWh * $.105 cents = $5,369
+Average Savings per Year Per System
+Avoided Energy Cost (savings) Per Year:  $7,571 - $5,369 = $2,202
+Estimated Energy Savings per Month: $2,202 / 12 = $184
+Return on Investment
+Cost of PermaFrost NMR® installed in the pilot split system: $1,250
+Estimated ROI for Space Center A Visitor Complex when treating the pilot split system: $1,250 / $184 = ~6.8 mos
+Annual Internal Rate of Return = 176%
+Return on Investment Over 5 Years = 881%
+Explanation of Regression Analysis
+To obtain a realistic avoided energy cost and subsequent payback period for Space Center A Visitor Complex for implementing the PermaFrost 
+NMR® ECM, a detailed Regression Analysis is used to calculate the true energy savings resulting from the improvement 
+in both capacity and efficiency utilizing data collected during the pilot study. These improvements reduce the annual kWh 
+expended in the Post Analysis Period. The ROI comes from determining what the cost to run the split system was when 
+operating at the original energy profile to produce the newly restored amount of available capacity before then subtracting 
+the revised cost to run the split system at the same restored capacity after the ECM was installed. This regression analysis 
+is the most widely accepted method of accounting for the reduced number of hours and/or load % at which the split system 
+will now operate due to the restored performance profile. 
+13
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 014 ═══
+
+14
+WIC PILOT DATA
+• In what was obviously a very ineﬃcient system, following
+treatment, the pilot WIC has regained a total of 1,852 BTU’s
+of capacity or 84.9% 
+• Following treatment, the COP of the pilot WIC increased
+by .33 or 118%, more than doubling its eﬃciency
+0.28
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+2,181
+BTU’s Baseline
+100%
+CAPACITY @
+100% LOAD
+Baseline
+PermaFrost NMR®
+Installed
+0.28
+0.61
+Baseline
+PermaFrost NMR®
+Installed
+2,181
+4,033
+0.61
+Post Installation COP
+4,033
+BTU’s Post Installation
+118%
+Improvement
+in COP
+1,852
+BTU’s of
+Recovered
+Capacity
+CAPACITY
+COP
+Summary of Key Performance Measurements in Treated WIC
+The charts below summarize the substantial improvements resulting from the implementation of the 
+PermaFrost NMR® ECM into the pilot WIC. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 015 ═══
+
+Additional Results for Pilot WIC when Employing the ECM
+IPMVP Baseline & Post Measurements in Treated Pilot WIC
+The chart below lists all of the performance measurements taken on the treated WIC. Only recently calibrated 
+quality instruments were used to capture the data. Care was also taken to take both the baseline and post 
+collection measurements at nearly identical weather conditions.
+15
+1.7
+POST
+BASELINE
+1.0
+Refrigerant Approach
+REDUCTION
+41.2%
+REDUCTION
+53.7%
+POST
+BASELINE
+Calculated Annual kWh Reduction
+12,630
+5,850
+Type of Measurement
+BASELINE
+POST
+Volts
+Amps
+Suction Temp
+Discharge Pressure
+Entering DB Evap Temp
+Leaving DB Evap Temp
+DB Delta
+Evap CFM
+Outside Air Temp.
+Calculated kW
+Measured BTUs
+Coeﬃcient of Performance (COP)
+Refrigerant Approach
+Calculated Annual Cost to Run
+Annual $ Savings vs Baseline
+204
+7.6
+31.6
+196.2
+40.6
+35.3
+5.3
+381
+75
+4.21
+2,181
+0.28
+1.7
+$1,326
+204
+6.5
+30.1
+182.2
+40.9
+31.1
+9.8
+381
+75
+1.95
+4,033
+0.61
+1
+$614
+$712
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 016 ═══
+
+Energy Consumption & Financial Metrics for Pilot WIC
+The following are the final calculated average performance measurements and financial projections before and 
+after the ECM was installed in the pilot WIC. These results may vary slightly from the tables listed earlier in this 
+report due to rounding only to the first decimal position for cooling tons and kW values.
+Average Baseline Energy Consumption
+Baseline Capacity:  .182 tons
+Adjusted kW Baseline:  12.54 kW/ton * .336 tons = 4.21 kW
+Adjusted Baseline kWh:  4.21 kW * 3,000 Annual Operating Hours = 12,630 kWh
+Revised Cost to Run Baseline: 12,630 kWh * $.105 = $1,326
+Average Post Energy Consumption
+kW Post:  5.8 kW/ton * .336 tons = 1.95 kW
+Annual kWh Post:  1.95 kW * 3,000 hours = 5,850 kWh
+Annual Cost Post:  5,850 kWh * $.105 cents = $614
+Average Savings per Year Per Unit
+Avoided Energy Cost (savings) Per Year:  $1,326 - $614 = $712
+Estimated Energy Savings per Month: $712 / 12 = $59
+Return on Investment
+Cost of PermaFrost NMR® installed in the pilot WIC: $250
+Estimated ROI for Space Center A Visitor Complex when treating the pilot WIC: $250 / $59 = ~4.2 mos
+Annual Internal Rate of Return = 284%
+Return on Investment Over 5 Years = 1,424%
+Explanation of Regression Analysis
+To obtain a realistic avoided energy cost and subsequent payback period for Space Center A Visitor Complex for implementing the PermaFrost 
+NMR® ECM, a detailed Regression Analysis is used to calculate the true energy savings resulting from the improvement 
+in both capacity and efficiency utilizing data collected during the pilot study. These improvements reduce the annual kWh 
+expended in the Post Analysis Period. The ROI comes from determining what the cost to run the WIC was when operating 
+at the original energy profile to produce the newly restored amount of available capacity before then subtracting the revised 
+cost to run the WIC at the same restored capacity after the ECM was installed. This regression analysis is the most widely 
+accepted method of accounting for the reduced number of hours and/or load % at which the WIC will now operate due to 
+the restored performance profile. 
+16
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 017 ═══
+
+Appendix A
+Certiﬁed T&B Company A Data from Chiller Pilot
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 018 ═══
+
+PROJECT
+ADDRESS
+CITY, STATE
+CERTIFICATION NO.
+DATE
+ARHealthcare System ATECT
+ADDRESS
+ENGINEER
+ADDRESS
+GENERAL CONTRACTOR
+ADDRESS
+CONTROLS CONTRACTOR
+ADDRESS
+8587 C.O. 1 & 2
+-
+-
+November 24, 2015
+SPACE CENTER A VISITOR COMPLEX
+Healthcare System ALLER
+STATE ROAD 405
+FLORIDA 32899
+January 6, 2016
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+CERTIFIED
+TEST, ADJUST AND BALANCE
+REPORT
+NATIONALLY CERTIFIED
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 019 ═══
+
+PROJECT
+ADDRESS
+TEST & BALANCE ENGINEER
+[ SEAL ]
+[ SIGNATURE ]
+TBE REGISTRATION NUMBER
+DATE OF CERTIFICATION
+03-09-36
+January 6, 2016
+SUBMITTED AND CERTIFIED BY THIS AABC AGENCY
+T&B Company A - SOUTHERN INDEPENDENT TESTING AGENCY, INC.
+140A Whitaker Road, Lutz, FL 33549
+PROJECT / CERTIFICATION NUMBER
+[HVAC CONTRACTOR REP]
+8587 C.O. 1 & 2
+THE DATA CONTAINED WITHIN THIS REPORT IS TRUTHFUL AND REFLECTS THE OPTIMUM
+PERFORMANCE CAPABILTIIES OF THE INSTALLED SYSTEMS.
+SPACE CENTER A VISITOR COMPLEX
+Healthcare System ALLER
+STATE ROAD 405
+FLORIDA 32899
+The data presented in this report is a record of system measurements and final adjustments that
+have been obtained in accordance with the current edition of the AABC procedural standards for
+testing, adjusting and balancing of environmental systems and per the project specifications. Any
+variances from design quantities, which exceed AABC tolerances, are noted in the test report
+project summary.
+ASSOCIATED AIR
+BALANCE COUNCIL
+CERTIFICATION
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+A
+B
+ 
+L
+R
+A
+I
+N
+A
+ 
+C
+D
+E
+E
+ 
+C
+T
+A
+O
+I
+U
+C
+N
+O
+C
+S
+I
+S
+L
+A
+•
+ 
+•
+T
+ 
+6
+B
+E
+3
+-
+•
+9
+0
+3
+-
+0
+B
+p
+r
+p
+i
+u
+a
+a
+n
+ 
+.
+ 
+C
+K
+ 
+n
+t
+e
+T
+e
+d
+s
+n
+t
+e
+i
+n
+p
+g
+e
+ 
+A
+d
+n
+g
+I
+ 
+e
+n
+n
+r
+c
+e
+y
+h
+,
+t
+ 
+I
+u
+n
+o
+c
+.
+S
+
+
+═══ PAGE 020 ═══
+
+PROJECT
+ADDRESS
+[ Signature ]
+FLORIDA 32899
+SPACE CENTER A VISITOR COMPLEX
+Healthcare System ALLER
+STATE ROAD 405
+January 6, 2016
+We,
+T&B Company A - Test & Balance Company A, Inc.
+140A Whitaker Road, Lutz, Florida 33549,
+subcontractor for
+Testing, Adjusting and Balancing of HVAC Systems
+on the above referenced project, do hereby guarantee that all testing, adjusting
+and balancing performed by T&B Company A, Inc.,
+is in accordance with the Contract, Drawings, and Specifications
+and authorized alterations and additions thereto.
+Should any defect develop within one (1) year from the date of completion,
+after acceptance of the Work by the Owners,
+due to improper workmanship,
+will upon written notice, be made good by
+T&B Company A - Test & Balance Company A, Inc.
+without expense to the Owners.
+Date of Completion
+SUBCONTRACTOR ONE (1) YEAR WARRANTY
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 021 ═══
+
+SPACE CENTER A VISITOR COMPLEX
+Healthcare System ALLER SECTION
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 022 ═══
+
+INSTRUMENT LIST
+DATE:
+JOB # 8587
+PROJECT NAME:
+SPACE CENTER A VISITOR COMPLEX
+TECHNICIAN: E. NELSON
+MFG.
+MODEL #
+SERIAL #
+RANGE
+CAL.DATE
+ALNOR
+EBT-721
+91322002
+25 TO 2500 FPM
+5/5/15
+ALNOR
+EBT 721
+91322002
+±15 IN. H2O
+5/5/15
+HUMIDITY / TEMPERATURE PROBE
+ALNOR
+800219
+904448012
+- 14º TO 140º F
+5/5/15
+ROTATING VANE ANEMOMETER
+ALNOR
+RVA801
+A03200
+0 TO 3000 FPM
+11/14/15
+DIGITAL THERMOMETER - TYPE K
+EX TECH
+EA11
+060414706
+- 50° TO 1999° F
+8/3/15
+AMP / VOLT METER
+FLUKE
+FLUKE-333
+98780120
+0 TO 400 AMP
+10/30/15
+TACHOMETER
+TESTO
+460
+CP23602
+0 - 10,000 RPM
+10/15/15
+GLASS THERMOMETER
+TAYLOR
+9841
+1013
+- 40° TO 120° F
+N / A
+DIGITAL HYDRONIC MANOMETER
+TSI / ALNOR
+HM 680
+70633344
+0 - 250 IN. H2O
+1/26/15
+PITOT TUBE - 12"
+DWYER
+160-12
+--
+--
+N / A
+PITOT TUBE - 24"
+DWYER
+160-24
+--
+--
+N / A
+PITOT TUBE - 36"
+DWYER
+160-36
+--
+--
+N / A
+PITOT TUBE - 60"
+DWYER
+160-60
+--
+--
+N / A
+INSTRUMENT
+EBT BALOMETER
+EBT MICROMANOMETER
+ABBREVIATION LIST
+11/24/15; 1/6/16
+AHU = AIR HANDLING UNIT
+Hp = HORSEPOWER
+BCU = BLOWER COIL UNIT
+HPU = HEAT PUMP UNIT
+BTU = BRITISH THERMAL UNIT
+LWT = LEAVING WATER TEMPERATURE
+CAV = CONSTANT AIR VOLUME
+MUA = MAKE-UP AIR
+CFM = CUBIC FEET PER MINUTE
+MVD = MOTORIZED VOLUME DAMPER
+CRU = COMPUTER ROOM UNIT
+N / A = NOT APPLICABLE - NO ACCESS
+DH = DUCT HEATER
+N / O = NOT OPERATING
+DP = DIFFERENTIAL PRESSURE
+N / S = NOT SPECIFIED
+EDH = ELECTRIC DUCT HEATER
+NTS = NO TEST SITE
+EF = EXHAUST FAN
+PIU = POWERED INDUCTION UNITS
+ERU = ENERGY RECOVERY UNIT
+PTU = POWER TERMINAL UNITS
+ERV = ENERGY RECOVERY VENTILATOR
+RTU = ROOF TOP UNITS
+EWT = ENTERING WATER TEMPERATURE
+SP = STATIC PRESSURE
+FCU = FAN COIL UNIT
+VAV = VARIABLE AIR VOLUME
+FPBU = FAN POWERED BOX UNITS
+VD = VOLUME DAMPER (MANUAL)
+FPM = FEET PER MINUTE
+VFD = VARIABLE FREQUENCY DRIVE
+GPM = GALLONS PER MINUTE
+VSC = VARIABLE SPEED CONTROLLER
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 023 ═══
+
+A
+SPACE CENTER A VISITOR COMPLEX
+Healthcare System ALLER
+PROJECT SUMMARY
+JOB # 8587 C.O. #1 & #2
+November 24, 2015 / January 6, 2016
+This project summary reflects the equipment operation and capacity status as of the
+above date, which is the last day of testing at the site.
+The following comments are based on report review and the field technician’s
+observations.
+1.
+Healthcare System ALLER
+1.1
+A pretest and post test has been performed on this unit with results
+indicated on the following page for review.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 024 ═══
+
+Healthcare System ALLER EQUIPMENT TEST SHEET
+DATE:
+11/24/15; 1/6/16
+JOB # 8587
+PAGE # 1
+SPACE CENTER A VISITOR COMPLEX - Healthcare System ALLER EQUIPMENT
+SYSTEM NUMBER
+EQUIPMENT LOCATION
+CAPACITY
+EQUIPMENT MANUFACTURER
+MODEL NUMBER
+SERIAL NUMBER
+ENTERING WATER TEMP.
+LEAVING WATER TEMP.
+PRESSURE DROP - FT.
+GPM
+WATER TEMP. SETPOINT
+Healthcare System ALLER LOAD %
+ENTERING AIR TEMP.
+LEAVING AIR TEMP.
+ENTERING WATER TEMP.
+LEAVING WATER TEMP.
+PRESSURE DROP - FT.
+GPM
+WATER TEMP. SETPOINT
+VOLTAGE - T1 -T2-T3
+460
+460
+460
+473.5
+473.6
+473.5
+460
+460
+460
+476
+476
+475
+AMPERAGE T1-T2-T3
+442
+442
+442
+276.7
+268.8
+268.2
+442
+442
+442
+292.5
+282.5
+287.8
+REMARKS:
+READINGS BY: E. NELSON
+ACTUAL
+SPECIFIED
+SPECIFIED
+-
+-
+ACTUAL
+-
+-
+-
+-
+-
+-
+-
+ELECTRICAL
+SPECIFIED
+56
+ACTUAL
+-
+-
+-
+-
+SPECIFIED
+CONDENSER (AIR)
+CONDENSER (H 2 0)
+11.31
+SPECIFIED
+-
+95
+-
+11.2
+440
+436
+-
+41
+43.5
+U06A05906
+SPECIFIED
+ACTUAL
+56.0
+44
+CH-1 1/6/16
+OUTSIDE PAD
+-
+HVAC Equipment Manufacturer
+RTAC2504
+RTAC2504
+-
+HVAC Equipment Manufacturer
+44
+-
+-
+41
+100%
+11.31
+11.2
+436
+-
+-
+-
+-
+ACTUAL
+-
+-
+PROJECT NAME:
+440
+70.2
+ACTUAL
+ACTUAL
+56.0
+45.6
+SPECIFIED
+56
+U06A05906
+CH-1 11/24/15
+OUTSIDE PAD
+SPECIFIED
+COOLER
+-
+98.9
+70.1
+95
+ACTUAL
+100%
+-
+99.5
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 025 ═══
+
+Appendix B
+Certiﬁed T&B Company A Data from Split System
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 026 ═══
+
+PROJECT
+ADDRESS
+CITY, STATE
+CERTIFICATION NO.
+DATE
+ARHealthcare System ATECT
+ADDRESS
+ENGINEER
+ADDRESS
+GENERAL CONTRACTOR
+ADDRESS
+CONTROLS CONTRACTOR
+ADDRESS
+8587 C.O. 1 & 2
+-
+-
+January 6, 2016
+SPACE CENTER A VISITOR COMPLEX
+AHU-01 - SPLIT SYSTEM
+STATE ROAD 405
+FLORIDA 32899
+January 26, 2016
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+CERTIFIED
+TEST, ADJUST AND BALANCE
+REPORT
+NATIONALLY CERTIFIED
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 027 ═══
+
+PROJECT
+ADDRESS
+TEST & BALANCE ENGINEER
+[ SEAL ]
+[ SIGNATURE ]
+TBE REGISTRATION NUMBER
+DATE OF CERTIFICATION
+03-09-36
+January 26, 2016
+SUBMITTED AND CERTIFIED BY THIS AABC AGENCY
+T&B Company A - SOUTHERN INDEPENDENT TESTING AGENCY, INC.
+140A Whitaker Road, Lutz, FL 33549
+PROJECT / CERTIFICATION NUMBER
+[HVAC CONTRACTOR REP]
+8587 C.O. 1 & 2
+THE DATA CONTAINED WITHIN THIS REPORT IS TRUTHFUL AND REFLECTS THE OPTIMUM
+PERFORMANCE CAPABILTIIES OF THE INSTALLED SYSTEMS.
+SPACE CENTER A VISITOR COMPLEX
+POST TESTS #1 & #2
+STATE ROAD 405
+FLORIDA 32899
+The data presented in this report is a record of system measurements and final adjustments that
+have been obtained in accordance with the current edition of the AABC procedural standards for
+testing, adjusting and balancing of environmental systems and per the project specifications. Any
+variances from design quantities, which exceed AABC tolerances, are noted in the test report
+project summary.
+ASSOCIATED AIR
+BALANCE COUNCIL
+CERTIFICATION
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+A
+B
+ 
+L
+R
+A
+I
+N
+A
+ 
+C
+D
+E
+E
+ 
+C
+T
+A
+O
+I
+U
+C
+N
+O
+C
+S
+I
+S
+L
+A
+•
+ 
+•
+T
+ 
+6
+B
+E
+3
+-
+•
+9
+0
+3
+-
+0
+B
+p
+r
+p
+i
+u
+a
+a
+n
+ 
+.
+ 
+C
+K
+ 
+n
+t
+e
+T
+e
+d
+s
+n
+t
+e
+i
+n
+p
+g
+e
+ 
+A
+d
+n
+g
+I
+ 
+e
+n
+n
+r
+c
+e
+y
+h
+,
+t
+ 
+I
+u
+n
+o
+c
+.
+S
+
+
+═══ PAGE 028 ═══
+
+PROJECT
+ADDRESS
+[ Signature ]
+FLORIDA 32899
+SPACE CENTER A VISITOR COMPLEX
+POST TESTS #1 & #2
+STATE ROAD 405
+January 26, 2016
+We,
+T&B Company A - Test & Balance Company A, Inc.
+140A Whitaker Road, Lutz, Florida 33549,
+subcontractor for
+Testing, Adjusting and Balancing of HVAC Systems
+on the above referenced project, do hereby guarantee that all testing, adjusting
+and balancing performed by T&B Company A, Inc.,
+is in accordance with the Contract, Drawings, and Specifications
+and authorized alterations and additions thereto.
+Should any defect develop within one (1) year from the date of completion,
+after acceptance of the Work by the Owners,
+due to improper workmanship,
+will upon written notice, be made good by
+T&B Company A - Test & Balance Company A, Inc.
+without expense to the Owners.
+Date of Completion
+SUBCONTRACTOR ONE (1) YEAR WARRANTY
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 029 ═══
+
+SPACE CENTER A VISITOR COMPLEX
+AHU-01
+SPLIT SYSTEM SECTION
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 030 ═══
+
+INSTRUMENT LIST
+DATE:
+JOB # 8587
+PROJECT NAME:
+SPACE CENTER A VISITOR COMPLEX
+TECHNICIAN: E. NELSON
+MFG.
+MODEL #
+SERIAL #
+RANGE
+CAL.DATE
+ALNOR
+EBT-721
+91322002
+25 TO 2500 FPM
+5/5/15
+ALNOR
+EBT 721
+91322002
+±15 IN. H2O
+5/5/15
+HUMIDITY / TEMPERATURE PROBE
+ALNOR
+800219
+904448012
+- 14º TO 140º F
+5/5/15
+ROTATING VANE ANEMOMETER
+ALNOR
+RVA801
+A03200
+0 TO 3000 FPM
+11/14/15
+DIGITAL THERMOMETER - TYPE K
+EX TECH
+EA11
+060414706
+- 50° TO 1999° F
+8/3/15
+AMP / VOLT METER
+FLUKE
+FLUKE-333
+98780120
+0 TO 400 AMP
+10/30/15
+TACHOMETER
+TESTO
+460
+CP23602
+0 - 10,000 RPM
+10/15/15
+GLASS THERMOMETER
+TAYLOR
+9841
+1013
+- 40° TO 120° F
+N / A
+DIGITAL HYDRONIC MANOMETER
+TSI / ALNOR
+HM 680
+70633344
+0 - 250 IN. H2O
+1/26/15
+PITOT TUBE - 12"
+DWYER
+160-12
+--
+--
+N / A
+PITOT TUBE - 24"
+DWYER
+160-24
+--
+--
+N / A
+PITOT TUBE - 36"
+DWYER
+160-36
+--
+--
+N / A
+PITOT TUBE - 60"
+DWYER
+160-60
+--
+--
+N / A
+INSTRUMENT
+EBT BALOMETER
+EBT MICROMANOMETER
+ABBREVIATION LIST
+1/6/16; 1/26/16
+AHU = AIR HANDLING UNIT
+Hp = HORSEPOWER
+BCU = BLOWER COIL UNIT
+HPU = HEAT PUMP UNIT
+BTU = BRITISH THERMAL UNIT
+LWT = LEAVING WATER TEMPERATURE
+CAV = CONSTANT AIR VOLUME
+MUA = MAKE-UP AIR
+CFM = CUBIC FEET PER MINUTE
+MVD = MOTORIZED VOLUME DAMPER
+CRU = COMPUTER ROOM UNIT
+N / A = NOT APPLICABLE - NO ACCESS
+DH = DUCT HEATER
+N / O = NOT OPERATING
+DP = DIFFERENTIAL PRESSURE
+N / S = NOT SPECIFIED
+EDH = ELECTRIC DUCT HEATER
+NTS = NO TEST SITE
+EF = EXHAUST FAN
+PIU = POWERED INDUCTION UNITS
+ERU = ENERGY RECOVERY UNIT
+PTU = POWER TERMINAL UNITS
+ERV = ENERGY RECOVERY VENTILATOR
+RTU = ROOF TOP UNITS
+EWT = ENTERING WATER TEMPERATURE
+SP = STATIC PRESSURE
+FCU = FAN COIL UNIT
+VAV = VARIABLE AIR VOLUME
+FPBU = FAN POWERED BOX UNITS
+VD = VOLUME DAMPER (MANUAL)
+FPM = FEET PER MINUTE
+VFD = VARIABLE FREQUENCY DRIVE
+GPM = GALLONS PER MINUTE
+VSC = VARIABLE SPEED CONTROLLER
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 031 ═══
+
+A
+SPACE CENTER A VISITOR COMPLEX
+SPLIT SYSTEM
+PROJECT SUMMARY
+JOB # 8587 C.O. #1 & #2
+January 6, 2016 / January 26, 2016
+This project summary reflects the equipment operation and capacity status as of the
+above date, which is the last day of testing at the site.
+The following comments are based on report review and the field technician’s
+observations.
+1.
+AHU-01
+1.1
+A pretest and post test has been performed on this unit with results
+indicated on the following page for review.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 032 ═══
+
+AIR MOVING EQUIPMENT TEST SHEET
+DATE:
+PAGE # 1
+SPACE CENTER A VISITOR COMPLEX - SPLIT SYSTEM
+TOTAL CFM OF FAN
+TOTAL CFM OF OUTLETS
+RETURN AIR CFM
+OUTSIDE AIR CFM
+STATIC PRESSURE (TOTAL / EXT.)
+INLET STATIC PRESSURE
+DISCHARGE STATIC PRESSURE
+FAN RPM
+MOTOR MANUFACTURER
+MOTOR H.P.
+MOTOR B.H.P.
+PHASE
+VOLTAGE
+470
+469
+473
+474
+AMPERAGE
+2.9
+3.0
+3.0
+2.8
+MOTOR RPM
+MOTOR SERVICE FACTOR
+STARTER HEATER ELEMENT
+MOTOR SHEAVE & BORE
+4-3/4 x 4-3/4 bl x
+BORE
+4-3/4 x 4-3/4 bl x
+BORE
+FAN SHEAVE & BORE
+8-1/8 x 8-1/8 bl x
+BORE
+8-1/8 x 8-1/8 bl x
+BORE
+BELT(S) / CENTER-TO-CENTER
+REMARKS:
+READINGS BY: E. NELSON
+ACTUAL
+N/S
+N/S
+G.E.
+-
+4662
+4662
+4662
+0
+N/S
+-
+N/S
+-
+-
+N/S
+.13
+SYSTEM
+EQUIPMENT LOCATION
+AREA SERVED
+DESIGN
+N/S (4000)
+3103F45221
+DESIGN
+-
+ACTUAL
+.04
+40RM-012-B611HC
+ACTUAL
+4658
+0
+SERIAL NUMBER
+1.06
+1.16
+1.20
+N/S
+DESIGN
+.09
+ACTUAL
+.04
+-
+1.10
+.08
+G.E.
+3
+-
+.12
+208 - 460
+3
+1725
+1.15
+468
+2.8
+-
+4L410 X 1
+-
+5.2 - 2.6
+1725
+5/8
+ADJ.
+FIXED
+4L410 X 1
+1
+-
+1725
+-
+10-1/2
+10-1/2
+3
+474
+208 - 460
+5/8
+1
+3
+1725
+1.15
+-
+2.9
+2.6
+ADJ.
+FIXED
+1/6/16; 1/26/16
+4658
+4658
+3103F45221
+DESIGN
+N/S (4000)
+JOB #
+PROJECT NAME:
+8587
+EQUIPMENT MANUFACTURER
+AHU-01 1/6/16
+WAREHOUSE
+-
+AHU-01 1/26/16
+WAREHOUSE
+-
+CARRIER
+40RM-012-B611HC
+CARRIER
+MODEL NUMBER
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 033 ═══
+
+STATIC PRESSURE PROFILE
+TEST SHEET
+DATE:
+1/6/16/ 1/26/16
+JOB # 8587
+PAGE # 2
+SPACE CENTER A VISITOR COMPLEX - SPLIT SYSTEM
+UNIT
+A
+B
+C
+D
+E
+F
+G
+H
+I
+AHU-01
+.04
+1.16
+.08
+AHU-01
+.04
+1.06
+.09
+REMARKS:
+READINGS BY: E. NELSON
+PROJECT NAME:
+A
+B
+C
+COIL
+FILTER
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 034 ═══
+
+JOB # 8587
+PAGE # 3
+PROJECT NAME: SPACE CENTER A VISITOR COMPLEX - SPLIT SYSTEM
+SYSTEM
+ZONE / UNIT #
+DUCT
+SIZE
+AREA
+SQ. FT
+CORR.
+FACT
+REQ'D
+FPM
+ACTUAL
+FPM
+REQ'D
+CFM
+ACTUAL
+CFM
+STATIC
+PRESS
+INSTRUMEN
+T USED
+1/6/16
+AHU-01
+20 X 24
+3.33
+-
+N/S
+1398
+N/S
+4658
+.04
+DT
+1/26/16
+AHU-01
+20 X 24
+3.33
+-
+N/S
+1400
+N/S
+4662
+.04
+DT
+REMARKS:
+DUCT / PIPE TRAVERSE SHEET
+INSTRUMENT USED:
+ANEM = 4" VANE ANEMOMETER;
+DT = DUCT TRAVERSE;
+H = HOOD;
+VEL = VELGRID/MATRIX
+DATE: 1/6/16; 1/26/16
+READINGS BY: E. NELSON
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 035 ═══
+
+COIL PERFORMANCE TEST SHEET
+DATE:
+1/6/16; 1/26/16
+JOB # 8587
+PAGE # 4
+SPACE CENTER A VISITOR COMPLEX - SPLIT SYSTEM
+ENT
+ENT
+LVG
+LVG
+ENT
+LVG PRES
+ENT
+LVG
+ENT
+LVG PRES
+UNIT
+DB
+WB
+DB
+WB
+H2O
+H2O DROP
+GPM
+DB
+DB
+H2O
+H2O DROP GPM
+AHU-01
+DESIGN
+N/S
+N/S
+N/S
+N/S
+ACTUAL
+68
+61.2
+57.4
+54.4
+(
+-
+)
+x
+4.5
+x
+-
+=
+BTUH
+( 27.29
+-
+22.85 )
+x
+4.5
+x
+4,658
+=
+BTUH
+AHU-01
+DESIGN
+N/S
+N/S
+N/S
+N/S
+ACTUAL
+68
+58.6
+54.3
+48.5
+(
+-
+)
+x
+4.5
+x
+-
+=
+BTUH
+( 25.51
+-
+19.48 )
+x
+4.5
+x
+4,662
+=
+BTUH
+(
+-
+)
+x
+4.5
+x
+=
+BTUH
+(
+-
+)
+x
+4.5
+x
+=
+BTUH
+DESIGN
+ACTUAL
+(
+-
+)
+x
+4.5
+x
+=
+BTUH
+(
+-
+)
+x
+4.5
+x
+=
+BTUH
+DESIGN
+ACTUAL
+(
+-
+)
+x
+4.5
+x
+=
+BTUH
+(
+-
+)
+x
+4.5
+x
+=
+BTUH
+DESIGN
+ACTUAL
+(
+-
+)
+x
+4.5
+x
+=
+BTUH
+(
+-
+)
+x
+4.5
+x
+=
+BTUH
+REMARKS: FORMULA = (ENTHALPY IN - ENTHALPY OUT)
+BTUH DESIGN
+BTUH ACTUAL
+BTUH DESIGN
+OUTSIDE CONDITIONS DB / RH:
+OUTSIDE CONDITIONS DB / RH:
+OUTSIDE CONDITIONS DB / RH:
+76º / 66.6%
+HYDRONIC / DX
+75º / 58.8%
+PROJECT NAME:
+COOLING
+HEATING
+BTUH DESIGN
+BTUH ACTUAL
+93,067
+BTUH DESIGN
+BTUH ACTUAL
+BTUH DESIGN
+BTUH ACTUAL
+126,503
+OUTSIDE CONDITIONS DB / RH:
+BTUH ACTUAL
+READINGS BY: E. NELSON
+OUTSIDE CONDITIONS DB / RH:
+BTUH ACTUAL
+OUTSIDE CONDITIONS DB / RH:
+BTUH DESIGN
+CFM X 1.08 X
+TA
+500 X
+TW
+GPM =
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 036 ═══
+
+AIR COOLED CONDENSER TEST SHEET
+DATE:
+JOB # 8587
+PAGE # 5
+SPACE CENTER A VISITOR COMPLEX - SPLIT SYSTEM
+CONDENSING COIL
+ENTERING TEMPERATURE ° DB
+95 °
+76.5 °
+95 °
+71.6 °
+LEAVING TEMPERATURE ° DB
+- °
+97 °
+- °
+97 °
+SPEC.
+ACT.
+SPEC.
+ACT.
+SPEC.
+ACT.
+SPEC.
+ACT.
+-
+-
+1/4
+1/4
+-
+-
+1/4
+1/4
+18
+13.96
+.8
+.8
+18
+13.36
+.8
+.8
+460
+469
+460
+469
+460
+468.8
+460
+466.8
+REMARKS:
+READINGS BY: E. NELSON
+MOTOR HP
+AMPS
+VOLTS
+SYSTEM NUMBER
+SERIAL NUMBER
+MODEL NUMBER
+COMPRESSOR #
+3103G30006
+COMPRESSOR
+FAN
+SPECIFIED
+ACTUAL
+CARRIER
+-
+CARRIER
+1/6/16' 1/26/16
+38ARS012-611
+EQUIPMENT LOCATION
+CAPACITY
+EQUIPMENT MANUFACTURER
+PROJECT NAME:
+CU-AHU-01 1/6/16
+OUTSIDE PAD
+CU-AHU-01 1/26/16
+OUTSIDE PAD
+-
+SPECIFIED
+ACTUAL
+COMPRESSOR
+FAN
+38ARS012-611
+3103G30006
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 037 ═══
+
+Appendix C
+Certiﬁed T&B Company A Data from WIC
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 038 ═══
+
+PROJECT
+ADDRESS
+CITY, STATE
+CERTIFICATION NO.
+DATE
+ARHealthcare System ATECT
+ADDRESS
+ENGINEER
+ADDRESS
+GENERAL CONTRACTOR
+ADDRESS
+CONTROLS CONTRACTOR
+ADDRESS
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+8587 C.O. 1 & 2
+-
+-
+November 24, 2015
+SPACE CENTER A VISITOR COMPLEX
+WALK-IN COOLER
+STATE ROAD 405
+FLORIDA 32899
+January 6, 2016
+CERTIFIED
+TEST, ADJUST AND BALANCE
+REPORT
+NATIONALLY CERTIFIED
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 039 ═══
+
+PROJECT
+ADDRESS
+TEST & BALANCE ENGINEER
+[ SEAL ]
+[ SIGNATURE ]
+THE DATA CONTAINED WITHIN THIS REPORT IS TRUTHFUL AND REFLECTS THE OPTIMUM
+PERFORMANCE CAPABILTIIES OF THE INSTALLED SYSTEMS.
+SPACE CENTER A VISITOR COMPLEX
+POST TESTS #1 & #2
+STATE ROAD 405
+FLORIDA 32899
+The data presented in this report is a record of system measurements and final adjustments that
+have been obtained in accordance with the current edition of the AABC procedural standards for
+testing, adjusting and balancing of environmental systems and per the project specifications. Any
+variances from design quantities, which exceed AABC tolerances, are noted in the test report
+project summary.
+SUBMITTED AND CERTIFIED BY THIS AABC AGENCY
+T&B Company A - SOUTHERN INDEPENDENT TESTING AGENCY, INC.
+140A Whitaker Road, Lutz, FL 33549
+PROJECT / CERTIFICATION NUMBER
+[HVAC CONTRACTOR REP]
+8587 C.O. 1 & 2
+TBE REGISTRATION NUMBER
+DATE OF CERTIFICATION
+03-09-36
+January 6, 2016
+ASSOCIATED AIR
+BALANCE COUNCIL
+CERTIFICATION
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+A
+B
+ 
+L
+R
+A
+I
+N
+A
+ 
+C
+D
+E
+E
+ 
+C
+T
+A
+O
+I
+U
+C
+N
+O
+C
+S
+I
+S
+L
+A
+•
+ 
+•
+T
+ 
+6
+B
+E
+3
+-
+•
+9
+0
+3
+-
+0
+B
+p
+r
+p
+i
+u
+a
+a
+n
+ 
+.
+ 
+C
+K
+ 
+n
+t
+e
+T
+e
+d
+s
+n
+t
+e
+i
+n
+p
+g
+e
+ 
+A
+d
+n
+g
+I
+ 
+e
+n
+n
+r
+c
+e
+y
+h
+,
+t
+ 
+I
+u
+n
+o
+c
+.
+S
+
+
+═══ PAGE 040 ═══
+
+PROJECT
+ADDRESS
+[ Signature ]
+January 6, 2016
+We,
+T&B Company A - Test & Balance Company A, Inc.
+140A Whitaker Road, Lutz, Florida 33549,
+subcontractor for
+Testing, Adjusting and Balancing of HVAC Systems
+on the above referenced project, do hereby guarantee that all testing, adjusting
+and balancing performed by T&B Company A, Inc.,
+is in accordance with the Contract, Drawings, and Specifications
+and authorized alterations and additions thereto.
+Should any defect develop within one (1) year from the date of completion,
+after acceptance of the Work by the Owners,
+due to improper workmanship,
+will upon written notice, be made good by
+T&B Company A - Test & Balance Company A, Inc.
+without expense to the Owners.
+Date of Completion
+FLORIDA 32899
+SPACE CENTER A VISITOR COMPLEX
+POST TESTS #1 & #2
+STATE ROAD 405
+SUBCONTRACTOR ONE (1) YEAR WARRANTY
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 041 ═══
+
+SPACE CENTER A VISITOR COMPLEX
+WALK-IN COOLER SECTION
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 042 ═══
+
+A
+SPACE CENTER A VISITOR COMPLEX
+WALK-IN COOLER
+PROJECT SUMMARY
+JOB # 8587 C.O. #1 & #2
+November 24, 2015 / January 6, 2016
+This project summary reflects the equipment operation and capacity status as of the
+above date, which is the last day of testing at the site.
+The following comments are based on report review and the field technician’s
+observations.
+1.
+WALK-IN COOLER
+1.1
+The voltage and amperage measurements were taken during the pretest
+as well as the post testing with results indicated below.
+Volts
+Amps
+Volts
+Amps
+204 V
+7.6 A
+204 V
+6.5 A
+Pretest
+Post Test
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 043 ═══
+
+JOB # 8587
+PAGE # 1
+PROJECT NAME: SPACE CENTER A VISITOR COMPLEX - WALK IN
+SYSTEM
+ZONE / UNIT #
+DUCT
+SIZE
+AREA
+SQ. FT
+CORR.
+FACT
+REQ'D
+FPM
+ACTUAL
+FPM
+REQ'D
+CFM
+ACTUAL
+CFM
+STATIC
+PRESS
+INSTRUMEN
+T USED
+11/24/15 @ 204V @ 7.6A
+WALK IN
+17 X 13.5
+1.59
+-
+-
+240
+-
+381
+-
+VEL
+1/6/16 @ 204V @ 6.5A
+WALK IN
+17 X 13.5
+1.59
+-
+-
+239
+-
+381
+-
+VEL
+REMARKS:
+DUCT / PIPE TRAVERSE SHEET
+INSTRUMENT USED:
+ANEM = 4" VANE ANEMOMETER;
+DT = DUCT TRAVERSE;
+H = HOOD;
+VEL = VELGRID/MATRIX
+DATE: 11/24/15; 1/6/16
+READINGS BY: E. NELSON
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 044 ═══
+
+COIL PERFORMANCE TEST SHEET
+DATE:
+11/24/15; 1/6/16
+JOB # 8587
+PAGE # 2
+SPACE CENTER A VISITOR COMPLEX - WALK-IN
+ENT
+ENT
+LVG
+LVG
+ENT
+LVG PRES
+ENT
+LVG
+ENT
+LVG PRES
+UNIT
+DB
+WB
+DB
+WB
+H2O
+H2O DROP
+GPM
+DB
+DB
+H2O
+H2O DROP GPM
+WALK IN DESIGN
+N/S
+N/S
+N/S
+N/S
+11/24/15
+ACTUAL
+40.6
+-
+35.3
+-
+(
+-
+)
+x
+4.5
+x
+-
+=
+BTUH
+(
+-
+)
+x
+4.5
+x
+=
+BTUH
+WALK IN DESIGN
+N/S
+N/S
+N/S
+N/S
+1/6/16
+ACTUAL
+40.9
+-
+31.1
+-
+(
+-
+)
+x
+4.5
+x
+-
+=
+BTUH
+(
+-
+)
+x
+4.5
+x
+=
+BTUH
+DESIGN
+ACTUAL
+(
+-
+)
+x
+4.5
+x
+=
+BTUH
+(
+-
+)
+x
+4.5
+x
+=
+BTUH
+DESIGN
+ACTUAL
+(
+-
+)
+x
+4.5
+x
+=
+BTUH
+(
+-
+)
+x
+4.5
+x
+=
+BTUH
+DESIGN
+ACTUAL
+(
+-
+)
+x
+4.5
+x
+=
+BTUH
+(
+-
+)
+x
+4.5
+x
+=
+BTUH
+DESIGN
+ACTUAL
+(
+-
+)
+x
+4.5
+x
+=
+BTUH
+(
+-
+)
+x
+4.5
+x
+=
+BTUH
+REMARKS: FORMULA = (ENTHALPY IN - ENTHALPY OUT)
+READINGS BY: E. NELSON
+OUTSIDE CONDITIONS DB / RH:
+BTUH ACTUAL
+OUTSIDE CONDITIONS DB / RH:
+BTUH DESIGN
+BTUH ACTUAL
+PROJECT NAME:
+COOLING
+HEATING
+BTUH DESIGN
+BTUH ACTUAL
+BTUH DESIGN
+BTUH ACTUAL
+BTUH DESIGN
+BTUH ACTUAL
+OUTSIDE CONDITIONS DB / RH:
+HYDRONIC / DX
+75º / 58.8%
+OUTSIDE CONDITIONS DB / RH:
+76º / 66.6%
+BTUH DESIGN
+BTUH ACTUAL
+BTUH DESIGN
+OUTSIDE CONDITIONS DB / RH:
+OUTSIDE CONDITIONS DB / RH:
+CFM X 1.08 X
+TA
+500 X
+TW
+GPM =
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+

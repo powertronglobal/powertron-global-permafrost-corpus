@@ -1,0 +1,113 @@
+Post
+Baseline
+Average kW
+REDUCTION
+18.7%
+Additional Results from Pilot CRAC Systems
+7
+51.10
+41.52
+Post
+Baseline
+Demand KVA
+REDUCTION
+17.1%
+70.7
+58.6
+Post
+Baseline
+Average Current
+REDUCTION
+19.7%
+72.96
+58.62
+Post
+Baseline
+Average Power Factor
+IMPROVEMENT
+16.3%
+.787
+.915
+Summary of Performance Measurements in Treated Pilot CRAC Systems
+The chart below lists all of the measurements taken on the two treated pilot systems. 
+Type of Measurement
+Volts
+Amps
+Entering DB
+Leaving DB
+Entering WB
+Leaving WB
+Entering Enthalpy
+Leaving Enthalpy
+Enthalpy Delta
+CFM
+Outside Air Temp.
+Tons
+kW/Ton
+COP
+CRAC System 
+ #1 Baseline   
+476.1
+35.17
+70
+53.7
+55.0
+46.4
+23.22
+18.37
+4.85
+8,680
+72
+15.79
+1.56
+2.25
+CRAC System 
+ #1 Post
+479.1
+27.71
+70.5
+51.9
+55.4
+45
+23.47
+17.75
+5.72
+8,680
+72
+18.62
+1.05
+3.36
+CRAC System 
+ #2 Baseline   
+477.7
+42.12
+71.7
+52.7
+55.2
+46.1
+23.34
+18.21
+5.13
+9,805
+72
+18.86
+1.57
+2.24
+CRAC System 
+ #2 Post
+480.7
+35.17
+71.7
+49.6
+53.9
+42.4
+22.56
+16.36
+6.2
+9,805
+72
+22.80
+1.09
+3.23
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

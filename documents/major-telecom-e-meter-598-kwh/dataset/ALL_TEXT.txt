@@ -1,0 +1,72 @@
+═══ EXECUTIVE SUMMARY ═══
+PermaFrost NMR Energy Study: Major Telecom E Meter 598 Kwh
+
+Study Overview
+----------------------------------------
+This study analyzed 320,712 high-resolution measurements collected at 2-second intervals.
+Baseline period: 65,739 data points
+Post-treatment period: 254,945 data points
+
+
+Facility Information
+----------------------------------------
+Customer: Major Telecom E
+Industry: Telecommunications
+
+═══ METHODOLOGY ═══
+Measurement Methodology
+========================================
+
+Data Type: Time Series
+Total Measurements: 320,712
+
+Source Data Files:
+  - 598 kWh baseline EXTENDED.xlsx: 65,739 rows (baseline period)
+  - 598 kWh post Condensed.xlsx: 83,659 rows (post period)
+  - 598 kWh post EXTENDED.xlsx: 171,286 rows (post period)
+  - Meter598_kWh_by_Temperature_Bins.xlsx: 28 rows (unknown period)
+
+Measurement Protocol
+----------------------------------------
+This study follows the International Performance Measurement & Verification Protocol (IPMVP)
+for collecting and analyzing HVAC performance data. Key metrics measured include:
+
+  - Coefficient of Performance (COP)
+  - Energy Efficiency Ratio (EER)
+  - Power consumption (kW)
+  - Cooling capacity (Tons)
+  - kW per Ton efficiency
+  - Outdoor air temperature
+  - Chilled water flow rate (GPM)
+  - Chilled water delta temperature
+
+Measurements were collected at 2-second intervals using calibrated sensors
+to capture transient system behavior and ensure statistical significance.
+
+═══ DETAILED METRICS ═══
+Detailed Metrics Analysis
+========================================
+
+Data File: 598 kWh baseline EXTENDED.xlsx
+Period: Baseline
+Measurements: 65,739
+------------------------------
+
+
+Data File: 598 kWh post Condensed.xlsx
+Period: Post
+Measurements: 83,659
+------------------------------
+
+
+Data File: 598 kWh post EXTENDED.xlsx
+Period: Post
+Measurements: 171,286
+------------------------------
+
+
+Data File: Meter598_kWh_by_Temperature_Bins.xlsx
+Period: Unknown
+Measurements: 28
+------------------------------
+

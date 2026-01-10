@@ -1,0 +1,38 @@
+®
+3
+Energy Conservation Method (ECM)
+The content within the following report demonstrates the ability of PermaFrost NMR® to correct the effects of 
+thermal degradation and fouling on the heat exchange surfaces. 
+ 
+A diagnostic examination of the pilot equipment was implemented to determine if the operational conditions 
+of the systems were satisfactory. Baseline M&V was recorded on the unit and then the proper amount and 
+type of PermaFrost NMR® was injected directly into the suction side of the refrigerant loop. The gestation 
+period for the pilot was approximately 11 months due to an abnormally cold winter that resulted in cold lake 
+temperatures not allowing the ambient temperature to get warm enough. The chiller has been running most of 
+the summer, just not at full capacity due to very mild summer temperatures. At the end of this gestation 
+period, Post M&V results were taken in the identical manner as in the baseline, taking special care to match 
+the same outside air temperatures. The chiller comes on line when the ambient temperature is above 55 deg. 
+There was not enough of a load on the building to keep the chiller running at 100% capacity long enough to 
+take the post readings until late in the summer. Standard procedure is to match the ambient temperature from 
+the baseline test. 
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+• kW/Ton = kW / Actual Tonnage 
+ 
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+ 
+• Actual Cooling Tons per Hour = Evaporator GPM X 8.34 * 60 * Chilled Water Delta T / 12,000 BTU 
+ 
+• Refrigerant Approach = Supply Water Temp – Saturated Evaporator Temp
+Notes 
+Pursuant to AHRI performance certification testing, air cooled chillers under 200 tons are categorized under standard 
+testing protocols. Testing limits are set to 95 deg f entering air temperature for the air cooled condensers and 55 degree 
+entering chilled water temperature. 
+These standards are difficult to replicate in-situ therefore when these levels are either lower or higher then the standards 
+capacity will be affected. An example is lower than 95 degree entering condenser air will produce cooler condensed liquid 
+refrigerant temperature thereby creating additional capacity in BTU's. Conversely higher temperature will reduce this 
+capacity. Identical result will occur when the entering chilled water temperature is either reduced or increased.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

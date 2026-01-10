@@ -1,0 +1,64 @@
+Eﬃciency Improvements
+Adjusted Total Watts
+Btuh Capacity
+System Eﬃciency %
+Enthalpy Delta
+Adjusted Watts per Ton
+EER
+18.5%
+5.3%
+5.3%
+5.3%
+18.5%
+22.6%
+Energy Reporting Period
+4,850.6
+54,756
+91.3%
+6.76
+1,067
+ 11.25
+Baseline
+5,670.9
+52,002
+ 86.7%
+6.42
+1,309.7
+ 9.17
+Energy Reporting Period (Post)
+The identical IPMVP data recordings from the baseline were recorded on 10/6/2012 using the same 
+recently NIST calibrated devices to insure measurement accuracy.  The measurements are as follows:
+Results
+The following are the final calculated performance measurements (detailed below the chart) after 
+performing the regression analysis to account to the restored capacity brought about by PermaFrost NMR®.
+Energy Science Division
+Voltage
+Adjusted Amperage
+Suction Refrigerant  Temp
+Discharge Refrigerant Temp
+Entering Air Temp DB
+Leaving Air Temp DB
+Entering Air Temp WB
+Leaving Air Temp WB
+Actual CFM
+Calculated Coil Capacity Btuh / tons
+Enthalpy Delta
+Normalized Total Watts
+Normalized Watts per Ton
+O.A.T.
+209.8V
+27.2 A
+32.7 F
+104.9 F
+72.6 F
+47.9 F
+53.1 F
+40.2 F
+1,800
+54,756 / 4.56
+6.76
+4,850.6
+1,063
+90.5 F
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

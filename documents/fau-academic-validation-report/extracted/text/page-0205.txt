@@ -1,0 +1,107 @@
+ 
+Appendix B Uncertainty         105 
+ 
+SUMMARY OUTPUT 
+ 
+ 
+ 
+ 
+Regression Statistics 
+ 
+ 
+ 
+ 
+Multiple R
+0.97
+R Square 
+0.93
+ 
+ 
+ 
+ 
+Adjusted R Square
+0.92
+Standard Error 
+367.50
+ 
+ 
+ 
+ 
+Observations 
+12.00
+ 
+ 
+ 
+ 
+ 
+Coefficients
+Standard 
+Error 
+T Stat 
+Lower 95%
+Upper 95% 
+ Intercept 
+ 
+5,634.15
+ 
+151.96
+37.08
+5,295.56
+5,972.74
+CDD 
+7.94
+0.68
+11.64
+6.42
+9.45
+ 
+For A Baseline of 12 Monthly kWh and CDD Data Points the derived regression model is: 
+ 
+ 
+ 
+Monthly electricity consumption = 5,634.15 + (7.94 x CDD) 
+ 
+The coefficient of determination, R2, (shown as “R Square” in Table B-3) is quite high at 0.93, 
+indicating that 93% of the variation in the 12 energy data points is explained by the model using 
+CDD data. This fact implies a very strong relationship and that the model may be used to 
+estimate adjustment terms in the relevant form of Equation 1 in Chapter 4. 
+The estimated coefficient of 7.94 kWh per CDD has a standard error of 0.68. This SE leads to a 
+t-statistic (shown as “T stat” in Table B-3) of 11.64. This t-statistic is then compared to the 
+appropriate critical t value in Table B-1 (t = 2.2 for 12 data points and 95% confidence). 
+Because 11.64 exceeds 2.2, CDD is a highly significant independent variable. The spreadsheet 
+also shows that the range for the coefficient at the 95% level of confidence is 6.42 to 9.45, and 
+implies a relative precision of ±19% ( = (7.94 - 6.42) / 7.94). In other words, we are 95% 
+confident that each additional CDD increases kWh consumption between 6.42 and 9.45 kWh.   
+The standard error of the estimate using the regression formula is 367.5. The average CDDs 
+per month is 162 (not shown in output). To predict what electric consumption would have been 
+under average cooling conditions, for example, this CDD value is inserted into the regression 
+model:  
+ 
+ 
+Predicted consumption  
+= 5,634 + (7.94 x 162)  
+ 
+ 
+ 
+ 
+ 
+= 6,920 kWh per average cooling degree day month 
+ 
+Using a Table B-1 t-value of 2.2, for 12 data points and a 95% confidence level, the range of 
+possible predictions is: 
+ 
+ 
+Range of predictions = 6,920 ± (2.2 x 367.5) = 6,112 to 7,729 kWh. 
+ 
+The absolute precision is approximately ±809 kWh ( =  2.2 x 367.5 ) and the relative precision is 
+±12% ( =  809 / 6,920 ). The spreadsheet described value for the standard error of the estimate 
+provided the information needed to compute the relative precision expected from use of the 
+regression model for any one month, in this case 12%. 
+ 
+Table B-3  
+Example 
+Regression 
+Analysis 
+Spreadsheet 
+Output  
+ 

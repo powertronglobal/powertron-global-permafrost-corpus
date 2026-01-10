@@ -1,0 +1,56 @@
+M598 – 498 Milestone 2 Report 
+Students: [Student Researcher D], [Student Researcher E], [Student Researcher F] 
+Faculty Advisors: [Faculty Advisor A], [Faculty Advisor B] 
+ 
+Incorporating Machine Learning with Cloud Based HVAC Monitoring 
+Systems 
+ 
+Introduction 
+ 
+As a final step in the M598-498 University of Montana Capstone, the team tested several machine 
+learning and data science algorithms with the data given at the beginning of the semester. The goal 
+of this exploration was to practice real world implementation of learned data science models while 
+determining if initial results from any of the selected methods produced successful detection of 
+anomalies within the dataset. Anomaly detection within the machine sensor data given to use posed 
+obvious use cases when the exploration began, from real-time detection of machine inefficiencies 
+and excessive energy use to the possibility of predictive mechanical failure. 
+ 
+In the following sections you will find: 
+- 
+An outline of feature extraction and treatment of the data 
+- 
+Summaries of a variety of machine learning and data science techniques, including:  
+o 
+Random Forest Modeling 
+o 
+Median Absolute Deviation from the Median (MAD) 
+o 
+Agglomerative Hierarchical Clustering 
+o 
+Archetypes Analysis 
+- 
+An exploration of the process of building simulated data 
+- 
+Overall Limitations, Variables to Measure, and Conclusion 
+ 
+Conclusions are discussed in detail in the limitations and potential use cases and suggestions, 
+however success came largely from examining data sets pre and post-treatment by PowerTron. The 
+lack of labelled data rendered the training of supervised models and assessment of results difficult. 
+The team was able to explore whether algorithms could identify pre and post-treatment data in an 
+effective fashion as the data was labeled as pre and post treatment. Possible success in 
+identification of anomalies in the machine’s behavior is seen with threshold analyses of certain 
+features, however this model’s lack of mechanism for confirming results produces immature findings 
+that are difficult to verify. 
+ 
+Section I. Feature Extraction and Exploration 
+ 
+Feature Extraction   
+  
+In determining whether an HVAC system is performing within spec using sensor data, the team had 
+to first determine which features should be used to best characterize the device’s performance.  
+Feature extraction represents the process of choosing which criteria will be used to make this 
+decision, aiding in any pre-treatment applied to the data.  
+ 
+Initial meetings and reports provided by PowerTron combined with general research on HVAC 
+function narrowed the teams approach to a focus on kW/ton, COP, and EER as appropriate 
+measures of device efficiency. 

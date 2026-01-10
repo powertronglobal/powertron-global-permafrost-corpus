@@ -1,0 +1,108 @@
+®
+25
+CRAC # 15.3
+BASELINE
+467.0
+40.8
+75.0
+59.0
+59.6
+52.5
+26.19
+21.73
+10,573
+28.01
+17.68
+1.58
+4.46
+16.0
+POST
+467.2
+38.4
+77.7
+57.2
+61.9
+52.0
+27.78
+21.44
+10,573
+26.37
+25.14
+1.05
+6.34
+20.5
+DELTA
+5.84%
+7.5
+33.76%
+42.15%
+28.13%
+Volts
+Amps
+Entering DB
+Leaving DB
+Entering WB
+Leaving WB
+Entering Enthalpy
+Leaving Enthalpy
+CFM
+kW
+Tons
+kW/Ton
+Enthalpy Delta
+Dry Bulb Delta in Degrees
+CRAC # 15.4
+BASELINE
+464
+39.5
+77.1
+57.7
+58.7
+50.2
+25.58
+20.41
+9,326
+26.94
+18.08
+1.49
+5.17
+19.4
+POST
+466.4
+40.0
+77.7
+56.5
+60.1
+50.6
+26.53
+20.64
+9,326
+27.42
+20.60
+1.33
+5.89
+21.2
+DELTA
+-1.79%
+2.5
+10.65%
+13.93%
+9.28%
+Volts
+Amps
+Entering DB
+Leaving DB
+Entering WB
+Leaving WB
+Entering Enthalpy
+Leaving Enthalpy
+CFM
+kW
+Tons
+kW/Ton
+Enthalpy Delta
+Dry Bulb Delta in Degrees
+Appendix B
+Suite # 1515 Results / 8 Units
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

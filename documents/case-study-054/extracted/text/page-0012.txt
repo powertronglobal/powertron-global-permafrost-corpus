@@ -1,0 +1,18 @@
+Utilizing the data in the above charts, the following steps were taken to determine a very accurate ROI for 
+Electrical Supply Distributor for implementing this ECM:
+Baseline kWh = (5,424 BCTW / 1,000) * 5,790 Annual Operating Hrs = 31,405 BkWh
+Baseline Cost To Run = 31,405 BkWh * $.10 = $3,141
+Regression Analysis is then used to account for amount of tonnage restored to Pilot Unit  
+Adjusted Base Tonnage = 2.75 tons (equates to tonnage in ERP)
+Adjusted Base Total Watts = 2,298 BWPT * 2.75 tons = 6,320 ABTW
+Adjusted Base kWh = (6,320 ABTW/1,000) * 5,790 Annual Operating Hrs = 36,593 ABkWh
+Revised Cost to Run Prior to ECM = 36,593 ABkWh * $.10 = $3,659
+Post ECM kWh = (5,636 PCTW / 1,000) * 5,790 Annual Operating Hrs = 32,650 PkWh
+Cost to Run After ECM = 32,650 PkWh * $.10 = $3,265
+Cost Savings per Month = ($3,659 - $3,265) / 12 = $32.83
+Cost of PermaFrost NMR® installed 3 oz. @ $125 / $32.83 = 11.4
+ 
+ROI = 11.4 months
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

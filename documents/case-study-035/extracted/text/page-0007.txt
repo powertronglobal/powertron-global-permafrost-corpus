@@ -1,0 +1,63 @@
+                                                                                                                                                                                                                         6 
+HVAC/R Eﬃciency Study Results
+Calculated Eﬃciency of Major US Warehouse Retailer HVAC RTUs Baseline and Post
+The chart below illustrates just how far off design the Major US Warehouse Retailer pilot RTUs (#3, #14 and #18) had degraded in 
+terms of efficiency over 11 years of use. These same three pilot RTUs were determined to be performing at an 
+average of 77.6% of the original design efficiency in the baseline. The actual design rated tonnage of each of the 
+RTUs is 15, 25 and 25 tons respectively, for a total of 65 tons. In actuality, the three RTUs were only producing a 
+total of 50.8 tons at the start of the pilot.  The majority of this 22.4% efficiency loss is directly attributable to the 
+thermal degradation of the heat exchange surfaces over a short period of time. 
+After the ECM was installed, the average efficiency in each of the RTUs jumped up to 95.6% of design 
+specifications, equating to 62.5 total tons. This represents a 23% increase in efficiency over the baseline 
+numbers.
+Original Design
+Eﬃciency
+ASHRAE Projected
+Eﬃciency Loss
+Over Time
+Actual Major US Warehouse Retailer
+Design Eﬃciency as
+Measured In-Situ
+Actual Major US Warehouse Retailer HVAC/R Operating Eﬃciency
+vs. ASHRAE Projected Eﬃciency Loss
+HVAC/R Eﬃciency %
+DESIGN EFFICIENCY
+20
+40
+60
+80
+100
+120
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Eﬃciency
+Improvement
+23%
+ 
+ 
+ 
+Age of HVAC/R Units
+Avg Age of Major US Warehouse Retailer
+Equipment
+11
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

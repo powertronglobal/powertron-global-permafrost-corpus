@@ -1,0 +1,49 @@
+Results
+Please note that the initial baseline and post energy report period BTUH capacities may not align with 
+published manufacturers statements. This is due to the operating temperatures of the incoming and leaving 
+evaporator air temperatures, rate of air flow and existing weather conditions at the time and date of the pilot 
+test. However it is pertinent to note that all variables were either matched or normalized to focus on the delta of the 
+performance change post test.
+The following are the final calculated performance measurements after performing the regression analysis to 
+account to the restored capacity brought about by PermaFrost NMR®.
+Regression Analysis 
+Adjusted Base Tonnage         10.11 tons (equates to tonnage in ERP)
+Adjusted Total Watts         1,208 WPT * 10.11 tons = 12,213 Total Watts
+Adjusted Base kWh         (12,213 TW/1,000) * 5,110 Annual Operating hrs = 62,408 kWh
+Revised Cost to Run Prior to ECM         62,408 kWh * $.13 = $8,113 USD
+Post ECM kWh         (8,119 / 1,000) * 5,110 Annual Operating hrs = 41,488 kWh
+Cost to Run After ECM         41,488 kWh * $.13 = $5,393 USD
+Cost Savings per Month         ($8,113 - $5,393) / 12 = $227
+Cost of PermaFrost NMR® @ $680 / $227 = 3 months
+ 
+ROI = 3 months
+Energy Science Division
+Eﬃciency Improvements
+Total Watts
+Watts per Ton
+Btuh Capacity
+System Eﬃciency %
+Enthalpy Delta
+COP
+-33.5%
+ -33.5%
++32.5%
++32.5%
++30.8%
++50.4%
+Energy Reporting Period
+8,119
+803
+121,343
+134.8%
+8.32
+4.38
+Baseline
+12,213
+1,208
+91,584
+101.8%
+6.36
+2.91
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

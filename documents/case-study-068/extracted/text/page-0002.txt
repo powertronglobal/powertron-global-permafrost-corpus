@@ -1,0 +1,35 @@
+1
+Background
+This report details the results of the recently completed comprehensive energy performance pilot study 
+conducted at the Space Center A Visitor Complex located along the NASA Causeway in 
+Titusville, Florida.  This study looked at three common types of HVAC/R equipment supporting Space Center A Visitor Complex as 
+well as the majority of the other properties Hospitality Management Company manages and operates for clients. The equipment 
+tested included a 240-ton air cooled chiller, a 10-ton split system, and and a small walk-in cooler (WIC).
+All the measurements for this pilot were taken and certified by Test & Balance Company A (T&B Company A), a 
+highly respected Test & Balance company based in Lutz, FL.  All testing followed the International 
+Measurement and Verification Protocols (IPMVP). The IPMVP is endorsed by the US Department of Energy as 
+the best method for measuring capacity, performance and efficiency of HVAC/R systems in-situ. 
+T&B Company A took care to use the same certified test equipment and measure in the same fashion under identical 
+weather conditions in both the baseline and post collection periods. This ensured that all the benefits produced 
+could definitively be attributed to the PermaFrost NMR® energy conservation measure (ECM). 
+Overview
+Running from November 24, 2015 to January 26, 2016, the pilot was designed to illustrate the positive impact 
+PermaFrost NMR® would have on the capacity, performance and overall efficiency measured in kW/ton and 
+COP of the three pilot HVAC/R systems.
+As demonstrated in this field trial, PermaFrost NMR® restores the capacity on the HVAC/R systems that has 
+been lost over time due to fouling of the heat exchange surfaces. The ECM will immediately benefit Space Center A Visitor Complex in 
+any or all of the following ways:
+ 
+• Restoring capacity of the systems to satisfy fluctuating building loads or lower room temps
+ 
+• Producing additional system redundancy at no extra cost or interruption to operations 
+ 
+• Improving system efficiency, lowering cost to produce each ton of cooling required (kW/ton & COP)
+ 
+• Restoring thermal efficiency, allowing systems to achieve thermostat set points faster, reducing runtime 
+ 
+   and extending equipment life 
+ 
+• Reducing annual kWh usage by the HVAC systems 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,34 @@
+Mechanical Balancing & Adjustments
+The initial verification of the site operations included meeting with specific management personnel that were 
+familiar with the design, functionality and daily operation of the chiller plant and the HVAC Equipment Manufacturer Tracer energy 
+management system. The mechanical engineered drawings were reviewed and data from the mechanical 
+equipment schedules and sequence of operation were noted. Next the chiller plant was inspected and an initial 
+validation of chilled water flow rates thru each chiller was verified. 
+This flow test consisted of the measurement of the water pressure drop across the evaporator in feet, utilizing a 
+Dwyer wet manometer and comparing the obtained data to the design previously obtained from the “as built" 
+engineered drawings. Each of the chillers (3) the chilled water flow amounts were in excess of 20% above the 
+design. Excessive chilled water flow routinely will demonstrate poor chiller performance as a result of the lack 
+of fluid retention in the evaporator in the form of “off design” delta temperatures. This syndrome of low delta t 
+is a common trait found in chilled water circulating systems that cause excessive equipment operation, lack of 
+system capacity and higher electrical consumption. 
+We adjusted all chiller water flows to design prior to taking baseline data. Data obtained for test purposes and 
+or the defining of system capacity must first be commissioned to the manufacturers and engineer of records 
+design to accept as valid and useful, and virtually eliminates false positive or false negative input data which 
+would render a performance study non valid. 
+Commissioning the chilled water flow in each chiller created advantages unavaliable before. On a Sunday 
+morning when the worship center and bible study activities were under way (building was subjected to 
+substantial load) it was common for three chillers to be operational. After balancing and the installation of 
+PermaFrost NMR® this same load scenario is now handled by one chiller. Subsequently as a part of the daily 
+load profile when school is in session the one smaller 125 ton chiller is utilized in the early hours before schools 
+begins to pre condition the building. This chiller should continue to operate until about 10:30 when the outdoor 
+air temp begins to increase then one of the larger chillers will then be called to handle the afternoon load of the 
+facility. Additionally, the chillers now run in a modulated fashion versus the full loaded conditions before 
+adjustments. Therefore the kW per ton and the recovered system capacity is generating substantial reductions in 
+total system operating costs.
+After successfully adjusting each chillers chilled water flow to design parameters, the baseline data was 
+recorded for each chiller at full load prior to the installation of PermaFrost NMR®. As per design PermaFrost 
+NMR® must be allowed to circulate throughout the refrigerant circuits for a period of 350 operational hours to 
+allow full gestation of the reaction characteristics of the technology.
+10
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,41 @@
+®
+Summary of Other Performance Measurements
+The table below summarizes the substantial improvements resulting from the implementation of the 
+PermaFrost NMR® ECM into the 35 NYC2 CRAC units. 
+Images of Measurement Instruments and PermaFrost NMR® Installation
+4
+TYPE OF MEASUREMENT
+BASELINE
+1.35
+741
+9.33
+2.61
+1,003
+5,461,860
+$873,898 
+POST
+1.06
+924
+11.84
+3.35
+979
+4,288,020
+$686,083 
+RESULTS
+21.5% Reduction
+24.7% Increase
+26.9% Increase
+28.4% Increase
+2.4% Reduction
+1,173,840 Annual kWh Savings
+$187,815 Annual Energy Cost Savings
+Avg kW/Ton
+Total Capacity in Tons
+Avg EER
+Avg COP
+kW 
+Annual KWh Usage
+Estimated Cost to Operate
+The full complements of detailed measurements are attached in Appendix B.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

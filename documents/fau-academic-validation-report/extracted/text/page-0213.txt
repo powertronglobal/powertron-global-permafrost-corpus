@@ -1,0 +1,55 @@
+ 
+Appendix C Region Specific Materials         113 
+ 
+CEI 62056-53  Electricity metering – data exchange for meter reading, tariff and load control 
+– Part 53: COSEM Application Layer 
+CEI 62056-21  Electricity metering – data exchange for meter reading, tariff and load control 
+– Part 21: Direct local data exchange 
+CEI 62056-42  Electricity metering – data exchange for meter reading, tariff and load control 
+– Part 42: Physical layer services and procedures for connection oriented 
+asynchronous data exchange 
+ 
+For the thermal energy measurement, the rules are according to: 
+SR EN 1434 –1 Thermal energy meters, Part 1: General View. (1998) 
+STAS 6696 Taking samples (measurements) (1986)
+EN 1434–2,3,4,5,6  Heat meters (1997) 
+ISO/IEC 7480  Information technology – Telecommunications and information exchange 
+between systems -- Start-stop transmission signal quality at DTE/DCE 
+interfaces (1991)
+ISO/IEC 7498-1  Information technology -- Open Systems Interconnection – Basic 
+Reference Model: The Basic Model (1994) 
+PE 002  Regulation for the provision and use of thermal energy (1994) 
+PE 003  Nomenclature of inspections, testing and proof of installation, commissioning and 
+start-up of power plants (1984) 
+PE 502-8 Norms for providing technological facilities with measuring devices and 
+automation. Heat Points (1998)
+SC 001  Framework solutions for metering installation to plumbing and heating installations 
+in existing buildings (1996) 
+SC 002  Framework solutions for metering water consumption, natural gas and thermal 
+energy associated with installations from apartment blocks (1998) 
+OIML R 75  (International Recommendation) Thermal energy meters (1988) 
+NTM-3-159-94  Metrological verification of thermal energy meters (1994) 
+Addition to Chapter 8.7, “Data for Emission Trading” 
+CO2 emissions are measured, monitored and traded according to the National Allocation Plan 
+Regarding Greenhouse Gas Emission Certificates, that can be found at the following website: 
+http://www.anpm.ro/Files/TEXT%20Anexe%20HG_NAP_ro-%20FINAL_20098183817246.pdf 
+Certificate trading is made according to EU legislation. 
+ 
+ 
+C-5  Bulgaria - July 2010 
+EU Directives – applicable in Bulgaria as references for measurement, energy efficiency, and 
+equipment standards: 
+ 
+2004/22/EC 
+Measuring instruments 
+2006/95/EC 
+Directive 2006/95/EC of the European Parliament and of 
+the Council of 12 December 2006 on the harmonization of 
+the laws of Member States relating to electrical equipment 
+designed for use within certain voltage limits (codified 
+version) 
+2000/55/EC 
+Energy efficiency requirements for ballasts for fluorescent 
+lighting 
+96/57/EC 
+Energy efficiency requirements for household electric 

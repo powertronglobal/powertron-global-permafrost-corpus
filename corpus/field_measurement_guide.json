@@ -1,0 +1,581 @@
+{
+  "title": "Field Measurement and Verification Guide",
+  "version": "1.0.0",
+  "last_updated": "2025-12-28",
+  "purpose": "Step-by-step measurement examples and protocols for AI training on M&V procedures",
+
+  "methodology_overview": {
+    "standard": "IPMVP Option B - Retrofit Isolation with All Parameter Measurement",
+    "description": "Measure all relevant parameters before and after treatment under similar operating conditions",
+    "key_principles": [
+      "Baseline and post-treatment measurements must be at similar conditions",
+      "Multiple readings should be averaged, not single snapshots",
+      "All measurements must be timestamped and documented",
+      "Professional Engineer certification validates methodology and results"
+    ]
+  },
+
+  "measurement_parameters": {
+    "primary_efficiency_metrics": {
+      "kw_per_ton": {
+        "name": "kW/ton",
+        "description": "Power consumption per ton of cooling capacity",
+        "formula": "kW/ton = Measured kW / Measured Tons",
+        "units": "kW/ton",
+        "good_range": "0.6-1.2 for chillers, 1.0-1.8 for DX systems",
+        "lower_is_better": true
+      },
+      "cop": {
+        "name": "Coefficient of Performance",
+        "description": "Ratio of cooling output to power input",
+        "formula": "COP = Cooling Output (BTU/hr) / Power Input (BTU/hr) = Tons × 12,000 / (kW × 3,412)",
+        "units": "dimensionless",
+        "good_range": "3.0-7.0 for chillers, 2.0-4.0 for DX systems",
+        "higher_is_better": true
+      },
+      "eer": {
+        "name": "Energy Efficiency Ratio",
+        "description": "BTU/hr of cooling per Watt of power",
+        "formula": "EER = COP × 3.412",
+        "units": "BTU/Wh",
+        "good_range": "10-20",
+        "higher_is_better": true
+      }
+    },
+    "supporting_measurements": {
+      "power": {
+        "name": "Power (kW)",
+        "measurement_point": "Compressor electrical feed",
+        "instrument": "Power meter or clamp-on meter",
+        "notes": "Measure true power, not just voltage × amps"
+      },
+      "suction_pressure": {
+        "name": "Suction Pressure",
+        "units": "psig",
+        "measurement_point": "Compressor suction service port",
+        "instrument": "Refrigerant gauges"
+      },
+      "discharge_pressure": {
+        "name": "Discharge Pressure",
+        "units": "psig",
+        "measurement_point": "Compressor discharge service port",
+        "instrument": "Refrigerant gauges"
+      },
+      "suction_temperature": {
+        "name": "Suction Line Temperature",
+        "units": "°F",
+        "measurement_point": "Suction line near compressor",
+        "instrument": "Thermocouple or contact thermometer"
+      },
+      "discharge_temperature": {
+        "name": "Discharge Line Temperature",
+        "units": "°F",
+        "measurement_point": "Discharge line near compressor",
+        "instrument": "Thermocouple or contact thermometer"
+      },
+      "ambient_temperature": {
+        "name": "Outdoor Ambient Temperature",
+        "units": "°F",
+        "measurement_point": "Near condenser, in shade",
+        "instrument": "Thermometer"
+      },
+      "supply_air_temperature": {
+        "name": "Supply Air Temperature",
+        "units": "°F",
+        "measurement_point": "Air handler discharge",
+        "instrument": "Thermocouple"
+      },
+      "return_air_temperature": {
+        "name": "Return Air Temperature",
+        "units": "°F",
+        "measurement_point": "Air handler intake",
+        "instrument": "Thermocouple"
+      },
+      "chilled_water_supply": {
+        "name": "Chilled Water Supply Temperature",
+        "units": "°F",
+        "measurement_point": "Chiller evaporator outlet",
+        "instrument": "Immersion or pipe-mounted sensor"
+      },
+      "chilled_water_return": {
+        "name": "Chilled Water Return Temperature",
+        "units": "°F",
+        "measurement_point": "Chiller evaporator inlet",
+        "instrument": "Immersion or pipe-mounted sensor"
+      }
+    }
+  },
+
+  "worked_examples": [
+    {
+      "example_id": "WE_001",
+      "title": "Chiller Efficiency Measurement - Basic",
+      "equipment_type": "Centrifugal Chiller",
+      "capacity_tons": 500,
+      "scenario": "Measuring kW/ton before and after treatment",
+      "steps": [
+        {
+          "step": 1,
+          "action": "Verify steady-state operation",
+          "details": "Confirm chiller has been running at stable load for at least 15 minutes",
+          "checkpoint": "Leaving chilled water temperature stable within ±0.5°F"
+        },
+        {
+          "step": 2,
+          "action": "Record ambient conditions",
+          "details": "Document outdoor air temperature, building load condition",
+          "readings": {
+            "ambient_temp": "85°F",
+            "time": "14:30",
+            "building_occupancy": "Normal business hours"
+          }
+        },
+        {
+          "step": 3,
+          "action": "Measure power consumption",
+          "details": "Use power meter at chiller electrical feed",
+          "readings": {
+            "kW": 425
+          }
+        },
+        {
+          "step": 4,
+          "action": "Measure chilled water temperatures",
+          "details": "Record supply and return temperatures",
+          "readings": {
+            "chw_supply": "44°F",
+            "chw_return": "54°F",
+            "delta_t": "10°F"
+          }
+        },
+        {
+          "step": 5,
+          "action": "Measure or confirm flow rate",
+          "details": "Use flow meter or design flow rate",
+          "readings": {
+            "flow_gpm": 1000,
+            "source": "Design nameplate"
+          }
+        },
+        {
+          "step": 6,
+          "action": "Calculate tons of cooling",
+          "formula": "Tons = (GPM × ΔT × 500) / 12,000",
+          "calculation": "(1000 × 10 × 500) / 12,000 = 417 tons"
+        },
+        {
+          "step": 7,
+          "action": "Calculate kW/ton",
+          "formula": "kW/ton = kW / Tons",
+          "calculation": "425 kW / 417 tons = 1.02 kW/ton"
+        }
+      ],
+      "baseline_result": {
+        "kW": 425,
+        "tons": 417,
+        "kw_per_ton": 1.02,
+        "cop": 3.44,
+        "conditions": "85°F ambient, 10°F ΔT"
+      },
+      "post_treatment_result": {
+        "kW": 340,
+        "tons": 420,
+        "kw_per_ton": 0.81,
+        "cop": 4.33,
+        "conditions": "84°F ambient, 10°F ΔT"
+      },
+      "improvement_calculation": {
+        "kw_per_ton_improvement": "1.02 - 0.81 = 0.21 kW/ton reduction",
+        "percentage_improvement": "(1.02 - 0.81) / 1.02 × 100 = 20.6%",
+        "annual_savings_calculation": "0.21 kW/ton × 417 tons × 4,000 hrs/yr × $0.10/kWh = $35,028"
+      }
+    },
+    {
+      "example_id": "WE_002",
+      "title": "RTU Efficiency Measurement",
+      "equipment_type": "Rooftop Unit",
+      "capacity_tons": 15,
+      "scenario": "Measuring COP on packaged rooftop unit",
+      "steps": [
+        {
+          "step": 1,
+          "action": "Verify cooling mode operation",
+          "details": "Confirm compressor(s) running, thermostat calling for cooling",
+          "checkpoint": "Compressor amps within normal range"
+        },
+        {
+          "step": 2,
+          "action": "Record ambient conditions",
+          "readings": {
+            "ambient_temp": "92°F",
+            "return_air_temp": "75°F",
+            "time": "15:00"
+          }
+        },
+        {
+          "step": 3,
+          "action": "Measure compressor power",
+          "details": "Clamp meter on compressor leads",
+          "readings": {
+            "amps": 42,
+            "voltage": 208,
+            "power_factor": 0.85,
+            "kW": "42 × 208 × 1.73 × 0.85 / 1000 = 12.8 kW"
+          }
+        },
+        {
+          "step": 4,
+          "action": "Measure air temperatures",
+          "readings": {
+            "return_air": "75°F",
+            "supply_air": "55°F",
+            "delta_t": "20°F"
+          }
+        },
+        {
+          "step": 5,
+          "action": "Measure or estimate airflow",
+          "details": "Use anemometer or design CFM",
+          "readings": {
+            "cfm": 4500,
+            "source": "Measured with anemometer"
+          }
+        },
+        {
+          "step": 6,
+          "action": "Calculate sensible cooling",
+          "formula": "Sensible BTU/hr = 1.08 × CFM × ΔT",
+          "calculation": "1.08 × 4500 × 20 = 97,200 BTU/hr = 8.1 tons sensible"
+        },
+        {
+          "step": 7,
+          "action": "Calculate COP",
+          "formula": "COP = (BTU/hr output) / (kW input × 3412)",
+          "calculation": "97,200 / (12.8 × 3412) = 2.22 COP"
+        }
+      ],
+      "baseline_result": {
+        "kW": 12.8,
+        "tons_sensible": 8.1,
+        "cop": 2.22,
+        "conditions": "92°F ambient, 75°F return air"
+      },
+      "post_treatment_result": {
+        "kW": 10.2,
+        "tons_sensible": 8.4,
+        "cop": 2.88,
+        "conditions": "90°F ambient, 75°F return air"
+      },
+      "improvement_calculation": {
+        "cop_improvement": "2.88 - 2.22 = 0.66 COP increase",
+        "percentage_improvement": "(2.88 - 2.22) / 2.22 × 100 = 29.7%",
+        "kw_reduction": "12.8 - 10.2 = 2.6 kW",
+        "annual_savings": "2.6 kW × 3,000 hrs × $0.12/kWh = $936"
+      }
+    },
+    {
+      "example_id": "WE_003",
+      "title": "Data Center CRAC Unit Measurement",
+      "equipment_type": "Computer Room Air Conditioner",
+      "capacity_tons": 30,
+      "scenario": "24/7 operation precision cooling unit",
+      "steps": [
+        {
+          "step": 1,
+          "action": "Document steady-state operation",
+          "details": "CRAC units run continuously - verify stable operation",
+          "checkpoint": "Supply air temperature holding setpoint"
+        },
+        {
+          "step": 2,
+          "action": "Record conditions",
+          "readings": {
+            "ambient_temp": "78°F (indoor condenser)",
+            "supply_air_temp": "58°F",
+            "return_air_temp": "72°F",
+            "time": "10:00"
+          }
+        },
+        {
+          "step": 3,
+          "action": "Measure compressor power",
+          "readings": {
+            "kW": 28.5
+          }
+        },
+        {
+          "step": 4,
+          "action": "Measure refrigerant pressures",
+          "readings": {
+            "suction_pressure": "68 psig",
+            "discharge_pressure": "285 psig",
+            "superheat": "12°F",
+            "subcooling": "8°F"
+          }
+        },
+        {
+          "step": 5,
+          "action": "Calculate or measure cooling output",
+          "details": "Use manufacturer tables or direct measurement",
+          "readings": {
+            "cooling_tons": 26,
+            "source": "Manufacturer performance curve at measured conditions"
+          }
+        },
+        {
+          "step": 6,
+          "action": "Calculate kW/ton",
+          "calculation": "28.5 kW / 26 tons = 1.10 kW/ton"
+        }
+      ],
+      "baseline_result": {
+        "kW": 28.5,
+        "tons": 26,
+        "kw_per_ton": 1.10,
+        "conditions": "78°F ambient, 72°F return"
+      },
+      "post_treatment_result": {
+        "kW": 22.8,
+        "tons": 27,
+        "kw_per_ton": 0.84,
+        "conditions": "77°F ambient, 72°F return"
+      },
+      "improvement_calculation": {
+        "kw_per_ton_improvement": "1.10 - 0.84 = 0.26 kW/ton reduction",
+        "percentage_improvement": "(1.10 - 0.84) / 1.10 × 100 = 23.6%",
+        "annual_savings": "(28.5 - 22.8) kW × 8,760 hrs × $0.11/kWh = $5,493"
+      }
+    },
+    {
+      "example_id": "WE_004",
+      "title": "Refrigeration System Measurement",
+      "equipment_type": "Walk-in Cooler",
+      "capacity_tons": 3,
+      "scenario": "Commercial refrigeration efficiency test",
+      "steps": [
+        {
+          "step": 1,
+          "action": "Verify operating conditions",
+          "details": "Cooler at setpoint temperature, door closed",
+          "checkpoint": "Box temp at 35°F setpoint"
+        },
+        {
+          "step": 2,
+          "action": "Record conditions",
+          "readings": {
+            "ambient_temp": "85°F",
+            "box_temp": "35°F",
+            "time": "11:00"
+          }
+        },
+        {
+          "step": 3,
+          "action": "Measure compressor electrical",
+          "readings": {
+            "amps": 18,
+            "voltage": 208,
+            "kW": 3.2
+          }
+        },
+        {
+          "step": 4,
+          "action": "Measure refrigerant parameters",
+          "readings": {
+            "suction_pressure": "20 psig",
+            "discharge_pressure": "225 psig",
+            "suction_temp": "25°F",
+            "discharge_temp": "165°F"
+          }
+        },
+        {
+          "step": 5,
+          "action": "Calculate or estimate capacity",
+          "details": "Based on refrigerant state points or nameplate",
+          "readings": {
+            "estimated_tons": 2.5
+          }
+        },
+        {
+          "step": 6,
+          "action": "Calculate COP",
+          "calculation": "COP = (2.5 × 12,000) / (3.2 × 3,412) = 2.75"
+        }
+      ],
+      "baseline_result": {
+        "kW": 3.2,
+        "tons": 2.5,
+        "cop": 2.75
+      },
+      "post_treatment_result": {
+        "kW": 2.6,
+        "tons": 2.6,
+        "cop": 3.48
+      },
+      "improvement_calculation": {
+        "percentage_improvement": "(3.48 - 2.75) / 2.75 × 100 = 26.5%",
+        "annual_savings": "(3.2 - 2.6) × 8,760 × $0.10 = $526"
+      }
+    },
+    {
+      "example_id": "WE_005",
+      "title": "Multi-Compressor Chiller",
+      "equipment_type": "Screw Chiller with 2 Compressors",
+      "capacity_tons": 200,
+      "scenario": "Partial load measurement with both compressors running",
+      "steps": [
+        {
+          "step": 1,
+          "action": "Document compressor staging",
+          "details": "Note which compressors are running",
+          "readings": {
+            "compressor_1": "Running",
+            "compressor_2": "Running",
+            "total_capacity": "100% staged"
+          }
+        },
+        {
+          "step": 2,
+          "action": "Measure total power",
+          "details": "Main chiller disconnect power reading",
+          "readings": {
+            "total_kW": 168
+          }
+        },
+        {
+          "step": 3,
+          "action": "Measure chilled water conditions",
+          "readings": {
+            "chw_supply": "42°F",
+            "chw_return": "52°F",
+            "delta_t": "10°F",
+            "flow_gpm": 400
+          }
+        },
+        {
+          "step": 4,
+          "action": "Calculate cooling load",
+          "calculation": "Tons = (400 × 10 × 500) / 12,000 = 167 tons"
+        },
+        {
+          "step": 5,
+          "action": "Calculate efficiency metrics",
+          "calculations": {
+            "kw_per_ton": "168 / 167 = 1.01 kW/ton",
+            "cop": "167 × 12,000 / (168 × 3,412) = 3.50"
+          }
+        }
+      ],
+      "baseline_result": {
+        "kW": 168,
+        "tons": 167,
+        "kw_per_ton": 1.01,
+        "cop": 3.50
+      },
+      "post_treatment_result": {
+        "kW": 134,
+        "tons": 170,
+        "kw_per_ton": 0.79,
+        "cop": 4.44
+      },
+      "improvement_calculation": {
+        "percentage_improvement": "(1.01 - 0.79) / 1.01 × 100 = 21.8%"
+      }
+    }
+  ],
+
+  "common_errors": [
+    {
+      "error": "Single point measurement",
+      "description": "Taking only one reading instead of averaging multiple",
+      "impact": "High variability, unreliable results",
+      "correction": "Take minimum 3-5 readings over 15+ minutes, average results"
+    },
+    {
+      "error": "Mismatched conditions",
+      "description": "Comparing baseline at 95°F to post-treatment at 75°F",
+      "impact": "Invalid comparison, efficiency naturally varies with ambient temp",
+      "correction": "Measure at similar outdoor temperatures (within 5°F) or normalize"
+    },
+    {
+      "error": "Transient measurements",
+      "description": "Measuring during startup or staging changes",
+      "impact": "Captures non-representative conditions",
+      "correction": "Wait 15+ minutes after any capacity change before measuring"
+    },
+    {
+      "error": "Wrong power measurement",
+      "description": "Using amps × volts instead of true power (kW)",
+      "impact": "Ignores power factor, overstates consumption",
+      "correction": "Use true power meter or apply power factor correction"
+    },
+    {
+      "error": "Assumed flow rate",
+      "description": "Using nameplate GPM without verification",
+      "impact": "Flow may differ significantly from design",
+      "correction": "Measure flow or use consistent assumption for both tests"
+    },
+    {
+      "error": "Mixed refrigerant charge",
+      "description": "System low on refrigerant during one test",
+      "impact": "Charge affects efficiency - not apples to apples",
+      "correction": "Verify proper refrigerant charge before both measurements"
+    }
+  ],
+
+  "normalization_guidance": {
+    "when_needed": "When ambient conditions differ >5°F between baseline and post-treatment",
+    "methods": [
+      {
+        "name": "Manufacturer Correction Curves",
+        "description": "Use OEM performance curves to adjust capacity/efficiency to common conditions",
+        "applicability": "When manufacturer data available"
+      },
+      {
+        "name": "AHRI Standard Rating",
+        "description": "Correct to AHRI standard conditions (95°F ambient for air-cooled)",
+        "applicability": "For comparative purposes"
+      },
+      {
+        "name": "Linear Interpolation",
+        "description": "For small condition differences, linear adjustment acceptable",
+        "formula": "Adjusted kW/ton = Measured × (Standard Temp / Actual Temp)^0.5"
+      }
+    ]
+  },
+
+  "documentation_requirements": {
+    "pe_certification_elements": [
+      "Measurement methodology description",
+      "Instruments used with calibration status",
+      "All raw measurement data with timestamps",
+      "Ambient conditions documentation",
+      "Calculations showing efficiency metrics",
+      "Comparison and improvement percentage",
+      "PE signature, license number, date"
+    ],
+    "minimum_photos": [
+      "Equipment nameplate",
+      "Instrumentation setup",
+      "Power meter reading",
+      "Temperature/pressure readings",
+      "Overall equipment condition"
+    ]
+  },
+
+  "training_notes": {
+    "key_concepts": [
+      "kW/ton is primary efficiency metric - lower is better",
+      "COP is the inverse perspective - higher is better",
+      "Consistent measurement conditions are critical",
+      "PE certification adds credibility and utility rebate eligibility",
+      "Multiple readings are more reliable than single snapshots"
+    ],
+    "conversion_formulas": {
+      "cop_to_kw_per_ton": "kW/ton = 12 / COP",
+      "kw_per_ton_to_cop": "COP = 12 / kW/ton",
+      "cop_to_eer": "EER = COP × 3.412",
+      "tons_from_chw": "Tons = (GPM × ΔT × 500) / 12,000",
+      "tons_from_air": "Tons (sensible) = (CFM × ΔT × 1.08) / 12,000"
+    }
+  }
+}

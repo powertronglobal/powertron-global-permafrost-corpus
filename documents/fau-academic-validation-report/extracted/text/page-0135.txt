@@ -1,0 +1,19 @@
+ 
+IPMVP Framework and Options       35 
+ 
+ 
+4.11   Persistence of Savings  
+An organisation which has improved its energy efficiency is more at risk from adverse shifts in 
+performance, not only because its ECMs may be of a kind that can fail, fade or be bypassed, 
+but also because the additional headroom in its energy budgets may allow unrelated incidents 
+of avoidable energy waste to pass unchallenged. 
+Persistence of energy savings can be achieved beyond the M&V reporting period by completing 
+follow on efforts that build on M&V. One approach is “Monitoring and Targeting” (M&T), which 
+can seamlessly follow the M&V process. If Options B and C (see sections 4.6 above) have been 
+used for verifying savings, the project will have metering in place for the routine measurement of 
+consumption. More importantly, models will also have been developed that correlate energy use 
+with driving factors such as weather. These same models can be ‘re-tuned’ to estimate energy 
+consumption that accounts for ECM installation. This enables a periodic comparison of actual 
+and expected consumption, which will readily reveal and quantify any loss of ECM effect (or 
+unrelated waste) enabling prompt remedial action to be taken in cases where the unexpected 
+avoidable cost is deemed significant.

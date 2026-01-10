@@ -1,0 +1,85 @@
+80        Appendix A Examples 
+ 
+Only administration offices have mechanical air-conditioning equipment, which operates for 3 
+months of the year. 
+Expected annual savings on the gas meter are 2,800 mcf, and 380,000 kWh on the main 
+electricity meter. 
+M&V Plan  An M&V Plan was developed showing that IPMVP Volume I, EVO 10000 – 1:2012, 
+Option C was to be used for savings determination because total facility energy cost was the 
+focus. Option C was also chosen because many ECMs were involved, some of which could not 
+be directly measured.  
+Since savings are to be reported as “cost avoidance,” i.e. under reporting period conditions, 
+Equation 1b) will be used.  
+An outline of key elements in the M&V Plan is shown below. Details, data and analysis are 
+shown on the EVO subscribers’ website (www.evo-world.org). 
+ 
+The measurement boundary of this savings determination was defined as: 
+o An electricity account, including demand, serving the main building, 
+o An auxiliary electrical account, without demand, serving lighting in the field house, 
+o A natural gas account for the main building. 
+ 
+The 2005 baseline conditions were recorded, including a strategy for the engineering 
+department to easily capture information about future changes.  
+ 
+The baseline period’s energy data and weather data were recorded and analyzed by simple 
+linear regression of monthly energy use and energy demand against degree days. Degree-
+day data was with the base temperature, which yielded the best R2 from a number of 
+regression analyses performed over a range of plausible base temperatures.  
+ 
+Preliminary analysis found clear correlations with weather for winter gas use and winter 
+electricity consumption on the main meter. Analysis also showed that there is no significant 
+weather correlation with electric demand, summer gas or electricity use. It was decided that 
+regression would only be performed on billing periods with more than 50 heating degree 
+days (HDD). It was also decided that for reporting periods with 50 or fewer HDDs, adjusted-
+baseline values would be derived directly from the corresponding baseline month, adjusted 
+solely for the number of days in the period.  
+The energy/HDD relationships were derived for the heating season on all three accounts as 
+shown in Table A-7-1, along with key regression statistics and coefficients where significant 
+relationships were found.  
+ 
+ 
+Gas 
+Electricity 
+Main Building 
+Field House 
+Consumption 
+Demand
+Consumption 
+Units 
+mcf 
+kWh 
+kW 
+kWh 
+Number of months with 
+more than 50 HDD 
+8 
+8 
+8 
+9 
+HDD Base 
+60oF 
+62oF 
+62oF 
+68oF 
+Regression Statistics:
+R2 
+0.93 
+0.81 
+0.51 
+0.29 
+Standard Error of the 
+estimate 
+91 
+15,933 
+ 
+ 
+t statistic of the HDD 
+coefficient 
+8.7 
+5.0 
+2.5 
+1.7 
+ 
+Table A-7-1 
+Regression 
+Analysis 

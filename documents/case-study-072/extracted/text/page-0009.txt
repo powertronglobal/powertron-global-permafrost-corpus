@@ -1,0 +1,159 @@
+!
+Summary of All Performance Measurements
+in Treated and Untreated Units
+The chart below lists all of the measurements taken on the MCVET and Non-Profit Organization treated pilot units and those 
+same measurements taken on the untreated Non-Profit Organization control unit.   
+Baltimore City PermaFrost NMR® 2015 Performance Study Measurements
+9
+MCVET
+Baseline
+(After 15 yrs in Service)
+Type of Measurement
+Volts
+Amps
+Suction Temp (100% load)
+Suction Pressure (100% Load)
+Discharge Temp (100% Load)
+Discharge Pressure (100% Load)
+Entering DB
+Leaving DB
+Entering WB
+Leaving WB
+Entering Enthalpy
+Leaving Enthalpy
+Enthalpy Delta
+CFM*
+Outside Air Temp.
+Total Static Pressure
+kW 
+Tons
+kW/Ton
+COP
+Annual Cost to Run
+Annual $ Savings vs Baseline
+Current Annual $ Savings in Treated
+vs Untreated
+207.7
+39.1
+48
+80.1
+120.6
+262.6
+84.1
+64.4
+70.8
+60.8
+34.78
+27.01
+7.77
+3,822
+85
+0.51
+11.94
+11.14
+1.07
+3.29
+$5,380 
+MCVET Post
+ (6 Weeks after
+PermaFrost NMR®)
+205.9
+41.4
+48.2
+80.8
+112
+232.6
+86.3
+64.2
+72.9
+60
+36.65
+26.46
+10.19
+3,822
+85
+0.51
+12.53
+14.60
+0.86
+4.10
+$4,315 
+$1,065 
+Non-Profit Organization
+Baseline
+(After 15 yrs in Service)
+204.7
+17.4
+41.3
+70.5
+139.9
+337
+76.4
+58.8
+67.7
+58.4
+32.18
+25.38
+6.80
+1,017
+85
+0.28
+3.03
+2.59
+1.17
+3.01
+$1,333 
+Non-Profit Organization
+Post (6 Weeks after
+PermaFrost NMR®)
+208.7
+14.2
+42.1
+71.5
+122.2
+268
+76.8
+55.3
+64.3
+51
+29.54
+20.86
+8.68
+1,017
+85
+0.28
+2.52
+3.31
+0.76
+4.62
+$868 
+$465 
+$317 
+Non-Profit Organization
+Control Unit
+(Untreated)
+205
+16.9
+39.5
+67.5
+117.5
+250.4
+74.5
+58.6
+67
+56.3
+31.62
+24.03
+7.59
+997
+85
+0.31
+2.94
+2.84
+1.42
+2.48
+$1,185 
+(*) - All CFM's measured in baseline and post fell within the 2% margin of error so the same CFM's were used in all calculations so not to affect the results
+more positively or negatively.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

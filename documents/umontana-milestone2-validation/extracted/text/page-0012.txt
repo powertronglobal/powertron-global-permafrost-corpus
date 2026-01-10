@@ -1,0 +1,41 @@
+ 
+ 
+Page 4 of 38 
+ 
+ 
+median =4 
+ 
+Find the deviations from the median 
+deviations  =  
+ 
+{ -3, -2, -1, 0, 1, 2, 96 } 
+ 
+Take the absolute value 
+absolute deviations  =  
+ 
+{ 3, 2, 1, 0, 1, 2, 96 } 
+ 
+Find the median of the absolute 
+sorted absolute deviations =  
+deviations 
+{ 0, 1, 1, 2, 2, 3, 96 } 
+ 
+MAD = 2 
+ 
+Using the MAD, thresholds can be set:   median +/- MAD * tolerance factor. In the above data set, 
+using a tolerance factor of 3, our thresholds would be set at -2 and 10 (4 +/- 2*3).  Thus, any values 
+below -2 or above 10 would be considered outliers. 
+ 
+Results and Possible Use Cases 
+ 
+Consider an example from the Macy’s data set during the month of May 2020. The data was filtered 
+so that only values where compressor 1 was on and cfm > 100 were considered. (Figures 9 and 
+10).  The median kW/ton in the May 2020 dataset was 1.09, while the MAD was 0.19. On May 4, 
+2020, 1.85% of the data were outliers (Figure 9), but on May 5th, 52.98% of the values were 
+outliers (Figure 10).  This breach in the threshold could indicate a malfunction and warrant further 
+investigation.   
+ 
+Figure 9 - kW/Ton Outliers in May 2020 (Department Store A) 
+Outliers in the kW/Ton measurements are marked with a red dot; outliers in the CFM measurements are 
+notated with a green dot, while blue marks standard kW/Ton measurements over time. 
+ 

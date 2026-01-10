@@ -1,0 +1,49 @@
+ 
+IPMVP Framework and Options       9 
+ 
+6. After the ECM is installed, ensure it has the potential to perform and achieve savings by 
+conducting operational verification. This may include inspecting the installed equipment and 
+revising operating procedures as needed to conform to the design intent of the ECM. This 
+requirement may be fulfilled by a formal "commissioning" process as part of the project .  
+ 
+7. Gather energy and operating data from the reporting period, as defined in the M&V Plan. 
+8. Compute savings in energy and monetary units in accordance with the M&V Plan.  
+9. Report savings in accordance with the M&V Plan (see Chapter 6).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Steps 7 through 9 are repeated periodically when a savings report is needed.  
+A third party may verify that the M&V Plan adheres to IPMVP, and possibly a performance 
+contract. This third party may also verify that savings reports comply with the approved M&V 
+Plan (see Chapter 8.6).  
+ 
+4.4 Operational Verification 
+Operational Verification should be performed as part of any project M&V program. It serves as a 
+low-cost initial step for realizing savings potential and should precede savings verification 
+activities.  A range of operational verification methods can be applied, as outlined in Table 2. 
+Selection of a given approach depends on the ECM’s characteristics as noted. However, it can 
+also be influenced by the savings verification approach taken. For example, if Option B is being 
+used to verify savings then a more simple visual inspection may suffice for operational 
+verification. However if Option A is applied, then a more thorough operational verification 
+approach should be used to verify that the ECM functionality is confirmed and characterization 
+complete.  
+Operational verification activities are accomplished through comprehensive commissioning of 
+affected systems supplemented by more data-driven activities (e.g. data trending and review). 
+The M&V Plan should note the operational verification approach in addition to the savings 
+verification method. Operational verification should be completed prior to implementing M&V 
+savings verification activities. This ensures the savings from ECMs, energy-efficient controls 
+and operation improvements are fully realized.  
+Interactive Effects - Example
+ 
+For an ECM, which reduces the power requirements of electric lights, the 
+measurement boundary should include the power to the lights. However lowering 
+lighting energy may also lower any mechanical cooling requirements and/or raise 
+any heating requirements. Such heating and cooling energy flows attributable to the 
+lights cannot usually be easily measured. They are interactive effects which may 
+have to be estimated, rather than included within the measurement boundary.

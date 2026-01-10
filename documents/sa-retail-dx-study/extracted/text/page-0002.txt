@@ -1,0 +1,167 @@
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2020 Powertron Global, LLC. 
+          INTRODUCTION 
+Baseline monitoring was performed from July 8 - 14 at the San Antonio, TX 
+location, to verify the current energy efficiency of fourteen (14) DX systems using 
+Powertron Global’s FMV platform in conjunction with F2 devices utilizing the latest 
+in the Internet of Things (IoT) cloud based reporting. This confirmatory testing 
+scenario was designed to give the customer a full review into the efficiency gains 
+and performance provided by Powertron Global’s Enhanced Preventative 
+Maintenance (EPM) service on one entire store. Post data was captured on 
+September 12-18, 2020 after enough gestation time was captured for most of the 
+units located at this site. Detailed performance analysis for each unit can be found 
+in this report. All HVAC/R pieces of equipment that service this location are being 
+monitored. The HVAC/R equipment information can be found below: 
+Table 1 – Equipment Information 
+TYPE 
+Equipment 
+ID 
+Make 
+ Model 
+Number 
+Serial 
+Number 
+Type 
+Year 
+Mfg. 
+Refrig. 
+Type 
+Nominal 
+Capacity 
+DX 
+2 
+Trane 
+YHD240F4R
+HA03 
+135210322D 
+PKG 
+2014 
+R410 
+20 
+DX 
+3 
+Trane 
+YHD240F4R
+HA03H0B0A 
+135210328D 
+PKG 
+2014 
+R410 
+20 
+DX 
+4 
+Trane 
+YHC120E4R
+MA0Y 
+135211415L 
+PKG 
+2014 
+R410 
+10 
+DX 
+5 
+Trane 
+YHD240F4R
+HA03H0B0A 
+135210316D 
+PKG 
+2014 
+R410 
+20 
+DX 
+7 
+Trane 
+THD240F4R0
+A03H0B0A 
+135210334D 
+PKG 
+2014 
+R410 
+20 
+DX 
+8 
+Trane 
+THD240F4R0
+A03H0B0A1 
+135210340D 
+PKG 
+2014 
+R410 
+20 
+DX 
+9 
+Trane 
+THD240F4R0
+A03H0B0A 
+135210346D 
+PKG 
+2014 
+R410 
+20 
+DX 
+10 
+Lennox 
+TCA210S2BN 
+5608D09759 
+PKG 
+2008 
+R22 
+17.5 
+DX 
+12 
+Trane 
+THD240F4R0
+A03H0B0A1 
+135210352D 
+PKG 
+2014 
+R410 
+20 
+DX 
+13 
+Lennox 
+TCA210S2BN 
+5608D14515 
+PKG 
+2008 
+R22 
+17.5 
+DX 
+14 
+Lennox 
+TCA210S2BN
+1G 
+5608C13609 
+PKG 
+2008 
+R22 
+17.5 
+DX 
+15 
+Trane 
+YHD180F4R
+LA03H0B0A1 
+140210106D 
+PKG 
+2014 
+R410 
+20 
+DX 
+16 
+Trane 
+YHC092F4R
+LA0A 
+135211411L 
+PKG 
+2014 
+R410 
+7.5 
+DX 
+17 
+Lennox 
+TGA180S2BS 
+5609B09351 
+PKG 
+2008 
+R22 
+17.5 

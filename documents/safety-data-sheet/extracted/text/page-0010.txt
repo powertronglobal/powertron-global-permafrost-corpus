@@ -1,0 +1,43 @@
+for advice on the minimum requirements for personal protective equipment. Additional protective 
+measures may be necessary, depending on the specific circumstances and/or the expert 
+judgment of the emergency responders.   
+SPILL MANAGEMENT
+Land Spill:  Stop leak if you can do so without risk.  Recover by pumping or with suitable 
+absorbent. 
+Water Spill:  Stop leak if you can do so without risk.  Confine the spill immediately with booms.  
+Warn other shipping.  Remove from the surface by skimming or with suitable absorbents.  Seek 
+the advice of a specialist before using dispersants. 
+Water spill and land spill recommendations are based on the most likely spill scenario for this 
+material; however, geographic conditions, wind, temperature, (and in the case of a water spill) 
+wave and current direction and speed may greatly influence the appropriate action to be taken.  
+For this reason, local experts should be consulted.  Note:  Local regulations may prescribe or limit 
+action to be taken.  
+ENVIRONMENTAL PRECAUTIONS
+Large Spills:  Dyke far ahead of liquid spill for later recovery and disposal.  Prevent entry into 
+waterways, sewers, basements or confined areas. 
+SECTION 7
+HANDLING AND STORAGE
+HANDLING
+ Prevent small spills and leakage to avoid slip hazard.   Material can accumulate static charges 
+which may cause an electrical spark (ignition source).  When the material is handled in bulk, an 
+electrical spark could ignite any flammable vapors from liquids or residues that may be present 
+(e.g., during switch-loading operations).  Use proper bonding and/or earthing procedures.  
+However, bonding and earthing may not eliminate the hazard from static accumulation.  Consult 
+local applicable standards for guidance.  Additional references include American Petroleum 
+Institute 2003 (Protection Against Ignitions Arising out of Static, Lightning and Stray Currents) or 
+National Fire Protection Agency 77 (Recommended Practice on Static Electricity) or CENELEC 
+CLC/TR 50404 (Electrostatics - Code of practice for the avoidance of hazards due to static 
+electricity).    
+Static Accumulator:   This material is a static accumulator. 
+STORAGE
+The container choice, for example storage vessel, may effect static accumulation and dissipation.  Do not 
+store in open or unlabeled containers.        
+Material is defined under the National Standard [NOHSC: 1015] Storage and Handling of Workplace 
+Dangerous Goods.
+SECTION 8
+EXPOSURE CONTROLS / PERSONAL PROTECTION
+Exposure limits/standards for materials that can be formed when handling this product:   
+NOTE: Limits/standards shown for guidance only.  Follow applicable regulations. 
+Biological limits 
+No biological limits allocated. 
+Effective Date: January 1, 2019

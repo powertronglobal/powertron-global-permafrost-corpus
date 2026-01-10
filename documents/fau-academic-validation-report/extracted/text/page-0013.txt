@@ -1,0 +1,50 @@
+ 
+13 
+ 
+Make – HVAC Equipment Manufacturer 
+Model – R123CHVE020R00 
+Age - 1987 
+Refrigerant Type – R-134A 
+Nominal Cooling Capacity in Ton – 170 tons 
+Design GPM (cooler) - 580 
+ 
+Air Force Data Center CRAC units at Military Base A, MD.  The two primary 10-ton air-cooled 
+Liebert CRAC units supporting the Defense Information Systems Agency (DISA) Data Control 
+Center at Military Base A in MD were treated. One of the CRAC units runs 24/7 for 
+3,920 hours per year and the other runs 24/7 for 4,210 hours per year. Given the 9% cooler 
+outside air temperature in the Post, the compressors Amps (70% of the total Amps) were 
+adjusted upward by the same percentage. This adjustment permeates through to the Post Total 
+Watts as well as the Watts per Ton. The results were stamped by a P.E.  Characteristics of the 
+systems are as follows: 
+ 
+CRAC Units #2 
+Make – Leibert 
+Model – VSO35AGAOE 
+Age – 5 years 
+Refrigerant Type – R-22 
+Nominal Cooling Capacity in Ton – 10.3 tons 
+Design GPM (cooler) - 4000 
+ 
+CRAC Unit #3 
+Make – Leibert 
+Model – VSO35AGAOE 
+Age – 5 years 
+Refrigerant Type – R-22 
+Nominal Cooling Capacity in Ton – 10.3 tons 
+Design GPM (cooler) - 4000 
+ 
+QSR Chain C, 3 locations, MI. The three units tested were all Carrier packaged rooftop units 
+using R22 refrigerant and totaling 13 tons (one 5-ton unit and two 4-ton units). These units run 
+approximately 5,760 hours a year. The results were normalized for cooler weather in the post and 
+adjusted for capacity using a regression analysis in the baseline. The results were stamped by a 
+P.E. Characteristics of the systems are as follows: 
+ 
+Make – Carrier 
+Model – 48TFE006A511 
+Age – 2002 
+Refrigerant Type – R-22 
+Nominal Cooling Capacity in Btuh / tons – 60,000 Btuh / 5 tons 
+Design CFM – 1,900 
+ 
+Make – Carrier 
+Model – 48HUE005-561 

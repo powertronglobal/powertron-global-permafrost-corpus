@@ -1,0 +1,53 @@
+SECTION 11 
+TOXICOLOGICAL INFORMATION 
+ACUTE TOXICITY 
+Route of Exposure 
+Conclusion / Remarks 
+Inhalation 
+Toxicity (Rat): LC50 > 5000 mg/m3 
+Minimally Toxic. Based on test data for structurally similar 
+materials. 
+Irritation: No end point data. 
+Negligible hazard at ambient/normal handling temperatures. 
+Based on assessment of the components. 
+Ingestion 
+Toxicity (Rat): LD50 > 5000 mg/kg 
+Minimally Toxic. Based on test data for structurally similar 
+materials. 
+Skin 
+Toxicity (Rabbit): LD50 > 5000 mg/kg 
+Minimally Toxic. Based on test data for structurally similar 
+materials. 
+Irritation (Rabbit): Data available. 
+Negligible irritation to skin at ambient temperatures. Based on test 
+data for structurally similar materials. 
+Eye 
+Irritation (Rabbit): Data available. 
+May cause mild, short-lasting discomfort to eyes. Based on test 
+data for structurally similar materials. 
+CHRONIC/OTHER EFFECTS 
+    For the product itself: 
+ Repeated and/or prolonged exposure may cause irritation to the skin, eyes, or respiratory tract.  
+Component concentrations in this formulation would not be expected to cause skin sensitization, 
+based on tests of the components or similar formulations. 
+Contains: 
+Synthetic base oils: Not expected to cause significant health effects under conditions of normal 
+use, based on laboratory studies with the same or similar materials. Not mutagenic or genotoxic. 
+Not sensitizing in test animals and humans. 
+Additional information is available by request. 
+IARC Classification: 
+The following ingredients are cited on the lists below:  None. 
+--REGULATORY LISTS SEARCHED-- 
+1 = IARC 1 
+ 2 = IARC 2A 
+ 3 = IARC 2B 
+SECTION 12 
+ECOLOGICAL INFORMATION 
+The information given is based on data available for the material, the components of the material, and 
+similar materials. 
+ECOTOXICITY  
+    Material -- Not expected to be harmful to aquatic organisms. 
+MOBILITY
+    Base oil component -- Low solubility and floats and is expected to migrate from water to the land. 
+Expected to partition to sediment and wastewater solids.  
+Effective Date: January 1, 2019

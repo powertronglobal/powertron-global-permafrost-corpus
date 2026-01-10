@@ -1,0 +1,489 @@
+# Global Flavor/Fragrance Company.pdf
+
+Energy Science Division
+
+®
+
+Global Flavor/Fragrance Company
+
+Comprehensive HVAC/R Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+PermaFrost NMR® Eﬃciency Report
+
+Global Flavor/Fragrance Company
+
+September, 2013 
+Executive Summary
+
+This report contains specific information regarding the installation of the energy control measure (ECM)
+
+PermaFrost NMR® into a critical 50-ton HVAC split system supporting the Global Flavor/Fragrance Company blending and mixing
+
+area in their national headquarters and manufacturing plant facility at 300 North Street, Teterboro, NJ.
+
+Detailed forensic performance testing (outlined later in this report) was performed on the entire system using
+
+R22 as the refrigerant. Following testing, the system was treated with the proper amount and type of the
+
+PermaFrost NMR® technology specially formulated for these types of systems.  Measurement and
+
+Verification (M&V) was conducted pre-installation and post-gestation. The purpose of the testing was to 1)
+
+show how the ECM improves the thermal performance of any system it is installed in, and 2) show that the
+
+ECM is safe and will not harm Global Flavor/Fragrance Company’s HVACR
+
+equipment.
+
+The improvement in efficiency and restored
+
+capacity gained directly at the unit was solely
+
+attributable to the PermaFrost NMR® ECM. This
+
+is a result of the reversal of thermal inefficiency on heat
+
+exchange surfaces.
+
+Following treatment with the ECM, the split
+
+system showed an effective net 9.1% reduction in
+
+kW/ton based on the exact capacity measured in
+
+the baseline M&V and the post gestation M&V
+
+when operating at 100% load. The ECM also produced an average increase cooling capacity of 10% or 6.16
+
+tons. Prior to the ECM, the system produced 61.62 tons of cooling as measured in-situ. After the ECM, the
+
+average combined tonnage produced increased to 67.78 tons. This 10% capacity increase from the baseline
+
+performance levels led to an effective average increase in COP of 9.9% and a calculated reduction in kWh of
+
+10.1%. All of these factors directly correlate to what Global Flavor/Fragrance Company will realize in energy savings as they operate
+
+this split system in the future as well as other HVAC equipment like Roof Top Units and Chillers under the
+
+similar parameters.
+
+This 50-ton HVAC Equipment Manufacturer split system involved in the pilot supports the large
+
+blending and mixing room at the Global Flavor/Fragrance Company North American
+
+Headquarters and manufacturing facility located in Teterboro, NJ.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Following treatment the system also showed a 9.5% increase in the Enthalpy Delta across the coil versus
+
+the Baseline, which is a critical measurement used to determine the thermodynamic enhancement
+
+brought about by the PermaFrost NMR® ECM.  The result of the ECM improvement is an ROI to Global Flavor/Fragrance Company
+
+that is measured in a months. The tables of data used to determine the financial payback are available for
+
+review at the end of this report.
+
+Product Brief
+
+PermaFrost NMR® is a multi-patented nanotechnology surface chemistry Energy Control Measure
+
+(ECM) that uses Nucleo Molecular Regenerative® (NMR™) technology as its core agent. A sustainable,
+
+one-time treatment with no down time required, PermaFrost NMR® lasts for at least 10 years in any type
+
+of system in which it is installed. Examples of the types of commercial HVACR systems and equipment
+
+that PermaFrost NMR® has proven success with are direct expansion air systems (DX); chilled water
+
+systems (both flooded and DX; air and water cooled); ice making equipment; ammonia refrigeration
+
+plants (single compressor and cascade) and variable refrigerant flow (VRF) designs. The equipment
+
+utilized in these systems within our expanding portfolio of clients includes centrifugal (single and
+
+multi-stage), scroll, reciprocating and screw configurations.
+
+The direct benefits of PermaFrost NMR® in any type of HVACR system are improved cooling
+
+performance, increased capacity and improved refrigerant velocity – all of which allow systems to
+
+achieve set point temperatures in a more rapid fashion which reduces compressor operating periods. The
+
+indirect benefits resulting from the enhanced thermodynamic characteristics following treatment include
+
+reduced run time, less kW hours used, less amp draw at the compressor, longer equipment life cycle time
+
+and a reduced carbon footprint for Global Flavor/Fragrance Company.
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Option B savings = Baseline Energy – Reporting Period Energy
+
++/ - Routine adjustments  + /- Non-Routine Adjustments
+
+Measurement and Veriﬁcation Protocol
+
+The International Performance Measurement and Verification Protocol (IPMVP) was utilized in the
+
+development of this report. The Association of Energy Engineers (AEE), The American Society of Heating,
+
+Refrigeration and Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization
+
+(EVO) accept the IPMVP as a global methodology for determining the effectiveness of energy conservation
+
+methods and products.
+
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize. They
+
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report. Option B is
+
+defined as: All parameter measurements with the boundary of the ECM as the single source of
+
+measurement. Savings are determined by field measurement of the energy use of the ECM affected
+
+equipment or system and any performance enhancements versus the baseline data.
+
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the
+
+savings and the length of the reporting period.  For the boundary utilized for Option B short-term
+
+measurements are very useful as data when the variables are contained. The savings are calculated by
+
+short-term measurements of baseline and energy reporting period (post), and /or engineering computations
+
+using measurements of proxies of energy use.
+
+The final computation follows the formula:
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Energy Conservation Method (ECM) Content
+
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the
+
+effects of thermal degradation and fouling on the heat exchange surfaces.
+
+A diagnostic examination of the pilot equipment was implemented to determine if the operational
+
+conditions of the system was satisfactory. Baseline M&V was recorded on the supporting compressor and
+
+then the proper amount and type of PermaFrost NMR® was injected. The gestation period for the Global Flavor/Fragrance Company
+
+pilot was 4 weeks. Prior to taking Post measurements, systems need to achieve 250-300 hours of runtime to
+
+ensure adequate performance improvement time. At the end of this gestation period, Post M&V results
+
+were taken in the identical manner as in the baseline, taking special care to match the same or very similar
+
+entering air wet bulb and dry bulb as well as compressor discharge pressures. These are three of the most
+
+critical variables to contend with in an in-situ HVAC testing situation. When analyzing all of the data
+
+baseline and post data, no adjustments for weather were necessary.
+
+The following report produces the utilization of the International Performance Measurement and Verification
+
+Protocol (IPMVP) as the M&V plan. The Director of Facilities for Global Flavor/Fragrance Company, John DiGiacinto, and Sr. Facilities
+
+Technician, [Client Representative] Dam witnessed the collection of all the data used in this report. The final
+
+calculations were performed by Powertron Global®’s Forensic Mechanical Engineer, [Senior Energy Engineer].
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase)
+
+BTUH = CFM * 4.5 * Wet Bulb Enthalpy Delta
+
+kW/Ton = kW / Actual Tonnage
+
+Percentage Eﬃciency = Measured BTUH / Manufacturers Design BTUH
+
+Coeﬃcient of Performance (COP) = (12 / kW per ton /3.412)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Make
+
+Model
+
+Serial Number
+
+Refrigerant Type
+
+Nominal Cooling Capacity in Tons
+
+Average Annual Runtime Hours
+
+Date Installed
+
+HVAC Equipment Manufacturer
+
+RAUUC504CK
+
+J96C80886
+
+R22
+
+50 Tons
+
+4,500
+
+1996
+
+Detailed Results for 50-Ton Split System
+
+System Description / Design Characteristics
+
+This system provides critical cooling for the Global Flavor/Fragrance Company manufacturing facility located 300 North Street,
+
+Teterboro, NJ.  Given the required internal load of the facility and weather BIN data, it is estimated that the
+
+system runs ~4,500 hours or more per year prior to the ECM being implemented.
+
+Baseline & Energy Reporting (Post) Periods
+
+The identical IPMVP following data points were recorded for Baseline
+
+and Post on 8/6/13 and 9/4/13 respectively using recently NIST
+
+calibrated devices to insure measurement accuracy. The return wet and
+
+dry bulb temperatures entering the coil were very similar in both
+
+periods as were the discharge pressures of the compressor so no
+
+adjustments were made to the calculations. The measurements are as
+
+follows:
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+POST
+BASELINE
+
+Voltage
+
+Amperage
+
+Suction Refrigerant Temp
+
+Suction Refrigerant Pressure
+
+Discharge Refrigerant Temp
+
+Discharge Refrigerant Pressure
+
+Entering Air DB Temp
+
+Leaving Air DB Temp
+
+Entering Air WB Temp
+
+Leaving Air WB Temp
+
+Combined Avg CFM Across Coils
+
+Actual Cooling Capacity (Tons)
+
+Total WB Enthalpy Delta
+
+kW
+
+kW/Ton
+
+Calculated kWh
+
+Coeﬃcient of Performance (COP)
+
+O.A.T.
+
+457.5 V
+
+75.15 A
+
+33.7 F
+
+59.75 PSI
+
+88.2 F
+
+163.9 PSI
+
+73.9 F
+
+47.8 F
+
+63.2 F
+
+46.3 F
+
+15,800
+
+61.62 Tons
+
+10.4
+
+59.41 kW
+
+.964
+
+267,345
+
+3.65
+
+73.9 F
+
+459.6 V
+
+74.73 A
+
+36.15 F
+
+63.75 PSI
+
+89.5 F
+
+168.5 PSI
+
+73.7 F
+
+45.5 F
+
+63.5 F
+
+44.8 F
+
+15,868
+
+67.78 Tons
+
+11.39
+
+59.36 kW
+
+.876
+
+240,408
+
+4.02
+
+73.7 F
+
+MEASUREMENT
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Improvements
+
+Calculated kWh
+Cooling Capacity in Tons
+kW / Ton  
+COP
+Total Enthalpy Delta
+
+(10.1%)
+10%
+(9.1%)
+9.9%
+9.5%
+
+Post
+
+240,408
+67.78
+0.876
+4.01
+11.39
+
+Baseline
+
+267,345
+61.62 
+.964 
+3.65
+10.4
+
+Results
+
+The following are the final calculated average performance measurement improvements following the
+
+PermaFrost NMR® Post measurement period of the split system.
+
+PermaFrost NMR®: Determining the Payback Period for Global Flavor/Fragrance Company
+
+Utilizing data in the above charts, to obtain a true avoided energy cost and subsequent payback period for Global Flavor/Fragrance Company for
+
+implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy savings
+
+resulting from the improvement in capacity. This greater capacity reduces the runtime hours and in turn reduces the annual
+
+kWh expended in the Post. The true ROI comes from determining what the cost to run the system was when operating at its
+
+original energy profile then subtracting the cost to operate the system at its newly restored energy profile less the percentage of
+
+increased capacity. This regression calculation is the most scientific method of accounting for the reduced number of hours the
+
+units will now run due to their increased capacity which allows the units to reach set temperatures quicker and shut off sooner.
+
+Baseline kWh        59.41 kW * 4,500 Annual Operating Hrs = 267,345 kWh
+
+Cost to Run Baseline        267,345 kWh * $.128 = $34,220.16
+
+Post ECM kWh        59.36 kW * 4,500 Annual Operating Hrs = 267,120 kWh
+
+Revised kWh (based on 10% restored capacity)        267,120 kWh * (1 - .1) = 240,408 kWh
+
+Revised Cost to Run Post        240,408 kWh * $.128 = $30,772.22
+
+Avoided Energy Costs (Savings) Per Month        ($34,220.16 - $30,772.22) / 12 = $287.33
+
+Cost of ECM        $6,250
+
+ROI        $6,250 / $287.33 = 21.8
+
+ROI = 22 months
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

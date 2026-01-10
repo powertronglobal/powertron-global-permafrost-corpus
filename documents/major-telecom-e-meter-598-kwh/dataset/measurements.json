@@ -1,0 +1,71 @@
+{
+  "doc_id": "major-telecom-e-meter-598-kwh",
+  "slug": "major-telecom-e-meter-598-kwh",
+  "source_type": "tabular",
+  "extracted_at": "2026-01-05T21:31:26.187163",
+  "summary": {
+    "total_files": 4,
+    "baseline_files": 1,
+    "post_files": 2,
+    "total_rows": 320712,
+    "baseline_rows": 65739,
+    "post_rows": 254945
+  },
+  "file_statistics": [
+    {
+      "period": "baseline",
+      "rows": 65739,
+      "columns": 5,
+      "column_names": [
+        "BASELINE Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4"
+      ],
+      "metrics": {},
+      "source_file": "598 kWh baseline EXTENDED.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 83659,
+      "columns": 5,
+      "column_names": [
+        "POST Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4"
+      ],
+      "metrics": {},
+      "source_file": "598 kWh post Condensed.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 171286,
+      "columns": 5,
+      "column_names": [
+        "POST Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4"
+      ],
+      "metrics": {},
+      "source_file": "598 kWh post EXTENDED.xlsx"
+    },
+    {
+      "period": "unknown",
+      "rows": 28,
+      "columns": 4,
+      "column_names": [
+        "Temperature Bin",
+        "2024 Count",
+        "2025 Count",
+        "Total Records"
+      ],
+      "metrics": {},
+      "source_file": "Meter598_kWh_by_Temperature_Bins.xlsx"
+    }
+  ]
+}

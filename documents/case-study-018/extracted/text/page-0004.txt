@@ -1,0 +1,51 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+ 
+ 
+Co-Efficient of Performance (COP) = 12/kW per ton/ 3.412 
+Energy Efficiency Ratio (EER) = BTU / Watts 
+ 
+ 
+ 
+To Determine Capacity: 
+ 
+ 
+The entering evaporator air volume, dry bulb temperature and enthalpy are 
+measured by the CFM and inlet temperature/enthalpy sensors. The evaporator 
+leaving air temperature and enthalpy are measured by the outlet air temperature 
+enthalpy sensor. The inlet and outlet enthalpies are subtracted from each other 
+resulting in a sum called the Enthalpy delta. This enthalpy delta (∆) is used in the 
+shown formula below. Other components of this formula complete the equation. 
+These include the volume of air passing through the evaporator (CFM or Cubic 
+feet of air per minute) and an engineering standard ratio of 4.5 (Ratio of Standard 
+Air) or constant.  The result of this calculation yields the industry standard the 
+British Thermal Unit (BTU), which is used to calculate the unit’s capacity in BTU. 
+This BTU number is then divided by the constant 12,000 which is to convert to 
+refrigeration tons because every 12,000 BTUs equals 1 Ton of HVAC capacity. 
+The capacity formula is: 
+ 
+ 
+CFM x 4.5 x Enthalpy ∆ = BTUs / 12,000 = Tons (capacity) 
+ 
+ 
+CFM – Cubic Feet per Minute of Air Flow or Air Volume 
+4.5 – Ratio of Standard Air (constant) 
+Enthalpy ∆ - Enthalpy Delta of the Inlet – Outlet Enthalpy 
+BTU – British Thermal Units  
+12,000 – every 12,000 BTUs equals 1 Ton (constant) 
+ 
+ 
+ 
+Example 
+ 
+4000 (CFM) X 4.5 (Standard Air Ratio) X 8 (Enthalpy Delta) = 144,000 BTU, then 
+divide by 12,000 = 12 tons 
+ 
+ 
+To Determine Electrical Energy Consumption: 
+ 
+Total electrical consumption is measured at the main source of electric service of 
+each rooftop unit. This includes, voltage, amperage and power factor and a 
+constant of the square root of 3 (√3). This is then divided by 1000 to obtain 
+kilowatts. The electrical formula for kilowatt (kW) is: 
+ 

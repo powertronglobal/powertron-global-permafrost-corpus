@@ -1,0 +1,46 @@
+!
+Year-Over-Year Energy Comparisons  
+The energy bills for the three Maverick Adventure Stores with no year-over-year anomalies (St. George, 
+Washington and La Verkin) are made of up two primary components, the energy (KWH) and demand usage.  As 
+illustrated in the table below, of these three locations, the combined results present a 16% energy year-over-year 
+savings coupled with a demand reduction of 16.1% year-over-year.  
+Table: Combined Savings of Energy and Demand Year-Over-Year
+Baseline & Post Energy Meter Analysis
+The main purpose of the pilot was to show the energy savings when evaluating the Baseline (before) and Post 
+(after) performance of the two ECMs, PermaFrost NMR and Circuit Masters. The energy data was collected 
+simultaneously in each of the three stores on identical utility grade power meters set up to only measure the 
+HVAC and refrigeration equipment every 15 minutes.  The data for each store was then grouped by similar 
+exterior weather conditions in the respective baseline and post periods and then averaged together to get an 
+accurate analysis of savings provided by the two ECMs. 
+The data in the following sections describe the ﬁndings at each Regional Convenience Store Chain Adventure Store pilot location.
+7
+St George
+Washington
+La Verkin
+Average Savings
+PermaFrost NMR® Reductions 
+Adventure Store
+Locations
+11.8%
+7.2%
+11.7%
+10.2%
+11.1%
+2.6%
+11.3%
+8.3%
+Energy
+Demand
+Circuit Master    
+4.9%
+7.3%
+5.1%
+5.8%
+5.3%
+9.7%
+8.5%
+7.8%
+Energy
+Demand
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

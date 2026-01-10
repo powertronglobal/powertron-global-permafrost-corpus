@@ -1,0 +1,49 @@
+ 
+16 
+Sports Arena A in [Texas Location].   Walk-in cooler unit within Sports Arena A
+(Sports Arena A) in [Texas Location]. [Client Representative], Heating, Ventilation, Air Conditioning 
+and Refrigeration (HVAC/R) The 6,500 Btu refrigeration system supporting the “Hot, Popped & 
+Twisted” concession area uses R-22 refrigerant and was installed when the facility opened in 
+2001. On average, the unit runs 7,300 hours each year.  
+ 
+Make  – Heatcraft 
+Model – ADT065BJ 
+Refrigerant Type – R22 
+Nominal Cooling Capacity in Ton – 6,500 / .54 
+ 
+Regional Hospital A (Hospital A) at [Commercial Address], Newark, NJ.   Nominal 15-ton split system 
+using R410A refrigerant. The unit was relatively new 33-month old system. Testing was done 
+operating at 100% load. This unit supports the fitness center within Regional Hospital A.  2,800 Annual Operating Hrs. 
+ 
+Make – HVAC Equipment Manufacturer 
+Model – TWE180E300AA 
+Refrigerant Type – R410A 
+Nominal Cooling Capacity in Ton – 15 Tons 
+ 
+Healthcare System A  - At the headquarters of Healthcare System A (Healthcare System A), a 7.7-ton 
+HVAC Equipment Manufacturer split system that cools the datacenter was tested. The 7.7-ton HVAC Equipment Manufacturer split system supporting 
+the power generator room uses R-22 refrigerant and was installed in December of 2003. On 
+average the unit runs 6,570 hours each year. Stamped by Professional Engineer. 
+ 
+Make – HVAC Equipment Manufacturer 
+Model – TWE090A300 
+Refrigerant Type – R22 
+Nominal Cooling Capacity in Ton – 92,000 / 7.67 
+ 
+Large Multi-National Bank – Irving, TX.  Detailed forensic performance testing was 
+performed on a 380-ton McQuay water-cooled chiller unit using R-134A refrigerant. The unit 
+runs approximately 2,688 hours per year and was treated in April of 2013. 
+ 
+Make – McQuay 
+Model – WSC087-BAAAR 
+Refrigerant Type – R-134A 
+Nominal Cooling Capacity in Tons – 380 
+ 
+Largest electrical distributor in the U.S, [Texas City].  Two of the many packaged roof top 
+units (RTUs) supporting the facility in [Texas City]. The two RTUs comprising this pilot 
+project, one 90,000 Btu and the other 36,000 Btu, each utilize R-22 refrigerant and were installed 
+in 1998. Based on BIN data for Houston for all the hours per year over 65 degrees, the units run 
+5,790 hours each year. 
+ 
+#5 
+Make – ICP 

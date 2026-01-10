@@ -1,0 +1,213 @@
+28
+Tire Retail 
+#1 Before
+After
+Tire Retail 
+#2 Before
+After
+Tire Retail 
+#3 Before
+After
+Food Retail 
+Before
+After
+206
+204.5
+243
+243
+206
+209.2
+472.13
+468.2
+51.4
+50.7
+18.5
+18.32
+60.5
+61.89
+90.63
+86.4
+47.6
+44.2
+43.5
+44
+34.5
+38.3
+32.2
+27.5
+107.7
+112.7
+123.3
+121.3
+124.3
+131.5
+115.5
+113
+80.2
+78.8
+77
+71
+72
+74.8
+77.5
+77.9
+64.1
+65.7
+59.5
+52.1
+58
+55
+57.45
+52.8
+70.2
+72.4
+69.1
+61.2
+63.5
+64.1
+61.8
+61.1
+62.1
+63.7
+55.9
+49.3
+56.5
+53.6
+52.9
+48.8
+5,500
+5,500
+1,800
+1,800
+5,400
+5,400
+20,000
+20,000
+156,915
+175,725
+54,918
+59,697
+116,154
+170,343
+515,700
+682,200
+13.08
+14.64
+4.58
+4.97
+9.68
+14.2
+42.98
+56.85
+6.34
+7.1
+6.78
+7.37
+4.78
+7.01
+5.73
+7.58
+80
+81
+89
+86
+88
+87
+84
+84
+15,565
+15,241
+6,608
+6,545
+18,321
+19,032
+62,900
+59,465
+1,189
+1,032
+1,443
+1,317
+1,893
+1,340
+1,464
+1,046
+16.1
+13.1
+17.5
+18.9
+14
+19.8
+20.05
+25.1
+DX Measured Parameter 
+Voltage
+Amperage
+Suction Refrigerant Temp F 
+Discharge Refrigerant Temp F 
+Entering Air Temp DB 
+Leaving Air Temp DB 
+Entering Air Temp WB 
+Leaving Air Temp WB 
+Actual CFM
+Actual Coil Capacity Btuh 
+Actual Coil Capacity Tons 
+Enthalpy Delta
+OAT at time of readings
+Calculated Parameters
+Refrigerant Approach
+Total Watts Normalized for Weather
+Watts Per Ton
+Adjusted Baseline Tonnage
+Adjusted Baseline Total Watts
+COP
+Delta T Dry bulb
+Watts/degree decrease DB
+Delta T Wet(acctg for humidity)
+Watts/degree decrease WB
+kW (volts x amps x .85 x 1.732)/1000 OR
+(volts x amps x 1.56)/1000 OR 
+(volts x amps x .9)/1000
+Adjusted Total Watts
+Btuh Coil Capacity
+System Eﬃciency
+EER (Btuh / Watts)
+17,417
+15,241
+7,172
+6,544
+26,868
+19,032
+83,228
+59,465
+156,915
+175,725
+54,918
+59,697
+116,154
+170,343
+515,700
+682,200
+85.0%
+96.0%
+91.0%
+99.5%
+63.0%
+93.0%
+82.8%
+109.5%
+10.09
+11.63
+8.31
+9.12
+6.34
+8.95
+8.2
+11.47
+15.6
+15.2
+6.6
+6.5
+18.3
+19.0
+62.9
+59.5

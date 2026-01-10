@@ -1,0 +1,48 @@
+ 
+19 
+Make – HVAC Equipment Manufacturer 
+Model (indoor unit / outdoor unit) – SAVE300-2T 
+Refrigerant Type R-438A 
+Nominal Cooling Capacity Btuh/Tons:  360,000/30 
+5,256 Annual Operating hrs 
+ 
+Unit #38  
+Make – HVAC Equipment Manufacturer 
+Model (indoor unit / outdoor unit) – SAVE300-2T 
+Refrigerant Type R-438A 
+Nominal Cooling Capacity Btuh/Tons:  360,000/30 
+5,256 Annual Operating hrs 
+ 
+U.S Banking Institution Bank, Albany, NY.  Two CRAC (Computer Room Air Conditioning) 
+units supporting the critical data center in Albany, NY. Two nominal 6-ton CRAC units using 
+R22 refrigerant. Average Annual Runtime Hours 3,750. 
+ 
+CRAC Unit #1 & #2 
+Make – Liebert 
+Model – BU071WGAAE1 
+Refrigerant Type R22 
+Nominal Cooling Capacity Tons: 5.92 Tons 
+ 
+CRAC Unit #2 
+Make – Liebert 
+Model BU071WGAAE1 
+Refrigerant Type R22 
+Nominal Cooling Capacity Tons: 5.92 Tons 
+ 
+Chicago Data Center, Oak Brook, IL. One 30 ton Liebert DX unit equipped with R-22. This 
+unit runs approximately 4,380 hours a year and was treated May 9, 2013.  
+ 
+Make – Liebert 
+Model – VH380AHASEI 
+Refrigerant Type – R22 
+Nominal Cooling Capacity Tons: 30 Tons 
+ 
+Large Property Manger Headquarters, Washington D.C.  300-ton chiller at large property 
+manager headquarters located at 20 M Street, Washington D.C. This unit runs approximately 
+3,500 hours per year. Stamped by Professional Engineer. 
+ 
+Make – Carrier Evergreen 
+Model – 19XRV404032 
+Refrigerant Type – R134A 
+Nominal Cooling Capacity in Ton – 280 
+ 

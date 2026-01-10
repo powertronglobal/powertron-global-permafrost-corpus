@@ -1,0 +1,24 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+L. Accounting for Uncontrolled Variables using Industry Standards 
+ 
+Cell Hut #1 has the most internally generated heat of cell site in this project. It 
+contains approx. 20 antennas along with other standard equipment that give off 
+significant amounts of heat. Network usage traffic here likely plays a significant roll 
+in HVAC usage even more than outdoor air temps.  
+• Node 508 had a leak in the baseline which was reported for repair prior to 
+baseline ERP.  The unit steadily declined in performance and in the 
+baseline and into the post.  Efficiency was improved but the runtime data is 
+unreliable.  We did calculate the avoided energy savings in the regression 
+from efficiency improvements in the site. 
+ 
+ 
+• Node 507 showed an unexplained improvement in output during the 
+extended baseline period that showed a 4-ton unit outputting over 5 tons.  
+However baseline data prior to the change gives us reliable data to 
+calculate savings by kW/ton reduction. Regression analysis accounted for 
+PermaFrost NMR improvements and removed the influence due to the 
+output anomaly.  The energy use was improved 20.5% (adjusted down from 
+52% output anomaly) 
+ 

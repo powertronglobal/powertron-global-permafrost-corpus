@@ -1,0 +1,25 @@
+PermaFrost NMR® Performance Report
+Major Golf Organization HQ
+June 30, 2013 
+Executive Summary
+        This report contains specific information regarding the installation of the energy control measure 
+(ECM) PermaFrost NMR® for Major Golf Organization HQ located in Ponte Verde, FL. Detailed forensic performance 
+testing (outlined later in this report) was performed on 2 split system DX units. 
+Immediately following the baseline testing, the units were treated with the proper amount and type of 
+PermaFrost NMR® product formulated for R-22 DX systems. Since there were no other ECM’s going on 
+during this pilot project, the improvement in efficiency and restored capacity gained directly at the units is 
+solely attributable to the PermaFrost NMR® ECM. The units now provide cooler/drier supply air while 
+using less power. This greater operational efficiency is due to the restoration of the heat transfer ability of 
+the evaporator and condenser coils.
+Following treatment with the PermaFrost NMR® technology, the 2 units showed an average 35.9% 
+reduction in kW/ton based on the exact capacity measured in the baseline M&V and the post gestation 
+M&V. The units showed an average 50.9% reduction in kWh. Prior to the ECM, the units produced a total of 
+4.64 tons of cooling. After the ECM, the tonnage produced increased to 6.09 tons. This capacity increase 
+from the baseline performance level led to an effective net average increase in COP of 71.5%. All of these 
+factors directly correlate to what Major Golf Organization HQ building will realize in energy savings as they operate these 
+units in the future under the same parameters.
+The result of the ECM improvements is a ROI to the customer of a matter of months. The tables of data and 
+financial calculations are available for review at the end of this report.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

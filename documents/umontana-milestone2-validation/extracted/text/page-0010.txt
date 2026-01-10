@@ -1,0 +1,22 @@
+ 
+ 
+Page 2 of 38 
+ 
+We can see the values for July 12th (middle graph) have a visually distinct pattern and are about 100 
+times higher. The values are enough higher that the scale is modified automatically by the algorithm 
+to show peaks of even over 200, while the 11th and the 13th both hover around 1.5 and 2.  
+ 
+As a secondary result of this method, the random forest algorithm produces a list of features ranked 
+by importance as they relate to the classification being performed by the algorithm. This list is shown 
+in Figure 8. 
+ 
+ 
+Figure 8 - Features by Importance 
+ 
+ 
+The more ‘important’ a feature is, the more it impacts whether the algorithm distinguishes a day to 
+be ‘normal’ or ‘anomalous.  This can be useful information in selecting features to report and 
+investigate further. 
+ 
+ 
+ 

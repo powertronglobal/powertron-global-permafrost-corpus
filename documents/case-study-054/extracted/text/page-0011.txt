@@ -1,0 +1,62 @@
+Energy Science Division
+Energy Reporting Period (Post)
+The identical IPMVP data recordings from the baseline were retaken and recorded on 3/21/13 using the 
+same recently NIST calibrated devices to insure measurement accuracy.  The measurements are as follows:
+Results
+The following are the calculated performance results after performing the three month PermaFrost NMR® 
+Electrical Supply Distributor pilot: 
+Voltage
+Amperage
+Suction Refrigerant  Temp
+Discharge Refrigerant Temp
+Entering Air Temp DB
+Leaving Air Temp DB
+Entering Air Temp WB
+Leaving Air Temp WB
+Actual CFM
+Calculated Coil Capacity Btuh / tons
+Enthalpy Delta
+Calculated Total Watts
+Calculated Watts per Ton
+225 V
+17.04 A
+35.2 F
+96.2 F
+70 F
+44.8 F 
+ 59 F
+ 40.5 F
+710
+32,972 / 2.75 tons
+10.32
+5,636 CTW
+2,049 CWPT
+Eﬃciency Improvements
+Adjusted Total Watts
+Btuh Capacity
+System Eﬃciency %
+Calculated Watts per Ton
+Enthalpy Delta
+EER
+10.8%
+16.4%
+16.3%
+10.8%
+15.2%
+11.6 %
+Energy Reporting Period
+5,636
+32,972
+91.6%
+2,049
+ 10.32
+5.85
+Baseline
+6,320
+28,344
+ 78.7%
+2,298
+ 8.96
+5.23
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

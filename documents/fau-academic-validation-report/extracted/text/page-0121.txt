@@ -1,0 +1,57 @@
+ 
+IPMVP Framework and Options       21 
+ 
+What to Measure? 
+Consider the example of a lighting project 
+where reporting period power draw is 
+measured, but baseline power is not 
+measured. Therefore power draw should 
+be treated as an estimate in designing an 
+Option A procedure. 
+As a result, operating hours must be 
+measured if the procedure is to adhere to 
+IPMVP Option A.
+4.7.1  Option A: Retrofit Isolation: Key Parameter Measurement  
+Under Option A, Retrofit Isolation: Key Parameter Measurement, energy quantities in Equation 
+1) can be derived from a computation using a combination of measurements of some 
+parameters and estimates of the others. Such estimates should only be used where it can be 
+shown that the combined uncertainty from all such estimates will not significantly affect the 
+overall reported savings. Decide which parameters to measure and which to estimate by 
+considering each parameter’s contribution to the overall uncertainty of the reported savings. The 
+estimated values and analysis of their significance should be included in the M&V Plan (Chapter 
+5). Estimates may be based on historical data such as recorded operating hours from the 
+baseline, equipment manufacturer’s published ratings, laboratory tests, or typical weather data.   
+If a parameter, such as hours of use is known to be constant and not expected to be impacted 
+by the ECM, then its measurement in the reporting period is sufficient. The reporting period 
+measurement of such constant parameter can also be considered a measurement of its 
+baseline value.  
+Wherever a parameter, known to vary independently, is not measured in the facility during both 
+the baseline and reporting periods, the parameter should be treated as an estimate.  
+Engineering calculations or mathematical modeling may be used to assess the significance of 
+the errors in estimating any parameter in the reported savings. For example if a piece of 
+equipment’s operating hours are to be estimated, but may range from 2,100 to 2,300 hours per 
+year, the calculated savings at 2,100 and 2,300 hours should be computed and the difference 
+evaluated for its significance to the expected savings. The combined effect of all such possible 
+estimations should be assessed before determining whether sufficient measurement is in place. 
+See also Appendix B-5.1.  
+The selection of which factor(s) to measure may also be considered relative to the objectives of 
+the project or the duties of a contractor undertaking some ECM-performance risk. Where a 
+factor is significant to assessing performance, it should be measured. Other factors beyond the 
+contractor’s control can be estimated.  
+If a savings computation involves subtracting a measured parameter from an estimated 
+parameter, the result is an estimate. For 
+example if a parameter is measured in the 
+reporting period and subtracted from an 
+unmeasured value for the same parameter in 
+the baseline period, the resultant difference is 
+only an estimate.  
+An example application of Option A is an 
+ECM involving the installation of high-
+efficiency light fixtures, without changing 
+lighting periods. Savings can be determined 
+using Option A by metering the lighting-circuit 
+power draw before and after retrofit while 
+estimating the operating period. Other 
+variations on this type of ECM, shown in 
+Table 2 below, show the circumstances where estimates adhere to the guidance of Option A. 
+ 

@@ -1,0 +1,35 @@
+®
+2
+Process
+This report contains specific information regarding the current performance profile of four similar RTU’s treated 
+two years ago with PermaFrost NMR® compared to where ASHRAE degradation averages had them performing 
+prior to treatment. A fifth similar RTU that was installed on the roof of one of the same four restaurants six 
+months following initial equipment PermaFrost NMR® treatment (which was not treated) serves as a control unit 
+and as another valuable way to demonstrate the value gained through the use of PermaFrost NMR®. 
+Detailed performance testing (outlined later in this report) was performed on the pilot RTU’s unit after the 
+installation of PermaFrost NMR® to determine the impact on the three key elements that greatly affect Ruby 
+Tuesday’s power bill as they relate to the original design specifications: 
+ 
+1.  The cooling capacity the RTU’s are capable of producing after an average of 11 years in service.
+ 
+2.  The actual cost of power required to produce the amount of cooling tons the RTU’s are delivering as 
+      
+     reflected in the kW/ton measurement. 
+ 
+3.  The thermal dynamic ability of the RTU’s to continue to perform at or close to operational design.
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) framework. The team consisted of 
+Energy Consulting Partner's CEO, [CEO] and Powertron Global’s Director of Engineering, [Senior Energy Engineer].  The 
+manager on duty at each of the locations signed off on all the measurements taken prior to the team leaving 
+each location, preserving the integrity of the data.
+Notes 
+Since power bills for the four restaurants already show savings, the focus of the field M&V was on determining the current 
+performance levels of the four pilot RTU’s. The RTU’s were also compared to historical performance characteristics of 
+themselves two years earlier and to a newer similar RTU that was not treated with the ECM. This helps to closely estimate 
+the amount of savings already achieved by Restaurant Chain A and helps determine the impact of future savings.  
+The readings were taken in the same conditions used by Air-Conditioning, Heating, & Refrigeration Institute (AHRI) to 
+issue capacity ratings. All RTU’s were tested in sunny conditions with outside air temperatures between 80-82 degrees. 
+The boundary of the testing was the RTU’s and nothing else; therefore confidence in the accuracy of the performance 
+calculations is very high.
+Property of Powertron Global®

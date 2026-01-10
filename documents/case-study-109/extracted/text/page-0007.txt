@@ -1,0 +1,62 @@
+Make
+Model
+Serial
+Refrigerant Type
+Age
+Nominal Cooling Capacity Btuh / tons
+Tonnage
+CFM
+Liebert
+UE192G-A10
+149223A
+R22
+1989
+192,000 Btuh / 16 tons
+16
+7,200
+6
+Energy Science Division
+Voltage
+Amperage
+Suction Refrigerant Pressure / Temp
+Discharge Refrigerant Pressure / Temp
+Return Air Temp DB
+Supply Air Temp DB
+Return Air Temp WB
+Supply Air Temp WB
+Actual CFM
+Actual Coil Capacity Btuh / tons
+Enthalpy
+Calculated Total Watts
+Calculated Watts per Ton
+OAT
+470V
+10.71A (AVG of C1 & C2)
+74 psi / 43.5 F
+268 psi / 122 F
+74 degrees F
+58.5 degrees F
+56.7 degrees F
+48.8 degrees F
+7,200
+164,592 Btuh / 13.72 tons
+5.08
+15,705 (C1 + C2)
+1,145 WPT
+77 degrees F
+System Description / Design Characteristics
+Unit #1 provides cooling for an isolated switching area within The Company’s Long Island, NY facility.  
+The operational periods of the equipment are 24 hours per day and 12 months annually, resulting in a total 
+actual runtime of ~5,840 hours per year. 
+Baseline Measurement Period Selection
+The following data was 
+recorded on 05/30/2012 
+using recently calibrated 
+devices to insure 
+measurement accuracy. The 
+results were recorded as a 
+result of the 
+implementation of the 
+IPMVP Protocol.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

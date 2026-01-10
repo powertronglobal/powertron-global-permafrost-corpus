@@ -1,0 +1,263 @@
+{
+  "processed_date": "2025-12-28T14:38:39.566821",
+  "source": "powertronglobal.com/data-room-due-diligence",
+  "documents": [
+    {
+      "doc_id": "dataroom_001",
+      "slug": "financial-fact-sheet",
+      "title": "Financial Fact Sheet - Pricing and ROI",
+      "category": "executive",
+      "pages": 2,
+      "chunks": 1,
+      "tokens": 737
+    },
+    {
+      "doc_id": "dataroom_002",
+      "slug": "ny-city-chiller-study",
+      "title": "New York City Chiller Case Study",
+      "category": "case-study",
+      "pages": 9,
+      "chunks": 7,
+      "tokens": 3872
+    },
+    {
+      "doc_id": "dataroom_003",
+      "slug": "sa-retail-dx-study",
+      "title": "South Africa Retail DX Case Study",
+      "category": "case-study",
+      "pages": 164,
+      "chunks": 52,
+      "tokens": 32648
+    },
+    {
+      "doc_id": "dataroom_004",
+      "slug": "mbe-certification",
+      "title": "Minority Business Enterprise Certification",
+      "category": "executive",
+      "pages": 1,
+      "chunks": 1,
+      "tokens": 213
+    },
+    {
+      "doc_id": "dataroom_005",
+      "slug": "nmr-technology-fact-sheet",
+      "title": "PermaFrost NMR Technology Fact Sheet",
+      "category": "executive",
+      "pages": 2,
+      "chunks": 1,
+      "tokens": 518
+    },
+    {
+      "doc_id": "dataroom_006",
+      "slug": "capex-accounting-guide",
+      "title": "PermaFrost NMR as Capital Expense Guide",
+      "category": "executive",
+      "pages": 1,
+      "chunks": 1,
+      "tokens": 322
+    },
+    {
+      "doc_id": "dataroom_007",
+      "slug": "powertron-overview-deck",
+      "title": "Powertron Global Overview Presentation",
+      "category": "executive",
+      "pages": 12,
+      "chunks": 2,
+      "tokens": 1395
+    },
+    {
+      "doc_id": "dataroom_008",
+      "slug": "sustainability-fact-sheet",
+      "title": "Sustainability Fact Sheet",
+      "category": "executive",
+      "pages": 2,
+      "chunks": 1,
+      "tokens": 643
+    },
+    {
+      "doc_id": "dataroom_009",
+      "slug": "chiller-installation-instructions",
+      "title": "Chiller Installation Instructions",
+      "category": "operations",
+      "pages": 3,
+      "chunks": 3,
+      "tokens": 1297
+    },
+    {
+      "doc_id": "dataroom_010",
+      "slug": "dx-installation-instructions",
+      "title": "DX System Installation Instructions",
+      "category": "operations",
+      "pages": 3,
+      "chunks": 3,
+      "tokens": 1276
+    },
+    {
+      "doc_id": "dataroom_011",
+      "slug": "installation-guide",
+      "title": "PermaFrost NMR Installation Guide",
+      "category": "operations",
+      "pages": 1,
+      "chunks": 1,
+      "tokens": 310
+    },
+    {
+      "doc_id": "dataroom_012",
+      "slug": "safety-data-sheet",
+      "title": "PermaFrost NMR Safety Data Sheet (16-Section)",
+      "category": "safety",
+      "pages": 14,
+      "chunks": 14,
+      "tokens": 7450
+    },
+    {
+      "doc_id": "dataroom_013",
+      "slug": "certificate-of-analysis",
+      "title": "Certificate of Analysis - Texas Oiltech",
+      "category": "safety",
+      "pages": 9,
+      "chunks": 6,
+      "tokens": 3693
+    },
+    {
+      "doc_id": "dataroom_014",
+      "slug": "warranties-insurance",
+      "title": "Warranties and Insurance Documentation",
+      "category": "safety",
+      "pages": 1,
+      "chunks": 1,
+      "tokens": 419
+    },
+    {
+      "doc_id": "dataroom_015",
+      "slug": "certificate-of-insurance",
+      "title": "Certificate of Insurance",
+      "category": "safety",
+      "pages": 1,
+      "chunks": 3,
+      "tokens": 1129
+    },
+    {
+      "doc_id": "dataroom_016",
+      "slug": "third-party-mv-report",
+      "title": "Third-Party M&V Report",
+      "category": "lab-report",
+      "pages": 1,
+      "chunks": 1,
+      "tokens": 279
+    },
+    {
+      "doc_id": "dataroom_017",
+      "slug": "f2-fmv-platform-deck",
+      "title": "F2 FMV IoT Platform Documentation",
+      "category": "technical",
+      "pages": 7,
+      "chunks": 4,
+      "tokens": 2219
+    },
+    {
+      "doc_id": "dataroom_018",
+      "slug": "fau-academic-validation-report",
+      "title": "Florida Atlantic University PermaFrost NMR ECM Evaluation",
+      "category": "lab-report",
+      "pages": 225,
+      "chunks": 191,
+      "tokens": 118770
+    },
+    {
+      "doc_id": "dataroom_019",
+      "slug": "td-bank-ul-verified-study",
+      "title": "Major Bank B Comprehensive Energy Efficiency Study - UL Verified",
+      "category": "lab-report",
+      "pages": 12,
+      "chunks": 7,
+      "tokens": 5002
+    },
+    {
+      "doc_id": "dataroom_020",
+      "slug": "ul-lab-report-2015",
+      "title": "Underwriters Laboratories Test Report",
+      "category": "lab-report",
+      "pages": 9,
+      "chunks": 10,
+      "tokens": 5852
+    },
+    {
+      "doc_id": "dataroom_021",
+      "slug": "ul-verified-analytics",
+      "title": "UL Verified Analytics Report",
+      "category": "lab-report",
+      "pages": 1,
+      "chunks": 1,
+      "tokens": 150
+    },
+    {
+      "doc_id": "dataroom_022",
+      "slug": "Major Global Bank A-longevity-study",
+      "title": "Major Global Bank A 6-Year Longevity Study",
+      "category": "longevity-study",
+      "pages": 9,
+      "chunks": 6,
+      "tokens": 4163
+    },
+    {
+      "doc_id": "dataroom_023",
+      "slug": "product-longevity-overview",
+      "title": "Product Longevity Overview",
+      "category": "longevity-study",
+      "pages": 1,
+      "chunks": 1,
+      "tokens": 348
+    },
+    {
+      "doc_id": "dataroom_024",
+      "slug": "restaurant-chain-a-longevity-study",
+      "title": "Restaurant Chain A 2-Year Longevity Study",
+      "category": "longevity-study",
+      "pages": 15,
+      "chunks": 16,
+      "tokens": 9000
+    },
+    {
+      "doc_id": "dataroom_025",
+      "slug": "QSR Chain A-longevity-study",
+      "title": "QSR Chain A 2-Year Energy Study",
+      "category": "longevity-study",
+      "pages": 8,
+      "chunks": 6,
+      "tokens": 3094
+    },
+    {
+      "doc_id": "dataroom_026",
+      "slug": "military-base-a-permafrost-results",
+      "title": "Military Base A PermaFrost Results",
+      "category": "government-validation",
+      "pages": 7,
+      "chunks": 2,
+      "tokens": 1413
+    },
+    {
+      "doc_id": "dataroom_027",
+      "slug": "defense-agency-a-test",
+      "title": "Defense Agency A Test Install",
+      "category": "government-validation",
+      "pages": 3,
+      "chunks": 1,
+      "tokens": 604
+    },
+    {
+      "doc_id": "dataroom_028",
+      "slug": "military-base-b-demonstration",
+      "title": "EMIP Demonstration - Military Base B",
+      "category": "government-validation",
+      "pages": 13,
+      "chunks": 7,
+      "tokens": 4722
+    }
+  ],
+  "totals": {
+    "documents": 28,
+    "chunks": 350,
+    "tokens": 211538
+  }
+}

@@ -1,0 +1,134 @@
+═══ EXECUTIVE SUMMARY ═══
+PermaFrost NMR Energy Study: Major Telecom E Meter 623 Kwh
+
+Study Overview
+----------------------------------------
+This study analyzed 68,973 high-resolution measurements collected at 2-second intervals.
+Baseline period: 34,407 data points
+Post-treatment period: 34,540 data points
+
+
+Facility Information
+----------------------------------------
+Customer: Major Telecom E
+Industry: Telecommunications
+
+═══ METHODOLOGY ═══
+Measurement Methodology
+========================================
+
+Data Type: Time Series
+Total Measurements: 68,973
+
+Source Data Files:
+  - Meter_623_Baseline_Temperature_Bins.csv: 20 rows (baseline period)
+  - Meter_623_Post_Temperature_Bins.csv: 16 rows (post period)
+  - Meter_623_Temperature_Comparison.csv: 16 rows (unknown period)
+  - Meter_623_Weighted_Analysis_Results.csv: 10 rows (unknown period)
+  - 623 MATHealthcare System ANG Baseline 9_16-10_10_24 extended.xlsx: 34,387 rows (baseline period)
+  - 623 MATHealthcare System ANG Post 9_16_10_10_25 extended.xlsx: 34,524 rows (post period)
+
+Measurement Protocol
+----------------------------------------
+This study follows the International Performance Measurement & Verification Protocol (IPMVP)
+for collecting and analyzing HVAC performance data. Key metrics measured include:
+
+  - Coefficient of Performance (COP)
+  - Energy Efficiency Ratio (EER)
+  - Power consumption (kW)
+  - Cooling capacity (Tons)
+  - kW per Ton efficiency
+  - Outdoor air temperature
+  - Chilled water flow rate (GPM)
+  - Chilled water delta temperature
+
+Measurements were collected at 2-second intervals using calibrated sensors
+to capture transient system behavior and ensure statistical significance.
+
+═══ DETAILED METRICS ═══
+Detailed Metrics Analysis
+========================================
+
+Data File: Meter_623_Baseline_Temperature_Bins.csv
+Period: Baseline
+Measurements: 20
+------------------------------
+
+mean_kWh:
+  Mean: 1.125
+  Median: 1.110
+  Std Dev: 0.216
+  Range: 0.830 to 1.480
+
+std_kWh:
+  Mean: 0.202
+  Median: 0.205
+  Std Dev: 0.035
+  Range: 0.140 to 0.250
+
+min_kWh:
+  Mean: 0.631
+  Median: 0.630
+  Std Dev: 0.117
+  Range: 0.450 to 0.820
+
+max_kWh:
+  Mean: 1.779
+  Median: 1.775
+  Std Dev: 0.290
+  Range: 1.350 to 2.250
+
+
+Data File: Meter_623_Post_Temperature_Bins.csv
+Period: Post
+Measurements: 16
+------------------------------
+
+mean_kWh:
+  Mean: 1.006
+  Median: 0.985
+  Std Dev: 0.119
+  Range: 0.840 to 1.170
+
+std_kWh:
+  Mean: 0.151
+  Median: 0.150
+  Std Dev: 0.018
+  Range: 0.120 to 0.180
+
+min_kWh:
+  Mean: 0.610
+  Median: 0.610
+  Std Dev: 0.095
+  Range: 0.460 to 0.760
+
+max_kWh:
+  Mean: 1.544
+  Median: 1.525
+  Std Dev: 0.136
+  Range: 1.300 to 1.750
+
+
+Data File: Meter_623_Temperature_Comparison.csv
+Period: Unknown
+Measurements: 16
+------------------------------
+
+
+Data File: Meter_623_Weighted_Analysis_Results.csv
+Period: Unknown
+Measurements: 10
+------------------------------
+
+
+Data File: 623 MATHealthcare System ANG Baseline 9_16-10_10_24 extended.xlsx
+Period: Baseline
+Measurements: 34,387
+------------------------------
+
+
+Data File: 623 MATHealthcare System ANG Post 9_16_10_10_25 extended.xlsx
+Period: Post
+Measurements: 34,524
+------------------------------
+

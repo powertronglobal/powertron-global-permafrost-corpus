@@ -1,0 +1,45 @@
+120        Appendix D Users of IPMVP 
+ 
+D-5   New Building Designers  
+New building investors often wish to compare their performance to what it would have been if 
+they had not included some specific energy efficiency features in the design. The absence of 
+real baseline data normally requires the use of Option D (Chapter 4.10) to develop a baseline. 
+The computer simulation skills needed to properly apply Option D might normally be on the 
+design team at the time of design. However the critical element of Option D is the calibration of 
+the simulation against data gathered after a one-year period. Therefore it is important to ensure 
+that the simulation skills remain available until calibration is achieved. 
+Following the first year of steady operation it would be normal to use the actual energy data of 
+the first steady year as a new baseline, switching to using Option C (Chapter 4.9) to determine 
+changes from the first year’s new baseline. 
+All the challenges for new buildings are addressed in more depth in IPMVP Volume III Part I, 
+New Construction, including different methods for special situations. 
+D-6   New Building Designers Seeking Recognition for Their Sustainable 
+Designs 
+Building designers may seek to have their designs recognized under a sustainable design 
+program. To qualify, the building may need to have an M&V system that adheres to IPMVP. 
+IPMVP adherence is defined in Chapter 7 as preparation of an M&V Plan (Chapter 5) using 
+IPMVP terminology, and then following the M&V Plan.   
+The designer would also follow the guidance above in Chapter 1.4.5 and IPMVP Volume III Part 
+I. 
+D-7   Existing Building Managers Seeking Recognition for the 
+Environmental Quality of their Building Operations 
+Managers of existing buildings may seek recognition for the environmental quality of their 
+operating methods. To qualify they may need to have an M&V system that adheres to IPMVP. 
+IPMVP adherence is defined in Chapter 7 as preparation of an M&V Plan (Chapter 5) using 
+IPMVP terminology and then following the M&V Plan. IPMVP’s Retrofit Isolation type M&V 
+(Chapter 4.8) may also assist in obtaining recogntion for the number of installed sub-meters. 
+Option C (Chapter 4.9) would provide the total facility performance monitoring that is 
+appropriate to existing buildings. However if no whole building meters existed before seeking 
+recogntion, Option D (Chapter 4.10) is needed during the period of developing a baseline for a 
+year after main meters are initially installed on the building. 
+Building managers would also follow the guidance above in Chapter 1.4.3. 
+D-8   Regional Efficiency-Program Designers and Managers   
+Designers and managers of regional or utility-company demand-side-management (DSM) 
+programs usually need to develop rigorous ways to evaluate the effectiveness of their energy-
+efficiency programs. One way to evaluate a DSM program’s impact is to assess the savings 
+made in randomly chosen end-user facilities. This data can be used to project the results across 
+the entire group of DSM program participants. Use IPMVP Options presented in Chapter 4 to 
+assess the savings in the sample facilities.  
+The evaluation design for any regional program should specify which of the IPMVP Options are 
+allowable. It should also specify the minimum required sampling, measurement, and analytical 
+accuracies, in order to provide sufficient rigor in program reporting.  

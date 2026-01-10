@@ -1,0 +1,32 @@
+®
+Return On Investment
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the Data Center Provider CRAC Unit.
+Baseline Energy Consumption
+Baseline Tonnage: 23.7 tons
+Adjusted kW Baseline: 1.66 kW/ton * 32 tons = 53.12 kW
+Adjusted Baseline kWh: 53.12 kW * 4,500 Annual Operating Hrs = 239,040 kWh
+Revised Cost to Run Baseline: 239,040 kWh * $.12 = $28,685
+Post Energy Consumption
+kW Post: 1.25 kW/ton * 32 tons = 40 kW
+Annual kWh Post: 40 kW * 4,500 hours = 180,000 kWh
+Annual Cost Post: 180,000 kWh * .12 cents = $21,600
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $28,685 - $21,600 = $7,085
+Estimated Energy Savings Per Month: $7,085 / 12 = $590
+Return On Investment
+Cost of PermaFrost NMR® installed in the pilot CRAC unit: $3,875
+Estimated ROI Period for Pilot CRAC Unit: $3,875 / $590 = 6.6 months
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period 
+for Data Center Provider for implementing the PermaFrost NMR®, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended in the 
+Post Analysis Period. ROI comes from determining what the cost to run the systems was when operating at the original 
+energy profile to produce the newly restored amount of available tonnage capacity and then subtracting the revised cost 
+to run the systems at the same restored tonnage after the PermaFrostNMR® was installed. This regression analysis is 
+the most widely accepted method of accounting for the reduced number of hours the systems will now operate due to the 
+restored capacity. This restored capacity allows the systems to reach the internal building set points with increased 
+efficiency resulting in reduced compressor demand loading.
+ 
+8
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

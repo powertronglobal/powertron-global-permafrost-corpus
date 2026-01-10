@@ -1,0 +1,29 @@
+Energy Science Division
+PermaFrost NMR® Eﬃciency Report
+Major US Telecom Call Center     
+September, 2013 
+Executive Summary
+         This report contains specific information regarding the installation of the energy control measure 
+(ECM) PermaFrost NMR® into three (3) package roof top units (RTU’s) supporting the various parts of the 
+Major US Telecom Support Call Center in Chattanooga, TN.  Detailed forensic performance testing (outlined later in 
+this report) was performed on the three RTU’s using R22 as the refrigerant.  Following testing, each RTU 
+was treated with the proper amount and type of the PermaFrost NMR® technology specially formulated for 
+these types of systems.
+Measurement and Verification (M&V) was conducted pre-installation and post-gestation. The purpose of 
+the testing was to 1) show how the ECM improves the thermal performance of any system it is installed in, 
+and 2) show that the ECM is safe and will not harm Major US Telecom’s  HVAC equipment.
+The improvement in efficiency and restored capacity gained directly at each RTU was solely attributable to 
+the PermaFrost NMR® ECM. This is a result of the reversal of thermal inefficiency on heat exchange surfaces.  
+Following treatment with the ECM, the three RTU’s showed an effective net average 21.4% reduction in 
+kW/ton based on the exact capacity measured in the baseline M&V and the post gestation M&V when 
+operating at 100% load. The ECM also produced an average increase cooling capacity of 23.4% which 
+equates to 5.68 tons or an average of 1.89 tons per RTU. Prior to the ECM, the three RTU’s produced a total 
+of 24.28 tons of cooling as measured in-situ. After the ECM, the average combined tonnage produced 
+increased to 29.96 tons. This 23.4% cooling capacity increase from the baseline performance levels led to an 
+effective average increase in COP across the RTU’s of 26.4% and a calculated reduction in kWh of 25.8% All 
+of these factors directly correlate to what Major US Telecom will realize in energy savings as they operate these 
+RTU’s in the future as well as other similar HVAC equipment across their portfolio.
+Following treatment the three RTU’s also showed a combined 23.5% increase in the Enthalpy Delta across 
+the coil versus the Baseline, which is a critical measurement used to determine the thermodynamic   
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

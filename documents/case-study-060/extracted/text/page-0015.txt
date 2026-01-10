@@ -1,0 +1,250 @@
+7/25/2016
+Performance Results ­ Air Cooled ­ Performance Analysis
+.
+Liebert Rating System
+Project Name: HP
+   
+Customer Name: Ed
+Manufacturer: Liebert North America
+Unit Power Supply: 460/3/60
+Refrigerant: R407C
+Internal Filter Class: Merv 8 Std. ­ 4 inch (102
+mm)
+Unit Airflow 10400 cfm
+ESP: 0.2 "WG
+Spec.sheet output date: 25­Jul­16
+Width: 109 "
+Depth: 35 "
+Height: 76 "
+Weight: 2450 lbs
+Altitude: 0 ft
+Liebert DS Model DS077AU; Air Cooled
+Manufacturer: Liebert North
+America
+Model: MCL110x8
+Control Type: Premium
+Condenser Type: Microchannel
+Design Ambient: 105 °F
+Quantity: 1
+Airflow: 21582 CFM
+Power supply: 460/3/60
+Sound Level: Std
+Condenser Fan RPM: 980
+Condenser
+Manufacturer: Carlyle
+Model: 06DA328
+Compressor Type: SemiHermetic
+Power Supply: 460/3/60
+Power Input: 11.1
+Compressor's COP: 3.34
+Quantity: 2
+Compressor
+Manufacturer: Liebert North
+America
+Model: 04R12LAU
+Fin Type: Lanced
+Number of Rows: 3
+Fins per Inch: 12
+Face Area: 24.65 sq.ft.
+Surface Area: 1805.74 sq.ft.
+Cooling Coil
+Cooling Fans
+Quantity of Fans: 2
+Type: EC Plug Fan inside unit
+Power Supply: 460/3/60
+Quantity of Motors: 2
+Performance ­ Mechanical Cooling
+Cooling
+Step
+Ent
+DB
+ºF
+Ent
+WB
+ºF
+Ent
+RH
+%
+Ent
+DP
+ºF
+Unit
+Air Vol
+CFM
+Air
+Face
+Vel
+FPM
+Amb
+DB
+ºF
+TCC
+kBTUh
+SCC
+kBTUh
+THR
+kBTUh
+Evap
+Temp
+ºF
+Cond
+Temp
+ºF
+Lvg
+DB
+ºF
+Lvg
+WB
+ºF
+Tot
+Comp
+Pwr
+kW
+Sys
+Power
+Input
+kW
+Sys
+SCOP
+W/W
+Sys
+NSCOP
+W/W
+Fan
+kW
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+95
+256.8
+221.3
+347.6
+45 120.5 55.1 52.1
+21.60
+30.86
+2.10
+2.10 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+96
+255.2
+220.6
+346.6
+45.1 121.4 55.2 52.2
+21.70
+31.02
+2.09
+2.09 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+97
+253.7
+219.9
+345.6
+45.2 122.3 55.3 52.3
+21.90
+31.18
+2.07
+2.07 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+98
+252.2
+219.2
+344.8
+45.3 123.1 55.3 52.3
+22.10
+31.34
+2.05
+2.05 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+99
+250.7
+218.4
+343.5
+45.4
+124 55.4 52.4
+22.20
+31.49
+2.03
+2.03 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+100
+249
+217.7
+342.8
+45.5 124.9 55.4 52.4
+22.40
+31.66
+2.02
+2.02 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+101
+247.5
+217.1
+342
+45.6 125.7 55.5 52.5
+22.60
+31.82
+2.00
+2.00 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+102
+245.9
+216.1
+340.6
+45.7 126.6 55.6 52.6
+22.70
+31.97
+1.98
+1.98 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+103
+244.3
+215.4
+339.6
+45.8 127.5 55.7 52.6
+22.90
+32.13
+1.97
+1.97 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+104
+242.8
+214.7
+338.8
+45.9 128.4 55.7 52.7
+23.00
+32.30
+1.95
+1.95 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+105
+241.3
+213.9
+337.5
+46 129.2 55.8 52.7
+23.20
+32.45
+1.93
+1.93 5.77
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

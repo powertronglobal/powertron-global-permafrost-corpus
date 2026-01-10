@@ -1,0 +1,51 @@
+ 
+ 
+Page 3 of 38 
+ 
+Conclusion and Possible Uses 
+ 
+In conclusion, this method shows promise but needs more labeled data to fully evaluate. If 
+PowerTron were able to provide a labeled data set with clear indicators of instances where an 
+anomaly they were interested in tracking occurred, this algorithm could be used to investigate 
+anomalies non-labeled datasets from other months of operation.  
+ 
+Furthermore, when used in combination with other statistical models, it may be possible to create a 
+deeper understanding of ‘warning signs’ that typify pre-breakdown behavior in a device. With this 
+understanding, a labeled dataset could be created that trains the algorithm to detect pre-breakdown 
+behavior and flag this occurrence in an active manner. 
+ 
+Additionally, impacts of decisions made by building engineers and managements could be tracked. 
+The training dataset would need labels for variable measurements known to be an outcome of a 
+user behavior i.e. When building management decides to do x action, the COP/EER/etc do y. The 
+algorithm would then identify and track these incidents over time. 
+ 
+Obvious limitations to this method come rooted in the fact that it is a supervised learning algorithm 
+requiring a training set of labeled data to produce results, thus requiring knowledge of what 
+characterizes an anomaly prior to running the algorithm. Further findings and uses could possibly be 
+generated via additional labeled data or data annotations describing decisions made by building 
+engineers, mechanical issues, and more. 
+ 
+Detecting outliers – An Analysis of Variability:   
+ 
+Median Absolute Deviation from the Median (MAD) Method Description 
+ 
+The Median Absolute Deviation from the Median (MAD) is a measure of variability. This idea of MAD 
+was introduced in a talk by the head data scientist at Datadog.2 The method is more simply 
+implemented than the interquartile range and is less impacted by outliers by using the median. While 
+the values in any data set are expected to vary, if they change ‘too much’ it should trigger further 
+investigation within an analysis. Defining ‘too much change’ within a dataset is commonly called 
+"thresholding."  Thresholds are often set manually, but the team wanted to investigate if these 
+thresholds could be automatically applied. If a machine could automatically and actively apply 
+thresholds to a dataset characterizing machine behavior, the use cases would be extensive. 
+ 
+The milestone 1 report for this project discussed using the interquartile range (IQR) to identify 
+outliers.  Presented below is a similar method using a different statistic: the median absolute 
+deviation from the median. 
+ 
+MAD is calculated as follows: 
+ 
+Find the median of the dataset 
+D = { 1, 2, 3, 4, 5, 6, 100} 
+ 
+2 Detecting outliers and anomalies in real-time at Datadog, Homin Lee. Presented at OSCON, Austin 
+Texas, May 16-19,  2016. https://www.youtube.com/watch?v=mG4ZpEhRKHA 

@@ -1,0 +1,46 @@
+ 
+M&V Plan Contents       37 
+ 
+energy data to reflect the energy-management program’s expected improvement 
+from baseline conditions.  
+- Size, type, and insulation of any relevant building envelope elements such as walls, 
+roofs, doors, windows. 
+- Equipment inventory: nameplate data, location, condition. Photographs or 
+videotapes are effective ways to record equipment condition.  
+- Equipment operating practices (schedules and setpoints, actual temperatures and 
+pressures) 
+- Significant equipment problems or outages during the baseline period.   
+The baseline documentation typically requires well-documented audits, surveys, inspections 
+and/or short-term metering activities. The extent of this information is determined by the 
+measurement boundary chosen or the scope of the savings determination. 
+Where whole-facility M&V methods are employed (Chapter 4.9 or 4.10), all facility 
+equipment and conditions should be documented.  
+4. Reporting Period  Identify the reporting period. This period may be as short as an 
+instantaneous measurement during commissioning of an ECM, or as long as the time 
+required to recover the investment cost of the ECM program (See Chapter 4.5.2).  
+5. Basis for Adjustment   Declare the set of conditions to which all energy measurements will 
+be adjusted. The conditions may be those of the reporting period or some other set of fixed 
+conditions. As discussed in Chapter 4.6, this choice determines whether savings are 
+reported as avoided energy (4.6.1) or as normalized savings (4.6.2).  
+6. Analysis Procedure   Specify the exact data analysis procedures, algorithms and 
+assumptions to be used in each savings report. For each mathematical model used, report 
+all of its terms and the range of independent variables over which it is valid.  
+7. Energy Prices   Specify the energy prices that will be used to value the savings, and 
+whether and how savings will be adjusted if prices change in future (See Chapter 8.1). 
+8. Meter Specifications  Specify the metering points, and period(s) if metering is not 
+continuous. For non-utility meters, specify: meter characteristics, meter reading and 
+witnessing protocol, meter commissioning procedure, routine calibration process, and 
+method of dealing with lost data (see Chapter 8.11.1).  
+9. Monitoring Responsibilities   Assign responsibilities for reporting and recording the energy 
+data, independent variables and static factors within the measurement boundary during the 
+reporting period. 
+10. Expected Accuracy   Evaluate the expected accuracy associated with the measurement, 
+data capture, sampling and data analysis. This assessment should include qualitative and 
+any feasible quantitative measures of the level of uncertainty in the measurements and 
+adjustments to be used in the planned savings report (See Chapter 8.3 and Appendix B). 
+11. Budget   Define the budget and the resources required for the savings determination, both 
+initial setup costs and ongoing costs throughout the reporting period.  
+12. Report Format   Specify how results will be reported and documented (see Chapter 6). A 
+sample of each report should be included.  
+13. Quality Assurance   Specify quality-assurance procedures that will be used for savings 
+reports and any interim steps in preparing the reports.  

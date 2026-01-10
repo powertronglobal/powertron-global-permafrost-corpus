@@ -1,0 +1,704 @@
+# Telecom_Provider_B.pdf
+
+Energy Science Division
+
+®
+
+African Telecom Provider B
+
+Participants
+
+Study Date:
+
+1 May – 24 July 2014
+
+Participants:
+
+African Telecom Provider B
+
+[Facilities Manager],
+
+Facilities Manager
+
+Greenwave Automation
+
+[Director],
+
+Director
+
+Powertron Global
+
+[Senior Energy Engineer],
+
+Director of Engineering
+
+Location:
+
+[Northeast Location] Estate, [Facility Address]
+
+Johannesburg, South Africa
+
+Comprehensive HVAC/R Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+HVAC/R Eﬃciency Report
+
+Purpose of Energy Eﬃciency Study
+
+Thermal degradation is well documented by the American Society of Heating, Refrigeration and Air
+
+Conditioning Engineers (ASHRAE) and the original equipment manufacturers (OEM’s). It is a major cause of
+
+capacity loss in Heating, Ventilation, Air Conditioning and Refrigeration (HVACR) systems, preventing them
+
+from operating at the original design efficiency soon after initial installation in the field.
+
+The purpose of this study is to verify the effectiveness of the PermaFrost NMR® Energy Conservation Measure
+
+(ECM) in a water-cooled DX Chiller unit (pictured below) at the African Telecom Provider B switching center location and
+
+document the future avoided energy costs associated with the same.
+
+1
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+2
+
+Process
+
+This comprehensive report contains specific information regarding the performance profile of a single
+
+water-cooled DX chiller (DXC) that supports the African Telecom Provider B facility. The detailed performance testing
+
+(outlined later in this report) was performed on the DXC before (baseline) and after (post) the installation of
+
+PermaFrost NMR®.
+
+This testing determined the impact on three key elements relating to the original design specifications that
+
+greatly affect the HVAC portion of the African Telecom Provider B power bill. They include:
+
+1. The cooling capacity the DXC is capable of producing after just six (6) years in service.
+
+2. The actual cost of power required to produce the amount of cooling  the DXC is delivering as
+
+reflected in the kWEnergy / kWRefrigeration measurement.
+
+3. The thermal dynamic ability of the equipment to still perform at or close to operational design.
+
+Methodology
+
+The measurements used in the efficiency calculations were collected and compiled in accordance with the
+
+IPMVP (International Measurement and Verification Protocol) framework.
+
+[Facilities Manager] of African Telecom Provider B and [Director] of Greenwave Automation witnessed and verified the
+
+recording of all of the pilot measurements while being observed by Powertron Global’s Director of
+
+Engineering, [Senior Energy Engineer].
+
+The baseline day chosen to test the DXC’s was an average day temperature and humidity-wise for the
+
+Johannesburg area in the winter which ensured repeatability of similar weather for the post testing
+
+measurements. The weather and facility conditions on both days provided an adequate heat load on the
+
+facility to ensure the compressor in the system would remain fully loaded and running during the actual data
+
+collection period. The boundary of the testing was the DXC and nothing else; therefore confidence in the
+
+accuracy of the performance calculations is very high.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+3
+
+Energy Conservation Method (ECM)
+
+The content detailed in this report will demonstrate the ability of the pilot DXC to perform prior to the ECM
+
+being installed, as well as illustrate the amount of thermal degradation
+
+within the heat exchangers.
+
+Following a diagnostic examination of the pilot equipment to determine the operational condition of the
+
+system was satisfactory, Baseline Measurement and Verification (M&V) data was collected and recorded by
+
+the M&V team. Approximately two (2) months after installation of PermaFrost NMR®, the M&V team
+
+returned on a very similar weather day to the Baseline to take Post M&V measurements in the identical
+
+fashion as in the Baseline. The delta of these measurements and associated calculations show the amount of
+
+capacity restored.
+
+The following report produces the utilization of the IPMVP as the M&V plan.
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+• kWE = Volts * Amps * Power Factor *  √3 / 1000 (for 3-Phase)
+
+• kWR = (Airflow * 1 * Enthalpy Delta) * 4.185
+
+• kWE /kWR = Actual Cooling Capacity
+
+• Coefficient of Performance (COP) = 1 / Actual Cooling Capacity
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+4
+
+HVAC/R Eﬃciency Study Results
+
+Calculated Eﬃciency of African Telecom Provider B DXC Baseline and Post
+
+The measurements taken show just how far off design the African Telecom Provider B pilot DXC had already degraded in
+
+terms of efficiency over six (6) years of use. This same pilot DXC was determined to be performing at an
+
+average of 70% of the original design efficiency in the baseline. The actual design rated tonnage of the DXC is
+
+67 kWR. In actuality, the DXC was only producing a total of 46.77 kWR of cooling at the start of the pilot. The
+
+majority of this 30% efficiency loss is directly attributable to the thermal degradation of the heat exchange
+
+surfaces over a short period of time. This is due in large part to thermal degradation which creates an insulating barrier
+
+to heat transfer on the tube walls (inside the tube on a direct expansion chiller and outside the tube on a
+
+flooded evaporator chiller).
+
+After the ECM was installed, the average efficiency in the DXC increased to 93.85% of design specifications,
+
+equating to 59.08 kWR. The restoration of 12.31 kWR  represents a 26.3% increase in capacity.
+
+Cost to African Telecom Provider B to Operate the DXC Baseline vs Post
+
+The degraded capacity described above prior to PermaFrost NMR® being implemented was costing African Telecom Provider B
+
+Telecom a similar amount in the way of wasted energy each hour the DXC was operating. The average cost to
+
+operate the pilot DXC as calculated in kWE/kWR was 0.43 in the Baseline. When new, the kWE/kWR rating for
+
+units like these usually ranges from 0.32 – 0.35 kW/kWR when the proper sized ducting is used.
+
+The restored average kW/kWR rating following the ECM is now 0.32. This represents a 25.6% reduction in
+
+energy costs from the baseline for every ton of cooling produced. This will result in an initial payback period
+
+(IPP) to African Telecom Provider B of 1.22 years and an internal rate of Return (IRR) of 82.3%. Extrapolated out over just the
+
+next five (5) years, this ECM project will net African Telecom Provider B a substantial ROI of 411% on their investment. These
+
+accumulated savings will greatly reduce the eventual CapEx costs to replace the DXC’s when they finally reach
+
+the end of their useful life.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+5
+
+46.77 kWR
+
+59.08 kWR
+
+Baseline
+kWR
+
+Post ECM
+kWR
+
+• The DXC should be operating @ 67 kWR of cooling capacity
+
+• The DXC was operating @ 46.77 kWR of cooling capacity prior to
+
+installing ECM
+
+• The DXC now has 12.31 kWR of restored cooling capacity after ECM
+
+• The DXC should be operating @ 3.2 COP or higher
+
+• The DXC was operating @ 2.3 COP prior to the ECM
+
+and 3.08 following the ECM
+
+• The COP of the DXC was increased by 33.9% following
+
+the ECM
+
+2.3
+Baseline COP
+
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+46.77
+
+Baseline
+
+100%
+CAPACITY @
+100% LOAD
+
+Baseline
+COP
+
+Post ECM
+COP
+
+2.3
+
+3.08
+
+3.08
+Post ECM COP
+59.08
+kWR Post ECM
+
+33.9%
+
+Improvement
+in COP
+12.31
+
+kWR of
+Recovered
+ Capacity
+
+kWR
+COP
+
+African Telecom Provider B DC Eﬃciency with PermaFrost NMR® ECM
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+6
+
+Recovered Wasted Energy with PermaFrost NMR®
+
+The chart to the right illustrates the performance
+
+restoration PermaFrost NMR® created in the
+
+treated DXC. The average cost to operate this DXC
+
+before it was treated with PermaFrost NMR®, as
+
+calculated in kWE/kWR, was 0.43.
+
+The specific cost to operate this DXC after it was
+
+treated with PermaFrost NMR®, as calculated in
+
+kWE/kWR, is currently 0.32.
+
+The baseline kWE/kWR ratings measured in-situ were higher than average but still within the expected
+
+range when compared to the ASHRAE loss of performance efficiency and cost to operate estimations for six
+
+(6) year old equipment with this amount of annual operating hours. The post results are also in line with
+
+the average improvement savings shown over more than 125,000 installations globally.
+
+Recovered
+Energy
+
+Cost to Operate
+
+Baseline Post ECM
+
+kWE / kWR
+
+0.11 kWE / kWR
+
+0.43
+
+0.32
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Return On Investment
+
+The following are the final calculated average performance measurements following the PermaFrost NMR®
+
+Post measurement period for he African Telecom Provider B DXC.
+
+Baseline Energy Consumption
+
+Adjusted Baseline Capacity: 59.08 kWR
+Adjusted kW Baseline: 0.43 kWE/kWR * 59.08 kWR = 25.4 kW
+
+Adjusted Baseline kWh: 25.4 kW * 4,380 Annual Operating Hrs = 111,252 kWh
+
+Revised Cost to Run Baseline: 111,252 kWh * R1.10 = R122,377
+
+Post Energy Consumption
+
+kW Post: 0.32 kWE/kWR * 59.08 kWR = 18.91 kW
+
+Annual kWh Post: 18.91 kW * 4,380 hours = 82,826 kWh
+
+Annual Cost Post: 82,826 kWh * R1.10 = R91,109
+
+Savings Per Year
+
+Avoided Energy Cost (savings) Per Year: R122,377 – R91,109 = R31,268
+
+Estimated Energy Savings Per Month: R31,268 / 12 = R2,606
+
+Initial Payback Period
+
+Cost of PermaFrost NMR® installed in the pilot DXC: R38,000
+
+Estimated Initial Payback Period on the DXC: R38,000 / R2,606 = 14.58 months
+
+Total kWh saved by treating this DXC = 28,426 kWh
+
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period
+
+for African Telecom Provider B implementing PermaFrost NMR®, a detailed Regression Analysis is used to calculate the true
+
+energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended
+
+in the Avoided Energy Reporting (Post) Analysis Period. ROI comes from determining what the cost to run the
+
+systems was when operating at the original energy profile to produce the newly restored amount of available tonnage
+
+capacity and then subtracting the revised cost to run the systems at the same restored tonnage after the
+
+PermaFrostNMR® was installed. This regression analysis is the most widely accepted method of accounting for the
+
+reduced number of hours the systems will now operate due to the restored capacity. This restored capacity allows the
+
+systems to reach the internal building set points with increased efficiency resulting in reduced compressor demand
+
+loading.
+
+7
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+0.43
+
+POST
+
+BASELINE
+
+0.32
+
+Daikin
+
+EUWAN24KAZW1
+
+[Serial Number]
+
+R407C
+
+67
+
+4,380
+
+2008
+
+Make
+
+Model
+
+Serial Number
+
+Refrigerant Type
+
+Nominal Cooling
+Capacity in kWR
+
+Average Annual
+Runtime Hours
+
+Age
+
+kWE/kWR
+
+REDUCTION
+25.6%
+
+REDUCTION
+REDUCTION
+
+POST
+
+BASELINE
+
+Calculated Annual kWh
+
+25.6%
+
+49%
+
+POST
+
+BASELINE
+
+Refrigerant Approach
+
+REDUCTION
+
+POST
+
+BASELINE
+34.5
+
+Calculated Amps
+
+4.35%
+
+3.06
+
+111,252
+
+82,826
+
+1.56
+
+Key Results for PU Unit with PermaFrost NMR® ECM
+
+System Description
+
+394.30
+
+33.05
+
+4.64
+
+66.11
+
+6.22
+
+13.33
+
+7.11
+
+1.58
+
+18.91
+
+0.32
+
+59.08
+
+54.00
+
+82,826.00
+
+100.00
+
+3.08
+
+22.22
+
+0.08
+
+Energy Usage
+BASELINE
+POST
+
+Voltage
+
+Amperage
+
+Saturated Suction Temperature
+
+Discharge Refrigerant Temperature
+
+Chilled Water Leaving Temp (Supply)
+
+Chilled Water Entering Temp (Return)
+
+Chilled Water Delta T
+
+Refrigeration Approach
+
+kWEnergy (after regression analysis)
+
+kWE / kWR (prior to regression analysis)
+
+Actual Measured Operating kWRefrigeration
+
+Chiller Flow Rate (LPS)
+
+Annual kWh (after regression analysis)
+
+Chiller Load % During Testing
+
+Coeﬃcient of Performance (COP)
+
+OAT
+
+Adjustment for cooler OAT Post Temps
+
+400.30
+
+34.53
+
+4.89
+
+71.67
+
+7.94
+
+13.56
+
+5.62
+
+3.05
+
+25.40
+
+0.43
+
+46.77
+
+54.00
+
+111,252.00
+
+100.00
+
+2.30
+
+25.56
+
+8
+
+Notes
+
+This Pilot DXC provides cooling for the African Telecom Provider B
+
+Telecom switching center on campus. It is
+
+estimated the DXC runs approximately 4,380
+
+hours annually prior to the PermaFrost NMR®
+
+ECM being installed.
+Chiller Load in both the Baseline and Post was 100%. OAT was 3.34ºC cooler in the 
+Post so the measured 31.3 amps were adjusted upward to account for that.
+
+33.0
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+4.1
+
+Passenger vehicles
+
+1.0
+
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+
+8,351
+
+Liters of gasoline
+consumed
+
+9,550
+
+Kilograms of coal burned
+annually
+
+45.6
+
+Barrels of oil
+consumed
+
+2.7
+
+Homes’ electricity use for
+one year
+
+9
+
+The African Telecom Provider B is Saving More than just Energy
+
+By treating the DXC with PermaFrost NMR® and based on the current manner in which they currently
+
+operate the unit, African Telecom Provider B will save approximately 28,426 kWh per year and all the costs associated with
+
+those savings. From an environmental impact standpoint, African Telecom Provider B is also benefitting the surrounding
+
+community. Imagine how great the environmental impact will be when African Telecom Provider B moves forward with treating
+
+all their HVAC equipment across South Africa.
+
+The 28,426 kWh saved per year equates to preventing 19.6 metric tons of greenhouse gas emissions from
+
+being released or any of the following:
+
+Annual greenhouse emissions from:
+
+CO2 emissions from:
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,45 @@
+®
+This is a report provided to Beverage Company B Factory and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2014 Powertron Global LLC.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement.
+This document is not to be distributed to any third party and is not to be in the pubic domain without our written approval.
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+6
+Recovered Wasted Energy with PermaFrost NMR®
+The chart to the right illustrates the performance
+restoration PermaFrost NMR® created in the treated 
+PU. The average cost to operate this PU before 
+it was treated with PermaFrost NMR®, as 
+calculated in kWE/kWR, was 0.64.
+The specific cost to operate this PU after it was 
+treated with PermaFrost NMR®, as calculated 
+in kkWE/kWR, is currently 0.51.
+After factoring in the amount of loss in this system due to improperly sized ducting, the baseline 
+kWE/kWR ratings measured in-situ were expected when compared to the ASHRAE loss of performance 
+efficiency and cost to operate estimations for seven (7) year old equipment. The post results are also in line 
+with the average improvement savings shown over more than 125,000 installations globally.   
+Cost Savings for Tea Factory when Implementing ECM in all 13 HVAC PU’s
+The Beverage Company B Factory packaging area has a total 661.17 kWR of HVAC. The amount of ECM required to 
+treat this facility was 188 units. At a cost to treat all 13 PU’s of R394,800, the Internal Rate of Return to 
+Beverage Company is 54.3% or a 22 month Initial Payback Period. 
+Recovered
+Energy
+Cost to Operate
+Baseline Post ECM
+kWE / kWR
+0.13 kWE / kWR
+0.64
+0.51
+Adj. Annual kWh Savings for All Tea Factory HVAC Units
+Adj. Annual Cost Savings for All Tea Factory HVAC Units
+268,905 
+R301,278 
+Annual Savings Value
+Total Eﬀects of ECM on Packaging Area

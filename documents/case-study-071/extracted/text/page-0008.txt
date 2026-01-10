@@ -1,0 +1,37 @@
+Results
+The following are the final calculated performance measurements (detailed below the chart) after 
+performing the regression analysis. Regression analysis is used to calculate the true energy savings resulting 
+from the improvement in capacity and reduction in kW brought about by PermaFrost NMR®. Determining 
+what the cost to run the chiller would have been when operating at the original energy consumption rates, 
+but using the new tonnage level achieved in the post derives the true ROI. The adjusted baseline costs are 
+then compared to the new costs to operate and to determine the true ROI available to Commercial Real Estate Developer Enterprises. 
+Energy Science Division
+Eﬃciency Improvements
+Total kW
+Operating Tons / Hour
+kW / Ton
+COP
+Evaporator Approach
+Amps @ 40% Load
+9.1%
+44.3%
+36.2%
+59%
+28.6%
+8.7%
+Energy Reporting Period
+64.9
+218
+0.30
+11.82
+0.50
+95
+Baseline
+71.4
+151
+0.47
+7.43
+0.70
+104.1
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

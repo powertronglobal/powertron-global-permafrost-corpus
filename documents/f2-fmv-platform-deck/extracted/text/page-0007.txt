@@ -1,0 +1,28 @@
+SENSOR SPECIFICATIONS:
+THERMISTOR SENSORS
+Accuracy
+Operating Temperature
+Mounting
+CURRENT SWITCHES
+Amperage Range
+REFRIGERANT PRESSURE SENSORS
+Accuracy
+Range
+Fittings
+Electrical Output
+DIFFERENTIAL PRESSURE SENSOR
+Accuracy
+Pressure Limits
+ ±0.22°C @ 25°C (±0.4°F @ 77°F)
+ -40 to 250 deg F
+Surface
+0 - 200 A AC
+1.0%
+0-500 psig
+1/4" Female SAE Valve Depressor
+4-20 mA
+ +/- 0.5% FS (includes linearity, hysteresis & repeatability)
+0-500 psid
+info@powertronglobal.com
+www.powertronglobal.com 
+CONTACT US 

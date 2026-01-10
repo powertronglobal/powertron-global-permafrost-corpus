@@ -1,0 +1,2767 @@
+# QSR Franchise A DX Report_7_18_17.pdf
+
+Measurement	
+  &	
+  Verification	
+  (M&V)	
+  Report
+
+PermaFrost	
+  NMR®	
+  Testing	
+  and	
+  Results
+
+Grupo	
+  QSR Franchise A/Global QSR’s	
+  Restaurant
+
+Guatemala	
+  City,	
+  Guatemala
+
+June	
+  15,	
+  2017
+
+Project	
+  
+To	
+  determine	
+  the	
+  PermaFrost	
+  NMR®	
+  impact	
+  and	
+  effect	
+  on	
+  Grupo	
+  
+QSR Franchise A’s	
+  Heating,	
+  Ventilation,	
+  Air	
+  Conditioning	
+  and	
+  Refrigeration	
+  
+(HVAC/R)	
+  equipment.	
+  Two	
+  pilot	
+  Roof	
+  Top	
+  Units	
+  (RTU)	
+  with	
+  the	
+  same	
+  
+make,	
+  model,	
+  and	
+  age	
+  were	
+  selected	
+  to	
+  be	
+  treated,	
+  monitored	
+  and	
+  
+measured.
+
+Representatives	
+  	
+  
+Javier	
+  Olivero,	
+  Director	
+  de	
+  Desarrollo	
+  (Development),	
+  Grupo	
+  QSR Franchise A
+
+Edward	
+  [Senior Energy Engineer],	
+  Forensic	
+  Mechanical	
+  Engineer,	
+  Powertron	
+  
+Global®
+
+Process	
+  
+Testing	
+  2	
+  x	
+  14-­‐year-­‐old	
+  York	
+  10.5-­‐Ton	
+  package	
+  store	
+  units
+
+---
+
+EXECUTIVE	
+  SUMMARY
+
+Average	
+  efficiency	
+  improvements	
+  per	
+  system
+
+Unit	
+  #05-­‐3943	
+  (VIP6)	
+  
+kW/Ton	
+  
+Capacity-­‐
+
+Tons
+
+COP	
+  
+EER	
+  
+Enthalpy
+
+Baseline	
+  	
+  	
+  	
+  6-­‐13	
+  Feb	
+  2017	
+  
+2.54	
+  
+3.74	
+  
+1.55	
+  
+5.28	
+  
+4.04
+
+Post	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  7-­‐14	
+  Mar	
+  2017	
+  
+0.98	
+  
+8.35	
+  
+3.67	
+  
+12.52	
+  
+5.83	
+  
+Improvement	
+  %	
+  
+61.4%	
+  
+123.3%	
+  
+136.8%	
+  
+137.1%	
+  
+44.3%
+
+UNIT	
+  #05-­‐3942	
+  (VIP7)	
+  
+kW/Ton	
+  
+Capacity-­‐
+
+Tons
+
+COP	
+  
+EER	
+  
+Enthalpy
+
+Baseline	
+  	
+  	
+  	
+  6-­‐13	
+  Feb	
+  2017	
+  
+2.09	
+  
+3.76	
+  
+1.71	
+  
+5.85	
+  
+3.24	
+  
+Post	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  7-­‐14	
+  Mar	
+  2017	
+  
+0.88	
+  
+8.71	
+  
+4.10	
+  
+13.99	
+  
+7.54	
+  
+Improvement	
+  %	
+  
+57.9%	
+  
+131.6%	
+  
+139.8%	
+  
+139.1%	
+  
+132.7%
+
+1.	
+  	
+  	
+  	
+  	
+  	
+  Introduction
+
+Grupo	
+  QSR Franchise A	
+  tested	
+  from	
+  22	
+  February	
+  2017	
+  to	
+  13	
+  June	
+  2017	
+  at	
+  the	
+  Global QSR’s	
+  
+Utatlan	
+  Store	
+  in	
+  Guatemala	
+  City,	
+  Guatemala	
+  to	
+  verify	
+  Powertron	
+  Global’s	
+  
+PermaFrost	
+  NMR®	
+  energy	
+  efficiency	
+  improvement	
+  effect	
+  on	
+  2	
+  x	
+  10.5-­‐Ton	
+  package	
+  
+DX	
+  units	
+  refrigeration	
+  circuits.
+
+• 
+Unit	
+  #05-­‐3943	
+  (VIP	
+  6)	
+  -­‐	
+  York	
+  DM120C00A2AAA3A,	
+  Serial	
+  #	
+  NDMM036540	
+  
+• 
+Unit	
+  #05-­‐3942	
+  (VIP	
+  7)	
+  -­‐	
+  York	
+  DM120C00A2AAA3A,	
+  Serial	
+  #	
+  NDMM036460	
+  
+• 
+Both	
+  units	
+  were	
+  Manufactured	
+  in	
+  2003	
+  
+• 
+Both	
+  units	
+  are	
+  equipped	
+  with	
+  R-­‐22	
+  Refrigerant
+
+The	
+  testing	
+  included	
+  monitoring	
+  both	
+  RTUs	
+  operation	
+  before	
+  and	
+  after	
+  (PRE	
+  and	
+  
+POST)	
+  PermaFrost	
+  NMR®	
+  treatment	
+  to	
+  verify	
+  the	
+  amount	
+  of	
+  cooling	
+  capacity	
+  (tons)	
+  
+restoration	
+  and	
+  the	
+  resultant	
+  kW/ton	
+  energy	
+  savings	
+  improvement.
+
+---
+
+The	
+  Measurement	
+  and	
+  Verification	
+  (M&V)	
+  protocol	
+  defined	
+  the	
+  boundary	
+  by	
+  
+isolating	
+  the	
+  entry	
+  and	
+  departure	
+  points	
+  of	
+  the	
+  medium	
+  being	
+  cooled	
+  to	
+  determine	
+  
+cooling	
+  performance	
+  and	
+  comparing	
+  that	
+  with	
+  the	
+  power	
+  being	
+  used	
+  to	
+  quantify	
+  
+the	
+  power	
+  costs	
+  per	
+  unit	
+  of	
+  cooling,	
+  kW/Ton	
+  (kilowatt-­‐per-­‐ton),	
+  EER	
+  (Energy	
+  
+Efficiency	
+  Ratio)	
+  and	
+  COP	
+  (Co-­‐Efficient	
+  of	
+  Performance).
+
+2.	
+  	
+  	
+  	
+  	
+  General	
+  Findings
+
+The	
+  return	
+  air	
+  velocity	
+  was	
+  very	
+  deficient	
+  as	
+  a	
+  result	
+  of	
+  the	
+  absence	
+  of	
+  outdoor	
+  air	
+  
+entry	
+  economizers.	
+  They	
+  were	
+  provided	
+  when	
+  these	
+  units	
+  were	
+  manufactured	
+  
+however	
+  the	
+  economizer	
+  on	
+  unit	
+  05-­‐3943	
+  (VIP	
+  6)	
+  was	
+  completely	
+  removed	
+  and	
+  the	
+  
+economizer	
+  for	
+  unit	
+  05-­‐3942	
+  (VIP	
+  7)	
+  was	
+  not	
+  active.	
+  Due	
+  to	
+  the	
+  operation	
+  of	
+  the	
+  
+kitchen	
+  exhaust	
+  hoods	
+  this	
+  is	
+  the	
+  preferred	
+  method	
+  of	
+  supplying	
+  the	
+  restaurant	
+  
+with	
+  filtered	
+  and	
+  conditioned	
+  air	
+  volume.
+
+Per	
+  design,	
+  the	
+  setup	
+  included	
+  outdoor	
+  air	
+  entry	
+  hoods	
+  with	
+  opposing	
+  blade	
+  
+dampers.	
+  Unit	
+  05-­‐3942	
+  (VIP	
+  7)	
+  had	
+  an	
+  outdoor	
+  air	
+  entry	
+  hood,	
+  however,	
+  the	
+  
+damper	
+  was	
+  closed	
+  with	
+  a	
+  non-­‐functional	
+  fastener.	
+  Unit	
+  05-­‐3943	
+  (VIP	
+  6)	
+  air	
+  entry	
+  
+hood	
+  was	
+  removed.	
+  The	
+  data	
+  measured	
+  was	
+  insufficient	
+  to	
+  determine	
+  the	
+  units’	
+  pre	
+  
+or	
+  base	
+  cooling	
+  capacity.	
+  With	
+  this	
+  absence	
+  of	
+  outdoor	
+  entry	
+  air,	
+  the	
+  restaurant	
+  air	
+  
+pressure	
+  condition	
+  was	
+  negative,	
+  which	
+  contributes	
+  to	
+  the	
+  compromised	
+  indoor	
+  air	
+  
+quality	
+  as	
+  well	
+  as	
+  creating	
+  additional	
+  building	
+  load	
+  for	
+  the	
+  RTUs.
+
+Grupo	
+  QSR Franchise A	
+  technicians	
+  subsequently	
+  repaired	
+  unit	
+  05-­‐3942	
+  (VIP	
+  7)	
+  damper	
+  and	
+  
+installed	
+  a	
+  new	
+  hood	
+  and	
+  damper	
+  for	
+  unit	
+  05-­‐3943(VIP	
+  6).	
+  However,	
+  total	
+  air	
+  
+velocity	
+  could	
+  not	
+  reach	
+  full	
+  potential.	
+  Further	
+  diagnoses	
+  revealed	
+  that	
+  the	
+  arriving	
+  
+air	
+  was	
+  being	
+  hindered	
+  due	
+  to	
+  the	
+  supply	
+  air	
+  fan	
+  discharge	
+  not	
+  being	
+  aligned	
+  with	
+  
+the	
+  down	
+  ductwork.	
+  It	
+  had	
+  not	
+  been	
+  changed	
+  from	
+  the	
+  previously	
+  installed	
+  RTU	
+  
+brand,	
+  meaning	
+  that	
+  new	
+  curb	
+  adapters	
+  were	
+  required.	
+  It	
+  was	
+  decided	
+  to	
+  replace	
+  
+them	
+  once	
+  current	
+  testing	
+  was	
+  complete.
+
+3.	
+  	
+  	
+  	
+  	
+  Method	
+  of	
+  Procedure	
+  for	
+  testing:
+
+The	
+  cooling	
+  production	
+  of	
+  HVAC/R	
+  systems	
+  are	
+  realized	
+  by	
+  measuring	
+  the	
+  total	
+  
+(kW)	
+  energy	
+  consumed	
+  and	
+  the	
+  total	
+  BTU	
+  (British	
+  Thermal	
+  Unit)	
+  production	
+  
+(Tons)	
+  to	
+  obtain	
+  kW	
+  per	
+  ton,	
+  EER	
+  (energy	
+  efficient	
+  ratio)	
+  and	
+  COP	
+  (coefficient	
+  of	
+  
+performance)	
+  to	
+  calculate	
+  the	
+  total	
+  BTUH	
+  (BTU/Hour)	
+  cooling	
+  production.	
+  Power	
+  
+(kW)	
+  is	
+  derived	
+  by	
+  measuring	
+  voltages,	
+  amperages	
+  and	
+  power	
+  factor.	
+  Cooling	
+  
+capacity	
+  is	
+  derived	
+  by	
+  measuring	
+  temperatures,	
+  pressures	
+  and	
+  air	
+  velocity	
+  or	
+  flows.
+
+Grupo	
+  QSR Franchise A’s	
+  RTUs	
+  were	
+  fitted	
+  with	
+  an	
+  Internet	
+  of	
+  Things	
+  (IoT)	
+  based	
+  M&V	
+  
+platform	
+  to	
+  measure	
+  and	
+  compare	
+  thirty-­‐five	
+  (35)	
+  key	
+  required	
+  data	
+  points	
+  (see	
+  
+appendix)	
+  sampled	
+  every	
+  thirty	
+  (30)	
+  milliseconds	
+  for	
+  a	
+  pre	
+  or	
+  baseline	
+  period	
+  of	
+  
+performance	
+  from	
+  6-­‐13	
+  February	
+  2017	
+  and	
+  a	
+  post	
+  period	
+  from	
+  7-­‐14	
+  March	
+  2017.
+
+---
+
+All	
+  measurement	
+  hardware	
+  sensors	
+  used	
+  were	
+  certified	
+  under	
+  NIST	
+  or	
+  CE	
+  
+standards.
+
+The	
+  resultant	
+  data	
+  was	
+  extracted	
+  every	
+  five	
+  (5)	
+  seconds	
+  from	
+  the	
+  specific	
+  
+parameters	
+  measured	
+  during	
+  normal	
+  operating	
+  hours	
+  from	
+  8:00am	
+  to	
+  11:00pm.	
+  	
+  It	
+  
+was	
+  then	
+  applied	
+  to	
+  industry	
+  best	
+  practice	
+  engineering	
+  formulae	
+  developed	
+  by	
+  
+AHRI	
+  /	
+  ASHRAE	
+  (American	
+  Heating	
+  and	
+  Refrigeration	
+  Institute	
+  /	
+  American	
+  Society	
+  
+of	
+  Heating	
+  Refrigeration	
+  &	
+  Air	
+  Conditioning	
+  Engineers)	
+  for	
+  comparison:
+
+Kilo-­‐watt	
+  (kW)	
+  =	
+  Volts	
+  (V)	
+  x	
+  Amps	
+  (A)	
+  x	
+  Power	
+  Factor	
+  (PF)	
+  x	
+  √3	
+  /	
+  1000
+
+British	
+  Thermal	
+  Units	
+  (BTU)	
+  =	
+  CFM	
+  x	
+  4.5	
+  x	
+  Enthalpy	
+  Delta
+
+Capacity	
+  /	
+  Tons	
+  =	
+  BTU	
+  /	
+  12,000
+
+Kilo-­‐watt	
+  per	
+  Ton	
+  (kW/Ton)	
+  =	
+  kW	
+  Energy	
+  /	
+  Tons	
+  (capacity)
+
+Co-­‐Efficient	
+  of	
+  Performance	
+  (COP)	
+  =	
+  12/kW	
+  per	
+  ton/	
+  3.412
+
+Energy	
+  Efficiency	
+  Ratio	
+  (EER)	
+  =	
+  BTU	
+  /	
+  Watts
+
+During	
+  regular	
+  business	
+  hours,	
+  outdoor	
+  air	
+  temperature	
+  entering	
+  the	
+  air-­‐cooled	
+  
+condenser	
+  coils	
+  of	
+  both	
+  RTUs	
+  varies	
+  significantly.	
+  Accordingly,	
+  pre	
+  or	
+  baseline	
+  and	
+  
+post	
+  analysis	
+  and	
+  comparison	
+  of	
+  improved	
+  capacity	
+  is	
+  across	
+  a	
+  twenty	
+  (20)	
+  degree	
+  
+temperature	
+  span	
+  (65ºF-­‐85ºF)	
+  for	
+  kW	
+  per	
+  Ton,	
+  COP	
+  and	
+  EER.	
+  
+	
+  
+Please	
+  see	
+  the	
+  diagram	
+  below	
+  outlining	
+  the	
+  sensor	
+  placement	
+  and	
+  a	
+  general	
+  layout	
+  
+of	
+  the	
+  measurement	
+  &	
+  verification	
+  kits	
+  used	
+  on	
+  each	
+  RTU	
+  to	
+  determine	
+  capacity:
+
+C
+
+E
+E
+
+E
+E
+
+T
+
+outdoor air
+temperature
+
+sensor
+
+compressor on/off
+
+detection section
+
+CFM sensor
+
+evaporator outlet
+
+enthalpy sensor
+
+evaporator inlet
+enthalpy sensor
+
+evaporator inlet
+enthalpy sensor
+
+T
+outdoor air
+temperature
+
+sensor
+
+---
+
+To	
+  Determine	
+  Capacity:	
+  
+	
+  
+The	
+  evaporator	
+  entering	
+  air	
+  volume	
+  and	
+  the	
+  return	
+  enthalpy	
+  are	
+  measured	
+  by	
+  the	
+  
+CFM	
+  and	
+  inlet	
+  enthalpy	
+  sensors.	
+  The	
+  evaporator	
+  leaving	
+  air	
+  enthalpy	
+  is	
+  measured	
+  
+by	
+  the	
+  outlet	
+  air	
+  enthalpy	
+  sensor.	
+  The	
+  inlet	
+  and	
+  outlet	
+  enthalpies	
+  are	
+  subtracted	
+  
+from	
+  each	
+  other	
+  resulting	
+  in	
+  a	
+  sum	
+  called	
+  the	
+  Enthalpy	
+  delta.	
+  This	
+  enthalpy	
+  delta	
+  (∆)	
+  
+is	
+  used	
+  in	
+  the	
+  shown	
+  formula	
+  below.	
+  Other	
+  components	
+  of	
+  this	
+  formula	
+  complete	
+  
+the	
+  equation.	
+  These	
+  include	
+  the	
+  volume	
+  of	
+  air	
+  passing	
+  through	
+  the	
+  evaporator	
+  (CFM	
+  
+or	
+  Cubic	
+  feet	
+  of	
+  air	
+  per	
+  minute)	
+  and	
+  an	
+  engineering	
+  standard	
+  ratio	
+  of	
+  4.5	
+  (Ratio	
+  of	
+  
+Standard	
+  Air)	
+  or	
+  constant.	
+  	
+  The	
+  result	
+  of	
+  this	
+  calculation	
+  yields	
+  the	
+  industry	
+  
+standard	
+  the	
+  British	
+  Thermal	
+  Unit	
+  (BTU),	
+  which	
+  is	
+  used	
+  to	
+  calculate	
+  the	
+  unit’s	
+  
+capacity	
+  in	
+  BTU.	
+  This	
+  BTU	
+  number	
+  is	
+  then	
+  divided	
+  by	
+  the	
+  constant	
+  12,000	
+  which	
+  is	
+  
+to	
+  convert	
+  to	
+  refrigeration	
+  tons	
+  because	
+  every	
+  12,000	
+  BTUs	
+  equals	
+  1	
+  Ton	
+  of	
+  HVAC	
+  
+capacity.	
+  The	
+  capacity	
+  formula	
+  is:	
+  
+	
+  
+	
+  
+CFM	
+  x	
+  4.5	
+  x	
+  Enthalpy	
+  ∆	
+  =	
+  BTUs	
+  /	
+  12,000	
+  =	
+  Tons	
+  (capacity)	
+  
+	
+  
+	
+  
+CFM	
+  –	
+  Cubic	
+  Feet	
+  per	
+  Minute	
+  of	
+  Air	
+  Flow	
+  or	
+  Air	
+  Volume	
+  
+4.5	
+  –	
+  Ratio	
+  of	
+  Standard	
+  Air	
+  (constant)	
+  
+Enthalpy	
+  ∆	
+  -­‐	
+  Enthalpy	
+  Delta	
+  of	
+  the	
+  Inlet	
+  –	
+  Outlet	
+  Enthalpy	
+  
+BTU	
+  –	
+  British	
+  Thermal	
+  Units	
+  	
+  
+12,000	
+  –	
+  every	
+  12,000	
+  BTUs	
+  equals	
+  1	
+  Ton	
+  (constant)	
+  
+	
+  
+Example	
+  
+	
+  
+4000	
+  (CFM)	
+  X	
+  4.5	
+  (Standard	
+  Air	
+  Ratio)	
+  X	
+  8	
+  (Enthalpy	
+  Delta)	
+  =	
+  144,000	
+  BTU,	
+  then	
+  
+divide	
+  by	
+  12,000	
+  =	
+  12	
+  tons
+
+To	
+  Determine	
+  Electrical	
+  Energy	
+  Consumption:	
+  
+	
+  
+Total	
+  electrical	
+  consumption	
+  is	
+  measured	
+  at	
+  the	
+  main	
+  source	
+  of	
+  electric	
+  service	
+  of	
+  
+each	
+  rooftop	
+  unit.	
+  This	
+  includes,	
+  voltage,	
+  amperage	
+  and	
+  power	
+  factor	
+  and	
+  a	
+  constant	
+  
+of	
+  the	
+  square	
+  root	
+  of	
+  3	
+  (√3).	
+  This	
+  is	
+  then	
+  divided	
+  by	
+  1000	
+  to	
+  obtain	
+  kilowatts.	
+  The	
+  
+electrical	
+  formula	
+  for	
+  kilowatt	
+  (kW)	
+  is:
+
+kW	
+  =	
+  V	
+  x	
+  A	
+  x	
+  PF	
+  x	
+  √3	
+  /	
+  1000	
+  
+	
+  
+V	
+  –	
+  Voltage	
+  
+A	
+  –	
+  Amperage	
+  
+PF	
+  –	
+  Power	
+  Factor	
+  
+√3	
+  –	
+  Square	
+  Root	
+  of	
+  3	
+  for	
+  3-­‐phase	
+  Input	
+  Power	
+  
+1000	
+  –	
+  constant
+
+---
+
+Example	
+  
+	
+  
+480	
+  (volts)	
+  X	
+  45	
+  (amps)	
+  X	
+  √3	
+  (phase	
+  angle	
+  for	
+  three	
+  phase	
+  power	
+  only)	
+  X	
+  0.90	
+  
+(power	
+  factor)	
+  /	
+  1000	
+  =	
+  33.67	
+  kilowatts	
+  	
+  
+	
+  
+	
+  
+	
+  
+To	
+  Determine	
+  Efficiency:	
+  
+	
+  
+Divide	
+  the	
+  measured	
+  kilowatts	
+  (kW)	
+  by	
+  the	
+  measured	
+  tons	
+  to	
+  obtain	
+  kW	
+  per	
+  ton.	
+  
+kW	
+  per	
+  ton	
+  is	
+  the	
+  industry	
+  standard	
+  to	
+  determine	
+  system	
+  efficiency.
+
+Example
+
+33.67	
+  kW	
+  /	
+  12	
+  tons	
+  =	
+  2.80	
+  kilowatts	
+  per	
+  ton
+
+4.	
+  	
+  	
+  	
+  Technical
+
+When	
+  PermaFrost	
+  NMR®	
+  is	
+  installed	
+  into	
+  a	
+  unit,	
+  a	
+  molecular	
+  transformation	
+  
+develops.	
+  This	
+  transformation	
+  displaces	
+  layers	
+  of	
+  lubricating	
+  fluids	
+  that	
+  have	
+  been	
+  
+impinged	
+  in	
+  the	
+  evaporator	
+  and	
+  condenser	
+  heat	
+  exchanger	
+  surfaces.	
+  When	
+  the	
+  fluid	
+  
+is	
+  displaced,	
+  the	
+  evaporator	
+  and	
+  condenser	
+  can	
+  transfer	
+  additional	
+  heat	
+  energy	
+  
+through	
+  the	
+  tube	
+  walls	
+  (thermal	
+  restoration).	
+  This	
+  enables	
+  the	
+  evaporator	
+  to	
+  
+completely	
+  dehumidify	
+  the	
+  air	
+  per	
+  the	
+  unit’s	
+  design	
+  specifications.	
+  	
+  When	
+  more	
+  
+dehumidification	
+  is	
+  developed,	
+  the	
+  enthalpy	
+  (a	
+  measure	
+  of	
+  how	
+  many	
+  grains	
+  of	
+  
+moisture	
+  are	
+  contained	
+  in	
+  a	
+  pound	
+  of	
+  air)	
+  increases.	
+  
+	
+  
+If	
+  the	
+  CFM	
+  and	
+  4.5	
+  remain	
+  constant,	
+  then	
+  it	
+  is	
+  the	
+  effect	
+  of	
+  PermaFrost	
+  NMR®’s	
+  
+Enthalpy	
+  Delta	
+  increase	
+  that	
+  restores	
+  (increases)	
+  the	
+  lost	
+  capacity	
+  (Tons).	
+  	
+  
+	
+  
+If	
+  the	
+  tonnage	
+  increases,	
+  then	
+  the	
+  kW/ton	
+  decreases	
+  by	
+  means	
+  of	
+  mathematical	
+  
+function,	
+  demonstrating	
+  PermaFrost	
+  NMR®’s	
+  post-­‐treatment	
+  effect	
+  lowering	
+  the	
+  
+electrical	
+  cost	
+  of	
+  every	
+  ton	
+  of	
+  cooling	
+  produced,	
+  no	
+  matter	
+  how	
+  many	
+  tons	
+  are	
+  called	
+  
+for	
+  at	
+  any	
+  given	
+  time.	
+  	
+  
+	
+  	
+  
+PermaFrost	
+  NMR®	
+  cannot	
+  change	
+  any	
+  unit’s	
+  electrical	
+  characteristics	
+  i.e.	
+  everything	
+  
+that	
+  requires	
+  electricity	
+  is	
+  rated	
+  for	
+  the	
+  required	
+  power	
+  under	
+  different	
+  loads	
+  e.g.	
+  
+compressors	
+  and	
+  fans.
+
+---
+
+5.	
+  	
+  	
+  	
+  	
+  Actions	
+  Required
+
+The	
+  two	
+  (2)	
+  Utatlan	
+  treated	
+  RTU’s	
+  do	
+  not	
+  have	
+  as	
+  full	
+  complement	
+  of	
+  air	
+  volume,	
+  
+correct	
+  pulley	
+  sizes	
+  and	
+  the	
+  air	
+  ducts	
+  are	
+  misaligned.	
+  These	
+  issues	
+  must	
+  be	
+  
+addressed.	
+  	
+  With	
+  the	
+  lower	
+  than	
+  design	
+  air	
+  volumes	
+  adequate	
+  enough	
+  for	
+  the	
+  
+PermaFrost	
+  NMR®	
+  test,	
+  all	
+  parties	
+  involved	
+  agreed	
+  to	
+  proceed	
+  with	
+  the	
+  
+aforementioned	
+  issues	
+  present.	
+  Grupo	
+  QSR Franchise A	
+  committed	
+  to	
+  address	
+  these	
+  post	
+  the	
+  
+PermaFrost	
+  NMR®	
+  pilot	
+  completion.	
+  Increased	
+  air	
+  volumes	
+  will	
+  correct	
+  the	
+  
+restaurants	
+  negative	
+  air	
+  state.
+
+6.	
+  	
+  	
+  	
+  Conclusion
+
+The	
+  Grupo	
+  QSR Franchise A	
+  testing	
+  results	
+  validate	
+  the	
+  performance	
+  of	
+  the	
+  Global QSR’s	
+  
+Utatlan	
+  2	
+  x	
+  RTUs	
+  is	
+  consistent	
+  with	
+  a	
+  previously	
+  tested	
+  UL	
+  (formerly	
+  Underwriters	
+  
+Laboratories)	
+  unit	
+  for	
+  Global QSR’s	
+  Corporation	
+  as	
+  well	
+  as	
+  +300	
+  case	
+  studies	
+  for	
+  
+review.	
+  	
+  The	
+  results	
+  of	
+  the	
+  testing	
+  demonstrate	
+  the	
+  efficacy	
+  of	
+  PermaFrost	
+  NMR®	
+  by	
+  
+restoring	
+  the	
+  evaporator	
+  and	
+  condenser	
+  heat	
+  transfer	
+  capabilities	
+  per	
+  
+manufacturer’s	
+  design,	
+  thereby	
+  increasing	
+  cooling	
+  capacity	
+  while	
+  lowering	
+  the	
+  
+electrical	
+  cost	
+  per	
+  ton	
+  of	
+  cooling.
+
+7.	
+  	
+  	
+  	
+  Appendix
+
+I. 
+Unit	
+  #05-­‐3943(VIP	
+  6)	
+  Performance	
+  Analysis	
+  Summary
+
+II. 
+Unit	
+  #05-­‐3942(VIP	
+  7)	
+  Performance	
+  Analysis	
+  Summary
+
+III. 
+35	
+  Points	
+  Measured
+
+• (all	
+  csv	
+  files	
+  will	
+  be	
+  supplied)
+
+---
+
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party
+
+without prior written approval. © Copyright 2017 Powertron Global, LLC.
+
+Appendix	
+  I
+
+---
+
+HVAC Performance Comparison: kW/Ton
+QSR Franchise A DX VIP 6 Unit 05-3943
+
+kW/Ton Comparison
+
+OSA Temp.
+Base kW/Ton
+Post kW/Ton
+65 degF
+0.0 kW/Ton
+1.06 kw/Ton
+66 degF
+0.0 kW/Ton
+0.95 kw/Ton
+67 degF
+3.06 kW/Ton
+1.22 kw/Ton
+68 degF
+3.13 kW/Ton
+0.97 kw/Ton
+69 degF
+2.89 kW/Ton
+0.91 kw/Ton
+70 degF
+3.05 kW/Ton
+0.82 kw/Ton
+71 degF
+3.52 kW/Ton
+0.85 kw/Ton
+72 degF
+3.31 kW/Ton
+0.81 kw/Ton
+73 degF
+1.51 kW/Ton
+0.95 kw/Ton
+74 degF
+1.26 kW/Ton
+0.81 kw/Ton
+75 degF
+1.9 kW/Ton
+0.81 kw/Ton
+76 degF
+1.89 kW/Ton
+0.81 kw/Ton
+77 degF
+2.09 kW/Ton
+0.98 kw/Ton
+78 degF
+1.9 kW/Ton
+0.92 kw/Ton
+79 degF
+2.19 kW/Ton
+1.05 kw/Ton
+80 degF
+2.08 kW/Ton
+1.12 kw/Ton
+81 degF
+2.06 kW/Ton
+1.08 kw/Ton
+82 degF
+2.2 kW/Ton
+1.24 kw/Ton
+83 degF
+1.84 kW/Ton
+1.22 kw/Ton
+84 degF
+3.05 kW/Ton
+0.0 kw/Ton
+85 degF
+5.16 kW/Ton
+0.0 kw/Ton
+-----
+2.53 kW/Ton
+0.98 kW/Ton
+Report Parameters
+
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+
+65 degF - 85 degF
+65.0 degF - 80.0 degF
+0.5 - 1.0
+5s
+18542 samples
+26314 samples
+
+---
+
+HVAC Performance Comparison: COP
+QSR Franchise A DX VIP 6 Unit 05-3943
+
+COP Comparison
+
+OSA Temp.
+Base COP
+Post COP
+65 degF
+0.0
+3.32
+66 degF
+0.0
+3.7
+67 degF
+1.15
+2.88
+68 degF
+1.12
+3.62
+69 degF
+1.22
+3.85
+70 degF
+1.15
+4.29
+71 degF
+1.0
+4.12
+72 degF
+1.06
+4.34
+73 degF
+2.34
+3.72
+74 degF
+2.78
+4.35
+75 degF
+1.85
+4.33
+76 degF
+1.86
+4.33
+77 degF
+1.69
+3.59
+78 degF
+1.85
+3.82
+79 degF
+1.6
+3.34
+80 degF
+1.69
+3.14
+81 degF
+1.7
+3.26
+82 degF
+1.6
+2.84
+83 degF
+1.91
+2.88
+84 degF
+1.15
+0.0
+85 degF
+0.68
+0.0
+-----
+1.55
+3.67
+Report Parameters
+
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+
+65 degF - 85 degF
+65.0 degF - 80.0 degF
+0.5 - 1.0
+5s
+18542 samples
+26314 samples
+
+---
+
+HVAC Performance Comparison: EER
+QSR Franchise A DX VIP 6 Unit 05-3943
+
+EER Comparison
+
+OSA Temp.
+Base EER
+Post EER
+65 degF
+0.0
+11.32
+66 degF
+0.0
+12.62
+67 degF
+3.93
+9.83
+68 degF
+3.84
+12.34
+69 degF
+4.16
+13.13
+70 degF
+3.94
+14.64
+71 degF
+3.41
+14.05
+72 degF
+3.63
+14.81
+73 degF
+7.97
+12.68
+74 degF
+9.5
+14.84
+75 degF
+6.3
+14.77
+76 degF
+6.34
+14.77
+77 degF
+5.75
+12.26
+78 degF
+6.32
+13.03
+79 degF
+5.47
+11.38
+80 degF
+5.77
+10.71
+81 degF
+5.81
+11.12
+82 degF
+5.46
+9.67
+83 degF
+6.52
+9.83
+84 degF
+3.94
+0.0
+85 degF
+2.32
+0.0
+-----
+5.28
+12.52
+
+Report Parameters
+
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+
+65 degF - 85 degF
+65.0 degF - 80.0 degF
+0.5 - 1.0
+5s
+18542 samples
+26314 samples
+
+---
+
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party
+
+without prior written approval. © Copyright 2017 Powertron Global, LLC.
+
+Appendix	
+  II
+
+---
+
+HVAC Performance Comparison: kW/Ton
+QSR Franchise A DX VIP 7 Unit 05-3942
+
+kW/Ton Comparison
+
+OSA Temp.
+Base kW/Ton
+Post kW/Ton
+65 degF
+2.02 kW/Ton
+0.71 kw/Ton
+66 degF
+2.28 kW/Ton
+0.7 kw/Ton
+67 degF
+3.24 kW/Ton
+0.84 kw/Ton
+68 degF
+2.45 kW/Ton
+0.71 kw/Ton
+69 degF
+1.97 kW/Ton
+0.82 kw/Ton
+70 degF
+1.83 kW/Ton
+0.82 kw/Ton
+71 degF
+1.82 kW/Ton
+0.83 kw/Ton
+72 degF
+1.75 kW/Ton
+0.83 kw/Ton
+73 degF
+1.9 kW/Ton
+0.75 kw/Ton
+74 degF
+2.2 kW/Ton
+0.9 kw/Ton
+75 degF
+2.02 kW/Ton
+0.82 kw/Ton
+76 degF
+1.91 kW/Ton
+0.77 kw/Ton
+77 degF
+2.08 kW/Ton
+0.79 kw/Ton
+78 degF
+2.03 kW/Ton
+0.92 kw/Ton
+79 degF
+1.83 kW/Ton
+0.88 kw/Ton
+80 degF
+2.07 kW/Ton
+1.03 kw/Ton
+81 degF
+2.13 kW/Ton
+1.0 kw/Ton
+82 degF
+1.97 kW/Ton
+1.06 kw/Ton
+83 degF
+1.96 kW/Ton
+1.28 kw/Ton
+84 degF
+2.46 kW/Ton
+1.13 kw/Ton
+85 degF
+1.93 kW/Ton
+0.0 kw/Ton
+-----
+2.09 kW/Ton
+0.88 kW/Ton
+
+Report Parameters
+
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+
+65 degF - 85 degF
+65.0 degF - 80.0 degF
+0.5 - 1.0
+5s
+46855 samples
+43834 samples
+
+---
+
+HVAC Performance Comparison: COP
+QSR Franchise A DX VIP 7 Unit 05-3942
+
+COP Comparison
+
+OSA Temp.
+Base COP
+Post COP
+65 degF
+1.74
+4.95
+66 degF
+1.54
+5.04
+67 degF
+1.09
+4.18
+68 degF
+1.44
+4.93
+69 degF
+1.78
+4.31
+70 degF
+1.92
+4.29
+71 degF
+1.94
+4.25
+72 degF
+2.01
+4.23
+73 degF
+1.85
+4.68
+74 degF
+1.6
+3.93
+75 degF
+1.74
+4.29
+76 degF
+1.84
+4.59
+77 degF
+1.69
+4.46
+78 degF
+1.73
+3.81
+79 degF
+1.92
+3.98
+80 degF
+1.7
+3.41
+81 degF
+1.65
+3.5
+82 degF
+1.78
+3.32
+83 degF
+1.79
+2.74
+84 degF
+1.43
+3.12
+85 degF
+1.83
+0.0
+-----
+1.71
+4.1
+Report Parameters
+
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+
+65 degF - 85 degF
+65.0 degF - 80.0 degF
+0.5 - 1.0
+5s
+46855 samples
+43834 samples
+
+---
+
+HVAC Performance Comparison: EER
+QSR Franchise A DX VIP 7 Unit 05-3942
+
+EER Comparison
+
+OSA Temp.
+Base EER
+Post EER
+65 degF
+5.94
+16.9
+66 degF
+5.27
+17.21
+67 degF
+3.71
+14.27
+68 degF
+4.9
+16.82
+69 degF
+6.08
+14.72
+70 degF
+6.56
+14.63
+71 degF
+6.6
+14.49
+72 degF
+6.87
+14.42
+73 degF
+6.32
+15.98
+74 degF
+5.45
+13.4
+75 degF
+5.95
+14.65
+76 degF
+6.27
+15.66
+77 degF
+5.77
+15.2
+78 degF
+5.91
+13.02
+79 degF
+6.56
+13.58
+80 degF
+5.79
+11.62
+81 degF
+5.62
+11.95
+82 degF
+6.09
+11.33
+83 degF
+6.11
+9.35
+84 degF
+4.87
+10.65
+85 degF
+6.23
+0.0
+-----
+5.85
+13.99
+
+Report Parameters
+
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+
+65 degF - 85 degF
+65.0 degF - 80.0 degF
+0.5 - 1.0
+5s
+46855 samples
+43834 samples
+
+---
+
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party
+
+without prior written approval. © Copyright 2017 Powertron Global, LLC.
+
+Appendix	
+  III	
+  
+ 
+ 
+Points	
+  Measured	
+  per	
+  Unit
+
+- 
+Total	
+  Instantaneous	
+  Real	
+  Power
+
+- 
+CFM
+
+- 
+COP
+
+- 
+Compressor	
+  #1	
+  on/off
+
+- 
+Compressor	
+  #2	
+  on/off
+
+- 
+Delta	
+  Enthalpy
+
+- 
+Delta	
+  Temperature
+
+- 
+EER
+
+- 
+Inlet	
+  Enthalpy
+
+- 
+Instantaneous	
+  Current,	
+  Phase	
+  A
+
+- 
+Instantaneous	
+  Current,	
+  Phase	
+  B
+
+- 
+Instantaneous	
+  Current,	
+  Phase	
+  C
+
+- 
+L-­‐N	
+  Voltage
+
+- 
+Outlet	
+  Enthalpy
+
+- 
+Outside	
+  Air	
+  Temperature
+
+- 
+Power	
+  Factor,	
+  Phase	
+  A
+
+- 
+Power	
+  Factor,	
+  Phase	
+  B
+
+- 
+Power	
+  Factor,	
+  Phase	
+  C
+
+- 
+Real	
+  Power,	
+  Phase	
+  A
+
+- 
+Real	
+  Power,	
+  Phase	
+  B
+
+- 
+Real	
+  Power,	
+  Phase	
+  C
+
+- 
+Return	
+  Air	
+  Dew	
+  point
+
+- 
+Return	
+  Air	
+  Temperature
+
+- 
+Return	
+  Duct	
+  Humidity
+
+- 
+Supply	
+  Air	
+  Temperature
+
+- 
+Supply	
+  Duct	
+  Humidity
+
+- 
+Total	
+  Capacity	
+  (BTU’s)
+
+- 
+Total	
+  Capacity	
+  (Tons)
+
+- 
+Total	
+  Power	
+  Factor
+
+- 
+Voltage	
+  A-­‐N
+
+- 
+Voltage	
+  B-­‐N
+
+- 
+Voltage	
+  C-­‐N
+
+- 
+kW	
+  per	
+  Ton
+
+- 
+kWE	
+  per	
+  kWR
+
+- 
+kWR

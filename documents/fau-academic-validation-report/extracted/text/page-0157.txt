@@ -1,0 +1,51 @@
+ 
+Definitions         57 
+ 
+Measurement Boundary:  A notional boundary drawn around equipment and/or systems to 
+segregate those which are relevant to savings determination from those which are not. All 
+energy uses of equipment or systems within the measurement boundary must be measured or 
+estimated, whether the energy uses are within the boundary or not. See Chapter 4.4. 
+Metering: Collection of energy data over time at a facility through the use of measurement 
+devices. 
+M&V Plan:  The document defined in Chapter 5. 
+Non-Routine Adjustments:  The individually engineered calculations in Equation 1a) of 
+Chapter 4 to account for changes in static factors within the measurement boundary since the 
+baseline period. When non-routine adjustments are applied to the baseline energy they are 
+sometimes called just “baseline adjustments.” (See also Chapter 8.2.) 
+Normalized Savings:  The reduction in energy use or cost that occurred in the reporting period, 
+relative to what would have occurred if the facility had been equipped and operated as it was in 
+the baseline period but under a normal set of conditions. These normal conditions may be a 
+long term average, or those of any other chosen period of time, other than the reporting period. 
+Normal conditions may also be set as those prevailing during the baseline period, especially if 
+they were used as the basis for predicting savings. (See Chapter 4.6.2) If conditions are those 
+of the reporting period, the term avoided energy use (see Chapter 4.6.1), or just savings, is 
+used instead of normalized savings. 
+Operational Verification: Verification that the ECMs are installed and operating properly and 
+have the potential to generate savings. Operational verification may involve inspections, 
+functional performance testing, and/or data trending with analysis. 
+Precision:  The amount by which a measured value is expected to deviate from the true value.  
+Precision is expressed as a “±” tolerance. Any precision statement about a measured value 
+should include a confidence statement. For example a meter’s precision may be rated by the 
+meter manufacturer as ±10% with a 95% confidence level. See Appendices B-1.1 and B-1.2 for 
+definitions of Absolute Precision and Relative Precision. 
+Probable Error:  See Appendix B-5. 
+Proxy:  A measured parameter substituted in place of direct measurement of an energy 
+parameter, where a relationship between the two has been proven on site. For example, if a 
+relationship has been proven between the output signal from a variable speed drive controller 
+and the power requirements of the controlled fan, this output signal is a proxy for fan power. 
+R Squared (R2):   See Appendix B-2.2.1. 
+Regression Analysis:  A mathematical technique that extracts parameters from a set of data to 
+describe the correlation of measured independent variables and dependent variables (usually 
+energy data). See Appendix B-2. 
+Reporting Period:  The period of time following implementation of an ECM when savings 
+reports adhere to IPMVP. This period may be as short as the time for an instantaneous 
+measurement of a constant quantity; long enough to reflect all normal operating modes of a 
+system or facility with variable operations; the length of the financial payback period for an 
+investment; the duration of a performance measurement period under an energy performance 
+contract; or indefinite. 
+Routine Adjustments:  The calculations in Equation 1a) of Chapter 4 made by a formula 
+shown in the M&V Plan to account for changes in selected independent variables within the 
+measurement boundary since the baseline period. 
+Savings:  The reduction in energy use or cost. Physical savings may be expressed as avoided 
+energy use or normalized savings (see Chapter 4.6.1 and 4.6.2, respectively). Monetary savings 
+may be expressed analogously as “cost avoidance” or “normalized cost savings” (see Chapter 

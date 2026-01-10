@@ -1,0 +1,23 @@
+ 
+Other Common M&V Issues       49 
+ 
+8.11  Measurement Issues 
+The proper application of meters for specific applications is a science in itself. Numerous 
+references are available for this purpose (see Chapter 10.2). The EVO web site contains 
+relevant current references on measurement techniques.  
+Table 5, below, summarizes some key types of meters, and provides comment on M&V matters 
+for some of them. This Table should neither be taken as complete nor definitive. 
+8.11.1 Data Collection Errors and Lost Data 
+No data collection process is without error. Methodologies for reporting period data collection 
+differ in degree of difficulty, and consequently in the amount of erroneous or missing data that 
+may arise. The M&V Plan should establish a maximum acceptable rate of data loss and how it 
+will be measured. This level should be part of the overall accuracy consideration. The level of 
+data loss may dramatically affect cost. The M&V Plan should also establish a methodology by 
+which missing or erroneous reporting-period data will be re-created by interpolation for final 
+analysis. In such cases, reporting-period models are needed to interpolate between measured 
+data points so that savings can be calculated for each period.   
+Note that baseline data consist of real facts about energy and independent variables as they 
+existed during the baseline period. Therefore baseline data problems should not be replaced by 
+modelled data, except when using Option D. Where baseline data is missing or inadequate, 
+seek other real data to substitute, or change the baseline period so that it contains only real 
+data. The M&V Plan should document the source of all baseline data. 

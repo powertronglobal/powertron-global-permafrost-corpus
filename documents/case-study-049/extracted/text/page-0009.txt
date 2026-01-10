@@ -1,0 +1,128 @@
+$180,360
+POST
+BASELINE
+$146,880
+Cost to Operate
+REDUCTION
+18.6%
+REDUCTION
+POST
+BASELINE
+18.6%
+28.6%
+POST
+BASELINE
+Chilled Water Delta
+IMPROVEMENT
+6.3
+1,503,000
+1,224,000
+1.3
+8.1
+Key Results for Chiller with PermaFrost NMR® ECM
+York
+4KHHHBJ1
+035-18644-000
+R22
+1,000
+3,000
+2001
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+466.0
+596.0
+42
+88.3
+43.3
+51.4
+74.5
+83.6
+8.1
+1.3
+408
+0.478
+854
+2529
+1,224,000
+70
+7.36
+65
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Saturated Suction Temperature 
+ 
+Discharge Refrigerant Temperature  
+Chilled Water Leaving Temp (Supply) 
+ 
+Chilled Water Entering Temp (Return) 
+ 
+Condenser Water Temp Entering Chiller 
+ 
+Condenser Water Temp leaving Chiller 
+ 
+Chilled Water Delta T 
+Refrigeration Approach 
+ 
+kW (V x A x 1.47) 
+ 
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Chiller GPM  
+Annual kWh (after regression analysis) 
+ 
+Chiller Load % During Testing 
+ 
+Coeﬃcient of Perfromance (COP)  
+OAT 
+ 
+483.0
+581.0
+38.8
+87.1
+41.7
+48
+74.9
+83.4
+6.3
+2.9
+413
+0.587
+703
+2675
+1,503,000
+70
+5.99
+63
+8
+Notes
+The pilot chiller provides cooling to the main 
+Global Telecom Equipment Manufacturer Facility complex. Given the facility 
+load and the four chillers comprising the total 
+plant, the pilot chiller runs approximately 3,000 
+hours or more annually prior to the ECM being 
+implemented. 
+REDUCTION
+POST
+BASELINE
+2.9
+Evaporator Approach
+55.2%
+Calculated Annual kWh 
+Chiller Load in both the Baseline and Post was 70%.  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,28 @@
+ 
+ 
+Page 19 of 38 
+ 
+not. May days are represented largely by archetypes 1 and 2, a more efficient archetype combined 
+with another where compressor 2 is turned off. A 4-archetype set would most likely split up the 
+behavior better, but would not generate a significant reduction in the reconstruction error.   
+ 
+Figure 25 - 3D Plot of Data Points as Represented by 3 Alpha's  
+The simplex is enclosed by the triangle. Red points are from May 2020, blue from October 2019. 
+ 
+From this, it is evident that the pre-treatments are less efficient than the post-treatments, as would 
+be hoped.  It coincides with the findings of PowerTron in its Department Store A PermaFrost NMR Confirmatory 
+Test report (August 18, 2020). 
+ 
+Another way to represent the data is a 3D plot of the mixture coefficients.  These will lie on a simplex 
+(represented by the triangular face in Figure 25) because the sum of the alpha’s for each data point 
+will be 1, and the alpha’s themselves range between 0 and 1.  Thus, each data point (cooling day) is 
+represented (approximately) by a convex combination of alpha’s and can be plotted on a 3-D 
+simplex in the case of 3 archetypes.   The first 6 days of Oct. 2019 lie in a cluster near archetype 3.  
+The last 2 days are closer to archetype 1.  This archetype captures the lower temperature days on 
+Oct. 7th and 8th (see figure 21).  The data points in May lie near the simplex edge between archetype 
+1 and 2, and thus are well represented by a convex combination of the two.  This allows for a 
+variation in efficiency and whether or not compressor 2 is on.   
+  
+ 
+ 
+ 

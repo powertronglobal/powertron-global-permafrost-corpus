@@ -1,0 +1,49 @@
+POST Measurement Testing – 3/4 November 2015 
+1.
+[Facilities Rep] (Facilities Management Company A) supported and witnessed the 2-day measurement.
+2.
+The reason for the 2-day requirement was twofold:
+•
+A cold front swept through Pretoria/[Pretoria Area] necessitating mid-PM measurements
+to allow the POST Outside Ambient Temperature OAT to approach the BASE 27.0°C
+OAT.  The highest OAT attained circa 3:05PM on 4 Nov. 2015 was 25.8°C although a
+more conservative 26.0°C was subsequently used for all thermodynamic formulae.
+•
+Chiller #2’s evaporator water supply temperature sensor gave erratic readings ranging from mostly
+too high; then too low; or changing very slowly compared to Chiller #2’s evaporator water return
+temperature sensor; or not changing at all by sticking at ±2.00°C when measured instrument readings
+showed a Δ-T of 5.20°C.  These variations were repeatedly checked and confirmed by 2 different
+European Chiller Manufacturer meters and one FMC meter.  The evaporator water supply temperature sensor was
+cleaned and reseated on 4 November 2015.
+3.
+Utilizing FMC’s measuring tool, the TA STAD 80 valve (which is used to balance and set the correct water
+flow rate) was set at 5.193 l/s (litres per second) compared to 5.228 l/s for the pre or BASE measurement.
+4.
+HVAC Contractor B allowed chiller #2 to stabilize and the evaporator water supply temperature to reach the BASE
+7.43°C (on the meter) before taking simultaneous measurement readings (circa 3:05PM on 4 Nov 2015):
+5.
+A - Evaporator Entering 11.70°C and Leaving 6.30°C Water temperatures producing a 5.40°C Delta-T,
+however the system stabilized thereafter at 5.20°C Delta-T which was most often recorded by three
+different meters over the 2-day period, and was subsequently used for all thermodynamic formulae.
+6.
+B – 314 kPa/-5.5°C low and 1429 kPa/40.0°C high pressures/temperatures for circuit 1 refrigerant and
+395 kPa/-1.0°C low and 1518 kPa/41.9°C high pressures/temperatures for circuit 2 refrigerant.
+7.
+C - Volts: 389.33, 388.79, 386.17 = 388.10 average and Amps: 61.06, 63.80, 58.58  = 61.14 average.
+8.
+After all POST measurements were taken, circuit #1 was replenished with ± 2-3 kg. Of R-22 refrigerant.
+As both chillers #1 and #2 were fully serviced prior to the BASE measurement, there is presumed to be a
+leak in the system.  PLEASE INVESTIGATE DURING EMERGENCY MAINTENANCE
+9.
+Considering the evaporator supply water temperature sensor’s erratic behaviour it is recommended to
+replace the four (4) evaporator and condenser water supply and return temperature sensors as these bear
+huge operating cost implications.  They should be placed in a closed environment side-by-side and
+equally calibrated.  PLEASE INVESTIGATE DURING EMERGENCY MAINTENANCE
+10. The newly installed chiller controller at the electrical panel is not providing accurate refrigerant pressure
+and temperature readings.  It is unsure precisely how both chillers can be remotely monitored, measured
+and managed.  PLEASE INVESTIGATE DURING EMERGENCY MAINTENANCE
+B 
+C 
+A 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

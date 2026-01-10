@@ -1,0 +1,55 @@
+{
+  "doc_id": "pdf_024",
+  "terms": [
+    {
+      "term": "Executive Summary\n         This report contains specific information regarding the installation of the energy control measure",
+      "abbreviation": "ECM",
+      "definition": null
+    },
+    {
+      "term": "Regional Water Utility",
+      "abbreviation": "BWWB",
+      "definition": null
+    },
+    {
+      "term": "Protocol\nThe International Performance Measurement and Verification Protocol",
+      "abbreviation": "IPMVP",
+      "definition": null
+    },
+    {
+      "term": "The Association of Energy Engineers",
+      "abbreviation": "AEE",
+      "definition": null
+    },
+    {
+      "term": "Conditioning Engineers",
+      "abbreviation": "ASHRAE",
+      "definition": null
+    },
+    {
+      "term": "The Efficiency Valuation Organization",
+      "abbreviation": "EVO",
+      "definition": null
+    },
+    {
+      "term": "Performance",
+      "abbreviation": "COP",
+      "definition": null
+    },
+    {
+      "term": "Saturated Evaporator Temp",
+      "abbreviation": "CH",
+      "definition": null
+    },
+    {
+      "term": "Saturated Evaporator Temp",
+      "abbreviation": "DX",
+      "definition": null
+    },
+    {
+      "term": "Evaporator Approach\nMeasured Tons Produced \nWater Flow Through Chiller",
+      "abbreviation": "GPM",
+      "definition": null
+    }
+  ]
+}

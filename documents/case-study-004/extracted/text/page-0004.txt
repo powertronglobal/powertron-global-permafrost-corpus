@@ -1,0 +1,37 @@
+3
+Energy Conservation Method (ECM)
+The content detailed in this report will first demonstrate the ability of the pilot DX units to perform prior to 
+and following the PermaFrost NMR® being installed. The report will also illustrate the amount of thermal 
+degradation that has occurred due in large part to thermal degradation within the heat exchangers and how much of 
+that has been restored.
+ 
+The following report produces the utilization of the IPMVP as the M&V plan. 
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+• Tons = (Airflow * 4.5 * Enthalpy Delta) / 12,000 
+ 
+• kW/Ton = kW / Actual Tonnage 
+ 
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+ 
+Notes
+Following a diagnostic examination of the pilot equipment to determine the operational condition of the system was 
+satisfactory, Baseline M&V data was collected and recorded by the M&V team. Approximately Four hundred runtime 
+hours after installation of the PermaFrost NMR® ECM, the M&V team returned on a very similar weather day to the 
+Baseline to take Post M&V measurements in the identical fashion as in the Baseline. The delta of these measurements and 
+associated calculations show the amount of capacity restored.
+The performance and capacity rating of commercial & industrial air conditioning & heat pump equipment is determined 
+by adherence to the standard AHRI 340/360-2007. In that standard it states that the factory listed nameplate data 
+identifying capacity is based upon three 10 minute tests where the condenser is exposed to 95 degrees dry bulb and 75 
+degrees wet bulb and the evaporator is exposed to 80 degrees dry bulb and 67 degrees wet bulb temperatures. These 
+temperatures are also based on the standard calculation of 400 CFM per ton for comfort cooling.
+As was in this test at Energy Solutions Company, the units were not in a sustained static environment which caused the existing weather and 
+interior operating conditions to be utilized to demonstrate performance and capacity thus when these thresholds are not 
+met but are less than, the capacity of the equipment will increase in a non proportional manner. When measuring 
+caparison performance data under these conditions, what must be accomplished is that the baseline and post ranges of 
+environments be duplicated and in this test these conditions were met. This is why the capacity of both units measured 
+before and after the ECM show higher than the nominal rated tons. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,55 @@
+HVAC Performance Comparison: COP
+Major US Retailer DHU 16 Kit 3 CONTROL
+COP Comparison 
+OSA Temp.
+Base COP
+Post COP
+74 degF
+2.47
+2.33
+75 degF
+2.42
+2.29
+76 degF
+2.56
+2.49
+77 degF
+2.55
+2.4
+78 degF
+2.55
+2.26
+79 degF
+2.6
+2.29
+80 degF
+2.42
+2.45
+81 degF
+2.41
+2.29
+82 degF
+2.45
+2.31
+83 degF
+2.45
+2.16
+84 degF
+2.44
+2.03
+85 degF
+2.28
+2.05
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+74 degF - 85 degF
+68.0 degF - 72.0 degF
+0.5 - 1.0
+5s
+36668 samples
+49267 samples

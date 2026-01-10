@@ -1,0 +1,37 @@
+PermaFrost NMR® Eﬃciency Report
+Company A  
+August, 2013
+Executive Summary
+         This report contains specific information regarding the installation of the energy control measure (ECM) 
+PermaFrost NMR® in two HVAC Roof Top Units (RTUs) supporting the Company A Diagnostic Clinic located at 
+[Brooklyn Location].  Detailed forensic performance testing (outlined later in this report) was 
+performed on the two RTUs, the first a 5-ton RTU supporting the rear break area and the second a 10-ton 
+RTU supporting the front Lobby and waiting area. Both of the RTUs are using R22 refrigerant.  Following 
+testing, the RTUs were treated with the proper amount and type of the PermaFrost NMR® technology 
+specially formulated for these types of systems.  Measurement and Verification (M&V) was conducted 
+pre-installation and post-gestation.
+The improvement in efficiency and restored 
+capacity gained directly at the units was solely 
+attributable to the PermaFrost NMR® ECM. This 
+is a result of the reversal of thermal inefficiency on heat 
+exchange surfaces. 
+Following treatment with the PermaFrost NMR® 
+technology, the RTUs showed an effective net 
+average 22.8% reduction in kW/ton based on the 
+exact capacity measured in the baseline M&V and 
+the post gestation M&V. With each of the RTUs 
+operating at 100%, the units showed an average 
+6.3% reduction in kWh while simultaneously producing 2.11 more tons or 18.2% more overall system 
+capacity.  Prior to the ECM, the RTUs were averaging 73.5% of design capacity as measured in-situ. After the 
+ECM, the RTUs jumped up to 89.4% of original design specification. This 15.9% efficiency improvement 
+compared to design combined with the 25% improvement in refrigerant approach from the baseline 
+performance levels led to an effective average increase in COP of 31.6%. All of these factors directly correlate 
+to what Company A will realize in energy savings as they operate these RTUs in the future as well as all 
+their other HVAC equipment like Roof Top Units and Chillers under the similar parameters. 
+Energy Science Division
+The 10-ton Lobby RTU (similar to the one pictured above) runs 
+approximately 3,000 annually, while the smaller Break Area RTU runs 
+only approximately 2,000 annually. Both RTUs were put into service 
+in 2005.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

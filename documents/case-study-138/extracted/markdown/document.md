@@ -1,0 +1,708 @@
+# Big Box Retailer A M&V Report
+
+═══ PAGE 001 ═══
+M&V Report PermaFrost NMR
+Large National Big Box Retailer
+ Testing Results Store [Store ID] 
+Miami Gardens, FL  
+March 17, 2017 
+Project Overview   Determining the impact of PermaFrost NMR in customer’s HVAC 
+equipment. Two systems of the same make, model and age were 
+selected for the pilot. Both would be monitored and one would be 
+treated for comparison. 
+Project Team 
+ Customer
+[Lead Engineer], Property Mgt. / Lead Engineer 
+[Technician], Property Mgt. Technician  
+Powertron Global 
+[Senior Energy Engineer], Forensic Mechanical Engineer & Chief 
+Science Officer 
+Process 
+Testing was performed on two 9-year-old Lennox 20-Ton package 
+units servicing the store. 
+
+═══ PAGE 002 ═══
+2 
+A. 
+INTRODUCTION 
+From February 6 to March 14, 2017 at the Miami Gardens location, testing was 
+implemented to verify energy efficiency reduction through the Powertron Global’s 
+product PermaFrost NMR affecting the refrigerant circuits of one 20-Ton package 
+DX unit and to demonstrate the performance of an untreated system of the same 
+make, model and age.  
+Unit #9 - Lennox LGA240H2BS3G Serial 5607H16058, Mfg Date 2007, R-22 
+equipped (TESTED) 
+Unit #16 - Lennox LGA240H2BS3G Serial 5607H16056, Mfg Date 2007, R-22 
+equipped (CONTROL) 
+The testing was designed to monitor the operation of Unit #9 (tested) before and 
+after the installation of PermaFrost NMR and to verify the amount of capacity 
+restoration and the resulting improvement in kW/ton. Unit #16 (control) was also 
+monitored using the same methodology to measure its current kW/ton efficiency 
+without PermaFrost NMR during the same time duration. 
+The monitoring isolates the entry and departure points of the medium being 
+cooled and the power being used. By recording the conditions at those entry and 
+departure points the overall cooling results can be compared to the overall power 
+consumed to quantify the power costs per unit of cooling kW/Ton (kilowatt-per-
+ton), EER (Energy Efficiency Ratio) & COP (Co-Efficient of Performance). 
+B. 
+EXECUTIVE SUMMARY 
+The average efficiency improvements per system are: 
+TESTED 
+UNIT #9 
+kW/Ton 
+Capacity-
+Tons 
+COP 
+EER 
+Enthalpy 
+Baseline 
+0.99 
+22.2 
+3.61 
+12.31 
+5.53 
+Post 
+0.81 
+25.7 
+4.4 
+15 
+6.39 
+Improvement % 
+18.2% 
+15.8% 
+21.9% 
+21.9% 
+15.6% 
+CONTROL 
+UNIT #16 
+kW/Ton 
+Capacity-
+Tons 
+COP 
+EER 
+Enthalpy 
+Feb 6-13 
+1.43 
+14.1 
+2.47 
+8.41 
+3.39 
+Mar 7-14 
+*1.55
+13.1 
+2.28 
+7.77 
+3.14 
+* as expected per more samples in warmer weather
+
+═══ PAGE 003 ═══
+3 
+C. 
+GENERAL FINDINGS 
+1.
+Pre Inspection
+Before testing began our engineering team arrived on site to perform a pre-test 
+performance exercise. 
+DHU 9 was observed as having low capacity production and high kW/ton due to 
+the following: 
+1) Low CFM due to glazed evaporator blower fan motor, loose evaporator blower
+fan belt. 
+2) ERV not operating
+Powertron Global notified client and this action concluded with a service 
+work order was sent to customer’s service contractor. Repairs were 
+concluded and system was determined to be ready for the test. 
+DHU 16 was observed as having low capacity production and high kW/ton due to 
+the following: 
+1) Low CFM due to the loose evaporator blower fan belt and damaged blower
+motor sheave
+2) 2) ERV not operating 
+3) 3) Problematic sub-cooling and superheat 
+Powertron Global notified client and this action concluded with a service 
+work order was sent to customer’s service contractor. 
+2.
+Equipment Selection
+DHU 9 was selected as the test candidate because it was the most conservative 
+choice for performance improvement and was the best representation of 
+customer’s HVAC/R portfolio of equipment. 
+3.
+Method of Procedure for testing:
+The objective of measuring the overall cooling production of HVAC/R systems 
+can be realized by measuring the total energy consumed by the specific unit 
+being tested and the total BTU production of the system then calculating these 
+parameters to obtain kW per ton, EER (energy efficient ratio) and COP 
+(coefficient of performance). Using that information the total BTUH of cooling 
+production can be realized. The objective of measuring overall power consumed 
+
+═══ PAGE 004 ═══
+4 
+by an HVAC/R system can be realized by measuring voltage, amperage and 
+power factor.  
+For these specific HVAC systems many parameters were measured every two 
+seconds for a period of eight (8) days for the development of a scientific baseline 
+of performance and a post period of eight (8) days for the development of a 
+scientific post analysis of performance. Data was extracted from the parameters 
+measured every five (5) seconds during the normal operating hours of 8am to 
+11pm.  
+Total BTUH was developed along with total kW consumption by measuring all 
+required data points (35 points see appendix for points measured) and entering 
+them into industry best practice engineering formulae. All measurement hardware 
+was certified under NIST or CE standards. Engineering formulae was developed 
+by AHRI / ASHRAE (American Heating and Refrigeration Institute / American 
+Society of Heating Refrigeration & Air Conditioning Engineers) 
+During regular business hours the outdoor air temperature entering the air-cooled 
+condenser coils of each unit will affect the design capacity. Therefore we have 
+provided baseline and post analysis of the eight (8) day periods at several 
+outdoor air temperature intervals so as to provide the comparison of improved 
+capacity and subsequent kW per ton, EER and COP across a variation of 
+outdoor air temperatures consisting of a twelve (12) degree span (74-85 degrees 
+F) to demonstrate the improvements across the temperature span.
+D.  
+CONCLUSION 
+The results of the testing validate the performance improvement and are 
+consistent with the UL (Underwriters Laboratories) results of PermaFrost NMR 
+and the 300+ case studies available for review. 
+
+═══ PAGE 005 ═══
+5 
+F. 
+APPENDIX 
+I. 
+Unit #9 (TESTED) Performance Analysis Summary 
+II.
+Unit #16 (CONTROL) Performance Analysis Summary
+III.
+Points Measured
+*(all csv files are available) 
+
+═══ PAGE 006 ═══
+6 
+APPENDIX I 
+
+═══ PAGE 007 ═══
+HVAC Performance Comparison: kW/Ton
+ DHU 9 Kit 4 TESTED
+kW/Ton Comparison 
+OSA Temp.
+Base kW/Ton
+Post kW/Ton
+74 degF
+1.22 kW/Ton
+1.04 kw/Ton
+75 degF
+1.06 kW/Ton
+0.79 kw/Ton
+76 degF
+1.05 kW/Ton
+0.84 kw/Ton
+77 degF
+0.92 kW/Ton
+0.81 kw/Ton
+78 degF
+0.88 kW/Ton
+0.76 kw/Ton
+79 degF
+0.91 kW/Ton
+0.77 kw/Ton
+80 degF
+0.95 kW/Ton
+0.72 kw/Ton
+81 degF
+0.91 kW/Ton
+0.75 kw/Ton
+82 degF
+0.91 kW/Ton
+0.78 kw/Ton
+83 degF
+0.96 kW/Ton
+0.88 kw/Ton
+84 degF
+0.89 kW/Ton
+0.76 kw/Ton
+85 degF
+1.17 kW/Ton
+0.79 kw/Ton
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+74 degF - 85 degF
+68.0 degF - 72.0 degF
+0.5 - 1.0
+5s
+47362 samples
+45537 samples
+
+═══ PAGE 008 ═══
+HVAC Performance Comparison: COP
+ DHU 9 Kit 4 TESTED
+COP Comparison 
+OSA Temp.
+Base COP
+Post COP
+74 degF
+2.89
+3.39
+75 degF
+3.33
+4.46
+76 degF
+3.35
+4.21
+77 degF
+3.83
+4.33
+78 degF
+4.01
+4.64
+79 degF
+3.85
+4.59
+80 degF
+3.72
+4.87
+81 degF
+3.86
+4.71
+82 degF
+3.87
+4.48
+83 degF
+3.65
+3.99
+84 degF
+3.93
+4.65
+85 degF
+3.01
+4.45
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+74 degF - 85 degF
+68.0 degF - 72.0 degF
+0.5 - 1.0
+5s
+47362 samples
+45537 samples
+
+═══ PAGE 009 ═══
+HVAC Performance Comparison: EER
+ DHU 9 Kit 4 TESTED
+EER Comparison 
+OSA Temp.
+Base EER
+Post EER
+74 degF
+9.85
+11.56
+75 degF
+11.37
+15.23
+76 degF
+11.43
+14.35
+77 degF
+13.07
+14.76
+78 degF
+13.67
+15.83
+79 degF
+13.12
+15.65
+80 degF
+12.68
+16.63
+81 degF
+13.16
+16.09
+82 degF
+13.22
+15.3
+83 degF
+12.44
+13.6
+84 degF
+13.42
+15.86
+85 degF
+10.29
+15.19
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+74 degF - 85 degF
+68.0 degF - 72.0 degF
+0.5 - 1.0
+5s
+47362 samples
+45537 samples
+
+═══ PAGE 010 ═══
+7 
+APPENDIX II 
+
+═══ PAGE 011 ═══
+HVAC Performance Comparison: kW/Ton
+ DHU 16 Kit 3 CONTROL
+kW/Ton Comparison 
+OSA Temp.
+Base kW/Ton
+Post kW/Ton
+74 degF
+1.43 kW/Ton
+1.51 kw/Ton
+75 degF
+1.46 kW/Ton
+1.54 kw/Ton
+76 degF
+1.37 kW/Ton
+1.41 kw/Ton
+77 degF
+1.38 kW/Ton
+1.47 kw/Ton
+78 degF
+1.38 kW/Ton
+1.55 kw/Ton
+79 degF
+1.36 kW/Ton
+1.53 kw/Ton
+80 degF
+1.46 kW/Ton
+1.44 kw/Ton
+81 degF
+1.46 kW/Ton
+1.54 kw/Ton
+82 degF
+1.44 kW/Ton
+1.52 kw/Ton
+83 degF
+1.43 kW/Ton
+1.62 kw/Ton
+84 degF
+1.44 kW/Ton
+1.74 kw/Ton
+85 degF
+1.54 kW/Ton
+1.72 kw/Ton
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+74 degF - 85 degF
+68.0 degF - 72.0 degF
+0.5 - 1.0
+5s
+36668 samples
+49267 samples
+
+═══ PAGE 012 ═══
+HVAC Performance Comparison: COP
+ DHU 16 Kit 3 CONTROL
+COP Comparison 
+OSA Temp.
+Base COP
+Post COP
+74 degF
+2.47
+2.33
+75 degF
+2.42
+2.29
+76 degF
+2.56
+2.49
+77 degF
+2.55
+2.4
+78 degF
+2.55
+2.26
+79 degF
+2.6
+2.29
+80 degF
+2.42
+2.45
+81 degF
+2.41
+2.29
+82 degF
+2.45
+2.31
+83 degF
+2.45
+2.16
+84 degF
+2.44
+2.03
+85 degF
+2.28
+2.05
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+74 degF - 85 degF
+68.0 degF - 72.0 degF
+0.5 - 1.0
+5s
+36668 samples
+49267 samples
+
+═══ PAGE 013 ═══
+HVAC Performance Comparison: EER
+DHU 16 Kit 3 CONTROL
+EER Comparison 
+OSA Temp.
+Base EER
+Post EER
+74 degF
+8.41
+7.96
+75 degF
+8.25
+7.81
+76 degF
+8.73
+8.49
+77 degF
+8.69
+8.18
+78 degF
+8.71
+7.72
+79 degF
+8.86
+7.82
+80 degF
+8.24
+8.35
+81 degF
+8.23
+7.81
+82 degF
+8.35
+7.88
+83 degF
+8.37
+7.39
+84 degF
+8.33
+6.91
+85 degF
+7.79
+6.98
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+74 degF - 85 degF
+68.0 degF - 72.0 degF
+0.5 - 1.0
+5s
+36668 samples
+49267 samples
+
+═══ PAGE 014 ═══
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2017 Powertron Global, LLC. 
+Appendix	
+  II	
+  
+Points	
+  Measured	
+  per	
+  Unit	
+  
+- 
+Total	
+  Instantaneous	
+  Real	
+  Power	
+  
+- 
+CFM	
+  
+- 
+COP	
+  
+- 
+Compressor	
+  #1	
+  on/off	
+  	
+  
+- 
+Compressor	
+  #2	
+  on/off	
+  
+- 
+Delta	
+  Enthalpy	
+  
+- 
+Delta	
+  Temperature	
+  
+- 
+EER	
+  
+- 
+Inlet	
+  Enthalpy	
+  
+- 
+Instantaneous	
+  Current,	
+  Phase	
+  A	
+  
+- 
+Instantaneous	
+  Current,	
+  Phase	
+  B	
+  
+- 
+Instantaneous	
+  Current,	
+  Phase	
+  C	
+  
+- 
+L-­‐N	
+  Voltage	
+  
+- 
+Outlet	
+  Enthalpy	
+  
+- 
+Outside	
+  Air	
+  Temperature	
+  
+- 
+Power	
+  Factor,	
+  Phase	
+  A	
+  
+- 
+Power	
+  Factor,	
+  Phase	
+  B	
+  
+- 
+Power	
+  Factor,	
+  Phase	
+  C	
+  
+- 
+Real	
+  Power,	
+  Phase	
+  A	
+  
+- 
+Real	
+  Power,	
+  Phase	
+  B	
+  
+- 
+Real	
+  Power,	
+  Phase	
+  C	
+  
+- 
+Return	
+  Air	
+  Dew	
+  point	
+  
+- 
+Return	
+  Air	
+  Temperature	
+  
+- 
+Return	
+  Duct	
+  Humidity	
+  
+- 
+Supply	
+  Air	
+  Temperature	
+  
+- 
+Supply	
+  Duct	
+  Humidity	
+  
+- 
+Total	
+  Capacity	
+  (BTU’s)	
+  
+- 
+Total	
+  Capacity	
+  (Tons)	
+  
+- 
+Total	
+  Power	
+  Factor	
+  
+- 
+Voltage	
+  A-­‐N	
+  
+- 
+Voltage	
+  B-­‐N	
+  
+- 
+Voltage	
+  C-­‐N	
+  
+- 
+kW	
+  per	
+  Ton	
+  
+- 
+kWE	
+  per	
+  kWR	
+  
+- 
+kWR	
+  

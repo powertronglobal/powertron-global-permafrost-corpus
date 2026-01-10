@@ -1,0 +1,50 @@
+ 
+17 
+Model – PHB090 
+Refrigerant Type – R22 
+Nominal Cooling Capacity in Btuh / Ton – 90,000 / 7.5 
+ 
+#11 
+Make – ICP 
+Model – PHAD36 
+Refrigerant Type – R22 
+Nominal Cooling Capacity Btuh / Ton – 36,000 / 3 
+ 
+Leading Tire Manufacture, South Africa.  The primary HVAC split system serving the main 
+offices at the Manufacturing Plant located at [South Africa Location] on a nominal 70-ton 
+(246kWR) air-cooled split DX system using R22 refrigerant. Annual Operating Hrs 473,688 
+kWh. 
+ 
+Make – H&C 
+Model – CCU228/2C 
+Refrigerant Type – R22 
+Nominal Cooling Capacity in Ton / kWR – 70 tons / 246 kWR 
+ 
+Large Insurance Company, [Florida Location]. HVAC Equipment Manufacturer 60 ton SWVA DX unit. The units run 
+approximately 4212 hours annually. 
+ 
+Make – HVAC Equipment Manufacturer 
+Model – SWVA-6004-RAV 
+Refrigerant Type – R22 
+Nominal Cooling Capacity in BTUH – 720,000 Btuh 
+ 
+County Law Enforcement A, Ellicott City, MD.   Two main HVAC units 
+supporting the County Law Enforcement A located at [Government Facility Address], 
+Ellicott City, MD. The nominal 26-ton split system outfitted with one compressor using R22 
+refrigerant. With the 26-ton unit operating at full load with all VAV boxes open at 100%. The 
+unit runs 3,895 hours per year. 
+ 
+Make – HVAC Equipment Manufacturer 
+Model – RAUCC254BP1382 
+Refrigerant Type – R22 
+Nominal Cooling Capacity in TONS – 26 TONS 
+ 
+Sports Arena B, Sports Complex B, East [Northeast Location], NJ.  In one of the two main 
+chiller units supporting the Sports Arena B located at the Sports Complex B in East 
+[Northeast Location], NJ. The nominal 500-ton Carrier Evergreen Chiller using R22 refrigerant. Annual 
+Operating Hrs  953,548 kWh. 
+ 
+Make – Carrier 
+Model – 19XL5353463CQ 
+Refrigerant Type – R22 
+Nominal Cooling Capacity in TONS – 500 TONS 

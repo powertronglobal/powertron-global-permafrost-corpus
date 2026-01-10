@@ -1,0 +1,30 @@
+{
+  "doc_id": "pdf_090",
+  "terms": [
+    {
+      "term": "Energy Conservation Measure",
+      "abbreviation": "ECM",
+      "definition": null
+    },
+    {
+      "term": "Air Conditioning and Refrigeration",
+      "abbreviation": "HVACR",
+      "definition": null
+    },
+    {
+      "term": "Coefficient of Performance",
+      "abbreviation": "COP",
+      "definition": null
+    },
+    {
+      "term": "The efficiency improvements demonstrated in the [Southeast Location] Metro chiller equate to an Initial Payback Period",
+      "abbreviation": "IPP",
+      "definition": null
+    },
+    {
+      "term": "Internal Rate of Return",
+      "abbreviation": "IRR",
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+®
+4
+HVAC/R Eﬃciency Study Results
+Calculated Eﬃciency of Tea Factory HVAC PU Baseline and Post
+The measurements taken show just how far off design the Tea Factory pilot PU (#79) had degraded in terms 
+of efficiency over seven (7) years of use. This same pilot PU was determined to be performing at an average of 
+43% of the original design efficiency in the baseline. The actual design rated tonnage of the PU is 20 tons. In 
+actuality, the PU was only producing a total of 8.4 tons of cooling at the start of the pilot. Approximately half of 
+this 57% efficiency loss is directly attributable to the thermal degradation of the heat exchange surfaces over a 
+short period of time. This is due in large part to thermal degradation which creates an insulating barrier to heat 
+transfer on the tube walls (inside the tube on a Direct Expansion system and outside the tube on a flooded 
+evaporator chiller). The remaining efficiency loss is a result of the reduced inlet and outlet air ducting 
+configuration used in conjunction with this and all the other PU’s in the factory. The actual airflow across the 
+coil in the PU is only about 50% of design so the focus of this in-situ pilot will be on the improvement delta 
+over the baseline rather than against design.
+After the ECM was installed, the average efficiency in the PU increased to 54% of design specifications, 
+equating to 10.8 total tons. The restoration of 2.4 tons represents a 28.6% increase in capacity.   
+ 
+Cost to Beverage Company to Operate the Tea Factory HVAC PU Baseline vs Post
+The degraded capacity described above prior to PermaFrost NMR® being implemented was costing the Tea 
+Factory a similar amount in the way of wasted energy each hour the PU was operating. The average cost to 
+operate the pilot PU as calculated in kW/ ton was 2.24 in the Baseline. When new, the kW/ton rating for units 
+like these usually ranges from .9 - 1.05 kW/ton when the proper sized ducting is used.
+ 
+The restored average kW/ton rating following the ECM is now 1.77. This represents a 20.9% reduction in 
+energy costs from the baseline for every ton of cooling produced. This will result in an initial payback period 
+(IPP) to the Tea Factory of approximately 22 months and an internal rate of Return (IRR) of 54.3%. Extrapolated 
+out over just the next five (5) years, this ECM project will net the Tea Factory a substantial ROI of 272% on their 
+investment. These accumulated savings will greatly reduce the eventual CapEx costs to replace the PU’s when 
+they finally reach the end of their useful life.   
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

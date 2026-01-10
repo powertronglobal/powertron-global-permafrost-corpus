@@ -1,0 +1,24 @@
+®
+1
+HVAC/R Eﬃciency Report
+Purpose of the Study
+This comprehensive efficiency study was conducted in an effort to verify the effectiveness of the PermaFrost 
+NMR®  Energy Conservation Measure (ECM) in two large, mission critical centrifugal chillers located on 
+opposite sides of the country. The chiller selected represent and to document the future avoided energy costs 
+associated with the same. The chillers selected represent a microcosm of the overall Data Center Provider portfolio of chiller 
+equipment. This allows the average savings percentage achieved and the future avoided energy costs calculated 
+to be easily extrapolated out five and 10 years into the future to determine the viability of the business case.  
+Understanding the Opportunity for Efficiency Restoration
+All Heating, Ventilation, Air Conditioning and Refrigeration (HVACR) systems experience thermal
+degradation over time. Internal surfaces of heat exchangers lose their optimal thermal transfer
+characteristics, resulting in reduced capacity, lower efficiency, and higher operating costs. This
+degradation affects superheat levels and overall system performance, impacting the useful
+equipment life of the HVACR system.
+Restoring System Efficiency with PermaFrost NMR
+PermaFrost NMR® technology addresses this thermal degradation by creating a permanent thermal
+metal coating on the tube walls, whether on the inside or outside surfaces depending on the HVACR
+equipment. This coating conditions the metal surfaces, reducing friction and restoring the system's
+original thermal transfer efficiency. In every application this results in a lower per unit cost of cooling
+which ultimately translates into lower overall energy costs. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

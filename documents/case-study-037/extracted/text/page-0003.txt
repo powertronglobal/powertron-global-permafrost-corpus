@@ -1,0 +1,40 @@
+2
+Methodology
+After verifying the proper amount of air flowing across the evaporator coils of the two CRAC units before 
+beginning the pilot, the subsequent measurements used in the efficiency calculations were collected and 
+compiled in two ways. The first method was to install a Fluke power meter at the electrical panel in the same 
+room as the CRAC units. The meter captured the power usage of both CRAC units as well as the condensing 
+units associated with them. The second method was to measure the CRAC units in accordance with AHRI and 
+Option B of the industry best practice International Measurement and Verification Protocol (IPMVP) 
+framework. 
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+• kW = Volts * Amps * Power Factor * 1.732/1000 (for 3-Phase) 
+ 
+• kW/Ton = kW / Actual Tonnage 
+ 
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+ 
+• Actual Cooling Tons per Hour = (Measured CFM * 4.5 Enthalpy Delta T)/ 12,000 BTU 
+Results from the Study
+Using the two data collection methodologies outlined above, the key results from the pilot are as follows:
+ 
+• Annual Energy use for the two CRAC units, as captured on the Caribbean Telecom Provider energy meter, fell 6.8% or 
+ 
+   17,112 kWh’s
+ 
+• Average Max Current (Amps) for the two CRAC units, as captured on the Caribbean Telecom Provider energy meter, fell 
+ 
+   20.4% from 88.63 to 70.52
+ 
+• Annual cost to operate the two CRAC units was reduced by $4,278, equating to a 12.6 month payback*
+ 
+• Total capacity of the two pilot CRAC units increased by 19.4% from 28.8 tons to 34.4 tons
+ 
+• kW/ton rating (i.e., the cost for every ton of cooling produced) was reduced by 18.5% from 1.19 to .97 
+ 
+   kW/ton
+*While $.16 cents was the targeted price in Dec 2015, the price of oil has more than doubled since that time
+This report is provided to Caribbean Telecom Group. It is confidential and proprietary to Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

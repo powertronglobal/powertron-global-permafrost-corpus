@@ -1,0 +1,10 @@
+source_file,period,rows,kWh_Consumption_mean,kWh_Consumption_median,Cumulative_kWh_mean,Cumulative_kWh_median,Baseline_kWh_per_hr_mean,Baseline_kWh_per_hr_median,Post_kWh_per_hr_mean,Post_kWh_per_hr_median,Savings_kWh_per_hr_mean,Savings_kWh_per_hr_median,Average_Baseline_kWh_mean,Average_Baseline_kWh_median,Average_Post_kWh_mean,Average_Post_kWh_median,cop_mean,cop_median,eer_mean,eer_median,kwton_mean,kwton_median,kw_mean,kw_median,kweperkwr_mean,kweperkwr_median,kwr_mean,kwr_median
+meter_526_final_configuration.csv,unknown,32,,,,,,,,,,,,,,,,,,,,,,,,,,
+meter_526_final_hourly_data.csv,unknown,672,0.39796726190476195,0.3235,816.6385416666666,845.15,,,,,,,,,,,,,,,,,,,,,,
+meter_526_final_performance.csv,unknown,12,,,,,,,,,,,,,,,,,,,,,,,,,,
+meter_526_final_recommendations.csv,unknown,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+meter_526_final_statistics.csv,unknown,10,,,,,,,,,,,,,,,,,,,,,,,,,,
+meter_526_final_temperature_bins.csv,unknown,21,,,,,0.322047619047619,0.338,0.4456190476190476,0.209,-0.12357142857142858,0.033,,,,,,,,,,,,,,,,
+meter_526_final_zone_analysis.csv,unknown,4,,,,,,,,,,,0.33,0.33499999999999996,0.5275,0.295,,,,,,,,,,,,
+Baseline_526 FMV.csv,baseline,31294,,,,,,,,,,,,,,,1.7717454601737797,1.79438715697299,5.939338282134688,6.019916535858449,2.035440979101425,1.96,2.9812347414839904,2.95,2.035440979101425,1.96,0.0,0.0
+Post_526 FMV.csv,post,35494,,,,,,,,,,,,,,,1.3018538344508932,1.0,6.246089721539583,6.1273578327961085,1.925918183354933,1.93,3.058801769313123,3.07,1.925918183354933,1.93,0.0,0.0

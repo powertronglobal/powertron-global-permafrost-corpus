@@ -1,0 +1,270 @@
+{
+  "title": "Measurement Reconstruction Benchmark",
+  "version": "1.0.0",
+  "created": "2025-12-31",
+  "description": "20 test cases for extracting structured metrics from natural language text",
+  "scoring": {
+    "method": "Per-field accuracy with numeric tolerance",
+    "numeric_tolerance": 0.005,
+    "tolerance_note": "Values within 0.5% of expected are full credit; within 5% is half credit",
+    "score_calculation": "sum(field_scores) / total_fields * 100"
+  },
+  "test_cases": [
+    {
+      "id": "MEASURE_001",
+      "category": "kw_per_ton",
+      "difficulty": "easy",
+      "input_text": "The Baseline kW/Ton was 1.47 and post-treatment dropped to 1.11 kW/Ton, representing a 24.5% improvement in efficiency.",
+      "expected_extraction": {
+        "kw_per_ton_before": 1.47,
+        "kw_per_ton_after": 1.11,
+        "improvement_pct": 24.5
+      }
+    },
+    {
+      "id": "MEASURE_002",
+      "category": "kw_per_ton",
+      "difficulty": "easy",
+      "input_text": "Pre-treatment readings showed 0.92 kW/Ton. After PermaFrost NMR application, this improved to 0.80 kW/Ton.",
+      "expected_extraction": {
+        "kw_per_ton_before": 0.92,
+        "kw_per_ton_after": 0.80
+      }
+    },
+    {
+      "id": "MEASURE_003",
+      "category": "efficiency",
+      "difficulty": "easy",
+      "input_text": "The pilot unit showed an average 10.5% reduction in both total Watts and Watts/Ton.",
+      "expected_extraction": {
+        "watts_reduction_pct": 10.5,
+        "watts_per_ton_reduction_pct": 10.5
+      }
+    },
+    {
+      "id": "MEASURE_004",
+      "category": "capacity",
+      "difficulty": "medium",
+      "input_text": "Following treatment, the unit produced an increase in capacity of 713 Btuh, equating to 12.4% more Btuh. The unit also showed an improvement in EER of 11.7%.",
+      "expected_extraction": {
+        "capacity_increase_btuh": 713,
+        "capacity_improvement_pct": 12.4,
+        "eer_improvement_pct": 11.7
+      }
+    },
+    {
+      "id": "MEASURE_005",
+      "category": "cop",
+      "difficulty": "easy",
+      "input_text": "The chiller's COP improved from 4.2 before treatment to 5.1 after treatment.",
+      "expected_extraction": {
+        "cop_before": 4.2,
+        "cop_after": 5.1
+      }
+    },
+    {
+      "id": "MEASURE_006",
+      "category": "financial",
+      "difficulty": "medium",
+      "input_text": "Annual energy savings are projected at $16,455 based on current utility rates. At a treatment cost of $8,500, the simple payback is 6.2 months.",
+      "expected_extraction": {
+        "annual_savings_usd": 16455,
+        "treatment_cost_usd": 8500,
+        "payback_months": 6.2
+      }
+    },
+    {
+      "id": "MEASURE_007",
+      "category": "financial",
+      "difficulty": "medium",
+      "input_text": "The 50-ton chiller treatment at $125/ton cost $6,250 total and yields estimated annual savings of $12,500, resulting in a 6-month payback.",
+      "expected_extraction": {
+        "tonnage": 50,
+        "cost_per_ton": 125,
+        "total_cost_usd": 6250,
+        "annual_savings_usd": 12500,
+        "payback_months": 6
+      }
+    },
+    {
+      "id": "MEASURE_008",
+      "category": "comprehensive",
+      "difficulty": "hard",
+      "input_text": "Test results for Unit #3: Baseline kW 31.148, Post-treatment kW 22.01. Baseline capacity 20,800 BTU/hr, Post-treatment capacity 23,400 BTU/hr. This represents a 29.3% improvement in kW/Ton.",
+      "expected_extraction": {
+        "kw_before": 31.148,
+        "kw_after": 22.01,
+        "capacity_before_btuh": 20800,
+        "capacity_after_btuh": 23400,
+        "kw_per_ton_improvement_pct": 29.3
+      }
+    },
+    {
+      "id": "MEASURE_009",
+      "category": "temperature",
+      "difficulty": "medium",
+      "input_text": "Supply air temperature dropped from 58°F to 52°F, while return air remained constant at 75°F. Delta T improved from 17°F to 23°F.",
+      "expected_extraction": {
+        "supply_temp_before_f": 58,
+        "supply_temp_after_f": 52,
+        "return_temp_f": 75,
+        "delta_t_before_f": 17,
+        "delta_t_after_f": 23
+      }
+    },
+    {
+      "id": "MEASURE_010",
+      "category": "amperage",
+      "difficulty": "easy",
+      "input_text": "Compressor amperage readings: Pre-treatment average 38.7 amps, Post-treatment average 32.2 amps.",
+      "expected_extraction": {
+        "amperage_before": 38.7,
+        "amperage_after": 32.2
+      }
+    },
+    {
+      "id": "MEASURE_011",
+      "category": "longevity",
+      "difficulty": "medium",
+      "input_text": "Six-year longevity study showed COP improvement sustained at 17.76% throughout the monitoring period with no degradation.",
+      "expected_extraction": {
+        "study_duration_years": 6,
+        "cop_improvement_pct": 17.76,
+        "degradation_observed": false
+      }
+    },
+    {
+      "id": "MEASURE_012",
+      "category": "lab_test",
+      "difficulty": "hard",
+      "input_text": "Lab testing per GB/T7725-2004 standard showed EER improved from 3.05 to 3.15 W/W, a 3.18% improvement. Cooling capacity increased from 5,125W to 5,270W.",
+      "expected_extraction": {
+        "test_standard": "GB/T7725-2004",
+        "eer_before": 3.05,
+        "eer_after": 3.15,
+        "eer_improvement_pct": 3.18,
+        "cooling_capacity_before_w": 5125,
+        "cooling_capacity_after_w": 5270
+      }
+    },
+    {
+      "id": "MEASURE_013",
+      "category": "kwh",
+      "difficulty": "medium",
+      "input_text": "Annual energy consumption reduced from 182,839 kWh to 129,199 kWh, a savings of 53,640 kWh per year.",
+      "expected_extraction": {
+        "kwh_before": 182839,
+        "kwh_after": 129199,
+        "kwh_savings": 53640
+      }
+    },
+    {
+      "id": "MEASURE_014",
+      "category": "multiple_units",
+      "difficulty": "hard",
+      "input_text": "Three RTU units tested: Unit A showed 18.2% improvement, Unit B showed 22.5% improvement, Unit C showed 19.8% improvement. Average improvement across all units: 20.2%.",
+      "expected_extraction": {
+        "unit_count": 3,
+        "unit_a_improvement_pct": 18.2,
+        "unit_b_improvement_pct": 22.5,
+        "unit_c_improvement_pct": 19.8,
+        "average_improvement_pct": 20.2
+      }
+    },
+    {
+      "id": "MEASURE_015",
+      "category": "roi",
+      "difficulty": "medium",
+      "input_text": "Investment analysis: Treatment cost $4,200, Year 1 savings $5,800, 5-year ROI 547%, simple payback 8.7 months.",
+      "expected_extraction": {
+        "treatment_cost_usd": 4200,
+        "year1_savings_usd": 5800,
+        "roi_5year_pct": 547,
+        "payback_months": 8.7
+      }
+    },
+    {
+      "id": "MEASURE_016",
+      "category": "comparative",
+      "difficulty": "hard",
+      "input_text": "Comparing treated vs untreated units over 30 days: Treated unit averaged 1.12 kW/Ton, untreated control averaged 1.48 kW/Ton. The treated unit showed 24.3% better efficiency.",
+      "expected_extraction": {
+        "treated_kw_per_ton": 1.12,
+        "untreated_kw_per_ton": 1.48,
+        "efficiency_difference_pct": 24.3,
+        "test_duration_days": 30
+      }
+    },
+    {
+      "id": "MEASURE_017",
+      "category": "equipment_specs",
+      "difficulty": "medium",
+      "input_text": "Equipment details: 150-ton HVAC Equipment Manufacturer centrifugal chiller, 14 years old, using R-134a refrigerant. Post-treatment efficiency: 0.58 kW/Ton.",
+      "expected_extraction": {
+        "tonnage": 150,
+        "manufacturer": "HVAC Equipment Manufacturer",
+        "equipment_type": "centrifugal chiller",
+        "age_years": 14,
+        "refrigerant": "R-134a",
+        "kw_per_ton_after": 0.58
+      }
+    },
+    {
+      "id": "MEASURE_018",
+      "category": "ashrae",
+      "difficulty": "hard",
+      "input_text": "Per ASHRAE documentation, oil fouling causes 7% efficiency loss in year 1, 5% in year 2, and 2% per year thereafter. Cumulative loss at 5 years: approximately 18%.",
+      "expected_extraction": {
+        "year1_loss_pct": 7,
+        "year2_loss_pct": 5,
+        "subsequent_years_loss_pct": 2,
+        "cumulative_5year_loss_pct": 18
+      }
+    },
+    {
+      "id": "MEASURE_019",
+      "category": "fau_study",
+      "difficulty": "hard",
+      "input_text": "FAU study results: 61 tests across 38 sites. Mean efficiency improvement 27%, mean kW reduction 30%, mean capacity increase 35%. Statistical significance confirmed at p<0.05.",
+      "expected_extraction": {
+        "total_tests": 61,
+        "total_sites": 38,
+        "mean_efficiency_improvement_pct": 27,
+        "mean_kw_reduction_pct": 30,
+        "mean_capacity_increase_pct": 35,
+        "p_value_threshold": 0.05
+      }
+    },
+    {
+      "id": "MEASURE_020",
+      "category": "environmental",
+      "difficulty": "medium",
+      "input_text": "Energy savings of 53,640 kWh/year equates to 37.9 metric tons of CO2 avoided annually, equivalent to removing 8.2 vehicles from the road.",
+      "expected_extraction": {
+        "kwh_savings_annual": 53640,
+        "co2_avoided_tonnes": 37.9,
+        "vehicles_equivalent": 8.2
+      }
+    }
+  ],
+  "categories": {
+    "kw_per_ton": "Basic kW/Ton before/after extraction",
+    "efficiency": "Percentage improvement metrics",
+    "capacity": "BTU and capacity measurements",
+    "cop": "Coefficient of Performance",
+    "financial": "Cost, savings, payback",
+    "comprehensive": "Multiple metrics in one passage",
+    "temperature": "Temperature and Delta T",
+    "amperage": "Electrical measurements",
+    "longevity": "Long-term study results",
+    "lab_test": "Laboratory testing data",
+    "kwh": "Energy consumption",
+    "multiple_units": "Multi-unit testing",
+    "roi": "Return on investment",
+    "comparative": "Treated vs untreated comparison",
+    "equipment_specs": "Equipment specifications",
+    "ashrae": "ASHRAE reference data",
+    "fau_study": "Academic study results",
+    "environmental": "Environmental impact metrics"
+  }
+}

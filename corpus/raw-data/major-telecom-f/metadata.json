@@ -1,0 +1,38 @@
+{
+  "source": "Major Telecom F",
+  "industry": "telecom",
+  "location_obfuscated": "Mid-Atlantic US, MD",
+  "processed_date": "2026-01-08T19:58:21.912874",
+  "files": [
+    {
+      "obfuscated_file": "cu1_baseline.parquet",
+      "rows": 31568,
+      "columns": 23,
+      "size_kb": 227.2
+    },
+    {
+      "obfuscated_file": "cu1_post.parquet",
+      "rows": 27162,
+      "columns": 23,
+      "size_kb": 345.2
+    },
+    {
+      "obfuscated_file": "cu2_baseline.parquet",
+      "rows": 38316,
+      "columns": 23,
+      "size_kb": 334.8
+    },
+    {
+      "obfuscated_file": "cu2_post.parquet",
+      "rows": 49978,
+      "columns": 23,
+      "size_kb": 530.7
+    },
+    {
+      "obfuscated_file": "pkg1_post.parquet",
+      "rows": 48742,
+      "columns": 23,
+      "size_kb": 761.6
+    }
+  ]
+}

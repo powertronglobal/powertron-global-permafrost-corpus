@@ -1,0 +1,25 @@
+Executive Summary
+This report contains specific information regarding the installation of PermaFrost NMR® in the 54-ton 
+Carrier Water Cooled DX Unit #1 at the Commercial Real Estate Company Bldg at [Commercial Address], NYC.  The facility houses the 
+Traffic Police Department for the City of New York.  Unit #1 is owned and maintained by Commercial Real Estate Company located 
+in New York, NY.  Louis Rojo, Commercial Real Estate Company Facility Manager for this location, oversaw the trial. 
+The improved/restored efficiency on the unit directly attributable to the PermaFrost NMR® ECM was 
+substantial.  The unit now provides cooler supply air with greater efficiency due to the restoration of the 
+heat transfer capacity of the evaporator and condenser coils and increased the available useful tonnage. 
+All three compressors were operating within design/operating standards and very similar to one another 
+and all outside air dampers were closed both pre and post.
+The overall system efficiency improved by 17.8% and the EER improved by 42.8%.  There was an increase in 
+coil capacity of 96,525 in Btuh which equates to gaining 8-tons of capacity or 17.8%.  There is also a 
+reduction of 18% in total power and watts per ton which is another measurable way to view the 
+thermodynamic enhancement of the PermaFrost NMR® ECM.  The tables of data and financial calculations 
+are available for review at the end of this report.  The result of these combined ECM improvements is an 
+ROI to Commercial Real Estate Company of 23.9 months.
+Measurement and Veriﬁcation Protocol
+The International Performance Measurement and Verification Protocols (IPMVP) are used to develop this 
+report.  The Association of Energy Engineers (AEE), American Society of Heating, Refrigeration and 
+Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization (EVO) accept the 
+IPMVP as a global methodology for determining the effectiveness of energy conservation methods and 
+products.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

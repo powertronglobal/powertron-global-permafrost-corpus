@@ -1,0 +1,55 @@
+ 
+IPMVP Framework and Options       31 
+ 
+5. Evaluate patterns in the differences between simulation results and calibration data. Bar 
+charts, monthly percent difference time-series graphs, and monthly x-y scatter plots help to 
+identify the error patterns. The calibration accuracy should be established in the M&V Plan 
+to accommodate the M&V budget.  
+6. Revise input data in step 1 and repeat steps 3 and 4 to bring predicted results within the 
+calibration specifications in 5, above. Collect more actual operating data from the facility to 
+meet the calibration specification if necessary.  
+The creation and calibration of a simulation is time consuming. Using monthly rather than hourly 
+energy data helps to limit the effort needed for calibration. However if Option D will be used to 
+determine savings at the ECM level, calibration of major end-uses, systems, and/or equipment 
+impacted by the ECMs is recommended.  
+4.9.3 Option D: Calculations 
+Savings can be determined using calibrated simulation results representing the baseline energy 
+and/or the reporting-period energy. For projects with a physical baseline, the two calibrated 
+models include one with the ECMs and one without them. For projects with a hypothetical 
+baseline, calibrated models may include the hypothetical baseline and the as-built (reporting 
+period) conditions, but measured data will only be available for calibration under as-built 
+conditions. In either case, both models and measured energy data must be under the same set 
+of operating conditions.  
+Savings with Option D can be estimated using two forms of Equation 1), Equations 1f) and 
+1g)14. Both forms presume that the calibration ‘error’ equally affects both baseline and reporting 
+period models. The same savings will be determined from the two equations for any given set of 
+data and simulations. 
+ 
+Savings  =  Baseline energy from the calibrated model [hypothetical or without ECMs] 
+ 
+– Reporting-period energy from the calibrated model [with ECMs] 
+1f) 
+ 
+One of the model-derived energy terms in Equation 1f) may be replaced by the actual measured 
+energy. However, you must adjust your calculations for the calibration error for each month in 
+the calibration period, using. Equation 1g): 
+ 
+Savings  =  Baseline energy from the calibrated model [hypothetical or without ECMs] 
+ 
+ 
+-       Actual calibration-period energy 
+ 
+ 
++/-    Calibration error in the corresponding calibration reading 
+1g) 
+ 
+Equation 1may be most easily understood by non-technical persons, since the final savings 
+computation uses actual metered data rather than only the results of simulation models. 
+4.9.4 Option D: Ongoing Savings Reporting 
+If multi-year performance evaluation is required, Option D may be used for the first year after 
+the ECMs are installed. In later years, Option C may be less costly than Option D if you use as 
+the baseline the meter data from the first year of steady operation after installation. Then Option 
+C is used to determine whether energy use changes from the first year of operation after the 
+ECM was installed. In this situation, the first year of steady operation’s energy use would be 
+                                                  
+14 Equations 1f) and 1g) are the same as Methods 1 and 2, respectively, found in IPMVP Vol III Part 1. 

@@ -1,0 +1,49 @@
+ 
+20 
+Large Telecommunications Provider Data Center, London, UK.  Two of the three nominal 
+16.2-ton CRAC units, each outfitted with two compressors using R407C refrigerant. 4,500 
+Annual Operating Hrs. 
+ 
+CRAC Unit #2 
+Make – RC Group 
+Model – NeXT.DX.US.060 
+Refrigerant Type – R407C 
+Nominal Cooling Capacity in Ton – 16.2 
+ 
+CRAC Unit #3 
+Make – RC Group 
+Model – NeXT.DX.US.060 
+Refrigerant Type – R407C 
+Nominal Cooling Capacity in Ton – 16.2 
+ 
+ Company B – North, Miami, Florida.  Detailed forensic performance testing was 
+performed on one 7.5 ton HVAC Equipment Manufacturer DX unit equipped with R-22 refrigerant. 6750 Annual Operating 
+Hours. 
+ 
+Make – HVAC Equipment Manufacturer 
+Model – BWEI20C400EA / TTA090 
+Refrigerant Type – R22 
+Nominal Cooling Capacity in Ton – 7.5 
+ 
+Office Park A in Las Vegas, NV.  The two 5-ton HVAC Equipment Manufacturer packaged rooftop units 
+supporting the facility use R-22 refrigerant. 3,050 Annual Operating Hrs. 
+ 
+Make – HVAC Equipment Manufacturer 
+Model – YSC060A1RHA 
+Refrigerant Type – R22 
+Nominal Cooling Capacity in Ton – 60,000 / 5 
+ 
+Make – HVAC Equipment Manufacturer 
+Model – YSC060A1RHA 
+Refrigerant Type – R22 
+Nominal Cooling Capacity in Ton – 60,000 / 5 
+ 
+Large U.S. Data Center Provider, Sanston (Richmond), VA.  A nominal 132.8 ton (476 
+kWR) packaged RTU outfitted with four compressors (two 30-HP compressors and two 35-HP 
+compressors) using R22 refrigerant. 4,365 Annual Operating Hrs. 
+ 
+Make – McQuay 
+Model – RDT125CLY 
+Refrigerant Type – R22 
+Nominal Cooling Capacity in Ton – 132.8 tons / 476 kWR  
+ 

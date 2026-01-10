@@ -1,0 +1,74 @@
+®
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+in reduced cost
+per ton of cooling
+equating to a
+10.2% reduction
+12
+Reducing the Cost for Every Ton of Cooling Consumed
+The chart to the right illustrates the performance 
+restoration the PermaFrost NMR® created in the 
+treated Chiller unit. The average cost to operate this 
+unit before it was treated with PermaFrost NMR®, 
+as calculated in kW/ton, was 0.49.
+The specific cost to operate this unit after it was 
+treated with PermaFrost NMR®, as calculated in 
+kW/ton, is currently 0.44.
+The higher baseline kW/ton rating measured in-situ was expected when compared to the ASHRAE loss of 
+performance efficiency and cost to operate estimate for a 6 year old chiller unit. The post results are also in 
+line with the average improvement savings shown over more than 130,000 installations globally.
+Additional Key Results for [Southeast Location] Metro Chiller 
+Cost to Operate
+kW/ton
+0.05 kW/ton
+Baseline
+Post ECM
+0.49
+0.44
+944,385
+POST
+BASELINE
+847,815
+Annual kWh
+REDUCTION
+10.2%
+8.7%
+POST
+BASELINE
+Chilled Water Delta 
+IMPROVEMENT
+10.3° F
+11.2° F
+HVAC Equipment Manufacturer
+CVHF570
+R123
+490
+4,350
+2007
+System Description
+Manufacturer
+Model Number
+Refrigerant Type
+Nominal Cooling Capacity in
+Tons at Given Test conditions  
+Average Annual
+Runtime Hours
+Date Installed
+Notes
+The pilot Chiller unit provides cooling to the main data center 
+floor at the Data Center Provider Santa Clara II complex. Although there is a 
+consistently heavy load, the complex has a redundant chiller to 
+handle the load in this particular facility for half of the time at 
+a minimum. Given this operational scenario, Data Center Provider plant 
+personnel determined the pilot chiller unit runs approximately 
+4,350 hours or more annually prior to the ECM being 
+implemented. To be conservative, we used the minimum 
+number of hours to develop the Initial Payback Period (IPP) 
+and Internal Rate of Return (IRR).
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,493 @@
+# Data Center B_RTU.pdf
+
+Energy Science Division
+
+®
+
+Data Center Provider - Data Center Group
+
+Comprehensive HVAC/R Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+PermaFrost NMR® Eﬃciency Report
+
+Data Center Provider Data Center Group
+
+May, 2013
+Executive Summary
+
+This report contains specific information regarding the installation of the energy control measure (ECM)
+
+PermaFrost NMR® in the primary HVAC Roof Top Unit (RTU) serving the main offices at the Data Center Provider Data
+
+Center Facilities located at 6000 Technology Blvd, Sanston (Richmond), VA. Detailed forensic performance
+
+testing (outlined later in this report) was performed on a nominal 132.8 ton (476 kWR) packaged RTU
+
+outfitted with four compressors (two 30-HP compressors and two 35-HP compressors) using R22 refrigerant.
+
+Following testing, the RTU was treated with the proper amount and type of the PermaFrost NMR®
+
+technology specially formulated for these types of systems.  Measurement and Verification (M&V) was
+
+conducted pre-installation and post-gestation.
+
+The improvement in efficiency and restored capacity gained directly
+
+at the system was solely attributable to the PermaFrost NMR® ECM.
+
+This is a result of the reversal of thermal inefficiency on heat exchange surfaces,
+
+creating greater efficiency in refrigerant approach and the thermal
+
+energy transfer abilities of the cooler and condenser vessels.
+
+Following treatment with the PermaFrost NMR® technology, the system showed an effective net 42.9%
+
+reduction in kW/ton based on the exact capacity measured in the baseline M&V and the post gestation
+
+M&V. With two of the four 31-ton (109 kWR) compressors operating at full load, the system showed a slight
+
+7.2% increase in kW consumption while simultaneously producing an increase in capacity of 36.6 tons (126
+
+kWR). This 88.2% increase from the baseline performance levels produced an effective in system efficiency of
+
+87.7%, which directly correlates to what Data Center Provider will realize in energy savings as they operate the system in the
+
+future under the same parameters.
+
+Following treatment with the PermaFrost NMR® technology, the system also showed a substantial
+
+improvement in Enthalpy Delta, which is a critical HVAC measurement used to determine the thermodynamic
+
+enhancement brought about by the PermaFrost NMR® ECM.  The result of the ECM improvement is an ROI to
+
+Data Center Provider that is measured in months. The tables of data are available for review at the end of this report. Financial
+
+calculations determining the true ROI are proprietary to Data Center Provider under separate cover.
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Product Brief
+
+PermaFrost NMR® is a multi-patented nanotechnology surface chemistry Energy Control Measure
+
+(ECM) that uses Nucleo Molecular Regenerative (NMR) technology as its core agent. A sustainable,
+
+one-time treatment with no down time required, PermaFrost NMR® lasts for the remaining life of any
+
+type of system in which it is installed. Examples of the types of commercial HVACR systems and
+
+equipment that PermaFrost NMR® has proven success with are direct expansion air systems (DX);
+
+chilled water systems (both flooded and DX; air and water cooled); ice making equipment; ammonia
+
+refrigeration plants (single compressor and cascade) and variable refrigerant flow (VRF) designs. The
+
+equipment utilized in these systems within our expanding portfolio of clients includes centrifugal (single
+
+and multi-stage), scroll, reciprocating and screw configurations.
+
+The direct benefits of PermaFrost NMR® are improved cooling performance, increased capacity and
+
+improved refrigerant velocity – all of which allow systems to achieve set point temperatures in a more
+
+rapid fashion which reduces compressor operating periods. The indirect benefits resulting from the
+
+enhanced thermodynamic characteristics following treatment include reduced run time, less kW hours
+
+used, less amp draw at the compressor, longer equipment life cycle time and a reduced carbon footprint
+
+for Data Center Provider.
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Measurement and Veriﬁcation Protocol
+
+The International Performance Measurement and Verification Protocol (IPMVP) was utilized in the
+
+development of this report. The Association of Energy Engineers (AEE), The American Society of Heating,
+
+Refrigeration and Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization
+
+(EVO) accept the IPMVP as a global methodology for determining the effectiveness of energy conservation
+
+methods and products.
+
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize. They
+
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report. Option B is
+
+defined as: All parameter measurements with the boundary of the ECM (PermaFrost NMR®) as the single
+
+source of measurement. Savings are determined by field measurement of the energy use of the ECM
+
+affected equipment or system and any performance enhancements versus the baseline data.
+
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the
+
+savings and the length of the reporting period. For the boundary utilized for Option B short-term
+
+measurements are very useful as data when the variables are contained. The savings are calculated by
+
+short-term measurements of baseline and energy reporting period (post), and /or engineering computations
+
+using measurements of proxies of energy use.
+
+The final computation follows the formula:
+
+Energy Science Division
+
+Option B savings = Baseline Energy – Reporting Period Energy
+
++/ - Routine Adjustments +/ - Non-Routine Adjustments
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Conservation Method (ECM) Content
+
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the
+
+effects of thermal degradation and fouling on the heat exchange surfaces.
+
+A diagnostic examination of the pilot equipment was implemented to determine if the unit’s operational
+
+conditions were satisfactory. Baseline M&V were recorded and then the proper amount and type of
+
+PermaFrost NMR® was injected. The gestation period for the Data Center Provider pilot was six (6) months on this particular
+
+RTU to allow it to achieve the required ~300 hours of runtime. At the end of this gestation period, Post
+
+M&V results were taken in the identical manner as in the baseline, taking special care to match the same or
+
+very similar entering air temperatures and compressor discharge pressures. These are the two most critical
+
+measurements affected by the weather. When analyzing the data, no adjustments for weather were
+
+necessary.
+
+The following report produces the utilization of the International Performance Measurement and
+
+Verification Protocol (IPMVP) as the M&V plan. Charles Tedesco, Monsen Engineering, a Test and Balance
+
+Certified Professional developed these results under the guidelines of the International Performance
+
+Measurement and Verification Protocol (IPMVP), Sheet Metal and Air Conditioning Contractors of America
+
+(SMACNA), and The Associated Air Balance Council (AABC). The final calculations were performed by
+
+Powertron Global’s Forensic Mechanical Engineer, [Senior Energy Engineer].
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase)
+
+BTUH = CFM * 4.5 (standard air) * Calculated Enthalpy Delta
+
+kW / Ton = kW / Actual Tonnage or kWR
+
+Percentage Eﬃciency = Measured BTUh / Manufacturers Design BTUh
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+478 V
+
+148 A
+
+34 F
+
+112 F
+
+60 PSI
+
+233 PSI
+
+71.4 F
+
+55.2 F
+
+35,190
+
+78.3 tons
+
+5.93
+
+104 kW
+
+1.33
+
+478 V
+
+148 A
+
+1.1 C
+
+44.4 C
+
+60 PSI
+
+233 PSI
+
+21.9 C
+
+12.9 C
+
+35,190
+
+275 kWR
+
+5.93
+
+104 kW
+
+0.38
+
+POST
+
+Make
+
+Model
+
+Refrigerant Type
+
+Nominal Cooling Capacity in tons or kWR
+
+McQuay
+
+RDT125CLY
+
+R22
+
+132.8 tons / 476 kWR
+
+System Description / Design Characteristics
+
+This RTU provides the primary comfort cooling to the main offices at the Data Center Provider Data Center facility in Sanston,
+
+VA. This RTU runs ~4,365 hours per year according to the weather bin data captured from that region showing
+
+number of hours temperature is 60 degrees (15.6 ºC) and above.
+
+Baseline and Post Measurements
+
+The identical IPMVP following data points were recorded for Baseline and Post on 10/11/12 and 4/29/13
+
+respectively using recently NIST calibrated devices to insure measurement accuracy. The Return Air entering
+
+the coil was very similar in both periods. Additionally, the discharge pressures of the compressors in both
+
+periods were very similar so no adjustments were made to the calculations. The measurements are as follows:
+
+Energy Science Division
+
+Voltage
+
+Amperage
+
+Suction Refrigerant  Temp
+
+Discharge Refrigerant Temp
+
+Suction Refrigerant Pressure
+
+Discharge Refrigerant Pressure
+
+Entering Air Temperature
+
+Leaving Air Temperature
+
+Actual CFM Across the Coil
+
+Calculated Coil Capacity
+
+Calculated Enthalpy Delta
+
+Total kW
+
+Calculated kW / Ton or kWR
+
+478 V
+
+138 A
+
+30 F
+
+110 F
+
+55 PSI
+
+225 PSI
+
+69.7 F
+
+51.7 F
+
+38,237
+
+41.7 tons
+
+2.9
+
+97 kW
+
+2.33
+
+478 V
+
+138 A
+
+-1.1 C
+
+43.3 C
+
+55 PSI
+
+225 PSI
+
+20.9 C
+
+10.9 C
+
+38,237
+
+146.5 kWR
+
+2.9
+
+97 kW
+
+0.66
+
+BASELINE
+MEASUREMENT
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Results
+
+The following are the final calculated performance measurements following the PermaFrost NMR® Post
+
+measurement period.
+
+Data Center Provider Avoided Energy Usage Analysis
+
+Utilizing the data in the above charts, the following steps were taken in accordance with IPMVP protocols
+
+to determine the avoided energy usage and the annualized Return on Investment (ROI) Data Center Provider will realize by
+
+implementing this ECM:
+
+Baseline kW         2.33 kW/ton * 41.7 tons = 97.2 kW
+
+Baseline Annual kWh         97.2 kW * 4,365 hours = 424,278 kWh
+
+Baseline Annual Cost         424,278 kWh * .07 cents = $29,699
+
+Regression Analysis is then used to account for amount of tonnage restored to Split System
+
+Adjusted Baseline Tonnage         78.3 tons (equates to tonnage in ERP)
+
+Adjusted kW Baseline         2.33 kW/ton * 78.3 tons = 182.4 kW
+
+Adjusted Baseline kWh         182.4 kW * 4,365 Annual Operating Hrs = 796,176 kWh
+
+Revised Cost to Run Baseline         796,176 kWh * $.07 = $55,732
+
+kW Post         1.33kW/ton * 78.3 tons = 104 kW
+
+Annual kWh Post         104 kW * 4,365 hours = 453,960 kWh
+
+Annual Cost Post         453,960 kWh * $.07 = $31,777
+
+Eﬃciency Improvements
+
+Total kW
+kW / Ton or kWR
+System Capacity (tons / kWR)
+Net kW Reduction
+Calculated Enthaply Delta
+System Eﬃciency
+
+7.2%
+42.9%
+88.2%
+27.4%
+104.5%
+87.7%
+
+Energy Reporting Period
+
+104 kW
+1.33 / 0.38
+78.3 / (275)
+104 kW
+5.93
+59.1%
+
+Baseline
+
+97 kW
+2.33 / 0.66
+41.7 / (199)
+132.5 kW
+2.9
+31.5%
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Avoided Energy Cost (savings) Per Month         ($55,732 - $31,777)/12 = $1,996
+
+Cost of PermaFrost NMR® installed         $15,625 / $1,996 = 8 months
+
+Payback Period = 8 months
+
+1 Year Annualized ROI = 150%
+
+5 year Annualized ROI = 750%
+
+Engineering Conclusions
+
+Please note that the energy baseline period (Pre) and the avoided energy reporting period (Post) data was
+
+compiled when this system was operating at a verified reduction of fifty percent (50%) capacity due to
+
+reduced outdoor air temperature resulting in reduced facility available load.  Both Baseline and Post analysis
+
+reporting period energy measurements were repeated during the data gathering periods.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

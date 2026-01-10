@@ -1,0 +1,44 @@
+• Following treatment, the pilot system now has regained a total of
+  102 tons of cooling capacity or a 10.9% increase
+• Following treatment, the COP of the pilot system increased by 18.4% 
+5.50
+COP
+Untreated Unit
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+938
+tons
+Untreated Unit
+100%
+CAPACITY @
+100% LOAD
+Untreated
+Treated
+5.50
+6.51
+Untreated
+Treated
+938
+1040
+6.51
+COP Treated Unit
+1040
+tons Treated Unit
+18.4%
+Improvement
+in COP
+102
+tons of
+Additional
+Capacity
+TONNAGE
+COP
+Summary of Key Performance Measurements
+in Treated Pilot Chiller System
+The charts below summarize the substantial improvements resulting from the implementation of the 
+PermaFrost NMR® technology into the pilot cooling system. 
+4
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

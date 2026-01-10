@@ -1,0 +1,32 @@
+Energy Consumption & Financial Metrics
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the chiller.
+Baseline Energy Consumption
+Baseline Tonnage: 1119.3 tons
+Adjusted kW Baseline: .69 kW/ton * 1,254.4 tons = 865.5kW
+Adjusted Baseline kWh: 865.5 kW * 1,000 Annual Operating Hrs = 865,500 kWh
+Revised Cost to Run Baseline: 865,500 kWh * $.13 = $112,515
+Post Energy Consumption
+kW Post: .55 kW/ton * 1,254.4 tons = 689.9 kW
+Annual kWh Post: 689.9 kW * 1,000 hours = 689,900 kWh
+Annual Cost Post: 689,900 kWh * .13 cents = $89,687
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $112,515 - $89,687 = $22,828
+Estimated Energy Savings Per Month: $22,828 / 12 = $1,902
+Initial Payback Period
+Cost of PermaFrost NMR® installed in the pilot chiller: $6,153
+Estimated ROI Period for the chiller: $6,153 / $1,902= 3.2 months
+Annual Rate of Return = 371%
+Return on Investment Over 5 Years = 1855%
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period for  
+implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy savings 
+resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended in the Post 
+Analysis Period. ROI comes from determining what the cost to run the chiller was when operating at the original energy 
+profile to produce the newly restored amount of available tonnage capacity and then subtracting the revised cost to run 
+the chiller at the same restored tonnage after the PermaFrost NMR® ECM was installed. This regression analysis is the 
+most widely accepted method of accounting for the reduced number of hours or load the chiller will now operate due to the 
+restored capacity. This restored capacity allows the chiller to reach the internal building set points with increased 
+efficiency resulting in reduced compressor demand loading.
+6
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

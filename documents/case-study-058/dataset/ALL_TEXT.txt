@@ -1,0 +1,1034 @@
+================================================================================
+DOCUMENT: Case Study 058
+DOC_ID: pdf_121
+SHA256: 34eb70e00223a42bb977459ff33149508d5f2bd62288697b1a0078fe1895142a
+================================================================================
+
+═══ PAGE 001 ═══
+
+TM
+Evaluation of PermaFrost ®
+China National Lab A. Hefei, R.P. China
+The following Performance Evaluation of PermaFrost® was conducted by China National Lab A,
+China National Lab A. China
+West Changjiang Road, Hefei, Anhui, P. R. China. May 2009
+
+
+═══ PAGE 002 ═══
+
+Hefei General Machinery Product
+Inspection Institute
+1
+     Hefei General Machinery Product 
+Inspection Institute (The National Quality 
+Supervision and Inspection Center for Compressor 
+and Refrigeration Equipment Products)(here in after 
+referred to as the Inspection Institute) is a third-party 
+organ for comprehensive inspection, certification 
+and evaluation (examination) with independent 
+legal entity status.
+The inspection institute passed the ministerial 
+examination and approval in June 1988 and passed 
+the national examination and approval in March 
+1989; and passed the national re-examination and 
+approval and metrological certification for 
+national inspection center in November 1995. 
+During this period, the inspection institute was 
+approved as the accreditation laboratory for 
+commodity inspection and test center for 
+verification of marine products respectively by the 
+State Commodity Inspection Bureau and the 
+National Ship Classification Bureau. In 1998, the 
+inspection institute passed the national 
+"three-in-one" re-examination for national 
+inspection center by the China National 
+Accreditation Board for Laboratories. In June 1999, 
+it passed the re-examination and approval of 
+Accreditation Board for Laboratories of the 
+National Inspection Bureau for Import and Export 
+Commodities. In October 1999, it obtained the 
+authorization from the State Quality and Technical 
+Supervision Bureau. In May 2002, it was approved 
+as the appointed CCC certification agency by the 
+Certification Accreditation Administration of the 
+People's Republic of China. In November 2001 and 
+July 2003 the inspection institute was approved as 
+"The Examination Department of National License 
+Office for Air Compressors" and "The Examination 
+Department of National License Office for 
+Refrigeration Equipment" by the General 
+Administration of Quality Supervision, Inspection 
+and Quarantine of the PRC, respectively. In 2002, it 
+was approved as the "Hefei Certification Center 
+for General Products" by the Certification and 
+Accreditation Administration of the PRC, and 
+approved by the China National Accreditation 
+Service for Conformity Assessment. In addition, it 
+was successively approved as the national type 
+test and evaluation agency for safety registration 
+permit for the seals and valves by the General 
+Administration of Quality Supervision, Inspection 
+and Quarantine of the PRC. At the same time, it is 
+also the arbitration agency for quality disputes 
+approved by five ministries and commissions such 
+as the State Administration for Industry and 
+Commerce, etc. 
+
+
+═══ PAGE 003 ═══
+
+Hefei General Machinery Product
+Inspection Institute
+2
+Under the inspection institute there are set up the 
+following eight test rooms: the test room for R & 
+AC and marine conditions, compressor test room, 
+valve test room, seals test room, pump test room, 
+packaging machinery test room, separator test 
+room and heat exchanger test room. It possesses 62 
+units (sets) of various types of inspection devices 
+and can conduct total performance inspection and 
+appraisal of such products as compressors, R & 
+ACs (air conditioners, heating and cooling chillers, 
+self-contained air conditioners, fans, fan-coil units, 
+refrigeration compressors, refrigerators, 
+refrigerated cabinets, condensing units and other 
+equipment), valves and pipe fittings, mechanical 
+seals, packing and static seals, pumps, packaging 
+machinery (food packaging machinery), 
+separating machinery, heat exchangers, 
+environmental protection equipment and so on in 
+accordance with both the national and 
+international standards. The inspection institute 
+has established and perfected the documented 
+quality management system according to 
+ISO/IEC17025 and ISO/IEC17020, etc. and 
+requirements specified for special equipment and 
+production license.
+Besides, the inspection institute undertakes the 
+following works: national quality supervision and 
+spot-check of products, type test for 
+administrative permit of special equipment and 
+pressure pipeline components and evaluation of 
+enterprise conditions, product inspection and 
+examination of plant conditions for issuance of 
+production license; undertakes product inspection 
+for rating, etc. and product inspection and audit 
+for national 3C certification, Fangyuan Mark 
+certification, mechanical safety certification, 
+energy conservation and energy efficiency 
+certification, certification of CQC, GC, automobile 
+products, environmental mark, etc.; inspection and 
+audit work for certification of TUV, CE, etc., 
+quality evaluation and appraisal of products for 
+State key projects, quality control in the tendering 
+and bidding process, arbitration and accident 
+analysis concerning product quality.
+The inspection institute will adhere to the working 
+principle of scientificality, impartiality and 
+independence, customer focus and continual 
+improvement to continuously improve the testing 
+and measuring level and ability and to provide 
+customers with high quality service.
+
+
+═══ PAGE 004 ═══
+
+Hefei General Machinery Product
+Inspection Institute
+3
+     The comprehensive inspection organ as a 
+third-party legal entity approved by the General 
+Administration of Quality Supervision, Inspection 
+and Quarantine of the PRC (AQSIQ) and the former 
+Ministry of Machinery Industry
+     The National Quality Supervision and 
+Inspection Center for Compressor and Refrigeration 
+Equipment Products approved by the General 
+Administration of Quality Supervision, Inspection 
+and Quarantine of the PRC (AQSIQ) and 
+Certification and Accreditation Administration of 
+the PRC (CNCA)
+     Obtained the approval from the China National 
+Accreditation Service for Conformity Assessment 
+(CNAS)
+     The verification and test center for general 
+marine machinery products approved by the 
+National Ship Classification Bureau
+     Obtained the authorization for organs and 
+metrological certification as national quality 
+inspection center by the General Administration of 
+Quality Supervision, Inspection and Quarantine of 
+the PRC (AQSIQ) and Certification accreditation 
+administration of the People's Republic of China
+     The appointed CCC certification agency by the 
+Certification and Accreditation Administration of 
+the PRC (CNCA)
+     The inspection unit for arbitration on quality 
+problem of commodities approved by five ministries 
+and commissions such as the State Administration 
+for Industry and Commerce
+     The "examination department of National 
+License Office for compressors" and the 
+"examination department of National License 
+Office for refrigeration equipment" by the General 
+Administration of Quality Supervision, Inspection 
+and Quarantine of the PRC (AQSIQ)
+     The national type test and evaluation organ of 
+valves, seals and special equipment approved by 
+the General Administration of Quality Supervision, 
+Inspection and Quarantine of the PRC (AQSIQ)
+     Hefei Certification Center for General Products 
+approved by the Certification and Accreditation 
+Administration of the PRC
+     Approved as "the Machinery Industry 25th 
+measurement and test central station (Hefei)"
+     Eight ministerial machinery industry inspection 
+centers as of valves, seals, pumps, separating 
+machinery, packaging machinery, heat exchanger, 
+etc.
+     Inspection laboratory for certification as of 
+China CQC, energy conservation, automobiles, 
+Fangyuan Mark, environmental mark, mechanical 
+safety, environmental protection, GC, UL, and TUV, 
+etc. 
+Address: 888 West Changjiang Road, Hefei, Anhui Province, China
+Tel: 0551-5318900,5331266 / Fax: 0551-5325105/ Postal code: 230031
+Email: [contact@company.com] / Website: www.gmpicn.com
+
+
+═══ PAGE 005 ═══
+
+Inspection Report - Pre Treatment
+Report Highlights translated into English
+4
+ 
+ 
+ 
+Baseline  - No. 2009JC025
+ 
+ 
+ 
+Cooling Capacity
+Power Input
+EER
+Dry bulb temp of Evaporator - wind discharged
+Wet bulb temp of Evaporator - wind discharged
+4339 W
+2981 W
+2.085
+12.92 C
+12.00 C
+Inspection Data
+Inspection Items
+     Remarks,
+1.   Actually condition on inspection pre-treatment
+ 
+Indoor: Dry bulb temp: 27.01C 
+ 
+Wet bulb temp: 19.00C
+ 
+Outdoor: Dry bulb temp: 34.99C
+ 
+Discharged pressure: 0Pa
+2.   The refrigerating capacity, input power, dry bulb temperature at evaporator air 
+outlet listed in this table are tested according to the provisions of Chinese Standard 
+GB/T7725-2004.  The international standard equivalents are:
+ 
+• ANSI/ASHRAE 58
+ 
+• ISO5151
+ 
+• GT/T7725-1996
+3.   On this test, the refrigerant is R22.
+
+
+═══ PAGE 006 ═══
+
+5
+ 
+ 
+ 
+    Post Treatment - No. 2009JC026
+ 
+ 
+ 
+Cooling Capacity
+Power Input
+EER
+Dry bulb temp of Evaporator - wind discharged
+Wet bulb temp of Evaporator - wind discharged
+2.54%
+-0.62%
+3.18 %
+-1.86%
+-2.17%
+Percentage Change
+4449 W
+2068 W
+2.1513
+12.68 C
+11.74 C
+Inspection Data
+Inspection Items
+Inspection Report - Post Treatment
+Report Highlights translated into English
+     Remarks,
+1.   Actually condition on inspection pre-treatment
+ 
+Indoor: Dry bulb temp: 26.95C 
+ 
+Wet bulb temp: 18.98C
+ 
+Outdoor: Dry bulb temp: 34.98C
+ 
+Discharged pressure: 0Pa
+2.   All the testing method for the above items included cooling capacity,  power input, 
+        Dry bulb and Wet bulb temperature of Evaporator at discharged are strictly based on 
+        the GB/T7725-2004 regulation standard.
+3.   On this test, the refrigerant is R22.
+The testing result as above was collected after post-treatment of PermaFrost® (model No: 
+PFHCFC) refrigeration oil 50 ml, and then went through 15 hours non-stopped running.
+        Cooling capacity increased by 2.54% in the post-treatment test.  This indicates a  significant 
+improvement in heat transfer in the evaporator. 
+        The COP (a ratio of the cooling capacity and power input) increased by 3.18% in  the post-treatment 
+test.  This indicates a significant improvement in the overall system performance.
+
+
+═══ PAGE 007 ═══
+
+6
+Inspection Report - Post Treatment
+Important Manufacturer's Note
+     PermaFrost® is designed to allow the system to achieve thermostat set points faster thereby allowing 
+the unit to cycle off or cycle down to provide the greatest energy savings.  The proper way to measure the full 
+benefits of PermaFrost® include allowing the system to cycle on and off normally and measure kWh use 
+over time.
+ 
+Significantly greater energy savings are measurable when the process of recycling air (cooling cooler air) 
+and measuring kWh use over time are included in the test.  This test is designed to measure efficiency 
+improvemnet only when the unit is running.  This test does not take into account the exponential benifit of 
+coolong cooler air and the full energy savings derived from producing colder air.  Increased cooling capacity 
+allows the system to reach the thermostat set point temperature quicker.  The energy savings not accounted 
+for in this test is the energy saved due to reduced runtime.  
+ 
+With PermaFrost® installed the unit will acieve thermostat temperature setpoint faster and remain off for 
+longer periods of time saving energy.
+
+
+═══ PAGE 008 ═══
+
+INSPECTION REPORT
+7
+ 
+ 
+ 
+BASELINE - No. 2009JC025
+     Product: Split heat pump floor-standing room air conditioner
+     Client: PST Group PTY LTD.
+     Manufacturer: Hefei Meiling Sigma Electrical Appliance Co., Ltd. (as shown on the 
+   
+ 
+ 
+   (as shown on the nameplate)
+     Inspection Type: Commissioned Inspection
+Hefei General Machinery & Electrical Products Inspection Institute
+
+
+═══ PAGE 009 ═══
+
+Inspection Report
+8
+ 
+ 
+ 
+Baseline - No. 2009JC025
+Inspection Report
+Hefei General Machinery & Electrical Products Inspection Institute
+Product
+Model
+Trademark
+Inspection Type
+Client
+PST GROUP PTY LTD
+Manufacturer
+Address
+Sampling
+Location
+Quantity of
+samples
+Serial number of
+original samples
+Inspection basis
+Inspection items
+Inspection
+conclusion
+Remarks
+Approver: Yue Shilong
+Reviewer: Shan Lei
+Chief Inspector: Li Fang
+/
+Date of issue: 2009/6/30
+For test data, please see the test results (attached tables).
+Refrigerating capacity, input power, dry bulb temperature at evaporator
+air outlet, wet bulb temperature at evaporator air outlet.
+GB/T  7725-2004
+5042042828000082
+Sample number
+2009 025
+Hefei Meiling Sigma Electrical Appliance
+Co., Ltd. (as shown on the nameplate)
+Grade of Sample
+Sampling Date
+Sending
+Sampling Person
+Sending
+Base number
+of sampling
+Commissioned Inspection
+May,18. 2009
+Zheng Jie
+/
+/
+/
+/
+/
+/
+/
+1
+KFRd-50LW
+KFRd-50W
+Split heat pump floor-standing room
+air conditioner 
+
+
+═══ PAGE 010 ═══
+
+     Photo and Nameplate of Inspected Sample:
+Inspection Report
+9
+ 
+ 
+ 
+Baseline - No. 2009JC025
+Hefei General Machinery & Electrical Products Inspection Institute
+Split Heat Pump Floor-Standing Room Air Conditioner
+KFRd-50LW  TÜV
+Power supply    Single-phase - 220V, 50 Hz
+Refrigerating capacity - 5,000W
+Heating capacity - 5,500 + 1,200W
+Rated current for refrigerating/heating - 9.4/8.6A
+Rated current for auxiliary electrical heating - 5.5A
+Rated power for refrigerating/heating - 2,060/1,900W
+Rated power for auxiliary electrical heating - 1,200W
+Refrigerant/filling volume - R22/1670g
+Noise (indoor/outdoor) - 46/52dB(A)
+Anti-static protection - Category I
+Mass (indoor/outdoor) - 38/53kg
+Operating current under the most severe conditions - 19.5A
+Overpressure at air outlet side - 2.60MPa
+Overpressure at air intake side - 0.50MPa
+Indoor Model     KFRd-50L
+Power supply    Single-phase - 220V, 50 Hz
+Rated current for refrigerating/heating - 9.4/8.6+5.5A
+Circulation air flow - 850m3/h
+Rated input power - 405+1,200W
+Mass - 38kg
+Ex-factory number
+Manufacture date
+Hefei Meiling Sigma Electrical Appliance Co., Ltd. 
+
+
+═══ PAGE 011 ═══
+
+     Photo and Nameplate of Inspected Sample:
+Inspection Report
+10 
+ 
+ 
+ 
+Baseline - No. 2009JC025
+Hefei General Machinery & Electrical Products Inspection Institute
+Split Heat Pump Floor-Standing Room Air Conditioner
+Outdoor Model    KFRd-50W
+Power supply    Single-phase - 220V, 50 Hz
+Rated current for refrigerating/heating - 9.4/8.6+5.5A
+Rated power for refrigerating/heating - 2,060/1,900+1,200W
+Refrigerant/filling volume - R22/1670g
+Waterproof class - IPX4
+Mass - 53kg
+Operating current under the most severe conditions - 19.5A
+Ex-factory number
+Manufacture date
+Hefei Meiling Sigma Electrical Appliance Co., Ltd. 
+
+
+═══ PAGE 012 ═══
+
+     Inspection results 
+ 
+ 
+ 
+ 
+ 
+Date of Test: May. 18, 2009
+Inspection Report
+11
+ 
+ 
+ 
+Hefei General Machinery & Electrical Products Inspection Institute
+Inspection item
+Unit
+Nameplate
+parameter
+Technical requirements
+speciefied in the Standard
+Inspected
+data
+Single-item
+evaluation
+Refrigerating capacity
+W
+/
+/
+4339
+/
+Input power
+W
+/
+/
+2081
+/
+Dry bulb temperature at
+evaporator air outlet
+ºC
+/
+/
+12.92
+/
+Wet bulb temperature at
+evaporator air outlet
+ºC
+/
+/
+12.00
+/
+     Remarks,
+1.   Measured nominal cooling condition:
+ 
+Indoor side 
+Dry bulb temperature 27.01°C        Wet bulb temperature 19.00°C
+ 
+Outdoor side Dry bulb temperature 34.99°C
+ 
+ 
+ 
+Air outlet static pressure 0Pa
+2.   The refrigerating capacity, input power, dry bulb temperature at evaporator air 
+outlet, wet bulb temperature at evaporator air outlet listed in this table are tested 
+according to the provisions of Chinese Standard GB/T 7725-2004.
+3.   The refrigerant used in this test is R22, and its filling volume is 1,670g.
+Baseline - No. 2009JC025
+
+
+═══ PAGE 013 ═══
+
+INSPECTION REPORT
+12
+ 
+ 
+ 
+POST TREATMENT - No. 2009JC026
+     Product: Split heat pump floor-standing room air conditioner 
+     Client: PST Group PTY LTD.
+     Manufacturer: Hefei Meiling Sigma Electrical Appliance Co., Ltd. (as shown on the 
+   
+ 
+ 
+   (as shown on the nameplate)
+     Inspection Type: Commissioned Inspection
+Hefei General Machinery & Electrical Products Inspection Institute
+
+
+═══ PAGE 014 ═══
+
+Post Treatment - No. 2009JC026
+Inspection Report
+13
+ 
+ 
+ 
+Inspection Report
+Hefei General Machinery & Electrical Products Inspection Institute
+Product
+Model
+Trademark
+Inspection Type
+Client
+PST GROUP PTY LTD
+Manufacturer
+Address
+Sampling
+Location
+Quantity of
+samples
+Serial number of
+original samples
+Inspection basis
+Inspection items
+Inspection
+conclusion
+Remarks
+Approver: Yue Shilong
+Reviewer: Shan Lei
+Chief Inspector: Li Fang
+/
+Date of issue: 2009/6/30
+For test data, please see the test results (attached tables).
+Refrigerating capacity, input power, dry bulb temperature at evaporator
+air outlet, wet bulb temperature at evaporator air outlet.
+GB/T  7725-2004
+5042042828000082
+Sample number
+2009 025
+Hefei Meiling Sigma Electrical Appliance
+Co., Ltd. (as shown on the nameplate)
+Grade of Sample
+Sampling Date
+Sending
+Sampling Person
+Sending
+Base number
+of sampling
+Commissioned Inspection
+May,18. 2009
+Zheng Jie
+/
+/
+/
+/
+/
+/
+/
+1
+KFRd-50LW
+KFRd-50W
+Split heat pump floor-standing room
+air conditioner 
+
+
+═══ PAGE 015 ═══
+
+     Photo and Nameplate of Inspected Sample:
+Inspection Report
+14
+ 
+ 
+ 
+Post Treatment - No. 2009JC026
+Hefei General Machinery & Electrical Products Inspection Institute
+Split Heat Pump Floor-Standing Room Air Conditioner
+KFRd-50LW  TÜV
+Power supply    Single-phase - 220V, 50 Hz
+Refrigerating capacity - 5,000W
+Heating capacity - 5,500 + 1,200W
+Rated current for refrigerating/heating - 9.4/8.6A
+Rated current for auxiliary electrical heating - 5.5A
+Rated power for refrigerating/heating - 2,060/1,900W
+Rated power for auxiliary electrical heating - 1,200W
+Refrigerant/filling volume - R22/1670g
+Noise (indoor/outdoor) - 46/52dB(A)
+Anti-static protection - Category I
+Mass (indoor/outdoor) - 38/53kg
+Operating current under the most severe conditions - 19.5A
+Overpressure at air outlet side - 2.60MPa
+Overpressure at air intake side - 0.50MPa
+Indoor Model     KFRd-50L
+Power supply    Single-phase - 220V, 50 Hz
+Rated current for refrigerating/heating - 9.4/8.6+5.5A
+Circulation air flow - 850m3/h
+Rated input power - 405+1,200W
+Mass - 38kg
+Ex-factory number
+Manufacture date
+Hefei Meiling Sigma Electrical Appliance Co., Ltd. 
+
+
+═══ PAGE 016 ═══
+
+     Photo and Nameplate of Inspected Sample:
+Inspection Report
+15
+ 
+ 
+ 
+Post Treatment - No. 2009JC026
+Hefei General Machinery & Electrical Products Inspection Institute
+Split Heat Pump Floor-Standing Room Air Conditioner
+Outdoor Model    KFRd-50W
+Power supply    Single-phase - 220V, 50 Hz
+Rated current for refrigerating/heating - 9.4/8.6+5.5A
+Rated power for refrigerating/heating - 2,060/1,900+1,200W
+Refrigerant/filling volume - R22/1670g
+Waterproof class - IPX4
+Mass - 53kg
+Operating current under the most severe conditions - 19.5A
+Ex-factory number
+Manufacture date
+Hefei Meiling Sigma Electrical Appliance Co., Ltd. 
+
+
+═══ PAGE 017 ═══
+
+Post Treatment - No. 2009JC026
+     Inspection results 
+ 
+ 
+ 
+ 
+ 
+Date of Test: May. 19, 2009
+Inspection Report
+16
+ 
+ 
+ 
+Hefei General Machinery & Electrical Products Inspection Institute
+Inspection item
+Unit
+Nameplate
+parameter
+Technical requirements
+speciefied in the Standard
+Inspected
+data
+Single-item
+evaluation
+Refrigerating capacity
+W
+/
+/
+4449
+/
+Input power
+W
+/
+/
+2068
+/
+Dry bulb temperature at
+evaporator air outlet
+ºC
+/
+/
+12.68
+/
+Wet bulb temperature at
+evaporator air outlet
+ºC
+/
+/
+11.74
+/
+     Remarks,
+1.   Measured nominal cooling condition:
+ 
+Indoor side 
+Dry bulb temperature 26.95°C       Wet bulb temperature 18.98°C
+      Outdoor side 
+Dry bulb temperature 34.98°C
+                      
+Air outlet static pressure 0Pa
+2.   The refrigerating capacity, input power, dry bulb temperature at evaporator air 
+outlet, wet bulb temperature at evaporator air outlet listed in the table are tested 
+according to the provisions of Chinese Standard GB/T 7725-2004.
+3.   The refrigerant used in this test is R22, and its filling volume is 1,670g.
+4.   The refrigerating capacity, input power, dry bulb temperature at evaporator air 
+outlet, and wet bulb temperature at evaporator air outlet listed in this table were 
+measured after the machine had been in operation for 15 hours following filling of 50 
+ml of the PFHCFC model of PermaFrost® refrigerant.
+
+
+═══ PAGE 018 ═══
+
+INSPECTION REPORT
+17
+ 
+ 
+ 
+     Original chinese document
+     Translation template for keyed source document
+Appendix
+
+
+═══ PAGE 019 ═══
+
+
+
+═══ PAGE 020 ═══
+
+
+
+═══ PAGE 021 ═══
+
+
+
+═══ PAGE 022 ═══
+
+
+
+═══ PAGE 023 ═══
+
+
+
+═══ PAGE 024 ═══
+
+
+
+═══ PAGE 025 ═══
+
+
+
+═══ PAGE 026 ═══
+
+
+
+═══ PAGE 027 ═══
+
+ 
+APEX TRANSLATION TEMPLATE FOR KEYED SOURCE DOCUMENTS 
+ 
+ 
+Key # 
+English Translation 
+ 
+1.  
+Split heat pump floor-standing room air conditioner  
+2.  
+Hefei Meiling Sigma Electrical Appliance Co., Ltd. (as shown on the 
+nameplate) 
+3.  
+Commissioned inspection 
+4.  
+Split heat pump floor-standing room air conditioner  
+5.  
+Hefei Meiling Sigma Electrical Appliance Co., Ltd. (as shown on the 
+nameplate) 
+6.  
+1 
+7.  
+Refrigerating capacity, input power, dry bulb temperature at evaporator air 
+outlet, wet bulb temperature at evaporator air outlet. 
+8.  
+For test data, please see the test results (attached tables). 
+9.  
+Yue Shilong 
+10.  
+Shan Lei 
+11.  
+Li Fang 
+12.  
+Split Heat Pump Floor-Standing Room Air Conditioner 
+KFRd-50LW  TÜV 
+Power supply    Single-phase - 220V, 50 Hz 
+Refrigerating capacity – 5,000W 
+Heating capacity – 5,500+1,200W 
+Rated current for refrigerating/heating - 9.4/8.6A 
+Rated current for auxiliary electrical heating - 5.5A 
+Rated power for refrigerating/heating – 2,060/1,900W 
+Rated power for auxiliary electrical heating – 1,200W 
+Refrigerant/filling volume - R22/1670g 
+Noise (indoor/outdoor) - 46/52dB(A) 
+Anti-static protection - Category I 
+Mass (indoor/outdoor) - 38/53kg 
+Operating current under the most severe conditions - 19.5A 
+Overpressure at air outlet side - 2.60MPa 
+Overpressure at air intake side - 0.50MPa 
+Indoor Model     KFRd-50L 
+Power supply    Single-phase - 220V, 50 Hz 
+Rated current for refrigerating/heating - 9.4/8.6+5.5A 
+Circulation air flow - 850m3/h 
+Rated input power - 405+1,200W 
+Mass - 38kg 
+Ex-factory number 
+Manufacture date 
+Hefei Meiling Sigma Electrical Appliance Co., Ltd.  
+13.  
+Split Heat Pump Floor-Standing Room Air Conditioner 
+Outdoor Model    KFRd-50W 
+
+
+═══ PAGE 028 ═══
+
+ 
+Power supply    Single-phase - 220V, 50Hz 
+Rated current for refrigerating/heating - 9.4/8.6+5.5A 
+Rated power for refrigerating/heating – 2,060/1,900+1,200W 
+Refrigerant/filling volume - R22/1670g 
+Waterproof class - IPX4 
+Mass - 53kg 
+Operating current under the most severe conditions - 19.5A 
+Ex-factory number 
+Manufacture date 
+Hefei Meiling Sigma Electrical Appliance Co., Ltd.  
+14.  
+Refrigerating capacity 
+15.  
+W 
+16.  
+Input power 
+17.  
+W 
+18.  
+Dry bulb temperature at evaporator air outlet 
+19.  
+Wet bulb temperature at evaporator air outlet 
+20.  
+1. Measured nominal cooling condition: indoor side 
+dry bulb 
+temperature 27.01°C; web bulb temperature 19.00°C 
+                     Outdoor side 
+dry bulb temperature 34.99°C 
+                                          Air outlet static pressure 0Pa 
+2. The refrigerating capacity, input power, dry bulb temperature at 
+evaporator air outlet, wet bulb temperature at evaporator air outlet listed 
+in this table are tested according to the provisions of Chinese Standard 
+GB/T 7725-2004. 
+3. The refrigerant used in this test is R22, and its filling volume is 1,670g. 
+21.  
+Split heat pump floor-standing room air conditioner  
+22.  
+Hefei Meiling Sigma Electrical Appliance Co., Ltd. (as shown on the 
+nameplate) 
+23.  
+Commissioned inspection 
+24.  
+Split heat pump floor-standing room air conditioner  
+25.  
+Hefei Meiling Sigma Electrical Appliance Co., Ltd.  
+26.  
+Refrigerating capacity, input power, dry bulb temperature at evaporator air 
+outlet, wet bulb temperature at evaporator air outlet. 
+27.  
+For test data, please see the test results (attached tables). 
+28.  
+Yue Shilong 
+29.  
+Shan Lei 
+30.  
+Li Fang 
+31.  
+Split Heat Pump Floor-Standing Room Air Conditioner 
+KFRd-50LW        TÜV 
+Power supply    Single-phase - 220V, 50 Hz 
+Refrigerating capacity – 5,000W 
+Heating capacity – 5,500+1,200W 
+Rated current for refrigerating/heating - 9.4/8.6A 
+Rated current for auxiliary electrical heating - 5.5A 
+Rated power for refrigerating/heating – 2,060/1,900W 
+Rated power for auxiliary electrical heating – 1,200W 
+
+
+═══ PAGE 029 ═══
+
+ 
+Refrigerant / filling volume - R22/1,670g 
+Noise (indoor/outdoor) - 46/52dB(A) 
+Anti-static protection - Category I 
+Mass (indoor/outdoor) - 38/53kg 
+Operating current under the most severe conditions - 19.5A 
+Overpressure at air outlet side - 2.60MPa 
+Overpressure at air intake side - 0.50MPa 
+Indoor Model    KFRd-50L 
+Power supply    Single-phase - 220V, 50 Hz 
+Rated current for refrigerating/heating - 9.4/8.6+5.5A 
+Circulation air flow - 850m3/h 
+Rated input power - 405+1,200W 
+Mass - 38kg 
+Ex-factory number 
+Manufacture date 
+Hefei Meiling Sigma Electrical Appliance Co., Ltd.  
+32.  
+Split  Heat Pump Floor-Standing Room Air Conditioner 
+Outdoor Model 
+KFRd-50W 
+Power supply    Single-phase - 220V, 50Hz 
+Rated current for refrigerating/heating - 9.4/8.6+5.5A 
+Rated power for refrigerating/heating – 2,060/1,900+1,200W 
+Refrigerant/filling volume - R22/1670g 
+Waterproof class - IPX4 
+Mass - 53kg 
+Operating current under the most severe conditions - 19.5A 
+Ex-factory number 
+Manufacture date 
+Hefei Meiling Sigma Electrical Appliance Co., Ltd.  
+33.  
+Refrigerating capacity 
+34.  
+Input power 
+35.  
+Dry bulb temperature at evaporator air outlet 
+36.  
+Wet bulb temperature at evaporator air outlet 
+37.  
+1. Measured nominal cooling condition: indoor side dry bulb temperature 
+26.95°C; web bulb temperature 18.98°C 
+                     Outdoor side 
+dry bulb temperature 34.98°C 
+                                          Air outlet static pressure 0Pa 
+2. The refrigerating capacity, input power, dry bulb temperature at 
+evaporator air outlet, wet bulb temperature at evaporator air outlet listed in 
+the table are tested according to the provisions of Chinese Standard GB/T 
+7,725-2,004. 
+3. The refrigerant used in this test is R22, and its filling volume is 1670g.  
+4. The refrigerating capacity, input power, dry bulb temperature at 
+evaporator air outlet, and wet bulb temperature at evaporator air outlet listed 
+in this table were measured after the machine had been in operation for 15 
+hours following filling of 50 ml of the PFHCFC model of PermaFrost III 
+refrigerant. 
+
+
+═══ PAGE 030 ═══
+
+ 
+ 
+ 
+A P E X  T r a n s l a t i o n s ,  I n c . ,  2 0 1  W e s t  W a t e r  S t r e e t ,  S u i t e s  1  &  2 ,  P l y m o u t h ,  N C  2 7 9 6 2 ,  U S A  
+T e l e p h o n e :  ( U S )  1 - 8 0 0 - 6 3 4 - 4 8 8 0 ,  ( I N T L . )  0 0 1 - 2 5 2 - 7 9 1 - 9 9 0 2 ,  ( F a x )  1 - 8 1 5 - 4 6 1 - 9 9 1 6  
+E - m a i l :  i n f o @ a p e x - t r a n s l a t i o n s . c o m  
+ 
+ 
+Translation Certification 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We, Translation Services Provider, a professional translation company, hereby certify that the 
+above-mentioned document has been translated by an experienced and qualified 
+professional translator and that, in our best judgment, the translated text truly reflects 
+the content, meaning, and style of the original text and constitutes in every respect a 
+correct and true translation of the original document.  
+ 
+This is to certify the correctness of the translation only. We do not guarantee that the 
+original is a genuine document, or that the statements contained in the original document 
+are true. Further, Translation Services Provider assumes no liability for the way in which the 
+translation is used by the customer or any third party, including end users of the 
+translation. 
+ 
+A copy of the translation is attached to this certification. 
+ 
+[Translation Certification Officer, Ph.D.]                
+ 
+ 
+ 
+VP Production                                                                                                                        
+Translation Services Provider 
+Dated: August 6, 2009 
+Translation from Chinese to English the document titled: 
+ 
+23235_AS_ENG_JALI_TEKE_FLDE_ChinaARItestPermaFrost.doc 
+

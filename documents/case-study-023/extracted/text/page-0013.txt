@@ -1,0 +1,25 @@
+VIP 2 SALAS 1 POST BOTH COMP
+Starting Date: 08-01-17
+Ending Date: 08-14-17
+Category
+Value
+Performance %
+70.58/100%
+Tons
+9.71 (Design = 12.5)
+kW/Ton
+1.35 (Design = 1.12)
+COP
+2.61 (Design = 3.14)
+EER
+8.91 (Design = 10.71)
+Outside Air Temperature Range
+65.0 deg F --- 85.0 deg F
+Return Air Temperature Range
+65.0 deg F --- 80.0 deg F
+Power Factor Range
+0.5 --- 1.0
+Schedule
+All Hours
+Samples
+4271

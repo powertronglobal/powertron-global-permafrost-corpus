@@ -1,0 +1,37 @@
+SECTION 9 
+PHYSICAL AND CHEMICAL PROPERTIES 
+Note:  Physical and chemical properties are provided for safety, health and environmental 
+considerations only and may not fully represent product specifications.  Contact the Supplier for 
+additional information. 
+GENERAL INFORMATION 
+Physical State:    Liquid 
+Color:   Amber 
+Odor:   Characteristic 
+Odor Threshold:   N/D 
+IMPORTANT HEALTH, SAFETY, AND ENVIRONMENTAL INFORMATION 
+Relative Density (at 20 °C):    0.91    
+Flash Point [Method]:     460°F  [ASTM D-92] 
+Flammable Limits (Approximate volume % in air):   LEL:  0.9     UEL: 7.0  
+Auto ignition Temperature:  N/D  
+Boiling Point / Range:    >260⁰C 
+Vapor Density (Air = 1)60-90⁰F:   >10 
+Vapor Pressure:   < 0.013 kPa (0.1 mm Hg) at 20 ºC   [Estimated] 
+Evaporation Rate (n-butyl acetate = 1):   N/D 
+pH:   N/A 
+Log Pow (n-Octanol/Water Partition Coefficient):   N/D
+Solubility in Water:   <1% 
+Viscosity:   31.3cSt at 40 ºC   4.40 cSt at 100°C 
+Oxidizing Properties:  See Hazards Identification Section. 
+OTHER INFORMATION 
+Freezing Point:   N/D
+Melting Point:   N/A
+Pour Point:      -35°F    
+Decomposition Temperature:   N/D 
+SECTION 10 
+STABILITY AND REACTIVITY 
+STABILITY:  Material is stable under normal conditions. 
+CONDITIONS TO AVOID:  Excessive heat. High energy sources of ignition. 
+INCOMPATIBLE MATERIALS:   Strong oxidizers 
+HAZARDOUS DECOMPOSITION PRODUCTS:  Material does not decompose at ambient temperatures. 
+HAZARDOUS REACTIONS:  Will not occur. 
+Effective Date: January 1, 2019

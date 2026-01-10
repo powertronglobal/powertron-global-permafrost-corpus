@@ -1,0 +1,888 @@
+================================================================================
+DOCUMENT: Case Study 060
+DOC_ID: pdf_059
+SHA256: db8741384caad8034ae9c21e178f09c7fc3fe318e8c01fdaf835a9e141326dae
+================================================================================
+
+═══ PAGE 001 ═══
+
+Energy Science Division
+®
+TECH COMPANY A (Major Technology Company)
+Study Date:
+     June 15 – July 22, 2016
+Participants:
+     Major Technology Company
+     [Sustainability Director]
+     Global Data Center Facilities
+     Sustainability
+ 
+      Facilities Services Provider
+      [M&O Supervisor]
+      M&O Supervisor
+     
+     Powertron Global
+     [Senior Energy Engineer],
+     Director of Engineering
+Location:
+     [Texas Location], TX
+Comprehensive HVAC Capacity Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 002 ═══
+
+1
+HVAC/R Eﬃciency Report
+Purpose of Energy Eﬃciency Study
+The purpose of this study is to verify the industry wide problem of 
+efficiency loss in HVAC/R as projected by ASHRAE research and to 
+quantify the amount of money wasted due to this loss. Many 
+industry leading organizations including ASHRAE project that all 
+HVAC/R units degrade in capacity and efficiency as they age. 
+Thermal degradation is caused by a phenomenon that is present in 
+all HVAC/R equipment that operates as a vapor compression cycle 
+associated with refrigerant and compressor lubricant. This thermal 
+degradation is well documented by the HVAC/R industry and the 
+original equipment manufacturers (OEM’s). Thermal degradation 
+prevents units from operating at the original design efficiency, which 
+leads to excessive run-times and additional kWh consumption.
+The CRAC systems in this study are representative of a great 
+majority of the portfolio of equipment operated by Tech Company A. If thermal degradation is 
+present in these systems it is present in the entire inventory of equipment. Energy waste can be calculated based 
+on this equipment (portfolio representation) and then accurately extrapolated across the entire inventory of 
+equipment.
+®
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 003 ═══
+
+   2 
+Process
+This report contains specific information regarding the current performance profile of two CRAC systems that 
+support the Tech Company A facility in [Texas Location], TX. 
+Detailed performance testing (outlined later in this report) was performed on the two pilot CRAC systems 
+before and after the installation of the ECM to determine the impact on the three key elements that greatly 
+affect the HVAC/R portion of the power bill as they relate to the original design specifications:
+ 
+ 
+1. The cooling capacity the CRAC systems produced after 10 years in service, before and after the 
+ 
+    administration of the ECM. 
+ 
+2. The actual cost of power required to produce the amount of cooling tons the systems can deliver as     
+ 
+    reflected in the kW/ton measurement, before and after the administration of the ECM. 
+ 
+3. The thermal dynamic ability of the systems to perform in relation to operational design, before and 
+ 
+    after the administration of the ECM.
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the IPMVP 
+(International Measurement and Verification Protocol) framework. The team consisted [Sustainability Director] of Major Technology Company; Raul 
+Olvera of Facilities Services Provider; Powertron Global’s Director of Engineering, [Senior Energy Engineer].  
+Notes
+The equipment tested were two 22-ton (nominal) CRAC systems manufactured by Liebert.  Both the baseline and post 
+measurements were taken in identical fashion with recently NIST calibrated devices.  M&V equipment details and 
+certification sheets are available by request. The CFM in the baseline and post for both systems were identical for each system. 
+[M&O Supervisor] of Facilities Services Provider and [Sustainability Director] of Major Technology Company witnessed and signed off on the collections of data in both the baseline and post 
+periods. The boundary of the testing was at the CRAC units and nothing else; therefore confidence in the accuracy of the 
+performance calculations is very high.
+®
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 004 ═══
+
+3
+Energy Conservation Method (ECM)
+The content detailed in this report will first demonstrate the ability of the pilot CRAC systems to perform prior to 
+the ECM being installed, as well as illustrate the amount of thermal degradation 
+within the heat exchangers.
+ 
+The following report produces the utilization of the IPMVP as the M&V plan. 
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+• kW = Volts * Amps * Power Factor * 1.732/1000 (for 3-Phase) 
+ 
+• kW/Ton = kW / Actual Tonnage 
+ 
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+ 
+• Actual Cooling Tons per Hour = CFM X 4.5 * 60 * Enthalpy Delta / 12,000 BTU 
+Notes
+Following a diagnostic examination to determine the operational condition of the CRAC systems was satisfactory, Baseline 
+M&V data was collected and recorded by the M&V team. Approximately 400+ runtime hours after installation of the 
+ECM, the M&V team returned to take Post M&V measurements in the identical fashion as in the baseline. The delta of 
+these measurements and associated calculations show the amount of capacity restored.
+The following baseline IPMVP data points were recorded on June 15, 2106. The two systems were then treated with 
+PermaFrost NMR® on the same day and allowed to run normally until July 22, 2016 to ensure the patented surface science 
+nanotechnology had ample time to seat into all the metal surfaces of the heat exchangers. All measurements were taken at 
+similar incoming air temperatures however the outdoor air temperature in the post was 6 degrees F warmer (93 deg F vs. 99 
+deg F). The manufacturer provided a computerized load selection chart to illustrate that for every degree higher in ambient 
+dry bulb temperature the system would lose approximately .60% of capacity (please see Appendix A). The total loss of 
+capacity per degree equated to 3.61% and then this percentage was added to each system's measured total capacity in the 
+post. For CRAC #59 an additional .97 tons was added to the measured total calculated capacity and for CRAC #60  an 
+additional .69 tons was added.
+Normalization of input kW (amperage specifically) was also employed in order to account for the 6 degrees F higher 
+ambient dry bulb temperature. Compressors account for 70% of the total amperage consumed which is also true with these 
+systems (please see Appendix A). The following formula was used: Actual Measured Amps x (Actual Measured Amps x 
+0.7 x % increase in Ambient DB Temp). For CRAC #59 the post-measured amperage of 46.2 was reduced to 44.1. For 
+CRAC #60 the post-measured amperage of 47.5 was reduced to 45.4 amps. These new amperage numbers were entered into 
+standard electrical formula of V x A x PF x 1.732/1000 in order to normalize system kW.
+®
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 005 ═══
+
+• The CRACs were operating @ 40.7 tons of cooling capacity prior to
+  installing ECM
+• The CRACs now have 7.1 tons of restored cooling capacity after ECM
+  equating to a 17.4% increase
+• The CRACs were operating @ 2.46 COP prior to the ECM and
+   3.00 following the ECM
+• The average COP of the CRACs have  increased by 22%
+   following the ECM
+2.46
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+40.7
+tons
+Baseline
+100%
+CAPACITY @
+100% LOAD
+2.46
+3.00
+40.7
+47.8
+3.00
+Post ECM COP
+47.8
+tons Post ECM
+22%
+Improvement
+in COP
+7.1
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of HVAC/R Eﬃciency Study Results 
+CRAC #59 & #60 Eﬃciency with PermaFrost NMR® ECM
+Major Technology Company has the problem of thermal degradation in its HVAC systems. The lower operating tonnage and COP 
+ratings measured on site are in line with the ASHRAE loss of performance and cost to operate numbers. The 
+degraded equipment performance is costing Major Technology Company significant money and wasting energy. The pilot CRAC 
+systems are using significantly more energy to operate than when it was new ten years earlier. 
+The performance summary includes the measured efficiency and tonnage of both CRAC systems combined 
+in the baseline and post testing periods demonstrating the impact of thermal degradation. Individual system 
+results are outlined later in this report.
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 7.1 operating tons and an 
+average improvement of 22% in Coefficient of Performance (COP), significantly reducing the cost to operate 
+the systems throughout the year.
+4
+Baseline
+PermaFrost NMR®
+Installed
+Baseline
+PermaFrost NMR®
+Installed
+®
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 006 ═══
+
+0.0
+0.3
+0.6
+0.9
+1.2
+1.5
+5
+Recovered Wasted Energy with ECM – CRAC #59 & #60
+The kW/ton is the standard Unit Cost in the 
+HVAC/R industry. It is the HVAC industry’s 
+standard of determining how much energy is 
+required to create 1 ton of cooling (i.e., conditioned 
+air). When you reduce your unit cost of cooling you 
+are saving regardless of how much cooling is 
+required. 
+The chart to the right illustrates the performance 
+restoration the ECM created in the treated systems 
+(combined). The average cost to operate these 
+systems before it was treated with PermaFrost 
+NMR®,  as calculated in kW/ton,  was 1.50.
+The specific cost to operate these CRAC systems after 
+it was treated with PermaFrost NMR®,  as calculated 
+in kW/ton, is now 1.24. Individual results can be 
+found later in this report.
+Recovered Energy
+Equating to a
+17.3% reduction
+.26 kW/ton
+kW/ton
+Cost to Operate
+Baseline
+Post ECM
+1.50
+1.24
+®
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 007 ═══
+
+Photographic Evidence of Key Measurements
+CRAC#59 - BASELINE
+CRAC#59 - POST
+6
+®
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 008 ═══
+
+Photographic Evidence of Key Measurements
+CRAC#60 - BASELINE
+CRAC#60 - POST
+7
+®
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 009 ═══
+
+Energy Consumption & Financial Metrics
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the Major Technology Company CRAC systems.
+Baseline Energy Consumption
+Baseline Tonnage: 40.7 tons
+Adjusted kW Baseline: 1.50 kW/ton * 47.8 tons = 71.7 kW
+Adjusted Baseline kWh: 71.7 kW * 6045 Annual Operating Hrs = 433,427 kWh
+Revised Cost to Run Baseline: 433,427 kWh * $.054 = $23,405
+Post Energy Consumption
+kW Post: 1.24 kW/ton * 47.8 tons = 59.3 kW
+Annual kWh Post: 59.3 kW * 6045 hours = 358,469 kWh
+Annual Cost Post: 358,469 kWh * $.054 = $19,357
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $23,405 - $19,357 = $4,048
+Estimated Energy Savings Per Month: $4,048 / 12 = $337
+Initial Payback Period (IPP)
+Cost of PermaFrost NMR® installed in the pilot systems: $5,500
+Estimated IPP: $5,500 / $337 = 16.3 months
+Annual Rate of Return = 73.6%
+Return on Investment Over 5 Years = 368%
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period for 
+Major Technology Company for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended in the Post 
+Analysis Period. ROI comes from determining what the cost to run the CRAC systems were when operating at the 
+original energy profile to produce the newly restored amount of available tonnage capacity and then subtracting the 
+revised cost to run the systems at the same restored tonnage after the PermaFrost NMR® ECM was installed. This 
+regression analysis is the most widely accepted method of accounting for the reduced number of hours or load the CRACs 
+will now operate due to the restored capacity. This restored capacity allows the systems to reach the set points with 
+increased efficiency resulting in reduced compressor demand loading.
+8
+®
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 010 ═══
+
+9
+1.19
+POST
+BASELINE
+.96
+kW/ton
+REDUCTION
+19.3%
+POST
+BASELINE
+23.6%
+19.1%
+POST
+BASELINE
+Capacity (tonnage)
+IMPROVEMENT
+IMPROVEMENT
+IMPROVEMENT
+23.5
+2.96
+3.66
+5.58
+28
+Key Results for CRAC #59 with PermaFrost NMR® ECM
+Liebert
+DS077AJA00I212S
+C06F8E0069
+R-22
+22
+5,212
+2006
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+481.0
+46.2
+44.1
+32.9
+59.1
+115.3
+244.4
+71
+53.6
+57.9
+48.5
+25.06
+19.48
+5.58
+20.7
+26.83
+0.99
+ 27.02*
+12913.1
+99
+6.5%
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Adjusted Amps for Warmer OAT in Post
+Suction Temperature
+Suction Pressure
+Discharge Temperature
+Discharge Pressure
+Entering Air DB
+Leaving Air DB
+Entering Air WB
+Leaving Air WB
+Enthalpy of Entering WB
+Enthalpy of Leaving WB 
+ 
+Delta-T of Enthalpy
+Evaporator Approach
+kW (V x A x PF x 1.732)
+kW / Ton
+Actual Measured Operating Tons
+Unit CFM
+OAT
+Adjustment for Warmer OAT in Post
+482.0
+45.9
+32.8
+73.4
+114.4
+255.3
+70.3
+53.8
+57.3
+49
+24.61
+19.75
+4.86
+21
+27.97
+1.19
+23.53
+12913.1
+93
+14.8%
+POST
+BASELINE
+4.86
+Enthalpy Delta
+COP
+®
+* before manufacturers capacity adjustment.
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 011 ═══
+
+10
+1.80
+POST
+BASELINE
+1.52
+kW/ton
+REDUCTION
+15.5%
+POST
+BASELINE
+18.5%
+15.1%
+POST
+BASELINE
+Capacity (tonnage)
+IMPROVEMENT
+IMPROVEMENT
+IMPROVEMENT
+17.2
+1.95
+2.31
+5.00
+19.8
+Key Results for CRAC #60 with PermaFrost NMR® ECM
+Liebert
+DS077AJA00I212S
+C06F8E0070
+R-22
+22
+6,877
+2006
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+483.6
+47.5
+45.4
+48.5
+63.4
+121.1
+264.2
+71.6
+53.7
+57.8
+48.6
+24.53
+19.53
+5.00
+5.2
+30.01
+1.57
+ 19.10*
+10188.7
+99
+6.5%
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Adjusted Amps for Warmer OAT in Post
+Suction Temperature
+Suction Pressure
+Discharge Temperature
+Discharge Pressure
+Entering Air DB
+Leaving Air DB
+Entering Air WB
+Leaving Air WB
+Enthalpy of Entering WB
+Enthalpy of Leaving WB 
+ 
+Delta-T of Enthalpy
+Evaporator Approach
+kW (V x A x PF x 1.732)
+kW / Ton
+Actual Measured Operating Tons
+Unit CFM
+OAT
+Adjustment for Warmer OAT in Post
+480.0
+47.0
+39.8
+83.1
+113.7
+253.4
+70.7
+54.1
+57.8
+49.6
+24.53
+20.03
+4.50
+14.5
+3.87
+1.80
+17.19
+10188.7
+93
+11.1%
+POST
+BASELINE
+4.50
+Enthalpy Delta
+COP
+®
+* before manufacturers capacity adjustment.
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 012 ═══
+
+11.1
+Passenger vehicles
+2.4
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+5,928
+Gallons of gasoline
+consumed
+56,213
+Pounds of coal burned
+annually
+122
+Barrels of oil
+consumed
+5.6
+.281
+Railcars worth
+of coal burned
+Homes’ electricity use for
+one year
+11
+Major Technology Company is Saving More than Just Energy
+By treating the pilot chiller with PermaFrost NMR®, based on the current manner in which Major Technology Company operates the 
+CRAC systems, it will save approximately 74,958 kWh per year and all the costs associated with those 
+savings. From an environmental impact standpoint, Major Technology Company is also benefitting the surrounding community of 
+[Texas Location], TX. Imagine how great the environmental impact will be when Major Technology Company moves forward with treating all 
+their HVAC/R equipment in all their properties across their portfolio.
+The 74,958 kWh saved per year equates to preventing 52.7 metric tons of greenhouse gas emissions from 
+being released or any of the following:
+Annual greenhouse emissions from:
+CO2 emissions from:
+®
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 013 ═══
+
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 014 ═══
+
+1Ï
+Appendix A
+Liebert DS077
+®
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 015 ═══
+
+7/25/2016
+Performance Results ­ Air Cooled ­ Performance Analysis
+.
+Liebert Rating System
+Project Name: HP
+   
+Customer Name: Ed
+Manufacturer: Liebert North America
+Unit Power Supply: 460/3/60
+Refrigerant: R407C
+Internal Filter Class: Merv 8 Std. ­ 4 inch (102
+mm)
+Unit Airflow 10400 cfm
+ESP: 0.2 "WG
+Spec.sheet output date: 25­Jul­16
+Width: 109 "
+Depth: 35 "
+Height: 76 "
+Weight: 2450 lbs
+Altitude: 0 ft
+Liebert DS Model DS077AU; Air Cooled
+Manufacturer: Liebert North
+America
+Model: MCL110x8
+Control Type: Premium
+Condenser Type: Microchannel
+Design Ambient: 105 °F
+Quantity: 1
+Airflow: 21582 CFM
+Power supply: 460/3/60
+Sound Level: Std
+Condenser Fan RPM: 980
+Condenser
+Manufacturer: Carlyle
+Model: 06DA328
+Compressor Type: SemiHermetic
+Power Supply: 460/3/60
+Power Input: 11.1
+Compressor's COP: 3.34
+Quantity: 2
+Compressor
+Manufacturer: Liebert North
+America
+Model: 04R12LAU
+Fin Type: Lanced
+Number of Rows: 3
+Fins per Inch: 12
+Face Area: 24.65 sq.ft.
+Surface Area: 1805.74 sq.ft.
+Cooling Coil
+Cooling Fans
+Quantity of Fans: 2
+Type: EC Plug Fan inside unit
+Power Supply: 460/3/60
+Quantity of Motors: 2
+Performance ­ Mechanical Cooling
+Cooling
+Step
+Ent
+DB
+ºF
+Ent
+WB
+ºF
+Ent
+RH
+%
+Ent
+DP
+ºF
+Unit
+Air Vol
+CFM
+Air
+Face
+Vel
+FPM
+Amb
+DB
+ºF
+TCC
+kBTUh
+SCC
+kBTUh
+THR
+kBTUh
+Evap
+Temp
+ºF
+Cond
+Temp
+ºF
+Lvg
+DB
+ºF
+Lvg
+WB
+ºF
+Tot
+Comp
+Pwr
+kW
+Sys
+Power
+Input
+kW
+Sys
+SCOP
+W/W
+Sys
+NSCOP
+W/W
+Fan
+kW
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+95
+256.8
+221.3
+347.6
+45 120.5 55.1 52.1
+21.60
+30.86
+2.10
+2.10 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+96
+255.2
+220.6
+346.6
+45.1 121.4 55.2 52.2
+21.70
+31.02
+2.09
+2.09 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+97
+253.7
+219.9
+345.6
+45.2 122.3 55.3 52.3
+21.90
+31.18
+2.07
+2.07 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+98
+252.2
+219.2
+344.8
+45.3 123.1 55.3 52.3
+22.10
+31.34
+2.05
+2.05 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+99
+250.7
+218.4
+343.5
+45.4
+124 55.4 52.4
+22.20
+31.49
+2.03
+2.03 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+100
+249
+217.7
+342.8
+45.5 124.9 55.4 52.4
+22.40
+31.66
+2.02
+2.02 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+101
+247.5
+217.1
+342
+45.6 125.7 55.5 52.5
+22.60
+31.82
+2.00
+2.00 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+102
+245.9
+216.1
+340.6
+45.7 126.6 55.6 52.6
+22.70
+31.97
+1.98
+1.98 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+103
+244.3
+215.4
+339.6
+45.8 127.5 55.7 52.6
+22.90
+32.13
+1.97
+1.97 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+104
+242.8
+214.7
+338.8
+45.9 128.4 55.7 52.7
+23.00
+32.30
+1.95
+1.95 5.77
+4.0
+75 61.1 45.0 52.3 10400
+421.8
+105
+241.3
+213.9
+337.5
+46 129.2 55.8 52.7
+23.20
+32.45
+1.93
+1.93 5.77
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 016 ═══
+
+7/25/2016
+Performance Results ­ Air Cooled ­ Performance Analysis
+.
+1) Capacity shown has been reduced by fan motor heat (net).
+2) Unit Watt Input and SCOP include: Compressors, Blower Motor, Condenser 
+3) Coil airflow is reduced by a bypass of 0.96% of total unit airflow
+4) Discharge line length: 25 feet, Liquid line length: 25 feet, Suction line length: 0 feet
+5) Test method as defined by ASHRAE 127­2007 
+6) Capacity Tolerance is 5% 
+© 2016 Liebert Corporation. All Rights Reserved P5
+v. 1.2.14.14
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+

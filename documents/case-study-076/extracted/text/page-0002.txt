@@ -1,0 +1,46 @@
+!
+Pilot Overview
+From August to October 2015, Energy Efﬁcient Technologies, LLC (EET) and Powertron Global (PTG), conducted a 
+joint pilot project on three Regional Convenience Store Chain stores located in and around St. George, Utah.  A fourth store (Hurricane Store
+#402)  that was initially included but later removed from the pilot for some unforeseen mechanical issues 
+unrelated to the project involving one of the two main roof top units (RTUs). The primary purpose of this pilot 
+project was to demonstrate the effectiveness of implementing PermaFrost NMR® technology into the HVAC and 
+refrigeration systems located in each of the stores.  In addition to PermaFrost NMR®, a power factor technology 
+called Circuit Master was also included in the pilot to ascertain its feasibility in future Regional Convenience Store Chain Adventure Store 
+applications.
+ 
+In order to provide conclusive results demonstrating the cost savings of the aforementioned energy conservation 
+measures (ECMs), EET installed utility grade meters with logging capabilities to monitor only the HVAC and 
+refrigeration power demand and energy consumption in each store. Baseline (pre) data was collected for two 
+weeks before implementing the technologies on August 21st.  Results from power factor correction can be 
+noticed immediately so their effect was calculated in the two days immediately preceding and following 
+implementation of the Circuit Master devices at the electrical panel.  PermaFrost NMR® requires a minimum of 
+350-400 hours of operation on the two rooftops units (RTUs) and multiple refrigeration units supporting each of 
+the Regional Convenience Store Chain Adventure Stores before maximum savings are generated.  For this reason, the post data was 
+collected after 30 September 2015 yielding the results summarized in subsequent sections. 
+The HVAC and refrigeration equipment in this study are representative of a great majority of the portfolio of 
+equipment operated by Regional Convenience Store Chain in their Adventure Stores. If thermal degradation is present in this pilot 
+equipment, it is present in the entire inventory of Regional Convenience Store Chain cooling equipment. Energy savings calculations based 
+on the improvement demonstrated in the pilot equipment (portfolio representation) can then be accurately 
+extrapolated across the entire inventory of equipment.
+As demonstrated in this pilot study, PermaFrost NMR® restores the capacity of cooling systems lost over time due 
+to fouling of the heat exchange surfaces. Working in a complementary fashion, the Circuit Master technology is 
+designed to block distortions in electrical power above and below the normal signal range and contains line ﬁlter 
+capacitors to improve power factor. This allows induction power equipment such as HVAC and refrigeration 
+compressors and fans to use less energy.  The restoration of cooling system capacity combined with improved 
+power will manifest itself in any or all of the following ways:
+ 
+• Ability of the equipment to better satisfy ﬂuctuating store and efrigeration loads
+  
+• Produce additional cooling redundancy at no extra cost or interruption to store operations
+  
+• Improve cooling equipment efﬁciency, lowering cost to produce each ton of cooling required 
+  
+• Restore thermal efﬁciency, allowing cooling equipment to achieve thermostat set points faster
+  
+• Reduce unscheduled maintenance issues and extend equipment life by 15% or more 
+  
+• Reduce overall energy consumption and peak demand charges (KVA)
+2
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

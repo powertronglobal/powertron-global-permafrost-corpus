@@ -1,0 +1,65 @@
+═══ EXECUTIVE SUMMARY ═══
+PermaFrost NMR Energy Study: Major Telecom E Meter 597 Kwh
+
+Study Overview
+----------------------------------------
+This study analyzed 254,427 high-resolution measurements collected at 2-second intervals.
+Baseline period: 65,363 data points
+Post-treatment period: 189,034 data points
+
+
+Facility Information
+----------------------------------------
+Customer: Major Telecom E
+Industry: Telecommunications
+
+═══ METHODOLOGY ═══
+Measurement Methodology
+========================================
+
+Data Type: Time Series
+Total Measurements: 254,427
+
+Source Data Files:
+  - 597 kWh baseline_extended.xlsx: 65,363 rows (baseline period)
+  - 597 kWh post EXTENDED.xlsx: 189,034 rows (post period)
+  - Major Telecom A 597 - Meter1_kWh_by_Temperature_Bins.xlsx: 30 rows (unknown period)
+
+Measurement Protocol
+----------------------------------------
+This study follows the International Performance Measurement & Verification Protocol (IPMVP)
+for collecting and analyzing HVAC performance data. Key metrics measured include:
+
+  - Coefficient of Performance (COP)
+  - Energy Efficiency Ratio (EER)
+  - Power consumption (kW)
+  - Cooling capacity (Tons)
+  - kW per Ton efficiency
+  - Outdoor air temperature
+  - Chilled water flow rate (GPM)
+  - Chilled water delta temperature
+
+Measurements were collected at 2-second intervals using calibrated sensors
+to capture transient system behavior and ensure statistical significance.
+
+═══ DETAILED METRICS ═══
+Detailed Metrics Analysis
+========================================
+
+Data File: 597 kWh baseline_extended.xlsx
+Period: Baseline
+Measurements: 65,363
+------------------------------
+
+
+Data File: 597 kWh post EXTENDED.xlsx
+Period: Post
+Measurements: 189,034
+------------------------------
+
+
+Data File: Major Telecom A 597 - Meter1_kWh_by_Temperature_Bins.xlsx
+Period: Unknown
+Measurements: 30
+------------------------------
+

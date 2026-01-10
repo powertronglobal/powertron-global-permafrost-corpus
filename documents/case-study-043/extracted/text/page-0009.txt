@@ -1,0 +1,32 @@
+®
+Return On Investment
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the West Lake HS/Municipal School District ISD DX Unit.
+Baseline Energy Consumption
+Baseline Tonnage: 5.19 tons
+Adjusted kW Baseline: 1.81 kW/ton * 8.15 tons = 14.75 kW
+Adjusted Baseline kWh: 14.75 kW * 3000 Annual Operating Hrs = 44,250 kWh
+Revised Cost to Run Baseline: 44,250 kWh * $.10 = $4,425
+Post Energy Consumption
+kW Post: 1.14 kW/ton * 8.15 tons = 9.3 kW
+Annual kWh Post: 9.3 kW * 3000 hours = 27,900 kWh
+Annual Cost Post: 27,900 kWh * .10 cents = $2,790
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $4,425 - $ 2,790 = $1,630
+Estimated Energy Savings Per Month: $1,635 / 12 = $136
+Initial Payback Period
+Cost of PermaFrost NMR® installed in the pilot DX unit: $1,000
+Estimated ROI Period for Pilot DX Unit: $1000/ $136 = 7.3 months
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period 
+for West Lake High School and Municipal School District ISD for implementing the PermaFrost NMR® ECM, a detailed Regression 
+Analysis is used to calculate the true energy savings resulting from the improvement in capacity. This increased 
+capacity reduces the annual kWh expended in the Post Analysis Period. ROI comes from determining what the cost to 
+run the systems was when operating at the original energy profile to produce the newly restored amount of available 
+tonnage capacity and then subtracting the revised cost to run the systems at the same restored tonnage after the 
+PermaFrostNMR® ECM was installed. This regression analysis is the most widely accepted method of accounting for 
+the reduced number of hours the systems will now operate due to the restored capacity. This restored capacity allows the 
+systems to reach the internal building set points with increased efficiency resulting in reduced compressor demand 
+loading.
+8
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

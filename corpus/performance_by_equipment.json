@@ -1,0 +1,411 @@
+{
+  "title": "Performance Analysis by Equipment Type",
+  "version": "1.0.0",
+  "last_updated": "2025-12-28",
+  "purpose": "Break down PermaFrost performance data by equipment type, age, and operating characteristics",
+  "data_source": "Analysis of 133 case studies from comprehensive_measurements.json. Equipment types extracted from 116 of 133 records (remaining 3 lack identifiable equipment type in source PDFs).",
+  "by_equipment_type": {
+    "chiller": {
+      "case_count": 64,
+      "average_improvement_pct": 21.1,
+      "improvement_range": {
+        "min": 4.6,
+        "max": 42.0
+      },
+      "average_annual_savings_usd": 23442,
+      "typical_capacity_range_tons": "100-1000",
+      "subtypes": {
+        "centrifugal": {
+          "typical_improvement": "22-28%",
+          "notes": "Large capacity, significant absolute dollar savings"
+        },
+        "screw": {
+          "typical_improvement": "20-30%",
+          "notes": "Common in medium commercial applications"
+        },
+        "reciprocating": {
+          "typical_improvement": "18-25%",
+          "notes": "Older technology, often high improvement potential"
+        },
+        "scroll": {
+          "typical_improvement": "15-25%",
+          "notes": "Smaller chillers, modular systems"
+        }
+      },
+      "key_insights": [
+        "Chillers show highest absolute dollar savings due to size",
+        "Water-cooled chillers typically show higher efficiency gains than air-cooled",
+        "Multi-stage/screw chillers often show improvements at partial load",
+        "Oil-flooded screw compressors particularly responsive to treatment"
+      ]
+    },
+    "rtu": {
+      "case_count": 10,
+      "average_improvement_pct": 22.3,
+      "improvement_range": {
+        "min": 7.7,
+        "max": 38.0
+      },
+      "average_annual_savings_usd": 7400,
+      "typical_capacity_range_tons": "5-50",
+      "subtypes": {
+        "standard_efficiency": {
+          "typical_improvement": "22-30%",
+          "notes": "Often older units with significant oil fouling"
+        },
+        "high_efficiency": {
+          "typical_improvement": "15-22%",
+          "notes": "Newer units still benefit from treatment"
+        }
+      },
+      "key_insights": [
+        "High volume application - multiple units per building",
+        "Retail and commercial buildings typically have 5-20 RTUs",
+        "Chain rollouts can aggregate significant savings",
+        "Seasonal operation affects annual savings calculation"
+      ]
+    },
+    "split_system": {
+      "case_count": 11,
+      "average_improvement_pct": 24.3,
+      "improvement_range": {
+        "min": 8.0,
+        "max": 35.0
+      },
+      "average_annual_savings_usd": 15798,
+      "typical_capacity_range_tons": "1.5-5",
+      "key_insights": [
+        "Smaller individual savings but high unit counts",
+        "Common in light commercial and residential applications",
+        "Mini-splits/VRF systems - growing segment with limited data"
+      ]
+    },
+    "crac_crah": {
+      "case_count": 13,
+      "average_improvement_pct": 26.1,
+      "improvement_range": {
+        "min": 12.0,
+        "max": 35.0
+      },
+      "average_annual_savings_usd": 22963,
+      "typical_capacity_range_tons": "10-30",
+      "key_insights": [
+        "Data center precision cooling application",
+        "24/7 operation maximizes annual savings",
+        "Directly impacts PUE (Power Usage Effectiveness)",
+        "Critical cooling - reliability paramount"
+      ]
+    },
+    "refrigeration": {
+      "case_count": 13,
+      "average_improvement_pct": 26.0,
+      "improvement_range": {
+        "min": 6.5,
+        "max": 28.0
+      },
+      "average_annual_savings_usd": 8966,
+      "typical_applications": [
+        "Walk-in coolers/freezers",
+        "Display cases",
+        "Process cooling",
+        "Cold storage"
+      ],
+      "key_insights": [
+        "24/7 operation similar to data centers",
+        "Lower temperature applications may show different response",
+        "Multi-unit installations in retail/restaurant common"
+      ]
+    },
+    "dx_system": {
+      "case_count": 5,
+      "average_improvement_pct": 31.1,
+      "improvement_range": {
+        "min": 10.0,
+        "max": 32.0
+      },
+      "average_annual_savings_usd": 13309,
+      "notes": "Direct expansion systems not otherwise categorized"
+    }
+  },
+  "by_equipment_age": {
+    "0_to_5_years": {
+      "case_count": 12,
+      "average_improvement_pct": 20.9,
+      "typical_range": "5-25%",
+      "key_factors": [
+        "Limited oil fouling accumulation time",
+        "Well-maintained status common",
+        "Treatment provides preventive benefit"
+      ],
+      "recommendation": "Set realistic expectations for 15-20% improvement. Consider treatment to PREVENT degradation rather than restore it."
+    },
+    "5_to_10_years": {
+      "case_count": 21,
+      "average_improvement_pct": 25.2,
+      "typical_range": "15-30%",
+      "key_factors": [
+        "Sufficient operating time for oil migration",
+        "Equipment typically still mechanically sound",
+        "Good balance of improvement potential and remaining life"
+      ],
+      "recommendation": "Excellent candidates. Equipment has accumulated fouling but remains in good condition for treatment."
+    },
+    "10_to_15_years": {
+      "case_count": 32,
+      "average_improvement_pct": 25.8,
+      "typical_range": "18-35%",
+      "key_factors": [
+        "Significant oil fouling accumulation",
+        "May be approaching maintenance-intensive phase",
+        "High improvement potential"
+      ],
+      "recommendation": "Ideal candidates. Significant fouling to address, equipment still viable for extended operation."
+    },
+    "15_to_20_years": {
+      "case_count": 9,
+      "average_improvement_pct": 24.9,
+      "typical_range": "20-40%",
+      "key_factors": [
+        "Maximum fouling typically reached",
+        "Verify mechanical condition before treatment",
+        "May be considering replacement"
+      ],
+      "recommendation": "Excellent improvement potential. Treatment can extend equipment life and fund future replacement."
+    },
+    "over_20_years": {
+      "case_count": 8,
+      "average_improvement_pct": 22.6,
+      "typical_range": "15-35%",
+      "key_factors": [
+        "Highest risk of mechanical issues",
+        "May have R-22 refrigerant",
+        "Verify compressor and controls condition"
+      ],
+      "recommendation": "Good candidates if mechanically sound. Treatment maximizes remaining equipment value."
+    }
+  },
+  "by_operating_profile": {
+    "24_7_operation": {
+      "examples": [
+        "Data centers",
+        "Hospitals",
+        "Manufacturing",
+        "Telecom"
+      ],
+      "runtime_hours_per_year": 8760,
+      "savings_multiplier": 1.0,
+      "typical_payback": "6-12 months",
+      "notes": "Maximum annual savings capture due to continuous operation"
+    },
+    "extended_hours": {
+      "examples": [
+        "Retail",
+        "Restaurants",
+        "Hotels"
+      ],
+      "runtime_hours_per_year": 4000,
+      "savings_multiplier": 0.65,
+      "typical_payback": "12-18 months",
+      "notes": "Good savings with extended but not continuous operation"
+    },
+    "standard_commercial": {
+      "examples": [
+        "Offices",
+        "Schools",
+        "Banks"
+      ],
+      "runtime_hours_per_year": 2500,
+      "savings_multiplier": 0.45,
+      "typical_payback": "18-24 months",
+      "notes": "Seasonal and daily cycling reduces annual savings capture"
+    },
+    "seasonal": {
+      "examples": [
+        "Seasonal retail",
+        "Vacation properties"
+      ],
+      "runtime_hours_per_year": 1500,
+      "savings_multiplier": 0.25,
+      "typical_payback": "24-36 months",
+      "notes": "Limited operation time extends payback period"
+    }
+  },
+  "by_industry": {
+    "banking_financial": {
+      "case_count": 37,
+      "average_improvement_pct": 26.3,
+      "average_annual_savings_usd": 24070,
+      "total_documented_savings_usd": 818392,
+      "key_applications": [
+        "Branch offices",
+        "Data centers",
+        "Corporate headquarters"
+      ],
+      "notable_results": "Major Global Bank A showed 17.76% sustained over 6+ years"
+    },
+    "data_center": {
+      "case_count": 14,
+      "average_improvement_pct": 25.0,
+      "average_annual_savings_usd": 32250,
+      "key_applications": [
+        "CRAC units",
+        "Chillers",
+        "RTUs"
+      ],
+      "notable_results": "Direct PUE impact documented"
+    },
+    "telecommunications": {
+      "case_count": 13,
+      "average_improvement_pct": 20.4,
+      "average_annual_savings_usd": 8758,
+      "key_applications": [
+        "Cell sites",
+        "Central offices",
+        "Data centers"
+      ],
+      "notable_results": "Major Telecom A, Major Telecom B, Major Telecom C installations documented"
+    },
+    "hospitality": {
+      "case_count": 4,
+      "average_improvement_pct": 22.8,
+      "average_annual_savings_usd": 23847,
+      "key_applications": [
+        "Hotel chillers",
+        "Kitchen refrigeration"
+      ],
+      "notable_results": "Hotel Chain A [Louisiana Location] and [Caribbean Location] documented"
+    },
+    "retail": {
+      "case_count": 13,
+      "average_improvement_pct": 20.4,
+      "average_annual_savings_usd": 12140,
+      "key_applications": [
+        "RTUs",
+        "Refrigeration",
+        "Split systems"
+      ],
+      "notable_results": "Retail Chain B, Retail Chain A, Retail Chain C installations"
+    },
+    "restaurant": {
+      "case_count": 5,
+      "average_improvement_pct": 24.1,
+      "average_annual_savings_usd": 3841,
+      "key_applications": [
+        "Walk-in coolers",
+        "RTUs",
+        "Refrigeration"
+      ],
+      "notable_results": "Restaurant Chain A, QSR Chain A multi-year tracking"
+    },
+    "education": {
+      "case_count": 4,
+      "average_improvement_pct": 29.1,
+      "average_annual_savings_usd": 14169,
+      "key_applications": [
+        "Campus chillers",
+        "Classroom RTUs"
+      ],
+      "notable_results": "Highest average improvement of any industry segment"
+    },
+    "government_military": {
+      "case_count": 9,
+      "average_improvement_pct": 19.8,
+      "average_annual_savings_usd": 19848,
+      "key_applications": [
+        "Data centers",
+        "Office buildings",
+        "Bases"
+      ],
+      "notable_results": "Military Base A, Defense Agency A - federal validation"
+    },
+    "healthcare": {
+      "case_count": 2,
+      "average_improvement_pct": 12.8,
+      "average_annual_savings_usd": 28776,
+      "key_applications": [
+        "Hospital chillers",
+        "Critical cooling"
+      ],
+      "notable_results": "Lower % due to strict maintenance standards, but high absolute savings"
+    },
+    "pharmaceutical": {
+      "case_count": 2,
+      "average_improvement_pct": 5.3,
+      "average_annual_savings_usd": 19363,
+      "key_applications": [
+        "Manufacturing cooling",
+        "Lab HVAC"
+      ],
+      "notable_results": "Lowest improvement % due to pharmaceutical-grade maintenance"
+    }
+  },
+  "factors_affecting_results": {
+    "positive_factors": [
+      {
+        "factor": "Equipment age >10 years",
+        "impact": "+5-10% above average",
+        "reason": "More time for oil fouling to accumulate"
+      },
+      {
+        "factor": "Deferred maintenance",
+        "impact": "+5-15% above average",
+        "reason": "More oil residue on heat exchange surfaces"
+      },
+      {
+        "factor": "Oil-flooded compressors",
+        "impact": "+3-8% above average",
+        "reason": "Higher oil circulation inherent to design"
+      },
+      {
+        "factor": "High runtime hours",
+        "impact": "Higher absolute savings",
+        "reason": "More operating hours to capture efficiency gains"
+      }
+    ],
+    "negative_factors": [
+      {
+        "factor": "Equipment age <5 years",
+        "impact": "-5-10% below average",
+        "reason": "Limited time for oil fouling"
+      },
+      {
+        "factor": "Proactive maintenance program",
+        "impact": "-5-10% below average",
+        "reason": "Lower baseline fouling level"
+      },
+      {
+        "factor": "Recent refrigerant recharge",
+        "impact": "-3-8% below average",
+        "reason": "Fresh refrigerant may have cleaned some surfaces"
+      },
+      {
+        "factor": "Pharmaceutical/data center standards",
+        "impact": "-5-15% below average",
+        "reason": "Rigorous maintenance reduces baseline fouling"
+      }
+    ]
+  },
+  "training_notes": {
+    "key_insights": [
+      "Equipment type affects FORM of results (% vs absolute $)",
+      "Equipment age is strongest predictor of improvement percentage",
+      "Operating hours determine annual savings magnitude",
+      "Industry affects maintenance standards and baseline fouling",
+      "Highest % improvements: education, entertainment, neglected equipment",
+      "Highest $ savings: chillers, data centers, 24/7 operations"
+    ],
+    "recommendation_priorities": {
+      "best_candidates": [
+        "10-20 year old chillers in commercial buildings",
+        "Data center CRAC units (24/7 operation)",
+        "Multi-unit retail/restaurant locations (volume)",
+        "Deferred maintenance situations"
+      ],
+      "proceed_with_caution": [
+        "Equipment <3 years old (set lower expectations)",
+        "Pharmaceutical-grade facilities (expect 5-10%)",
+        "Equipment scheduled for replacement within 1 year"
+      ]
+    }
+  }
+}

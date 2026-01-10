@@ -1,0 +1,36 @@
+ 
+ 
+Page 5 of 38 
+ 
+Figure 10 - kW/Ton Outliers in May 2020 (Department Store A) 
+ 
+ 
+To apply this method, one must choose the tolerance factor, the period of time for which the median 
+is calculated, and how many outliers during a period would trigger an alert. For this exploration, the 
+team selected a tolerance factor of 3, calculated the median in monthly increments, and specifically 
+triggered the alert when the amount of outliers contained in the dataset amounted to 30% or more of 
+the data within the set.  
+ 
+Depending on the expected regularity of the data, one could ‘zoom in’ by reducing the threshold for 
+percentage of the set classified to be outliers. If changes occur that may be of interest within smaller 
+periods of time, the time increment for median calculation could be modified to ensure changes 
+shifts in the median over time are not lost. To understand the best measurement conditions, selected 
+presets for the algorithm should be tested via experiments on historical data to determine what 
+provides the most pointed outcomes.  For example, median could be a running value calculated 
+continuously, or could be calculated only on data taken during a matching outdoor air temperature.   
+ 
+This model has potential to detect possible mechanical failure in real time, however more historical 
+data would be needed to examine trends and set appropriate thresholds based on understanding of 
+the data in previously recorded mechanical failure or malfunction. This use case may also need 
+further variables not being calculated at this time, such as pressure, that may need more sensor 
+equipment. Historical data would need to be labeled so results can be understood against real 
+record of mechanical failure. 
+ 
+Another key statistic that would be worth pulling on an ongoing basis to better assess this 
+methodology would be a running measure of the spread of the data. 
+ 
+This method has real potential use cases within its ability to be connected with an application and 
+actively flagging the engineer or device user when an amount above the threshold of outliers is 
+detected. 
+ 
+ 

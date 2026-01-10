@@ -1,0 +1,283 @@
+Appendix B
+Weather Data from Military Base B
+7
+ 
+ 
+ 
+ 
+ 
+ 
+7:55 PM, Tue  
+72° 
+61° 
+69% 
+30.06in       10mi      Unlft  
+ESE 
+0mph 
+Scattered Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8mph 
+ 
+6:55 PM, Tue  
+73° 
+63° 
+69% 
+30.06in       10mi      Unlft E 
+0mph 
+Scattered Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6mph 
+ 
+5:55 PM, Tue  
+75° 
+63° 
+65% 
+30.06in       10mi      Unlft E 
+0mph 
+Scattered Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5mph 
+ 
+4:56 PM, Tue  
+77° 
+59° 
+54% 
+30.06in       12mi      25000ft 
+ENE 
+21mph Broken Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9mph 
+ 
+4:30 PM, Tue  
+77° 
+59° 
+54% 
+30.06in       12mi      25000ft 
+ESE 
+0mph 
+Broken Clouds Thunderstorm
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10mph  
+3:56 PM, Tue  
+77° 
+59° 
+54% 
+30.06in       12mi      25000ft 
+ESE 
+0mph 
+Broken Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11mph  
+2:55 PM, Tue  
+75° 
+63° 
+65% 
+30.09in       12mi      25000ft 
+SE 
+0mph 
+Broken Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11mph  
+1:56 PM, Tue  
+77° 
+61° 
+57% 
+30.09in       12mi      25000ft 
+SE 
+0mph 
+Broken Clouds Scattered 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10mph  
+Showers  
+1:10 PM, Tue  
+73° 
+61° 
+65% 
+30.09in       12mi      Unlft 
+ESE 
+0mph 
+Scattered Clouds Scattered
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9mph 
+ 
+Showers  
+12:31 PM, Tue  
+73° 
+64° 
+73% 
+30.12in       12mi      14000ft 
+ESE 
+0mph 
+Broken Clouds Thunderstorm
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8mph 
+ 
+11:55 AM, Tue  73° 
+64° 
+73% 
+30.12in       12mi      14000ft 
+E 
+0mph 
+Broken Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9mph 
+ 
+10:55 AM, Tue  70° 
+64° 
+83% 
+30.12in       12mi      9500ft 
+E 
+0mph 
+Broken Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6mph 
+ 
+9:55 AM, Tue  
+66° 
+63° 
+88% 
+30.15in       12mi      10000ft 
+NE 
+0mph 
+Overcast 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3mph 
+ 
+8:55 AM, Tue  
+64° 
+61° 
+88% 
+30.12in       12mi      9500ft 
+E 
+0mph 
+Broken Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6mph 
+ 
+7:55 AM, Tue  
+59° 
+57° 
+94% 
+30.12in       12mi      Unlft 
+N 
+0mph 
+Scattered Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3mph 
+ 
+Date/Time
+Temp
+Dew Point
+Relative
+Humidity
+Pressure
+Visibility
+Ceiling
+Wind
+Gust
+Weather

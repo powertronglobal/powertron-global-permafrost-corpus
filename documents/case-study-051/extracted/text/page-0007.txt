@@ -1,0 +1,138 @@
+Summary of All Performance Measurements in
+Treated Pilot Systems
+The chart below lists all of the measurements taken on the three treated pilot systems.
+6
+Community Center A PermaFrost NMR® 2015 Performance Study Measurements
+Community Center A
+BASELINE
+Chiller 1
+Community Center A
+POST
+Chiller 1
+TYPE OF MEASUREMENT
+472.0
+261.0
+43.9
+142.3
+49.5
+59.2
+air
+air
+9.7
+181.1
+1.27
+142.8
+353
+100
+92
+483.0
+241.3
+41.3
+134.2
+46.9
+57.2
+air
+air
+10.3
+171.3
+1.13
+151.6
+353
+100
+95.5
+Community Center A
+BASELINE
+Chiller 2
+Community Center A
+POST
+Chiller 2
+476.0
+259.4
+44.7
+145.3
+50.1
+58.3
+air
+air
+8.2
+181.5
+1.50
+120.7
+353
+100
+92.5
+484.0
+238.0
+44.5
+136.1
+48.8
+58
+air
+air
+9.2
+169.3
+1.25
+135.4
+353
+100
+95.5
+Community Center A
+BASELINE
+Chiller 3
+Community Center A
+POST
+Chiller 3
+480.6
+218.3
+44.7
+122.8
+47.2
+58.9
+air
+air
+11.7
+154.2
+1.08
+142.5
+292
+100
+92
+491.0
+205.4
+42
+112.5
+46.5
+58.5
+air
+air
+12
+148.3
+1.02
+146.1
+292
+100
+95.5
+Voltage  
+Amperage 
+ 
+Saturated Suction Temperature 
+Discharge Refrigerant Temperature 
+Chilled Water Leaving Temp (Supply) 
+Chilled Water Entering Temp (Return)
+Condenser Water Temp Entering Chiller
+Condenser Water Temp leaving Chiller 
+Chilled Water Delta T 
+ 
+kW (V x A x 1.47)  
+kW / Ton  
+Actual Measured Operating Tons 
+ 
+Chiller GPM 
+ 
+Vane Position % During Testing 
+OAT 
+ 
+(*) - All CFM's measured baseline and post fell within a 2% margin of error so the same CFM's were used in all calculations so not to affect
+the results more positively or negatively.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

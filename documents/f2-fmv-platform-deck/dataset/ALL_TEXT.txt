@@ -1,0 +1,259 @@
+================================================================================
+DOCUMENT EXTRACTED FROM PDF
+================================================================================
+
+═══ PAGE 001 ═══
+
+F I N D .  M E A S U R E .  V E R I F Y.
+FMV Platform
+FORENSIC INDUSTRIAL IoT SYSTEM
+Utilizing our F2 Devices and Cloud Based Reporting Platform
+
+
+═══ PAGE 002 ═══
+
+If your business would like to bring its HVAC assets into the online world of IoT 
+(Internet of Things) to better manage your equipment by your facility personnel, 
+or if you are a mechanical ﬁrm that oﬀers commissioning, re-commissioning or 
+Measurement & Veriﬁcation (M&V) services, Powertron Global’s F2 device and 
+FMV Platform delivers IoT cloud based system at a fraction of the cost of installing 
+new Pharma Company B/EMS solutions or hiring conventional engineering services of the past.  
+70% of all HVAC in service is operating 30-50% oﬀ design and wasting energy.  
+No more guessing, opinions or uniformed approaches to energy eﬃciency! Let the real time data drive 
+your operational decisions. Diagnose system eﬃciency and performance, verify energy conservation 
+measures, create alerts for proactive maintenance strategies, and audit existing Pharma Company B/EMS 
+systems/sensors, or long-term real-time system monitoring and management. The F2 does it all!
+Powertron Global is offering an affordable program of our F2 metering devices for HVAC 
+equipment. Take advantage of what the IoT world has to oﬀer your business or mechanical ﬁrm.
+Our Powertron F2 IoT Devices can be installed on most DX and Chiller (water or air-cooled) HVAC 
+equipment including Air-handlers (AHU) in the ﬁeld today. Our devices can be a permanent or 
+temporary (transferable to another piece of like equipment) installment.
+Make your HVAC/R system smarter and it’s performance data accessible. The 
+Powertron Global IoT solution provides enterprise level, real-time monitoring of several types of 
+meters including but not limited to power, water, BTU, temperatures, ﬂows, and pressures. We also 
+have custom oﬀerings speciﬁcally designed to manage and monitor HVAC energy performance i.e. 
+electrical and mechanical.
+
+
+═══ PAGE 003 ═══
+
+Powertron Global will work with your company/business to develop a solution that ﬁts your exact 
+needs; such as meter requirements, sensor conﬁgurations, support and education; we have you 
+covered. Powertron Global oﬀers a point-by-point solution. Up to 50 points of measurement (per 
+piece of HVAC equipment) can be made available through a single Powertron IoT Device. Understand 
+your current systems’ up to the minute, daily or weekly performance over a typical load curve 
+experienced at your site.
+This 100% “cloud-based” system provides advanced analytic reporting to designated personnel via 
+their Internet-connected PC, laptop, tablet, or smartphone. Create alerts for any event that needs 
+your attention and reduce service expenses. With our bolt on F2 Device(s) you do not need to 
+replace your HVAC systems in order to have state of the art IoT technology.
+Start with a quick win for your enterprise or business, or HVAC Mechanical ﬁrm. Get ahead of the 
+competition. Build your system with us. We are the most compelling cost eﬀective energy 
+management platform and service offering in the market. Affordable and easy to set up.
+Please call info@powertronglobal.com or speak to representative about our options and solution to ﬁt your 
+needs.
+FEATURES:
+•
+3 Base packages with customizable options to ﬁt your needs
+•
+100% Cloud based data reporting
+•
+Real-time Monitoring from any Computer, Laptop, Tablet or
+Smartphone
+•
+Complete Thermal Performance Tracking & Reporting
+•
+Trend Analysis and Self-Manage HVAC equipment
+•
+Revenue Grade Accuracy Power monitoring
+•
+Program Alerts/Notiﬁcations for Sensor or Data Points
+•
+Baseline/Benchmark Measurement or Results Tracking/Veriﬁcation
+•
+Permanent or Temporary Installation
+•
+Connectivity can be Ethernet, Wi-Fi or Cellular
+
+
+═══ PAGE 004 ═══
+
+3 BASE APPLICATIONS/CONFIGURATIONS:
+DX PACKAGE (RAW POINTS) 
+• Thermistor - Temp/Humidity x 2 (RA & SA)
+• Air Velocity
+• Outside Air Temp
+• Suction Refrigerant Pressure Transducer
+(1 per circuit)
+• Discharge Refrigerant Pressure Transducer
+(1 per circuit)
+• Saturated Evaporation Temp (1 per circuit)
+• Saturated Condenser Temp (1 per circuit)
+• Electrical Power Meter
+• CT's x 3
+• Current Switches 2-6 (compressor on/oﬀ)
+WATER OR AIR-COOLED Healthcare System ALLER (RAW POINTS)
+• Chilled Water Diﬀerential Pressure Transmitter
+• Condenser Water Diﬀerential Pressure Transmitter
+(water cooled only)
+• Refrigerant Discharge Pressure (1 per circuit)
+• Refrigerant Suction Pressure (1 per circuit)
+• Chilled Water Inlet Temp
+• Chilled Water Outlet Temp
+• Condenser Water Inlet Temp (water cooled only)
+• Condenser Water Outlet Temp (water cooled only)
+• Condensed Liquid Refrigerant Temp (1 per circuit)
+• Suction Refrigerant Temp (1 per circuit)
+• Compressor Inlet Temp (1 per circuit)
+• Refrigerant Inlet Temp (1 per circuit)
+• Compressor Discharge Temp (1 per circuit)
+• Outside Air Temp
+• Electrical Power Meter
+• CT's x 3
+• Current Switches 2-6 (compressor on/oﬀ) –
+air-cooled only
+AIR HANDLER (RAW POINTS)
+• Thermistor - Temp/Humidity  x 2 (RA & SA)
+• Ambient Air Temp
+• Chilled Water Diﬀerential Pressure Transmitter
+• Chilled Water Outlet Temp
+• Chilled Water Inlet Temp
+• Air Velocity
+• Electrical Power Meter
+• CT's x 3
+*Split System
+conﬁgurations
+are available.
+Call for pricing
+and availability.
+*Custom options
+are available.
+Call for pricing
+and availability.
+
+
+═══ PAGE 005 ═══
+
+Depending on which Conﬁguration/Application you choose, our FMV Platform 
+can display valuable calculated points such as:
+• kW/ton
+• Capacity tons
+• Normalized Capacity Tons
+• Enthalpy Delta
+• Delta T
+• EER
+• COP
+• GPM
+• CFM
+• Air velocity
+• kW
+• kWh
+• Refrigeration Approach
+• Condenser Approach
+• Super Heat
+• Sub-cooling
+and more
+F2 DESIGN FEATURES:
+Designed to IP66 of IEC 529 and NEMA 1, 2, 4, 4X
+All plastic construction including hinge pins
+These gasket equipped all-plastic enclosures have 
+been designed meet NEMA 1, 2, 4, 4X, 12, 13 and 
+IEC529-IP66 requirements, which allows them to be 
+used in many wet, dirty and/or corrosive environments
+Stainless steel wall mounting brackets
+Style - two plastic latches
+ABS plastic enclosures are molded out of light gray 
+material with UL94-HB ﬂammability rating
+100 to 240 volt VAC/VDC to 24 VDC power supply
+Power Requirements 120 V
+Lightweight approx. 8 lbs-10 lbs
+- 15-47/64" L -11-51/64" W x by 6-9/32" H
+(Ex. DX PACKAGE)
+
+
+═══ PAGE 006 ═══
+
+POWER METER:
+3-phase multi-circuit power and energy meters oﬀer revenue grade accuracy and a wealth of other 
+features, including:
+•
+Utility Revenue Grade Accuracy - IEC 62053-22 0.5s Class / ANSI C12.20 0.5 Class
+•
+Multiple CT Input Options compatible with any CT: 5A/1A, 333mV, Flexible Rogowski Coil, 80/100/200mA
+•
+Three phase three wire (3P3W), three phase four wire (3P4W), single phase three wire (1P3W two element),
+single phase two wire (1P2W one element) and more
+•
+4 Channel current input including neutral current measurement
+•
+Residual current measurement available
+•
+10-690Vac direct voltage input, ﬁts all voltage rating system with one model
+•
+RS-485 port built-in with Modbus
+•
+Standard Din-rail mount for ease-of-installation
+•
+Compatible with both 50Hz and 60Hz systems
+•
+Tamper-proof design approved for revenue applications
+SENSOR SPECIFICATIONS:
+TEMPERATURE & HUMIDITY SENSOR 
+Accuracy
+Temperature Sensor/Output Type
+Duct Mount Air w/40 Micron HDPE Filter
+RH Output
+Relative Humidity Range
+Temperature Range
+Mounting
+AIR VELOCITY  
+Accuracy
+Range 
+Output Signals
+Temperature Limits
+Mounting
+2%
+4-20mA
+Thermistor
+4-20 mA
+0-100%
+ -40 to 140 deg F (-40 to 60 deg C)
+Duct
+3%
+1000-4000 FPS
+4-20mA, 0-5 VDC, 0-10 VDC
+32 to 122 deg F (0-50 deg C)
+Duct
+
+
+═══ PAGE 007 ═══
+
+SENSOR SPECIFICATIONS:
+THERMISTOR SENSORS
+Accuracy
+Operating Temperature
+Mounting
+CURRENT SWITCHES
+Amperage Range
+REFRIGERANT PRESSURE SENSORS
+Accuracy
+Range
+Fittings
+Electrical Output
+DIFFERENTIAL PRESSURE SENSOR
+Accuracy
+Pressure Limits
+ ±0.22°C @ 25°C (±0.4°F @ 77°F)
+ -40 to 250 deg F
+Surface
+0 - 200 A AC
+1.0%
+0-500 psig
+1/4" Female SAE Valve Depressor
+4-20 mA
+ +/- 0.5% FS (includes linearity, hysteresis & repeatability)
+0-500 psid
+info@powertronglobal.com
+www.powertronglobal.com 
+CONTACT US
+

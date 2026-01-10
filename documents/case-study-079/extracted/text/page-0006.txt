@@ -1,0 +1,58 @@
+5
+Energy Science Division
+Make
+Model (indoor unit / outdoor unit)
+Serial
+Refrigerant Type
+Age
+Nominal Cooling Capacity Btuh 
+Tonnage
+CFM
+ HVAC Equipment Manufacturer
+BWEI20C400EA / TTA090
+4032YL7AD / 175881
+ R-22
+ 2004
+ 92,000
+ 7.5
+ 4,000
+System Description / Design Characteristics
+The unit provides cooling for room 1176 at the college.  The annual operational periods of the equipment is 
+6750 hours a year.
+Baseline Measurement Period Selection
+The following data was recorded on 11-2-12 using recently calibrated devices to insure measurement 
+accuracy.  The following results were recorded as a result of the implementation of the IPMVP Protocol.
+RMS Voltage
+RMS Amperage
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Entering Air Temp DB
+Leaving Air Temp DB
+Entering Air Temp WB
+Leaving Air Temp WB
+Actual CFM
+Actual Coil Capacity Btuh / Tons
+Enthalpy Delta
+Calculated Total Watts
+Calculated Watts per Ton
+OAT / RH%
+204
+22.7
+33.3 deg F
+102 deg F
+68 deg F
+56.8 deg F
+58.5 deg F
+52.7 deg F
+4,000
+64,800 Btu / 5.4 Tons
+3.60
+8,836.3 CTW
+1,636 CWPT
+76.5 deg F / 74%
+The indoor unit 
+measured at 2029 
+watts, which was added 
+into the total watts.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

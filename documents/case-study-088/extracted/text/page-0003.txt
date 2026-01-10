@@ -1,0 +1,38 @@
+®
+2
+Process
+This report contains specific information regarding the current performance profile of one of three main 
+chillers that support the Hollywood Casino St. Louis. 
+Detailed performance testing (outlined later in this report) was performed on the pilot chiller before and after 
+the installation of the PermaFrost NMR® to determine the impact on the three key elements that greatly affect 
+Major Gaming Company’s HVAC power bill as they relate to the original design specifications:
+ 
+ 
+1.  The cooling capacity the chiller is capable of producing after 17 years in service. 
+ 
+2.  The actual cost of power required to produce the amount of cooling tons the chiller is delivering as 
+ 
+     reflected in the kW/ton measurement. 
+ 
+3.  The thermal dynamic ability of the chiller to still perform at or close to operational design.
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) framework. The team was led by Penn 
+Gaming’s Facility Manager, [Client Representative] and [Client Representative], facilities technician. Also playing a key role in 
+the pilot was Murphy Mechanical Services’ Jeff Gumm, Sr. Mechanical Engineer and [Senior Energy Engineer], 
+Director of Engineering for Powertron Global.  The overall project was managed and directed by Joelle 
+Shearin, Asst. General Manager for Hollywood Casino St. Louis.  
+Engineering Notes 
+Both the baseline and post readings were taken at 90% load with incoming condenser water at 84 degrees and incoming 
+chilled water at 55 degrees, therefore no adjustments were made to the resulting data. Major Gaming Company’s management of the 
+chiller plant combined with the building load during the trial provided more than an adequate heat load on the facility to 
+ensure the chiller would remain running during the actual data collection period.  
+The chiller was tested over the span of nearly three months. During the trial the chiller experienced an unrelated oil seal 
+failure and loss of some oil & refrigerant. Oil samples from the chiller at the time of the seal failure revealed the oil was still 
+serviceable with no abnormalities present. Since PermaFrost NMR® had already had time to seat into the metal surfaces of 
+the heat exchanges, the chiller did not need to be retreated. Once put back into operation, the chiller was allowed to run for 
+an additional week before post readings were taken.
+The boundary of the testing was the chiller and nothing else, therefore confidence in the accuracy of the performance 
+calculations is very high.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

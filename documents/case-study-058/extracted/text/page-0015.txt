@@ -1,0 +1,33 @@
+     Photo and Nameplate of Inspected Sample:
+Inspection Report
+14
+ 
+ 
+ 
+Post Treatment - No. 2009JC026
+Hefei General Machinery & Electrical Products Inspection Institute
+Split Heat Pump Floor-Standing Room Air Conditioner
+KFRd-50LW  TÜV
+Power supply    Single-phase - 220V, 50 Hz
+Refrigerating capacity - 5,000W
+Heating capacity - 5,500 + 1,200W
+Rated current for refrigerating/heating - 9.4/8.6A
+Rated current for auxiliary electrical heating - 5.5A
+Rated power for refrigerating/heating - 2,060/1,900W
+Rated power for auxiliary electrical heating - 1,200W
+Refrigerant/filling volume - R22/1670g
+Noise (indoor/outdoor) - 46/52dB(A)
+Anti-static protection - Category I
+Mass (indoor/outdoor) - 38/53kg
+Operating current under the most severe conditions - 19.5A
+Overpressure at air outlet side - 2.60MPa
+Overpressure at air intake side - 0.50MPa
+Indoor Model     KFRd-50L
+Power supply    Single-phase - 220V, 50 Hz
+Rated current for refrigerating/heating - 9.4/8.6+5.5A
+Circulation air flow - 850m3/h
+Rated input power - 405+1,200W
+Mass - 38kg
+Ex-factory number
+Manufacture date
+Hefei Meiling Sigma Electrical Appliance Co., Ltd. 

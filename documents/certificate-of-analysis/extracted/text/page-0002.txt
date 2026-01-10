@@ -1,0 +1,112 @@
+Client:
+Powertron  
+Requested By: 
+Powertron 
+Sample: 
+10% PermaFrost NMR® 
++ 90% Refrigeration Oil 
+Report Date: 
+April 18, 2002 
+Laboratory No: 19695-02 Page 2 of 2 
+Purchase Order No: 
+Pending
+TEST
+RESULTS 
+Compatibility with Chlorofluoro 
+Hydrocarbons (Group I Refrigerant) 
+Compatible (No separation) 
+Compatibility with R-40, R-717, R-764 
+(Group II Refrigerant) 
+Compatible (No separation) 
+Compatibility with R-290 Propane (Group 
+III Refrigerant) 
+Compatible (No separation) 
+ hti
+w
+ ytilibita
+p
+m
+o
+C
+ sli
+O
+ lare
+ni
+M
+ hti
+w
+ ytilibita
+p
+m
+o
+C
+Compatibility with Synthetic Oils 
+Compatibility with 
+Seal Compatibility Index, 24hr @100oC,
+IP-278
+5
+Total Organic Halogens (TOX), EPA 
+9020B, ppm 
+364.0
+Analytical Methods Used: 
+1) Reference: CFR Title 40 Part 261
+2) Reference: 40 CFR Part 136, Fed Register, Oct 26, 1984, Part III
+3) Reference: SW-846 Methods for Evaluating Solid Waste No. 1986
+Major OEM Electronics AP Inorganics, Metals by Inductively Coupled Plasma, EPA 6010 
+Cold Vapor Atomic Absorption EPA 7471 for Mercury 
+HW No. 
+Contaminant 
+Cas No. 
+Regulatory/ppm 
+Result/ppm 
+D004 
+Arsenic 
+7440-38-2 
+5.0 
+<1.0 
+D005 
+Cadmium 
+7440-39-3 
+100.0 
+<1.0 
+D006 
+Barium 
+7440-43-9 
+1.0 
+<1.0 
+D007 
+Chromium 
+7440-47-3 
+5.0 
+<1.0 
+D008 
+Lead 
+7440-92-1 
+5.0 
+<1.0 
+D009 
+Mercury 
+7440-97-6 
+0.20 
+<0.05 
+D010 
+Selenium 
+7440-49-2 
+1.0 
+<1.0 
+D011 
+Silver 
+7440-22-4 
+5.0 
+<1.0 
+Prepared By, 
+[Laboratory Director, P.E.] 
+Laboratory Director 
+SINCE 1985 
+Quality Controlled Through Analysis 
+Certificate of Analysis 
+[Laboratory Address] 
+[Laboratory PO Box] 
+TEL: [redacted] 
+FAX: [redacted] 
+1

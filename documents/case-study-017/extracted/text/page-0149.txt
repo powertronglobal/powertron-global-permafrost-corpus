@@ -1,0 +1,29 @@
+9/23/2020
+Powertron Global
+https://fmv.powertronglobal.com/?obj=reports
+13/13
+Report Parameters
+Baseline
+Outside Air Range
+Return Air Filter
+Power Factor Filter
+CFM Filter
+Samples
+75 - 100
+67 - 76
+0 - 1
+1440 - 1840
+38157
+Post
+Outside Air Range
+Return Air Filter
+Power Factor Filter
+CFM Filter
+Samples
+75 - 100
+67 - 76
+0 - 1
+1440 - 1840
+56904
+ 
+Copyright © 2016 - 2020 Powertron Global, LLC.

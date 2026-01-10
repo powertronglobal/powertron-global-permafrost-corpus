@@ -1,0 +1,139 @@
+RTU #6
+BASELINE
+AERP
+RTU #2
+BASELINE
+AERP
+Voltage  
+Amperage  
+Suction Refrig Temp
+Suction Refrig Pressure
+Discharge Refrig Temp
+Discharge Refrig Pressure
+Entering Air DB Temp  
+Leaving Air DB Temp  
+Entering Air WB Temp  
+Leaving Air WB Temp  
+CFM Across Coils
+Cooling Capacity (Tons) 
+Total WB Enthalpy Delta
+kW  
+kW/Ton 
+Calculated kWh
+COP 
+Outside Air Temp 
+488 V
+25.1 A
+43.16 F
+76.6 PSI
+109.5 F
+225 PSI
+74 F
+56.5 F
+61.6 F
+54.9 F
+7,470
+12.35  
+4.41
+18.0
+1.458
+98,101
+2.41
+82 F
+488 V 
+24 A 
+ 42.5 F
+ 74.1 PSI
+ 108.9 F
+223.7 PSI
+ 74.8 F
+ 53.4 F
+59.9 F
+50.9 F
+7,470
+ 15.66  
+5.59
+17.21
+1.099
+73,980
+3.2
+76 F
+MEASUREMENT
+RTU #3
+BASELINE
+AERP
+491.6 V
+21.8 A
+37.93 F
+65.9 PSI
+105.6 F
+212.7 PSI
+73.1 F
+61.9 F
+62.2 F
+56.9 F
+8,203
+10.98  
+3.57
+15.8
+1.435
+84,608
+2.45
+83 F
+491.6 V 
+19.6 A 
+ 36.93 F
+ 62.7 PSI
+ 105.4 F
+211.6 PSI
+ 73.5 F
+ 56.1 F
+60.2 F
+53.2 F
+8,203
+ 13.72  
+4.46
+14.2
+1.032
+60,863
+3.41
+76 F
+490 V
+9.3 A
+41.2 F
+70 PSI
+111.9 F
+235 PSI
+73.3 F
+60.6 F
+63.9 F
+55.2 F
+2,081
+4.6  
+5.9
+6.7
+1.450
+31,712
+2.43
+82 F
+490 V 
+8.7 A 
+ 39.2 F
+ 67.3 PSI
+ 112.5 F
+232.5 PSI
+ 73.4 F
+56 F
+61.9 F
+51.7 F
+2,081
+ 5.09  
+6.52
+6.3
+1.232
+26,928
+2.86
+76 F
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,27 @@
+Energy Conservation Method (ECM) Content
+The content of the following report will demonstrate the effects of PermaFrost NMR®’s ability to correct the 
+effects of thermal degradation and fouling on the heat exchange surfaces. 
+A diagnostic examination of the pilot equipment is implemented to determine if the unit’s operational 
+conditions are satisfactory. Baseline measurements will be recorded and then the proper amount and type of 
+PermaFrost NMR® will be injected. The product will be allowed up to 4 weeks to seat itself into the metal 
+surfaces before post (E.R.P.) measurements were taken to establish the efficiency gains. 
+The following report produces the utilization of the IPMVP International Performance Measurement and 
+Verification Protocol as the M&V plan. The final calculations were performed by Powertron Global’s Senior 
+Energy Engineer [Senior Energy Engineer] ME/CEM/CMC/CMVP.
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+kW = Volts * Amps * 1.47 (Three Phase) / 1000
+ 
+Delta T = Return Air DB – Supply Air DB
+ 
+Enthalpy = Return Air WB Deg. F and Supply Air WB Deg. F Converted to Enthalpy
+ 
+Actual Btuh Capacity = Measured CFM X 4.5 * Enthalpy Delta (Baseline – Post) 
+ 
+System Eﬃciency % = Actual Coil Capacity Btuh / Nominal Coil Capacity Btuh
+ 
+EER = Btuh / Adjusted Watts
+ 
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

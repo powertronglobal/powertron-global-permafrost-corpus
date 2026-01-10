@@ -1,0 +1,61 @@
+®
+6
+108.31 tons
+140.5 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The units should be operating @ 135 tons of cooling capacity
+• The units were operating @ 108.31 tons of cooling capacity prior to
+   installing ECM
+• The units now have 32.19 tons of restored cooling capacity after ECM
+• The units should be operating @ 3.75 COP or more on avg.
+• The units were operating @ 2.7 COP prior to the ECM
+   and 3.55 following the ECM
+• The COP of the units were increased by 31.5%  following the ECM
+2.7
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+108.31
+tons Baseline
+100%
+CAPACITY @
+90% LOAD
+Baseline
+COP
+Post ECM
+COP
+2.7
+3.55
+3.55
+Post ECM COP
+140.5
+tons Post ECM
+31.5%
+Improvement
+in COP
+32.19
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of HVAC/R Eﬃciency Study Results
+Calculated Capacity of Retail Chain C Units Baseline and Post
+The charts below illustrate just how far off Retail Chain C units had degraded in terms of capacity over 11+ years of use. 
+With the RTUs operating at 100% load and the chiller at 50% load (adjusted down from 87% in post), these  
+same five pilot units were determined in the baseline measurement periods to be producing a total of 108.31 
+tons of cooling out of a possible 135 nominal design tons. This represents 80.2% of nominal design capacity. The 
+majority of this capacity loss is directly attributable to the thermal degradation of the heat exchange surfaces 
+over time. This is due in large part to thermal degradation which creates an insulating barrier to heat transfer on the 
+tube walls. 
+After the PermaFrost NMR® ECM was installed and allowed to work inside the units for an average of 300+ 
+runtime hours, the average total capacity of the five pilot units rose 32.19 tons to 140.5 tons or 104% of the 
+overall nominal design capacity of all five units. This represents a 29.7% increase in nominal capacity over the 
+baseline numbers.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

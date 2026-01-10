@@ -1,0 +1,100 @@
+HVAC Performance Comparison: EER
+Kit 3 Caribbean Telecom Provider [Jamaica Site B] POST
+EER Comparison 
+OSA Temp.
+Base EER
+Post EER
+70 degF
+0.0
+0.0
+71 degF
+0.0
+0.0
+72 degF
+0.0
+0.0
+73 degF
+0.0
+0.0
+74 degF
+0.0
+0.0
+75 degF
+0.0
+0.0
+76 degF
+0.0
+16.82
+77 degF
+0.0
+16.77
+78 degF
+0.0
+16.95
+79 degF
+9.24
+16.42
+80 degF
+9.2
+16.02
+81 degF
+8.72
+15.73
+82 degF
+9.07
+15.34
+83 degF
+8.56
+14.88
+84 degF
+9.03
+14.74
+85 degF
+8.97
+14.02
+86 degF
+9.91
+13.9
+87 degF
+9.04
+13.19
+88 degF
+9.26
+12.45
+89 degF
+9.71
+12.38
+90 degF
+8.98
+12.25
+91 degF
+7.83
+12.19
+92 degF
+7.74
+11.91
+93 degF
+7.31
+11.76
+94 degF
+7.98
+11.58
+95 degF
+7.62
+11.51
+-----
+8.72
+14.04
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+70 degF - 95 degF
+70.0 degF - 75.0 degF
+0.5 - 1.0
+15s
+5973 samples
+8205 samples

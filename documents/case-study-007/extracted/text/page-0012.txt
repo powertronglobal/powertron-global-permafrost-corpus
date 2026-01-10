@@ -1,0 +1,31 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+Cell Hut #7 located at 7167-7133 Nelms St. 
+Powertron Global discovered that HVAC #1 (node 519) has an ongoing issue that 
+prevented it from running properly in the Baseline and in the ERP. It is currently 
+still malfunctioning. It was fixed back in late July but soon malfunctioned again 
+around September 1st due to the compressor energizing briefly but then defaults to 
+the evaporator fan only running as if it was in a fan mode. This condition was 
+witnessed and reported to Major US Telecom prior to the installation of the PermaFrost NMR.  
+• The other unit (node 520) handled the entire workload (as planned) and 
+exhibited runtime and kWh savings as well energy efficiency improvements 
+in the unit. While operating alone, the unit saved 29.1% kwh and runtime. 
+Below are the efficiency improvements for reference. 
+ 
+ 
+ 
+CONCLUSION 
+ 
+We are pleased to conclude that this study confirmed energy savings of +19% and 
+these results fell directly in line with the 18-22% results in UL Laboratory testing. 
+The forensic approach showed comprehensive data accounting for uncontrolled 
+variables and normal rates of equipment failure. This methodology combined with 
+kWh use and weather (degrees), provides an accurate savings measurement 
+when variable interference and comparable data was not available or unreliable.  
+The complete data set supports the testing requirements of Major US Telecom, AHRI, UL, and 
+Powertron Global while allowing more accurate modeling results in diverse 
+conditions across a national portfolio. 
+ 
+ 
+ 

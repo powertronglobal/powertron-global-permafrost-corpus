@@ -1,0 +1,17 @@
+®
+6
+Photographic Evidence of Key Measurements
+Baseline - 9/26/14
+Post - 4/22/15
+Measurements
+Value: 478.7 VAC
+Capture Date: Apr 22, 2015, 9:00:31 AM
+Value: 171.2 AAC
+Capture Date: Apr 22, 2015, 9:00:31 AM
+Value: 175.5 AAC
+Capture Date: Apr 22, 2015, 9:00:31 AM
+Value: 180.5 AAC
+Capture Date: Apr 22, 2015, 9:00:30 AM
+Sent using Fluke Connect ™
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,202 @@
+Client:
+Powertron LLC 
+Requested By: 
+[Requestor] 
+Sample: 
+10% PermaFrost + 90% 
+Refrigeration Oil 
+Report Date: 
+April 18, 2002 
+Laboratory No: 19695-02 Page 1 of 2 
+Purchase Order No: 
+Pending
+TEST
+RESULTS 
+Aniline Point, ASTM D 611, o
+ 1
+1
+ 
+F
+Dielectric Breakdown Voltage, ASTM D 877, Kv 
+41 
+Flash Point, PMCC Closed Cup, ASTM D 93, oF 
+370 
+Water Content by Karl Fisher, ASTM D 1744, ppm 
+10 
+Viscosity, Kinematics @ 40 oC ASTM D 445, cSt 
+7.8 
+Pour Point, ASTM D 97, o
+ 0
+7
+-
+ 
+F
+ 8
+1.6
+ 7
+8
+2
+1 
+D
+ 
+M
+T
+S
+A
+ ,e
+d
+o
+rtc
+el
+E
+ ss
+al
+G
+ y
+b 
+H
+p
+ 5.0
+<
+ 0
+0
+5
+1 
+D
+ 
+M
+T
+S
+A
+ ,r
+olo
+C
+ 
+M
+T
+S
+A
+Specific Gravity, @ 15/15 o
+ 0
+0
+2
+9.0
+ 0
+7 
+D
+ 
+M
+T
+S
+A
+ ,
+C
+Above test were performed according to ASHRAE Methods 
+CORROSION TEST FOR PETROLEUM PRODUCTS IN GLASSWARE D-1384 
+168 HRS @ 120 oF:
+Initial Run 
+Duplicate Run
+Triplicate Run 
+Specification 
+ 
+ 
+ 
+ 
+ 
+Weight Change, mg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copper 
+-6 
+-6 
+-5 
++/- 10 max 
+Brass 
+-2 
+-3 
+-2 
++/- 10 max 
+Steel 
+-3 
+-2 
+-3 
++/- 10 max 
+Aluminum 
+-29 
+-28 
+-29 
++/- 30 max 
+ 
+ 
+ 
+ 
+ 
+Extreme Pressure Properties of Lubricating Fluid (Four-Ball Method) ASTM D2783:
+Test conditions were as following: 
+5
+7
+ :er
+utare
+p
+m
+e
+T
++/- 2oC
+ 0
+6
+7
+1
+ :d
+e
+e
+p
+S
++/- 40 rpm 
+ 0
+1
+ :n
+oitar
+u
+D
++/- 1 sec 
+ 5
+ :d
+a
+o
+L
++/- 0.2 Kgf 
+ 0.0
+6
+ x
+e
+d
+n
+I ra
+e
+W
+ d
+a
+o
+L
+ 5
+9
+2
+ g
+k ,tnio
+p dle
+W
+SINCE 1985 
+Quality Controlled Through Analysis 
+Certificate of Analysis 
+[Laboratory Address] 
+[Laboratory PO Box] 
+TEL: [redacted] 
+FAX: [redacted] 
+2

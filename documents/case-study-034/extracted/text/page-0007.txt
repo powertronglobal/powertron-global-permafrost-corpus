@@ -1,0 +1,33 @@
+Return On Investment
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the Major US Warehouse Retailer Rack-A refrigeration system.
+Baseline Energy Consumption of Low Temp Section of Rack-A
+Adjusted kW Baseline: 3.2 kW/ton * 29.5 tons = 94.4 kW
+Adjusted Baseline kWh: 94.4 kW * 8,760 Annual Operating Hrs = 826,944 kWh
+Revised Cost to Run Baseline: 826,944 kWh * $.105 = $86,829
+Post Energy Consumption of Low Temp Section of Rack-A
+Adjusted Post Tonnage: 29.5
+kW Post: 2.96 kW/ton * 29.5 tons = 87.32 kW
+Annual kWh Post: 87.32 kW * 8,760 hours = 764,923 kWh
+Annual Cost Post: 764,923 kWh * .105 cents = $80,317
+Savings Per Year on Low Temp Section of Rack-A
+Avoided Energy Cost (savings) Per Year: $86,829 - $80,317 = $6,512
+Estimated Energy Savings Per Month: $6,512 / 12 = $543
+Baseline Energy Consumption of Med Temp Section of Rack-A
+Adjusted kW Baseline: 2.35 kW/ton * 32 tons = 75.2 kW
+Adjusted Baseline kWh: 75.2 kW * 8,760 Annual Operating Hrs = 658,752 kWh
+Revised Cost to Run Baseline: 658,752 kWh * $.105 = $69,169
+Post Energy Consumption of Med Temp Section of Rack-A
+Adjusted Post Tonnage: 32
+kW Post: 2.23 kW/ton * 32 tons = 71.36 kW
+Annual kWh Post: 71.36 kW * 8,760 hours = 625,114 kWh
+Annual Cost Post: 625,114 kWh * .105 cents = $65,637
+Savings Per Year on Med Temp Section of Rack-A
+Avoided Energy Cost (savings) Per Year: $69,169 - $65,637 = $3,532
+Estimated Energy Savings Per Month: $3,532 / 12 = $294
+Return On Investment
+Cost of PermaFrost NMR® installed in Rack-A: $18,450
+Estimated ROI Period for Major US Warehouse Retailer Rack-A: $18,450 / $837 = 22 months
+6
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

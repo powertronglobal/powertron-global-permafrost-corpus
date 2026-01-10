@@ -1,0 +1,68 @@
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+Appendix II -Points Measured per Unit 
+- 
+Air velocity in FPS 
+- 
+CFM 
+- 
+Compressor #1 on/off  
+- 
+COP 
+- 
+Delta Enthalpy 
+- 
+Delta Temperature 
+- 
+Dew Point Return 
+- 
+Dew Point Supply 
+- 
+EER 
+- 
+kW 
+- 
+kW/ton 
+- 
+Latent Capacity 
+- 
+Instantaneous Current, Phase A 
+- 
+Instantaneous Current, Phase B 
+- 
+Instantaneous Current, Phase C 
+- 
+Average Current 
+- 
+Voltage Phase AB 
+- 
+Voltage Phase BC 
+- 
+Voltage Phase CA 
+- 
+Average Voltage 
+- 
+Net Capacity 
+- 
+Outdoor Air Temp  
+- 
+Power Factor (total) 
+- 
+Return Air Temperature 
+- 
+Return Duct Humidity 
+- 
+Return Air Enthalpy 
+- 
+Supply Air Temperature 
+- 
+Supply Duct Humidity 
+- 
+Supply Air Enthalpy 
+- 
+Total Capacity (BTU’s) 
+- 
+Total Capacity (Tons) 
+- 
+Wet Bulb Return 
+- 
+Wet Bulb Supply 

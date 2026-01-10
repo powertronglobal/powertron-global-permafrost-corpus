@@ -1,0 +1,701 @@
+# Healthcare A_post report_v3.pdf
+
+Energy Science Division
+
+®
+
+Major Healthcare Provider Hospital
+
+Study Date:
+     6/24/16 – 7/18/16
+
+Participants:
+     Major Healthcare Provider Permanente Hospital
+     [Director of Facilities Services]
+     Director of Facilities Services
+ 
+     Technology Partner
+     [President & CEO],
+     President & CEO
+
+Powertron Global
+     [Senior Energy Engineer],
+     Director of Engineering
+
+Location:
+     Honolulu, Hawaii
+
+Comprehensive HVAC/R Capacity Study
+
+PermaFrost NMR® Energy Conservation Measure (ECM)
+
+This report is provided to Major Healthcare Provider Permanente Hospital. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+®
+
+1
+
+HVAC/R Eﬃciency Report
+
+Purpose of Energy Eﬃciency Study
+
+The purpose of this study is to verify the industry wide problem of efficiency loss in HVAC/R as projected by
+
+ASHRAE research and to quantify the amount of money wasted due to this loss. Many industry leading
+
+organizations including ASHRAE project that all HVAC/R units degrade in capacity and efficiency as they age.
+
+Thermal degradation is caused by a phenomenon that is present in all HVAC/R equipment that operates as a
+
+vapor compression cycle associated with refrigerant and compressor lubricant. This thermal degradation is well
+
+documented by the HVAC/R industry and the original equipment manufacturers (OEM’s). Thermal
+
+degradation prevents units from operating at the original design efficiency, which leads to excessive run-times
+
+and additional kWh consumption.
+
+The chiller in this study (pictured below) is
+
+representative of the portfolio of equipment
+
+operated by Major Healthcare Provider. If thermal degradation is
+
+present in this chiller it is present in the entire
+
+inventory of equipment. Energy waste can be
+
+calculated based on this equipment (portfolio
+
+representation) and then accurately extrapolated
+
+across the entire inventory of equipment.
+
+This report is provided to Major Healthcare Provider Permanente Hospital. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+®
+
+2
+
+Process
+
+This report contains specific information regarding the current performance profile of a water-cooled chiller
+
+that supports the Major Healthcare Provider Permanente Hospital in Honolulu, HI.
+
+Detailed performance testing (outlined later in this report) was performed on the pilot chiller before and after
+
+the installation of the ECM to determine the impact on the three key elements that greatly affect the HVAC
+
+power bill as they relate to the original design specifications:
+
+1. The cooling capacity the chiller produces after 11 years in service, before and after the administration
+
+of the ECM.
+
+2. The actual cost of power required to produce the amount of cooling tons the chiller can deliver as
+
+reflected in the kW/ton measurement, before and after the administration of the ECM.
+
+3. The thermal dynamic ability of the chiller to perform in relation to operational design, before and
+
+after the administration of the ECM.
+
+Methodology
+
+The measurements used in the efficiency calculations were collected and compiled in accordance with the
+
+IPMVP (International Measurement and Verification Protocol) framework. The team consisted [Director of Facilities Services]
+
+of the Major Healthcare Provider, Donogh Mc Sherry of Technology Partner; and Powertron Global’s Director of Engineering,
+
+[Senior Energy Engineer].
+
+Notes
+
+The boundary of the testing was the chiller and nothing else; therefore confidence in the accuracy of the performance
+
+calculations is very high.
+
+This report is provided to Major Healthcare Provider Permanente Hospital. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+®
+
+3
+
+Energy Conservation Method (ECM)
+
+The content detailed in this report will first demonstrate the ability of the pilot chiller to perform prior to the
+
+ECM being installed, as well as illustrate the amount of thermal degradation
+
+within the heat exchangers.
+
+The following report produces the utilization of the IPMVP as the M&V plan.
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+• kW = Volts * Amps * Power Factor * 1.732/1000 (for 3-Phase)
+
+• kW/Ton = kW / Actual Tonnage
+
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+
+• Actual Cooling Tons per Hour = Evaporator GPM X 8.34 * 60 * Chilled Water Delta T / 12,000 BTU
+
+• Refrigerant Approach = Supply Water Temp – Saturated Evaporator Temp (CH)
+
+Notes
+
+Following a diagnostic examination to determine the operational condition of the chiller was satisfactory, Baseline M&V data
+
+was collected and recorded by the M&V team. 400+ runtime hours after installation of the ECM, the M&V team returned to
+
+take Post M&V measurements in the identical fashion as in the Baseline. The delta of these measurements and associated
+
+calculations show the amount of capacity and efficiency restored.
+
+The following IPMVP data points were recorded on 6/24/16 using the flow meter recently calibrated by NIST (National
+
+Institutes of Standards and Technology) to insure GPM measurement accuracy. The remaining measurements were either
+
+taken directly from the chiller’s control panel or recently calibrated Fluke instrumentation. The chiller was then treated with
+
+PermaFrost NMR® and allowed to run normally until 7/18/16 to ensure the patented surface science nanotechnology had
+
+ample time to seat into all the metal surfaces of the heat exchangers. All measurements were taken in an identical manner
+
+however the incoming water temperature was 1.4 deg F higher and the outside air temps were 1.1 deg F higher higher in the
+
+post.
+
+This report is provided to Major Healthcare Provider Permanente Hospital. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+®
+
+• The Chiller was operating @ 432 tons of cooling capacity prior to
+
+installing ECM
+
+• The Chiller now has 60.4 tons of restored cooling capacity after ECM
+
+equating to a 14% increase
+
+• The Chiller was operating @ 5.10 COP prior to the ECM and
+
+5.86 following the ECM
+
+• The COP of the Chiller has increased by 14.9% following the ECM
+
+5.10
+Baseline COP
+
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+432
+
+tons
+Baseline
+
+100%
+CAPACITY @
+100% LOAD
+
+5.10
+
+5.86
+
+432
+
+492.4
+
+5.86
+Post ECM COP
+492.4
+tons Post ECM
+
+14.9%
+Improvement
+in COP
+
+60.4
+
+tons of
+Recovered
+Capacity
+
+TONNAGE
+COP
+
+Summary of HVAC/R Eﬃciency Study Results
+
+Chiller Eﬃciency with PermaFrost NMR® ECM
+
+Major Healthcare Provider Permanente Hospital has the problem of thermal degradation in its Chillers and HVAC systems. The
+
+lower operating tonnage and COP ratings measured on site are in line with the ASHRAE loss of performance
+
+and cost to operate numbers. The degraded equipment performance is costing Major Healthcare Provider significant money and
+
+wasting energy. The pilot chiller is using significantly more energy to operate than when it was new eleven
+
+years earlier.
+
+The performance summary includes the measured efficiency and tonnage of the chiller in the baseline and
+
+post testing periods demonstrating the impact of thermal degradation.
+
+4
+
+Baseline
+
+PermaFrost NMR®
+Installed
+
+Baseline
+
+PermaFrost NMR®
+Installed
+
+This report is provided to Major Healthcare Provider Permanente Hospital. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+®
+
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+0.8
+
+5
+
+Wasted Energy / Cost of HVAC System
+
+The kW/ton is the standard Unit Cost in the HVAC
+
+industry. It is the HVAC industry’s standard of
+
+determining how much energy is required to create 1
+
+ton of cooling (i.e., conditioned air). When you
+
+reduce your unit cost of cooling you are saving
+
+regardless of how much cooling is required. The chart
+
+illustrates how much the performance loss in the
+
+HVAC/R system is costing in wasted energy when it
+
+is operating. The specific cost to operate this
+
+HVAC/R system at 78% load as calculated in
+
+kilo-watt per ton was .69 kW/ton.
+
+The specific cost to operate this chiller after it was
+
+treated with PermaFrost NMR® at 78% load as
+
+calculated in kW/ton is now .60
+
+The higher baseline kW/ton rating measured in-situ
+
+was expected when compared to the ASHRAE loss of
+
+performance efficiency and cost to operate estimate
+
+for a 11 year old chiller utilizing R-134A refrigerant.
+
+Recovered Energy
+
+Equating to a
+13.0% reduction
+
+.09 kW/ton
+
+kW/ton
+
+Cost to Operate
+
+Baseline
+Post ECM
+
+.69
+
+.60
+
+This report is provided to Major Healthcare Provider Permanente Hospital. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+®
+Energy Consumption & Financial Metrics
+
+The following are the final calculated average performance measurements following the PermaFrost NMR®
+
+Post measurement period for the Major Healthcare Provider Chiller.
+
+Baseline Energy Consumption
+
+Baseline Tonnage: 432 tons
+
+Adjusted kW Baseline: .69 kW/ton * 492.4 tons = 339.8 kW
+
+Adjusted Baseline kWh: 339.8 kW * 5,669 Annual Operating Hrs = 1,926,326 kWh
+
+Revised Cost to Run Baseline: 1,926,326 kWh * $.24 = $462,318
+
+Post Energy Consumption
+
+kW Post: .60 kW/ton * 492.4 tons = 295.4 kW
+
+Annual kWh Post: 295.4 kW * 5,669 hours = 1,674,623 kWh
+
+Annual Cost Post: 1,674,623 kWh * .24 cents = $401,909
+
+Savings Per Year
+
+Avoided Energy Cost (savings) Per Year: $462,318 - $401,909 = $60,409
+
+Estimated Energy Savings Per Month: $51,328 / 12 = $5,034
+
+Initial Payback Period (IPP)
+
+Cost of PermaFrost NMR® installed in the pilot chiller: $69,634
+
+Estimated IPP for Major Healthcare Provider on the chiller: $69,634 / $5,034 = 13.8 months
+
+Annual Rate of Return = 86.8%
+
+Return on Investment Over 10 Years = 867.5%
+
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period for
+
+Major Healthcare Provider for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy
+
+savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended in the Post
+
+Analysis Period. ROI comes from determining what the cost to run the chiller was when operating at the original energy
+
+profile to produce the newly restored amount of available tonnage capacity and then subtracting the revised cost to run the
+
+chiller at the same restored tonnage after the PermaFrost NMR® ECM was installed. This regression analysis is the most
+
+widely accepted method of accounting for the reduced number of hours or load the chiller will now operate due to the
+
+restored capacity. This restored capacity allows the chiller to reach the internal building set points with increased
+
+efficiency resulting in reduced compressor demand loading.
+
+6
+This report is provided to Major Healthcare Provider Permanente Hospital. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+®
+
+7
+
+.69
+
+POST
+
+BASELINE
+
+.60
+
+kW/ton
+
+REDUCTION
+14%
+
+POST
+
+BASELINE
+
+37.9%
+
+14%
+
+POST
+
+BASELINE
+
+Chilled Water Delta
+
+IMPROVEMENT
+
+IMPROVEMENT
+
+9.3
+
+5.8
+
+3.6
+295.4
+
+10.6
+
+Key Results for Chiller#3 with PermaFrost NMR® ECM
+
+YORK
+
+YKGKMP9
+
+SAPM657780
+
+R-134A
+
+650
+
+5,669
+
+2005
+
+System Description
+
+Manufacturer
+
+Model Number
+
+Serial Number
+
+Refrigerant Type
+
+Nominal Cooling
+Capacity in Tons
+
+Average Annual
+Runtime Hours
+
+Date Installed
+
+459.0
+
+386.0
+
+42.9
+
+92.4
+
+46.5
+
+57.1
+
+84.2
+
+90.4
+
+10.6
+
+3.6
+
+294.6
+
+0.598
+
+492.4
+
+1114
+
+100
+
+85.1
+
+Energy Usage
+BASELINE
+POST
+
+Voltage
+
+Amperage
+
+Saturated Suction Temperature
+
+Discharge RefrigerantTemperature
+
+Chilled Water Leaving Temp (Supply)
+
+Chilled Water Entering Temp (Return)
+
+Condenser Water Temp Entering Chiller
+
+Condenser Water Temp Leaving Chiller
+
+Chilled Water Delta T
+
+Refrigeration Approach
+
+kW (V x A x PF x 1.732)
+
+kW / Ton
+
+Actual Measured Operating Tons
+
+Chiller GPM
+
+Vane Position % During Testing
+
+OAT
+
+458.0
+
+390.0
+
+41.5
+
+90.8
+
+47.3
+
+56.6
+
+82.8
+
+89.9
+
+9.3
+
+5.8
+
+297.0
+
+0.687
+
+432.0
+
+1114
+
+100
+
+84
+
+13.3%
+REDUCTION
+
+POST
+
+BASELINE
+339.8
+
+Reduction of Refrigeration Approach
+Calculated  kW
+(w/regression analysis)
+
+This report is provided to Major Healthcare Provider Permanente Hospital. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+®
+Photographic Evidence of Key Measurements
+
+BASELINE - June 24, 2016
+POST – July 18, 2016
+
+8
+This report is provided to Major Healthcare Provider Permanente Hospital. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+®
+
+37.4
+
+Passenger vehicles
+
+8
+
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+
+19,905
+
+Gallons of gasoline
+consumed
+
+188,760
+
+Pounds of coal burned
+annually
+
+410
+
+Barrels of oil
+consumed
+
+18.7
+.942
+
+Railcars worth
+of coal burned
+Homes’ electricity use for
+one year
+
+9
+
+Major Healthcare Provider Permanente Hospital is Saving More than Just Energy
+
+By treating the pilot chiller with PermaFrost NMR®, based on the current manner in which the hospital
+
+operates the chiller, it will save approximately 251,704 kWh per year and all the costs associated with those
+
+savings. From an environmental impact standpoint, Major Healthcare Provider is also benefitting the surrounding community of
+
+Honolulu. Imagine how great the environmental impact will be when Major Healthcare Provider moves forward with treating all
+
+their HVAC/R equipment in all their properties across their portfolio.
+
+The 251,704 kWh saved per year equates to preventing 177 metric tons of greenhouse gas emissions from
+
+being released or any of the following:
+
+Annual greenhouse emissions from:
+
+CO2 emissions from:
+
+This report is provided to Major Healthcare Provider Permanente Hospital. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

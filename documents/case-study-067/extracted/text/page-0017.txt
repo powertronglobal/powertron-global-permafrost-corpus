@@ -1,0 +1,50 @@
+®
+16
+MED TEMP RACK B – DUAL COMPRESSORS
+Fri 6/13 vs Fri 7/18
+5 kWh
+08:00
+10 kWh
+15 kWh
+20 kWh
+25 kWh
+30 kWh
+35 kWh
+09:00
+10:00
+11:00
+12:00
+13:00
+14:00
+15:00
+16:00
+17:00
+18:00
+19:00
+20:00
+-60ºF
+-40ºF
+-20ºF
+0ºF
+20ºF
+40ºF
+60ºF
+80ºF
+100ºF
+Outdoor Air Temps
+kWh Usage
+Time of Day 
+Klien’s - Rack MT 13/06/2014 Tot Energy
+Klien’s - Rack MT 18/07/2014 Tot Energy
+Under similar in-store and outside air wet and dry bulb conditions in the post vs. the baseline periods, , the visual evidence is 
+quite compelling that Rack-B is using less energy on the selected Friday in the post period (    blue bars) than on the Friday in 
+the baseline period (    orange bars) when comparing a large data sampling of 12 hours.  
+Actual 12-Hr kWh's Usage
+SAVINGS
+Baseline
+Post
+219.1
+179.3
+18.2%
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,49 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+ 
+A. Executive Summary 
+ 
+The purpose of this study is to compare and confirm the test results of AHRI 
+Standards efficiency testing at Underwriters Laboratories, Inc (UL) of PermaFrost 
+NMR® to verify results under field conditions at 10 cell tower sites in Houston, 
+Texas.   
+PermaFrost NMR® is an efficiency restoration chemical that treats the surface of 
+metal. It works the same way on every air conditioner, every time.  Measuring the 
+performance accurately is based on measuring expected variables and the 
+mitigation of uncontrolled variables, so forensic based standards field testing 
+should be in line with laboratory testing due to the chemical nature of the 
+technology.   Major US Telecom requested expanding the testing parameters to include energy 
+use (runtime) under the same weather conditions (where possible) to determine 
+energy savings in situ. Twenty units generated a large enough sample size to help 
+account for uncontrolled variables with a high level of confidence.  Together, these 
+methodologies should help to create additional confidence in the data. 
+1. Average kWh savings of 19.4% achieved in field testing across all sites is 
+comparable to the 18% - 22% efficiency gains found in controlled AHRI lab 
+testing by UL (Gold Standard of the HVAC industry). 
+2. Runtime was reduced by 18,818 minutes or 18.3% matching UL controlled test 
+results. 
+3. Weather conditions (temperature data) in the post were slightly warmer. 
+Cooling Degree Days (CDDs) in the post were within .2% of baseline. This 
+small amount of additional work was overcome providing high confidence in 
+the data sets with respect to weather conditions.  
+4. Eight of the ten sites had comparable runtime data sets. Two sites required a 
+regression analysis (blue) due to mechanical issues in a couple of units 
+(normal) affecting runtimes. The independent kWh and runtime savings 
+matched the EER and kW/ton improvements.  
+5. Runtime reduction equates to a ~19% equipment life extension and 
+maintenance expense reduction. 
+6. The forensic study data in this pilot can be used by Major US Telecom to cut additional 
+expenses outside of the focus of this pilot.  Powertron engineers and data staff 
+have uncovered opportunities in equipment, service, and operational protocols 
+that can be leveraged if desired.    
+ 
+B. Introduction 
+ 
+A selection of twenty (20) consecutive days prior to the implementation of 
+PermaFrost NMR® is compared to twenty (20) consecutive days in the Energy 
+Reporting Period (ERP) or post period. The Energy Reporting Period was selected 
+after ample time was allowed for the treated Bard units to have gestated as 
+determined by measuring each units compressor run time after the 
+nanotechnology had been installed. 

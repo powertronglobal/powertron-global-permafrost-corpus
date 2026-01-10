@@ -1,0 +1,16 @@
+9/21/2020
+Powertron Global
+https://fmv.powertronglobal.com/?obj=reports
+12/13
+Temperature
+Base EER
+Post EER
+% Change
+Baseline Samples
+Post Samples
+99
+9.88
+11.15
+13
+7040
+42

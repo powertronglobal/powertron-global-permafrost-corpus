@@ -1,0 +1,57 @@
+®
+4
+HVAC/R Eﬃciency Study Results
+The Island Location A Arena has the problem of thermal degradation. The high kW/ton ratings measured on site are in line with 
+the ASHRAE loss of performance and cost to operate numbers. The degraded chiller performance is costing 
+Island Location A Arena significant money and wasting energy. The chiller is using significantly more kWh to operate then it used 
+when it was new. 
+The problem of thermal degradation affecting the chiller has been significantly corrected by installing the 
+ECM PermaFrost NMR®. The degraded chiller performance has been restored. The chiller is using significantly 
+less kWh to operate than before the ECM was implemented. The efficiency summary combines the baseline, 
+post tonnage and coefficient of performance (COP). This summary is the cumulative impact of the ECM’s 
+performance on the treated process chiller.
+Chiller System Eﬃciency with PermaFrost NMR® ECM
+76.7 tons
+89.2 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The chiller should be operating @ 90 tons of cooling capacity
+• The chiller was operating @ 76.7 tons of cooling capacity prior to
+   installing ECM
+• The chiller now has 12.5 tons of restored cooling capacity after ECM
+• The chiller should be operating @ 5.25 COP or greater 
+• The chiller was operating @ 4.42 COP prior to the ECM
+• The COP of the chiller was increased by 18.8% following
+   the ECM
+4.42 
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+76.7
+tons Baseline
+100%
+CAPACITY @
+100% LOAD
+Baseline
+COP
+Post ECM
+COP
+4.42
+5.25
+5.25
+Post ECM COP
+89.2
+tons Post ECM
+18.8%
+Improvement
+in COP
+12.5
+tons of
+Recovered
+Capacity
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

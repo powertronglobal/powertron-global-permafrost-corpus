@@ -1,0 +1,64 @@
+®
+4
+702.7 tons
+747.4 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The Chiller should be operating @ 784 tons of cooling capacity
+• The Chiller was operating @ 702.7 tons of cooling capacity prior to
+   installing ECM
+• The Chiller now has 44.7 tons of restored cooling capacity after
+   ECM
+• The Chiller should be operating @ 7.0 COP or higher
+• The Chiller was operating @ 5.99 COP prior to the ECM
+   and 6.75 following the ECM
+• The COP of the Chiller was increased by 12.7%  following
+   the ECM
+5.99
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+702.7
+tons Baseline
+100%
+CAPACITY @
+100% LOAD
+Baseline
+COP
+Post ECM
+COP
+5.99
+6.75
+6.75
+Post ECM COP
+747.4
+tons Post ECM
+12.7%
+Improvement
+in COP
+44.7
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of HVAC/R Eﬃciency Study Results
+Chiller Eﬃciency with PermaFrost NMR® ECM
+Global Telecom Equipment Manufacturer has the problem of thermal degradation in its HVAC/R units. The lower operating tonnage and COP 
+ratings measured on site are in line with the ASHRAE loss of performance and cost to operate numbers. The 
+degraded equipment performance is costing Global Telecom Equipment Manufacturer significant money and wasting energy. The equipment is 
+using significantly more kWh to operate than it used when it was new. 
+The performance summary includes the measured efficiency and tonnage of the chiller in the baseline and post 
+testing periods demonstrating the impact of thermal degradation. The implementation of PermaFrost NMR® 
+ECM resulted in a restoration of 44.7 operating tons and an average improvement of 12.7% in Coefficient of 
+Performance (COP), significantly reducing the cost to operate the chiller throughout the year. The York chiller 
+treated has a nominal capacity of 1,000 tons at 100% load and 2,400 gallons per minute (GPM) flow through the 
+evaporator. The chiller used in this pilot was tested at 70% load with a GPM of 2,675. This scenario creates a 
+type of false-positive tonnage amount of 784 tons but since normal operations were not to be changed for the 
+pilot, the emphasis here is on the delta between baseline and post.  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

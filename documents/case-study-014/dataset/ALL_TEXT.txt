@@ -1,0 +1,301 @@
+================================================================================
+DOCUMENT: Case Study 014
+DOC_ID: pdf_020
+SHA256: 97e57381d7de974178d1a9910b8deee9188253e97ca86a613434420ef897a905
+================================================================================
+
+═══ PAGE 001 ═══
+
+Energy Science Division
+®
+PHARMA COMPANY B - NEW BRUNSWICK, NJ
+Comprehensive HVAC/R Capacity Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 002 ═══
+
+Energy Performance Report
+Pharma Company B
+August 6, 2012
+Product Brief
+        Our patented surface chemical nanotechnology is a sustainable one-time treatment that lasts for the 
+remaining useful life of any type of system in which it’s installed – DX (RTUs, Split Systems, CRAC’s), 
+Chillers (including Ammonia Chillers), Heat Pumps, Ice Machines, or Refrigerated Transport. 
+PermaFrost NMR® is a Nanotechnology that uses the patented Nucleo Molecular Regenerative (NMR) 
+technology as its core agent.  When installed into the low side port, the product immediately goes to 
+work restoring optimal heat transfer characteristics to the coils by embedding into the microscopic lattice structure of the metal as a thermal transfer agent, forming a passive nano-magnetic film on the surface. This process enhances the conductivity of the metal and creates a permanent thermal coating that maintains optimal heat transfer efficiency for the life of the equipment. 
+The direct benefits of PermaFrost NMR® are improved cooling performance, increased capacity, and 
+better refrigerant flow – all of which allows a system to achieve set temperatures quicker and then shut 
+off, unload or throttle back. 
+The indirect benefits resulting from the enhanced thermodynamic characteristics following treatment 
+include reduced run time, less kW hours used, less amp draw at the compressor, superior lubrication, 
+less metallic wear and longer overall equipment life.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 003 ═══
+
+Executive Summary
+This report contains specific information regarding the installation of PermaFrost NMR® in a Carrier 19XR 
+water-cooled chiller owned by Pharma Company B located in New Brunswick, NJ.
+The Pharma Company B facility contact that managed the pilot was Frank Bagelio. 
+In summary, The Company’s chiller treated with 
+the PermaFrost NMR® ECM showed an 4.6% 
+reduction in kW; a 10.7% reduction in required 
+operating tonnage to deliver set point; a 8.8% 
+reduction in kW/ton; an 9.6% improvement in 
+COP; a 55.6% improvement in refrigerant 
+approach. These results are highly significant.
+The introduction of PermaFrost NMR® has 
+restored a significant amount of chilled water 
+performance to support this facility, which has resulted in much lower operational costs.
+Based on the data collected, the return on investment (ROI) for this ECM is just 11.5 months.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 004 ═══
+
+Energy Science Division
+Measurement and Veriﬁcation Protocol IPMVP
+The International Performance Measurement and Verification Protocol (IPMVP) is used to develop this 
+report.  The Association of Energy Engineers (AEE), American Society of Heating, Refrigeration and 
+Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization (EVO) accept the 
+IPMVP as a global methodology for determining the effectiveness of energy conservation methods and 
+products.
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize.  They 
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report.
+Retrofit Isolation (Option B) is defined as: All parameter measurement with the boundary of the ECM 
+(PermaFrost NMR®) as the single source of measurement.  Savings are determined by field measurement of 
+the energy use of the energy conservation method affected equipment or system and any performance 
+enhancements versus the baseline data.
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the 
+savings and the length of the reporting period.  For the boundary utilized for Option B short-term 
+measurements are very useful as data when the variables are contained.  The savings are calculated by 
+short-term measurements of baseline and reporting period energy, and /or engineering computations using 
+measurements of proxies of energy use.
+The final computation follows the formula below:
+Option B savings = Baseline Energy – Reporting Period Energy
++ - Routine adjustments + - Non-Routine Adjustments
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 005 ═══
+
+Energy Conservation Method (ECM) Content
+The content of the following report will demonstrate the effects of PermaFrost NMR®’s ability to correct the 
+effects of thermal degradation and fouling on the heat exchange surfaces. 
+It was determined with Pharma Company B to treat 1 water-cooled chiller. A diagnostic examination of the 
+pilot equipment is implemented to determine if the unit’s operational conditions are satisfactory. Baseline 
+measurements will be recorded and then the proper amount and type of PermaFrost NMR® will be injected. 
+The product will be allowed 4 weeks to seat itself into the metal surfaces before post measurements were 
+taken to establish the efficiency gains. 
+The unit was fully loaded during the baseline and the in the Energy Reporting Periods. The following 
+parameters during a five-minute period were recorded:
+Chiller kW, Chilled Water Delta T, Condenser Water Delta T, Condensed Liquid Refrigerant Temperature, 
+Saturated (Suction) Evaporator Refrigerant Temperature, Operating Tonnage, kW per Ton and COP.
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+•  To determine the kW, voltage, amperage and power factor were recorded using a digital kW meter. Data 
+from that meter is automatically calculated. Those data streams were verified by the manual calculation for 
+determining kW energy as:
+ 
+Volts * Amps * .85 * 1.732 / 1000
+•  To determine the actual GPM the following formula was utilized:
+ 
+GPM2 = GPM * Measured Pressure Drop (ft) / by Design Pressure Drop (ft) (squared)
+•  To determine the Actual Cooling Tons per Hour the following formula was utilized:
+ 
+Evaporator GPM X 8.34 * 60 * Chilled Water Delta T / 12,000 BTU
+•  To determine the Operating kW per Ton the following formula was utilized:
+ 
+Actual kW / Actual Tonnage
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 006 ═══
+
+•  To determine the actual COP the following formula was utilized:
+ 
+12 / kW per ton / 3.412
+•  To determine Refrigerant Approach the following formula was utilized:
+ 
+Supply Water Temp – Saturated Evaporator Temp
+The following report produces the utilization of the IPMVP International Performance Measurement and 
+Verification Protocol as the M&V plan. The final calculations were performed by Powertron Global’s Senior 
+engineer [Senior Energy Engineer] ME/CEM/CMC/CMVP.
+System Description / Design Characteristics
+This unit provides comfort cooling. The annual operational hours of this equipment is 2600 hours.
+Energy Science Division
+Make
+Model
+Serial
+Refrigerant Type
+Age
+Design GPM
+Tonnage
+Design Pressure Drop
+ Carrier
+ 19XR7577564EJS68
+ 3901Q66021
+ R-134A
+ 2002
+ 1936
+ 1050
+ 17.66
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 007 ═══
+
+Energy Science Division
+RMS Voltage
+RMS Amperage
+Suction Refrigerant Pressure / Temp
+Discharge Refrigerant Pressure / Temp
+Supply Chilled Water Temp
+Return Chilled Water Temp
+Supply Condensed Water Temp
+Return Condensed Water Temp
+GPM
+Evaporator Refrigerant Approach
+Load
+ 4169 V
+ 104 A
+ 38 psi / 42.7 F
+ 97 psi / 86.3 F
+ 44.5 F
+ 55.7 F
+ 84.6 F
+ 74.1 F
+ 2156
+ 1.8
+104%
+Baseline Measurement Period Selection
+The following data was recorded on 6/12/2012 using recently calibrated devices to insure measurement 
+accuracy. The following results were recorded as a result of the implementation of the IPMVP Protocol.
+Energy Reporting Period (Post)
+The identical data was recorded on 7/24/012 using recently calibrated devices to insure measurement 
+accuracy. The following results were recorded as a result of the implementation of the IPMVP Protocol.
+RMS Voltage
+RMS Amperage
+Suction Refrigerant Pressure
+Discharge Refrigerant Pressure
+Supply Chilled Water Temp
+Return Chilled Water Temp
+Supply Condensed Water Temp
+Return Condensed Water Temp
+GPM
+Evaporator Refrigerant Approach
+Load
+ 4129 V
+ 100 A
+38 psi / 43.0 F
+ 106.2 psi / 91.3 F
+ 43.8 F
+ 53.8 F
+ 88.6
+ 78.8
+ 2156
+ .8
+100%
+      The OAT was 92 F
+with 38% humidity.
+      The OAT was 71 F
+with 80% humidity.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 008 ═══
+
+Results
+The following results are based off of the Baseline Measurement of data and the Energy Reporting Period.
+kW per ton Baseline = .63254 kW/ton * 1007 tons = 636.9 kW
+kW per ton Energy Reporting Period = .57717 kW/ton * 990 tons = 571.4 kW
+Annual kWh Baseline 636.9 kW * 2,600 hours = 1,655,940 kWh
+Annual Cost Baseline = 1,655,940* .12 cents = $198,712.80
+Annual kWh Energy Reporting Period 571.4 kW * 2,600 hours = 1,485,640 kWh
+Annual Cost Energy Reporting Period = 1,485,640 kWh * .12 cents = $178,276.80
+Avoided Energy Cost (savings)= $20,436
+$20,436 / 12 months = $1703 per month / Cost of PermaFrost NMR® installed @ $19,548.70 = 11.47 months
+ 
+ROI = 11.5 months
+Energy Science Division
+Eﬃciency Improvements
+kW
+Operating Tonnage
+kW per Ton
+COP
+Refrigerant Approach
+4.6%
+10.7%
+8.8%
+9.6%
+55.6%
+Energy Reporting Period
+571.4
+990
+.58
+6.09
+.8
+Baseline
+636.9
+1007 
+.63
+5.56
+1.8
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 009 ═══
+
+Energy Science Division
+Conclusion
+The improved efficiency (kW per ton) at the unit at full load was 8.8%; a 10.7% reduction in required 
+operating tonnage to deliver set point; a 8.8% reduction in kW/ton; an 9.6% improvement in COP; 4.6% 
+reduction in kW. The improvement in the refrigerant approach, a measurable thermodynamic enhancement 
+of PermaFrost NMR®, at 55.6%. These results are highly significant. This chiller not only provides chilled 
+water at the rated GPM and design chilled water outlet temperature at reduced kWh and cost, it also does 
+this at a greater tonnage per kW. This allows the chiller to produce more tonnage at less energy. 
+The introduction of PermaFrost NMR® has restored a significant amount of chilled water performance to 
+support this facility, which has resulted in much lower operational costs.
+Based on the data collected, the return on investment (ROI) for this ECM is just 11.5 months.
+A regression analysis was required to compensate for the increase in the incoming condenser water 
+temperature. During the baseline the temperature was 74.1 deg. F. During the avoided energy reporting 
+period or the post data period the entering condenser water was 78.8 deg. F. 
+During baseline and the post periods the chiller was operating at full load and with the identical GPM 
+across the evaporator. There was a recorded increase of 6% in the kW category and a reduction of 10% in 
+capacity. An analysis was performed of the actual temperature increase in degrees F of the water and the 
+reduction of capacity and the increase of energy. 
+The condenser water temperature increase is 6% and the energy increase is also 6%. The direct correlation of 
+the increase in energy is attributed to the increase in condenser operating temperatures. As a result the post 
+energy reporting data was adjusted for this predicted variable.
+The increase in condenser water temp is also attributable to the reduction in capacity from the 1007 tons 
+measured in the baseline when the entering condenser water was 4.8 degrees cooler. This decrease in 
+capacity is approximately 10% and resets the capacity in the post energy period to 989 tons as a result of the 
+warmer water in the condenser. This capacity was adjusted as a non routine variable.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 010 ═══
+
+Energy Science Division
+Formula for adjusted post tonnage = 899 + 10% = 990 tons
+Post kW calculated from the volts and amps, power factor and efficiency total 607.87. Reduce that by the 6% 
+increase as a result of the added temperature of the condenser and you get = 607.87 - 6% = 571.4 kW
+Formula for adjusted post kW per ton = 571.4 kW / 990 tons = 0.58 kW per ton
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+

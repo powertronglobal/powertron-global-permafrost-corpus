@@ -1,0 +1,84 @@
+2
+     kWh Used
+Bldg 3765
+November 
+December 
+January
+March
+April 
+May
+**THE CEM THREW THIS BUILDING OUT **
+7519
+9516
+7660
+7873
+9009
+8463
+6159
+6257
+7771
+10381
+8965
+Before
+After
+Average
+kWh reduction
+Adjusted
+for weather
+plus 2.0%
+plus 4.5%
+Bldg 3616
+November 
+December 
+January
+March
+April 
+May
+9787
+8771
+10020
+9997
+10758
+10971
+9999
+9235
+9108
+8567
+9717
+9414
+Before
+After
+Average
+kWh reduction
+Adjusted
+for weather
+-6.6%
+-8.3%
+PermaFrost® Results
+Bldg 1845
+November 
+December 
+January
+March
+April 
+May
+25775
+25690
+27666
+23820
+23353
+24884
+20531
+23110
+24239
+23363
+23700
+25354
+Before
+After
+Average
+kWh reduction
+Adjusted
+for weather
+-6.9%
+-6.3%

@@ -1,0 +1,9 @@
+Energy Science Division
+Revised Cost to Run Post         17,050.35 kWh * $.10 = $1,705.04
+Avoided Energy Costs (Savings) Per Month         ($2,443.13 - $1,705.04) / 12 = $61.51
+Cost of ECM         $750
+ROI         $750 / $61.50 = 12.2
+ 
+ROI = 12 - 13 months
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

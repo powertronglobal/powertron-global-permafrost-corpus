@@ -1,0 +1,64 @@
+Energy Reporting Period (Post)
+The identical data was recorded on 07/23/2012 using recently calibrated devices to insure measurement 
+accuracy.  The following results were recorded as a result of the implementation of the IPMVP Protocol.
+Results
+The following results are based off of the Baseline Measurement of data and the Energy Reporting Period 
+data from the Unit.
+Energy Science Division
+Voltage
+Adjusted Amperage
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Return Air Temp DB
+Supply Air Temp DB
+Return Air Temp WB
+Supply Air Temp WB
+Actual CFM
+Actual Coil Capacity Btuh / tons
+Enthalpy Delta
+Normalized Total Watts
+Normalized Watts per Ton
+OAT / CDD
+461V
+63.18A
+34.5 F
+107.6 F
+72.7 F
+54.9 F
+60.4 F
+46.1 F
+15,000
+575,775 Btuh / 47.98 tons
+8.53
+45,437 NTW
+947 NWPT
+79 F / 14 CDD
+Eﬃciency Improvements
+Adjusted Total Watts
+Btuh Capacity
+System Eﬃciency %
+Enthalpy Delta
+Watts per Ton
+EER
+31.7%
+26.6%
+33.3%
+26.6%
+31.7%
+46.5%
+Energy Reporting Period
+ 45,437
+575,775
+88.58%
+8.53
+947
+12.67
+Baseline
+66,548
+454,950
+66.46%
+6.74
+1,387
+8.65
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

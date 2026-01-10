@@ -1,0 +1,65 @@
+     Inspection results 
+ 
+ 
+ 
+ 
+ 
+Date of Test: May. 18, 2009
+Inspection Report
+11
+ 
+ 
+ 
+Hefei General Machinery & Electrical Products Inspection Institute
+Inspection item
+Unit
+Nameplate
+parameter
+Technical requirements
+speciefied in the Standard
+Inspected
+data
+Single-item
+evaluation
+Refrigerating capacity
+W
+/
+/
+4339
+/
+Input power
+W
+/
+/
+2081
+/
+Dry bulb temperature at
+evaporator air outlet
+ºC
+/
+/
+12.92
+/
+Wet bulb temperature at
+evaporator air outlet
+ºC
+/
+/
+12.00
+/
+     Remarks,
+1.   Measured nominal cooling condition:
+ 
+Indoor side 
+Dry bulb temperature 27.01°C        Wet bulb temperature 19.00°C
+ 
+Outdoor side Dry bulb temperature 34.99°C
+ 
+ 
+ 
+Air outlet static pressure 0Pa
+2.   The refrigerating capacity, input power, dry bulb temperature at evaporator air 
+outlet, wet bulb temperature at evaporator air outlet listed in this table are tested 
+according to the provisions of Chinese Standard GB/T 7725-2004.
+3.   The refrigerant used in this test is R22, and its filling volume is 1,670g.
+Baseline - No. 2009JC025

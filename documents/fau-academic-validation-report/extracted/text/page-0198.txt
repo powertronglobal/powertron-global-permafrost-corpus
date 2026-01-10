@@ -1,0 +1,75 @@
+98        Appendix B Uncertainty 
+ 
+different types of units in the population, they should be grouped and sampled separately. 
+For example, when designing a sampling program to measure the operating periods of room 
+lighting controlled by occupancy sensors, rooms occupied more or less continuously (e.g., 
+multiple person offices) should be separately sampled from those which are only 
+occasionally occupied (e.g., meeting rooms). 
+2. Determine the desired precision and confidence levels for the estimate (e.g., hours of 
+use) to be reported. Precision refers to the error bound around the true estimate (i.e., ±x% 
+range around the estimate). Higher precision requires larger sample. Confidence refers to 
+the probability that the estimate will fall in the range of precision (i.e., the probability that the 
+estimate will indeed fall in the ±x% range defined by the precision statement). Higher 
+probability also requires larger samples. For example, if you want 90% confidence and 
+±10% precision, you mean that the range defined for the estimate (±10%) will contain the 
+true value for the whole group (which is not observed) with a probability of 90%. As an 
+example, in estimating the lighting hours at a facility, it was decided to use sampling 
+because it was too expensive to measure the operating hours of all lighting circuits. 
+Metering a sample of circuits provided an estimate of the true operating hours. To meet a  
+90/10 uncertainty criterion (confidence and precision) the sample size is determined such 
+that, once the operating hours are estimated by sampling, the range of sample estimate 
+(±10%) has to have a 90% chance of capturing the true hours of use .  
+The conventional approach is to design sampling to achieve a 90% confidence level and 
+±10% precision. However, the M&V Plan needs to consider the limits created by the budget 
+(see Chapter 8.5). Improving precision from say ±20% to ±10% will increase sample size by 
+4 times, while improving it to ±2% will increase sample size by 100 times. (This is a result of 
+the sample error being inversely proportional to
+n .) Selecting the appropriate sampling 
+criteria requires balancing accuracy requirements with M&V costs.  
+3. Decide on the level of disaggregation. Establish whether the confidence and precision 
+level criteria should be applied to the measurement of all components, or to various sub-
+groups of components. See Appendix B-5.2. Review the precision and confidence criteria 
+chosen in 2.  
+4. Calculate Initial Sample Size. Based on the information above, an initial estimate of the 
+overall sample size can be determined using the following equation: 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+2
+2
+0
+*
+e
+cv
+z
+n 
+  
+ 
+                                     
+B-16 
+ 
+ 
+where: 
+ 
+no  
+is the initial estimate of the required sample size, before sampling begins  
+ 
+cv  
+is the coefficient of variance, defined as the standard deviation of the readings 
+divided by the mean. Until the actual mean and standard deviation of the population can 
+be estimated from actual samples, 0.5 may be used as an initial estimate for cv.  
+ 
+e  
+is the desired level of precision. 
+ 
+z  
+is the standard normal distribution value from Table B-1, with an infinite number 
+of readings, and for the desired confidence level. For example z is 1.96 for a 95% 
+confidence level (1.64 for 90%, 1.28 for 80%, and 0.67 for 50% confidence).   
+For example, for 90% confidence with 10% precision, and a cv of 0.5, the initial 
+estimate of required sample size (no) is 
+ 

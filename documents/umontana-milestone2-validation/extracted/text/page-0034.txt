@@ -1,0 +1,56 @@
+ 
+ 
+Page 26 of 38 
+ 
+Thus, the end conclusion on the manufactured anomalies and the simulated dataset was that the 
+creation of this dataset would need to be either further explored and tested or abandoned. The 
+simplest resolve would be to ensure real annotated data is collected as opposed to attempting to 
+create a simulated set using the methodology described above. The limitation of the requirement for 
+additional, labeled data to further examine methodologies explored was not resolved with this 
+approach. Therefore, the need for labeled datasets for future exploration of methods stands. 
+ 
+Overall Limitations, Variables to Measure, and Conclusion 
+ 
+Limitations 
+ 
+The standing limitation for the testing and exploration of all methodologies for anomaly detection was 
+the lack of labeled data. The need for an understanding of real-life decisions made by building 
+engineers, device failures, and more would aid in assessing the actual success of certain algorithms, 
+especially those that function as supervised machine learning models. 
+ 
+Time also proved to be a limitation, as the team had to first explore the data and possibilities for 
+analysis as well as understand the HVAC process for interpretation of results. If data with notes, or 
+even a log made by the building engineer with dates and times included, was produced, it would be 
+possible to execute further examination of outliers or provide meaning to the clusters that an 
+algorithm creates. Without this understanding, results bear success in a superficial manner that 
+would benefit greatly from an on-the-ground understanding of the device’s behavior and potential 
+factors impacting this behavior.  
+ 
+Additional Variables to Actively Measure 
+ 
+PowerTron expressed explicit interest in understanding whether actively taking additional 
+measurements would aid in future explorations. The following bulleted list represents possible items 
+to measure actively that would add value to the datasets currently being produced by PowerTron’s 
+sensor technology: 
+ 
+- 
+Amount of time daily that each compressor is spent on 
+- 
+MAD for a selected increment (daily or monthly) 
+- 
+Maximum and Minimum daily values for each variable 
+- 
+Daily averages and medians for all variables 
+- 
+Any record of mechanical failure or sensor failure 
+- 
+Pressure (needing additional sensor equipment) 
+ 
+Conclusion 
+ 
+While the production of simulated data did not produce any additional results, preliminary results 
+seen in the exploration of MAD, Random Forest, agglomerative hierarchical clustering, and 
+archetypal analysis were promising and presented room for additional exploration.  
+ 
+Possible use cases for such algorithms range from the ability to notify individuals of a breach in 
+threshold in real time to the ability to examine the impact of usage decisions and changes to a 

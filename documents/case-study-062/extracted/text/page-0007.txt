@@ -1,0 +1,74 @@
+Results
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period of the Carrier chiller. 
+Energy Science Division
+POST
+BASELINE
+Voltage  
+Amperage  
+Saturated Suction Temp
+Discharge Refrigerant Temp
+CDW Temp Entering  
+CDW Temp Leaving
+CW Supply Temp
+CW Return Temp
+Chiller GPM
+Calculated Operating Tonnage 
+Total kW
+Calculated kW / Ton  
+Coeﬃcient of Performance (COP)
+O.A.T.
+477 V
+453.3 A
+39.4 F
+88.7 F
+74.8 F
+85.9 F
+45 F
+49 F
+2326.4
+388 Tons
+317.8 kW
+.82
+4.29
+72 F
+475 V 
+453.5 A 
+ 42 F
+ 110.5 F
+ 81.8 F
+ 91.6 F
+ 44.4 F
+ 49.7 F
+2326.5
+ 514 Tons
+316.7 kW
+ .62
+5.71
+92 F
+MEASUREMENT
+Improvements
+Total kW
+kW / Ton  
+Evaporator Approach
+Operating Capacity in Tons 
+COP
+.003%
+ 24.4%
+57.1%
+32.5%
+33.1%
+Post
+316.7 kW
+.62
+2.4
+514
+5.71
+Baseline
+317.8 kW
+.82 
+5.6
+388
+4.29
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

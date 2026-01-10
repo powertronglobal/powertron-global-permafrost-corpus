@@ -1,0 +1,933 @@
+# Telecom Provider.pdf
+
+Energy Science Division
+
+®
+
+Telecom Provider COMMUNICATIONS
+
+Participants
+
+Study Date:
+
+May 2014
+
+Participants:
+
+Telecom Provider Communications
+
+[Client Representative]
+
+Facility Engineering
+
+Powertron Global
+
+[Senior Energy Engineer],
+
+Director of Engineering
+
+Location:
+
+Telecom Provider Communications
+
+974 Marcon Blvd., Suite 140
+
+Allentown, PA 18109
+
+Allentown Facility Computer Room Air Conditioner (CRAC)
+
+Comprehensive HVAC/R Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+HVAC/R Eﬃciency Report
+
+Purpose of Energy Eﬃciency Study
+
+The purpose of this study is to verify the industry wide problem of efficiency loss in HVAC/R as projected by
+
+ASHRAE research and to quantify the amount of money wasted due to this loss. Many industry leading
+
+organizations including ASHRAE project that all HVAC/R units degrade in capacity and efficiency as they age.
+
+Thermal degradation is caused by a phenomenon that is present in all HVACR equipment that operates as a
+
+vapor compression cycle associated with refrigerant and compressor lubricant. This thermal degradation is well
+
+documented by the HVACR industry and the original equipment manufacturers (OEM’s). Thermal degradation
+
+prevents units from operating at the original design efficiency, which leads to excessive run-times and additional
+
+kWh consumption.
+
+The CRAC unit in this study is representative of a
+
+great majority of the portfolio of equipment
+
+operated by Telecom Provider Communications. If thermal
+
+degradation is present in this CRAC unit, it is
+
+present in the entire inventory of equipment.
+
+Energy waste can be calculated based on this unit
+
+(portfolio representation) and then accurately
+
+extrapolated across the entire inventory of
+
+equipment.
+
+1
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+2
+
+Process
+
+This report contains specific information regarding the current performance profile of one of five of CRAC
+
+units that support the Telecom Provider Communications facility in Allentown, PA.
+
+Detailed performance testing (outlined later in this report) was performed on the pilot CRAC unit before and
+
+after the installation of PermaFrost NMR® to determine the impact on the three key elements that greatly
+
+affect Telecom Provider’s HVAC power bill as they relate to the original design specifications:
+
+1.  The cooling capacity the CRAC unit is capable of producing after 16 years in service.
+
+2.  The actual cost of power required to produce the amount of cooling tons the CRAC unit is
+
+delivering as reflected in the kW/ton measurement.
+
+3.  The thermal dynamic ability of the CRAC unit to still perform at or close to operational design.
+
+Methodology
+
+The measurements used in the efficiency calculations were collected and compiled in accordance with the
+
+IPMVP (International Measurement and Verification Protocol) framework. The team consisted of Telecom Provider’s Facility
+
+Engineering Manager, [Client Representative] and Powertron Global’s Director of Engineering, [Senior Energy Engineer].
+
+Notes
+
+Since the post measurements were taken with outside air temperatures of 4 degrees cooler than in the baseline, actual amp
+
+readings taken in the post were raised to normalize for the very slight affect the weather had on the condensing unit’s
+
+ability to dissipate heat.
+
+Telecom Provider’s management of the data center and the internal load during the trial provided more than an adequate heat load on
+
+the pilot CRAC unit to ensure it would remain running during the actual data collection period.
+
+The boundary of the testing was the CRAC unit and nothing else; therefore confidence in the accuracy of the performance
+
+calculations is very high.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+3
+
+Energy Conservation Method (ECM)
+
+The content detailed in this report will first demonstrate the ability of the pilot CRAC unit to perform prior to
+
+and following PermaFrost NMR® (ECM) being installed. The report will also illustrate the amount of thermal
+
+degradation that has occurred due in large part to thermal degradation within the heat exchangers and how much of
+
+that has been restored.
+
+The following report produces the utilization of the IPMVP as the M&V plan.
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase)
+
+• Tons = (Airflow * 4.5 * Enthalpy Delta) / 12,000
+
+• kW/Ton = kW / Actual Tonnage
+
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+
+• Refrigerant Approach = Supply Air Temp – Saturated Suction Temp
+
+Notes
+
+Following a diagnostic examination of the pilot equipment to determine the operational condition of the system was
+
+satisfactory, Baseline M&V data was collected and recorded by the M&V team. Four hundred hours after installation of
+
+PermaFrost NMR®, the M&V team returned on a very similar weather day to the Baseline to take Post M&V
+
+measurements in the identical fashion as in the Baseline. The delta of these measurements and associated calculations
+
+show the amount of capacity restored.
+
+The following IPMVP data points were recorded on 6 May 2014 using recently calibrated devices by NIST (National
+
+Institutes of Standards and Technology) to insure measurement accuracy. The CRAC unit was then treated with
+
+PermaFrost NMR® on the same day and allowed to run at greater than 90% load until 22 May 2014 to ensure the ECM
+
+had ample time to seat into all the metal surfaces of the heat exchangers. All measurements were taken at 100% load and
+
+at similar return air and outdoor air temperatures.
+
+Because the incoming air temperatures are much lower than the 80 degree incoming air used by AHRI to determine
+
+nominal tonnage ratings for this type of equipment, the actual tonnages will appear slightly higher than normal as the
+
+compressors and condensing units can do more work in cooler conditions. CFM was also 15% lower than design.
+
+The collection of the data in both the baseline and post periods was collected by Powertron Global® under the watchful eye
+
+of the Telecom Provider Facility Engineer who oversees all the maintenance work done on the unit.  The measurements are listed below.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+4
+
+17.6 tons
+
+21.7 tons
+
+Baseline
+Tonnage
+
+Post ECM
+Tonnage
+
+• The CRAC should be operating @ 20.5 tons of cooling capacity
+• The CRAC was operating @ 17.6 tons of cooling capacity prior to
+   installing ECM
+• The CRAC now has 4.1 tons of restored cooling capacity after ECM
+
+• The CRAC should be operating @ 4.2 COP or higher
+• The CRAC was operating @ 3.41 COP prior to the ECM
+   and 4.09 following the ECM
+• The COP of the CRAC was increased by 19.9% following
+   the ECM
+
+3.41
+Baseline COP
+
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+17.6
+tons Baseline
+
+100%
+CAPACITY @
+100% LOAD
+
+Baseline
+COP
+
+Post ECM
+COP
+
+3.41
+
+4.09
+
+4.09
+Post ECM COP
+21.7
+tons Post ECM
+
+19.9%
+Improvement
+in COP
+4.1
+tons of
+Recovered
+Capacity
+
+TONNAGE
+COP
+
+Summary of HVAC/R Eﬃciency Study Results
+
+CRAC Unit Eﬃciency with PermaFrost NMR® ECM
+
+Telecom Provider Communications has the problem of thermal degradation in its HVAC/R units. The lower operating
+
+tonnage and COP ratings measured on site are in line with the ASHRAE loss of performance and cost to operate
+
+numbers. The degraded equipment performance is costing Telecom Provider Communications significant money and wasting
+
+energy. All of Telecom Provider’s equipment is using significantly more kWh to operate than it used when it was new.
+
+The performance summary includes the measured efficiency and tonnage of the CRAC unit in the baseline and
+
+post testing periods demonstrating the impact of thermal degradation.
+
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 4.1 operating tons and an
+
+improvement of 19.9% in Coefficient of Performance (COP), significantly reducing the cost to operate the
+
+CRAC unit throughout the year. The Leibert CRAC unit treated has a nominal capacity of 20.5 tons at 100%
+
+load at 85 degree entering air. Since normal operations were not to be changed to accommodate the pilot, the
+
+emphasis here is on the delta between baseline and post.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+Recovered
+Energy
+
+5
+
+Recovered Wasted Energy with PermaFrost NMR®
+
+The chart to the right illustrates the performance
+
+restoration the ECM created in the treated CRAC unit.
+
+The average cost to operate this unit before it was
+
+treated with PermaFrost NMR®, as calculated in
+
+kW/ton, was 1.03.
+
+The specific cost to operate this unit after it was treated
+
+with PermaFrost NMR®, as calculated in kW/ton, is
+
+currently 0.86.
+
+The higher baseline kW/ton rating measured in-situ
+
+was expected when compared to the ASHRAE loss of
+
+performance efficiency and cost to operate estimate for
+
+a 16 year old CRAC unit. The post results are also in
+
+line with the average improvement savings shown over
+
+more than 120,000 installations globally.
+
+Cost to Operate
+
+Baseline
+Post ECM
+
+kW/ton
+
+.17 kw/ton
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+1.2
+
+1.03
+
+0.86
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+6
+
+HVAC/R Eﬃciency Study Results
+
+Calculated Eﬃciency of Telecom Provider CRAC Unit in Baseline and Post
+
+The chart below illustrates how far off design the Telecom Provider CRAC unit had degraded in terms of efficiency over 16
+
+years of being in use. The unit was performing at an average of 85.8%* of the original design efficiency when
+
+first installed. The actual design rated tonnage of each of this CRAC unit is 20.5 tons. In actuality however, the
+
+unit was producing 17.6* tons at the start of the pilot. The majority of this 14.2% or more efficiency loss was
+
+directly attributable to thermal degradation of the heat exchange surfaces that naturally occurs over time, creating a barrier to optimal heat transfer through the tube walls.
+
+After PermaFrost NMR® was installed, the average efficiency in the CRAC unit jumped up to 105.9%* of design
+
+specifications or 21.7* tons. This represents a 23.3% improvement in efficiency over the baseline numbers.
+
+*see third bullet in the engineering notes on page 4
+
+Original Design
+Eﬃciency
+
+ASHRAE Projected
+Eﬃciency Loss
+Over Time
+
+Actual Telecom Provider
+Design Eﬃciency as
+Measured In-Situ
+
+Actual Telecom Provider HVAC/R Operating Eﬃciency
+vs. ASHRAE Projected Eﬃciency Loss
+
+HVAC/R Eﬃciency %
+
+DESIGN EFFICIENCY
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+Eﬃciency
+Improvement
+
+23.3%
+
+Age of HVAC/R Units
+
+Avg Age of Telecom Provider
+Equipment
+16
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+7
+
+HVAC/R Eﬃciency Study Results
+
+Cost to Telecom Provider to Operate the CRAC Unit in Baseline vs Post
+
+The next chart illustrates how much money the efficiency performance loss in the pilot CRAC unit was costing
+
+Telecom Provider in the way of wasted energy each and every day they were operating prior to the ECM. The average cost to
+
+operate this unit as calculated in kW/ ton was 1.03 in the Baseline. When new, the kW/ton rating for units like
+
+these usually ranges from .75 to .9 kW/ton. This means Telecom Provider was paying up to 15% or more than design for
+
+energy to run the CRAC unit as a direct result of the baseline reduced level of performance. The kW/ton
+
+ratings measured on site in Allentown, PA were very much in line with the ASHRAE loss of performance and
+
+cost to operate numbers.
+
+The restored average kW/ton rating following the treatment is now .86. This represents a 16.5% reduction in
+
+energy costs from the baseline for every ton of cooling produced. It also brings down the Telecom Provider costs to operate
+
+the unit to just over design. This will result in an initial payback period to Telecom Provider of approximately 14.8 months.
+
+Over just a few years these accumulated savings will greatly reduce the eventual CapEx costs to replace the
+
+CRAC unit when it finally reaches the end of its useful life.
+
+Original Design
+Eﬃciency
+
+ASHRAE Projected
+Cost to Operate
+Over Time
+
+Actual Cost to
+Operate Telecom Provider
+Systems As Is
+
+Operational Cost %
+
+Actual Telecom Provider HVAC/R Operating Cost
+vs. ASHRAE Historical Performance
+
+-40
+
+-20
+
+00
+
+20
+
+40
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+Avg Age of Telecom Provider
+Equipment
+
+16
+
+EXPECTED COST
+
+Age of HVAC/R Units
+
+16.5%
+in Energy Savings
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Return On Investment
+
+The following are the final calculated average performance measurements following the PermaFrost NMR®
+
+Post measurement period for the Telecom Provider CRAC Unit.
+
+Baseline Energy Consumption
+
+Baseline Tonnage: 17.6 tons
+
+Adjusted kW Baseline: 1.03 kW/ton * 21.7 tons = 22.35 kW
+
+Adjusted Baseline kWh: 22.35 kW * 5,500 Annual Operating Hrs = 122,925 kWh
+
+Revised Cost to Run Baseline: 122,925 kWh * $.10 = $12,293
+
+Post Energy Consumption
+
+kW Post: .86 kW/ton * 21.7 tons = 18.66 kW
+
+Annual kWh Post: 18.66 kW * 5,500 hours = 102,630 kWh
+
+Annual Cost Post: 102,630 kWh * .10 cents = $10,263
+
+Savings Per Year
+
+Avoided Energy Cost (savings) Per Year: $12,293 - $10,263 = $2,030
+
+Estimated Energy Savings Per Month: $2,030 / 12 = $169
+
+Return On Investment
+
+Cost of PermaFrost NMR® installed in the pilot CRAC unit: $2,500
+
+Estimated ROI Period for Pilot CRAC Unit: $2,500 / $169 = 14.8 months
+
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period
+
+for Telecom Provider Communications for implementing the PermaFrost NMR®, a detailed Regression Analysis is used to calculate
+
+the true energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh
+
+expended in the Post Analysis Period. ROI comes from determining what the cost to run the systems was when
+
+operating at the original energy profile to produce the newly restored amount of available tonnage capacity and then
+
+subtracting the revised cost to run the systems at the same restored tonnage after the PermaFrostNMR® was installed.
+
+This regression analysis is the most widely accepted method of accounting for the reduced number of hours the systems
+
+will now operate due to the restored capacity. This restored capacity allows the systems to reach the internal building
+
+set points with increased efficiency resulting in reduced compressor demand loading.
+
+8
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+22.35
+
+POST
+
+BASELINE
+
+18.66
+
+Calculated Annual kW
+
+REDUCTION
+16.5%
+
+REDUCTION
+REDUCTION
+
+POST
+
+BASELINE
+
+Calculated Annual kWh
+
+16.5%
+
+23.5%
+
+POST
+
+BASELINE
+
+Enthalpy Delta
+
+IMPROVEMENT
+
+POST
+
+BASELINE
+20.75
+
+Refrigerant Approach
+
+6.5%
+
+6.68
+
+122,925
+
+102,630
+
+Key Results for CRAC Unit with PermaFrost NMR® ECM
+
+Leibert #2
+
+UH245A-CSM
+
+361443-001
+
+R22
+
+21
+
+5,500
+
+1998
+
+System Description
+
+Make
+
+Model
+
+Serial Number
+
+Refrigerant Type
+
+Nominal Cooling
+Capacity in Tons
+
+Average Annual
+Runtime Hours
+
+Age
+
+214.1
+
+59.1
+
+30.1
+
+103.8
+
+56
+
+206.65
+
+70.1
+
+49.5
+
+58.2
+
+43.7
+
+25.25
+
+17
+
+8.25
+
+19.4
+
+18.60
+
+0.86
+
+21.7
+
+7,030
+
+102,630
+
+100
+
+4.09
+
+65
+
+Energy Usage
+BASELINE
+POST
+
+Voltage
+
+Amperage
+
+Suction Temperature
+
+Discharge Temperature
+
+Suction Pressure
+
+Discharge Pressure
+
+Entering Air DB
+
+Leaving Air DB
+
+Entering Air WB
+
+Leaving Air WB
+
+Enthalpy of Entering WB
+
+Enthalpy of Leaving WB
+
+Delta-T of Enthalpy
+
+Evaporator Approach
+
+kW (V x A x 1.47)
+
+kW / Ton
+
+Actual Measured Operating Tons
+
+Unit CFM
+
+Annual kWh (following Regression Analysis)
+
+Unit % Load During Testing
+
+Coeﬃcient of Performance (COP)
+
+O.A.T.
+
+214.1
+
+57.8
+
+30.05
+
+103.25
+
+55.25
+
+206.4
+
+70
+
+50.8
+
+57.4
+
+45.8
+
+24.74
+
+18.06
+
+6.68
+
+20.75
+
+18.20
+
+1.03
+
+17.6
+
+7,030
+
+122,925
+
+100
+
+3.41
+
+69
+
+9
+
+Notes
+
+The pilot CRAC unit provides cooling to the
+
+main switching room at the Telecom Provider complex. Given
+
+the consistently heavy load and the other two
+
+CRAC units available to support in the cooling
+
+duties, the pilot unit runs approximately 5,500
+
+hours or more annually prior to the installation.
+
+8.25
+
+19.4
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+2.9
+
+Passenger vehicles
+
+.717
+
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+
+1,575
+
+Gallons of gasoline
+consumed
+
+15,032
+
+Pounds of coal burned
+annually
+
+32.5
+
+Barrels of oil
+consumed
+
+.075
+
+Railcars worth
+of coal burned
+
+1.9
+
+Homes’ electricity use for
+one year
+
+10
+
+Telecom Provider Communications is Saving More than Just Energy
+
+By treating just the pilot CRAC unit with PermaFrost NMR®, based on the current manner Telecom Provider
+
+Communications operates this unit, it will save approximately 20,295 kWh per year and all the costs
+
+associated with those savings. From an environmental impact standpoint, Telecom Provider is also benefitting the
+
+surrounding community of Allentown, PA. Imagine how great the environmental impact will be when Telecom Provider
+
+moves forward with treating all their climate control systems in across their portfolio.
+
+The 20,295 kWh saved per year equates to preventing 14 metric tons of greenhouse gas emissions from being
+
+released or any of the following:
+
+Annual greenhouse emissions from:
+
+CO2 emissions from:
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

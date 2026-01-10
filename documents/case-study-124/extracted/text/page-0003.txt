@@ -1,0 +1,33 @@
+®
+2
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) framework. The team consisted Michael Doss of 
+the Non-Profit Organization, Donogh Mc Sherry of [Energy Services Company]; and Powertron Global’s Director of Engineering, 
+[Senior Energy Engineer].
+Notes
+The flow rate through the evaporator was near to design specifications in the baseline and post and the return chilled water 
+entering the chiller in the baseline and post were identical so no adjustments were made. The outside air temps in the baseline 
+were 80.1 deg F while the temperature in post was 87.7 deg F. (7.6 degrees higher) clearly demonstrating the chillers ability to 
+transfer more heat through the heat exchangers.
+This benchmark report demonstrated the deficiencies related to the thermal losses in the condenser and evaporator. The design 
+of this chiller is 101.4 tons. This rating was certified by AHRI under the environmental conditions of 95 degrees F outdoor air 
+temperature and an entering chilled water temperature of 55 degrees F. Therefore the baseline was normalized to represent what 
+the actual tonnage that the chiller would be capable of delivering at full load. With the reduced environmental condition of 80 
+degrees versus 95 degrees F of air that was entering the air cooled condenser during the test the tonnage or capacity should have 
+been capable of producing 131 tons as shown in the baseline. During the capacity test four of the five compressors were required 
+to operate to produce the design delta temperature performance of the chiller. 
+The post analysis of the chiller demonstrated the reversal of the deficiencies related to the initial thermal losses in the condenser 
+and evaporator. Again with the design capacity of 101.4 tons at the environmental condition of an outdoor air temperature of 
+95 degrees F the normalized capacity design rating is 131 tons. During the post testing period the outdoor environmental 
+conditions were much warmer than the baseline by approx: 7 degrees F. During the capacity test the number of compressors 
+required to deliver the delta temperature performance of the chiller was reduced from four to two compressors required to 
+operate. This demonstrates that after the injection of Permafrost NMR® this chiller can deliver the needed thermal performance 
+as a result of the enhancement of the evaporator and condensers ability to transfer thermal energy with much less energy and 
+less run time on the compressors thereby offering longer life cycle expectancy. 
+Quite simply the demonstration of the thermal enhancement received from PermaFrost NMR® allows this chiller to deliver the 
+needed tonnage with less compressors operating since the refrigeration effect of the evaporator and condenser have been 
+thermally restored.
+This report is provided to Non-Profit Organization. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

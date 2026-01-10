@@ -1,0 +1,103 @@
+ 
+Appendix A Examples         75 
+ 
+A non-routine adjustment was made immediately to account for reducing the burnout rate from 
+the baseline period’s 20% to the Retail Chain A reporting-period value of 3.0%. The baseline-energy was 
+therefore adjusted to 2,130,000 kWh ( = 1,753,000 x 0.970 / 0.800).   
+The city staff will monitor burnout rates monthly. If the burnout rate is greater than 3.0%, a non-
+routine adjustment will be made to bring reporting-period metered data up to the contracted 
+3.0% burnout rate.  
+Savings will be reported for the length of the 10-year guarantee period using a single price of 
+0.600 kuna/kWh. 
+Results  Savings were reported without adjustment for the first three years after retrofit because 
+burnout rates remained above 3.0%.   
+For the fourth year the burnout rate was 5.0% for 7 months. Fourth year savings were computed 
+as follows: 
+Baseline Energy  
+ 
+ 
+ 
+ 
+ 
+ 
+2,130,000 kWh 
+ 
+Fourth year measured energy  = 
+1,243,000 kWh 
+ 
+The burnout adjustment is = 
+ 
+ 
+kWh
+000
+,
+15
+000
+,
+243
+,1
+12
+0.7
+000
+.1
+950
+.0
+970
+.0
+
+
+
+
+
+
+
+
+
+
+ 
+Adjusted fourth year energy  = 1,243,000 + 15,000 =  
+ 
+1,258,000 kWh 
+Savings (avoided energy)  
+= 2,130,000 – 1,258,000 =  
+ 
+   870,000 kWh 
+Avoided Cost   
+ 
+= 870,000 kWh x 0.600 =  
+ 
+kn 520,000 
+ 
+A-4  Compressed-Air Leakage Management – Option B 
+Situation  A Brazilian auto manufacturer’s plant engineering department estimated that 
+R$200,000 per year was being lost through compressed-air leakage arising from poor 
+maintenance. The plant engineer persuaded the plant manager that the maintenance 
+department should dedicate one person for two months to repair all leaks. The engineering 
+department agreed to conduct ongoing monitoring of leakage rates and savings, in order to 
+motivate the maintenance staff to regularly check for leakage. 
+Factors Affecting M&V Design  There are very few funds available for any M&V activity. Also 
+the engineering department wished any savings measurement methodology to have a 
+maximum quantifiable error of ±5% in any reported savings, with a confidence level of 95%. 
+The plant operates with 2 shifts per day, 10 per week and 442 per year. When it is operating, it's 
+use of compressed air is steady. Heat from compressors is rejected directly outside compressor 
+rooms without impacting any other plant energy-using systems. 
+The local electric consumption rate (known as the “green rate”) for low-load-factor commercial 
+accounts over 0.5 MW is shown in Table A-4-1. 
+ 
+ 
+Dry Months 
+(May – September) 
+Wet Months 
+(October – April) 
+Peak Periods (17:30-20:30 
+hrs Monday to Friday)
+R$0.957/kWh 
+R$0.934/kWh 
+Off Peak Periods 
+R$0.143/kWh 
+R$0.129/kWh 
+ 
+Taxes totaling 42.9% are added to these rates.  
+ 
+Table A-4-1 Electric 
+Consumption Prices 

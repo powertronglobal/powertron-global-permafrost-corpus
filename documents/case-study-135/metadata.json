@@ -1,0 +1,48 @@
+{
+  "document_id": "case-study-135",
+  "title": "Entertainment Venue A M&V Report",
+  "source_file": "Entertainment Venue A",
+  "document_type": "engineering_analysis",
+  "page_count": 14,
+  "extraction_method": "pymupdf",
+  "extraction_date": "2026-01-07",
+  "client": {
+    "name": "Entertainment Venue A",
+    "industry": "Entertainment"
+  },
+  "location": {
+    "city": "Morelia",
+    "state": "Michoacan",
+    "country": "Mexico"
+  },
+  "equipment": {
+    "type": "Package DX",
+    "make": "Carrier",
+    "tonnage": 12.5,
+    "count": 2,
+    "refrigerant": "R-22",
+    "age_years": 9
+  },
+  "study_period": {
+    "baseline_start": "2017-04-26",
+    "baseline_end": "2017-05-15",
+    "post_start": "2017-08-01",
+    "post_end": "2017-08-14"
+  },
+  "results": {
+    "cop_improvement_pct": 49.1,
+    "kw_per_ton_baseline": 2.01,
+    "kw_per_ton_post": 1.35
+  },
+  "certification": {
+    "methodology": "AHRI Standard M&V",
+    "pe_certified": false,
+    "engineer": "[Senior Energy Engineer], Forensic Mechanical Engineer"
+  },
+  "corpus_category": "engineering_analysis",
+  "stats": {
+    "chunks": 9,
+    "tokens": 15048,
+    "chars": 17241
+  }
+}

@@ -1,0 +1,49 @@
+12        IPMVP Framework and Options 
+ 
+Reporting Period 
+The user of the savings reports should determine the length of the reporting period. The 
+reporting period should encompass at least one normal operating cycle of the equipment or 
+facility, in order to fully characterize the savings effectiveness in all normal operating modes.  
+Some projects may cease reporting savings after a defined "test" period ranging from an 
+instantaneous reading to a year or two.  
+The length of any reporting period should be determined with due consideration of the life of the 
+ECM and the likelihood of degradation of originally achieved savings over time.  
+Regardless of the length of the reporting period, metering may be left in place to provide 
+feedback of operating data for routine management purposes and specifically to detect 
+subsequent adverse changes in performance. Section 4.9 explains this at greater length. 
+If reducing the frequency of savings measurement after initial proof of performance, other on 
+site monitoring activities could be intensified to ensure savings remain in place.  
+IPMVP-adherent savings can only be reported for the reporting period that uses IPMVP-
+adherent procedures. If IPMVP-adherent savings are used as a basis for assuming future 
+savings, future savings reports do not adhere to IPMVP.  
+Adjacent Measurement Periods (On/Off Test) 
+When an ECM can be turned on and off easily, baseline and reporting periods may be selected 
+that are adjacent to each other in time. A change in control logic is an example of an ECM that 
+can often be readily removed and reinstated without affecting the facility. 
+Such “On/Off tests” involve energy measurements with the ECM in effect, and then immediately 
+thereafter with the ECM turned off so that pre-ECM (baseline) conditions return. The difference 
+in energy use between the two adjacent measurement periods is the savings created by the 
+ECM. Equation 1) of Chapter 4.1 can be used for computing savings, without an adjustments 
+term if all energy-influencing factors are the same in the two adjacent periods. 
+This technique can be applied under both Retrofit Isolation and Whole-Facility Options. 
+However measurement boundaries must be located so that it is possible to readily detect a 
+significant difference in metered energy use when equipment or systems are turned on and off.   
+The adjacent periods used for the On/Off test should be long enough to represent stable 
+operation. The periods should also cover the range of normal facility operations. To cover the 
+normal range, the On/Off test may need to be repeated under different operating modes such as 
+various seasons or production rates. 
+Take notice that ECMs which can be turned Off for such testing also risk being accidentally or 
+maliciously turned Off when intended to be On. 
+4.5.3  Basis For Adjustments 
+The adjustments term shown in Equation 1) of Chapter 4.1 should be computed from identifiable 
+physical facts about the energy governing characteristics of equipment within the measurement 
+boundary. Two types of adjustments are possible: 
+ 
+Routine Adjustments – for any energy-governing factors, expected to change routinely 
+during the reporting period, such as weather or production volume. A variety of techniques 
+can be used to define the adjustment methodology. Techniques may be as simple as a 
+constant value (no adjustment) or as complex as a several multiple parameter non-linear 
+equations each correlating energy with one or more independent variables. Valid 
+mathematical techniques must be used to derive the adjustment method for each M&V Plan. 
+See Appendix B for some guidance on assessing the validity of mathematical methods. 
+and 

@@ -1,0 +1,69 @@
+®
+7
+Chiller Eﬃciency Study Results
+Cost to Major Gaming Company to Operate the Chiller Baseline vs Post
+The next chart illustrates the just how much money the efficiency performance loss in the pilot chiller was 
+costing Major Gaming Company in the way of wasted energy each and every day they were operating prior to the ECM. 
+The average cost to operate the chiller as calculated in kW/ ton was .658 in the Baseline. When new, the 
+kW/ton rating for chillers like these usually range from .48 - .51 kW/ton. This means Major Gaming Company was paying 
+up to 27% more than design for the energy to run the chiller as a direct result of the baseline reduced level of 
+performance. These kW/ton ratings are very much in line with the ASHRAE loss of performance and cost to 
+operate numbers.
+  
+The restored average kW/ton rating for the chiller following the ECM is now .517. This represents a 21.4% 
+reduction in energy costs for the chiller from the baseline for every ton of cooling produced. It also brings down 
+the Major Gaming Company costs to operate the chiller to nearly what they were when the chiller was new.  
+The $45,919 in annual energy savings generated during the pilot have resulted in a payback period to Penn 
+Gaming of approximately 8.4 months. Over just a few years these accumulated savings will greatly reduce the 
+eventual CapEx costs to replace the chillers when they finally reach the end of their useful life.   
+Original Design
+Eﬃciency
+ASHRAE Projected
+Cost to Operate
+Over Time
+Actual Cost to
+Operate Major Gaming Company
+Systems As Is
+Operational Cost %
+Actual Major Gaming Company HVAC/R Operating Cost
+vs. ASHRAE Historical Performance
+-40
+-20
+00
+20
+40
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+ 
+ 
+ 
+EXPECTED COST
+Age of HVAC/R Units
+21.4%
+in Energy
+Savings
+Avg Age of
+Major Gaming Company
+Equipment
+17
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

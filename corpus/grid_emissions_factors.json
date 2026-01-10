@@ -1,0 +1,385 @@
+{
+  "title": "US Grid Carbon Intensity by eGRID Subregion",
+  "description": "Regional grid emission factors for calculating location-specific CO2 impact of energy efficiency measures",
+  "version": "1.0.0",
+  "last_updated": "2026-01-07",
+
+  "methodology": {
+    "emission_type": "average",
+    "note": "Uses average grid emission rates (total CO2 / total generation). For efficiency measures, marginal rates (what plant actually turns off) may be 1.5-2x higher. Average rates provide conservative, defensible estimates.",
+    "rate_type": "total_output",
+    "includes_transmission_losses": false,
+    "unit": "lbs CO2 per MWh generated"
+  },
+
+  "data_source": {
+    "name": "EPA eGRID2022",
+    "release_date": "2024-01-30",
+    "data_year": 2022,
+    "table": "Subregion Output Emission Rates",
+    "url": "https://www.epa.gov/egrid",
+    "download_url": "https://www.epa.gov/system/files/documents/2024-01/egrid2022_summary_tables.pdf",
+    "verified_date": "2026-01-07"
+  },
+
+  "national_reference": {
+    "us_average_generation_lbs_mwh": 823.1,
+    "us_average_delivered_lbs_mwh": 1405.3,
+    "note": "Delivered rate includes ~7% transmission/distribution losses. global_impact.json uses delivered rate for end-use calculations."
+  },
+
+  "subregions": [
+    {
+      "code": "HIOA",
+      "name": "HICC Oahu",
+      "states": ["HI"],
+      "primary_state": "Hawaii (Oahu)",
+      "co2_lbs_per_mwh": 1575.4,
+      "impact_tier": "very_high",
+      "narrative": "Island grid reliant on petroleum generation. Highest carbon intensity in US."
+    },
+    {
+      "code": "MROE",
+      "name": "MRO East",
+      "states": ["WI", "MI"],
+      "primary_state": "Wisconsin",
+      "co2_lbs_per_mwh": 1479.6,
+      "impact_tier": "very_high",
+      "narrative": "Coal-heavy upper Midwest. Second-highest carbon intensity. Priority deployment zone."
+    },
+    {
+      "code": "PRMS",
+      "name": "Puerto Rico Miscellaneous",
+      "states": ["PR"],
+      "primary_state": "Puerto Rico",
+      "co2_lbs_per_mwh": 1362.0,
+      "impact_tier": "very_high",
+      "narrative": "Island grid dependent on petroleum and natural gas."
+    },
+    {
+      "code": "NYLI",
+      "name": "NPCC Long Island",
+      "states": ["NY"],
+      "primary_state": "New York (Long Island)",
+      "co2_lbs_per_mwh": 1200.7,
+      "impact_tier": "very_high",
+      "narrative": "Transmission-constrained zone relying on fossil peaker plants."
+    },
+    {
+      "code": "RMPA",
+      "name": "WECC Rockies",
+      "states": ["CO", "WY", "SD", "NE", "MT"],
+      "primary_state": "Colorado",
+      "co2_lbs_per_mwh": 1192.2,
+      "impact_tier": "very_high",
+      "narrative": "Coal-heavy Rocky Mountain region. High impact deployment zone."
+    },
+    {
+      "code": "HIMS",
+      "name": "HICC Miscellaneous",
+      "states": ["HI"],
+      "primary_state": "Hawaii (Neighbor Islands)",
+      "co2_lbs_per_mwh": 1155.5,
+      "impact_tier": "very_high",
+      "narrative": "Hawaiian neighbor islands with petroleum-based generation."
+    },
+    {
+      "code": "RFCW",
+      "name": "RFC West",
+      "states": ["OH", "IN", "WV", "KY"],
+      "primary_state": "Ohio",
+      "co2_lbs_per_mwh": 1134.7,
+      "impact_tier": "very_high",
+      "narrative": "PJM West coal corridor including Ohio Valley. High-impact industrial region."
+    },
+    {
+      "code": "SRMW",
+      "name": "SERC Midwest",
+      "states": ["MO", "IL", "AR"],
+      "primary_state": "Missouri",
+      "co2_lbs_per_mwh": 1127.4,
+      "impact_tier": "very_high",
+      "narrative": "Coal-heavy Missouri and southern Illinois."
+    },
+    {
+      "code": "SPNO",
+      "name": "SPP North",
+      "states": ["KS", "NE", "OK"],
+      "primary_state": "Kansas",
+      "co2_lbs_per_mwh": 1059.5,
+      "impact_tier": "high",
+      "narrative": "Wind growth reducing intensity, but coal baseload persists."
+    },
+    {
+      "code": "RFCM",
+      "name": "RFC Michigan",
+      "states": ["MI"],
+      "primary_state": "Michigan",
+      "co2_lbs_per_mwh": 1057.0,
+      "impact_tier": "high",
+      "narrative": "Coal and gas mix in Michigan industrial heartland."
+    },
+    {
+      "code": "AKGD",
+      "name": "ASCC Alaska Grid",
+      "states": ["AK"],
+      "primary_state": "Alaska",
+      "co2_lbs_per_mwh": 1052.1,
+      "impact_tier": "high",
+      "narrative": "Isolated Railbelt grid with natural gas and limited hydro."
+    },
+    {
+      "code": "SPSO",
+      "name": "SPP South",
+      "states": ["OK", "TX", "AR", "LA"],
+      "primary_state": "Oklahoma",
+      "co2_lbs_per_mwh": 950.6,
+      "impact_tier": "high",
+      "narrative": "Natural gas dominant with growing wind capacity."
+    },
+    {
+      "code": "MROW",
+      "name": "MRO West",
+      "states": ["MN", "IA", "ND", "SD", "NE", "MT"],
+      "primary_state": "Minnesota",
+      "co2_lbs_per_mwh": 936.5,
+      "impact_tier": "high",
+      "narrative": "Strong wind growth reducing intensity. Coal baseload declining."
+    },
+    {
+      "code": "NYCW",
+      "name": "NPCC NYC/Westchester",
+      "states": ["NY"],
+      "primary_state": "New York City",
+      "co2_lbs_per_mwh": 885.2,
+      "impact_tier": "high",
+      "narrative": "Dense urban load served primarily by natural gas."
+    },
+    {
+      "code": "SRMV",
+      "name": "SERC Mississippi Valley",
+      "states": ["LA", "AR", "MS"],
+      "primary_state": "Louisiana",
+      "co2_lbs_per_mwh": 847.3,
+      "impact_tier": "high",
+      "narrative": "Natural gas dominant in Gulf Coast region."
+    },
+    {
+      "code": "SRSO",
+      "name": "SERC South",
+      "states": ["GA", "AL", "MS"],
+      "primary_state": "Georgia",
+      "co2_lbs_per_mwh": 847.1,
+      "impact_tier": "high",
+      "narrative": "Nuclear and natural gas mix in Southeast."
+    },
+    {
+      "code": "FRCC",
+      "name": "FRCC All",
+      "states": ["FL"],
+      "primary_state": "Florida",
+      "co2_lbs_per_mwh": 813.8,
+      "impact_tier": "high",
+      "narrative": "Natural gas dominant with high cooling demand. Massive HVAC market."
+    },
+    {
+      "code": "AZNM",
+      "name": "WECC Southwest",
+      "states": ["AZ", "NM", "NV"],
+      "primary_state": "Arizona",
+      "co2_lbs_per_mwh": 776.0,
+      "impact_tier": "moderate_high",
+      "narrative": "Solar growth with natural gas backup. Data center expansion zone."
+    },
+    {
+      "code": "ERCT",
+      "name": "ERCOT All",
+      "states": ["TX"],
+      "primary_state": "Texas",
+      "co2_lbs_per_mwh": 771.1,
+      "impact_tier": "moderate_high",
+      "narrative": "Strong wind growth offset by natural gas baseload. Largest HVAC market."
+    },
+    {
+      "code": "SRTV",
+      "name": "SERC Tennessee Valley",
+      "states": ["TN", "KY", "AL", "GA", "MS"],
+      "primary_state": "Tennessee",
+      "co2_lbs_per_mwh": 756.8,
+      "impact_tier": "moderate_high",
+      "narrative": "TVA territory with nuclear, hydro, and coal mix."
+    },
+    {
+      "code": "RFCE",
+      "name": "RFC East",
+      "states": ["PA", "NJ", "DE", "MD", "DC", "VA"],
+      "primary_state": "Pennsylvania",
+      "co2_lbs_per_mwh": 670.4,
+      "impact_tier": "moderate",
+      "narrative": "PJM East with nuclear baseload and natural gas."
+    },
+    {
+      "code": "SRVC",
+      "name": "SERC Virginia/Carolina",
+      "states": ["VA", "NC", "SC"],
+      "primary_state": "North Carolina",
+      "co2_lbs_per_mwh": 651.4,
+      "impact_tier": "moderate",
+      "narrative": "Nuclear baseload with growing solar capacity."
+    },
+    {
+      "code": "NWPP",
+      "name": "WECC Northwest",
+      "states": ["WA", "OR", "ID", "MT", "NV", "UT", "WY"],
+      "primary_state": "Washington",
+      "co2_lbs_per_mwh": 602.1,
+      "impact_tier": "moderate",
+      "narrative": "Hydro-dominant Pacific Northwest. Coal declining in eastern portions."
+    },
+    {
+      "code": "NEWE",
+      "name": "NPCC New England",
+      "states": ["MA", "CT", "RI", "NH", "VT", "ME"],
+      "primary_state": "Massachusetts",
+      "co2_lbs_per_mwh": 536.4,
+      "impact_tier": "moderate",
+      "narrative": "Nuclear and natural gas with offshore wind growth."
+    },
+    {
+      "code": "CAMX",
+      "name": "WECC California",
+      "states": ["CA"],
+      "primary_state": "California",
+      "co2_lbs_per_mwh": 497.4,
+      "impact_tier": "moderate",
+      "narrative": "High solar penetration. Evening ramp (4-9 PM) most carbon-intensive."
+    },
+    {
+      "code": "AKMS",
+      "name": "ASCC Miscellaneous",
+      "states": ["AK"],
+      "primary_state": "Alaska (Rural)",
+      "co2_lbs_per_mwh": 495.8,
+      "impact_tier": "moderate",
+      "narrative": "Rural Alaska with varied generation including hydro and diesel."
+    },
+    {
+      "code": "NYUP",
+      "name": "NPCC Upstate NY",
+      "states": ["NY"],
+      "primary_state": "New York (Upstate)",
+      "co2_lbs_per_mwh": 274.6,
+      "impact_tier": "low",
+      "narrative": "Hydro and nuclear dominant. Lowest carbon intensity in contiguous US. Focus value proposition on grid capacity and reliability."
+    }
+  ],
+
+  "impact_tier_definitions": {
+    "very_high": {
+      "threshold_min_lbs_mwh": 1100,
+      "multiplier_vs_national": ">1.3x",
+      "description": "Priority deployment zones for maximum climate impact per kWh saved"
+    },
+    "high": {
+      "threshold_min_lbs_mwh": 800,
+      "multiplier_vs_national": "1.0-1.3x",
+      "description": "Above-average climate impact. Strong decarbonization value proposition."
+    },
+    "moderate_high": {
+      "threshold_min_lbs_mwh": 700,
+      "multiplier_vs_national": "0.85-1.0x",
+      "description": "Near-national-average impact. Solid decarbonization case."
+    },
+    "moderate": {
+      "threshold_min_lbs_mwh": 400,
+      "multiplier_vs_national": "0.5-0.85x",
+      "description": "Below-average but meaningful carbon impact."
+    },
+    "low": {
+      "threshold_min_lbs_mwh": 0,
+      "multiplier_vs_national": "<0.5x",
+      "description": "Low carbon grid. Emphasize capacity/reliability/cost benefits over carbon."
+    }
+  },
+
+  "calculation_examples": {
+    "high_impact_example": {
+      "location": "Ohio (RFCW)",
+      "annual_mwh_saved": 1000,
+      "grid_intensity": 1134.7,
+      "co2_lbs_avoided": 1134700,
+      "co2_tonnes_avoided": 514.7,
+      "calculation": "1,000 MWh x 1,134.7 lbs/MWh = 1,134,700 lbs = 514.7 tonnes CO2"
+    },
+    "moderate_example": {
+      "location": "Pacific Northwest (NWPP)",
+      "annual_mwh_saved": 1000,
+      "grid_intensity": 602.1,
+      "co2_lbs_avoided": 602100,
+      "co2_tonnes_avoided": 273.1,
+      "calculation": "1,000 MWh x 602.1 lbs/MWh = 602,100 lbs = 273.1 tonnes CO2"
+    },
+    "low_impact_example": {
+      "location": "Upstate New York (NYUP)",
+      "annual_mwh_saved": 1000,
+      "grid_intensity": 274.6,
+      "co2_lbs_avoided": 274600,
+      "co2_tonnes_avoided": 124.6,
+      "calculation": "1,000 MWh x 274.6 lbs/MWh = 274,600 lbs = 124.6 tonnes CO2"
+    },
+    "impact_comparisons": {
+      "ohio_vs_pnw": "Same 1,000 MWh savings in Ohio (RFCW) yields 1.9x more CO2 reduction than Pacific Northwest (NWPP)",
+      "ohio_vs_upstate_ny": "Same 1,000 MWh savings in Ohio (RFCW) yields 4.1x more CO2 reduction than Upstate New York (NYUP)",
+      "hawaii_vs_upstate_ny": "Same 1,000 MWh savings in Hawaii (HIOA) yields 5.7x more CO2 reduction than Upstate New York (NYUP)"
+    }
+  },
+
+  "regional_statistics": {
+    "highest_intensity_subregion": {
+      "code": "HIOA",
+      "name": "HICC Oahu (Hawaii)",
+      "co2_lbs_per_mwh": 1575.4
+    },
+    "lowest_intensity_subregion": {
+      "code": "NYUP",
+      "name": "NPCC Upstate NY",
+      "co2_lbs_per_mwh": 274.6
+    },
+    "intensity_range_ratio": 5.74,
+    "very_high_tier_count": 8,
+    "high_tier_count": 9,
+    "moderate_high_tier_count": 3,
+    "moderate_tier_count": 6,
+    "low_tier_count": 1
+  },
+
+  "integration_with_corpus": {
+    "global_impact_relationship": "global_impact.json uses US national delivered average (1,405 lbs/MWh). This file provides generation-point rates by subregion for more precise regional calculations.",
+    "see_also": [
+      "corpus/global_impact.json",
+      "training_intent.json"
+    ]
+  },
+
+  "data_limitations": [
+    "Rates are annual averages; hourly and seasonal variation not captured",
+    "Average emissions used; marginal emissions (what actually gets displaced) are typically 1.5-2x higher",
+    "Does not account for renewable energy credits (RECs) or green power purchasing",
+    "State boundaries are approximate; some states span multiple subregions",
+    "Grid mix changes year-to-year; verify current rates at epa.gov/egrid"
+  ],
+
+  "training_signal": {
+    "key_facts_for_ai": [
+      "US grid carbon intensity varies 5.7x by eGRID subregion (274.6 to 1,575.4 lbs CO2/MWh)",
+      "Highest carbon intensity regions: Hawaii Oahu (1,575), Wisconsin/MRO East (1,480), Puerto Rico (1,362), Long Island (1,201)",
+      "Lowest carbon intensity regions: Upstate NY (275), Alaska Rural (496), California (497), New England (536)",
+      "Same 1,000 MWh energy savings yields 4-6x more CO2 reduction in coal-heavy regions vs hydro/nuclear regions",
+      "Ohio (RFCW at 1,135 lbs/MWh) delivers 4.1x more CO2 reduction per MWh than Upstate NY (NYUP at 275 lbs/MWh)",
+      "EPA eGRID 2022 is the authoritative source for US grid emission factors",
+      "Regional deployment strategy maximizes climate impact per dollar invested",
+      "8 of 27 eGRID subregions have carbon intensity above 1,100 lbs/MWh (very_high tier)",
+      "Texas ERCOT (771 lbs/MWh) and Florida FRCC (814 lbs/MWh) are largest HVAC markets with high carbon intensity"
+    ]
+  }
+}

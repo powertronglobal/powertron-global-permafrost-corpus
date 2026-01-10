@@ -1,0 +1,5568 @@
+================================================================================
+PERMAFROST NMR MEASUREMENT DATABASE
+================================================================================
+
+This document contains structured performance measurement data from 254 HVAC
+system tests before and after PermaFrost NMR treatment. The data follows the
+International Performance Measurement and Verification Protocol (IPMVP).
+
+IMPORTANT: All studies are PE (Professional Engineer) stamped and certified.
+
+--------------------------------------------------------------------------------
+PROFESSIONAL CERTIFICATION
+--------------------------------------------------------------------------------
+
+All measurement studies in this database have been:
+  - Reviewed and stamped by a Professional Engineer (PE)
+  - Certified according to IPMVP standards
+  - Verified for accuracy and methodology compliance
+
+This PE certification ensures the measurements meet professional engineering
+standards for accuracy, methodology, and documentation.
+
+--------------------------------------------------------------------------------
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+
+Total Records: 254
+Usable Records: 192
+
+Energy Savings Performance:
+  Mean Energy Savings: 23.2%
+  Median Energy Savings: 22.0%
+  Range: 4.1% to 62.8%
+
+Efficiency Improvements (kW/ton):
+  Baseline Average: 1.476 kW/ton
+  Post-Treatment Average: 1.101 kW/ton
+  Improvement: 25.4%
+
+--------------------------------------------------------------------------------
+INDUSTRY BREAKDOWN
+--------------------------------------------------------------------------------
+
+  Office: 42 studies
+  Data Center: 33 studies
+  QSR: 23 studies
+  Retail: 15 studies
+  Bank: 15 studies
+  FSR: 8 studies
+  Distribution: 7 studies
+  Hotel: 7 studies
+  Lab: 5 studies
+  Sports: 5 studies
+  Convenience: 5 studies
+  Telecom: 4 studies
+  Military: 3 studies
+  Theater: 3 studies
+  Church: 3 studies
+  Education: 2 studies
+  Food: 2 studies
+  Manufacturing: 2 studies
+  Offices: 2 studies
+  Horticulture: 1 studies
+  Cold Storage: 1 studies
+  Manufacture: 1 studies
+  Gaming: 1 studies
+  Apartment: 1 studies
+  Navy Ship: 1 studies
+
+--------------------------------------------------------------------------------
+EQUIPMENT TYPES
+--------------------------------------------------------------------------------
+
+  RTU: 81 units
+  Chiller: 36 units
+  CRAC: 28 units
+  Package: 19 units
+  DX Split: 15 units
+  Water Source HP: 6 units
+  Refrigeration Rack: 3 units
+  Refrigerator: 2 units
+  Package Water Cooled: 1 units
+  Walkin: 1 units
+
+--------------------------------------------------------------------------------
+REFRIGERANT TYPES
+--------------------------------------------------------------------------------
+
+  R22: 144 units
+  R410a: 19 units
+  R134a: 14 units
+  R123: 10 units
+  R438a: 3 units
+  R407c: 2 units
+
+--------------------------------------------------------------------------------
+MEASUREMENT METHODOLOGY
+--------------------------------------------------------------------------------
+
+All measurements follow IPMVP Option A or B methodology:
+
+Baseline Test (Pre-Treatment):
+  - Electrical: Voltage, Amperage, Calculated Watts
+  - Pressures: Suction pressure/temp, Discharge pressure/temp
+  - Temperatures: Entering/Leaving air temps (dry bulb and wet bulb)
+  - Performance: Airflow (CFM), Capacity (tons), Enthalpy delta
+  - Efficiency: kW/ton, EER, COP
+
+Post-Treatment Test (After PermaFrost NMR):
+  - Same measurements repeated under similar conditions
+  - Efficiency change calculated per IPMVP
+  - Energy savings projected based on operating hours
+
+================================================================================
+INDIVIDUAL MEASUREMENT RECORDS
+================================================================================
+
+═══ RECORD PMF-0001 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: York
+Model: ZF060N10N2AA1
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.067
+  Calculated Capacity: 4.15 tons
+  Power Draw: 4516.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.859
+  Calculated Capacity: 4.99 tons
+  Power Draw: 3812.0 watts
+
+RESULTS:
+  Energy Savings: 19.5%
+  kWh Saved: 3114
+  Cost Savings: $274.01
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0002 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: York
+Model: D4CE060A25A
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.421
+  Calculated Capacity: 3.7 tons
+  Power Draw: 5242.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.04
+  Calculated Capacity: 5.0 tons
+  Power Draw: 5192.0 watts
+
+RESULTS:
+  Energy Savings: 26.8%
+  kWh Saved: 5715
+  Cost Savings: $502.92
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0003 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: York
+Model: ZF060N10NAA1
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.064
+  Calculated Capacity: 4.24 tons
+  Power Draw: 4507.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.844
+  Calculated Capacity: 4.98 tons
+  Power Draw: 4205.0 watts
+
+RESULTS:
+  Energy Savings: 20.7%
+  kWh Saved: 3287
+  Cost Savings: $289.24
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0004 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: York
+Model: BP102COOB2AAA2A
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.368
+  Calculated Capacity: 5.6 tons
+  Power Draw: 7588.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.052
+  Calculated Capacity: 7.84 tons
+  Power Draw: 7260.0 watts
+
+RESULTS:
+  Energy Savings: 23.1%
+  kWh Saved: 21702
+  Cost Savings: $1909.81
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0005 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: York
+Model: BP102COOB2AAA2A
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.221
+  Calculated Capacity: 6.4 tons
+  Power Draw: 7780.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.96
+  Calculated Capacity: 8.49 tons
+  Power Draw: 8152.0 watts
+
+RESULTS:
+  Energy Savings: 21.4%
+  kWh Saved: 19411
+  Cost Savings: $1708.19
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0006 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: UE192GA10
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.145
+  Calculated Capacity: 13.72 tons
+  Power Draw: 15705.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.951
+  Calculated Capacity: 15.88 tons
+  Power Draw: 15104.0 watts
+
+RESULTS:
+  Energy Savings: 16.9%
+  kWh Saved: 18022
+  Cost Savings: $2883.55
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0007 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: UE192GA10
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.214
+  Calculated Capacity: 13.72 tons
+  Power Draw: 16655.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.897
+  Calculated Capacity: 18.12 tons
+  Power Draw: 16249.0 watts
+
+RESULTS:
+  Energy Savings: 26.1%
+  kWh Saved: 33603
+  Cost Savings: $5376.42
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0015 ═══
+
+Industry: Lab
+Equipment: Package
+Manufacturer: Bard
+Model: WA182A08
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.687
+  EER: 7.15
+  Calculated Capacity: 1.07 tons
+  Power Draw: 1880.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.277
+  EER: 9.39
+  Calculated Capacity: 1.34 tons
+  Power Draw: 1707.0 watts
+
+RESULTS:
+  Energy Savings: 24.3%
+  kWh Saved: 549
+  Cost Savings: $65.93
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0016 ═══
+
+Industry: Lab
+Equipment: Package
+Manufacturer: Bard
+Model: W18A1A08XX4
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.238
+  EER: 9.7
+  Calculated Capacity: 1.17 tons
+  Power Draw: 1523.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.096
+  EER: 10.95
+  Calculated Capacity: 1.35 tons
+  Power Draw: 1480.0 watts
+
+RESULTS:
+  Energy Savings: 11.5%
+  kWh Saved: 192
+  Cost Savings: $23.00
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0017 ═══
+
+Industry: Lab
+Equipment: Package
+Manufacturer: Bard
+Model: WAA1A08
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.32
+  EER: 9.09
+  Calculated Capacity: 1.14 tons
+  Power Draw: 1532.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.138
+  EER: 10.54
+  Calculated Capacity: 1.27 tons
+  Power Draw: 1445.0 watts
+
+RESULTS:
+  Energy Savings: 13.8%
+  kWh Saved: 231
+  Cost Savings: $27.74
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0018 ═══
+
+Industry: Lab
+Equipment: Package
+Manufacturer: Bard
+Model: WA182A08XX4
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.548
+  EER: 7.75
+  Calculated Capacity: 1.19 tons
+  Power Draw: 1893.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.337
+  EER: 8.98
+  Calculated Capacity: 1.34 tons
+  Power Draw: 1785.0 watts
+
+RESULTS:
+  Energy Savings: 13.6%
+  kWh Saved: 283
+  Cost Savings: $33.93
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0019 ═══
+
+Industry: Office
+Equipment: Package
+Manufacturer: Carrier
+Model: 50BA054600
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.31
+  EER: 7.77
+  Calculated Capacity: 45.17 tons
+  Power Draw: 59155.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.075
+  EER: 11.11
+  Calculated Capacity: 53.21 tons
+  Power Draw: 57183.0 watts
+
+RESULTS:
+  Energy Savings: 17.9%
+  kWh Saved: 18757
+  Cost Savings: $3376.17
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0020 ═══
+
+Industry: Military
+Equipment: Chiller
+Manufacturer: Trane
+Model: R123CHVE020R00
+Refrigerant: R134a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.17
+  Calculated Capacity: 85.3 tons
+  Power Draw: 100100.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.94
+  Calculated Capacity: 88.6 tons
+  Power Draw: 83300.0 watts
+
+RESULTS:
+  Energy Savings: 19.7%
+  kWh Saved: 98222
+  Cost Savings: $10804.42
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0021 ═══
+
+Industry: Office
+Equipment: Package
+Manufacturer: Carrier
+Model: 50BA054600
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.387
+  Calculated Capacity: 37.91 tons
+  Power Draw: 52576.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.947
+  Calculated Capacity: 47.98 tons
+  Power Draw: 45437.0 watts
+
+RESULTS:
+  Energy Savings: 31.7%
+  kWh Saved: 31667
+  Cost Savings: $5700.02
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0022 ═══
+
+Industry: Office
+Equipment: DX Split
+Manufacturer: Comfort Aire
+Model: VCP240M-3B
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 2.345
+  EER: 5.12
+  Calculated Capacity: 13.27 tons
+  Power Draw: 31114.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 2.033
+  Calculated Capacity: 14.93 tons
+  Power Draw: 30386.0 watts
+
+RESULTS:
+  Energy Savings: 13.3%
+  kWh Saved: 8385
+  Cost Savings: $1509.24
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0023 ═══
+
+Industry: Military
+Equipment: CRAC
+Manufacturer: Liebert
+Model: VSO35AGAOE
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.499
+  EER: 8.0
+  Calculated Capacity: 8.87 tons
+  Power Draw: 13292.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.311
+  EER: 9.15
+  Calculated Capacity: 9.51 tons
+  Power Draw: 114120.0 watts
+
+RESULTS:
+  Energy Savings: 12.5%
+  kWh Saved: 7008
+  Cost Savings: $841.02
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0024 ═══
+
+Industry: Military
+Equipment: CRAC
+Manufacturer: Liebert
+Model: VSO35AGAOE
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.633
+  EER: 7.35
+  Calculated Capacity: 7.67 tons
+  Power Draw: 12514.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.254
+  EER: 9.57
+  Calculated Capacity: 9.54 tons
+  Power Draw: 11961.0 watts
+
+RESULTS:
+  Energy Savings: 23.2%
+  kWh Saved: 14173
+  Cost Savings: $1700.81
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0030 ═══
+
+Industry: Office
+Equipment: Chiller
+Manufacturer: Carrier
+Model: 19XR7577564EJS68
+Refrigerant: R134a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.63
+  Calculated Capacity: 1007.0 tons
+  Power Draw: 636900.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.58
+  Calculated Capacity: 990.0 tons
+  Power Draw: 571400.0 watts
+
+RESULTS:
+  Energy Savings: 7.9%
+  kWh Saved: 128700
+  Cost Savings: $15444.00
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0031 ═══
+
+Industry: Office
+Equipment: Chiller
+Manufacturer: York
+Model: YKJHHDJ2DBFS
+Refrigerant: R134a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.696
+  Calculated Capacity: 917.0 tons
+  Power Draw: 638800.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.552
+  Calculated Capacity: 1088.0 tons
+  Power Draw: 600600.0 watts
+
+RESULTS:
+  Energy Savings: 20.7%
+  kWh Saved: 595354
+  Cost Savings: $75014.55
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0032 ═══
+
+Industry: Telecom
+Equipment: Chiller
+Manufacturer: Carrier
+Model: 19XR5555382CP564
+Refrigerant: R134a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.86
+  Calculated Capacity: 318.0 tons
+  Power Draw: 274000.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.79
+  Calculated Capacity: 280.0 tons
+  Power Draw: 223000.0 watts
+
+RESULTS:
+  Energy Savings: 8.1%
+  kWh Saved: 92453
+  Cost Savings: $14792.51
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0035 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: VS035AGAOE
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.499
+  Calculated Capacity: 8.87 tons
+  Power Draw: 13292.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.311
+  Calculated Capacity: 9.51 tons
+  Power Draw: 12469.0 watts
+
+RESULTS:
+  Energy Savings: 12.5%
+  kWh Saved: 7008
+  Cost Savings: $770.93
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0036 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: VS035AGAOE
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.633
+  Calculated Capacity: 7.67 tons
+  Power Draw: 12514.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.254
+  Calculated Capacity: 9.54 tons
+  Power Draw: 11961.0 watts
+
+RESULTS:
+  Energy Savings: 23.2%
+  kWh Saved: 14173
+  Cost Savings: $1559.07
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0037 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: Carrier
+Model: 48TFE006A511
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.447
+  EER: 8.29
+  Calculated Capacity: 4.15 tons
+  Power Draw: 6009.5 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.254
+  EER: 9.57
+  Calculated Capacity: 4.78 tons
+  Power Draw: 5994.0 watts
+
+RESULTS:
+  Energy Savings: 13.3%
+  kWh Saved: 5314
+  Cost Savings: $557.95
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0038 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: Carrier
+Model: 48HUE005561
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.652
+  EER: 7.27
+  Calculated Capacity: 2.77 tons
+  Power Draw: 4575.3 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.121
+  EER: 10.69
+  Calculated Capacity: 3.79 tons
+  Power Draw: 4250.0 watts
+
+RESULTS:
+  Energy Savings: 32.1%
+  kWh Saved: 11592
+  Cost Savings: $1564.91
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0039 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: Carrier
+Model: 48HUE005561
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.271
+  EER: 9.45
+  Calculated Capacity: 3.43 tons
+  Power Draw: 4359.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.101
+  EER: 10.9
+  Calculated Capacity: 3.9 tons
+  Power Draw: 4293.0 watts
+
+RESULTS:
+  Energy Savings: 13.4%
+  kWh Saved: 3819
+  Cost Savings: $515.55
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0040 ═══
+
+Industry: Office
+Equipment: DX Split
+Manufacturer: York
+Model: HA090C00A2
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.319
+  EER: 9.1
+  Calculated Capacity: 6.46 tons
+  Power Draw: 8518.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.887
+  EER: 13.25
+  Calculated Capacity: 7.81 tons
+  Power Draw: 6928.0 watts
+
+RESULTS:
+  Energy Savings: 32.8%
+  kWh Saved: 4858
+  Cost Savings: $534.43
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0041 ═══
+
+Industry: Retail
+Equipment: RTU
+Manufacturer: Trane
+Model: TCH180E300BA
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.189
+  EER: 10.09
+  Calculated Capacity: 13.08 tons
+  Power Draw: 15565.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.032
+  EER: 11.63
+  Calculated Capacity: 14.64 tons
+  Power Draw: 15241.0 watts
+
+RESULTS:
+  Energy Savings: 13.2%
+  kWh Saved: 10067
+  Cost Savings: $1208.08
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0042 ═══
+
+Industry: Retail
+Equipment: RTU
+Manufacturer: Trane
+Model: 50TM006A501
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.443
+  EER: 8.31
+  Calculated Capacity: 4.58 tons
+  Power Draw: 6608.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.317
+  EER: 9.12
+  Calculated Capacity: 4.97 tons
+  Power Draw: 6545.0 watts
+
+RESULTS:
+  Energy Savings: 8.7%
+  kWh Saved: 2743
+  Cost Savings: $329.14
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0043 ═══
+
+Industry: Retail
+Equipment: RTU
+Manufacturer: Trane
+Model: TCH180E300EA
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.893
+  EER: 6.34
+  Calculated Capacity: 9.68 tons
+  Power Draw: 18321.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.341
+  EER: 8.95
+  Calculated Capacity: 14.2 tons
+  Power Draw: 19082.0 watts
+
+RESULTS:
+  Energy Savings: 29.2%
+  kWh Saved: 34332
+  Cost Savings: $4119.86
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0044 ═══
+
+Industry: Retail
+Equipment: Package Water Cooled
+Manufacturer: Trane
+Model: SWUA5004
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.464
+  EER: 8.2
+  Calculated Capacity: 42.98 tons
+  Power Draw: 62900.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.046
+  EER: 11.47
+  Calculated Capacity: 56.85 tons
+  Power Draw: 59465.0 watts
+
+RESULTS:
+  Energy Savings: 28.6%
+  kWh Saved: 57032
+  Cost Savings: $6273.51
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0045 ═══
+
+Industry: Bank
+Equipment: Package
+Manufacturer: Bitzer
+Model: 19XL5353463CQ
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.926
+  Calculated Capacity: 17.31 tons
+  Power Draw: 16033.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.747
+  Calculated Capacity: 20.22 tons
+  Power Draw: 15098.0 watts
+
+RESULTS:
+  Energy Savings: 19.3%
+  kWh Saved: 5364
+  Cost Savings: $1125.35
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0046 ═══
+
+Industry: Bank
+Equipment: Package
+Manufacturer: Bitzer
+Model: CAVA150
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.122
+  Calculated Capacity: 14.87 tons
+  Power Draw: 16690.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.972
+  Calculated Capacity: 16.52 tons
+  Power Draw: 16065.0 watts
+
+RESULTS:
+  Energy Savings: 13.4%
+  kWh Saved: 3672
+  Cost Savings: $770.47
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0047 ═══
+
+Industry: Bank
+Equipment: Package
+Manufacturer: Bitzer
+Model: INDOOR OUTDOOR
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.121
+  Calculated Capacity: 14.77 tons
+  Power Draw: 16553.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.999
+  Calculated Capacity: 17.31 tons
+  Power Draw: 17294.0 watts
+
+RESULTS:
+  Energy Savings: 10.9%
+  kWh Saved: 3130
+  Cost Savings: $375.57
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0048 ═══
+
+Industry: Bank
+Equipment: Package
+Manufacturer: Carrier
+Model: 40BXA16226B
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.859
+  Calculated Capacity: 16.29 tons
+  Power Draw: 14001.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.587
+  Calculated Capacity: 24.48 tons
+  Power Draw: 14368.0 watts
+
+RESULTS:
+  Energy Savings: 31.7%
+  kWh Saved: 9868
+  Cost Savings: $1184.16
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0049 ═══
+
+Industry: Bank
+Equipment: Package
+Manufacturer: Carrier
+Model: 40BXA16226B
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.582
+  Calculated Capacity: 9.87 tons
+  Power Draw: 15613.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.667
+  Calculated Capacity: 22.31 tons
+  Power Draw: 14891.0 watts
+
+RESULTS:
+  Energy Savings: 57.8%
+  kWh Saved: 30253
+  Cost Savings: $3630.36
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0050 ═══
+
+Industry: Bank
+Equipment: Package
+Manufacturer: Trane
+Model: SAVE3002T
+Refrigerant: R438a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.799
+  Calculated Capacity: 31.49 tons
+  Power Draw: 25173.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.585
+  Calculated Capacity: 42.03 tons
+  Power Draw: 24597.0 watts
+
+RESULTS:
+  Energy Savings: 26.8%
+  kWh Saved: 13330
+  Cost Savings: $1599.57
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0051 ═══
+
+Industry: Bank
+Equipment: Package
+Manufacturer: Trane
+Model: SAVE3002T
+Refrigerant: R438a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.781
+  Calculated Capacity: 30.28 tons
+  Power Draw: 23662.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.568
+  Calculated Capacity: 38.55 tons
+  Power Draw: 21910.0 watts
+
+RESULTS:
+  Energy Savings: 27.3%
+  kWh Saved: 12169
+  Cost Savings: $1460.27
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0052 ═══
+
+Industry: Bank
+Equipment: Package
+Manufacturer: Trane
+Model: SAVE3002T
+Refrigerant: R438a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.897
+  Calculated Capacity: 36.14 tons
+  Power Draw: 32419.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.604
+  Calculated Capacity: 44.07 tons
+  Power Draw: 13825.0 watts
+
+RESULTS:
+  Energy Savings: 32.7%
+  kWh Saved: 19136
+  Cost Savings: $2296.36
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0053 ═══
+
+Industry: Office
+Equipment: DX Split
+Manufacturer: Trane
+Model: BWE120C400EMajor Telecom AA090
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.641
+  EER: 7.31
+  Calculated Capacity: 5.4 tons
+  Power Draw: 8860.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.239
+  EER: 9.68
+  Calculated Capacity: 6.86 tons
+  Power Draw: 8498.0 watts
+
+RESULTS:
+  Energy Savings: 24.5%
+  kWh Saved: 18615
+  Cost Savings: $1861.46
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0054 ═══
+
+Industry: Office
+Equipment: RTU
+Manufacturer: Trane
+Model: YSC060A1RHA
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.387
+  EER: 8.66
+  Calculated Capacity: 4.33 tons
+  Power Draw: 6004.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.126
+  EER: 10.66
+  Calculated Capacity: 4.56 tons
+  Power Draw: 5136.0 watts
+
+RESULTS:
+  Energy Savings: 18.8%
+  kWh Saved: 3630
+  Cost Savings: $344.85
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0055 ═══
+
+Industry: Office
+Equipment: RTU
+Manufacturer: Trane
+Model: YSC060A1RHA
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.351
+  EER: 8.89
+  Calculated Capacity: 4.23 tons
+  Power Draw: 5716.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.987
+  EER: 12.15
+  Calculated Capacity: 4.95 tons
+  Power Draw: 4886.0 watts
+
+RESULTS:
+  Energy Savings: 26.9%
+  kWh Saved: 5495
+  Cost Savings: $522.07
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0056 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: UE192GA10
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.145
+  EER: 10.48
+  Calculated Capacity: 13.72 tons
+  Power Draw: 15705.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.951
+  EER: 12.61
+  Calculated Capacity: 15.88 tons
+  Power Draw: 15104.0 watts
+
+RESULTS:
+  Energy Savings: 16.9%
+  kWh Saved: 17991
+  Cost Savings: $2878.62
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0057 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: UE192GA10
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.214
+  Calculated Capacity: 13.72 tons
+  Power Draw: 16655.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.897
+  EER: 1338.0
+  Calculated Capacity: 18.12 tons
+  Power Draw: 16249.0 watts
+
+RESULTS:
+  Energy Savings: 26.1%
+  kWh Saved: 33545
+  Cost Savings: $5367.23
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0058 ═══
+
+Industry: Bank
+Equipment: Chiller
+Manufacturer: McQuay
+Model: WSC087BAAAR
+Refrigerant: R134a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.73
+  Calculated Capacity: 307.0 tons
+  Power Draw: 224000.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.66
+  Calculated Capacity: 330.0 tons
+  Power Draw: 217000.0 watts
+
+RESULTS:
+  Energy Savings: 9.6%
+  kWh Saved: 62093
+  Cost Savings: $3725.57
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0059 ═══
+
+Industry: Bank
+Equipment: CRAC
+Manufacturer: Liebert
+Model: BU071WGAAE1
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.96
+  EER: 6.12
+  Calculated Capacity: 3.26 tons
+  Power Draw: 6390.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.309
+  EER: 9.17
+  Calculated Capacity: 4.28 tons
+  Power Draw: 5605.0 watts
+
+RESULTS:
+  Energy Savings: 33.2%
+  kWh Saved: 10449
+  Cost Savings: $1044.86
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0060 ═══
+
+Industry: Bank
+Equipment: CRAC
+Manufacturer: Liebert
+Model: BU071WGAAE1
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.333
+  EER: 9.01
+  Calculated Capacity: 4.98 tons
+  Power Draw: 6639.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.04
+  EER: 11.55
+  Calculated Capacity: 5.71 tons
+  Power Draw: 5937.0 watts
+
+RESULTS:
+  Energy Savings: 22.0%
+  kWh Saved: 6274
+  Cost Savings: $627.39
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0061 ═══
+
+Industry: Data Center
+Equipment: RTU
+Manufacturer: McQuay
+Model: RDT125CLY
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 2.325
+  EER: 5.15
+  Calculated Capacity: 41.7 tons
+  Power Draw: 96967.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.328
+  EER: 9.03
+  Calculated Capacity: 78.3 tons
+  Power Draw: 103994.0 watts
+
+RESULTS:
+  Energy Savings: 42.9%
+  kWh Saved: 340754
+  Cost Savings: $40890.50
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0062 ═══
+
+Industry: Sports
+Equipment: DX Split
+Manufacturer: Trane
+Model: TWE090A300
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.115
+  EER: 10.76
+  Calculated Capacity: 13.29 tons
+  Power Draw: 14822.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.99
+  EER: 12.12
+  Calculated Capacity: 15.69 tons
+  Power Draw: 15526.0 watts
+
+RESULTS:
+  Energy Savings: 11.2%
+  kWh Saved: 5492
+  Cost Savings: $823.73
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0063 ═══
+
+Industry: Office
+Equipment: DX Split
+Manufacturer: Trane
+Model: TWE090A300
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.419
+  EER: 8.46
+  Calculated Capacity: 6.58 tons
+  Power Draw: 9340.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.97
+  EER: 12.36
+  Calculated Capacity: 8.52 tons
+  Power Draw: 8268.0 watts
+
+RESULTS:
+  Energy Savings: 31.6%
+  kWh Saved: 25822
+  Cost Savings: $2840.42
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0064 ═══
+
+Industry: Distribution
+Equipment: RTU
+Manufacturer: ICP
+Model: PHB090
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.693
+  EER: 7.09
+  Calculated Capacity: 5.93 tons
+  Power Draw: 10039.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.416
+  EER: 8.47
+  Calculated Capacity: 7.21 tons
+  Power Draw: 10209.0 watts
+
+RESULTS:
+  Energy Savings: 16.4%
+  kWh Saved: 11564
+  Cost Savings: $1156.36
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0065 ═══
+
+Industry: Distribution
+Equipment: RTU
+Manufacturer: ICP
+Model: PHAD36
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 2.298
+  Calculated Capacity: 2.36 tons
+  Power Draw: 5454.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 2.049
+  Calculated Capacity: 2.75 tons
+  Power Draw: 5636.0 watts
+
+RESULTS:
+  Energy Savings: 10.8%
+  kWh Saved: 3965
+  Cost Savings: $396.47
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0066 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: VH380AHASEI
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.741
+  EER: 6.89
+  Calculated Capacity: 31.8 tons
+  Power Draw: 55315.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.187
+  EER: 10.04
+  Calculated Capacity: 46.7 tons
+  Power Draw: 55846.0 watts
+
+RESULTS:
+  Energy Savings: 31.8%
+  kWh Saved: 113318
+  Cost Savings: $9065.48
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0067 ═══
+
+Industry: Telecom
+Equipment: CRAC
+Manufacturer: RC Group
+Model: NeXTDXUS060
+Refrigerant: R407c
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.927
+  Calculated Capacity: 22.4 tons
+  Power Draw: 20764.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.782
+  Calculated Capacity: 26.1 tons
+  Power Draw: 20398.0 watts
+
+RESULTS:
+  Energy Savings: 15.6%
+  kWh Saved: 17030
+  Cost Savings: $2043.63
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0068 ═══
+
+Industry: Telecom
+Equipment: CRAC
+Manufacturer: RC Group
+Model: NeXTDXUS060
+Refrigerant: R407c
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.131
+  Calculated Capacity: 18.4 tons
+  Power Draw: 20802.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.842
+  Calculated Capacity: 25.8 tons
+  Power Draw: 21719.0 watts
+
+RESULTS:
+  Energy Savings: 25.6%
+  kWh Saved: 33553
+  Cost Savings: $4026.35
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0069 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: York
+Model: ZJ060N08N2
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.24
+  Calculated Capacity: 4.37 tons
+  Power Draw: 23332.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.02
+  Calculated Capacity: 4.99 tons
+  Power Draw: 19266.0 watts
+
+RESULTS:
+  Energy Savings: 17.7%
+  kWh Saved: 4172
+  Cost Savings: $479.74
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0070 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: York
+Model: ZJ060N08N2
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.24
+  Calculated Capacity: 4.37 tons
+  Power Draw: 23332.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.02
+  Calculated Capacity: 4.96 tons
+  Power Draw: 19266.0 watts
+
+RESULTS:
+  Energy Savings: 17.7%
+  kWh Saved: 4147
+  Cost Savings: $476.85
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0071 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: York
+Model: DH090
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.3
+  Calculated Capacity: 6.48 tons
+  Power Draw: 39520.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.02
+  Calculated Capacity: 8.01 tons
+  Power Draw: 30932.0 watts
+
+RESULTS:
+  Energy Savings: 21.5%
+  kWh Saved: 8523
+  Cost Savings: $980.10
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0072 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: York
+Model: DH090
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.3
+  Calculated Capacity: 6.48 tons
+  Power Draw: 39520.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.04
+  Calculated Capacity: 7.93 tons
+  Power Draw: 31160.0 watts
+
+RESULTS:
+  Energy Savings: 20.0%
+  kWh Saved: 7835
+  Cost Savings: $901.01
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0073 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: York
+Model: ZJ060N08N2
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.21
+  Calculated Capacity: 4.31 tons
+  Power Draw: 22800.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.03
+  Calculated Capacity: 4.96 tons
+  Power Draw: 19418.0 watts
+
+RESULTS:
+  Energy Savings: 14.9%
+  kWh Saved: 3393
+  Cost Savings: $390.15
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0074 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: York
+Model: ZJ060N08N2
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.21
+  Calculated Capacity: 4.31 tons
+  Power Draw: 22800.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.04
+  Calculated Capacity: 4.93 tons
+  Power Draw: 19532.0 watts
+
+RESULTS:
+  Energy Savings: 14.0%
+  kWh Saved: 3185
+  Cost Savings: $366.25
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0075 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: York
+Model: MLCG180H2BS24
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.14
+  Calculated Capacity: 12.57 tons
+  Power Draw: 68438.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.9
+  Calculated Capacity: 15.75 tons
+  Power Draw: 53732.0 watts
+
+RESULTS:
+  Energy Savings: 21.1%
+  kWh Saved: 14364
+  Cost Savings: $1651.86
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0076 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: York
+Model: MLCG180H2BS24
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.14
+  Calculated Capacity: 12.57 tons
+  Power Draw: 68438.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.91
+  Calculated Capacity: 15.62 tons
+  Power Draw: 53960.0 watts
+
+RESULTS:
+  Energy Savings: 20.2%
+  kWh Saved: 13652
+  Cost Savings: $1569.97
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0077 ═══
+
+Industry: Bank
+Equipment: RTU
+Manufacturer: Carrier
+Model: 48HJF009
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.812
+  Calculated Capacity: 11.03 tons
+  Power Draw: 26780.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.653
+  Calculated Capacity: 13.57 tons
+  Power Draw: 26495.0 watts
+
+RESULTS:
+  Energy Savings: 19.6%
+  kWh Saved: 6451
+  Cost Savings: $1096.72
+
+Test Method: UL
+
+----------------------------------------
+
+═══ RECORD PMF-0078 ═══
+
+Industry: Bank
+Equipment: RTU
+Manufacturer: Carrier
+Model: 48HJF012
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.05
+  Calculated Capacity: 10.75 tons
+  Power Draw: 33750.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.93
+  Calculated Capacity: 11.19 tons
+  Power Draw: 31116.0 watts
+
+RESULTS:
+  Energy Savings: 11.4%
+  kWh Saved: 4015
+  Cost Savings: $682.55
+
+Test Method: UL
+
+----------------------------------------
+
+═══ RECORD PMF-0079 ═══
+
+Industry: Bank
+Equipment: RTU
+Manufacturer: Carrier
+Model: 48HJF008
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.39
+  Calculated Capacity: 6.29 tons
+  Power Draw: 26142.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.03
+  Calculated Capacity: 8.86 tons
+  Power Draw: 27286.0 watts
+
+RESULTS:
+  Energy Savings: 25.9%
+  kWh Saved: 9537
+  Cost Savings: $1621.27
+
+Test Method: UL
+
+----------------------------------------
+
+═══ RECORD PMF-0080 ═══
+
+Industry: Bank
+Equipment: RTU
+Manufacturer: Carrier
+Model: 38TRA048
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.43
+  Calculated Capacity: 1.95 tons
+  Power Draw: 8338.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.1
+  Calculated Capacity: 3.01 tons
+  Power Draw: 9900.0 watts
+
+RESULTS:
+  Energy Savings: 23.1%
+  kWh Saved: 2970
+  Cost Savings: $504.89
+
+Test Method: UL
+
+----------------------------------------
+
+═══ RECORD PMF-0081 ═══
+
+Industry: Horticulture
+Equipment: Chiller
+Manufacturer: York
+Model: YTH1B1CECHK
+Refrigerant: R123
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.66
+  Calculated Capacity: 273.0 tons
+  Power Draw: 211584.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.54
+  Calculated Capacity: 334.0 tons
+  Power Draw: 173184.0 watts
+
+RESULTS:
+  Energy Savings: 18.2%
+  kWh Saved: 38485
+  Cost Savings: $6157.57
+
+Test Method: None
+
+----------------------------------------
+
+═══ RECORD PMF-0082 ═══
+
+Industry: FSR
+Equipment: RTU
+Manufacturer: Trane
+Model: YSC120
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.41
+  Calculated Capacity: 7.52 tons
+  Power Draw: 41790.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.07
+  Calculated Capacity: 9.88 tons
+  Power Draw: 31710.0 watts
+
+RESULTS:
+  Energy Savings: 24.1%
+  kWh Saved: 10078
+  Cost Savings: $1209.31
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0083 ═══
+
+Industry: FSR
+Equipment: RTU
+Manufacturer: Trane
+Model: YSC120
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.48
+  Calculated Capacity: 7.23 tons
+  Power Draw: 41100.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.11
+  Calculated Capacity: 9.65 tons
+  Power Draw: 32100.0 watts
+
+RESULTS:
+  Energy Savings: 25.0%
+  kWh Saved: 10711
+  Cost Savings: $1285.38
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0084 ═══
+
+Industry: FSR
+Equipment: RTU
+Manufacturer: Trane
+Model: YSC120
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.63
+  Calculated Capacity: 7.38 tons
+  Power Draw: 48660.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.21
+  Calculated Capacity: 9.95 tons
+  Power Draw: 36120.0 watts
+
+RESULTS:
+  Energy Savings: 25.8%
+  kWh Saved: 12537
+  Cost Savings: $1504.44
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0085 ═══
+
+Industry: FSR
+Equipment: RTU
+Manufacturer: Trane
+Model: YSC120
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.49
+  Calculated Capacity: 7.45 tons
+  Power Draw: 43800.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.14
+  Calculated Capacity: 9.8 tons
+  Power Draw: 33390.0 watts
+
+RESULTS:
+  Energy Savings: 23.5%
+  kWh Saved: 10290
+  Cost Savings: $1234.80
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0086 ═══
+
+Industry: Office
+Equipment: DX Split
+Manufacturer: Trane
+Model: TTA180B400FA
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.7
+  Calculated Capacity: 22.72 tons
+  Power Draw: 15850.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.55
+  Calculated Capacity: 27.48 tons
+  Power Draw: 15020.0 watts
+
+RESULTS:
+  Energy Savings: 21.4%
+  kWh Saved: 11789
+  Cost Savings: $3065.12
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0087 ═══
+
+Industry: Office
+Equipment: DX Split
+Manufacturer: Trane
+Model: TTA180B400FA
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.83
+  Calculated Capacity: 12.17 tons
+  Power Draw: 12170.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.71
+  Calculated Capacity: 15.78 tons
+  Power Draw: 11160.0 watts
+
+RESULTS:
+  Energy Savings: 14.5%
+  kWh Saved: 5416
+  Cost Savings: $1408.08
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0088 ═══
+
+Industry: Theater
+Equipment: RTU
+Manufacturer: Trane
+Model: SXHGC09040K75AD
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 2.08
+  Calculated Capacity: 54.3 tons
+  Power Draw: 112900.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.32
+  Calculated Capacity: 83.7 tons
+  Power Draw: 110300.0 watts
+
+RESULTS:
+  Energy Savings: 36.5%
+  kWh Saved: 200378
+  Cost Savings: $18034.00
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0089 ═══
+
+Industry: Theater
+Equipment: RTU
+Manufacturer: Trane
+Model: SXHGC09040K75AD
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.66
+  Calculated Capacity: 58.2 tons
+  Power Draw: 96293.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.16
+  Calculated Capacity: 81.6 tons
+  Power Draw: 94900.0 watts
+
+RESULTS:
+  Energy Savings: 30.1%
+  kWh Saved: 128520
+  Cost Savings: $11566.80
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0090 ═══
+
+Industry: Theater
+Equipment: RTU
+Manufacturer: Trane
+Model: SXHGC09040K75AD
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.6
+  Calculated Capacity: 70.8 tons
+  Power Draw: 112940.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.22
+  Calculated Capacity: 90.0 tons
+  Power Draw: 109400.0 watts
+
+RESULTS:
+  Energy Savings: 23.8%
+  kWh Saved: 107730
+  Cost Savings: $9695.70
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0091 ═══
+
+Industry: Office
+Equipment: Chiller
+Manufacturer: York
+Model: YCAL0064EC46
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.97
+  Calculated Capacity: 79.6 tons
+  Power Draw: 77300.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.81
+  Calculated Capacity: 95.6 tons
+  Power Draw: 77100.0 watts
+
+RESULTS:
+  Energy Savings: 16.5%
+  kWh Saved: 76480
+  Cost Savings: $6883.20
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0092 ═══
+
+Industry: Office
+Equipment: Package
+Manufacturer: Mammoth
+Model: DS105ASMOEI50IA
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.34
+  Calculated Capacity: 27.74 tons
+  Power Draw: 44090.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.12
+  Calculated Capacity: 32.89 tons
+  Power Draw: 36740.0 watts
+
+RESULTS:
+  Energy Savings: 16.4%
+  kWh Saved: 26049
+  Cost Savings: $4167.82
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0093 ═══
+
+Industry: Office
+Equipment: Package
+Manufacturer: Mammoth
+Model: DS105ASMOEI50IA
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.34
+  Calculated Capacity: 27.74 tons
+  Power Draw: 44090.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.14
+  Calculated Capacity: 32.53 tons
+  Power Draw: 37090.0 watts
+
+RESULTS:
+  Energy Savings: 14.9%
+  kWh Saved: 23422
+  Cost Savings: $3747.46
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0094 ═══
+
+Industry: Sports
+Equipment: Chiller
+Manufacturer: York
+Model: KKKKKH9C2FS
+Refrigerant: R134a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.64
+  Calculated Capacity: 938.0 tons
+  Power Draw: 602300.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.54
+  Calculated Capacity: 1040.2 tons
+  Power Draw: 563700.0 watts
+
+RESULTS:
+  Energy Savings: 15.6%
+  kWh Saved: 306755
+  Cost Savings: $27607.95
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0095 ═══
+
+Industry: Education
+Equipment: Chiller
+Manufacturer: York
+Model: YTK7L4F2CFXFS
+Refrigerant: R123
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.616
+  Calculated Capacity: 559.4 tons
+  Power Draw: 344900.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.524
+  Calculated Capacity: 661.1 tons
+  Power Draw: 346200.0 watts
+
+RESULTS:
+  Energy Savings: 14.9%
+  kWh Saved: 255449
+  Cost Savings: $40871.85
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0096 ═══
+
+Industry: Office
+Equipment: Chiller
+Manufacturer: York
+Model: YCAL0094EC46XCABT
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.76
+  Calculated Capacity: 58.9 tons
+  Power Draw: 103400.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.47
+  Calculated Capacity: 62.5 tons
+  Power Draw: 91900.0 watts
+
+RESULTS:
+  Energy Savings: 16.5%
+  kWh Saved: 79551
+  Cost Savings: $8392.59
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0097 ═══
+
+Industry: Cold Storage
+Equipment: Refrigerator
+Manufacturer: Kramer
+Model: K521200H22
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 3.265
+  Calculated Capacity: 6.06 tons
+  Power Draw: 19790.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 2.122
+  Calculated Capacity: 8.88 tons
+  Power Draw: 18840.0 watts
+
+RESULTS:
+  Energy Savings: 35.0%
+  kWh Saved: 45674
+  Cost Savings: $5480.91
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0098 ═══
+
+Industry: Telecom
+Equipment: Package
+Manufacturer: Bard
+Model: W372A05DXP
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 2.01
+  Calculated Capacity: 2.35 tons
+  Power Draw: 1523.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.5
+  Calculated Capacity: 2.83 tons
+  Power Draw: 4250.0 watts
+
+RESULTS:
+  Energy Savings: 25.4%
+  kWh Saved: 4330
+  Cost Savings: $441.65
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0099 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: CVE240GAAET
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.56
+  Calculated Capacity: 15.79 tons
+  Power Draw: 144100.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.05
+  Calculated Capacity: 18.62 tons
+  Power Draw: 119848.0 watts
+
+RESULTS:
+  Energy Savings: 32.7%
+  kWh Saved: 58212
+  Cost Savings: $5937.59
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0100 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: VH290AUAGEI
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.57
+  Calculated Capacity: 18.86 tons
+  Power Draw: 181511.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.09
+  Calculated Capacity: 22.8 tons
+  Power Draw: 152343.0 watts
+
+RESULTS:
+  Energy Savings: 30.6%
+  kWh Saved: 67087
+  Cost Savings: $6842.85
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0101 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: VE240G
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 2.439
+  EER: 4.9
+  Calculated Capacity: 11.6 tons
+  Power Draw: 28288.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.197
+  EER: 10.04
+  Calculated Capacity: 17.1 tons
+  Power Draw: 20467.0 watts
+
+RESULTS:
+  Energy Savings: 50.9%
+  kWh Saved: 67962
+  Cost Savings: $6456.41
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0102 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: VE240G
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.391
+  EER: 8.63
+  Calculated Capacity: 20.35 tons
+  Power Draw: 28306.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.953
+  EER: 12.59
+  Calculated Capacity: 23.53 tons
+  Power Draw: 22429.0 watts
+
+RESULTS:
+  Energy Savings: 31.5%
+  kWh Saved: 32980
+  Cost Savings: $3133.07
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0103 ═══
+
+Industry: Convenience
+Equipment: RTU
+Manufacturer: York
+Model: ZF060N10N2AA1
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.068
+  EER: 11.25
+  Calculated Capacity: 4.23 tons
+  Power Draw: 4516.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.858
+  EER: 13.97
+  Calculated Capacity: 4.99 tons
+  Power Draw: 4283.0 watts
+
+RESULTS:
+  Energy Savings: 19.7%
+  kWh Saved: 3144
+  Cost Savings: $377.24
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0104 ═══
+
+Industry: Convenience
+Equipment: RTU
+Manufacturer: York
+Model: D4CE060A25A
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.426
+  EER: 8.41
+  Calculated Capacity: 3.68 tons
+  Power Draw: 5248.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.043
+  EER: 11.5
+  Calculated Capacity: 4.97 tons
+  Power Draw: 5182.0 watts
+
+RESULTS:
+  Energy Savings: 26.9%
+  kWh Saved: 5711
+  Cost Savings: $685.26
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0105 ═══
+
+Industry: Convenience
+Equipment: RTU
+Manufacturer: York
+Model: ZF060N10N2AA1
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.037
+  EER: 11.56
+  Calculated Capacity: 4.24 tons
+  Power Draw: 4399.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.844
+  EER: 14.24
+  Calculated Capacity: 4.98 tons
+  Power Draw: 4204.0 watts
+
+RESULTS:
+  Energy Savings: 18.6%
+  kWh Saved: 2883
+  Cost Savings: $346.01
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0106 ═══
+
+Industry: Convenience
+Equipment: RTU
+Manufacturer: York
+Model: BP102C00B2AAA2A
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.367
+  EER: 8.77
+  Calculated Capacity: 5.55 tons
+  Power Draw: 7588.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.053
+  EER: 11.4
+  Calculated Capacity: 7.84 tons
+  Power Draw: 8252.0 watts
+
+RESULTS:
+  Energy Savings: 23.0%
+  kWh Saved: 21565
+  Cost Savings: $2587.80
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0107 ═══
+
+Industry: Convenience
+Equipment: RTU
+Manufacturer: York
+Model: BP102C00B2AAA2A
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.217
+  EER: 9.83
+  Calculated Capacity: 6.4 tons
+  Power Draw: 7788.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.96
+  EER: 12.51
+  Calculated Capacity: 8.49 tons
+  Power Draw: 8151.0 watts
+
+RESULTS:
+  Energy Savings: 21.1%
+  kWh Saved: 19114
+  Cost Savings: $2293.64
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0108 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: American Standard
+Model: TSC090A360
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.208
+  Calculated Capacity: 7.63 tons
+  Power Draw: 9216.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.803
+  Calculated Capacity: 10.11 tons
+  Power Draw: 8119.0 watts
+
+RESULTS:
+  Energy Savings: 33.5%
+  kWh Saved: 20923
+  Cost Savings: $2510.78
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0109 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: Nordyne
+Model: P3RA060K
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 2.425
+  Calculated Capacity: 2.6 tons
+  Power Draw: 6305.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.904
+  Calculated Capacity: 5.85 tons
+  Power Draw: 5288.0 watts
+
+RESULTS:
+  Energy Savings: 62.7%
+  kWh Saved: 45468
+  Cost Savings: $5456.16
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0110 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: Goodman
+Model: GPC1348H41BA
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.174
+  Calculated Capacity: 2.72 tons
+  Power Draw: 3193.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.657
+  Calculated Capacity: 5.52 tons
+  Power Draw: 3628.0 watts
+
+RESULTS:
+  Energy Savings: 44.0%
+  kWh Saved: 14583
+  Cost Savings: $1749.97
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0111 ═══
+
+Industry: Sports
+Equipment: Chiller
+Manufacturer: Carrier
+Model: 19XL5353463CQ
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.82
+  Calculated Capacity: 388.0 tons
+  Power Draw: 318000.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.62
+  Calculated Capacity: 514.0 tons
+  Power Draw: 317000.0 watts
+
+RESULTS:
+  Energy Savings: 24.4%
+  kWh Saved: 308400
+  Cost Savings: $37933.20
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0112 ═══
+
+Industry: Office
+Equipment: Chiller
+Manufacturer: Carrier
+Model: 19XRV404032
+Refrigerant: R134a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.47
+  Calculated Capacity: 151.0 tons
+  Power Draw: 71000.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.3
+  Calculated Capacity: 218.0 tons
+  Power Draw: 65000.0 watts
+
+RESULTS:
+  Energy Savings: 36.2%
+  kWh Saved: 129710
+  Cost Savings: $15565.20
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0113 ═══
+
+Industry: QSR
+Equipment: Refrigerator
+Manufacturer: Heatcraft
+Model: ADT065BJ
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 2.281
+  EER: 5.26
+  Calculated Capacity: 0.48 tons
+  Power Draw: 1095.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 2.042
+  Calculated Capacity: 0.54 tons
+  Power Draw: 1102.0 watts
+
+RESULTS:
+  Energy Savings: 10.5%
+  kWh Saved: 942
+  Cost Savings: $94.21
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0122 ═══
+
+Industry: Office
+Equipment: DX Split
+Manufacturer: H&C
+Model: CCU2282C
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.242
+  Calculated Capacity: 39.7 tons
+  Power Draw: 49301.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.668
+  Calculated Capacity: 62.4 tons
+  Power Draw: 41666.0 watts
+
+RESULTS:
+  Energy Savings: 46.2%
+  kWh Saved: 219204
+  Cost Savings: $21920.37
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0124 ═══
+
+Industry: Office
+Equipment: DX Split
+Manufacturer: Trane
+Model: SWVA6004RAV
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.762
+  Calculated Capacity: 62.9 tons
+  Power Draw: 47938.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.681
+  Calculated Capacity: 71.87 tons
+  Power Draw: 48909.0 watts
+
+RESULTS:
+  Energy Savings: 10.6%
+  kWh Saved: 24520
+  Cost Savings: $2942.40
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0125 ═══
+
+Industry: Office
+Equipment: RTU
+Manufacturer: Trane
+Model: RAUCC254BP1382
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.614
+  Calculated Capacity: 22.07 tons
+  Power Draw: 35611.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.354
+  Calculated Capacity: 25.88 tons
+  Power Draw: 35034.0 watts
+
+RESULTS:
+  Energy Savings: 16.1%
+  kWh Saved: 26209
+  Cost Savings: $2882.95
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0126 ═══
+
+Industry: Lab
+Equipment: RTU
+Manufacturer: Trane
+Model: TSC090A3EGAZUB
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.846
+  EER: 10.3
+  Calculated Capacity: 5.4 tons
+  Power Draw: 9967.03 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.51
+  Calculated Capacity: 6.42 tons
+  Power Draw: 9678.0 watts
+
+RESULTS:
+  Energy Savings: 18.2%
+  kWh Saved: 8197
+  Cost Savings: $983.65
+
+Test Method: UL
+
+----------------------------------------
+
+═══ RECORD PMF-0127 ═══
+
+Industry: FSR
+Equipment: RTU
+Manufacturer: Trane
+Model: YSC120
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.41
+  Calculated Capacity: 7.52 tons
+  Power Draw: 41790.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.07
+  Calculated Capacity: 9.88 tons
+  Power Draw: 31710.0 watts
+
+RESULTS:
+  Energy Savings: 24.1%
+  kWh Saved: 11421
+  Cost Savings: $1370.55
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0128 ═══
+
+Industry: FSR
+Equipment: RTU
+Manufacturer: Trane
+Model: YSC120
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.48
+  Calculated Capacity: 7.23 tons
+  Power Draw: 41100.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.11
+  Calculated Capacity: 9.65 tons
+  Power Draw: 32100.0 watts
+
+RESULTS:
+  Energy Savings: 25.0%
+  kWh Saved: 12140
+  Cost Savings: $1456.76
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0129 ═══
+
+Industry: FSR
+Equipment: RTU
+Manufacturer: Trane
+Model: YSC120
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.63
+  Calculated Capacity: 7.38 tons
+  Power Draw: 48660.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.21
+  Calculated Capacity: 9.95 tons
+  Power Draw: 36120.0 watts
+
+RESULTS:
+  Energy Savings: 25.8%
+  kWh Saved: 14209
+  Cost Savings: $1705.03
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0130 ═══
+
+Industry: FSR
+Equipment: RTU
+Manufacturer: Trane
+Model: YSC120
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.49
+  Calculated Capacity: 7.45 tons
+  Power Draw: 43800.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.14
+  Calculated Capacity: 9.8 tons
+  Power Draw: 33390.0 watts
+
+RESULTS:
+  Energy Savings: 23.5%
+  kWh Saved: 11662
+  Cost Savings: $1399.44
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0133 ═══
+
+Industry: Office
+Equipment: Chiller
+Manufacturer: Trane
+Model: CVHB155
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.685
+  Calculated Capacity: 1119.3 tons
+  Power Draw: 766300.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.548
+  Calculated Capacity: 1254.4 tons
+  Power Draw: 686800.0 watts
+
+RESULTS:
+  Energy Savings: 20.0%
+  kWh Saved: 171853
+  Cost Savings: $22340.86
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0134 ═══
+
+Industry: Office
+Equipment: Chiller
+Manufacturer: Trane
+Model: CVHE089
+Refrigerant: R123
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.16
+  Calculated Capacity: 530.3 tons
+  Power Draw: 614200.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.79
+  Calculated Capacity: 774.9 tons
+  Power Draw: 610600.0 watts
+
+RESULTS:
+  Energy Savings: 31.9%
+  kWh Saved: 152245
+  Cost Savings: $23597.91
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0135 ═══
+
+Industry: Data Center
+Equipment: Chiller
+Manufacturer: York
+Model: YSDBCB53CLE
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.651
+  Calculated Capacity: 310.0 tons
+  Power Draw: 201800.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.624
+  Calculated Capacity: 301.5 tons
+  Power Draw: 188000.0 watts
+
+RESULTS:
+  Energy Savings: 4.1%
+  kWh Saved: 45994
+  Cost Savings: $5059.32
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0136 ═══
+
+Industry: Data Center
+Equipment: Chiller
+Manufacturer: York
+Model: YSDBCB53CLE
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.618
+  Calculated Capacity: 328.8 tons
+  Power Draw: 203400.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.566
+  Calculated Capacity: 346.9 tons
+  Power Draw: 196300.0 watts
+
+RESULTS:
+  Energy Savings: 8.4%
+  kWh Saved: 101919
+  Cost Savings: $11211.11
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0137 ═══
+
+Industry: Retail
+Equipment: Refrigeration Rack
+Manufacturer: Bitzer/Copeland
+Model: 4B3139PH2NU
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 3.2
+  Calculated Capacity: 27.5 tons
+  Power Draw: 94510.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 2.96
+  Calculated Capacity: 29.5 tons
+  Power Draw: 87180.0 watts
+
+RESULTS:
+  Energy Savings: 7.5%
+  kWh Saved: 62021
+  Cost Savings: $6512.18
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0138 ═══
+
+Industry: Retail
+Equipment: Refrigeration Rack
+Manufacturer: Bitzer/Copeland
+Model: 3DA3A075LTFD423
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 2.35
+  Calculated Capacity: 29.8 tons
+  Power Draw: 75200.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 2.23
+  Calculated Capacity: 32.0 tons
+  Power Draw: 71220.0 watts
+
+RESULTS:
+  Energy Savings: 5.1%
+  kWh Saved: 33638
+  Cost Savings: $3532.03
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0139 ═══
+
+Industry: Retail
+Equipment: RTU
+Manufacturer: Trane
+Model: YCD181C4LFBB
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.42
+  Calculated Capacity: 11.4 tons
+  Power Draw: 16150.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.16
+  Calculated Capacity: 14.2 tons
+  Power Draw: 16500.0 watts
+
+RESULTS:
+  Energy Savings: 18.3%
+  kWh Saved: 12922
+  Cost Savings: $1356.81
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0140 ═══
+
+Industry: Retail
+Equipment: RTU
+Manufacturer: Trane
+Model: YCD301C4LFBA
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.44
+  Calculated Capacity: 18.8 tons
+  Power Draw: 27180.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.07
+  Calculated Capacity: 23.6 tons
+  Power Draw: 25200.0 watts
+
+RESULTS:
+  Energy Savings: 25.7%
+  kWh Saved: 30562
+  Cost Savings: $3209.01
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0141 ═══
+
+Industry: Retail
+Equipment: RTU
+Manufacturer: Trane
+Model: YCD301C4LFBA
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.22
+  Calculated Capacity: 20.6 tons
+  Power Draw: 25170.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.99
+  Calculated Capacity: 24.7 tons
+  Power Draw: 24530.0 watts
+
+RESULTS:
+  Energy Savings: 18.9%
+  kWh Saved: 19883
+  Cost Savings: $2087.77
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0142 ═══
+
+Industry: Office
+Equipment: RTU
+Manufacturer: Carrier
+Model: 48HJF004541
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.14
+  Calculated Capacity: 3.16 tons
+  Power Draw: 3600.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.795
+  Calculated Capacity: 4.2 tons
+  Power Draw: 3340.0 watts
+
+RESULTS:
+  Energy Savings: 30.3%
+  kWh Saved: 2898
+  Cost Savings: $521.64
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0143 ═══
+
+Industry: Office
+Equipment: RTU
+Manufacturer: Carrier
+Model: 48HJF009551
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.362
+  Calculated Capacity: 6.5 tons
+  Power Draw: 11450.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.144
+  Calculated Capacity: 9.48 tons
+  Power Draw: 10850.0 watts
+
+RESULTS:
+  Energy Savings: 16.0%
+  kWh Saved: 6200
+  Cost Savings: $1115.99
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0144 ═══
+
+Industry: Education
+Equipment: RTU
+Manufacturer: Trane
+Model: YHC092A4RMIGR
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.81
+  Calculated Capacity: 5.19 tons
+  Power Draw: 9390.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.14
+  Calculated Capacity: 8.15 tons
+  Power Draw: 9290.0 watts
+
+RESULTS:
+  Energy Savings: 37.0%
+  kWh Saved: 16382
+  Cost Savings: $1638.15
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0145 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: UH24OGASM
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.401
+  Calculated Capacity: 15.35 tons
+  Power Draw: 21500.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.911
+  Calculated Capacity: 22.17 tons
+  Power Draw: 20200.0 watts
+
+RESULTS:
+  Energy Savings: 35.0%
+  kWh Saved: 63768
+  Cost Savings: $5739.08
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0146 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: UH24OGASM
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.604
+  Calculated Capacity: 16.61 tons
+  Power Draw: 26650.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.229
+  Calculated Capacity: 19.36 tons
+  Power Draw: 23800.0 watts
+
+RESULTS:
+  Energy Savings: 23.4%
+  kWh Saved: 42616
+  Cost Savings: $3835.46
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0147 ═══
+
+Industry: Manufacture
+Equipment: Package
+Manufacturer: TECO
+Model: LP20M3MAR
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 2.24
+  Calculated Capacity: 8.4 tons
+  Power Draw: 18910.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.77
+  Calculated Capacity: 10.8 tons
+  Power Draw: 19540.0 watts
+
+RESULTS:
+  Energy Savings: 21.0%
+  kWh Saved: 20710
+  Cost Savings: $2174.56
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0148 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: DH199AUAAEI
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.011
+  Calculated Capacity: 16.95 tons
+  Power Draw: 17100.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.765
+  Calculated Capacity: 20.66 tons
+  Power Draw: 15800.0 watts
+
+RESULTS:
+  Energy Savings: 24.3%
+  kWh Saved: 26454
+  Cost Savings: $2380.83
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0149 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: DH199AUAAEI
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.703
+  Calculated Capacity: 21.28 tons
+  Power Draw: 15000.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.516
+  Calculated Capacity: 27.46 tons
+  Power Draw: 14200.0 watts
+
+RESULTS:
+  Energy Savings: 26.6%
+  kWh Saved: 26728
+  Cost Savings: $2405.50
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0150 ═══
+
+Industry: Data Center
+Equipment: Chiller
+Manufacturer: York
+Model: 4KHHHBJI
+Refrigerant: R134a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.587
+  Calculated Capacity: 702.7 tons
+  Power Draw: 412500.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.521
+  Calculated Capacity: 747.4 tons
+  Power Draw: 389600.0 watts
+
+RESULTS:
+  Energy Savings: 11.2%
+  kWh Saved: 197314
+  Cost Savings: $23677.63
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0151 ═══
+
+Industry: Data Center
+Equipment: Chiller
+Manufacturer: Trane
+Model: CVHF770
+Refrigerant: R123
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.509
+  Calculated Capacity: 709.4 tons
+  Power Draw: 361400.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.396
+  Calculated Capacity: 778.1 tons
+  Power Draw: 616200.0 watts
+
+RESULTS:
+  Energy Savings: 22.2%
+  kWh Saved: 175851
+  Cost Savings: $15826.55
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0152 ═══
+
+Industry: Data Center
+Equipment: Chiller
+Manufacturer: Trane
+Model: CVHE500
+Refrigerant: R123
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.65
+  Calculated Capacity: 194.0 tons
+  Power Draw: 125700.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.54
+  Calculated Capacity: 233.0 tons
+  Power Draw: 124800.0 watts
+
+RESULTS:
+  Energy Savings: 16.9%
+  kWh Saved: 112259
+  Cost Savings: $15716.32
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0153 ═══
+
+Industry: Church
+Equipment: Chiller
+Manufacturer: Trane
+Model: RTAA1254
+Refrigerant: R134a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.27
+  Calculated Capacity: 142.8 tons
+  Power Draw: 181100.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.13
+  Calculated Capacity: 151.6 tons
+  Power Draw: 171300.0 watts
+
+RESULTS:
+  Energy Savings: 11.0%
+  kWh Saved: 63672
+  Cost Savings: $5475.79
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0154 ═══
+
+Industry: Church
+Equipment: Chiller
+Manufacturer: Trane
+Model: RTAC1554
+Refrigerant: R134a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.5
+  Calculated Capacity: 120.7 tons
+  Power Draw: 181500.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.25
+  Calculated Capacity: 135.4 tons
+  Power Draw: 169300.0 watts
+
+RESULTS:
+  Energy Savings: 16.7%
+  kWh Saved: 101550
+  Cost Savings: $8733.30
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0155 ═══
+
+Industry: Church
+Equipment: Chiller
+Manufacturer: Trane
+Model: RTAC1554
+Refrigerant: R134a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.08
+  Calculated Capacity: 142.5 tons
+  Power Draw: 154200.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.02
+  Calculated Capacity: 146.1 tons
+  Power Draw: 148300.0 watts
+
+RESULTS:
+  Energy Savings: 5.6%
+  kWh Saved: 26298
+  Cost Savings: $2261.63
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0156 ═══
+
+Industry: Data Center
+Equipment: RTU
+Manufacturer: Lennox
+Model: LCA360
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.98
+  Calculated Capacity: 19.89 tons
+  Power Draw: 19510.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.78
+  Calculated Capacity: 24.27 tons
+  Power Draw: 18930.0 watts
+
+RESULTS:
+  Energy Savings: 20.4%
+  kWh Saved: 29765
+  Cost Savings: $3125.30
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0157 ═══
+
+Industry: Data Center
+Equipment: RTU
+Manufacturer: Lennox
+Model: LGA300
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.18
+  Calculated Capacity: 10.97 tons
+  Power Draw: 12950.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.87
+  Calculated Capacity: 14.04 tons
+  Power Draw: 12210.0 watts
+
+RESULTS:
+  Energy Savings: 26.3%
+  kWh Saved: 26689
+  Cost Savings: $2802.34
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0158 ═══
+
+Industry: Data Center
+Equipment: RTU
+Manufacturer: Lennox
+Model: LGA240
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.26
+  Calculated Capacity: 9.68 tons
+  Power Draw: 12160.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.0
+  Calculated Capacity: 12.05 tons
+  Power Draw: 12030.0 watts
+
+RESULTS:
+  Energy Savings: 20.6%
+  kWh Saved: 19212
+  Cost Savings: $2017.21
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0159 ═══
+
+Industry: Office
+Equipment: Chiller
+Manufacturer: York
+Model: OTG1C20LC
+Refrigerant: R123
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.33
+  Calculated Capacity: 452.0 tons
+  Power Draw: 184800.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.28
+  Calculated Capacity: 560.0 tons
+  Power Draw: 156800.0 watts
+
+RESULTS:
+  Energy Savings: 15.2%
+  kWh Saved: 106400
+  Cost Savings: $6384.00
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0160 ═══
+
+Industry: Office
+Equipment: RTU
+Manufacturer: Trane
+Model: SWVA6004RAV
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.762
+  Calculated Capacity: 62.9 tons
+  Power Draw: 47938.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.681
+  Calculated Capacity: 71.87 tons
+  Power Draw: 48909.0 watts
+
+RESULTS:
+  Energy Savings: 10.6%
+  kWh Saved: 24520
+  Cost Savings: $2697.20
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0161 ═══
+
+Industry: Retail
+Equipment: Chiller
+Manufacturer: Trane
+Model: RTAC250
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.0
+  Calculated Capacity: 189.0 tons
+  Power Draw: 188800.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.885
+  Calculated Capacity: 227.0 tons
+  Power Draw: 200900.0 watts
+
+RESULTS:
+  Energy Savings: 11.5%
+  kWh Saved: 91368
+  Cost Savings: $9593.59
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0162 ═══
+
+Industry: Retail
+Equipment: DX Split
+Manufacturer: Carrier
+Model: 38ARS012
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.56
+  Calculated Capacity: 7.7 tons
+  Power Draw: 12100.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.11
+  Calculated Capacity: 10.6 tons
+  Power Draw: 11700.0 watts
+
+RESULTS:
+  Energy Savings: 28.8%
+  kWh Saved: 20845
+  Cost Savings: $2188.71
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0163 ═══
+
+Industry: Retail
+Equipment: Walkin
+Manufacturer: WIC
+Model: 
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 12.54
+  Calculated Capacity: 0.1875 tons
+  Power Draw: 4210.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 5.8
+  Calculated Capacity: 0.336 tons
+  Power Draw: 1950.0 watts
+
+RESULTS:
+  Energy Savings: 53.7%
+  kWh Saved: 9896
+  Cost Savings: $1039.13
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0164 ═══
+
+Industry: Office
+Equipment: RTU
+Manufacturer: Trane
+Model: WCH150
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.51
+  Calculated Capacity: 6.756 tons
+  Power Draw: 10220.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.06
+  Calculated Capacity: 9.01 tons
+  Power Draw: 9540.0 watts
+
+RESULTS:
+  Energy Savings: 29.8%
+  kWh Saved: 17759
+  Cost Savings: $2363.68
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0165 ═══
+
+Industry: Office
+Equipment: RTU
+Manufacturer: Bard
+Model: AV604400C
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.4
+  Calculated Capacity: 3.96 tons
+  Power Draw: 5560.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.17
+  Calculated Capacity: 5.13 tons
+  Power Draw: 6010.0 watts
+
+RESULTS:
+  Energy Savings: 16.4%
+  kWh Saved: 5168
+  Cost Savings: $687.86
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0166 ═══
+
+Industry: Office
+Equipment: Chiller
+Manufacturer: Trane
+Model: CVHE710
+Refrigerant: R123
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.34
+  Calculated Capacity: 483.6 tons
+  Power Draw: 163300.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.27
+  Calculated Capacity: 659.6 tons
+  Power Draw: 179200.0 watts
+
+RESULTS:
+  Energy Savings: 20.6%
+  kWh Saved: 172868
+  Cost Savings: $23043.30
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0167 ═══
+
+Industry: Food
+Equipment: RTU
+Manufacturer: Carrier
+Model: 48TFE006611
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 2.7
+  Calculated Capacity: 3.23 tons
+  Power Draw: 8720.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.18
+  Calculated Capacity: 4.98 tons
+  Power Draw: 5880.0 watts
+
+RESULTS:
+  Energy Savings: 56.3%
+  kWh Saved: 27629
+  Cost Savings: $2624.76
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0168 ═══
+
+Industry: Food
+Equipment: Refrigeration Rack
+Manufacturer: 
+Model: 
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 18.2
+  Calculated Capacity: 7.48 tons
+  Power Draw: 130889.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 15.0
+  Calculated Capacity: 12.977 tons
+  Power Draw: 130889.0 watts
+
+RESULTS:
+  Energy Savings: 17.6%
+  kWh Saved: 29068
+  Cost Savings: $2761.51
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0169 ═══
+
+Industry: Office
+Equipment: Chiller
+Manufacturer: Trane
+Model: RTAA1004
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.371
+  Calculated Capacity: 85.0 tons
+  Power Draw: 116600.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.204
+  Calculated Capacity: 97.9 tons
+  Power Draw: 117900.0 watts
+
+RESULTS:
+  Energy Savings: 12.2%
+  kWh Saved: 65397
+  Cost Savings: $6539.72
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0170 ═══
+
+Industry: Office
+Equipment: Chiller
+Manufacturer: Trane
+Model: RTAA1004
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.398
+  Calculated Capacity: 84.6 tons
+  Power Draw: 118300.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.173
+  Calculated Capacity: 101.9 tons
+  Power Draw: 119600.0 watts
+
+RESULTS:
+  Energy Savings: 16.1%
+  kWh Saved: 91710
+  Cost Savings: $9171.00
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0171 ═══
+
+Industry: Office
+Equipment: Chiller
+Manufacturer: Carrier
+Model: 19XRV404032
+Refrigerant: R134a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.47
+  Calculated Capacity: 151.0 tons
+  Power Draw: 71000.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.3
+  Calculated Capacity: 218.0 tons
+  Power Draw: 65400.0 watts
+
+RESULTS:
+  Energy Savings: 36.2%
+  kWh Saved: 129710
+  Cost Savings: $14268.10
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0172 ═══
+
+Industry: Office
+Equipment: Chiller
+Manufacturer: Carrier
+Model: AquaSnap
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.47
+  Calculated Capacity: 104.0 tons
+  Power Draw: 153000.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.11
+  Calculated Capacity: 112.0 tons
+  Power Draw: 124000.0 watts
+
+RESULTS:
+  Energy Savings: 24.5%
+  kWh Saved: 130435
+  Cost Savings: $10695.69
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0173 ═══
+
+Industry: Hotel
+Equipment: Water Source HP
+Manufacturer: Trane
+Model: GEHB0181N02
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.32
+  Calculated Capacity: 1.03 tons
+  Power Draw: 1.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.96
+  Calculated Capacity: 1.43 tons
+  Power Draw: 1.0 watts
+
+RESULTS:
+  Energy Savings: 27.3%
+  kWh Saved: 1802
+  Cost Savings: $576.58
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0174 ═══
+
+Industry: Hotel
+Equipment: Water Source HP
+Manufacturer: Trane
+Model: GEHB0091N02
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.05
+  Calculated Capacity: 0.59 tons
+  Power Draw: 1.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.79
+  Calculated Capacity: 0.72 tons
+  Power Draw: 1.0 watts
+
+RESULTS:
+  Energy Savings: 24.8%
+  kWh Saved: 655
+  Cost Savings: $209.66
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0175 ═══
+
+Industry: Hotel
+Equipment: Water Source HP
+Manufacturer: Trane
+Model: GEHB0091N02
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.13
+  Calculated Capacity: 0.55 tons
+  Power Draw: 1.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.85
+  Calculated Capacity: 0.7 tons
+  Power Draw: 1.0 watts
+
+RESULTS:
+  Energy Savings: 24.8%
+  kWh Saved: 686
+  Cost Savings: $219.52
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0176 ═══
+
+Industry: Hotel
+Equipment: Water Source HP
+Manufacturer: Trane
+Model: GEHB0181N02
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.44
+  Calculated Capacity: 0.97 tons
+  Power Draw: 1.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.91
+  Calculated Capacity: 1.41 tons
+  Power Draw: 1.0 watts
+
+RESULTS:
+  Energy Savings: 36.8%
+  kWh Saved: 2616
+  Cost Savings: $836.98
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0177 ═══
+
+Industry: Hotel
+Equipment: Water Source HP
+Manufacturer: Climate Master
+Model: TCH012ABX
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.89
+  Calculated Capacity: 0.99 tons
+  Power Draw: 1.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.73
+  Calculated Capacity: 1.13 tons
+  Power Draw: 1.0 watts
+
+RESULTS:
+  Energy Savings: 18.0%
+  kWh Saved: 633
+  Cost Savings: $202.50
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0178 ═══
+
+Industry: Hotel
+Equipment: Water Source HP
+Manufacturer: Climate Master
+Model: TCH024AGX
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.02
+  Calculated Capacity: 1.61 tons
+  Power Draw: 1.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.79
+  Calculated Capacity: 1.95 tons
+  Power Draw: 1.0 watts
+
+RESULTS:
+  Energy Savings: 22.5%
+  kWh Saved: 1570
+  Cost Savings: $502.32
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0179 ═══
+
+Industry: Hotel
+Equipment: DX Split
+Manufacturer: Mitsubishi
+Model: MUYGE18NA
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.8
+  Calculated Capacity: 1.48 tons
+  Power Draw: 1.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.39
+  Calculated Capacity: 1.7 tons
+  Power Draw: 1.0 watts
+
+RESULTS:
+  Energy Savings: 22.8%
+  kWh Saved: 2440
+  Cost Savings: $780.64
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0180 ═══
+
+Industry: Sports
+Equipment: Chiller
+Manufacturer: Carrier
+Model: 5H120A219
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.797
+  Calculated Capacity: 76.7 tons
+  Power Draw: 71100.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.67
+  Calculated Capacity: 89.2 tons
+  Power Draw: 59800.0 watts
+
+RESULTS:
+  Energy Savings: 15.9%
+  kWh Saved: 54376
+  Cost Savings: $8700.21
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0181 ═══
+
+Industry: Office
+Equipment: RTU
+Manufacturer: York
+Model: DM120N20N
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.07
+  Calculated Capacity: 11.14 tons
+  Power Draw: 11940.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.86
+  Calculated Capacity: 14.6 tons
+  Power Draw: 12530.0 watts
+
+RESULTS:
+  Energy Savings: 19.6%
+  kWh Saved: 10056
+  Cost Savings: $1055.93
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0182 ═══
+
+Industry: Office
+Equipment: RTU
+Manufacturer: Majic Air
+Model: 38CKC036340
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.17
+  Calculated Capacity: 2.59 tons
+  Power Draw: 3030.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.76
+  Calculated Capacity: 3.31 tons
+  Power Draw: 2520.0 watts
+
+RESULTS:
+  Energy Savings: 35.0%
+  kWh Saved: 4451
+  Cost Savings: $467.39
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0183 ═══
+
+Industry: Sports
+Equipment: DX Split
+Manufacturer: American Standard
+Model: TWE090/TTA090
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.036
+  EER: 11.6
+  Calculated Capacity: 8.54 tons
+  Power Draw: 8853.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.969
+  EER: 12.4
+  Calculated Capacity: 9.21 tons
+  Power Draw: 8924.0 watts
+
+RESULTS:
+  Energy Savings: 6.5%
+  kWh Saved: 2160
+  Cost Savings: $345.56
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0184 ═══
+
+Industry: Retail
+Equipment: RTU
+Manufacturer: Lennox
+Model: LGC180H2BS2G
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.458
+  Calculated Capacity: 12.35 tons
+  Power Draw: 18000.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.099
+  Calculated Capacity: 15.66 tons
+  Power Draw: 17210.0 watts
+
+RESULTS:
+  Energy Savings: 24.6%
+  kWh Saved: 24157
+  Cost Savings: $2174.17
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0185 ═══
+
+Industry: Retail
+Equipment: RTU
+Manufacturer: Lennox
+Model: LGC156H2BS2G
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.435
+  Calculated Capacity: 10.98 tons
+  Power Draw: 15800.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.032
+  Calculated Capacity: 13.72 tons
+  Power Draw: 14200.0 watts
+
+RESULTS:
+  Energy Savings: 28.1%
+  kWh Saved: 23759
+  Cost Savings: $2138.29
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0186 ═══
+
+Industry: Retail
+Equipment: RTU
+Manufacturer: Lennox
+Model: LGC060H2H2G
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.45
+  Calculated Capacity: 4.6 tons
+  Power Draw: 6700.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.232
+  Calculated Capacity: 5.09 tons
+  Power Draw: 6300.0 watts
+
+RESULTS:
+  Energy Savings: 15.0%
+  kWh Saved: 4768
+  Cost Savings: $429.12
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0187 ═══
+
+Industry: Office
+Equipment: Package
+Manufacturer: Trane
+Model: SCWD03560G0
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 2.02
+  Calculated Capacity: 14.3 tons
+  Power Draw: 28810.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.31
+  Calculated Capacity: 22.2 tons
+  Power Draw: 29860.0 watts
+
+RESULTS:
+  Energy Savings: 35.1%
+  kWh Saved: 25219
+  Cost Savings: $7817.95
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0188 ═══
+
+Industry: Gaming
+Equipment: Chiller
+Manufacturer: York
+Model: YKR4R4H2DCC
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.658
+  Calculated Capacity: 1097.8 tons
+  Power Draw: 722200.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.517
+  Calculated Capacity: 1390.5 tons
+  Power Draw: 718700.0 watts
+
+RESULTS:
+  Energy Savings: 21.4%
+  kWh Saved: 573869
+  Cost Savings: $45909.53
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0189 ═══
+
+Industry: Manufacturing
+Equipment: Chiller
+Manufacturer: Trane
+Model: CDHF2500KBoED
+Refrigerant: R123
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.976
+  Calculated Capacity: 1098.0 tons
+  Power Draw: 1438000.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.668
+  Calculated Capacity: 1473.0 tons
+  Power Draw: 984000.0 watts
+
+RESULTS:
+  Energy Savings: 31.6%
+  kWh Saved: 2722104
+  Cost Savings: $626083.92
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0190 ═══
+
+Industry: Office
+Equipment: DX Split
+Manufacturer: American Standard
+Model: 2A6B0060/YWE060
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.75
+  Calculated Capacity: 3.45 tons
+  Power Draw: 6060.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.44
+  Calculated Capacity: 4.0 tons
+  Power Draw: 5740.0 watts
+
+RESULTS:
+  Energy Savings: 17.7%
+  kWh Saved: 3720
+  Cost Savings: $447.89
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0191 ═══
+
+Industry: Office
+Equipment: DX Split
+Manufacturer: Carrier
+Model: 38CKC018320/FB4ANF018
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.46
+  Calculated Capacity: 1.19 tons
+  Power Draw: 1740.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.67
+  Calculated Capacity: 2.09 tons
+  Power Draw: 1390.0 watts
+
+RESULTS:
+  Energy Savings: 54.1%
+  kWh Saved: 4953
+  Cost Savings: $596.38
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0192 ═══
+
+Industry: Data Center
+Equipment: Chiller
+Manufacturer: Trane
+Model: CVHF570
+Refrigerant: R123
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.49
+  Calculated Capacity: 408.0 tons
+  Power Draw: 944385.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.44
+  Calculated Capacity: 443.0 tons
+  Power Draw: 847815.0 watts
+
+RESULTS:
+  Energy Savings: 10.2%
+  kWh Saved: 96352
+  Cost Savings: $10598.77
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0193 ═══
+
+Industry: Data Center
+Equipment: Chiller
+Manufacturer: Trane
+Model: CVHF2500
+Refrigerant: R123
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.45
+  Calculated Capacity: 3125.0 tons
+  Power Draw: 3821750.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.41
+  Calculated Capacity: 3397.0 tons
+  Power Draw: 3482000.0 watts
+
+RESULTS:
+  Energy Savings: 8.9%
+  kWh Saved: 339700
+  Cost Savings: $20382.00
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0194 ═══
+
+Industry: Offices
+Equipment: RTU
+Manufacturer: McQuay
+Model: RDT125CLY
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 2.33
+  Calculated Capacity: 41.7 tons
+  Power Draw: 97000.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.33
+  Calculated Capacity: 78.3 tons
+  Power Draw: 104000.0 watts
+
+RESULTS:
+  Energy Savings: 42.9%
+  kWh Saved: 341780
+  Cost Savings: $23924.57
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0195 ═══
+
+Industry: Offices
+Equipment: RTU
+Manufacturer: Arcoaire
+Model: N2A348AKA200
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.759
+  Calculated Capacity: 4.6 tons
+  Power Draw: 3490.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.545
+  Calculated Capacity: 5.76 tons
+  Power Draw: 3130.0 watts
+
+RESULTS:
+  Energy Savings: 28.2%
+  kWh Saved: 5399
+  Cost Savings: $715.36
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0196 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Water Furnace
+Model: NSV070TL42C
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.107
+  Calculated Capacity: 5.39 tons
+  Power Draw: 5960.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.928
+  Calculated Capacity: 6.36 tons
+  Power Draw: 5900.0 watts
+
+RESULTS:
+  Energy Savings: 16.2%
+  kWh Saved: 5123
+  Cost Savings: $461.07
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0197 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Water Furnace
+Model: NSV070TL42C
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.407
+  Calculated Capacity: 4.13 tons
+  Power Draw: 5810.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.98
+  Calculated Capacity: 5.78 tons
+  Power Draw: 5700.0 watts
+
+RESULTS:
+  Energy Savings: 30.3%
+  kWh Saved: 11106
+  Cost Savings: $999.56
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0198 ═══
+
+Industry: Apartment
+Equipment: RTU
+Manufacturer: York
+Model: D2SK120A46
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.43
+  Calculated Capacity: 9.27 tons
+  Power Draw: 13280.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.05
+  Calculated Capacity: 11.88 tons
+  Power Draw: 12440.0 watts
+
+RESULTS:
+  Energy Savings: 26.6%
+  kWh Saved: 11286
+  Cost Savings: $1918.62
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0199 ═══
+
+Industry: Office
+Equipment: RTU
+Manufacturer: Mammoth
+Model: HEBRFC301G32058M24
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.675
+  Calculated Capacity: 24.17 tons
+  Power Draw: 40490.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.316
+  Calculated Capacity: 29.96 tons
+  Power Draw: 39420.0 watts
+
+RESULTS:
+  Energy Savings: 21.4%
+  kWh Saved: 31729
+  Cost Savings: $3331.56
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0200 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: American Standard
+Model: TSC090A360
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.208
+  Calculated Capacity: 7.63 tons
+  Power Draw: 9216.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.803
+  Calculated Capacity: 10.11 tons
+  Power Draw: 8119.0 watts
+
+RESULTS:
+  Energy Savings: 33.5%
+  kWh Saved: 20923
+  Cost Savings: $2720.01
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0201 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: Nordyne
+Model: P3RA060K
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 2.425
+  Calculated Capacity: 2.6 tons
+  Power Draw: 6305.4 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.903
+  Calculated Capacity: 5.85 tons
+  Power Draw: 5288.4 watts
+
+RESULTS:
+  Energy Savings: 62.8%
+  kWh Saved: 45498
+  Cost Savings: $5914.73
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0202 ═══
+
+Industry: QSR
+Equipment: RTU
+Manufacturer: Goodman
+Model: GPC1348H41BA
+Refrigerant: R410a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.174
+  Calculated Capacity: 2.72 tons
+  Power Draw: 3193.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.657
+  Calculated Capacity: 5.52 tons
+  Power Draw: 3628.0 watts
+
+RESULTS:
+  Energy Savings: 44.0%
+  kWh Saved: 14583
+  Cost Savings: $1895.81
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0203 ═══
+
+Industry: Manufacturing
+Equipment: DX Split
+Manufacturer: Trane
+Model: RAUUC504CK
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.964
+  Calculated Capacity: 61.62 tons
+  Power Draw: 59410.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.876
+  Calculated Capacity: 67.78 tons
+  Power Draw: 59360.0 watts
+
+RESULTS:
+  Energy Savings: 9.1%
+  kWh Saved: 26841
+  Cost Savings: $3435.63
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0204 ═══
+
+Industry: Office
+Equipment: RTU
+Manufacturer: Carrier
+Model: 48TME012PA
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.441
+  Calculated Capacity: 8.23 tons
+  Power Draw: 11870.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.183
+  Calculated Capacity: 9.69 tons
+  Power Draw: 11460.0 watts
+
+RESULTS:
+  Energy Savings: 17.9%
+  kWh Saved: 10088
+  Cost Savings: $907.88
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0205 ═══
+
+Industry: Office
+Equipment: RTU
+Manufacturer: Carrier
+Model: 48TME012PA
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.45
+  Calculated Capacity: 8.68 tons
+  Power Draw: 12580.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.207
+  Calculated Capacity: 10.38 tons
+  Power Draw: 12520.0 watts
+
+RESULTS:
+  Energy Savings: 16.8%
+  kWh Saved: 10178
+  Cost Savings: $915.99
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0206 ═══
+
+Industry: Office
+Equipment: RTU
+Manufacturer: Carrier
+Model: 48TME012PA
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.697
+  Calculated Capacity: 7.37 tons
+  Power Draw: 12510.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.217
+  Calculated Capacity: 9.89 tons
+  Power Draw: 12040.0 watts
+
+RESULTS:
+  Energy Savings: 28.3%
+  kWh Saved: 19155
+  Cost Savings: $1723.95
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0207 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: VH380AUAAE1
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.64
+  Calculated Capacity: 21.58 tons
+  Power Draw: 35450.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.15
+  Calculated Capacity: 26.99 tons
+  Power Draw: 31140.0 watts
+
+RESULTS:
+  Energy Savings: 29.9%
+  kWh Saved: 97866
+  Cost Savings: $8807.92
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0208 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: VH380AUAAE1
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.49
+  Calculated Capacity: 24.37 tons
+  Power Draw: 36230.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.1
+  Calculated Capacity: 29.54 tons
+  Power Draw: 32510.0 watts
+
+RESULTS:
+  Energy Savings: 26.2%
+  kWh Saved: 85252
+  Cost Savings: $7672.72
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0209 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: VH380AUAAE1
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.7
+  Calculated Capacity: 21.87 tons
+  Power Draw: 37210.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.17
+  Calculated Capacity: 27.06 tons
+  Power Draw: 31730.0 watts
+
+RESULTS:
+  Energy Savings: 31.2%
+  kWh Saved: 106129
+  Cost Savings: $9551.64
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0210 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: VH380AUAAE1
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.48
+  Calculated Capacity: 23.78 tons
+  Power Draw: 35110.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.1
+  Calculated Capacity: 27.62 tons
+  Power Draw: 30560.0 watts
+
+RESULTS:
+  Energy Savings: 25.7%
+  kWh Saved: 77667
+  Cost Savings: $6990.07
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0211 ═══
+
+Industry: Data Center
+Equipment: CRAC
+Manufacturer: Liebert
+Model: DH380AUAAET
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.66
+  Calculated Capacity: 23.7 tons
+  Power Draw: 39320.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.25
+  Calculated Capacity: 32.0 tons
+  Power Draw: 39980.0 watts
+
+RESULTS:
+  Energy Savings: 24.7%
+  kWh Saved: 59040
+  Cost Savings: $7084.80
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0249 ═══
+
+Industry: Distribution
+Equipment: RTU
+Manufacturer: Trane
+Model: YCD300B4L
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.8
+  Calculated Capacity: 32.43 tons
+  Power Draw: 25970.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.71
+  Calculated Capacity: 36.06 tons
+  Power Draw: 25600.0 watts
+
+RESULTS:
+  Energy Savings: 11.3%
+  kWh Saved: 11236
+  Cost Savings: $1123.56
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0250 ═══
+
+Industry: Distribution
+Equipment: RTU
+Manufacturer: Trane
+Model: YCD300B4L
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.64
+  Calculated Capacity: 15.43 tons
+  Power Draw: 25380.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.09
+  Calculated Capacity: 22.35 tons
+  Power Draw: 24340.0 watts
+
+RESULTS:
+  Energy Savings: 33.5%
+  kWh Saved: 42557
+  Cost Savings: $4255.66
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0251 ═══
+
+Industry: Distribution
+Equipment: RTU
+Manufacturer: Trane
+Model: YCD300B4L
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.39
+  Calculated Capacity: 19.43 tons
+  Power Draw: 27100.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.99
+  Calculated Capacity: 25.6 tons
+  Power Draw: 25350.0 watts
+
+RESULTS:
+  Energy Savings: 28.8%
+  kWh Saved: 35451
+  Cost Savings: $3545.09
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0252 ═══
+
+Industry: Distribution
+Equipment: RTU
+Manufacturer: Trane
+Model: YCD300B4L
+Refrigerant: R22
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 1.14
+  Calculated Capacity: 22.72 tons
+  Power Draw: 29740.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.94
+  Calculated Capacity: 26.09 tons
+  Power Draw: 24580.0 watts
+
+RESULTS:
+  Energy Savings: 17.5%
+  kWh Saved: 18065
+  Cost Savings: $1806.47
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0253 ═══
+
+Industry: Distribution
+Equipment: Chiller
+Manufacturer: Trane
+Model: RTAC1404
+Refrigerant: R134a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 2.63
+  Calculated Capacity: 18.3 tons
+  Power Draw: 48300.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 1.57
+  Calculated Capacity: 30.4 tons
+  Power Draw: 79700.0 watts
+
+RESULTS:
+  Energy Savings: 40.3%
+  kWh Saved: 111559
+  Cost Savings: $11155.95
+
+Test Method: IPMVP
+
+----------------------------------------
+
+═══ RECORD PMF-0254 ═══
+
+Industry: Navy Ship
+Equipment: Chiller
+Manufacturer: York
+Model: YKM2M2G4CBS
+Refrigerant: R134a
+Rated Capacity: None tons
+
+BASELINE TEST:
+  kW/ton: 0.85
+  Calculated Capacity: 275.0 tons
+  Power Draw: 234000.0 watts
+
+POST-TREATMENT TEST:
+  kW/ton: 0.77
+  Calculated Capacity: 286.0 tons
+  Power Draw: 220000.0 watts
+
+RESULTS:
+  Energy Savings: 9.4%
+  kWh Saved: 80080
+  Cost Savings: $22422.40
+
+Test Method: IPMVP
+
+----------------------------------------
+
+================================================================================
+END OF MEASUREMENT DATABASE
+================================================================================

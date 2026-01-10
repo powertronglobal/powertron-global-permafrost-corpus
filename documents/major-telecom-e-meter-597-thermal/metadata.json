@@ -1,0 +1,44 @@
+{
+  "doc_id": "major-telecom-e-meter-597-thermal",
+  "slug": "major-telecom-e-meter-597-thermal",
+  "title": "Major Telecom E THERMAL Field Study",
+  "source_type": "tabular",
+  "source_folder": "Major Telecom E Central Office 597 Thermal Study",
+  "source_files": [
+    {
+      "filename": "baseline_597_cleaned.csv",
+      "type": "csv",
+      "rows": 99364,
+      "period": "baseline",
+      "size_bytes": 38178952
+    },
+    {
+      "filename": "gpm_bin_comparison_597.csv",
+      "type": "csv",
+      "rows": 2,
+      "period": "unknown",
+      "size_bytes": 504
+    },
+    {
+      "filename": "post_597_cleaned.csv",
+      "type": "csv",
+      "rows": 15228,
+      "period": "post",
+      "size_bytes": 5600431
+    }
+  ],
+  "data_resolution": {
+    "type": "time_series",
+    "total_rows": 114594
+  },
+  "company": {
+    "name": "Major Telecom E",
+    "industry": "Telecommunications"
+  },
+  "created_at": "2026-01-05T21:26:38.439060",
+  "processing_version": "1.0.0",
+  "ashrae_compliance": {
+    "standard": "ASHRAE Guideline 14-2014",
+    "note": "High-resolution time-series data supports detailed analysis"
+  }
+}

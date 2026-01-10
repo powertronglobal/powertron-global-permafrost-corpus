@@ -1,0 +1,687 @@
+{
+  "doc_id": "major-telecom-e-houston-1yr-review",
+  "slug": "major-telecom-e-houston-1yr-review",
+  "source_type": "tabular",
+  "extracted_at": "2026-01-05T21:29:55.554240",
+  "summary": {
+    "total_files": 48,
+    "baseline_files": 15,
+    "post_files": 31,
+    "total_rows": 1316834,
+    "baseline_rows": 443603,
+    "post_rows": 872417
+  },
+  "file_statistics": [
+    {
+      "period": "post",
+      "rows": 28736,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 511 Post 2024.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28471,
+      "columns": 3,
+      "column_names": [
+        "\u2022\u00c8\u00c0\"DateTime\"",
+        "Meter 1 kWh",
+        "Outdoor Air Temperature (F)"
+      ],
+      "metrics": {
+        "Meter 1 kWh": {
+          "mean": 5052.939595380296,
+          "std": 100.5531457730537,
+          "min": 322.4,
+          "max": 5190.2,
+          "median": 5057.4
+        },
+        "Outdoor Air Temperature (F)": {
+          "mean": 82.26387727649443,
+          "std": 9.156969293035885,
+          "min": 57.74,
+          "max": 249.4778947,
+          "median": 80.24
+        }
+      },
+      "time_range": {
+        "column": "\u2022\u00c8\u00c0\"DateTime\"",
+        "start": "2023-09-19 05:01:00",
+        "end": "2023-10-08 23:59:00",
+        "duration_hours": 474.96666666666664
+      },
+      "source_file": "Major Telecom A CTH 511 Post v2 2023.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28735,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 512 Post 2024.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28472,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 512 Post v2 2023.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 27302,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 513 Post 2024.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28222,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 513 Post v2 2023.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28736,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 514 Post 2024.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28156,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 514 Post v2 2023.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28744,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 515 Post 2024.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28666,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 515 Post v2 2023.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28741,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 516 Post 2024.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28234,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 516 Post v2 2023.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28732,
+      "columns": 6,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4",
+        "Unnamed: 5"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 517 Post 2024.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 26998,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 517 Post v2 2023.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28732,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 518 Post 2024.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 27852,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 518 Post v2 2023.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28716,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 519 Post 2024.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28721,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 520 Post 2024.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 27745,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 520 Post v2 2023.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28750,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 521 Post 2024.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28463,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 521 Post v2 2023.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28750,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 522 Post 2024.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28392,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 522 Post v2 2023.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28710,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 523 Post 2024.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 21310,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 523 Post v2 2023.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28705,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 524 Post 2024.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 26474,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 524 Post v2 2023.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28709,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 525 Post 2024.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28339,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 525 Post v2 2023.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28709,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 526 Post 2024.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 28395,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH 526 Post v2 2023.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 26974,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "511 Baseline 2.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 31260,
+      "columns": 6,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4",
+        "Unnamed: 5"
+      ],
+      "metrics": {},
+      "source_file": "512 baseline 2.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 27522,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "513 baseline 2 .xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 27402,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "514 baseline 2.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28547,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "515 baseline 2.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28382,
+      "columns": 6,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4",
+        "Unnamed: 5"
+      ],
+      "metrics": {},
+      "source_file": "516 baseline 2.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 29991,
+      "columns": 6,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4",
+        "Unnamed: 5"
+      ],
+      "metrics": {},
+      "source_file": "517 baseline 2.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28578,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "518 baseline 2.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 41234,
+      "columns": 21,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "CALCULATED kWh - based off of voltage, amps & PF",
+        "Unnamed: 5",
+        "Unnamed: 6",
+        "Unnamed: 7",
+        "Unnamed: 8",
+        "Unnamed: 9",
+        "Unnamed: 10",
+        "Unnamed: 11",
+        "Unnamed: 12",
+        "Unnamed: 13",
+        "Unnamed: 14",
+        "Unnamed: 15",
+        "Unnamed: 16",
+        "Unnamed: 17",
+        "Unnamed: 18",
+        "Unnamed: 19",
+        "Unnamed: 20"
+      ],
+      "metrics": {},
+      "source_file": "520 Baseline 2 - no kWh data.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 31408,
+      "columns": 8,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4",
+        "Unnamed: 5",
+        "Unnamed: 6",
+        "Unnamed: 7"
+      ],
+      "metrics": {},
+      "source_file": "521 Baseline 2.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28530,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "522 Baseline 2.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28475,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "523 Baseline 2.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28363,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "524 Baseline 2.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28432,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "525 Baseline 2.xlsx"
+    },
+    {
+      "period": "baseline",
+      "rows": 28505,
+      "columns": 3,
+      "column_names": [
+        "Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "metrics": {},
+      "source_file": "526 Baseline 2.xlsx"
+    },
+    {
+      "period": "unknown",
+      "rows": 407,
+      "columns": 20,
+      "column_names": [
+        "2023 Data Analysis (last year's)",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4",
+        "Unnamed: 5",
+        "Unnamed: 6",
+        "Unnamed: 7",
+        "Unnamed: 8",
+        "2024 Data Analysis",
+        "Unnamed: 10",
+        "Unnamed: 11",
+        "Unnamed: 12",
+        "Unnamed: 13",
+        "Unnamed: 14",
+        "Unnamed: 15",
+        "Unnamed: 16",
+        "Unnamed: 17",
+        "Unnamed: 18",
+        "Unnamed: 19"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH Data Tables CDD Runtimes.xlsx"
+    },
+    {
+      "period": "unknown",
+      "rows": 407,
+      "columns": 25,
+      "column_names": [
+        "2023 Data Analysis (last year's)",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4",
+        "Unnamed: 5",
+        "Unnamed: 6",
+        "Unnamed: 7",
+        "Unnamed: 8",
+        "2023 Baseline II ",
+        "Unnamed: 10",
+        "Unnamed: 11",
+        "Unnamed: 12",
+        "2024 Post I vs Post II Data Analysis",
+        "Unnamed: 14",
+        "Unnamed: 15",
+        "Unnamed: 16",
+        "Unnamed: 17",
+        "Unnamed: 18",
+        "Unnamed: 19",
+        "Unnamed: 20",
+        "Unnamed: 21",
+        "Unnamed: 22",
+        "Unnamed: 23",
+        "Unnamed: 24"
+      ],
+      "metrics": {},
+      "source_file": "Major Telecom A CTH Data Tables CDD Runtimes_REVISED.xlsx"
+    }
+  ]
+}

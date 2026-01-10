@@ -1,0 +1,59 @@
+94        Appendix B Uncertainty 
+ 
+B-2.1.3   Inclusion of Irrelevant Variables  
+Sometimes models include irrelevant independent variable(s). If the irrelevant variable has no 
+relationship (correlation) with the included relevant variables, then it will have minimal impact on 
+the model. However, if the irrelevant variable is correlated with other relevant variables in the 
+model, it may bias the coefficients of the relevant variables.  
+Use caution in adding more independent variables into a regression analysis just because they 
+are available. To judge the relevance of independent variables requires both experience and 
+intuition. However, the associated t-statistic (see B-2.2.3 below) is one way of confirming the 
+relevance of particular independent variables included in a model. Experience in energy 
+analysis for the type of facility involved in any M&V program is is necessary to determine the 
+relevance of independent variables. 
+B-2.1.4   Functional Form 
+It is possible to model a relationship using the incorrect functional form. For example, a linear 
+relationship might be incorrectly used in modeling an underlying physical relationship that is 
+non-linear. For example, electricity consumption and ambient temperature tend to have a non-
+linear (often ‘U’ shaped) relationship with outdoor temperature over a one-year period in 
+buildings that are both heated and cooled electrically. (Electricity use is high for both low and 
+high ambient temperatures, while relatively low in mid seasons.) Modeling this non-linear 
+relationship with a single linear model would introduce unnecessary error. Instead, separate 
+linear models should be derived for each season.  
+It may also be appropriate to try higher order relationships, e.g., Y = f(X, X2, X3).   
+The modeler needs to assess different functional forms and select the most appropriate among 
+them using the evaluation measures presented in Appendix B-2.2, below. 
+B-2.1.5   Data Shortage 
+Errors may also occur from insufficient data either in terms of quantity (i.e., too few data points) 
+or time (e.g., using summer months in the model and trying to extrapolate to winter months). 
+The data used in modeling should be representative of the range of operations of the facility. 
+The time period covered by the model needs to include various possible seasons, types of use, 
+etc. This may call for either extension of the time periods used or increasing sample sizes.  
+B-2.2   Evaluating Regression Models 
+In order to evaluate how well a particular regression model explains the relationship between 
+energy use and independent variable(s), three tests may be performed as described below.  
+Appendix B-6 provides evaluation of an example regression model. 
+B-2.2.1   Coefficient of Determination (R2) 
+The first step in assessing the accuracy of a model is to examine the Coefficient of 
+Determination, R2, a measure of the extent to which variations in the dependent variable Y from 
+its mean value are explained by the regression model. Mathematically, R2 is: 
+ 
+ 
+ 
+ 
+Y
+in
+Variation
+Total
+Y
+in
+Variation
+Explained
+R 
+2
+ 
+ 
+or more explicitly: 
+ 
+ 
+ 

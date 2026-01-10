@@ -1,0 +1,100 @@
+HVAC Performance Comparison: kW/Ton
+Kit 4 Caribbean Telecom Provider Downtown POST
+kW/Ton Comparison 
+OSA Temp.
+Base kW/Ton
+Post kW/Ton
+70 degF
+1.31 kW/Ton
+0.0 kw/Ton
+71 degF
+1.26 kW/Ton
+0.0 kw/Ton
+72 degF
+1.21 kW/Ton
+0.0 kw/Ton
+73 degF
+1.33 kW/Ton
+0.0 kw/Ton
+74 degF
+1.14 kW/Ton
+0.0 kw/Ton
+75 degF
+1.17 kW/Ton
+0.0 kw/Ton
+76 degF
+1.19 kW/Ton
+0.0 kw/Ton
+77 degF
+1.24 kW/Ton
+0.93 kw/Ton
+78 degF
+1.27 kW/Ton
+0.94 kw/Ton
+79 degF
+1.23 kW/Ton
+0.96 kw/Ton
+80 degF
+1.28 kW/Ton
+0.96 kw/Ton
+81 degF
+1.23 kW/Ton
+0.94 kw/Ton
+82 degF
+1.29 kW/Ton
+0.98 kw/Ton
+83 degF
+1.25 kW/Ton
+0.98 kw/Ton
+84 degF
+1.37 kW/Ton
+1.0 kw/Ton
+85 degF
+1.29 kW/Ton
+0.99 kw/Ton
+86 degF
+1.35 kW/Ton
+0.99 kw/Ton
+87 degF
+1.26 kW/Ton
+1.0 kw/Ton
+88 degF
+1.25 kW/Ton
+1.01 kw/Ton
+89 degF
+1.29 kW/Ton
+1.04 kw/Ton
+90 degF
+1.25 kW/Ton
+1.04 kw/Ton
+91 degF
+1.25 kW/Ton
+1.07 kw/Ton
+92 degF
+1.28 kW/Ton
+1.07 kw/Ton
+93 degF
+1.28 kW/Ton
+1.06 kw/Ton
+94 degF
+1.29 kW/Ton
+1.08 kw/Ton
+95 degF
+1.34 kW/Ton
+1.07 kw/Ton
+-----
+1.27 kW/Ton
+1.01 kW/Ton
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+70 degF - 95 degF
+75.0 degF - 80.0 degF
+0.5 - 1.0
+15s
+22386 samples
+9245 samples

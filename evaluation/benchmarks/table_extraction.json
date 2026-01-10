@@ -1,0 +1,233 @@
+{
+  "title": "Table Extraction Benchmark",
+  "version": "1.0.0",
+  "created": "2025-12-31",
+  "description": "15 test cases verifying structured data extraction from case study tables",
+  "scoring": {
+    "method": "Field-by-field comparison with tolerance",
+    "numeric_tolerance": 0.01,
+    "tolerance_note": "Values within 1% of expected are considered correct",
+    "score_calculation": "correct_fields / total_fields * 100"
+  },
+  "test_cases": [
+    {
+      "id": "TABLE_001",
+      "study_id": "CS_001",
+      "source_description": "ISP A - CRAC unit case study",
+      "equipment_type": "CRAC",
+      "expected_values": {
+        "kw_per_ton_before": 1.5,
+        "kw_per_ton_after": 1.06,
+        "efficiency_improvement_pct": 29.2,
+        "annual_savings_usd": 16455
+      },
+      "corpus_location": "corpus/comprehensive_measurements.json",
+      "notes": "Telecommunications data center"
+    },
+    {
+      "id": "TABLE_002",
+      "study_id": "CS_002",
+      "source_description": "Hotel Chain A [Louisiana Location] - Chiller",
+      "equipment_type": "Chiller",
+      "expected_values": {
+        "kw_per_ton_before": 1.47,
+        "kw_per_ton_after": 1.11,
+        "efficiency_improvement_pct": 7.7,
+        "annual_savings_usd": 10877
+      },
+      "corpus_location": "corpus/comprehensive_measurements.json",
+      "notes": "Lower-performing case (relatively new equipment)"
+    },
+    {
+      "id": "TABLE_003",
+      "study_id": "CS_003",
+      "source_description": "Naval Vessel A - Chiller (Marine)",
+      "equipment_type": "Chiller",
+      "expected_values": {
+        "kw_per_ton_before": 0.309,
+        "kw_per_ton_after": 0.269,
+        "efficiency_improvement_pct": 3.8,
+        "annual_savings_usd": 3500
+      },
+      "corpus_location": "corpus/comprehensive_measurements.json",
+      "notes": "Lowest improvement in corpus - 20-year-old marine equipment"
+    },
+    {
+      "id": "TABLE_004",
+      "study_id": "CS_004",
+      "source_description": "Southern City Facility A - Chiller",
+      "equipment_type": "Chiller",
+      "expected_values": {
+        "kw_per_ton_before": 1.76,
+        "kw_per_ton_after": 1.47,
+        "efficiency_improvement_pct": 16.5,
+        "annual_savings_usd": 50934
+      },
+      "corpus_location": "corpus/comprehensive_measurements.json",
+      "notes": "Large savings due to chiller size"
+    },
+    {
+      "id": "TABLE_005",
+      "study_id": "CS_005",
+      "source_description": "Defense Contractor A - CRAC",
+      "equipment_type": "CRAC",
+      "expected_values": {
+        "kw_per_ton_before": 1.257,
+        "kw_per_ton_after": 1.0,
+        "efficiency_improvement_pct": 29.5,
+        "annual_savings_usd": 3090
+      },
+      "corpus_location": "corpus/comprehensive_measurements.json",
+      "notes": "Defense contractor data center"
+    },
+    {
+      "id": "TABLE_006",
+      "study_id": "CS_006",
+      "source_description": "Convenience Chain D - RTU",
+      "equipment_type": "RTU",
+      "expected_values": {
+        "kw_per_ton_before": 0.92,
+        "kw_per_ton_after": 0.8,
+        "efficiency_improvement_pct": 16.1,
+        "annual_savings_usd": null
+      },
+      "corpus_location": "corpus/comprehensive_measurements.json",
+      "notes": "Financial data not available for this study"
+    },
+    {
+      "id": "TABLE_007",
+      "study_id": "CS_007",
+      "source_description": "Major Telecom C - RTU",
+      "equipment_type": "RTU",
+      "expected_values": {
+        "kw_per_ton_before": 1.529,
+        "kw_per_ton_after": 1.202,
+        "efficiency_improvement_pct": 21.4,
+        "annual_savings_usd": 13422
+      },
+      "corpus_location": "corpus/comprehensive_measurements.json",
+      "notes": "Telecom rooftop unit"
+    },
+    {
+      "id": "TABLE_008",
+      "study_id": "CS_008",
+      "source_description": "Telecommunications DX - Chiller",
+      "equipment_type": "Chiller",
+      "expected_values": {
+        "kw_per_ton_before": 0.889,
+        "kw_per_ton_after": 0.889,
+        "efficiency_improvement_pct": 13.5,
+        "annual_savings_usd": 20553
+      },
+      "corpus_location": "corpus/comprehensive_measurements.json",
+      "notes": "kW/ton values may need verification - shows no change"
+    },
+    {
+      "id": "TABLE_009",
+      "study_id": "CS_009",
+      "source_description": "Major Bank B - Split System",
+      "equipment_type": "Split System",
+      "expected_values": {
+        "kw_per_ton_before": 1.43,
+        "kw_per_ton_after": 1.13,
+        "efficiency_improvement_pct": 21.0,
+        "annual_savings_usd": 1059
+      },
+      "corpus_location": "corpus/comprehensive_measurements.json",
+      "notes": "Banking facility split system"
+    },
+    {
+      "id": "TABLE_010",
+      "study_id": "CS_010",
+      "source_description": "Healthcare IT Company A - Refrigeration",
+      "equipment_type": "Refrigeration",
+      "expected_values": {
+        "kw_per_ton_before": 0.762,
+        "kw_per_ton_after": 0.762,
+        "efficiency_improvement_pct": 14.3,
+        "annual_savings_usd": 25374
+      },
+      "corpus_location": "corpus/comprehensive_measurements.json",
+      "notes": "Commercial refrigeration application"
+    },
+    {
+      "id": "TABLE_011",
+      "study_id": "CS_011",
+      "source_description": "Telecom Equipment Mfg [Texas Location] - Chiller",
+      "equipment_type": "Chiller",
+      "expected_values": {
+        "kw_per_ton_before": 0.396,
+        "kw_per_ton_after": 0.396,
+        "efficiency_improvement_pct": 28.5,
+        "annual_savings_usd": 15840
+      },
+      "corpus_location": "corpus/comprehensive_measurements.json",
+      "notes": "Data center chiller"
+    },
+    {
+      "id": "TABLE_012",
+      "study_id": "CS_012",
+      "source_description": "Grocery Chain A - RTU",
+      "equipment_type": "RTU",
+      "expected_values": {
+        "kw_per_ton_before": 1.75,
+        "kw_per_ton_after": 1.18,
+        "efficiency_improvement_pct": 23.3,
+        "annual_savings_usd": 2760
+      },
+      "corpus_location": "corpus/comprehensive_measurements.json",
+      "notes": "Retail grocery RTU"
+    },
+    {
+      "id": "TABLE_013",
+      "study_id": "CS_013",
+      "source_description": "Major Global Bank A [Property Name] - Chiller",
+      "equipment_type": "Chiller",
+      "expected_values": {
+        "kw_per_ton_before": 1.16,
+        "kw_per_ton_after": 1.16,
+        "efficiency_improvement_pct": 46.2,
+        "annual_savings_usd": 23597
+      },
+      "corpus_location": "corpus/comprehensive_measurements.json",
+      "notes": "High improvement percentage - large chiller"
+    },
+    {
+      "id": "TABLE_014",
+      "study_id": "CS_014",
+      "source_description": "Data Center C - DX System",
+      "equipment_type": "DX System",
+      "expected_values": {
+        "kw_per_ton_before": 1.741,
+        "kw_per_ton_after": 1.741,
+        "efficiency_improvement_pct": 47.1,
+        "annual_savings_usd": 28489
+      },
+      "corpus_location": "corpus/comprehensive_measurements.json",
+      "notes": "Data center DX system - high improvement"
+    },
+    {
+      "id": "TABLE_015",
+      "study_id": "CS_015",
+      "source_description": "Commercial Tower A - DX System",
+      "equipment_type": "DX System",
+      "expected_values": {
+        "kw_per_ton_before": 1.42,
+        "kw_per_ton_after": 0.586,
+        "efficiency_improvement_pct": 19.7,
+        "annual_savings_usd": 5241
+      },
+      "corpus_location": "corpus/comprehensive_measurements.json",
+      "notes": "Commercial Tower A - DX system"
+    }
+  ],
+  "coverage": {
+    "equipment_types": ["CRAC", "Chiller", "RTU", "DX System", "Refrigeration", "Split System"],
+    "improvement_range": {
+      "min": 3.8,
+      "max": 47.1,
+      "includes_lower_performers": true
+    },
+    "fields_tested": ["kw_per_ton_before", "kw_per_ton_after", "efficiency_improvement_pct", "annual_savings_usd"]
+  }
+}

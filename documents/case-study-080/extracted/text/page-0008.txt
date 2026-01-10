@@ -1,0 +1,46 @@
+Energy Science Division
+       Detailed Results for the Three Pilot RTU’s
+System Description / Design Characteristics
+These three RTU’s provide cooling for the Major Craft Retailer Beltline Road store located in [Texas Location]. Given the 
+internal load of the facility and national weather BIN data, it is estimated that the RTU’s run 4,297 hours per 
+year prior to the ECM being implemented.  
+Baseline & Energy Reporting (Post) Periods
+The identical IPMVP following data points were recorded for Baseline and AERP on 10/3/13 and 11/1/13 
+respectively using recently NIST-calibrated devices to insure measurement accuracy. In all tests, the 
+discharge pressures of the compressors as well as the wet and dry bulb temperatures entering the coil were 
+very similar in both periods so no adjustments to the data was necessary. Additionally, the voltage readings 
+and the CFM readings were within 2% of each other so the baseline readings were used for both periods to 
+ensure consistency of the data. The measurements are as follows: 
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling Capacity in Tons  
+Annual Runtime Hours
+Date RTU’s Installed
+Lennox
+LGC180H2BS2G
+5607G04364
+R22
+15 Tons
+4,297
+2007 (Nov)
+Lennox
+LGC156H2BS2G
+5607G04330
+R22
+13 Tons
+4,297
+2007 (Nov)
+RTU #3
+RTU #2
+Lennox
+LGC060H2H2G
+5607G15806
+R22
+5 Tons
+4,297
+2007 (Nov)
+RTU #6
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,100 @@
+HVAC Performance Comparison: EER
+Kit 4 Caribbean Telecom Provider Downtown POST
+EER Comparison 
+OSA Temp.
+Base EER
+Post EER
+70 degF
+9.13
+0.0
+71 degF
+9.52
+0.0
+72 degF
+9.91
+0.0
+73 degF
+9.0
+0.0
+74 degF
+10.57
+0.0
+75 degF
+10.24
+0.0
+76 degF
+10.12
+0.0
+77 degF
+9.64
+12.91
+78 degF
+9.45
+12.74
+79 degF
+9.76
+12.44
+80 degF
+9.4
+12.47
+81 degF
+9.76
+12.74
+82 degF
+9.3
+12.28
+83 degF
+9.63
+12.29
+84 degF
+8.75
+12.02
+85 degF
+9.29
+12.08
+86 degF
+8.92
+12.1
+87 degF
+9.53
+12.03
+88 degF
+9.59
+11.91
+89 degF
+9.31
+11.59
+90 degF
+9.58
+11.54
+91 degF
+9.61
+11.21
+92 degF
+9.39
+11.22
+93 degF
+9.35
+11.31
+94 degF
+9.28
+11.06
+95 degF
+8.96
+11.24
+-----
+9.5
+11.96
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+70 degF - 95 degF
+75.0 degF - 80.0 degF
+0.5 - 1.0
+15s
+22386 samples
+9245 samples

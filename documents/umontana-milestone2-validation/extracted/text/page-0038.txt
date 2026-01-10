@@ -1,0 +1,45 @@
+ 
+ 
+Page 30 of 38 
+ 
+Appendix B. Archetypal Analysis References 
+ 
+Bauckhage, C., 2014: A note on archetypal analysis and the approximation of convex hulls, 
+arxiv:1410.0642 
+Cutler, A. and L. Breiman, 1994: Archetypal analysis. Technometrics, 36(4), 338–347. 
+ 
+Cutler, A. and E. Stone, 1997: Moving archetypes. Physica D: Nonlinear Phenomena, 107(1), 1 
+–16. 
+ 
+Epifanio, I., G. Vinue, and S. Alemany, 2013: Archetypal analysis: Contributions for estimating 
+boundary cases in multivariate accommodation problem. Computers & Industrial Engineering, 
+64(3), 
+757 – 765. 
+ 
+Hannachi, A. and N. Trendafilov, 2017: Archetypal Analysis: Mining Weather and Climate 
+Extremes. 
+Journal of Climate, 30(17), 6927–6944. 
+ 
+Lundberg, R., 2019: Archetypal terrorist events in the united states. Studies in Conflict & 
+Terrorism, 42(9), 819–835. 
+ 
+Mørup, M. and L. K. Hansen, 2012: Archetypal analysis for machine learning and data mining. 
+Neurocomputing, 80, 54 – 63, special Issue on Machine Learning for Signal Processing 2010. 
+ 
+Seth, S. and M. J. A. Eugster, 2016: Probabilistic archetypal analysis. Machine Learning, 
+102(1), 85–113. 
+ 
+Steinschneider, S. and U. Lall, 2015: Daily Precipitation and Tropical Moisture Exports across 
+the Eastern United States: An Application of Archetypal Analysis to Identify Spatiotemporal 
+Structure. Journal of Climate, 28(21), 8585–8602. 
+ 
+Stone, E. and A. Cutler, 1996: Archetypal analysis of spatio-temporal dynamics. Physica D: 
+Nonlinear Phenomena, 90(3), 209 – 224. 
+ 
+Thøgersen, J. C., M. Mørup, S. Damkiær, S. Molin, and L. Jelsbak, 2013: Archetypal analysis of 
+diverse pseudomonas aeruginosatranscriptomes reveals adaptation in cystic fibrosis airways. 
+BMC Bioinformatics, 14(1), 279. 
+ 
+Vinue, G., I. Epifanio, and S. Alemany, 2015: Archetypoids: A new approach to define 
+representative archetypal data. Computational Statistics & Data Analysis, 87, 102 – 115. 
+ 

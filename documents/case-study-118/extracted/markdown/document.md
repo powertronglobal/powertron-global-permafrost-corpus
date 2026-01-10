@@ -1,0 +1,835 @@
+# Commercial Real Estate Company.pdf
+
+Energy Science Division
+
+®
+
+Commercial Real Estate Company - Packaged DX Units
+
+Comprehensive HVAC/R Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Performance Report on PermaFrost NMR® ECM
+
+8th Fl, Commercial Real Estate Company Bldg at [Commercial Address], NYC
+
+July 27, 2012
+
+Product Brief
+
+PermaFrost NMR® is a multi-patented nanotechnology surface science Energy Control Measure
+
+(ECM) that uses Nucleo Molecular Regenerative (NMR) technology as its core agent.  A sustainable,
+
+one-time treatment with no down time required, PermaFrost NMR® lasts for the remaining life of any
+
+type of system in which it is installed – DX (direct expansion air and chilled water systems), Chillers
+
+(screw, reciprocating, scroll and centrifugal), heat pumps, ice making equipment.  Specialized
+
+applications include computer room cooling and dehumidification systems, chiller plants (water and ice
+
+production applications), domestic and industrial refrigeration (ammonia low and ultra low
+
+temperature), air-cooled single application water chillers and split and package rooftop HVAC
+
+equipment.
+
+The direct benefits of PermaFrost NMR® are improved cooling performance, increased capacity, and
+
+improved refrigerant velocity – all of which allows a system to achieve set point temperatures in a more
+
+rapid fashion that reduces system loading and operating periods.  The indirect benefits resulting from
+
+the enhanced thermodynamic characteristics following treatment include reduced run time, less kW
+
+hours used, less amp draw at the compressor, less metallic wear and longer overall equipment life.
+
+Energy Science Division
+
+OIL BUILD-UP
+OIL REMOVED
+
+BEFORE TREATMENT
+AFTER TREATMENT
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Unit #1
+
+54-ton Carrier Water Cooled DX
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Executive Summary
+
+This report contains specific information regarding the installation of PermaFrost NMR® in the 54-ton
+
+Carrier Water Cooled DX Unit #1 at the Commercial Real Estate Company Bldg at [Commercial Address], NYC.  The facility houses the
+
+Traffic Police Department for the City of New York.  Unit #1 is owned and maintained by Commercial Real Estate Company located
+
+in New York, NY.  Louis Rojo, Commercial Real Estate Company Facility Manager for this location, oversaw the trial.
+
+The improved/restored efficiency on the unit directly attributable to the PermaFrost NMR® ECM was
+
+substantial.  The unit now provides cooler supply air with greater efficiency due to the restoration of the
+
+heat transfer capacity of the evaporator and condenser coils and increased the available useful tonnage.
+
+All three compressors were operating within design/operating standards and very similar to one another
+
+and all outside air dampers were closed both pre and post.
+
+The overall system efficiency improved by 17.8% and the EER improved by 42.8%.  There was an increase in
+
+coil capacity of 96,525 in Btuh which equates to gaining 8-tons of capacity or 17.8%.  There is also a
+
+reduction of 18% in total power and watts per ton which is another measurable way to view the
+
+thermodynamic enhancement of the PermaFrost NMR® ECM.  The tables of data and financial calculations
+
+are available for review at the end of this report.  The result of these combined ECM improvements is an
+
+ROI to Commercial Real Estate Company of 23.9 months.
+
+Measurement and Veriﬁcation Protocol
+
+The International Performance Measurement and Verification Protocols (IPMVP) are used to develop this
+
+report.  The Association of Energy Engineers (AEE), American Society of Heating, Refrigeration and
+
+Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization (EVO) accept the
+
+IPMVP as a global methodology for determining the effectiveness of energy conservation methods and
+
+products.
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize.  They
+
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report.  Option B is
+
+defined as: All parameter measurements with the boundary of the ECM (Permafrost NMR®) as the single
+
+source of measurement.  Savings are determined by field measurement of the energy use of the ECM
+
+affected equipment or system and any performance enhancements versus the baseline data.
+
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the
+
+savings and the length of the reporting period.  For the boundary utilized for Option B short-term
+
+measurements are very useful as data when the variables are contained. The savings are calculated by
+
+short-term measurements of baseline and reporting period energy, and /or engineering computations using
+
+measurements of proxies of energy use.
+
+The final computation follows the formula:
+
+Energy Conservation Method (ECM) Content
+
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the
+
+effects of thermal degradation and fouling on the heat exchange surfaces.
+
+Commercial Real Estate Company made the decision to treat this unit as it was one of two supporting the 8th floor.  Both units were
+
+treated and tested.  A diagnostic examination of the pilot equipment was implemented to determine if the
+
+unit’s operational conditions were satisfactory.  Baseline measurements were recorded and then the proper
+
+amount and type of PermaFrost NMR® was injected.  The product was then allowed four (4) weeks to seat
+
+itself into the metal surfaces before post measurements were taken to establish the efficiency gains.
+
+The following report produces the utilization of the IPMVP International Performance Measurement and
+
+Verification Protocol as the M&V plan. The final calculations were performed by Powertron Global’s Senior
+
+Energy Engineer [Senior Energy Engineer] ME/CEM/CMC/CMVP.
+
+Energy Science Division
+
+Option B savings = Baseline Energy – Reporting Period Energy
+
++ - Routine adjustments + - Non-Routine Adjustments
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Make
+
+Model
+
+Serial
+
+Refrigerant Type
+
+Age
+
+Nominal Cooling Capacity Btuh / tons
+
+CFM
+
+Carrier
+
+50BA054600
+
+7284551
+
+R22
+
+1966
+
+650,000 Btuh / 54 tons
+
+15,000
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+kW = Volts * Amps * 1.56 (3-Phase)/1000
+
+Delta T = Return Air DB – Supply Air DB
+
+Enthalpy = Return Air WB Deg. F and Supply Air WB Deg. F Converted to Enthalpy
+
+Actual Btuh Capacity = Measured CFM X 4.5 * Enthalpy Delta
+
+System Eﬃciency % = Actual Coil Capacity Btuh / Nominal Coil Capacity Btuh
+
+EER = Btuh / Watts
+
+System Description / Design Characteristics
+
+This unit provides cooling for the Traffic Police Department for the City of New York on the 8nd floor of the
+
+facility.  Per Commercial Real Estate Company, the equipment is estimated to run 1,500 hours per year.
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Baseline Measurement Period Selection
+
+The following data was recorded on 06/26/2012 using recently calibrated devices to insure measurement
+
+accuracy.  The results were recorded as a result of the implementation of the IPMVP Protocol.
+
+Voltage
+
+Amperage
+
+Suction Refrigerant  Temp
+
+Discharge Refrigerant Temp
+
+Return Air Temp DB
+
+Supply Air Temp DB
+
+Return Air Temp WB
+
+Supply Air Temp WB
+
+Actual CFM
+
+Actual Coil Capacity Btuh / tons
+
+Enthalpy Delta
+
+Calculated Total Watts
+
+Calculated Watts per Ton
+
+OAT / CDD
+
+480V
+
+79A
+
+36.2 F
+
+104.6 F
+
+72  F
+
+54.6 F
+
+59 F
+
+45.2 F
+
+15,000
+
+542,025 Btuh / 45.17 tons
+
+8.03
+
+59,155 CTW
+
+1,310 CWPT
+
+67 F / 0 CDD
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Reporting Period (Post)
+
+The identical data was recorded on 07/23/2012 using recently calibrated devices to insure measurement
+
+accuracy.  The following results were recorded as a result of the implementation of the IPMVP Protocol.
+
+Results
+
+The following results are based off of the Baseline Measurement of data and the Energy Reporting Period
+
+data from the Unit.
+
+Energy Science Division
+
+Voltage
+
+Amperage
+
+Suction Refrigerant Temp
+
+Discharge Refrigerant Temp
+
+Return Air Temp DB
+
+Supply Air Temp DB
+
+Return Air Temp WB
+
+Supply Air Temp WB
+
+Actual CFM
+
+Actual Coil Capacity Btuh / tons
+
+Enthalpy Delta
+
+Total Watts
+
+Watts per Ton
+
+OAT / CDD
+
+464V
+
+79A
+
+34.1 F
+
+107.5 F
+
+72.6 F
+
+53 F
+
+60.8 F
+
+44.8 F
+
+15,000
+
+638,550 Btuh / 53.21 tons
+
+9.46
+
+57,183
+
+1,075 WPT
+
+79 F / 14 CDD
+
+Eﬃciency Improvements
+
+Adjusted Total Watts
+Btuh Capacity
+System Eﬃciency %
+Enthalpy Delta
+Watts per Ton
+EER
+
+18%
+17.8%
+17.8%
+17.8%
+17.9%
+42.8%
+
+Energy Reporting Period
+
+57,183
+638,550
+98.24%
+9.46
+1,075
+11.11
+
+Baseline
+
+69,705
+542,025
+83.39%
+8.03
+1,310
+7.77
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Utilizing the data in the above charts, the following steps were taken to determine a very accurate ROI for
+
+Commercial Real Estate Company for implementing this ECM:
+
+Baseline kWh = (59,155 NTW / 1,000) * 1,500 Annual Operating Hrs = 88,733 kWh
+
+Baseline Cost To Run = 88,733 kWh * $.18 = $15,972
+
+Regression Analysis is then used to account for amount of tonnage restored to Unit #1
+
+Adjusted Base Tonnage = 53.21 tons (equates to tonnage in ERP)
+
+Adjusted Total Watts = 1,310 WPT * 53.21 tons = 69,705 W
+
+Adjusted Base kWh = (69,705 W/1,000) * 1,500 Annual Operating Hrs = 104,558 kWh
+
+Revised Cost to Run Prior to ECM = 104,558 kWh * $.18 = $18,820
+
+Post ECM kWh = (57,183 W / 1,000) * 1,500 Annual Operating Hrs = 85,775 kWh
+
+Cost to Run After ECM = 85,775 kWh * $.18 = $15,440
+
+Cost Savings per Month = ($18,820 - $15,440) / 12 = $282
+
+Cost of PermaFrost NMR® installed @ $6,750 / $282 = 23.9 months
+
+ROI = 23.9 months
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Unit #2
+
+54-ton Carrier Water Cooled DX
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Executive Summary
+
+This report contains specific information regarding the installation of PermaFrost NMR® in the 54-ton
+
+Carrier Water Cooled DX Unit #2 at the Commercial Real Estate Company Bldg at [Commercial Address], NYC.  The facility houses the
+
+Traffic Police Department for the City of New York.  Unit #2 is owned and maintained by Commercial Real Estate Company located
+
+in New York, NY.  Louis Rojo, Commercial Real Estate Company Facility Manager for this location, oversaw the trial.
+
+The improved/restored efficiency on the unit directly attributable to the PermaFrost NMR® ECM was
+
+substantial.  The unit now provides cooler supply air with greater efficiency due to the restoration of the
+
+heat transfer capacity of the evaporator and condenser coils and increased the available useful tonnage.
+
+During the testing we found that compressor #3 is operating slightly outside of design/operating standards
+
+of compressors #1 and #2.  The On-site mechanical contractor adjusted refrigerant charge prior to readings
+
+being taken but there was no change to the performance of the compressor.  Compressors #1 and #2 had
+
+slightly low evaporator pressure and temperature but still within operating range for the system.  Post
+
+readings after the ECM still show compressor #3 is not performing as well as the others.
+
+The overall system efficiency improved by 33.3% and the EER improved by 46.5%.  There was an increase in
+
+coil capacity of 120,825 in Btuh which equates to gaining 10.1-tons of capacity or 26.6%.  There is also a
+
+reduction of 31.7% in total power and watts per ton which is another measurable way to view the
+
+thermodynamic enhancement of the PermaFrost NMR® ECM.  The tables of data and financial calculations
+
+are available for review at the end of this report.  The result of these combined ECM improvements is an
+
+ROI to Commercial Real Estate Company of 14.2 months.
+
+Measurement and Veriﬁcation Protocol
+
+The International Performance Measurement and Verification Protocols (IPMVP) are used to develop this
+
+report.  The Association of Energy Engineers (AEE), American Society of Heating, Refrigeration and
+
+Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization (EVO) accept the
+
+IPMVP as a global methodology for determining the effectiveness of energy conservation methods and
+
+products.
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize.  They
+
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report.  Option B is
+
+defined as: All parameter measurements with the boundary of the ECM (Permafrost NMR®) as the single
+
+source of measurement.  Savings are determined by field measurement of the energy use of the ECM
+
+affected equipment or system and any performance enhancements versus the baseline data.
+
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the
+
+savings and the length of the reporting period.  For the boundary utilized for Option B short-term
+
+measurements are very useful as data when the variables are contained. The savings are calculated by
+
+short-term measurements of baseline and reporting period energy, and /or engineering computations using
+
+measurements of proxies of energy use.
+
+The final computation follows the formula:
+
+Energy Conservation Method (ECM) Content
+
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the
+
+effects of thermal degradation and fouling on the heat exchange surfaces.
+
+Commercial Real Estate Company made the decision to treat this unit as it was the second of two supporting the 8th floor.  Both units
+
+were treated and tested.  A diagnostic examination of the pilot equipment was implemented to determine if
+
+the unit’s operational conditions were satisfactory.  Baseline measurements were recorded and then the
+
+proper amount and type of PermaFrost NMR® was injected.  The product was then allowed four (4) weeks
+
+to seat itself into the metal surfaces before post measurements were taken to establish the efficiency gains.
+
+The following report produces the utilization of the IPMVP International Performance Measurement and
+
+Verification Protocol as the M&V plan. The final calculations were performed by Powertron Global’s Senior
+
+Energy Engineer [Senior Energy Engineer] ME/CEM/CMC/CMVP.
+
+Energy Science Division
+
+Option B savings = Baseline Energy – Reporting Period Energy
+
++ - Routine adjustments + - Non-Routine Adjustments
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Make
+
+Model
+
+Serial
+
+Refrigerant Type
+
+Age
+
+Nominal Cooling Capacity Btuh / tons
+
+CFM
+
+Carrier
+
+50BA054600
+
+7242466
+
+R22
+
+1965
+
+650,000 Btuh / 54 tons
+
+15,000
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+kW = Volts * Amps * 1.56 (3-Phase)/1000
+
+Delta T = Return Air DB – Supply Air DB
+
+Enthalpy = Return Air WB Deg. F and Supply Air WB Deg. F Converted to Enthalpy
+
+Actual Btuh Capacity = Measured CFM X 4.5 * Enthalpy Delta
+
+System Eﬃciency % = Actual Coil Capacity Btuh / Nominal Coil Capacity Btuh
+
+EER = Btuh / Watts
+
+System Description / Design Characteristics
+
+This unit provides cooling for the Traffic Police Department for the City of New York on the 8nd floor of the
+
+facility.  Per Commercial Real Estate Company, the equipment is estimated to run 1,500 hours per year.
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Baseline Measurement Period Selection
+
+The following data was recorded on 06/26/2012 using recently calibrated devices to insure measurement
+
+accuracy.  The results were recorded as a result of the implementation of the IPMVP Protocol.
+
+Voltage
+
+Amperage
+
+Suction Refrigerant  Temp
+
+Discharge Refrigerant Temp
+
+Return Air Temp DB
+
+Supply Air Temp DB
+
+Return Air Temp WB
+
+Supply Air Temp WB
+
+Actual CFM
+
+Actual Coil Capacity Btuh / tons
+
+Enthalpy Delta
+
+Calculated Total Watts
+
+Calculated Watts per Ton
+
+OAT / CDD
+
+479V
+
+70.36A
+
+33.5 F
+
+106 F
+
+71.3 F
+
+52.6 F
+
+57.5 F
+
+45.8 F
+
+15,000
+
+454,950 Btuh / 37.91 tons
+
+6.74
+
+52,576 CTW
+
+1,387 CWPT
+
+67.6 F / 0 CDD
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Reporting Period (Post)
+
+The identical data was recorded on 07/23/2012 using recently calibrated devices to insure measurement
+
+accuracy.  The following results were recorded as a result of the implementation of the IPMVP Protocol.
+
+Results
+
+The following results are based off of the Baseline Measurement of data and the Energy Reporting Period
+
+data from the Unit.
+
+Energy Science Division
+
+Voltage
+
+Adjusted Amperage
+
+Suction Refrigerant Temp
+
+Discharge Refrigerant Temp
+
+Return Air Temp DB
+
+Supply Air Temp DB
+
+Return Air Temp WB
+
+Supply Air Temp WB
+
+Actual CFM
+
+Actual Coil Capacity Btuh / tons
+
+Enthalpy Delta
+
+Normalized Total Watts
+
+Normalized Watts per Ton
+
+OAT / CDD
+
+461V
+
+63.18A
+
+34.5 F
+
+107.6 F
+
+72.7 F
+
+54.9 F
+
+60.4 F
+
+46.1 F
+
+15,000
+
+575,775 Btuh / 47.98 tons
+
+8.53
+
+45,437 NTW
+
+947 NWPT
+
+79 F / 14 CDD
+
+Eﬃciency Improvements
+
+Adjusted Total Watts
+Btuh Capacity
+System Eﬃciency %
+Enthalpy Delta
+Watts per Ton
+EER
+
+31.7%
+26.6%
+33.3%
+26.6%
+31.7%
+46.5%
+
+Energy Reporting Period
+
+45,437
+575,775
+88.58%
+8.53
+947
+12.67
+
+Baseline
+
+66,548
+454,950
+66.46%
+6.74
+1,387
+8.65
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Utilizing the data in the above charts, the following steps were taken to determine a very accurate ROI for
+
+Commercial Real Estate Company for implementing this ECM:
+
+Baseline kWh = (52,576 TW / 1,000) * 1,500 Annual Operating Hrs = 78,864 kWh
+
+Baseline Cost To Run = 78,864 kWh * $.18 = $14,196
+
+Regression Analysis is then used to account for amount of tonnage restored to Unit #2
+
+Adjusted Base Tonnage = 47.98 tons (equates to tonnage in ERP)
+
+Adjusted Total Watts = 1,387 WPT * 47.98 tons = 66,548 W
+
+Adjusted Base kWh = (66,548 W/1,000) * 1,500 Annual Operating Hrs = 99,822 kWh
+
+Revised Cost to Run Prior to ECM = 99,822 kWh * $.18 = $17,968
+
+Post ECM kWh = (45,437 W / 1,000) * 1,500 Annual Operating Hrs = 68,156 kWh
+
+Cost to Run After ECM = 68,156 kWh * $.18 = $12,268
+
+Cost Savings per Month = ($17,968 - $12,268) / 12 = $475
+
+Cost of PermaFrost NMR® installed @ $6,750 / $475 = 14.2
+
+ROI = 14.2 months
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

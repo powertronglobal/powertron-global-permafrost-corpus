@@ -1,0 +1,48 @@
+ 
+8
+preferred, as it may distort the analysis by introducing other variables to the analysis (weather, 
+deterioration of the HVAC system, changes in use patterns, ownership changes, etc.). Standard 
+testing Protocols used by ASHRAE, ARI and OEMs prefer instantaneous steady state system 
+performance data to minimize variable interference. 
+ 
+There are sixty-one (61) separate tests in this analysis.  Four (4) units of the same make, type, 
+and size in a controlled laboratory setting and sixty-one (61) field in-situ sites for analysis all 
+using the same testing methodology.  The thirty-eight (38) different sites contain different 
+characteristics:  A telecommunications company, school, 3 QSR Chain C, a pair of military 
+installations, a number of commercial businesses and two office buildings.  A summary of each 
+field sites is described in a subsequent section.   
+ 
+• Organization A, 2nd floor, [Commercial Address], NY.  
+• Educational Institution A Finance Office, located in Ridgely, MD.  
+• REIT A Bldg at [Commercial Address], NYC.  
+• QSR Chain C, 2 locations, MI.  
+• Air Force Airlift Wing Support Center Chiller at Military Base A, MD, Chiller #3 of the 
+main chiller plant.  
+• Air Force Data Center CRAC units at Military Base A, MD. 
+• A large U.S. Communications Company (heretofore referred to as The Company) located 
+in Long Island, New York.    
+• Large US tire OEM and retailer located at 3 sites around the [Florida Location] area 
+• Large food service retail facility located in Hunt Valley, MD. 
+• Large US Pharmaceutical Company chiller system located in New Brunswick, NJ. 
+• Large US Pharmaceutical Company chiller system located in [Connecticut Location]. 
+• Sports Arena A in [Texas Location]. 
+• Regional Hospital A (Hospital A) at [Commercial Address], Newark, NJ. 
+• Healthcare System A - Englewood, CO 
+• Large Multi-National Bank – Irving, TX 
+• Largest electrical distributor in the U.S, [Texas City] 
+• Leading Tire Manufacture, [South Africa Location] 
+• County Law Enforcement A, Ellicott City, MD. 
+• Sports Arena B, Sports Complex B, East [Northeast Location], NJ. 
+• Large Multinational Bank, [Brazil Location]  
+• U.S Banking Institution Bank, Albany, NY. 
+• Chicago Data Center, Oak Brook, IL. 
+• Large Property Manger Headquarters, Washington D.C. 
+• Large Telecommunications Provider Data Center, London, UK. 
+• Company B – North, Miami, Florida20 
+• Office Park A in Las Vegas, NV. 
+• Large U.S. Data Center Provider, Sanston (Richmond), VA. 
+• Digital Entertainment Provider Data Center, Allentown, PA. 
+• Maryland Area Convenience Store Chain (2 locations) 
+• Food Retailer - 3 FL Locations [Florida Location] area for MACSUB INC. 
+• Large U.S. Communications Company, Data Center CRAC Unit EPR 
+ 

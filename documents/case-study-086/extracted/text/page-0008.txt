@@ -1,0 +1,72 @@
+APPENDIX III	  
+Points	  Measured	  per	  Unit	  
+- 
+Total	  Instantaneous	  Real	  Power	  
+- 
+CFM	  
+- 
+COP	  
+- 
+Compressor	  #1	  on/off	  	  
+- 
+Compressor	  #2	  on/off	  
+- 
+Delta	  Enthalpy	  
+- 
+Delta	  Temperature	  
+- 
+EER	  
+- 
+Inlet	  Enthalpy	  
+- 
+Instantaneous	  Current,	  Phase	  A	  
+- 
+Instantaneous	  Current,	  Phase	  B	  
+- 
+Instantaneous	  Current,	  Phase	  C	  
+- 
+L-­‐N	  Voltage	  
+- 
+Outlet	  Enthalpy	  
+- 
+Outside	  Air	  Temperature	  
+- 
+Power	  Factor,	  Phase	  A	  
+- 
+Power	  Factor,	  Phase	  B	  
+- 
+Power	  Factor,	  Phase	  C	  
+- 
+Real	  Power,	  Phase	  A	  
+- 
+Real	  Power,	  Phase	  B	  
+- 
+Real	  Power,	  Phase	  C	  
+- 
+Return	  Air	  Dew	  point	  
+- 
+Return	  Air	  Temperature	  
+- 
+Return	  Duct	  Humidity	  
+- 
+Supply	  Air	  Temperature	  
+- 
+Supply	  Duct	  Humidity	  
+- 
+Total	  Capacity	  (BTU’s)	  
+- 
+Total	  Capacity	  (Tons)	  
+- 
+Total	  Power	  Factor	  
+- 
+Voltage	  A-­‐N	  
+- 
+Voltage	  B-­‐N	  
+- 
+Voltage	  C-­‐N	  
+- 
+kW	  per	  Ton	  
+- 
+kWE	  per	  kWR	  
+- 
+kWR	  

@@ -1,0 +1,31 @@
+®
+2
+Process
+This report contains specific information regarding the current performance profile of one of five of CRAC 
+units that support the Telecom Provider Communications facility in Allentown, PA. 
+Detailed performance testing (outlined later in this report) was performed on the pilot CRAC unit before and 
+after the installation of PermaFrost NMR® to determine the impact on the three key elements that greatly 
+affect Telecom Provider’s HVAC power bill as they relate to the original design specifications:
+ 
+ 
+1.  The cooling capacity the CRAC unit is capable of producing after 16 years in service.
+ 
+2.  The actual cost of power required to produce the amount of cooling tons the CRAC unit is 
+ 
+     delivering as reflected in the kW/ton measurement. 
+ 
+3.  The thermal dynamic ability of the CRAC unit to still perform at or close to operational design.
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) framework. The team consisted of Telecom Provider’s Facility 
+Engineering Manager, [Client Representative] and Powertron Global’s Director of Engineering, [Senior Energy Engineer].  
+Notes 
+Since the post measurements were taken with outside air temperatures of 4 degrees cooler than in the baseline, actual amp 
+readings taken in the post were raised to normalize for the very slight affect the weather had on the condensing unit’s 
+ability to dissipate heat.  
+Telecom Provider’s management of the data center and the internal load during the trial provided more than an adequate heat load on 
+the pilot CRAC unit to ensure it would remain running during the actual data collection period. 
+The boundary of the testing was the CRAC unit and nothing else; therefore confidence in the accuracy of the performance 
+calculations is very high.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

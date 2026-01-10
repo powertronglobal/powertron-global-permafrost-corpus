@@ -1,0 +1,50 @@
+ 
+Preface       ix 
+ 
+Efficiency Valuation Organization and IPMVP 
+This International Performance Measurement and Verification Protocol (IPMVP) is sponsored by 
+the Efficiency Valuation Organization (EVO), a non-profit private corporation. EVO envisions a 
+global marketplace that correctly values the efficient use of natural resources and utilizes end-
+use efficiency as a viable alternative to new energy supply. EVO’s mission is to develop and 
+promote standardized methods to quantify and manage the risks and benefits associated with 
+business transactions on end-use energy efficiency, renewable energy, and water efficiency. 
+EVO is a subscriber-based organization with supporters around the world.  
+EVO is grateful to its volunteers who develop and maintain EVO documents. Members of our 
+current Board and Committees active in developing this document appear in the 
+Acknowledgements section, above, along with Organizational Subscribers.  
+EVO maintains a website (www.evo-world.org) which contains: 
+ 
+A subscribers’ section with access to pre-release copies of some EVO documents, 
+reference materials, newsletters, discussion forums, and links to other resources; 
+ 
+Latest released editions of the documents, and archival editions; 
+ 
+Lists of the current committee members and supporters;  
+ 
+Invitation for comments on IPMVP documents to the email address of: ipmvprev@evo-
+world.org ; 
+ 
+Information on EVO’s training and certification programs;    
+EVO documents should include unique methods from around the world. Therefore, EVO is 
+developing international, regional groups to document international M&V methods. To 
+participate as a volunteer or subscriber, please visit the EVO website, www.evo-world.org, for 
+current contact information. 
+EVO’s current activities and plans are summarized below.   
+EVO’s Current Publications 
+Currently EVO has four publications available on its website: 
+IPMVP Volume I  Concepts and Options for Determining Energy and Water Savings 
+Volume I defines terminology and suggests good practices for documenting the effectiveness of 
+energy or water efficiency projects that are implemented in buildings and industrial facilities.  
+These terms and practices help managers to prepare M&V Plans, which specify how savings 
+will be measured for each project. The successful M&V Plan enables verification by requiring 
+transparent reports of actual project performance. 
+IPMVP Volume II  Indoor Environmental Quality (IEQ) Issues 
+Volume II reviews IEQ issues as they may be influenced by an energy efficiency project. It 
+highlights good project design and implementation practices for maintaining acceptable indoor 
+conditions under an energy efficiency project. It advises on means of measuring IEQ 
+parameters to substantiate whether indoor conditions have changed from the conditions of the 
+baseline when determining savings. Volume II has been archived, and remains available in the 
+archives section of the public library on EVO’s website. 
+IPMVP Volume III   Applications 
+Volume III contains specific application guidance manuals for Volume I. The two current 
+applications manuals address new building construction (Part I) and renewable energy additions 

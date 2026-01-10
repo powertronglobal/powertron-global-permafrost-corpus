@@ -1,0 +1,111 @@
+ 
+43 
+Table 5 Comparison of test units and In-situ site parameters before and after PermaFrost NMR® addition   
+ 
+In Situ Units 
+TEST UNITS
+Measured Parameter
+Percent Delta
+Average 
+Delta 
+Percent 
+Delta
+Average 
+Delta 
+Percent 
+Delta
+Goal 
+Met?
+Voltage
+Should not vary significantly since thsisia basis for 
+delivering power to equipment
+-4.2
+-0.2%
+0
+0.0%
+n/a
+Amperage
+Reduce Amperage demand = higher efficiency 
+devices operating properly, which reduces amp 
+draw.  Expect significnat decrease as frictionis 
+reduced
+-18.2
+-7.0%
+-0.475
+-6.0%
+Yes
+Suction Refrigerant Temp F
+Comparative statistic only, function of air temp of 
+outside and effect on building
+-0.1
+0.0%
+n/a
+n/a
+n/a
+Actual GPM cooler
+Should not change - function of air handler
+-84.1
+-0.4%
+n/a
+n/a
+n/a
+Actual Coil Capacity Tons
+Should increase if efficiency increases - goal is to 
+hav emore available cooling
+14.1
+26.3%
+2150
+16%
+Yes
+Chilled Water Delta T
+Better efficiency = more avaialble cooling 
+n/a
+n/a
+0.2
+16%
+Yes
+Enthalpy Delta
+Delta should increase with better efficiency
+1.5
+16%
+n/a
+kW (volts x amps x .85 x 
+1.732)/1000 OR (volts x amps x 
+1.56)/1000
+Watts should decrease as amperage decreases
+-4479.7
+-20.3%
+-0.1
+-6%
+Yes
+Adjusted Total kW
+Should increase if efficiency increases - goal is to 
+hav emore available cooling
+-39914.9
+-16.0%
+-310.1
+-16%
+Yes
+Btuh Coil Capacity
+Should increase if efficiency increases 
+138480.9
+29.4%
+1118.8
+8%
+Yes
+System Efficiency
+Should increase if efficiency increases 
+-0.6
+-4.9%
+0.1
+16%
+Yes
+EER (Btuh/Watts)
+4.2
+0.0%
+1.5
+18%
+Yes
+ 
+ 
+ 

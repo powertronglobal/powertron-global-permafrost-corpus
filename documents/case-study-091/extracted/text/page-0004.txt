@@ -1,0 +1,30 @@
+®
+3
+Methodology
+Detailed performance testing (outlined later in this report) was performed on the pilot Chillers before and 
+after the installation of the ECM to determine the impact on the three key elements as they relate to the 
+original design specifications that greatly affect the power bills:
+ 
+ 
+1. The cooling capacity the Chillers are capable of producing after 6+ years in service. 
+ 
+2. The actual cost of power required to produce the amount of cooling tons the Chillers are delivering 
+ 
+    as reflected in the kW/ton measurement. 
+ 
+3. The thermal dynamic ability of the Chillers to still perform at or close to operational design.
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) testing framework. 
+Due to operational constraints relating to ongoing construction schedules in the chiller plant, the testing at 
+[Southeast Location] Metro was started on 20 November 2013 and concluded on 4 December 2013. This gave the ECM just 
+over 330 hours to gestate within the chiller and improve thermal performance. The ECM normally produces 
+90% or more of the improvement benefits it will ultimately deliver at 400+ runtime hours.
+The testing at Santa Clara II was started on 23 January 2014 and concluded on 26 February 2014. This allowed 
+the ECM just over 600 hours to gestate within the chiller and improve thermal performance.
+Notes
+The boundary of the testing was the Chillers themselves, flange to flange while matching the baseline and post water 
+temperatures entering the condenser and the returning chilled water temperatures entering the evaporator; therefore 
+confidence in the accuracy of the performance calculations is very high. Very similar flow rates were used in both testing 
+periods.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

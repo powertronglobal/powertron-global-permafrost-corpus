@@ -1,0 +1,46 @@
+Key Results from Refrigeration Rack-A Treated with
+PermaFrost NMR® ECM
+11
+Baseline
+Post
+0
+5
+10
+15
+20
+25
+30
+35
+Low Temp
+Med Temp
+Average
+Tons of Cooling
+6.83% Overall Reduction in Tons
+Required to Reach Evap Set Points
+29.5
+27.5
+32
+29.8
+30.75
+28.65
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+Low Temp
+Med Temp
+Average
+Calculated kW/Ton
+6.52% Reduction in kW/Ton
+3.2
+2.96
+2.35
+2.23
+2.76
+2.58
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

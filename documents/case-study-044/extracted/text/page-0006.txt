@@ -1,0 +1,37 @@
+Energy Conservation Method (ECM) Content
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the 
+effects of thermal degradation and fouling on the heat exchange surfaces. 
+Following a diagnostic examination of the pilot equipment to determine the operational condition of the 
+CRAC units was satisfactory, Baseline M&V data was collected and recorded prior to the proper amount 
+and type of PermaFrost NMR® being injected. The gestation 
+period for the US Internet Provider pilot was four (4) weeks. Prior to taking 
+AERP measurements, systems need to achieve ~300 hours of 
+runtime to ensure adequate performance improvement time. At 
+the end of this gestation period, AERP M&V results were taken 
+in the identical manner as in the baseline.  For the Control CRAC 
+unit, only post readings were taken as it was randomly selected 
+by US Internet Provider management to be checked to see what its new 
+performance efficiency after treatment with PermaFrost NMR®.
+Incoming condenser water to each of the units was carefully 
+metered to ensure it was the same temperature in both data 
+collection periods. This action also allowed the discharge 
+pressures of the compressors to be very similar so no 
+adjustments were necessary for weather. 
+The following report produces the utilization of the IPMVP as the M&V plan.
+The results were formulated by entering the data into the following thermodynamic engineering formulas: 
+ 
+kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+Ton = (Airﬂow * 4.5 * Enthalpy Delta) / 12,000 
+ 
+kW/Ton = kW / Actual Tonnage 
+ 
+Coeﬃcient of Performance (COP) = (12 / kW per ton /3.412)
+Energy Science Division
+The M&V team collects critical IPMVP 
+measurements such as air flow and pressure drop 
+across the coil using the latest, most accurate digital 
+NIST calibrated testing equipment as part of the 
+scientific PermaFrost NMR® performance pilot.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

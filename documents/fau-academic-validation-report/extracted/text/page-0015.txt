@@ -1,0 +1,49 @@
+ 
+15 
+4 weeks to seat itself into the metal surfaces before post measurements were taken to 
+establish the efficiency gains.  Characteristics of the HVAC systems are as follows: 
+ 
+Make – Carrier 
+Model – 19XR7577564EJS68 
+Age – 2002 
+Refrigerant Type – R-134A 
+Nominal Cooling Capacity in tons – 1050 tons 
+Design GPM – 1936 
+ 
+Make –York 
+Model – YKJHHDJ2-DBFS 
+Age – 2008 
+Refrigerant Type – R-134A 
+Nominal Cooling Capacity in tones - 1279 
+Design CFM – 2558 
+ 
+Food Service:  The Company decided facility to treat a facility located in Hunt Valley, 
+MD.   Detailed forensic performance testing (outlined later in this report) was 
+performed on a nominal 50-ton water-cooled package unit using R22 refrigerant serving 
+the 4th floor of the facility. Following testing, the unit was treated with the proper 
+amount and type of PermaFrost NMR® product formulated for DX systems.  The 
+product was allowed 4 weeks to seat itself into the metal surfaces before post 
+measurements were taken to establish the efficiency gains.  Characteristics of the HVAC 
+systems are as follows: 
+ 
+Make –HVAC Equipment Manufacturer 
+Model – SWUA-5004 
+Age – not avail 
+Refrigerant Type – R-22 
+Nominal Cooling Capacity 51.92 tons 
+Design CFM – 20,000 
+ 
+Large US Communications Company, Long Island, NY.  This unit is a Carrier Evergreen 
+510-ton Centrifugal Chiller.  The Company made the decision to treat the unit as it was the main 
+unit supporting the office. This particular chiller provides cooling for the majority of The 
+Company’s Long Island, NY facility. The operational periods of the equipment are 24 hours per 
+day, 12 months annually, and totaling 4,717 hours a year based on actual runtime hours on the 
+machine and age of unit. The results were stamped by a P.E. Characteristics are as follows: 
+ 
+Make – Carrier 
+Model – 19XR5555382CP564 
+Age – 1998 
+Refrigerant Type – R-134A 
+Nominal Cooling Capacity in Ton – 510 tons 
+Design GPM (cooler) – 875 
+ 

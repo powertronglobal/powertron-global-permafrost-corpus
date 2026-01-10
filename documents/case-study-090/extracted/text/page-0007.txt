@@ -1,0 +1,57 @@
+The post DB temperature (73 deg. F) entering the coil was matched to the baseline period (73 deg. F). After 
+matching this temperature the post readings were taken to ensure that the work the coil had to do was as 
+close as possible in the baseline. The post amperage was normalized due to the OAT being 4 degrees cooler 
+in the post. Only 2 degrees or 2.33% (86 deg. F vs. 84 deg. F) adjustment upwards to the post amperage was 
+implemented in the adjustment due to standard deviation of +/-2 degrees. Actual measured amps before 
+adjustment for the outdoor unit was 21.8 amps.
+Energy Science Division
+POST
+BASELINE
+Voltage (outdoor/indoor unit)
+Amperage (outdoor/indoor unit)
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Entering Air Temp DB
+Leaving Air Temp DB
+Entering Air Temp WB
+Leaving Air Temp WB
+Actual CFM
+Actual Coil Capacity Btuh / Tons
+Enthalpy Delta
+Total kW
+Calculated kW /Ton
+Coeﬃcient of Performance
+Outdoor Air Temp (OAT)
+238.9V / 244V
+24.5A / 3.6A
+34.2 deg F
+115.3 deg F
+73 deg F
+55.9 deg F
+ 63 deg F
+51.8 deg F
+1,270 CFM
+41,434 Btuh/ 3.45 Tons
+7.25
+6.06
+1.75
+2
+86 deg F 
+248V / 244V
+22.15A / 3.6A
+35.4 deg F
+109.9 deg F
+73 deg F
+52.1 deg F
+63.1 deg F
+49.9 deg F
+1,270 CFM
+47,949 Btuh / 4.00 Tons
+8.39
+5.74
+1.44
+2.45
+82 deg F 
+MEASUREMENT
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,12 @@
+{
+  "doc_id": "dataroom_015",
+  "slug": "certificate-of-insurance",
+  "title": "Certificate of Insurance",
+  "category": "safety",
+  "doc_type": "insurance",
+  "source_file": "powertroncert.pdf",
+  "sha256": "01d012b39dfd711c9efe926d897f939ffac8db88ce05f133ae099cb9e554153f",
+  "pages": 1,
+  "extracted_date": "2025-12-28T14:38:38.797050",
+  "source": "powertronglobal.com/data-room-due-diligence"
+}

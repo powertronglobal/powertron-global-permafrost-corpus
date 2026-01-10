@@ -1,0 +1,352 @@
+================================================================================
+DOCUMENT: Case Study 040
+DOC_ID: pdf_042
+SHA256: 09b9f24d2b7c4398ab9a43f40aa5ea34d46e2bcea66cae79418497f89959f2f2
+================================================================================
+
+═══ PAGE 001 ═══
+
+Energy Science Division
+®
+Global IT Services Provider CAMPUS
+Comprehensive HVAC/R Capacity Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 002 ═══
+
+PermaFrost NMR® Performance Report
+Global IT Services Provider Campus - Chiller  
+October, 2013 
+Executive Summary
+         This report contains specific information regarding the installation of the energy control measure 
+(ECM) PermaFrost NMR® into one of thirty-three HVAC Equipment Manufacturer chillers supporting the Global IT Services Provider Campus. 
+Located at 52 Sloane Road in Sandton, Johannesburg. The beautiful sprawling business campus is owned 
+and operated by Global IT Services Provider of South Africa. This particular HVAC Equipment Manufacturer air cooled chiller using R22 
+refrigerant provides cooling for one of the many multi-story buildings making up the Campus. Detailed 
+forensic performance testing (outlined later in this report) was performed on the pilot chiller to determine 
+its suitability for testing and its performance capability after 13 years in service. Following testing, the chiller 
+was treated with the proper amount and type of the PermaFrost NMR® technology specially formulated for 
+these types of machines. 
+Measurement and Verification (M&V) readings 
+were conducted pre-installation and post-gestation 
+by the Service Director at Redbase Services cc 
+(HVAC Equipment Manufacturer distributor) under the direction of Nick 
+Caldwell, General Manager, Global IT Services Provider along 
+with their consulting company, AConsult. Ed 
+[Senior Energy Engineer], Director of Engineering for Powertron 
+Global® validated that all data was collected and 
+compiled in accordance with the IPMVP 
+(International Measurement and Verification 
+Protocol) framework. 
+The improvement in efficiency and restored 
+capacity gained directly at the chiller was solely 
+attributable to the PermaFrost NMR® ECM. This is 
+a result of the reversal of thermal inefficiency on heat 
+exchange surfaces. As you read through this 
+Energy Science Division
+The project team for the Global IT Services Provider PermaFrost NMR pilot 
+included multiple companies which are represented from left to 
+right: Services Director, Redbase Services cc (HVAC Equipment Manufacturer distributor); 
+Director Global Business, Powertron Global (OEM for PermaFrost 
+NMR); Managing Director South Africa, Powertron Global; 
+Director of Engineering, Powertron Global; and representing 
+Global IT Services Provider, Managing Director, AConsult.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 003 ═══
+
+Energy Science Division
+report, it should be noted that as a result of excessive water flow through the chiller (45-50% higher than 
+design) in both baseline period and avoided energy reporting period (AERP) the resulting pressure drops 
+were nearly twice that of design. These field conditions also result in lower than design temperature deltas. 
+However, this pilot is all about showing the delta effects resulting from improving the thermal dynamic 
+characteristics of the chiller which are clearly evident in the data stated below.   
+Following treatment with the PermaFrost NMR® technology, the chiller showed an effective 32.3% 
+reduction in kWE/tonne based on the exact capacity measured in the baseline M&V and AERP M&V 
+periods when operating at 80% load. The effective annual kWh was reduced by 104,000 kWh, equating to a 
+32.1% reduction, while simultaneously producing an average increase of 6.55 tonnes or 27%. Prior to the 
+ECM, the chiller produced 24.25 tonnes of cooling as measured in-situ. After the ECM, the average 
+combined tonnage produced increased to 30.8 tonnes. This 27% capacity increase from the baseline 
+performance levels in combination with other related improvements led to an effective increase in COP of 
+47.8%. All of these factors directly correlate to what Global IT Services Provider will realize in energy savings as they 
+operate this and the thirty-two other similar campus chillers in the future under similar parameters.
+Following treatment with the PermaFrost NMR® technology, the chiller also showed a significant reduction 
+in amp draw of 13.5% and a 25% reduction in the refrigeration approach while at the same time producing 
+more cooling. All the measurements mentioned combine to reflect the thermodynamic enhancement 
+brought about by the PermaFrost NMR® ECM. The result of the ECM improvement is an ROI to Dimension 
+Data that is measured in just over one year. When the projected energy rebates are factored in, the ROI 
+drops to well under one year. The tables of data used to determine the financial payback are available for 
+review at the end of this report. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 004 ═══
+
+Product Brief
+         PermaFrost NMR® is a multi-patented nanotechnology surface chemistry Energy Control Measure 
+(ECM) that uses Nucleo Molecular Regenerative® (NMR™) technology as its core agent. A sustainable, 
+one-time treatment with no down time required, PermaFrost NMR® lasts for the remaining useful life of 
+any system in which it is installed. Examples of the types of commercial HVACR systems and 
+equipment that PermaFrost NMR® has proven success with are direct expansion air systems (DX); 
+chilled water systems (both flooded and DX; air and water cooled); ice making equipment; ammonia 
+refrigeration plants (single compressor and cascade) and variable refrigerant flow (VRF) designs. The 
+equipment utilized in these systems within our expanding portfolio of clients includes centrifugal (single 
+and multi-stage), scroll, reciprocating and screw configurations.
+The direct benefits of PermaFrost NMR® in any type of HVACR system are improved cooling 
+performance, increased capacity and improved refrigerant velocity – all of which allow systems to 
+achieve set point temperatures in a more rapid fashion, or in the case of chillers, unload, all of which 
+reduces compressor operating periods. The indirect benefits resulting from the enhanced 
+thermodynamic characteristics following treatment include reduced run time, less kW hours used, less 
+amp draw at the compressor, longer equipment life cycle time, and as depicted at the end of this 
+document, a reduced carbon footprint for Global IT Services Provider across their portfolio.
+Energy Science Division
+BOUNDARY LAYER
+OIL REMOVED
+BEFORE TREATMENT
+AFTER TREATMENT
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 005 ═══
+
+Measurement and Veriﬁcation Protocol
+The IPMVP was utilized in the development of this report. The Association of Energy Engineers (AEE), The 
+American Society of Heating, Refrigeration and Air-Conditioning Engineers (ASHRAE), and The Efficiency 
+Valuation Organization (EVO) accept the IPMVP as a global methodology for determining the effectiveness 
+of energy conservation methods and products. One of the key technical architects of the IPMVP is Dr. L.J. 
+Grobler from South Africa. It is also the procedure approved by Eskom for determining energy rebates in 
+HVACR (Heating, Ventilation, Air Conditioning and Refrigeration). Eskom is the primary energy provider 
+in South Africa.
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize. They 
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report. Option B is 
+defined as: All parameter measurements with the boundary of the ECM (PermaFrost NMR®) as the single 
+source of measurement. Savings are determined by field measurement of the energy use of the ECM 
+affected equipment or system and any performance enhancements versus the baseline data.
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the 
+savings and the length of the reporting period.  For the boundary utilized for Option B short-term 
+measurements are very useful as data when the variables are contained. The savings are calculated by 
+short-term measurements of baseline and energy reporting period (post), and /or engineering computations 
+using measurements of proxies of energy use. 
+The final computation follows the formula:
+Energy Science Division
+Option B savings = Baseline Energy – Reporting Period Energy
++ - Routine adjustments / + - Non-Routine Adjustments
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 006 ═══
+
+Energy Conservation Method (ECM) Content
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the 
+effects of thermal degradation and fouling on the heat exchange surfaces.
+ 
+Following a diagnostic examination of the pilot equipment to 
+determine the operational condition of the chiller was satisfactory, 
+Baseline M&V was recorded on both the evaporator and compressor 
+and then the proper amount and type of PermaFrost NMR® was 
+injected. The gestation period for the Global IT Services Provider pilot was seven 
+(7) weeks. Prior to taking AERP measurements, systems need to 
+achieve ~300 hours of runtime to ensure adequate performance 
+improvement time. At the end of this gestation period, AERP M&V 
+results were taken in the identical manner as in the baseline. When 
+analyzing all of the baseline and AERP data it was discovered that the 
+outside air temperature entering the condenser and affecting its 
+performance was 5.2 degrees C higher in the AERP so standard 
+adjustments were made to account for this common in-situ HVAC 
+testing situation. 
+The following report produces the utilization of the IPMVP as the 
+M&V plan. 
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+kWE = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+Tonnes = (LPM * 0.585 * 60 * Chilled Water Delta T) / 3520 (which equals 1 kWR) 
+ 
+kWE /Tonne = kWE / Actual Tonnage 
+ 
+Coeﬃcient of Performance (COP) = (12 / kWE per tonne /3.412)
+Energy Science Division
+The Redbase Service Manager (HVAC Equipment Manufacturer 
+Distributor) collects critical IPMVP 
+measurements using the latest, most 
+accurate digital NIST calibrated testing 
+equipment directly at the chiller as part of 
+the scientific PermaFrost NRM® pilot.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 007 ═══
+
+Energy Science Division
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling Capacity in Tonnes  
+Average Annual Runtime Hours
+Date Installed
+HVAC Equipment Manufacturer
+RTRA110
+EKL1373
+R22
+70
+4,000
+2000
+       Detailed Results for Global IT Services Provider Chiller
+System Description / Design Characteristics
+The pilot chiller provides cooling to the Global IT Services Provider Campus. Given the internal load of the facility and 
+the lifetime run hours on the control panel, it is estimated that the system runs a minimum of ~4,000 hours 
+or more each per year prior to the ECM being implemented.  
+Baseline & AERP Measurements 
+The identical IPMVP following data points were recorded for Baseline and AERP on 8 August 2013 and 8 
+October 2013 respectively using recently calibrated devices by NIST (National Institutes of Standards and 
+Technology) to insure measurement accuracy. Since the outside air temperature affecting the workload of 
+the condensing unit associated with the pilot chiller was 5.2 degrees C higher in the AERP, industry 
+standard adjustments were employed to account for the situation. The chiller also has a high amount of 
+water flowing through it and pressure drops nearly twice that of design. The measurements are as follows: 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 008 ═══
+
+7
+Energy Science Division
+Chiller IPMVP Data
+AERP
+BASELINE
+Voltage  
+Amperage  
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Chilled Water Leaving (Supply)
+Chilled Water Entering (Return)
+Entering Air to Condenser
+Leaving Air from Condenser
+Evaporator Approach
+Measured Tonnes Produced 
+Water Flow through Chiller (LPM)
+Total kWE
+Calculated kWE / Tonne  
+Coeﬃcient of Performance (COP)
+kWh
+O.A.T.
+399.4 V
+108.5 A
+3.0 C
+42.8 C
+7 C
+8.7 C
+19.7 C
+38.3 C
+4 C
+24.25
+1,430.73
+80.9
+2.63
+1.34
+323,600
+19.7 C
+397.8 V
+92.6 A 
+ 3.7 C
+ 43.6 C
+ 6.7 C
+ 8.7 C
+24.9 C
+42.8 C
+3 C 
+ 30.8
+1,472.37
+54.8
+1.78
+1.98
+219,600
+24.9 C
+MEASUREMENT
+Improvements
+kWE / Tonne  
+Evaporator Approach
+Eﬀective Annual kWh
+Measured Tonnes
+COP
+Total kWE
+32.3 %
+25.0 %
+32.1 %
+27.0 %
+47.8 %
+32.1 %
+Post
+1.78
+3 C 
+219,600
+30.8
+1.98
+54.8
+Baseline
+2.63
+4 C
+323,600
+24.25 
+1.34
+80.9
+Results
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+AERP for the pilot Chiller. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 009 ═══
+
+Energy Science Division
+PermaFrost NMR®: Determining the Payback Period for Global IT Services Provider
+Utilizing data in the above charts, to obtain a true avoided energy cost and subsequent payback period for Dimension 
+Data for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true 
+energy savings resulting from the improvement in capacity. This greater capacity reduces the runtime hours and in 
+turn reduces the annual kWh expended in the Post. The true ROI comes from determining what the cost to run the 
+units was when operating at their original energy profile to produce the newly restored amount of tonnage and then 
+subtracting the new cost to run the units at this same newly restored tonnage after the PermaFrost NMR® ECM was 
+installed. This regression calculation is the most scientific method of accounting for the reduced number of hours the 
+units will now run due to their increased capacity which allows the units to reach set temperatures quicker and shut off 
+sooner. 
+For calculations below R10.00 = $1.00
+Adjusted kWE Baseline        2.63 kWE/tonne * 30.8 tonnes = 80.9 kWE
+Adjusted Baseline kWh        80.9 kWE * 4,000 Annual Operating Hrs = 323600 kWh
+Revised Cost to Run Baseline        323,600 kWh * R1.00 = R323,600
+kW Post        1.78 kWE / tonne * 30.8 tonnes = 54.9 kWE
+Annual kWh Post         54.9 kWE * 4,000 hours = 219,600 kWh
+Annual Cost Post         219,600 kWh * R1.00 = R219,600
+Avoided Energy Cost (savings) Per Month       (R323,600 - R219,600) /12 = R8,667
+Cost of PermaFrost NMR® installed in pilot System        R114,000
+Estimated Energy Savings Payback Period for Global IT Services Provider        R114,000 / R8,667 = 13.15 months
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 010 ═══
+
+Energy Science Division
+Global IT Services Provider Saving More Than Just Energy At Its Sloane Road Campus
+By treating their chillers with PermaFrost NMR®, Global IT Services Provider has saved 104,000 kWh per year and all the 
+costs associated with those savings. From an environmental impact standpoint, Global IT Services Provider is also beneﬁtting 
+the surrounding community. 
+The 104,000 kWh saved per year equates to the following:
+           Prevention of 73.4 tonnes of CO2 emissions
+           Equivalent of removing annual greenhouse gas emissions from 15.3 passenger vehicles
+           CO2 emissions from the electricity use of 10.1 homes for a year
+           Greenhouse gas emissions avoided by recycling 27.5 tonnes of waste instead of sending it to a landﬁll
+           CO2 emissions from 37,366 liters of gasoline consumed
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+

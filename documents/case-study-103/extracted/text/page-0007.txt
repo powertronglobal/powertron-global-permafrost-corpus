@@ -1,0 +1,33 @@
+Energy Science Division
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+BTUH = CFM * 4.5 * Wet Bulb Enthalpy Delta
+ 
+kW/Ton = kW / Actual Tonnage
+ 
+Percentage Eﬃciency = Measured BTUH / Manufacturers Design BTUH
+ 
+Coeﬃcient of Performance (COP) = (12 / kW per ton /3.412)
+       Detailed Results for Three 10-Ton Package RTU’s
+System Description / Design Characteristics
+These three RTU’s provide cooling for the Major US Telecom Customer Call Center located on Customer Delight 
+Drive in Chattanooga, TN. Given the internal load of the facility and national weather BIN data, it is 
+estimated that the RTU’s run ~4,035 hours per year prior to the ECM being implemented.  
+Make
+Model
+Serial Number(s)
+Refrigerant Type
+Nominal Cooling Capacity in Tons  
+Annual Runtime Hours
+Date RTU’s Installed
+Carrier
+48TME012PA
+4305G30736 / 7 / 8
+R22
+10 Tons
+4,035
+2007 (Nov)
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

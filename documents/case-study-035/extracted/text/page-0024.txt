@@ -1,0 +1,179 @@
+DATE:
+JOB # 7664
+PAGE # 4
+Major US Warehouse Retailer at CLEARWATER MALL — FINAL
+TOTAL CFM - FAN
+TOTAL CFM - OUTLET
+RETURN AIR CFM
+OUTSIDE AIR CFM
+STATIC PRESS. TOTAL / EXT.
+-
+-
+-
+-
+-
+-
+INLET PRESSURE
+1.11
+1.23
+.78
+1.12
+.52
+.96
+DISCHARGE PRESSURE
+FAN RPM
+-
+-
+-
+-
+-
+ACTUAL
+N/A
+9500
+-
+SPEC / NAMEPL
+ACTUAL
+-
+-
+-
+N/A
+9650
+-
+SPEC / NAMEPL
+SPEC / NAMEPL
+ACTUAL
+N/A
+5688
+-
+-
+AREA SERVED
+EQUIP. MANUFACTURER
+MODEL NUMBER
+AIR MOVING EQUIPMENT
+TEST SHEET
+YCD301C4OFBA
+307100615D
+YCD301C4LFBA
+307100596D
+RTU-14
+OPEN SALES
+HVAC Equipment Manufacturer
+ROOF
+HVAC Equipment Manufacturer
+RTU-18
+ROOF
+SERIAL NUMBER
+YCD181C4LFBB
+PROJECT NAME:
+5/8/14; 7/8/14
+SYSTEM
+307100569D
+FOOD SERVICE
+HVAC Equipment Manufacturer
+RTU-3
+ROOF
+OPEN SALES
+EQUIPMENT LOCATION
+FAN RPM
+MOTOR MANUFACTURER
+MOTOR H.P.
+MOTOR B.H.P.
+PHASE
+VOLTAGE
+AMPERAGE
+5.4
+MOTOR RPM
+MOTOR SERVICE FACT.
+STARTER HEATER ELEM.
+FIXED
+ADJ.
+FIXED
+ADJ.
+FIXED
+ADJ.
+MOTOR SHEAVE & BORE
+FAN SHEAVE & BORE
+BELT(S) / CENTER-TO-CENTER
+REMARKS: PRESSURE DROP:
+READINGS BY: D. MILLARD
+DESIGN AMPS ARE TOTAL OF ALL FANS & ALL COMPRESSORS
+41.6
+36.3
+-
+-
+-
+-
+3
+3
+460
+472
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+460
+-
+-
+SPEC / NAMEPL
+ACTUAL
+7.5
+7.5
+-
+SPEC / NAMEPL
+ACTUAL
+SPEC / NAMEPL
+ACTUAL
+-
+-
+-
+-
+-
+-
+-
+3
+-
+-
+-
+471.6
+-
+-
+-
+-
+460
+472
+-
+26.2
+23.3
+-
+-
+-
+-
+-
+-
+-
+41.6
+39.2
+-
+.12
+.34
+.44
+-
+3
+3
+3
+-
+-
+7.5
+7.5
+-
+3
+3
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

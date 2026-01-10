@@ -1,0 +1,25 @@
+Energy Science Division
+Utilizing the data in the above charts, the following steps were taken to calculate an accurate payback for 
+Major Global Bank for implementing this ECM. First, the annual cost is calculated to run the chiller at baseline levels for 
+2,688 hours per year.
+kW Baseline        .73 kW/ton * 307 tons = 224.1kW
+Annual kWh Baseline        224.1kW * 2,688 hours = 602,381 kWh
+Annual Cost Baseline        602,381 kWh * .06 cents = $36,143
+Regression Analysis for the restored capacity of the chiller provided by PermaFrost NMR®:
+Adjusted Baseline Tonnage        330 tons
+Adjusted kW Baseline        .73 kW/ton * 330 tons = 240.9 kW
+Adjusted Baseline kWh        240.9 * 2,688 Annual Operating hrs = 647,539 kWh
+Revised Cost to Run Baseline        647,539 kWh * $.06 = $38,852
+The cost to run the chiller at 2,688 hours per year at 330 tons utilizing original baseline eﬃciency is calculated
+at $38,852 per year.
+The cost of running the chiller at 330 tons utilizing the improved post installation eﬃciency:
+kW E.R.P.        .66 kW/ton * 330 tons = 217.8 kW
+Annual kWh E.R.P.        217.8 kW * 2,688 hours = 585,446 kWh
+Annual Cost E.R.P.        585,446 kWh * .06 cents = $35,127
+Annual Savings        $38,852- $35,127 = $3,725
+Monthly Savings        $3,725/ 12 = $310
+Cost of PermaFrost NMR® installed for Major Global Bank is $5,462 / $310 = 17.6 months payback
+ 
+ROI = 17.6 months
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

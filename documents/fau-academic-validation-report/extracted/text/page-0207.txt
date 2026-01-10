@@ -1,0 +1,50 @@
+ 
+Appendix C Region Specific Materials         107 
+ 
+APPENDIX C   REGION-SPECIFIC MATERIALS 
+This Appendix contains materials unique to the various regions of the world from which EVO 
+has received credible contributions. These contributions may be updated separately from the 
+rest of this Volume, so a date of publication is shown for each part. EVO encourages all regions 
+of the world to submit materials that highlight unique aspects of M&V in their areas. 
+C-1  United States of America - April 2007, updated October 2011 
+Addition to Chapter 1.3 “IPMVP’s Relationship To Other M&V Guidelines” 
+ 
+ASHRAE, Guideline 14-2002 Measurement of Energy and Demand Savings (see Reference 
+3 in Chapter 10). This American Society of Heating, Refrigerating and Air-Conditioning 
+Engineers, Inc. document  provides complementary detail for IPMVP. Guideline 14 had 
+many of the same original authors as IPMVP. Though Guideline 14 provides technical detail 
+following many of the same concepts of IPMVP, it does not use the same Option names as 
+IPMVP. Guideline 14 is a unique and useful resource for M&V professionals around the 
+world and is available for purchase through ASHRAE’s bookstore at 
+http://resourcecenter.ashrae.org/store/ashrae/. 
+ 
+M&V Guidelines: Measurement and Verification for Federal Energy Projects, Version 2.2 - 
+2000 (see Reference 27 in Chapter 10). The U.S. Department of Energy's Federal Energy 
+Management Program (FEMP) was established, in part, to reduce energy costs of operating 
+U.S. government federal facilities. The FEMP M&V Guideline was first published in 1996 
+with many of the same authors as IPMVP. It provides detailed guidance on specific M&V 
+methods for a variety of ECMs. The FEMP Guide is generally consistent with the IPMVP 
+framework, except that it does not require site measurment of energy use for two specific 
+ECMs. The Lawrence Berkeley National Laboratory website (http://ateam.lbl.gov/mv/) 
+contains the FEMP M&V Guideline, and a number of other M&V resource documents, 
+including one on the estimations used in Option A, and an M&V checklist. 
+ 
+The U.S. State Of California’s Public Utilities Commission’s California Energy Efficiency 
+Evaluation Protocols: Technical, Methodological, and Reporting Requirements for 
+Evaluation Professionals (April 2006). This document provides guidance for evaluating 
+efficiency programs implemented by a utility. It shows the role IPMVP for individual site 
+M&V. The Protocol can be found at the California Measurement Advisory Council 
+(CALMAC) website http://www.calmac.org. 
+ 
+The Greenhouse Gas Protocol for Project Accounting (2005), jointly developed by the World 
+Resources Institute and the World Business Council for Sustainable Development. The 
+IPMVP Technical Committee was represented on the advisory committee for this document 
+which defines means of reporting the greenhouse gas impact of carbon emission reduction 
+and carbon sequestration projects. See www.ghgprotocol.org. 
+Addition to Chapters 1.2, Appendix D.6 and D.7 
+A widely referenced program for rating the sustainability of building designs or operations is the 
+Leadership in Energy and Environmental Design (LEEDTM) of the U.S. Green Buildings Council. 
+Addition to Chapter 4.3, Item 6. 
+ORNL (1999) and ASHRAE Guideline 1-1996 define good practice in commissioning most 
+building modifications. 
+ 

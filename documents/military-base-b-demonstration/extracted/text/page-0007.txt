@@ -1,0 +1,37 @@
+TAI-566 EMIP Demonstration, Military Base B
+July 20 - 22, 2009
+4
+     Weather Delta T
+     Estimated Savings
+If weather conditions were similar throughout the demo, the system would have used 23 oz less fuel:
+1) -18-22% amount of fuel per refer unit and on generators used to run refrigeration systems in the field.
+2) Extending the equipment life up to 20-25%.
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix A Total Run Time Log
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix B Weather Data from Military Base B
+Before Treatment
+In temp 
+71.6
+Out Temp 
+58.3
+Delta  
+13.3  
+After Treatment
+In Temp 
+72.1
+Out Temp 
+55.2
+Delta  
+16.9
+29% improvement in Delta T

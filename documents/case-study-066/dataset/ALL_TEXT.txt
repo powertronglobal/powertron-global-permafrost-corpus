@@ -1,0 +1,603 @@
+================================================================================
+DOCUMENT: Case Study 066
+DOC_ID: pdf_067
+SHA256: 784d135f2e7e11e55e12961b493ded22fdae567b96e014a768955e9b63fae67e
+================================================================================
+
+═══ PAGE 001 ═══
+
+Energy Science Division
+®
+Commercial Real Estate Company REALTY CORPORATION
+Comprehensive HVAC/R Capacity Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 002 ═══
+
+PermaFrost NMR® Eﬃciency Report
+Commercial Real Estate Company Realty Corporation
+September, 2013
+Executive Summary
+         This report contains specific information regarding the installation of the energy conservation measure 
+(ECM) PermaFrost NMR® into one (1) package RTU heat pump, one (1) package modular DX unit located at 
+12100 Olympic Blvd. in Los Angeles, CA., and one (1) water-cooled chiller located at 909 North Sepulveda 
+Blvd. in El Segundo, CA. Detailed forensic performance testing (outlined later in this report) was performed 
+on the three units.  Following testing, each unit was treated with the proper amount and type of the 
+PermaFrost NMR® technology specially formulated for these types of systems.
+Measurement and Verification (M&V) was conducted to establish an initial energy baseline and a post 
+avoided energy-reporting period. The purpose of the testing was to show how the ECM improves the 
+thermal performance of any system it is installed in.
+The improvement in efficiency and restored capacity gained directly at each unit was solely attributable to 
+PermaFrost NMR® ECM. This is a result of the reversal of thermal inefficiency on the heat exchanger surfaces.
+Heat Pump / DX
+Following treatment with the ECM, the lobby heat pump (HVAC Equipment Manufacturer 12.5 ton) unit showed an effective 29.8% 
+reduction in kW/ton based on the exact capacity measured in the baseline M&V and the post gestation 
+M&V. The ECM also produced an increase cooling capacity of 33.3%; which equates to 2.25 tons. Prior to the 
+ECM, the unit produced a total of 6.76 tons of cooling as measured in-situ (one compressor engaged). After 
+the ECM, the average combined tonnage produced increased to 9.01 tons (one compressor engaged). This 
+increase in cooling capacity increase from the baseline performance levels led to an effective increase in COP 
+of 42.5% and a calculated reduction in kWh of 37.8%. All of these factors directly correlate to what Commercial Real Estate Company 
+Realty will realize in energy savings as they operate this unit in the future under the same parameters.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 003 ═══
+
+Following treatment with the ECM, the elevator room (Bard 5 ton) unit showed an effective 16.4% reduction 
+in kW/ton based on the exact capacity measured in the baseline M&V and the post gestation M&V. The ECM 
+also produced an increase cooling capacity of 29.5%; which equates to 1.17 tons. Prior to the ECM, the unit 
+produced a total of 3.96 tons of cooling as measured in-situ. After the ECM, the average combined tonnage 
+produced increased to 5.13 tons. This increase in cooling capacity increase from the baseline performance 
+levels led to an effective increase in COP of 20% and a calculated reduction in kWh of 23.9%. All of these 
+factors directly correlate to what Commercial Real Estate Company Realty will realize in energy savings as they operate this unit in the 
+future under the same parameters.
+Following treatment the two treated units mentioned above also showed a combined 31.5% increase in the 
+Enthalpy Delta across the coil versus the Baseline, which is a critical measurement used to determine the 
+thermodynamic enhancement brought about by the PermaFrost NMR® ECM. The RTU’s also showed a 
+significant improvement in refrigeration approach of 30.9%.
+Chiller
+Following treatment with the PermaFrost 
+NMR® technology and operating at 65% load 
+amps, the chiller showed an effective net 
+average 20.6% reduction in kW/ton and an 
+increase in capacity of 36.4%. The operating 
+tonnage grew substantially from 483.6 tons to 
+659.6 tons. This capacity increase from the 
+baseline performance level resulted in an 
+effective average increase in COP of 24.4%. All of these factors directly correlate to what Commercial Real Estate Company Realty will 
+realize in energy savings as they operate this chiller in the future under the same parameters.
+Following treatment with the PermaFrost NMR® technology, the refrigerant approach was also lowered 
+from 6.4°F to 1.1°F. This represents a 82.8% improvement in approach, which is another measureable way to 
+determine the thermodynamic enhancement brought about by the PermaFrost NMR® ECM.
+The result of the ECM improvements in all three (3) units) is an ROI to Commercial Real Estate Company Realty that is measured in months. 
+The tables of data used to determine the financial payback are available for review at the end of this report.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 004 ═══
+
+Energy Science Division
+Product Brief
+         PermaFrost NMR® is a multi-patented nanotechnology surface chemistry Energy Control Measure 
+(ECM) that uses Nucleo Molecular Regenerative® (NMR™) technology as its core agent. A sustainable, 
+one-time treatment with no down time required, PermaFrost NMR® lasts for at least 10 years in any type of 
+system in which it is installed. Examples of the types of commercial HVACR systems and equipment that 
+PermaFrost NMR® has proven success with are direct expansion air systems (DX); chilled water systems 
+(both flooded and DX; air and water cooled); ice making equipment; ammonia refrigeration plants (single 
+compressor and cascade) and variable refrigerant flow (VRF) designs. The equipment utilized in these 
+systems within our expanding portfolio of clients includes centrifugal (single and multi-stage), scroll, 
+reciprocating and screw configurations.
+The direct benefits of PermaFrost NMR® in any type of HVACR system are improved cooling performance, 
+increased capacity and improved refrigerant velocity – all of which allow systems to achieve set point 
+temperatures in a more rapid fashion which reduces compressor operating periods. The indirect benefits 
+resulting from the enhanced thermodynamic characteristics following treatment include reduced run time, 
+less kW hours used, less amp draw at the compressor, longer equipment life cycle time and a reduced 
+carbon footprint for Commercial Real Estate Company Realty.
+BOUNDARY LAYER
+OIL REMOVED
+BEFORE TREATMENT
+AFTER TREATMENT
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 005 ═══
+
+Measurement and Veriﬁcation Protocol
+The International Performance Measurement and Verification Protocol (IPMVP) was utilized in the 
+development of this report. The Association of Energy Engineers (AEE), The American Society of Heating, 
+Refrigeration and Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization 
+(EVO) accept the IPMVP as a global methodology for determining the effectiveness of energy conservation 
+methods and products.
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize. They 
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report. Option B is 
+defined as: All parameter measurements with the boundary of the ECM as the single source of 
+measurement. Savings are determined by field measurement of the energy use of the ECM affected 
+equipment or system and any performance enhancements versus the baseline data.
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the 
+savings and the length of the reporting period.  For the boundary utilized for Option B short-term 
+measurements are very useful as data when the variables are contained. The savings are calculated by 
+short-term measurements of baseline and energy reporting period (post), and /or engineering computations 
+using measurements of proxies of energy use. 
+The final computation follows the formula:
+Energy Science Division
+Option B savings = Baseline Energy – Reporting Period Energy
++/ - Routine Adjustments +/ - Non-Routine Adjustments
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 006 ═══
+
+Energy Conservation Method (ECM) Content
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the 
+effects of thermal degradation and fouling on the heat exchange surfaces. 
+A diagnostic examination of the pilot equipment was implemented to determine if the operational 
+conditions of the systems were satisfactory. Baseline M&V was recorded on each of the three units and then 
+the proper amount and type of PermaFrost NMR® was injected directly into the suction side of the 
+refrigerant loop. The gestation period for the Commercial Real Estate Company Realty pilot was 4 weeks. At the end of this gestation 
+period, Post M&V results were taken in the identical manner as in the baseline, taking special care to match 
+the same or very similar outside air temperatures as well as the wet bulb and dry bulb temperatures of the 
+air entering the respective coils. These are three of the most critical variables to contend with in an in-situ 
+HVAC testing situation. When analyzing all of the data in the baseline and post, only the lobby unit 
+required an amp adjustment slightly downwards due to the fact that the O.A.T. in the post was 6 degrees F 
+warmer. The other two units, the chiller and the elevator room, did not require any adjustments.
+The HVAC Equipment Manufacturer 12.5 ton unit’s (servicing the lobby) performance was validated at only 50% of its operating 
+capacity due to available building load. All measurements were taken with only one compressor operating 
+but both circuits were treated.
+  
+The following report produces the utilization of 
+the International Performance Measurement 
+and Verification Protocol (IPMVP) as the M&V 
+plan. Sara Neff, Vice President of Sustainability, 
+and Bill Wendt, Vice President of Facilities and 
+Engineering, of Commercial Real Estate Company Realty, and Sarah Woods 
+of CleanTek were all involved and witnessed 
+this pilot. The final calculations were performed 
+by Powertron Global®’s Forensic Mechanical 
+Engineer, [Senior Energy Engineer].  
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 007 ═══
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+BTUH = CFM * 4.5 * Wet Bulb Enthalpy Delta
+ 
+kW/Ton = kW / Actual Tonnage 
+ 
+Percentage Eﬃciency = Measured BTUH / Manufacturers Design BTUH
+ 
+Coeﬃcient of Performance (COP) = (12 / kW per ton /3.412)
+ 
+Actual Cooling Tons per Hour = Evaporator GPM X 8.34 * 60 * Chilled Water Delta T / 12,000 BTU 
+ 
+Refrigerant Approach = Supply Water Temp – Saturated Evaporator Temp (CH) or Supply Air  - 
+ 
+                                               Saturated Evaporator Temp (DX)
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 008 ═══
+
+Make
+Model
+Serial Number(s)
+Refrigerant Type
+Nominal Cooling Capacity in Tons  
+Age
+HVAC Equipment Manufacturer
+WCH150
+Z38102086D
+R-22
+12.5
+2002
+Bard
+AV604-400C
+1015291B3
+R-22
+5
+2001
+       Detailed Results
+System Description / Design Characteristics
+The Lobby unit is a heat pump and the efficiency gains brought about by PermaFrost NMR® can be utilized in 
+both heating and cooling mode. Given the internal load of the facility and national weather BIN data, it is 
+estimated that this RTU runs ~4,380 hours per year prior to the ECM being implemented. The elevator room unit 
+has a constant heat load and runs year around at an estimated ~4,500 hours per year prior to the ECM being 
+implemented.
+Baseline and Post Measurements
+The identical IPMVP following data points were recorded for Baseline and Post on 8/8/13 and 9/13/13 
+respectively using recently NIST-calibrated devices to insure measurement accuracy. For the Elevator Room 
+unit (Bard) the outside air temperatures as well as dry bulb temperatures entering the coil were the same in 
+both periods so no adjustments to the data was necessary. However, for the Lobby Unit (HVAC Equipment Manufacturer) the OAT was 
+higher in the post period for the Lobby unit therefore a weather adjustment was made and the amps were 
+adjusted slightly downwards by 5.4%. The adjustment only accounted for the post weather being 78 deg. F 
+(not 80) in the post due to the standard deviation +/- 2 degrees. The DB entering temps were matched. The 
+measurements are as follows: 
+Energy Science Division
+Elevator Room RTU
+Lobby RTU
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 009 ═══
+
+Energy Science Division
+Package RTU Elevator Room
+Package RTU Lobby
+BASELINE
+POST
+BASELINE
+POST
+489.1 V
+7.73 A
+38.3 F
+67 PSI
+120.4 F
+261 PSI
+72.9 F
+47 F
+60.7 F
+48.8 F
+1446
+47,501
+7.3
+5.56
+1.40
+2.50
+75 F
+489 V 
+8.36 A 
+40.1 F
+69.3 PSI
+117.6 F
+256 PSI
+72.9 F
+44.6 F
+59.8 F
+43.4 F
+1446
+61,556 
+9.46
+6.01
+1.71
+3.00
+75 F
+Voltage  
+Amperage  
+Suction Refrig Temp
+Suction Refrig Pressure
+Discharge Refrig Temp
+Discharge Refrig Pressure
+Entering Air DB Temp  
+Leaving Air DB Temp  
+Entering Air WB Temp  
+Leaving Air WB Temp  
+CFM Across Coils
+BTUH Capacity 
+Total WB Enthalpy Delta
+kW  
+kW/Ton 
+COP 
+Outside Air Temp 
+489.4 V
+14.20 A
+39.4 F
+67.7 PSI
+123.4 F
+274.9 PSI
+75 F
+62.5 F
+ 63.9 F
+57.4 F
+3986
+81,075
+4.52
+10.22
+1.51
+2.33
+74 F
+490 V 
+13.24 A 
+40 F
+68 PSI
+124 F
+275 PSI
+75 F
+60 F
+64 F
+55.1 F
+3986
+108,160  
+6.03
+9.54
+1.06
+3.32
+80 F
+MEASUREMENT
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 010 ═══
+
+Energy Science Division
+Results
+The following are the final calculated average performance measurement improvements following the 
+PermaFrost NMR® Post measurement periods on the two Commercial Real Estate Company Realty RTU’s.  
+PermaFrost NMR®: Determining the Payback Period for Commercial Real Estate Company Realty
+Utilizing data in the above charts, to obtain a true avoided energy cost and subsequent payback period for Commercial Real Estate Company 
+Realty for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true 
+energy savings resulting from the improvement in capacity. This greater capacity reduces the runtime hours and in 
+turn reduces the annual kWh expended in the Post. The true ROI comes from determining what the cost to run the 
+system was when operating at its original energy profile then subtracting the cost to operate the system at its newly 
+restored energy profile less the percentage of increased capacity. This regression calculation is the most scientific 
+method of accounting for the reduced number of hours the units will now run due to their increased capacity which 
+allows the units to reach set temperatures quicker and shut off sooner.
+.
+Improvements
+Lobby RTU kWh
+Elevator Room RTU kWh
+Lobby RTU Cooling Capacity in Tons 
+Elevator Room RTU Capacity in Tons
+Lobby RTU kW/Ton 
+Elevator Room RTU kW/Ton
+Lobby RTU COP
+Elevator Room RTU COP
+Lobby RTU Enthalpy Delta 
+Elevator Room RTU Enthalpy Delta
+Lobby RTU Approach
+Elevator Room Approach
+Post
+Baseline
+(37.8%)
+(23.9%)
+33.3%
+29.5%
+(29.8%)
+(16.4%)
+42.5%
+20%
+33.4%
+29.6%
+13.4%
+48.3%
+27,829
+25,945
+9.01
+5.13
+1.06
+1.17
+3.32
+3.00
+6.03
+9.46
+20.0
+4.5
+44,764
+34,094
+6.76
+3.96
+1.51
+1.40
+2.33
+2.50
+4.52
+7.30
+23.1
+8.7
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 011 ═══
+
+Energy Science Division
+Lobby RTU
+Baseline kWh        10.22 kW * 4,380 Annual Operating Hrs = 44,764 kWh
+Cost to Run Baseline        44,764 kWh * $.1331 = $5,958
+Post ECM kWh        9.54 kW * 4,380 Annual Operating Hrs = 41,785 kWh
+Revised kWh (based on avg. 33.4% restored capacity)        41,785 kWh * (1 - .334) = 27,829 kWh
+Revised Cost to Run Post        27,829 kWh * $.1331 = $3,704
+Avoided Energy Costs (Savings) Per Month        ($5,958 - $3,704) / 12 = $188
+Cost of ECM        $1,625
+ROI         $1,625 / $188 = 8.64 
+ 
+  ROI = 8.6 months
+Elevator Room RTU
+Baseline kWh        5.56 kW * 4500 Annual Operating Hrs = 25,020 kWh
+Cost to Run Baseline        25,020 kWh * $.1331 = $3,330
+Post ECM kWh        6.01kW * 4500 Annual Operating Hrs = 27,045 kWh
+Revised kWh (based on avg. 29.6% restored capacity)        27,045 kWh * (1 - .296) = 19,040 kWh
+Revised Cost to Run Post        19,040 kWh * $.1331 = $2,534
+Avoided Energy Costs (Savings) Per Month        ($3,330 - $2,534) / 12 = $66
+Cost of ECM        $625
+ROI        $625 / $66 = 9.47 
+ 
+ ROI = 9.5 months
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 012 ═══
+
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling Capacity in Tons  
+Age
+HVAC Equipment Manufacturer
+CVHE710
+L91L11593
+R-123
+500 
+1991
+       Detailed Results for HVAC Equipment Manufacturer Water-Cooled Chiller
+System Description / Design Characteristics
+It is estimated that the chiller runs ~3,744 hours per year prior to the ECM being implemented. Commercial Real Estate Company Realty 
+provided this annual runtime.
+Baseline and Post Measurements
+The identical IPMVP following data points were recorded for Baseline and Post on 8/9/13 and 9/13/13 
+respectively using recently NIST-calibrated devices to insure measurement accuracy. In this test, the outside 
+air temperatures and the incoming condenser water in both periods were identical so no adjustments to the 
+data was necessary. The measurements are as follows: 
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 013 ═══
+
+Energy Science Division
+POST
+BASELINE
+Voltage  
+Amperage  
+Suction Refrig Temp
+Suction Refrig Pressure
+Discharge Refrig Temp
+Discharge Refrig Pressure
+Chilled Water Leaving Temp  
+Chilled Water Entering Temp  
+Condenser Water Leaving Temp  
+Condenser Water Entering Temp
+Actual GPM
+Cooling Capacity (Tons) 
+Refrigerant Approach
+Chilled Water Delta T  
+Total kW  
+Calculated kW/Ton 
+COP 
+Outside Air Temp 
+476.9 V
+233 A
+39.6 F
+18.3 PSI
+116.6 F
+13.2 PSI
+46 F
+52.6 F
+80.3 F
+74 F
+1757
+483.6
+6.4 
+6.6 
+163.3
+.34
+10.41
+74 F
+478V 
+255 A 
+42.8 F
+ 17 PSI
+116.6 F
+13.5 PSI
+43.9 F
+52.9 F
+81 F
+74 F
+1757.6
+659.6  
+1.1
+9.0
+179.2
+.27
+12.95
+74 F
+MEASUREMENT
+Water-Cooled Chiller
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 014 ═══
+
+Energy Science Division
+Results
+PermaFrost NMR®: Determining the Payback Period for Commercial Real Estate Company Realty
+Utilizing data in the above charts, to obtain a true avoided energy cost and subsequent payback period for Commercial Real Estate Company 
+Realty for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true 
+energy savings resulting from the improvement in capacity. This greater capacity reduces the runtime hours and in 
+turn reduces the annual kWh expended in the Post. The true ROI comes from determining what the cost to run the 
+system was when operating at its original energy profile then subtracting the cost to operate the system at its newly 
+restored energy profile less the percentage of increased capacity. This regression calculation is the most scientific 
+method of accounting for the reduced number of hours the units will now run due to their increased capacity which 
+allows the units to reach set temperatures quicker and shut off sooner.
+Baseline kWh        163.3 kW * 3,744 Annual Operating Hrs = 611,395 kWh
+Cost to Run Baseline        611,395 kWh * $.1333 = $81,498.95
+Post ECM kWh        179.2 kW * 3,744 Annual Operating Hrs = 670,925 kWh
+Revised kWh (based on avg. 36.4% restored capacity)        670,925 kWh * (1 - .364) = 426,708 kWh
+Revised Cost to Run Post        426,708 kWh * $.1333 = $56,880.18
+Avoided Energy Costs (Savings) Per Month        ($81,498.95 - $56,880.18) / 12 = $2,051.56
+Cost of ECM        $14,375
+ROI        $14,375 / $2,051.56 = 7 months 
+ 
+ ROI = 7 months   
+Eﬃciency
+Improvements
+kWh
+kW per Ton*
+Operating Tonnage*
+COP
+Refrigerant Approach
+(30.3%) 
+(20.6%) 
+36.4%
+24.4%
+82.8%
+Post
+426,708*   
+.27 
+659.6 
+12.95
+1.1
+Baseline
+611,395 
+.34 
+483.6 
+10.41
+6.4
+(adjusted for
+increased capacity) 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 015 ═══
+
+Carbon Footprint Reduction
+In conclusion, regarding the carbon footprint reduction in respect to this project, Commercial Real Estate Company Realty will save the 
+environment 148 metric tons of green house gas emissions -carbon dioxide- as well as saved 209,771 
+(690,253 baseline – 480,482 post) kWh of power, for implementing this ECM in these 3 units.
+Energy Science Division
+The greenhouse gas emissions
+from 30.8 passenger vehicles
+each year.
+The CO2 emissions from 16,592
+gallons of gasoline consumed. 
+The CO2 emissions from 344
+barrels of oil consumed.
+The CO2 emissions from 6,167
+propane cylinders used for home barbeques. 
+The CO2 emissions from the electricity
+use of 20.4 homes for one year.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+

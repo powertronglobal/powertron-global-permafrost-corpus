@@ -1,0 +1,88 @@
+ 
+ 
+ 
+ 
+	  	  EXECUTIVE	  SUMMARY	  
+ 
+	  
+	  
+	  
+Average	  efficiency	  improvements	  per	  system	  
+	  
+Unit	  #05-­‐3943	  (VIP6)	  
+kW/Ton	  
+Capacity-­‐
+Tons	  
+COP	  
+EER	  
+Enthalpy	  
+Baseline	  	  	  	  6-­‐13	  Feb	  2017	  
+2.54	  
+3.74	  
+1.55	  
+5.28	  
+4.04	  
+Post	  	  	  	  	  	  	  	  	  	  	  7-­‐14	  Mar	  2017	  
+0.98	  
+8.35	  
+3.67	  
+12.52	  
+5.83	  
+Improvement	  %	  
+61.4%	  
+123.3%	  
+136.8%	  
+137.1%	  
+44.3%	  
+	  
+	  
+	  
+	  
+UNIT	  #05-­‐3942	  (VIP7)	  
+kW/Ton	  
+Capacity-­‐
+Tons	  
+COP	  
+EER	  
+Enthalpy	  
+Baseline	  	  	  	  6-­‐13	  Feb	  2017	  
+2.09	  
+3.76	  
+1.71	  
+5.85	  
+3.24	  
+Post	  	  	  	  	  	  	  	  	  	  	  7-­‐14	  Mar	  2017	  
+0.88	  
+8.71	  
+4.10	  
+13.99	  
+7.54	  
+Improvement	  %	  
+57.9%	  
+131.6%	  
+139.8%	  
+139.1%	  
+132.7%	  
+	  
+ 
+ 
+ 
+1.	  	  	  	  	  	  Introduction	  
+Grupo	  QSR Franchise A	  tested	  from	  22	  February	  2017	  to	  13	  June	  2017	  at	  the	  Global QSR’s	  
+Utatlan	  Store	  in	  Guatemala	  City,	  Guatemala	  to	  verify	  Powertron	  Global’s	  
+PermaFrost	  NMR®	  energy	  efficiency	  improvement	  effect	  on	  2	  x	  10.5-­‐Ton	  package	  
+DX	  units	  refrigeration	  circuits.	  
+	  
+• 
+Unit	  #05-­‐3943	  (VIP	  6)	  -­‐	  York	  DM120C00A2AAA3A,	  Serial	  #	  NDMM036540	  
+• 
+Unit	  #05-­‐3942	  (VIP	  7)	  -­‐	  York	  DM120C00A2AAA3A,	  Serial	  #	  NDMM036460	  
+• 
+Both	  units	  were	  Manufactured	  in	  2003	  
+• 
+Both	  units	  are	  equipped	  with	  R-­‐22	  Refrigerant	  
+	  
+The	  testing	  included	  monitoring	  both	  RTUs	  operation	  before	  and	  after	  (PRE	  and	  
+POST)	  PermaFrost	  NMR®	  treatment	  to	  verify	  the	  amount	  of	  cooling	  capacity	  (tons)	  
+restoration	  and	  the	  resultant	  kW/ton	  energy	  savings	  improvement.	  	  
+	  

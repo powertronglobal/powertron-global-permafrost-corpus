@@ -1,0 +1,121 @@
+{
+  "doc_id": "major-telecom-e-meter-502",
+  "slug": "major-telecom-e-meter-502",
+  "title": "Major Telecom E 502 Field Study",
+  "source_type": "tabular",
+  "source_folder": "Major Telecom E Cell Tower Hub Meter 502 Costa Mesa CA",
+  "source_files": [
+    {
+      "filename": "meter_502_analysis_configuration.csv",
+      "type": "csv",
+      "rows": 23,
+      "period": "unknown",
+      "size_bytes": 758
+    },
+    {
+      "filename": "meter_502_baseline_bins.csv",
+      "type": "csv",
+      "rows": 13,
+      "period": "baseline",
+      "size_bytes": 765
+    },
+    {
+      "filename": "meter_502_combined_raw_data.csv",
+      "type": "csv",
+      "rows": 40248,
+      "period": "unknown",
+      "size_bytes": 1714389
+    },
+    {
+      "filename": "meter_502_comparison.csv",
+      "type": "csv",
+      "rows": 12,
+      "period": "unknown",
+      "size_bytes": 914
+    },
+    {
+      "filename": "meter_502_file_inventory.csv",
+      "type": "csv",
+      "rows": 11,
+      "period": "unknown",
+      "size_bytes": 923
+    },
+    {
+      "filename": "meter_502_hourly_baseline.csv",
+      "type": "csv",
+      "rows": 336,
+      "period": "baseline",
+      "size_bytes": 16568
+    },
+    {
+      "filename": "meter_502_hourly_combined.csv",
+      "type": "csv",
+      "rows": 672,
+      "period": "unknown",
+      "size_bytes": 31216
+    },
+    {
+      "filename": "meter_502_hourly_post.csv",
+      "type": "csv",
+      "rows": 336,
+      "period": "post",
+      "size_bytes": 23254
+    },
+    {
+      "filename": "meter_502_post_bins.csv",
+      "type": "csv",
+      "rows": 19,
+      "period": "post",
+      "size_bytes": 982
+    },
+    {
+      "filename": "meter_502_raw_baseline_data.csv",
+      "type": "csv",
+      "rows": 20124,
+      "period": "baseline",
+      "size_bytes": 875337
+    },
+    {
+      "filename": "meter_502_raw_post_data.csv",
+      "type": "csv",
+      "rows": 20124,
+      "period": "post",
+      "size_bytes": 839120
+    },
+    {
+      "filename": "meter_502_statistical_summary.csv",
+      "type": "csv",
+      "rows": 9,
+      "period": "unknown",
+      "size_bytes": 561
+    },
+    {
+      "filename": "502 Baseline_6ad98dc0-a6e0-4975-ba14-8affc3c85599_9581568.csv",
+      "type": "csv",
+      "rows": 44920,
+      "period": "baseline",
+      "size_bytes": 10735584
+    },
+    {
+      "filename": "502 Post_6ad98dc0-a6e0-4975-ba14-8affc3c85599_1569118.csv",
+      "type": "csv",
+      "rows": 7723,
+      "period": "post",
+      "size_bytes": 2081764
+    }
+  ],
+  "data_resolution": {
+    "type": "time_series",
+    "total_rows": 134570
+  },
+  "company": {
+    "name": "Major Telecom E",
+    "industry": "Telecommunications"
+  },
+  "created_at": "2026-01-05T21:28:21.079291",
+  "processing_version": "1.0.0",
+  "ashrae_compliance": {
+    "standard": "ASHRAE Guideline 14-2014",
+    "note": "High-resolution time-series data supports detailed analysis"
+  }
+}

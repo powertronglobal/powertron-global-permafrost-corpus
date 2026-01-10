@@ -1,0 +1,991 @@
+# QSR Chain C.pdf
+
+Energy Science Division
+
+®
+
+Major Restaurant Chain’ DONUTS
+
+Comprehensive HVAC/R Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Performance Report on PermaFrost NMR® ECM
+
+Major Restaurant Chain’ Donuts - 2 locations
+
+September 6, 2012
+
+Executive Summary
+
+This report contains specific information regarding the installation of the energy control measure (ECM)
+
+PermaFrost NMR®.  Though all of the HVAC and refrigeration units supporting the two Major Restaurant Chain Donuts
+
+locations involved in the pilot were treated, detailed forensic performance testing (outlined later in this
+
+report) was performed on 50% of the operating units at each location.  The three units tested were all Carrier
+
+packaged rooftop units using R22 refrigerant and totaling 13 tons (one 5-ton unit and two 4-ton units).
+
+These two particular franchise locations are part of a series of stores owned by Chandresh Patel in the
+
+Detroit metropolitan area.
+
+The substantial improvement in efficiency and restored capacity gained directly at the units was solely
+
+attributable to the PermaFrost NMR® ECM.  The units now provide cooler supply air with greater efficiency
+
+due to the restoration of the heat transfer ability of the evaporator and condenser coils, both of which have a
+
+direct correlation to an increase in the number of Btuh the machines are now capable of producing.
+
+Total system efficiency across all three units improved by an average of 21.8%, while the EER across the
+
+units rose by 25.9%. There was an overall increase in coil capacity of 28,260 Btuh, equating to the restoration
+
+of 2.36-tons of capacity or 18.1%.  There is also a reduction of 19.5% in both total power and watts per ton,
+
+which is another measurable way to view the thermodynamic enhancement of the PermaFrost NMR®
+
+ECM.  Without any power company rebates factored in, the result of the average ECM improvements is an
+
+ROI to Major Restaurant Chain Donuts of just 9.6 months based on the runtime information provided to the team by the
+
+store owners.  The tables of data and financial calculations are available for review at the end of this report.
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Product Brief
+
+PermaFrost NMR® is a multi-patented nanotechnology surface science Energy Control Measure
+
+(ECM) that uses Nucleo Molecular Regenerative (NMR) technology as its core agent.  A sustainable,
+
+one-time treatment with no down time required, PermaFrost NMR® lasts for the remaining life of any
+
+type of system in which it is installed – DX (direct expansion air and chilled water systems), Chillers
+
+(screw, reciprocating, scroll and centrifugal), heat pumps, ice making equipment.  Specialized
+
+applications include computer room cooling and dehumidification systems, chiller plants (water and
+
+ice production applications), domestic and industrial refrigeration (ammonia low and ultra low
+
+temperature), air-cooled single application water chillers and split and package rooftop HVAC
+
+equipment.
+
+The direct benefits of PermaFrost NMR® are improved cooling performance, increased capacity, and
+
+improved refrigerant velocity – all of which allows a system to achieve set point temperatures in a more
+
+rapid fashion that reduces system loading and operating periods.  The indirect benefits resulting from
+
+the enhanced thermodynamic characteristics following treatment include reduced run time, less kW
+
+hours used, less amp draw at the compressor, less metallic wear and longer overall equipment life.
+
+Energy Science Division
+
+OIL BUILD-UP
+OIL REMOVED
+
+BEFORE TREATMENT
+AFTER TREATMENT
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Measurement and Veriﬁcation Protocol
+
+The International Performance Measurement and Verification Protocols (IPMVP) are used to develop this
+
+report. The Association of Energy Engineers (AEE), American Society of Heating, Refrigeration and
+
+Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization (EVO) accept the
+
+IPMVP as a global methodology for determining the effectiveness of energy conservation methods and
+
+products.
+
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize.  They
+
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report.  Option B is
+
+defined as: All parameter measurements with the boundary of the ECM (Permafrost NMR®) as the single
+
+source of measurement.  Savings are determined by field measurement of the energy use of the ECM
+
+affected equipment or system and any performance enhancements versus the baseline data.
+
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the
+
+savings and the length of the reporting period.  For the boundary utilized for Option B short-term
+
+measurements are very useful as data when the variables are contained. The savings are calculated by
+
+short-term measurements of baseline and reporting period energy, and /or engineering computations using
+
+measurements of proxies of energy use.
+
+The final computation follows the formula:
+
+Energy Science Division
+
+Option B savings = Baseline Energy – Reporting Period Energy
+
++ - Routine adjustments + - Non-Routine Adjustments
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Conservation Method (ECM) Content
+
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the
+
+effects of thermal degradation and fouling on the heat exchange surfaces.
+
+A diagnostic examination of the pilot equipment was implemented to determine if the unit’s operational
+
+conditions were satisfactory. Baseline measurements were recorded and then the proper amount and type of
+
+PermaFrost NMR® was injected.  The product was then allowed four (4) weeks to seat itself into the metal
+
+surfaces before post measurements were taken to establish the efficiency gains.
+
+The following report produces the utilization of the IPMVP International Performance Measurement and
+
+Verification Protocol as the M&V plan.  The final calculations were performed by Powertron Global’s Senior
+
+Energy Engineer [Senior Energy Engineer] ME/CEM/CMC/CMVP.
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+kW = Volts * Amps * 1.47 (Power Factor .85 *1.732) - for 3-Phase
+
+Delta T = Return Air DB – Supply Air DB
+
+Enthalpy = Return Air WB Deg. F and Supply Air WB Deg. F Converted to Enthalpy
+
+Actual Btuh Capacity = Measured CFM X 4.5 * Enthalpy Delta (Baseline – Post)
+
+System Eﬃciency % = Actual Coil Capacity Btuh / Nominal Coil Capacity Btuh
+
+EER = Btuh / Adjusted Watts
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Appendix A
+
+Taylor, Michigan - Major Restaurant Chain’ Donuts Location
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Make
+
+Model
+
+Serial
+
+Refrigerant Type
+
+Nominal Cooling Capacity Btuh / tons
+
+CFM
+
+Carrier
+
+48TFE006A511
+
+1202G10253
+
+R22
+
+60,000 Btuh / 5 tons
+
+1,900
+
+System Description / Design Characteristics
+
+This unit provides cooling for the kitchen area of the store and is conservatively estimated to run 5,760
+
+hours per year.
+
+Baseline Measurement Period Selection
+
+The following data was recorded on 8/3/2012 using recently NIST calibrated devices to insure
+
+measurement accuracy.  The results were recorded as a result of the implementation of the IPMVP Protocol.
+
+Energy Science Division
+
+Voltage
+
+Amperage
+
+Suction Refrigerant  Temp
+
+Discharge Refrigerant Temp
+
+Entering Air Temp DB
+
+Leaving Air Temp DB
+
+Entering Air Temp WB
+
+Leaving Air Temp WB
+
+Actual CFM
+
+Calculated Coil Capacity Btuh / tons
+
+Enthalpy Delta
+
+Calculated Total Watts
+
+Calculated Watts per Ton
+
+OAT / RH
+
+241.9V
+
+16.9A
+
+42.6 F
+
+122 F
+
+73.3  F
+
+54 F
+
+61 F
+
+51.8 F
+
+1,900
+
+49,846 Btuh / 4.15 tons
+
+5.83
+
+6,009.5
+
+1,448 CWPT
+
+89.1 F / 45%
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Reporting Period (Post)
+
+The identical IPMVP data recordings from the baseline (including insertion depths with probes) were
+
+recorded on 9/4/2012 using the same recently NIST calibrated devices to insure measurement accuracy.
+
+Given the 9% cooler outdoor temperature in the Post, the compressor Amps (70% of the total Amps) were
+
+adjusted upward by 9%.  This adjustment then permeates through to the Post Watts as well as the Watts per
+
+Ton.  The measurements are as follows:
+
+Results
+
+The following are the final calculated performance measurements (detailed below the chart) after performing
+
+the regression analysis to account to the restored capacity brought about by PermaFrost NMR®.
+
+Energy Science Division
+
+Voltage
+
+Normalized Amperage
+
+Suction Refrigerant Temp
+
+Discharge Refrigerant Temp
+
+Entering Air Temp DB
+
+Leaving Air Temp DB
+
+Entering Air Temp WB
+
+Leaving Air Temp WB
+
+Actual CFM
+
+Calculated Coil Capacity Btuh / tons
+
+Enthalpy Delta
+
+Normalized Total Watts
+
+Normalized Watts per Ton
+
+OAT / RH
+
+239.6V
+
+17.02 A
+
+41.9 F
+
+113.5 F
+
+73.1 F
+
+52.3 F
+
+61.2 F
+
+50.5 F
+
+1,900
+
+57,370 Btuh / 4.78 tons
+
+6.71
+
+5,995
+
+1,254 NWPT
+
+81 F / 65%
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Eﬃciency Improvements
+
+Adjusted Total Watts
+Btuh Capacity
+System Eﬃciency %
+Enthalpy Delta
+Adjusted Watts per Ton
+EER
+
+13.3%
+15.1%
+15.1%
+15.1%
+13.3%
+15.4%
+
+Energy Reporting Period
+
+5,995
+57,370
+95.6%
+6.71
+1,254
+9.57
+
+Baseline
+
+6,921
+49,846
+83%
+5.83
+1,447
+8.29
+
+Utilizing the data in the above charts, the following steps were taken to determine a very accurate ROI for
+
+Major Restaurant Chain Donuts for implementing this ECM:
+
+Baseline kWh = (6009.5 CTW / 1,000) * 5,760 Annual Operating Hrs = 34,615 kWh
+
+Baseline Cost To Run = 34,615 kWh * $.105 = $3,635
+
+Regression Analysis is then used to account for amount of tonnage restored to Taylor Unit
+
+Adjusted Base Tonnage = 4.78 tons (equates to tonnage in ERP)
+
+Adjusted Total Watts = 1,448 WPT * 4.78 tons = 6,917 W
+
+Adjusted Base kWh = (6,921 TW/1,000) * 5,760 Annual Operating Hrs = 39,865 kWh
+
+Revised Cost to Run Prior to ECM = 39,865 kWh * $.105 = $4,186
+
+Post ECM kWh = (5,995 NTW / 1,000) * 5,760 Annual Operating Hrs = 34,531 kWh
+
+Cost to Run After ECM = 34,531 kWh * $.105 = $3,626
+
+Cost Savings per Month = ($4,186 - $3,626) / 12 = $46.66
+
+Cost of PermaFrost NMR® installed @ $625 / $46.66 = 13.4
+
+ROI = 13.4 months
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Appendix B
+
+Dearborn, Michigan - Major Restaurant Chain’ Donuts Location Unit #1
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Make
+
+Model
+
+Serial
+
+Refrigerant Type
+
+Nominal Cooling Capacity Btuh / tons
+
+CFM
+
+Carrier
+
+48HUE005-561
+
+3604G30-279
+
+R22
+
+48,000 Btuh / 4 tons
+
+1,600
+
+System Description / Design Characteristics
+
+This unit provides cooling for the Front Counter area of the store and is estimated to run 5,760 hours per
+
+year.
+
+Baseline Measurement Period Selection
+
+The following data was recorded on 8/3/2012 using recently NIST calibrated devices to insure
+
+measurement accuracy. The results were recorded as a result of the implementation of the IPMVP Protocol.
+
+Energy Science Division
+
+Voltage
+
+Amperage
+
+Suction Refrigerant  Temp
+
+Discharge Refrigerant Temp
+
+Entering Air Temp DB
+
+Leaving Air Temp DB
+
+Entering Air Temp WB
+
+Leaving Air Temp WB
+
+Actual CFM
+
+Actual Coil Capacity Btuh / tons
+
+Enthalpy Delta
+
+Calculated Total Watts
+
+Calculated Watts per Ton
+
+OAT / RH
+
+210.3V
+
+14.8A
+
+41.7 F
+
+110.5 F
+
+72.2  F
+
+55 F
+
+56.4 F
+
+48.5 F
+
+1,600
+
+33,264 Btuh / 2.77 tons
+
+4.62
+
+4,575.3
+
+1,652 WPT
+
+91 F / 53%
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Reporting Period (Post)
+
+The identical IPMVP data recordings from the baseline (including insertion depths with probes) were
+
+recorded on 9/4/2012 using the same recently NIST calibrated devices to insure measurement accuracy.
+
+They are as follows:
+
+Results
+
+The following are the final test results from the unit after normalizing for cooler weather in the post and
+
+adjusting for the capacity regression analysis in the baseline.
+
+Energy Science Division
+
+Voltage
+
+Normalized Amperage
+
+Suction Refrigerant Temp
+
+Discharge Refrigerant Temp
+
+Entering Air Temp DB
+
+Leaving Air Temp DB
+
+Entering Air Temp WB
+
+Leaving Air Temp WB
+
+Actual CFM
+
+Actual Coil Capacity Btuh / tons
+
+Enthalpy Delta
+
+Normalized Total Watts
+
+Normalized Watts per Ton
+
+OAT / RH
+
+211.2V
+
+13.69 A
+
+38.9 F
+
+105.4 F
+
+73 F
+
+53.3 F
+
+60.3F
+
+50.1 F
+
+1,600
+
+45,432 Btuh / 3.79 tons
+
+6.31
+
+4,250
+
+1,121 NWPT
+
+82 F / 70%
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Utilizing the data in the above charts, the following steps were taken to determine a very accurate ROI for
+
+Major Restaurant Chain Donuts for implementing this ECM:
+
+Baseline kWh = (4,575.3 CTW / 1,000) * 5,760 Annual Operating Hrs = 26,354 kWh
+
+Baseline Cost To Run = 26,354 kWh * $.135 = $3,558
+
+Regression Analysis is then used to account for amount of tonnage restored to Taylor Unit
+
+Adjusted Base Tonnage = 3.79 tons (equates to tonnage in ERP)
+
+Adjusted Total Watts = 1,652 WPT * 3.79 tons = 6,261 W
+
+Adjusted Base kWh = (6,261 TW/1,000) * 5,760 Annual Operating Hrs = 36,063 kWh
+
+Revised Cost to Run Prior to ECM = 36,063 kWh * $.135 = $4,869
+
+Post ECM kWh = (4,250 NTW / 1,000) * 5,760 Annual Operating Hrs = 24,480 kWh
+
+Cost to Run After ECM = 24,480 kWh * $.135 = $3,305
+
+Cost Savings per Month = ($4,869 - $3,305) / 12 = $130.33
+
+Cost of PermaFrost NMR® installed @ $500 / $130.33 = 3.8
+
+ROI = 3.8 months
+
+Eﬃciency Improvements
+
+Adjusted Total Watts
+Btuh Capacity
+System Eﬃciency %
+Enthalpy Delta
+Adjusted Watts per Ton
+EER
+
+32%
+36.6%
+36.6%
+36.6%
+32%
+47%
+
+Energy Reporting Period
+
+4,250
+45,432
+94.6%
+6.31
+1,121 
+10.69
+
+Baseline
+
+6,261
+33,264
+69.3%
+4.62
+1,652
+7.27
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Appendix C
+
+Dearborn, Michigan -  Major Restaurant Chain’ Donuts Location Unit #2
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Make
+
+Model
+
+Serial
+
+Refrigerant Type
+
+Nominal Cooling Capacity Btuh / tons
+
+CFM
+
+Carrier
+
+48HJE005-561
+
+3604G30-282
+
+R22
+
+48,000 Btuh / 4 tons
+
+1,600
+
+System Description / Design Characteristics
+
+This unit provides cooling for the front dining area of the store and is estimated to run 5,760 hours per year.
+
+Baseline Measurement Period Selection
+
+The following data was recorded on 8/3/2012 using recently NIST calibrated devices to insure
+
+measurement accuracy. The results were recorded as a result of the implementation of the IPMVP Protocol.
+
+Energy Science Division
+
+Voltage
+
+Amperage
+
+Suction Refrigerant  Temp
+
+Discharge Refrigerant Temp
+
+Entering Air Temp DB
+
+Leaving Air Temp DB
+
+Entering Air Temp WB
+
+Leaving Air Temp WB
+
+Actual CFM
+
+Actual Coil Capacity Btuh / tons
+
+Enthalpy Delta
+
+Calculated Total Watts
+
+Calculated Watts per Ton
+
+OAT / RH
+
+210.3V
+
+14.1A
+
+38.7 F
+
+119 F
+
+74.8  F
+
+54.6 F
+
+57.7 F
+
+48 F
+
+1,600
+
+41,184 Btuh / 3.43 tons
+
+5.72
+
+4,358.9
+
+1,271 WPT
+
+91 F / 53%
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Reporting Period (Post)
+
+The identical IPMVP data recordings from the baseline (including insertion depths with probes) were
+
+recorded on 9/4/2012 using the same recently NIST calibrated devices to insure measurement accuracy.
+
+They are as follows:
+
+Results
+
+The following are the final test results from the unit after normalizing for cooler weather in the post and
+
+adjusting for the capacity regression analysis in the baseline.
+
+Energy Science Division
+
+Voltage
+
+Normalized Amperage
+
+Suction Refrigerant Temp
+
+Discharge Refrigerant Temp
+
+Entering Air Temp DB
+
+Leaving Air Temp DB
+
+Entering Air Temp WB
+
+Leaving Air Temp WB
+
+Actual CFM
+
+Actual Coil Capacity Btuh / tons
+
+Enthalpy Delta
+
+Normalized Total Watts
+
+Normalized Watts per Ton
+
+OAT / RH
+
+210.1V
+
+13.9 A
+
+39.9 F
+
+109.9 F
+
+70 F
+
+53.9 F
+
+58.8 F
+
+47.9 F
+
+1,600
+
+46,800 Btuh / 3.9 tons
+
+6.5
+
+4,293
+
+1,101 WPT
+
+82 F / 70%
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Utilizing the data in the above charts, the following steps were taken to determine a very accurate ROI for
+
+Major Restaurant Chain Donuts for implementing this ECM:
+
+Baseline kWh = (4,358.9 CTW / 1,000) * 5,760 Annual Operating Hrs = 25,107 kWh
+
+Baseline Cost To Run = 25,107 kWh * $.135 = $3,389
+
+Regression Analysis is then used to account for amount of tonnage restored to Taylor Unit
+
+Adjusted Base Tonnage = 3.9 tons (equates to tonnage in ERP)
+
+Adjusted Total Watts = 1,271 WPT * 3.9 tons = 4,957 ATW
+
+Adjusted Base kWh = (4,957 ATW/1,000) * 5,760 Annual Operating Hrs = 28,552 kWh
+
+Revised Cost to Run Prior to ECM = 28,552 kWh * $.135 = $3,855
+
+Post ECM kWh = (4,293 NTW / 1,000) * 5,760 Annual Operating Hrs = 24,728 kWh
+
+Cost to Run After ECM = 24,728 kWh * $.135 = $3,338
+
+Cost Savings per Month = ($3,855 - $3,338) / 12 = $43
+
+Cost of PermaFrost NMR® installed @ $500 / $43 = 11.7
+
+ROI = 11.7 months
+
+Eﬃciency Improvements
+
+Adjusted Total Watts
+Btuh Capacity
+System Eﬃciency %
+Enthalpy Delta
+Adjusted Watts per Ton
+EER
+
+13.3%
+13.6%
+13.6%
+13.6%
+13.3%
+15.4%
+
+Energy Reporting Period
+
+4,293
+46,800
+97.5%
+6.5
+1,101
+10.9
+
+Baseline
+
+4,957
+41,184
+85.8%
+5.72
+1,271
+9.45
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+Certiﬁcation
+
+[Engineering Consultant], P.E., for EET designed and oversaw the installation of the energy monitoring equipment
+
+and the integrity of the data collected pre and post PermaFrost NMR® treatment.
+
+Place P.E. Stamp in Area Above
+
+P.E. License Number:
+
+P.E. Printed Full Name:
+
+Signature:
+
+Company:
+
+Title:
+
+MD PE License number 22718
+
+[Engineering Consultant]
+
+Energy Eﬃcient Technologies, LLC
+
+President
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

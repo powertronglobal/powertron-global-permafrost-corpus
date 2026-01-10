@@ -1,0 +1,291 @@
+{
+  "title": "Powertron Global Data Room Resource Index",
+  "source_url": "https://powertronglobal.com/data-room-due-diligence/",
+  "scraped_date": "2025-12-28",
+  "total_resources": 28,
+  "total_size_mb": 64,
+  "categories": {
+    "executive_materials": {
+      "count": 5,
+      "resources": [
+        {
+          "name": "Powertron Overview Deck",
+          "filename": "2022_Powertron_Overview_Deck-1.pdf",
+          "url": "/wp-content/uploads/2022/01/2022_Powertron_Overview_Deck-1.pdf",
+          "type": "PDF",
+          "size_bytes": 9684721
+        },
+        {
+          "name": "Nanotechnology Fact Sheet",
+          "filename": "2022_NMR-Fact-Sheet.pdf",
+          "url": "/wp-content/uploads/2022/01/2022_NMR-Fact-Sheet.pdf",
+          "type": "PDF",
+          "size_bytes": 309435
+        },
+        {
+          "name": "MBE Certification",
+          "filename": "2022_Argent-MBE.pdf",
+          "url": "/wp-content/uploads/2022/01/2022_Argent-MBE.pdf",
+          "type": "PDF",
+          "size_bytes": 230456
+        },
+        {
+          "name": "CapEx Accounting Guide",
+          "filename": "2022_PermaFrost-NMR-as-a-Capital-Expense.pdf",
+          "url": "/wp-content/uploads/2022/01/2022_PermaFrost-NMR-as-a-Capital-Expense.pdf",
+          "type": "PDF",
+          "size_bytes": 204650
+        },
+        {
+          "name": "Sustainability Fact Sheet",
+          "filename": "2022_Sustainability-Fact-Sheet-1.pdf",
+          "url": "/wp-content/uploads/2022/01/2022_Sustainability-Fact-Sheet-1.pdf",
+          "type": "PDF",
+          "size_bytes": 251179
+        }
+      ]
+    },
+    "technical_lab_reports": {
+      "count": 6,
+      "resources": [
+        {
+          "name": "UL Report 2022",
+          "filename": "2022_UL-Report.pdf",
+          "url": "/wp-content/uploads/2022/01/2022_UL-Report.pdf",
+          "type": "PDF",
+          "size_bytes": 235165,
+          "credibility": "CRITICAL",
+          "notes": "Underwriters Laboratories third-party lab validation"
+        },
+        {
+          "name": "FAU/Oak Ridge Lab Report",
+          "filename": "2022_Oakridge_FAU-report.pdf",
+          "url": "/wp-content/uploads/2022/01/2022_Oakridge_FAU-report.pdf",
+          "type": "PDF",
+          "size_bytes": 13516378,
+          "credibility": "CRITICAL",
+          "notes": "225-page academic report by Dr. [Principal Researcher, Ph.D., P.E.] - 61 tests across 38 sites"
+        },
+        {
+          "name": "UL Verified Analytics",
+          "filename": "2022_UL_Verified_Report-.pdf",
+          "url": "/wp-content/uploads/2022/01/2022_UL_Verified_Report-.pdf",
+          "type": "PDF",
+          "size_bytes": 86181,
+          "notes": "UL certification of M&V measurement platform"
+        },
+        {
+          "name": "Third-Party M&V Report",
+          "filename": "2022_3rd-Party-MV.pdf",
+          "url": "/wp-content/uploads/2023/05/2022_3rd-Party-MV.pdf",
+          "type": "PDF",
+          "size_bytes": 141004,
+          "notes": "Independent verification methodology"
+        },
+        {
+          "name": "Major Bank B MDB",
+          "filename": "2022_Major Bank B_MDB.pdf",
+          "url": "/wp-content/uploads/2022/01/2022_Major Bank B_MDB.pdf",
+          "type": "PDF",
+          "size_bytes": 4757042,
+          "credibility": "CRITICAL",
+          "notes": "UL verified BOTH results AND testing procedures - validates entire M&V methodology"
+        },
+        {
+          "name": "F2 FMV Platform Deck",
+          "filename": "2022_F2_FMV_deck.pdf",
+          "url": "/wp-content/uploads/2022/05/2022_F2_FMV_deck.pdf",
+          "type": "PDF",
+          "size_bytes": 4529877,
+          "notes": "IoT M&V documentation"
+        }
+      ]
+    },
+    "longevity_studies": {
+      "count": 7,
+      "resources": [
+        {
+          "name": "Product Longevity Overview",
+          "filename": "2022_Product-Longevity.pdf",
+          "url": "/wp-content/uploads/2022/01/2022_Product-Longevity.pdf",
+          "type": "PDF",
+          "size_bytes": 239041
+        },
+        {
+          "name": "Major Global Bank A Longevity",
+          "filename": "2022_Major Global Bank A_Longevity_report.pdf",
+          "url": "/wp-content/uploads/2022/01/2022_Major Global Bank A_Longevity_report.pdf",
+          "type": "PDF",
+          "size_bytes": 6838077,
+          "credibility": "HIGH",
+          "notes": "6+ year longevity study, 17.76% COP improvement sustained - major financial enterprise"
+        },
+        {
+          "name": "Restaurant Chain A Longevity",
+          "filename": "2022_Restaurant-Chain-A_1.pdf",
+          "url": "/wp-content/uploads/2022/01/2022_Restaurant-Chain-A_1.pdf",
+          "type": "PDF",
+          "size_bytes": 3467055,
+          "credibility": "HIGH",
+          "notes": "2-year longevity study, 31.6% COP improvement - national restaurant chain"
+        },
+        {
+          "name": "QSR Chain A Longevity",
+          "filename": "2022_QSR Chain A-report_longevity_1.pdf",
+          "url": "/wp-content/uploads/2022/01/2022_QSR Chain A-report_longevity_1.pdf",
+          "type": "PDF",
+          "size_bytes": 1778840,
+          "credibility": "HIGH",
+          "notes": "2-year study, 10 stores, 11.1% kWh reduction - national restaurant chain"
+        },
+        {
+          "name": "Military Base A Report",
+          "filename": "Military_Base_A.pdf",
+          "url": "/wp-content/uploads/2025/01/Military_Base_A.pdf",
+          "type": "PDF",
+          "size_bytes": 612552,
+          "credibility": "CRITICAL",
+          "notes": "US Military installation - 11.1-12.5% kWh reduction, CEM validated"
+        },
+        {
+          "name": "Defense Agency A Report",
+          "filename": "Defence-Logistics-Agency.pdf",
+          "url": "/wp-content/uploads/2025/01/Defence-Logistics-Agency.pdf",
+          "type": "PDF",
+          "size_bytes": 1039895,
+          "credibility": "CRITICAL",
+          "notes": "US DoD installation - 30%+ Delta T improvement"
+        },
+        {
+          "name": "EMIP Demonstration",
+          "filename": "EMIP-Demonstration.pdf",
+          "url": "/wp-content/uploads/2025/01/EMIP-Demonstration.pdf",
+          "type": "PDF",
+          "size_bytes": 2370453,
+          "credibility": "CRITICAL",
+          "notes": "Military Base B - 21% improvement, government energy program"
+        }
+      ]
+    },
+    "safety_compliance": {
+      "count": 4,
+      "resources": [
+        {
+          "name": "Safety Data Sheet (16-section)",
+          "filename": "2022_NMR-SDS-16-section-POE-and-MIN.pdf",
+          "url": "/wp-content/uploads/2022/01/2022_NMR-SDS-16-section-POE-and-MIN.pdf",
+          "type": "PDF",
+          "size_bytes": 492046
+        },
+        {
+          "name": "Certificate of Analysis",
+          "filename": "Texas_Oiltech_PF-NMR_COA.pdf",
+          "url": "/wp-content/uploads/2024/10/Texas_Oiltech_PF-NMR_COA.pdf",
+          "type": "PDF",
+          "size_bytes": 964531
+        },
+        {
+          "name": "Warranties & Insurance",
+          "filename": "Warranties-Insurance_v2024.pdf",
+          "url": "/wp-content/uploads/2024/03/Warranties-Insurance_v2024.pdf",
+          "type": "PDF",
+          "size_bytes": 153124
+        },
+        {
+          "name": "Certificate of Insurance",
+          "filename": "powertroncert.pdf",
+          "url": "/wp-content/uploads/2024/10/powertroncert.pdf",
+          "type": "PDF",
+          "size_bytes": 469458
+        }
+      ]
+    },
+    "operations": {
+      "count": 3,
+      "resources": [
+        {
+          "name": "Operations/Installation Guide",
+          "filename": "2022_Installation.pdf",
+          "url": "/wp-content/uploads/2022/01/2022_Installation.pdf",
+          "type": "PDF",
+          "size_bytes": 331407
+        },
+        {
+          "name": "DX Installation Instructions",
+          "filename": "2022_DX_Installation_Instructions.pdf",
+          "url": "/wp-content/uploads/2022/01/2022_DX_Installation_Instructions.pdf",
+          "type": "PDF",
+          "size_bytes": 3150561
+        },
+        {
+          "name": "Chiller Installation Instructions",
+          "filename": "2022_Chiller_PF-Installtion_Instructions.pdf",
+          "url": "/wp-content/uploads/2022/01/2022_Chiller_PF-Installtion_Instructions.pdf",
+          "type": "PDF",
+          "size_bytes": 1784674
+        }
+      ]
+    },
+    "case_studies": {
+      "count": 3,
+      "resources": [
+        {
+          "name": "NY City Chiller Study",
+          "filename": "NY-City-Chiller-Study.pdf",
+          "url": "/wp-content/uploads/2022/01/NY-City-Chiller-Study.pdf",
+          "type": "PDF",
+          "size_bytes": 5083629
+        },
+        {
+          "name": "SA Retail DX Study",
+          "filename": "SA-Retail-DX-Study.pdf",
+          "url": "/wp-content/uploads/2022/01/SA-Retail-DX-Study.pdf",
+          "type": "PDF",
+          "size_bytes": 4011429
+        },
+        {
+          "name": "Financial Fact Sheet",
+          "filename": "2022_Financial-Fact-Sheet-Price-ROI-Payment.pdf",
+          "url": "/wp-content/uploads/2022/01/2022_Financial-Fact-Sheet-Price-ROI-Payment.pdf",
+          "type": "PDF",
+          "size_bytes": 250905
+        }
+      ]
+    }
+  },
+  "high_value_discoveries": {
+    "government_military_validation": {
+      "description": "US Government and Military installations validating PermaFrost NMR effectiveness",
+      "resources": [
+        "Military_Base_A.pdf",
+        "Defence-Logistics-Agency.pdf",
+        "EMIP-Demonstration.pdf"
+      ],
+      "significance": "Highest credibility - government validation with CEM/DoD oversight"
+    },
+    "ul_verified_methodology": {
+      "description": "UL signed off on testing PROCEDURES, not just individual test results",
+      "resources": [
+        "2022_Major Bank B_MDB.pdf",
+        "2022_UL_Verified_Report-.pdf"
+      ],
+      "significance": "Validates the entire M&V methodology used across all case studies"
+    },
+    "additional_independent_lab": {
+      "description": "Florida Atlantic University academic validation",
+      "resources": [
+        "2022_Oakridge_FAU-report.pdf"
+      ],
+      "significance": "6th independent lab - 225-page academic report by Ph.D., P.E. with 61 tests"
+    },
+    "enterprise_longevity": {
+      "description": "Multi-year longevity studies from major enterprises",
+      "resources": [
+        "2022_Major Global Bank A_Longevity_report.pdf",
+        "2022_QSR Chain A-report_longevity_1.pdf",
+        "2022_Restaurant-Chain-A_1.pdf"
+      ],
+      "significance": "Proves long-term sustained performance at known national brands"
+    }
+  }
+}

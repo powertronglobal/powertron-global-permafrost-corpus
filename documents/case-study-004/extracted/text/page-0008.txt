@@ -1,0 +1,123 @@
+.70
+POST
+BASELINE
+.55
+kW/ton
+REDUCTION
+21.4%
+POST
+BASELINE
+21.6%
+20.1%
+POST
+BASELINE
+Enthalpy Delta
+IMPROVEMENT
+21.1%
+IMPROVEMENT
+9.02
+55,198
+43,272
+27.5
+10.91
+Key Results for DX Unit #3 with PermaFrost NMR® ECM
+HVAC Equipment Manufacturer
+TTA180B400FA
+3251U0CAD
+R22
+15
+2,860
+2003
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+475.3
+21.5
+42.3
+114
+72.1
+239.7
+73.3
+48.7
+64.3
+46.9
+29.54
+18.63
+10.91
+15.02
+0.55
+27.48
+6716.5
+89.7
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Suction Temperature  
+ 
+ 
+Discharge Temperature
+Suction Pressure 
+ 
+Discharge Pressure 
+ 
+Entering Air DB
+Leaving Air DB
+Entering Air WB
+Leaving Air WB
+Enthalpy of Entering WB
+Enthalpy of Leaving WB
+Delta-T of Enthalpy
+kW (V x A x 1.47) 
+ 
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Unit CFM 
+OAT 
+ 
+480.8
+22.4
+55.9
+111.8
+72.3
+232.4
+72
+50.7
+63.5
+49.3
+28.94
+19.92
+9.02
+15.85
+0.70
+22.72
+6716.5
+89.2
+7
+Notes
+The pilot DX unit provides cooling for the 
+accounting department at the Energy Solutions Company building. 
+The annual run-time on the pilot unit is 
+approximately 2860 hours, or more prior to 
+PermaFrost NMR® being implemented.
+REDUCTION
+POST
+BASELINE
+22.7
+Actual Measured Operating Tons
+Calculated Annual kWh 
+(after regression analysis)
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

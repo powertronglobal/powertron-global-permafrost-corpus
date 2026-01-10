@@ -1,0 +1,33 @@
+ Study Overview
+This report details the results of the recently completed comprehensive energy performance study conducted at 
+the Regional Telecom Headquarters in Show Low, AZ. 
+Running from August 21 to October 5, 2015, the pilot was designed to illustrate the positive impact the 
+PermaFrost NMR® energy control measures (ECM) would have on the performance of the wall mounted cell tower 
+shelter air conditioning system.  
+ As demonstrated in this ﬁeld trial, PermaFrost NMR® restores the cooling capacity on the systems lost over time due to 
+thermal degradation of the heat exchange surfaces. The ECM will beneﬁt Regional Telecom in any or all of the following ways:
+• Restore capacity of the cooling systems to better satisfy ﬂuctuating shelter loads
+• Produce additional cooling system redundancy at no extra cost or interruption to operations
+• Improve cooling system efﬁciency, lowering cost to produce each ton of cooling required
+• Restoring thermal efﬁciency, allowing cooling systems to achieve thermostat set points faster
+• Improve cooling system performance, reducing runtime and extending equipment life by 15%+
+• Reduce amp draw and kW and overall kWh consumption
+• Reducing operating systems pressures in compressors, reducing unscheduled service calls
+The improvements demonstrated in this or any ﬁeld test resulting from PermaFrost NMR® are dependent on 
+factors such as age, condition, service history, runtime of one or both compressors and the design and 
+application of each system. The results in this pilot were very consistent with 10+ year historical performance 
+averages as well as the recent laboratory study completed in May, 2015 on DX equipment by Underwriters 
+Laboratories (UL) in their testing chambers in [Texas Location], TX.
+Setting the Stage for the Study
+The location chosen for this pilot (#1) is a standard cell tower shelter supported by two 3-ton wall-mounted 
+cooling systems operating in a redundant fashion. The systems are rotated so runtime on each is balanced out 
+over time. The primary cooling system is normally set to 72 degrees as it was for the pilot, while the back-up 
+cooling system is set for 78 degrees so it only operates when the shelter load gets so heavy that the single 
+cooling system can no longer keep up or it malfunctions. At the start of the pilot the average temperature in the 
+data center was 73 degrees.  In normal late summer weather, the pilot cooling system #1 was able to satisfy its 72 
+degrees set point and cycle off on a regular basis. By restoring the majority of any lost capacity, once PermaFrost 
+NMR® is allowed to work, the expectation is that the cooling systems should produce cooler, drier air and thus 
+reach set point quicker so the system runs less.  
+2
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website.
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,52 @@
+!
+Store Number 370
+St George 
+The data in the tables immediately below are taken directly from the utility grade power meter installed at the 
+store and then grouped appropriately in order to accurately compare results in the baseline and post collection 
+periods.
+Table: Overall St George Energy Reductions
+Table: Overall St George Demand Reductions
+Table: St George Power Factor
+8
+60-69
+70-79
+80-89
+Energy Reduction
+Baseline
+Temp Range
+Reductions
+27.93
+30.3
+43.67
+15.6%
+20.4%
+14.2%
+16.7%
+Post
+23.58
+24.11
+37.47
+Week 1
+Week 2
+Demand Reduction
+Baseline kW
+Week #
+Reductions
+40.4
+39.9
+12.9%
+19.8%
+16.4%
+Post kW
+35.17
+32
+Baseline 8/7 - 8/19
+Post 8/23 - 9/14
+Increase
+Power Factor
+Dates
+0.89
+0.91
+2.2%
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

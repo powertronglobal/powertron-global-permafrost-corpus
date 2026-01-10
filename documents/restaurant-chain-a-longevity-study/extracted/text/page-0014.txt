@@ -1,0 +1,269 @@
+®
+Aug-12
+208.1
+36.0
+35.5
+145
+90
+310
+74.5
+53.7
+61.2
+50.5
+27.29
+20.58
+6.71
+18.2
+11.01
+1.17
+9.37
+3,725
+33,030
+100
+80
+2.99
+CONTROL
+UNIT
+2004
+207.4
+36.5
+34.5
+117.2
+64.5
+248.1
+74.5
+52.8
+58.8
+46.3
+25.65
+18.32
+7.33
+18.3
+11.13
+1.14
+9.80
+3,565
+33,390
+100
+81
+3.1
+BASELINE
+POST
+Allentown
+2004
+207.4
+36.5
+34.5
+117.2
+64.5
+248.1
+74.5
+54
+58.8
+49.6
+25.65
+20.08
+5.57
+19.5
+11.13
+1.49
+7.45
+3,565
+43,800
+100
+81
+2.36
+2002
+209.5
+39.1
+33.5
+118.8
+60.4
+255.7
+77.4
+54.3
+61.4
+50
+27.43
+20.3
+7.13
+20.8
+12.04
+1.21
+9.95
+3,720
+36,120
+100
+81
+2.91
+BASELINE
+POST
+Lancaster
+2002
+209.5
+39.1
+33.5
+118.8
+60.4
+255.7
+77.4
+56.3
+61.4
+53.02
+27.43
+22.14
+5.29
+22.8
+12.04
+1.63
+7.38
+3,720
+48,660
+100
+81
+2.16
+2001
+207.3
+35.1
+35.1
+120.2
+67
+251.5
+70.3
+50.1
+58.2
+45.8
+25.25
+18.06
+7.19
+15
+10.70
+1.11
+9.65
+3,578
+32,100
+100
+81
+3.17
+BASELINE
+POST
+Philadelphia Airport
+2001
+207.3
+35.1
+35.1
+120.2
+67
+251.5
+70.3
+52.8
+58.2
+49.2
+25.25
+19.86
+5.39
+17.7
+10.70
+1.48
+7.23
+3,578
+41,100
+100
+81
+2.48
+Key Results for RTU’s with PermaFrost NMR® ECM
+Restaurant Chain A 4-Store PermaFrost NMR Improvements vs Design & Control Unit
+2004
+203.2
+35.4
+34.1
+112
+64
+246.2
+74.8
+52.2
+62.3
+50.1
+28.07
+20.36
+7.71
+18.1
+10.57
+1.07
+9.88
+3,418
+31,710
+100
+82
+3.29
+Energy Usage
+BASELINE
+POST
+13
+Nursery Rd
+Age of unit 
+ 
+Voltage 
+ 
+Amperage 
+ 
+Suction Temperature  
+Discharge Temperature 
+ 
+Suction Pressure 
+ 
+Discharge Pressure 
+ 
+Entering Air DB 
+ 
+Leaving Air DB 
+Entering Air WB 
+ 
+Leaving Air WB 
+ 
+Enthalpy of Entering WB 
+ 
+Enthalpy of Leaving WB 
+ 
+Delta-T of Enthalpy 
+ 
+Evaporator Approach  
+kW (V x A x 1.47) prior to regression analysis 
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Unit CFM 
+ 
+Annual kWh (Following regression analysis) 
+ 
+Unit % Load During Testing 
+ 
+OAT 
+ 
+Coeﬃcient of Performance (COP) 
+ 
+2004
+203.2
+35.4
+34.1
+112
+64
+246.2
+74.8
+54.2
+62.3
+53.3
+28.07
+22.2
+5.87
+20.1
+10.57
+1.41
+7.52
+3,418
+41,790
+100
+82
+2.49
+Property of Powertron Global®

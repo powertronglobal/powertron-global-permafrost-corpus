@@ -1,0 +1,58 @@
+BASE Measurement Testing – 16 September 2015 
+1.
+Chillers #1 and #2 were running at the same set points.  FMC technicians changed the central controller
+setting to give priority to chiller #2 about to be measured and treated.
+2.
+Chiller #2 was cycling on and off too often too rapidly (HVAC Contractor B pointed this out at a their initial chiller
+data gathering and inspection in June 2015), and upon checking the TA STAD 80 valve which is used to
+balance and set the correct water flow for each chiller, they found the TA STAD 80 valve for chiller #2
+completely open (8.5 turns setting).
+3.
+FMC’s measuring tool determined chiller #2 evaporator water flow rate set at 18.39 l/s (litres per second),
+some 348% over the desired 5.28 l/s design value, while coincidently, chiller #1 was set to 5.30 l/s.
+4.
+With a 126.4 kW chiller capacity, 18.39 l/s (see picture right) flow rate produced a
+temperature differential of 1.5°C at full load. This clarified why chiller #2 has
+continued to stop and start at such short intervals i.e. “slamming”.  It also explains
+why chiller #2 has not been able to be remotely controlled ( in this state it is
+uncontrollable) by FMC’s Measurement and Verification (M&V) team.
+5.
+HVAC Contractor B adjusted the valve close to the design value at 5.228 l/s (see picture at
+right) and chiller #2 immediately commenced running for longer periods.
+6.
+As both chillers are called chiller 1 in the just installed new control system, their
+temperature sensors were pulled and checked to ensure they updated correctly per
+the ambient temperature, especially the leaving water temperature sensors, which
+were independent to chiller #1 and #2, while the entering water temperature
+sensor was common to both chiller #1 and #2.
+7.
+At the insistence of FMC senior engineering management, HVAC Contractor B were
+instructed to set chiller #2 back to the very high 18.39 l/s flow rate at the end of the
+BASE measurements.  HVAC Contractor B is concerned this will endanger chiller #2 but
+hopes that the anti-recycle timers will prevent both chiller #2’s compressors from
+overheating and subsequently burning out.  As the chillers do not belong to
+HVAC Contractor B, they were set back as requested, considering the combined experience
+of the on-site FMC personnel as knowing and understanding the risk under which
+they are operating.  While we consider this highly damaging to the chiller and
+jeopardizing to its performance during the required PermaFrost NMR gestation
+period and thereafter, at its completion, we will reset chiller #2 to the exact BASE
+measuring conditions, including 5.228 l/s, before we take the POST measuring
+conditions to verify the ECM results.  The attached IPMVP Pilot rules, sent to FMC
+and accepted with their agreement to proceed with the Pilot, clearly defines these
+same rules of engagement under which IPMVP operates under universal acceptance.
+8.
+HVAC Contractor B allowed chiller #2 to stabilize and evaporator water leaving temperature to approach 7.43°C
+on the panel (In 11.5°C /Out 7.1°C measured) before taking simultaneous readings (circa 12:50PM):
+•
+A - Evaporator Entering 11.81°C and Leaving 7.43°C Water temperatures producing a 4.38°C Delta-T
+Note: Chiller #1 and #2 are both #1 on the new controller.  Temperatures above are for chiller #2
+•
+B – 380 kPa/-1.1°C low and 1557 kPa/43.3°C high pressures/temperatures for circuit 1 refrigerant
+and 410 kPa/0.8°C low and 1600 kPa/44.0°C high pressures/temperatures for circuit 2 refrigerant.
+•
+C - Volts: 394.51, 395.01, 391.78 = 393.77 average and Amps: 63.34, 67.02, 61.70 = 64.02 average.
+B 
+C 
+A 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

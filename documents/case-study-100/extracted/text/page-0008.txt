@@ -1,0 +1,63 @@
+Results
+The following are the final calculated average performance measurement improvements as spelled out at 
+bottom of page following the PermaFrost NMR® Post measurement period of the Major University RTU.  
+Energy Science Division
+POST
+BASELINE
+Voltage  
+Amperage  
+Suction Refrigerant Temp
+Suction Refrigerant Pressure
+Discharge Refrigerant Temp
+Discharge Refrigerant Pressure
+Entering Air DB Temp  
+Leaving Air DB Temp  
+Entering Air WB Temp  
+Leaving Air WB Temp  
+Combined Avg CFM Across Coils
+Actual Cooling Capacity (Tons) 
+Total WB Enthalpy Delta
+kW  
+kW/Ton 
+kWh
+Coeﬃcient of Performance (COP)
+O.A.T.
+481.5 V
+57.2 A
+36.8 F
+64.6 PSI
+134.2 F
+313.3 PSI
+74 F
+55 F
+65.2 F
+52.9 F
+7,822
+24.17 Tons
+8.24
+40.49 kW
+1.675
+119,435
+2.10
+83.8 F
+481 V 
+53.6 A / 55.75
+ 35.6 F
+ 62.5 PSI
+ 123 F
+270 PSI
+ 73 F
+ 48.6 F
+63.8 F
+47.4 F
+7,780
+ 29.96 Tons
+10.27
+39.42 kW
+1.316
+116,289
+2.67
+79 F
+MEASUREMENT
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,32 @@
+®
+1
+HVAC/R Eﬃciency Report
+Purpose of Energy Eﬃciency Study
+The purpose of this jointly-conducted ECM study between Data Center Provider (now owned by Data Center REIT) and PTG 
+engineering teams was threefold. First, to verify the current as-is capacity and efficiency of 35 various 
+Computer Room Air Conditioning (CRAC) systems supporting the five Data Center Provider data center suites within the 
+[Commercial Building] located at [Building Address] in New York, NY. Second, to demonstrate what, if any, material 
+performance changes occur in these same cooling units after being treated with PermaFrost NMR® ECM. And 
+third, to determine what, if any, financial benefits are associated with any efficiency improvements realized.  
+The identification of CRAC units involved in the study are recorded in Appendix A. 
+ECM Product Brief
+PermaFrost NMR® is a multi-patented surface science nanotechnology that uses Nucleo Molecular 
+Regenerative (NMR®) technology as its core agent. A sustainable, one-time treatment with no down time 
+required, PermaFrost NMR® lasts for the remaining life of any type of climate control system in which it is 
+installed.  The direct benefits of PermaFrost NMR® are improved cooling efficiency and increased capacity, 
+both of which result in lower overall costs to operate a system and extended equipment life.
+Methodology
+After determining the amount of air flowing across the evaporator coil was within 20% of manufacturer design 
+(higher or lower) before beginning the testing of each unit, the subsequent measurements used in the efficiency 
+calculations were collected and compiled in accordance with the IPMVP (International Measurement and 
+Verification Protocol) framework. 
+The results presented below were formulated by entering the data into the following thermodynamic 
+engineering formulas:
+• kW = (Volts * Amps * Power Factor of 1.47)/1000 (for 3-Phase) 
+• kW/Ton = kW / Actual Tonnage 
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+• EER = Capacity in BTU’s / Power in Watts
+• Actual Cooling Tons per Hour = (Measured CFM * 4.5 * Enthalpy Delta T) / 12,000 BTU
+ 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

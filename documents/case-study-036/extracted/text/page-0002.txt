@@ -1,0 +1,105 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2018 Powertron Global, LLC. 
+ 
+ 
+ 
+ 
+ 
+  EXECUTIVE SUMMARY 
+ 
+ 
+ 
+Average efficiency improvements per system 
+ 
+[Jamaica Site A] 
+kW/Ton 
+Capacity
+-Tons 
+COP 
+EER 
+Enthalpy 
+Baseline  
+1.45 
+8.21 
+2.48 
+8.47 
+3.42 
+Post  
+.88 
+9.33 
+4.03 
+13.74 
+3.92 
+Improvement % 
+39.3% 
+13.6% 
+62.5% 
+59% 
+41.9% 
+ 
+ 
+[Jamaica Site B] 
+kW/Ton 
+Capacity
+-Tons 
+COP 
+EER 
+Enthalpy 
+Baseline  
+1.39 
+19.1 
+2.55 
+8.72 
+3.24 
+Post  
+.87 
+30.9 
+4.11 
+14.04 
+4.68 
+Improvement % 
+37.4% 
+61.8% 
+61.2% 
+61% 
+44.4% 
+ 
+ 
+Downtown 
+kW/Ton 
+Capacity
+-Tons 
+COP 
+EER 
+Enthalpy 
+Baseline  
+1.27 
+25.3 
+2.78 
+9.5 
+4.16 
+Post  
+1.01 
+31.7 
+3.5 
+11.96 
+5.17 
+Improvement % 
+20.5% 
+25.3% 
+25.9% 
+25.9% 
+24.3% 
+ 
+ 
+ 
+1.      Introduction 
+Caribbean Telecom Group conducted three confirmatory tests from March 6, 2018 to March 
+27, 2018 located in [Jamaica Location] to verify Powertron Global’s PermaFrost 
+NMR® energy efficiency improvement effect on three DX system’s refrigeration 
+circuits: 
+ 
+ 
+ 
+ 

@@ -1,0 +1,25 @@
+{
+  "doc_id": "pdf_050",
+  "terms": [
+    {
+      "term": "Energy Conservation Measure",
+      "abbreviation": "ECM",
+      "definition": null
+    },
+    {
+      "term": "Reduce overall energy consumption and peak demand charges",
+      "abbreviation": "KVA",
+      "definition": null
+    },
+    {
+      "term": "The Coefficient of Performance",
+      "abbreviation": "COP",
+      "definition": null
+    },
+    {
+      "term": "Saturated Evaporator Temp",
+      "abbreviation": "CH",
+      "definition": null
+    }
+  ]
+}

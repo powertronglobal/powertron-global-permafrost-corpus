@@ -1,0 +1,594 @@
+================================================================================
+DOCUMENT: Case Study 091
+DOC_ID: pdf_090
+SHA256: e90127d803626b782814349848881440b5645f984d58dcc00afd348dc8d92032
+================================================================================
+
+═══ PAGE 001 ═══
+
+Energy Science Division
+®
+Data Center Provider – Data Centers
+Study Date:
+     July 16 – Sept 25, 2014
+Participants: 
+     Data Center Provider
+      [Client Representative], P.E., CSSGB
+      Director Critical Facilities
+ 
+     Gibbens Drake Scott, Inc.
+     Mechanical Engineering Consultants
+     Powertron Global
+     [Senior Energy Engineer],
+     Director of Engineering
+Pilot Location:
+     Data Center Provider – Santa Clara II
+     2807 Mission College Blvd.
+     Santa Clara, CA
+     Data Center Provider – [Southeast Location] Metro
+     1033 Jeﬀerson Street NW
+     [Southeast Location] 
+Comprehensive HVAC/R Capacity Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 002 ═══
+
+®
+1
+HVAC/R Eﬃciency Report
+Purpose of the Study
+This comprehensive efficiency study was conducted in an effort to verify the effectiveness of the PermaFrost 
+NMR®  Energy Conservation Measure (ECM) in two large, mission critical centrifugal chillers located on 
+opposite sides of the country. The chiller selected represent and to document the future avoided energy costs 
+associated with the same. The chillers selected represent a microcosm of the overall Data Center Provider portfolio of chiller 
+equipment. This allows the average savings percentage achieved and the future avoided energy costs calculated 
+to be easily extrapolated out five and 10 years into the future to determine the viability of the business case.  
+Understanding the Opportunity for Efficiency Restoration
+All Heating, Ventilation, Air Conditioning and Refrigeration (HVACR) systems experience thermal
+degradation over time. Internal surfaces of heat exchangers lose their optimal thermal transfer
+characteristics, resulting in reduced capacity, lower efficiency, and higher operating costs. This
+degradation affects superheat levels and overall system performance, impacting the useful
+equipment life of the HVACR system.
+Restoring System Efficiency with PermaFrost NMR
+PermaFrost NMR® technology addresses this thermal degradation by creating a permanent thermal
+metal coating on the tube walls, whether on the inside or outside surfaces depending on the HVACR
+equipment. This coating conditions the metal surfaces, reducing friction and restoring the system's
+original thermal transfer efficiency. In every application this results in a lower per unit cost of cooling
+which ultimately translates into lower overall energy costs. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 003 ═══
+
+®
+2
+Summary Results of the Data Center Provider Study
+This report contains specific information regarding the performance profiles of two large chillers; the first is 
+housed at the Data Center Provider [Southeast Location] Metro facility and the second at the Data Center Provider Santa Clara II facility. At the conclusion of 
+the pilot, the two chillers displayed the substantial changes listed below. 
+Of note, the improvements produced in the pilot chillers and illustrated in the remainder of this report 
+resulted in Data Center Provider implementing the PermaFrost NMR® technology in their entire portfolio data centers 
+across the country.  This totals more than 15 million square feet of operational raised floor space and nearly 
+50,000 tons of cooling.
+[Southeast Location] Metro Chiller  
+ 
+• Annual kWh consumed based on avg kW/ton fell by 339,750 from 3,821,750 to 3,482,000 or 8.9%
+ 
+• Overall capacity rose by 272 tons from 3,125 tons to 3,397 tons or 8.7%
+ 
+• Average cost per unit of cooling (i.e., kW/ton) fell by .04 from 0.45 to 0.41 or 8.9%
+ 
+• Energy costs to operate the chiller fell by $20,385 from $229,305 to $208,920 or 8.9% 
+ 
+• Coefficient of Performance (COP) increased by 0.72 from 7.85 to 8.57 or 9.2%
+The efficiency improvements demonstrated in the [Southeast Location] Metro chiller equate to an Initial Payback Period 
+(IPP) of 14.6 months and a corresponding Internal Rate of Return (IRR) of 82.3%.
+Santa Clara II Chiller  
+ 
+• Annual kWh consumed fell by 94,395 from 944,385 to 847,815 or 10.2% 
+ 
+• Overall capacity rose by 35 tons from 408 tons to 443 tons or 8.7%
+ 
+• Average cost per unit of cooling (i.e., kW/ton) fell by .05 from 0.49 to 0.44 or 10.2%
+ 
+• Energy costs to operate the chiller fell by $10,622 from $103,882 to $93,260 or 10.2% 
+ 
+• Coefficient of Performance (COP) increased by .83 from 7.15 to 7.98 or 11.6%
+The efficiency improvements demonstrated in the Santa Clara II chiller equate to an Initial Payback Period 
+(IPP) of 14.4 months and a corresponding Internal Rate of Return (IRR) of 83.2%. 
+Further details of both sets of the measurements are described in separate sections later in this report. All 
+testing was directed by [Client Representative], P.E., CSSGB, Director Mission Critical Facilities for Data Center Provider. All 
+measurements were taken and recorded by Gibbens Drake Scott Engineering, an independent 3rd party 
+testing firm hired by Data Center Provider. [Senior Energy Engineer], Director of Engineering for Powertron Global witnessed all of 
+the measurements.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 004 ═══
+
+®
+3
+Methodology
+Detailed performance testing (outlined later in this report) was performed on the pilot Chillers before and 
+after the installation of the ECM to determine the impact on the three key elements as they relate to the 
+original design specifications that greatly affect the power bills:
+ 
+ 
+1. The cooling capacity the Chillers are capable of producing after 6+ years in service. 
+ 
+2. The actual cost of power required to produce the amount of cooling tons the Chillers are delivering 
+ 
+    as reflected in the kW/ton measurement. 
+ 
+3. The thermal dynamic ability of the Chillers to still perform at or close to operational design.
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) testing framework. 
+Due to operational constraints relating to ongoing construction schedules in the chiller plant, the testing at 
+[Southeast Location] Metro was started on 20 November 2013 and concluded on 4 December 2013. This gave the ECM just 
+over 330 hours to gestate within the chiller and improve thermal performance. The ECM normally produces 
+90% or more of the improvement benefits it will ultimately deliver at 400+ runtime hours.
+The testing at Santa Clara II was started on 23 January 2014 and concluded on 26 February 2014. This allowed 
+the ECM just over 600 hours to gestate within the chiller and improve thermal performance.
+Notes
+The boundary of the testing was the Chillers themselves, flange to flange while matching the baseline and post water 
+temperatures entering the condenser and the returning chilled water temperatures entering the evaporator; therefore 
+confidence in the accuracy of the performance calculations is very high. Very similar flow rates were used in both testing 
+periods.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 005 ═══
+
+®
+4
+Formulas Used for Performance Calculations
+This report will illustrate the thermal degradation that has occurred in heat exchangers over time
+and how much of that has been restored after the ECM's introduction.
+ 
+Results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+• kW = (Volts * Amps * 1.47) /1000 
+ 
+• Cooling Tons = (GPM * 8.34 * 60 * CHW delta) / 12,000 
+ 
+• kW/Ton = kW / Actual Tonnage Measured
+ 
+• Coefficient of Performance (COP) = (12 / kW per ton) / 3.412
+ 
+• Refrigerant Approach = CHW Leaving Temp – Refrigerant Suction Temp 
+Notes
+The boundary of the testing was the Chillers themselves, flange to flange while matching the baseline and post water 
+temperatures entering the condenser and the returning chilled water temperatures entering the evaporator; therefore 
+confidence in the accuracy of the performance calculations is very high. Very similar flow rates were used in both testing 
+periods.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 006 ═══
+
+®
+63.3
+Passenger vehicles
+15.4
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+33,855
+Gallons of gasoline
+consumed
+323,163
+Pounds of coal burned
+annually
+700
+Barrels of oil
+consumed
+1.6
+Railcars worth
+of coal burned
+41.4
+Homes’ electricity use for
+one year
+5
+By Implementing PermaFrost NMR Data Center Provider is Saving More
+than Just Energy
+By treating just the two pilot chillers with PermaFrost NMR®, based on the current manner Data Center Provider operates 
+this equipment, it will save approximately 436,320 kWh per year and all the costs associated with those 
+savings. From an environmental impact standpoint, Data Center Provider is also benefitting the surrounding communities of 
+[Southeast Location] and Santa Clara, CA. Imagine how great the environmental impact will be when Data Center Provider 
+completes the treatment of all their climate control systems across the USA by the end of 2014.
+The 436,320 kWh saved per year equates to preventing 301 metric tons of greenhouse gas emissions from 
+being released or any of the following:
+(Source: http://www.epa.gov/cleanenergy/energy-resources/calculator.html#results)
+Annual greenhouse emissions from:
+CO2 emissions from:
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 007 ═══
+
+®
+[Southeast Location] Metro Chiller
+6
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 008 ═══
+
+®
+7
+3,125 tons
+3,397 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The Chiller should be operating @ 3450 tons of cooling capacity
+• The Chiller was operating @ 3,125 tons of cooling capacity prior to
+   installing ECM
+• The Chiller now has 272 tons of restored cooling capacity after ECM
+• The Chiller should be operating @ 8.6 COP or higher
+• The Chiller was operating @ 7.85 COP prior to the ECM
+   and 8.57 following the ECM
+• The COP of the Chiller was increased by 9.2%  following the ECM
+7.85
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+3,125
+tons Baseline
+100%
+CAPACITY @
+100% LOAD
+Baseline
+COP
+Post ECM
+COP
+7.85
+8.57
+8.57
+Post ECM COP
+3,397
+tons Post ECM
+9.2%
+Improvement
+in COP
+272
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of HVAC/R Eﬃciency Study Results
+Chiller Unit Eﬃciency with PermaFrost NMR® ECM
+Like every other business, Data Center Provider has the problem of thermal degradation in its chillers. The lower operating 
+tonnage and COP ratings measured in-situ are in line with the ASHRAE loss of performance and cost to 
+operate numbers in chillers of this age and usage profile. The degraded equipment performance is costing Data Center Provider 
+significant money and wasting energy – and the problem was only going to get worse. Starting the pilot, the 
+chiller is consuming significantly more kWh to operate than it did when it was new. 
+The performance summary includes the measured efficiency and tonnage of the chiller unit in the baseline and 
+post testing periods demonstrating the impact of thermal degradation. 
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 272 operating tons and an average 
+improvement of 9.2% in Coefficient of Performance (COP), significantly reducing the cost to operate the chiller 
+unit throughout the year.
+The HVAC Equipment Manufacturer chiller unit treated has a nominal capacity of 3,450 tons when operating at the conditions in both the 
+baseline and post. During the recording periods the chiller was operating at 97% load.  Since normal operations 
+were not to be changed to accommodate the pilot, the emphasis here is on the delta between baseline and post.  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 009 ═══
+
+®
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+In reduced cost
+per ton of cooling
+equating
+to an 8.9%
+reduction
+8
+Reducing the Cost for Every Ton of Cooling Consumed
+The chart to the right illustrates the performance 
+restoration the PermaFrost NMR® ECM created in 
+the treated Chiller unit. The average cost to operate 
+this unit before it was treated with PermaFrost 
+NMR®, as calculated in kW/ton, was 0.45.
+The specific cost to operate this unit after it was 
+treated with PermaFrost NMR®, as calculated in 
+kW/ton, is currently 0.41.
+The higher baseline kW/ton rating measured in-situ was expected when compared to the ASHRAE loss of 
+performance efficiency and cost to operate estimate for a 5 ½ year old Chiller unit. The post results are also 
+in line with the average improvement savings shown over more than 130,000 installations globally.
+Additional Key Results for [Southeast Location] Metro Chiller 
+Cost to Operate
+kW/ton
+0.04 kW/ton
+Baseline
+Post ECM
+0.45
+0.41
+3,821,750
+POST
+BASELINE
+3,482,000
+Annual kWh
+REDUCTION
+8.9%
+8.7%
+POST
+BASELINE
+Chilled Water Delta 
+IMPROVEMENT
+9.2° F
+10° F
+HVAC Equipment Manufacturer
+CDHF2500
+R123
+3450
+2,500
+2008
+System Description
+Manufacturer
+Model Number
+Refrigerant Type
+Nominal Cooling Capacity in
+Tons at Given Test conditions  
+Average Annual
+Runtime Hours
+Date Installed
+Notes
+The pilot Chiller unit provides cooling to the main data center 
+floor at the Data Center Provider [Southeast Location] metro complex. Although there is a 
+consistently heavy load, the complex utilizes outside air at 
+times through plate & frame heat exchangers in addition to 
+having five other similar sized chiller units available to 
+support all the cooling duties. Given this operational scenario, 
+Data Center Provider plant personnel determined the pilot chiller unit runs 
+approximately 2,500 hours or more annually prior to the ECM 
+being implemented. To be conservative, we used the minimum 
+number of hours to develop the Initial Payback Period (IPP) 
+and Internal Rate of Return (IRR).
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 010 ═══
+
+®
+Sustainable Financial Beneﬁts
+The following are the final calculated average performance measurements following the PermaFrost NMR®  
+Post measurement period for the Data Center Provider – [Southeast Location] Metro Chiller Unit.
+Baseline Energy Consumption
+Baseline Tonnage: 3125 tons
+Adjusted kW Baseline: 0.45 kW/ton * 3,397 tons = 1,528.7 kW
+Adjusted Baseline kWh: 1,528.7 kW * 2,500 Annual Operating Hrs = 3,821,750 kWh
+Revised Cost to Run Baseline: 3,821,750 kWh * $.06 = $229,305
+Post Energy Consumption
+kW Post: 0.41 kW/ton * 3,397 tons = 1,392.8 kW
+Annual kWh Post: 1,392.8 kW * 2,500 hours = 3,482,000 kWh
+Annual Cost Post: 3,482,000 kWh * .06 cents = $208,920
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $229,305 - $208,920 = $20,385
+Estimated Energy Savings Per Month: $20,385 / 12 = $1,699
+Initial Payback Period (IPP)
+Cost of PermaFrost NMR® installed in the pilot Chiller unit: $24,768
+Estimated Initial Payback Period (IPP) for Pilot Chiller: $24,768 / $1,699 = 14.6 months
+Estimated Annual Internal Rate of Return (IRR) for Pilot Chiller: 82.3%
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period for 
+Data Center Provider for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended in the Post 
+Analysis Period. ROI comes from determining what the cost to run the systems was when operating at the original energy 
+profile to produce the newly restored amount of available tonnage capacity and then subtracting the revised cost to run the 
+systems at the same restored tonnage after the PermaFrost NMR® ECM was installed. This regression analysis is the 
+most widely accepted method of accounting for the reduced number of hours the systems will now operate due to the 
+restored capacity. This restored capacity allows the systems to reach the internal building set points with increased 
+efficiency resulting in reduced compressor demand loading.
+9
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 011 ═══
+
+®
+Santa Clara II Chiller
+10
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 012 ═══
+
+®
+11
+408 tons
+443 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The Chiller should be operating @ 490 tons of cooling capacity
+• The Chiller was operating @ 408 tons of cooling capacity prior to
+   installing ECM
+• The Chiller now has 35 tons of restored cooling capacity after ECM
+• The Chiller should be operating @ 8.2 COP or higher
+• The Chiller was operating @ 7.15 COP prior to the ECM
+   and 7.98 following the ECM
+• The COP of the Chiller was increased by 11.6%  following the ECM
+7.15
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+408
+tons Baseline
+100%
+CAPACITY @
+100% LOAD
+Baseline
+COP
+Post ECM
+COP
+7.15
+7.98
+7.98
+Post ECM COP
+443
+tons Post ECM
+11.6%
+Improvement
+in COP
+35
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of HVAC/R Eﬃciency Study Results
+Chiller Unit Eﬃciency with PermaFrost NMR® ECM
+Like every other business, Data Center Provider has the problem of thermal degradation in its chillers. The lower operating 
+tonnage and COP ratings measured in-situ are in line with the ASHRAE loss of performance and cost to 
+operate numbers in chillers of this age and usage profile. The degraded equipment performance is costing Data Center Provider 
+significant money and wasting energy – and the problem was only going to get worse. Starting the pilot, the 
+chiller is consuming significantly more kWh to operate than it did when it was new. 
+The performance summary includes the measured efficiency and tonnage of the chiller unit in the baseline and 
+post testing periods demonstrating the impact of thermal degradation. 
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 35 operating tons and an average 
+improvement of 11.6% in Coefficient of Performance (COP), significantly reducing the cost to operate the chiller 
+unit throughout the year.
+The HVAC Equipment Manufacturer chiller unit treated has a nominal capacity of 490 tons when operating at the conditions in both the 
+baseline and post. During the recording periods the chiller was operating at 89% load.  Since normal operations 
+were not to be changed to accommodate the pilot, the emphasis here is on the delta between baseline and post.  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 013 ═══
+
+®
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+in reduced cost
+per ton of cooling
+equating to a
+10.2% reduction
+12
+Reducing the Cost for Every Ton of Cooling Consumed
+The chart to the right illustrates the performance 
+restoration the PermaFrost NMR® created in the 
+treated Chiller unit. The average cost to operate this 
+unit before it was treated with PermaFrost NMR®, 
+as calculated in kW/ton, was 0.49.
+The specific cost to operate this unit after it was 
+treated with PermaFrost NMR®, as calculated in 
+kW/ton, is currently 0.44.
+The higher baseline kW/ton rating measured in-situ was expected when compared to the ASHRAE loss of 
+performance efficiency and cost to operate estimate for a 6 year old chiller unit. The post results are also in 
+line with the average improvement savings shown over more than 130,000 installations globally.
+Additional Key Results for [Southeast Location] Metro Chiller 
+Cost to Operate
+kW/ton
+0.05 kW/ton
+Baseline
+Post ECM
+0.49
+0.44
+944,385
+POST
+BASELINE
+847,815
+Annual kWh
+REDUCTION
+10.2%
+8.7%
+POST
+BASELINE
+Chilled Water Delta 
+IMPROVEMENT
+10.3° F
+11.2° F
+HVAC Equipment Manufacturer
+CVHF570
+R123
+490
+4,350
+2007
+System Description
+Manufacturer
+Model Number
+Refrigerant Type
+Nominal Cooling Capacity in
+Tons at Given Test conditions  
+Average Annual
+Runtime Hours
+Date Installed
+Notes
+The pilot Chiller unit provides cooling to the main data center 
+floor at the Data Center Provider Santa Clara II complex. Although there is a 
+consistently heavy load, the complex has a redundant chiller to 
+handle the load in this particular facility for half of the time at 
+a minimum. Given this operational scenario, Data Center Provider plant 
+personnel determined the pilot chiller unit runs approximately 
+4,350 hours or more annually prior to the ECM being 
+implemented. To be conservative, we used the minimum 
+number of hours to develop the Initial Payback Period (IPP) 
+and Internal Rate of Return (IRR).
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 014 ═══
+
+®
+Sustainable Financial Beneﬁts
+The following are the final calculated average performance measurements following the PermaFrost NMR®  
+Post measurement period for the Data Center Provider – Santa Clara II Chiller Unit.
+Baseline Energy Consumption
+Baseline Tonnage: 408 tons
+Adjusted kW Baseline: 0.49 kW/ton * 443 tons = 217.1 kW
+Adjusted Baseline kWh: 217.1 kW * 4,350 Annual Operating Hrs = 944,385 kWh
+Revised Cost to Run Baseline: 944,385 kWh * $.11 = $103,882
+Post Energy Consumption
+kW Post: 0.44 kW/ton * 443 tons = 194.9 kW
+Annual kWh Post: 194.9 kW * 4,350 hours = 847,815 kWh
+Annual Cost Post: 847,815 kWh * .11 cents = $93,260
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $103,882 - $93,260 = $10,622
+Estimated Energy Savings Per Month: $10,622 / 12 = $885
+Initial Payback Period (IPP)
+Cost of PermaFrost NMR® installed in the pilot Chiller unit: $12,760
+Estimated Initial Payback Period for Pilot Chiller: $12,760 / $885 = 14.4 months
+Estimated Annual Rate of Return for Pilot Chiller: 83.2%
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period for 
+Data Center Provider for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended in the Post 
+Analysis Period. ROI comes from determining what the cost to run the systems was when operating at the original energy 
+profile to produce the newly restored amount of available tonnage capacity and then subtracting the revised cost to run the 
+systems at the same restored tonnage after the PermaFrost NMR® ECM was installed. This regression analysis is the 
+most widely accepted method of accounting for the reduced number of hours the systems will now operate due to the 
+restored capacity. This restored capacity allows the systems to reach the internal building set points with increased 
+efficiency resulting in reduced compressor demand loading.
+13
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+

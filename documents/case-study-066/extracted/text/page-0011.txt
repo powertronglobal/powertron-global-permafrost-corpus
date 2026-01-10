@@ -1,0 +1,25 @@
+Energy Science Division
+Lobby RTU
+Baseline kWh        10.22 kW * 4,380 Annual Operating Hrs = 44,764 kWh
+Cost to Run Baseline        44,764 kWh * $.1331 = $5,958
+Post ECM kWh        9.54 kW * 4,380 Annual Operating Hrs = 41,785 kWh
+Revised kWh (based on avg. 33.4% restored capacity)        41,785 kWh * (1 - .334) = 27,829 kWh
+Revised Cost to Run Post        27,829 kWh * $.1331 = $3,704
+Avoided Energy Costs (Savings) Per Month        ($5,958 - $3,704) / 12 = $188
+Cost of ECM        $1,625
+ROI         $1,625 / $188 = 8.64 
+ 
+  ROI = 8.6 months
+Elevator Room RTU
+Baseline kWh        5.56 kW * 4500 Annual Operating Hrs = 25,020 kWh
+Cost to Run Baseline        25,020 kWh * $.1331 = $3,330
+Post ECM kWh        6.01kW * 4500 Annual Operating Hrs = 27,045 kWh
+Revised kWh (based on avg. 29.6% restored capacity)        27,045 kWh * (1 - .296) = 19,040 kWh
+Revised Cost to Run Post        19,040 kWh * $.1331 = $2,534
+Avoided Energy Costs (Savings) Per Month        ($3,330 - $2,534) / 12 = $66
+Cost of ECM        $625
+ROI        $625 / $66 = 9.47 
+ 
+ ROI = 9.5 months
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,139 @@
+This is a report provided to customer and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2015 Powertron Global LLC. Please be aware 
+that our companies have a non-disclosure agreement in place and this document is covered under that agreement. This document is not to be distributed to any 
+third party and is not to be in the public domain without our written approval. 
+Hertz 
+60.06 
+60.06 
+60.07 
+60.06 
+Hz 
+Lbs Condensate / 30 Min 
+Latent 
+Capacity 
+Sensible 
+Capacity 
+Calculated 
+Condensate 
+Capacity 
+Net 
+Capacity 
+Balance 
+5.45 
+11564.90 
+55572.00 
+67136.90 
+64796.21 
+-3.486451168 
+ 
+ 
+ 
+Recorded Test Data 
+ 
+HVAC Equipment Manufacturer 7.5 Ton (2008) 
+ 
+POST 
+ 
+General Information 
+  
+  
+  
+  
+  
+Date 
+5/6/15 
+Start - End Time 
+17:17:30 
+Run Number 
+Run 005 
+Manufacturer 
+HVAC Equipment Manufacturer 
+Model No. 
+TSW090A3EGA2UB 
+Serial No. 
+843102182L 
+Sample No. 
+2030380-NW 
+UL personnel 
+Ricky Chang 
+Barometric Pressure 
+29.297 
+in Hg 
+Voltage Description 
+208-230V / 3Ph / 60Hz 
+Comments 
+Powertron - Permafrost Added 
+A Test / 100% IEER - 80/67-95 
+30 Minute Condensate Collection = 6.79 
+lbs. 
+Charge - 9.80 lbs. R-22 
+Room Conditions 
+10:00 
+10:00 
+10:00 
+30:00:00 
+Indoor 
+Sample 1 
+Sample 2 
+Sample 3 
+Average 
+Units 
+Average Indoor Inlet Drybulb 
+79.96 
+79.96 
+79.93 
+79.95 
+°F 
+Average Indoor Inlet Wetbulb 
+66.92 
+66.98 
+66.94 
+66.95 
+°F 
+Average Indoor Outlet Drybulb  
+62.31 
+62.38 
+62.35 
+62.35 
+°F 
+Average Indoor Outlet Wetbulb  
+59.37 
+59.47 
+59.42 
+59.42 
+°F 
+Average Indoor Nozzle Drybulb 
+62.73 
+62.71 
+62.70 
+62.71 
+°F 
+ID Humidity Ratio at Inlet 
+0.01149 
+0.01153 
+0.01151 
+0.01151 
+W 
+Humidity Ratio at Outlet 
+0.01038 
+0.01042 
+0.01040 
+0.01040 
+W 
+Humidity Ratio at Nozzle 
+0.01038 
+0.01042 
+0.01040 
+0.01040 
+W 
+Enthalpy at Inlet 
+31.786 
+31.838 
+31.809 
+31.811 
+Btu/lb 
+Enthalpy at Outlet 
+26.25 
+26.315 
+26.287 
+26.284 
+Btu/lb 

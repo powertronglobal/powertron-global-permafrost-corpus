@@ -1,0 +1,65 @@
+®
+6
+Chiller Eﬃciency Study Results
+Calculated Eﬃciency of Major Gaming Company Chillers Baseline and Post
+The chart below illustrates just how far off design the Major Gaming Company pilot chiller had degraded in terms of 
+efficiency over an average of 17 years of the heat exchange coils being in use. 
+The chiller was performing at an average of 73.2% of the original design efficiency when it was first installed. 
+The nominal design rated tonnage of the chiller is 1,500 tons. In actuality however, the chiller was only 
+producing 1,098 tons at the start of the pilot. The majority of the 26.8% efficiency loss in the chiller is directly 
+attributable to the thermal degradation of the heat exchange surfaces. This is due in large part to thermal degradation 
+creating an insulating barrier to heat transfer through the tube walls. 
+After the ECM was installed, the average efficiency in the chiller jumped up to 92.7% of design specifications or 
+1,391 tons.  This represents a 26.7% improvement in efficiency over the baseline numbers.  
+Original Design
+Eﬃciency
+ASHRAE Projected
+Eﬃciency Loss
+Over Time
+Actual Major Gaming Company
+Design Eﬃciency as
+Measured In-Situ
+Actual Major Gaming Company HVAC/R Operating Eﬃciency
+vs. ASHRAE Projected Eﬃciency Loss
+HVAC/R Eﬃciency %
+DESIGN EFFICIENCY
+20
+40
+60
+80
+100
+120
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Eﬃciency
+Improvement
+26.7%
+ 
+ 
+ 
+Age of HVAC/R Units
+Avg Age of
+Major Gaming Company
+Equipment
+17
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

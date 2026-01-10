@@ -1,0 +1,45 @@
+Energy Science Division
+Utilizing the data in the above charts, the following steps were taken to determine a very accurate ROI for 
+Major Restaurant Chain Donuts for implementing this ECM:
+Baseline kWh = (4,575.3 CTW / 1,000) * 5,760 Annual Operating Hrs = 26,354 kWh
+Baseline Cost To Run = 26,354 kWh * $.135 = $3,558
+Regression Analysis is then used to account for amount of tonnage restored to Taylor Unit  
+Adjusted Base Tonnage = 3.79 tons (equates to tonnage in ERP)
+Adjusted Total Watts = 1,652 WPT * 3.79 tons = 6,261 W
+Adjusted Base kWh = (6,261 TW/1,000) * 5,760 Annual Operating Hrs = 36,063 kWh
+Revised Cost to Run Prior to ECM = 36,063 kWh * $.135 = $4,869
+Post ECM kWh = (4,250 NTW / 1,000) * 5,760 Annual Operating Hrs = 24,480 kWh
+Cost to Run After ECM = 24,480 kWh * $.135 = $3,305
+Cost Savings per Month = ($4,869 - $3,305) / 12 = $130.33
+Cost of PermaFrost NMR® installed @ $500 / $130.33 = 3.8
+ 
+ROI = 3.8 months
+Eﬃciency Improvements
+Adjusted Total Watts
+Btuh Capacity
+System Eﬃciency %
+Enthalpy Delta
+Adjusted Watts per Ton
+EER
+32%
+36.6%
+36.6%
+36.6%
+32%
+47%
+Energy Reporting Period
+ 4,250
+45,432
+94.6%
+6.31
+1,121 
+10.69
+Baseline
+6,261
+33,264
+69.3%
+4.62
+1,652
+7.27
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

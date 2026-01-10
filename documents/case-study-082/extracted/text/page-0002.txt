@@ -1,0 +1,29 @@
+PermaFrost NMR® Performance Report
+Regional Hospital A
+July, 2013 
+Executive Summary
+         This report contains specific information regarding the installation of the energy control measure 
+(ECM) PermaFrost NMR® in the DX split system supporting the fitness center within the Newark 
+Regional Hospital A (Hospital A) at [Commercial Address], Newark, NJ. Detailed forensic performance testing (outlined 
+later in this report) was performed on the nominal 15-ton split system using R410A refrigerant. Following 
+testing, the system was treated with the proper amount and type of the PermaFrost NMR® technology 
+specially formulated for this type of system. Measurement and Verification (M&V) was conducted 
+pre-installation and post-gestation. 
+The improvement in efficiency and restored capacity 
+gained directly at the system was solely attributable to the 
+PermaFrost NMR® ECM. This is a result of the reversal of 
+thermal inefficiency on heat exchange surfaces.  
+Following treatment with the PermaFrost NMR® 
+technology, the relatively new 33-month old system 
+showed an effective net 11.6% reduction in kW/ton based 
+on the exact capacity measured in the baseline M&V and 
+the post gestation M&V. With the 15-ton system operating 
+at 100%, it showed a 14.1% reduction in kWh while 
+simultaneously producing an increase in system efficiency of 18.1%. Prior to the ECM, the system produced 
+13.29 tons of cooling. After the ECM, the tonnage produced by the system increased to 15.69 tons. This 
+18.1% average capacity increase from the baseline performance level led to an effective average increase in 
+COP of 13.1%. All of these factors directly correlate to what Hospital A will realize in energy savings as they 
+operate the system in the future under the same parameters.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

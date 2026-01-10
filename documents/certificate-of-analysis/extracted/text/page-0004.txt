@@ -1,0 +1,58 @@
+CORRISION TEST FOR PETROLEUM PRODUCTS IN GLASSWARE D-1384
+168HRS @ 120 °F
+STANDARD VALUES
+SINCE 1985 
+Quality Controlled Through Analysis 
+Certificate of Analysis 
+[Laboratory Address] 
+[Laboratory PO Box] 
+TEL: [redacted] 
+FAX: [redacted] 
+3
+Initial Run 
+Duplicate Run
+Triplicate Run 
+Specification 
+Weight Change, mg 
+Copper 
+-4 
+-5 
+-5 
++/- 10 max 
+Brass 
+-2 
+-2 
+-2 
++/- 10 max 
+Steel 
+-3 
+-4 
+-3 
++/- 10 max 
+Aluminum 
+-27 
+-29 
+-28 
++/- 30 max 
+Extreme Pressure Properties of Lubricating Fluid (Four-Ball 
+Method) ASTM D2783 (test to failure) 
+Standard Refrigerant Oil
+Weld Point, kg 
+Minimum Value 
+Maximum Value 
+Four Ball Test ASTM D2783 
+3 
+8.5 
+Average Load Wear Index 
+Minimum Value 
+Maximum Value 
+Four Ball Test ASTM D2783 
+120 
+145 
+Seal Compatibility Index , 24 hr@100°C, IP-278 
+Test 
+Min value 
+Max value 
+Seal Comp. IP-278 
+3 
+8.5 

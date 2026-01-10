@@ -1,0 +1,122 @@
+®
+0.976
+POST
+BASELINE
+0.668
+1438
+984
+kW / Ton
+IMPROVEMENT
+31.6%
+31.6%
+POST
+BASELINE
+Measured Tons
+IMPROVEMENT
+34.2%
+POST
+BASELINE
+kW
+IMPROVEMENT
+31.6%
+POST
+BASELINE
+kWh
+IMPROVEMENT
+POST
+BASELINE
+3.6
+COP
+IMPROVEMENT
+46.1%
+5.5
+Results for Chiller with PermaFrost NMR® ECM
+10
+HVAC Equipment Manufacturer
+CDHF-2500KBOED
+L98A00028
+Chiller #3
+R-123
+2500
+1998
+Notes
+Given the unit is a process chiller and the weather in 
+Vega Baja is consistent year around, it is estimated that 
+this water-cooled chiller runs ~6,000 hours per year 
+prior to the ECM being implemented
+System Description
+Make
+Model
+Serial Number(s)
+Pﬁzer Tag No.
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Age
+Voltage  
+Amperage  
+Suction Refrigerant Temp
+Suction Refrigerant Pressure
+Discharge Refrigerant Temp
+Discharge Refrigerant Pressure
+Chilled Water Leaving (Supply)
+Chilled Water Entering (Return)
+Condenser Water Supply
+Condenser Water Return
+Evaporator Approach
+Measured Tons Produced 
+Water Flow Through Chiller (GPM)
+Total kW
+Calculated kW / Ton  
+Coeﬃcient of Performance (COP)
+O.A.T.
+4160 V
+175.3 A
+39.1 F 
+-8.6 PSI
+39.1 F 
+100.9 PSI
+42.5 F 
+46.3 F 
+95 F 
+81.3 F 
+3.4 F 
+1098
+6928.2
+1438 kW
+.976
+3.60
+86 F 
+4160 V 
+161.0 A 
+40.5 F 
+-8.35 PSI
+ 40.5 F 
+98.4 PSI
+41.4 F 
+46.5 F 
+96 F 
+85.4 F 
+.9 F 
+1473
+6928.2
+984 kW
+.668
+5.5
+86 F 
+Energy Usage
+8,628,000
+5,904,000
+1098
+1473
+POST
+BASELINE
+BASELINE
+POST
+Evaporator Approach
+IMPROVEMENT
+73.5%
+.9 F
+3.4 F
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

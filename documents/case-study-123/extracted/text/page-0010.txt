@@ -1,0 +1,126 @@
+®
+22.35
+POST
+BASELINE
+18.66
+Calculated Annual kW
+REDUCTION
+16.5%
+REDUCTION
+REDUCTION
+POST
+BASELINE
+Calculated Annual kWh
+16.5%
+23.5%
+POST
+BASELINE
+Enthalpy Delta
+IMPROVEMENT
+POST
+BASELINE
+20.75
+Refrigerant Approach
+6.5%
+6.68
+122,925
+102,630
+Key Results for CRAC Unit with PermaFrost NMR® ECM
+Leibert #2
+UH245A-CSM
+361443-001
+R22
+21
+5,500
+1998
+System Description
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Age
+214.1
+59.1
+30.1
+103.8
+56
+206.65
+70.1
+49.5
+58.2
+43.7
+25.25
+17
+8.25
+19.4
+18.60
+0.86
+21.7
+7,030
+102,630
+100
+4.09
+65
+Energy Usage
+BASELINE
+POST
+Voltage  
+Amperage  
+Suction Temperature
+Discharge Temperature
+Suction Pressure
+Discharge Pressure
+Entering Air DB
+Leaving Air DB
+Entering Air WB
+Leaving Air WB
+Enthalpy of Entering WB
+Enthalpy of Leaving WB
+Delta-T of Enthalpy
+Evaporator Approach
+kW (V x A x 1.47)
+kW / Ton
+Actual Measured Operating Tons
+Unit CFM
+Annual kWh (following Regression Analysis)
+Unit % Load During Testing
+Coeﬃcient of Performance (COP)
+O.A.T.
+214.1
+57.8
+30.05
+103.25
+55.25
+206.4
+70
+50.8
+57.4
+45.8
+24.74
+18.06
+6.68
+20.75
+18.20
+1.03
+17.6
+7,030
+122,925
+100
+3.41
+69
+9
+Notes
+The pilot CRAC unit provides cooling to the 
+main switching room at the Telecom Provider complex. Given 
+the consistently heavy load and the other two 
+CRAC units available to support in the cooling 
+duties, the pilot unit runs approximately 5,500 
+hours or more annually prior to the installation.
+8.25
+19.4
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

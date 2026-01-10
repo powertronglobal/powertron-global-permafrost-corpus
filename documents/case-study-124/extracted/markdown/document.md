@@ -1,0 +1,710 @@
+# Nonprofit Fitness A_HI_Reportv3.pdf
+
+Energy Science Division
+
+®
+
+Comprehensive HVAC Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Non-Profit Organization
+
+Study Date:
+     1/13/16 – 6/25/16
+
+Participants:
+     Non-Profit Organization
+     Michael Doss
+     Director
+ 
+    [Energy Services Company]
+     Donogh Mc Sherry,
+     President & CEO
+
+Powertron Global
+     [Senior Energy Engineer],
+     Director of Engineering
+
+Location:
+     Leeward Branch
+     Honolulu, Hawaii
+
+This report is provided to Non-Profit Organization. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+®
+
+1
+
+HVAC/R Eﬃciency Report
+
+Purpose of Energy Eﬃciency Study
+
+The purpose of this study is to verify the industry wide problem of efficiency loss in HVAC/R as projected by
+
+ASHRAE research and to quantify the amount of money wasted due to this loss. Many industry leading
+
+organizations including ASHRAE project that all HVAC/R units degrade in capacity and efficiency as they age.
+
+Thermal degradation is caused by a phenomenon that is present in all HVAC/R equipment that operates as a
+
+vapor compression cycle associated with refrigerant and compressor lubricant. This thermal degradation is well
+
+documented by the HVAC/R industry and the original equipment manufacturers (OEM’s). Thermal
+
+degradation prevents units from operating at the original design efficiency, which leads to excessive run-times
+
+and additional kWh consumption.
+
+The chiller in this study (pictured below) is
+
+representative of the portfolio of equipment operated by
+
+Non-Profit Organization. If thermal degradation is present in this chiller it
+
+is present in the entire inventory of equipment. Energy
+
+waste can be calculated based on this equipment
+
+(portfolio representation) and then accurately
+
+extrapolated across the entire inventory of equipment.
+
+Process
+
+This report contains specific information regarding the current performance profile of an air-cooled chiller that
+
+supports the Non-Profit Organization Leeward Brach in Honolulu, HI.
+
+Detailed performance testing (outlined later in this report) was performed on the pilot chiller before and after
+
+the installation of the ECM to determine the impact on the three key elements that greatly affect the HVAC
+
+power bill as they relate to the original design specifications:
+
+1. The cooling capacity the chiller produces after 10 years in service, before and after the
+
+administration of the ECM.
+
+2. The actual cost of power required to produce the amount of cooling tons the chiller can deliver as
+
+reflected in the kW/ton measurement, before and after the administration of the ECM.
+
+3.  The thermal dynamic ability of the chiller to perform in relation to operational design, before and
+
+after the administration of the ECM.
+
+This report is provided to Non-Profit Organization. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+®
+
+2
+
+Methodology
+
+The measurements used in the efficiency calculations were collected and compiled in accordance with the
+
+IPMVP (International Measurement and Verification Protocol) framework. The team consisted Michael Doss of
+
+the Non-Profit Organization, Donogh Mc Sherry of [Energy Services Company]; and Powertron Global’s Director of Engineering,
+
+[Senior Energy Engineer].
+
+Notes
+
+The flow rate through the evaporator was near to design specifications in the baseline and post and the return chilled water
+
+entering the chiller in the baseline and post were identical so no adjustments were made. The outside air temps in the baseline
+
+were 80.1 deg F while the temperature in post was 87.7 deg F. (7.6 degrees higher) clearly demonstrating the chillers ability to
+
+transfer more heat through the heat exchangers.
+
+This benchmark report demonstrated the deficiencies related to the thermal losses in the condenser and evaporator. The design
+
+of this chiller is 101.4 tons. This rating was certified by AHRI under the environmental conditions of 95 degrees F outdoor air
+
+temperature and an entering chilled water temperature of 55 degrees F. Therefore the baseline was normalized to represent what
+
+the actual tonnage that the chiller would be capable of delivering at full load. With the reduced environmental condition of 80
+
+degrees versus 95 degrees F of air that was entering the air cooled condenser during the test the tonnage or capacity should have
+
+been capable of producing 131 tons as shown in the baseline. During the capacity test four of the five compressors were required
+
+to operate to produce the design delta temperature performance of the chiller.
+
+The post analysis of the chiller demonstrated the reversal of the deficiencies related to the initial thermal losses in the condenser
+
+and evaporator. Again with the design capacity of 101.4 tons at the environmental condition of an outdoor air temperature of
+
+95 degrees F the normalized capacity design rating is 131 tons. During the post testing period the outdoor environmental
+
+conditions were much warmer than the baseline by approx: 7 degrees F. During the capacity test the number of compressors
+
+required to deliver the delta temperature performance of the chiller was reduced from four to two compressors required to
+
+operate. This demonstrates that after the injection of Permafrost NMR® this chiller can deliver the needed thermal performance
+
+as a result of the enhancement of the evaporator and condensers ability to transfer thermal energy with much less energy and
+
+less run time on the compressors thereby offering longer life cycle expectancy.
+
+Quite simply the demonstration of the thermal enhancement received from PermaFrost NMR® allows this chiller to deliver the
+
+needed tonnage with less compressors operating since the refrigeration effect of the evaporator and condenser have been
+
+thermally restored.
+
+This report is provided to Non-Profit Organization. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+3
+
+Energy Conservation Method (ECM)
+
+The content detailed in this report will first demonstrate the ability of the pilot chiller to perform prior to the ECM
+
+being installed, as well as illustrate the amount of thermal degradation within the
+
+heat exchangers.
+
+The following report produces the utilization of the IPMVP as the M&V plan.
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase)
+
+• kW/Ton = kW / Actual Tonnage
+
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+
+• Actual Cooling Tons per Hour = Evaporator GPM X 8.34 * 60 * Chilled Water Delta T / 12,000 BTU
+
+• Refrigerant Approach = Supply Water Temp – Saturated Evaporator Temp (CH)
+
+Notes
+
+Following a diagnostic examination to determine the operational condition of the chiller was satisfactory, Baseline M&V data
+
+was collected and recorded by the M&V team. 400+ runtime hours after installation of the ECM, the M&V team returned to
+
+take Post M&V measurements in the identical fashion as in the Baseline. The delta of these measurements and associated
+
+calculations show the amount of capacity and efficiency restored.
+
+The following IPMVP data points were recorded on 1/13/16 using recently calibrated by NIST (National Institutes of
+
+Standards and Technology) to insure measurement accuracy and in combination with the chiler's control panel. The chiller was
+
+then treated with PermaFrost NMR® on May 10, 2016 and allowed to run normally until 6/25/16 to ensure the patented
+
+surface science nanotechnology had ample time to seat into all the metal surfaces of the heat exchangers. All post measurements
+
+were taken at identical incoming water temperatures however the outside air temps were higher in the post by 9.5%. No
+
+weather adjustments were made.
+
+This report is provided to Non-Profit Organization. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+• The Chiller was operating @ 92.6 tons of cooling capacity prior to
+
+installing ECM
+
+• The Chiller now has 3.8 tons of restored cooling capacity after ECM
+
+equating to a 4.1% increase
+
+• The Chiller was operating @ 2.93 COP prior to the ECM
+
+• The COP of the Chiller has increased by 58% following the ECM
+
+2.93
+Baseline COP
+
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+92.6
+
+tons
+Baseline
+
+100%
+CAPACITY @
+100% LOAD
+
+2.93
+
+4.63
+
+92.6
+
+96.4
+
+4.63
+Post ECM COP
+96.4
+tons Post ECM
+
+58%
+Improvement
+in COP
+
+3.8
+tons of
+Recovered
+Capacity
+
+TONNAGE
+COP
+
+Summary of HVAC/R Eﬃciency Study Results
+
+Chiller Eﬃciency with PermaFrost NMR® ECM
+
+The Non-Profit Organization has the problem of thermal degradation in its Chillers and HVAC units. The lower operating
+
+tonnage and COP ratings measured on site are in line with the ASHRAE loss of performance and cost to
+
+operate numbers. The degraded equipment performance is costing the Non-Profit Organization significant money and wasting
+
+energy. The pilot chiller is using significantly more energy to operate than when it was new ten years earlier.
+
+The performance summary includes the measured efficiency and tonnage of the chiller in the baseline and
+
+post testing periods demonstrating the impact of thermal degradation.
+
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 3.8 operating tons and an
+
+improvement of 58% in Coefficient of Performance (COP), significantly reducing the cost to operate the
+
+chiller throughout the year. The chiller can now deliver set point using fewer compressors to do so.
+
+4
+
+Baseline
+
+PermaFrost NMR®
+Installed
+
+Baseline
+
+PermaFrost NMR®
+Installed
+
+This report is provided to Non-Profit Organization. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+5
+
+Wasted Energy / Cost of HVAC System
+
+The kW/ton is the standard Unit Cost in the HVAC
+
+industry. It is the HVAC industry’s standard of
+
+determining how much energy is required to create 1
+
+ton of cooling (i.e., conditioned air). When you
+
+reduce your unit cost of cooling you are saving
+
+regardless of how much cooling is required. The chart
+
+illustrates how much the performance loss in the
+
+HVAC/R system is costing in wasted energy when it
+
+is operating. The specific cost to operate this
+
+HVAC/R system at 100% load as calculated in
+
+kW/ton before ECM was 1.20 kW/ton.
+
+The specific cost to operate this chiller after it was
+
+treated with PermaFrost NMR®, as calculated in
+
+kW/ton,  is currently .76
+
+The higher baseline kW/ton rating measured in-situ
+
+was expected when compared to the ASHRAE loss of
+
+performance efficiency and cost to operate estimate
+
+for a 10 year old chiller utilizing R410A refrigerant.
+
+Recovered Energy
+
+Equating to a
+36.7% reduction
+
+.44 kW/ton
+
+kW/ton
+
+Cost to Operate
+
+Baseline
+Post ECM
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+1.2
+
+1.20
+
+.76
+
+This report is provided to Non-Profit Organization. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+Energy Consumption & Financial Metrics
+
+The following are the final calculated average performance measurements following the PermaFrost NMR®
+
+Post measurement period for the Non-Profit Organization Chiller.
+
+Baseline Energy Consumption
+
+Baseline Tonnage: 92.6 tons
+
+Adjusted kW Baseline: 1.20 kW/ton * 96.4 tons = 115.7 kW
+
+Adjusted Baseline kWh: 115.7 kW * 5,044 Annual Operating Hrs = 583,591 kWh
+
+Revised Cost to Run Baseline: 583,591 kWh * $.24 = $140,062
+
+Post Energy Consumption
+
+kW Post: .76 kW/ton * 96.4 tons = 73.3 kW
+
+Annual kWh Post: 73.3 kW * 5,044 hours = 369,725 kWh
+
+Annual Cost Post: 369,725 kWh * .24 cents = $88,734
+
+Savings Per Year
+
+Avoided Energy Cost (savings) Per Year: $140,062 - $88,734 = $51,328
+
+Estimated Energy Savings Per Month: $51,328 / 12 = $4,277
+
+Initial Payback Period (IPP)
+
+Cost of PermaFrost NMR® installed in the pilot chiller: $33,500
+
+Estimated IPP for Non-Profit Organization on the chiller: $33,500 / $4,277 = 7.8 months
+
+Annual Rate of Return = 153%
+
+Return on Investment Over 10 Years = 1,532%
+
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period for
+
+Non-Profit Organization for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true
+
+energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended in
+
+the Post Analysis Period. ROI comes from determining what the cost to run the chiller was when operating at the original
+
+energy profile to produce the newly restored amount of available tonnage capacity and then subtracting the revised cost to
+
+run the chiller at the same restored tonnage after the PermaFrostNMR® ECM was installed. This regression analysis is
+
+the most widely accepted method of accounting for the reduced number of hours or load the chiller will now operate due to
+
+the restored capacity. This restored capacity allows the chiller to reach the internal building set points with increased
+
+efficiency resulting in reduced compressor demand loading.
+
+6
+This report is provided to Non-Profit Organization. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+7
+
+1.20
+
+POST
+
+BASELINE
+
+.76
+
+kW/ton
+
+REDUCTION
+36.7%
+
+POST
+
+BASELINE
+
+36.6%
+
+4.2%
+
+POST
+
+BASELINE
+
+Chilled Water Delta
+
+IMPROVEMENT
+
+9.6
+
+115.7
+
+73.3
+5.3
+
+10
+
+Key Results for Chiller with PermaFrost NMR® ECM
+
+YORK
+
+YCAL0104EC46
+
+RDRM014289
+
+R22
+
+101.4
+
+5044
+
+2006
+
+System Description
+
+Manufacturer
+
+Model Number
+
+Serial Number
+
+Refrigerant Type
+
+Nominal Cooling
+Capacity in Tons
+
+Average Annual
+Runtime Hours
+
+Date Installed
+
+475.5
+
+104.9
+
+39.7
+
+118.6
+
+45
+
+55
+
+87.7
+
+NA
+
+10
+
+5.3
+
+73.3
+
+0.76
+
+96.4
+
+231.25
+
+100
+
+87.7
+
+Energy Usage
+BASELINE
+POST
+
+Voltage
+
+Amperage
+
+Saturated Suction Temperature
+
+Discharge RefrigerantTemperature
+
+Chilled Water Leaving Temp (Supply)
+
+Chilled Water Entering Temp (Return)
+
+Condenser Water Temp Entering Chiller
+
+Condenser Water Temp Leaving Chiller
+
+Chilled Water Delta T
+
+Refrigeration Approach
+
+kW (V x A x 1.47)
+
+kW / Ton
+
+Actual Measured Operating Tons
+
+Chiller GPM
+
+Vane Position % During Testing
+
+OAT
+
+474.4
+
+159.4
+
+36.7
+
+111.5
+
+45.4
+
+55
+
+80.1
+
+NA
+
+9.6
+
+8.7
+
+111.2
+
+1.20
+
+92.6
+
+231.25
+
+100
+
+80.1
+
+REDUCTION
+39.1%
+REDUCTION
+
+POST
+
+BASELINE
+8.7
+
+Reduction of Refrigeration Approach
+Calculated  kW 
+(w/regression analysis)
+
+This report is provided to Non-Profit Organization. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+---
+
+31.7
+
+Passenger vehicles
+
+6.8
+
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+
+16,912
+
+Gallons of gasoline
+consumed
+
+160,384
+
+Pounds of coal burned
+annually
+
+348
+
+Barrels of oil
+consumed
+
+15.9
+.8
+
+Railcars worth
+of coal burned
+Homes’ electricity use for
+one year
+
+8
+
+Non-Profit Organization is Saving More than Just Energy
+
+By treating the pilot chiller with PermaFrost NMR®, based on the current manner in which the Non-Profit Organization
+
+operates the chiller, it will save approximately 213,866 kWh per year and all the costs associated with those
+
+savings. From an environmental impact standpoint, Non-Profit Organization is also benefitting the surrounding community of
+
+Honolulu. Imagine how great the environmental impact will be when Non-Profit Organization moves forward with treating
+
+all their HVAC/R equipment in all their properties across their portfolio.
+
+The 213,866 kWh saved per year equates to preventing 150 metric tons of greenhouse gas emissions from
+
+being released or any of the following:
+
+Annual greenhouse emissions from:
+
+CO2 emissions from:
+
+This report is provided to Non-Profit Organization. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

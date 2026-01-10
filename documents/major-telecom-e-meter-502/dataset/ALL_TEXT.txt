@@ -1,0 +1,407 @@
+═══ EXECUTIVE SUMMARY ═══
+PermaFrost NMR Energy Study: Major Telecom E Meter 502
+
+Study Overview
+----------------------------------------
+This study analyzed 134,570 high-resolution measurements collected at 2-second intervals.
+Baseline period: 65,393 data points
+Post-treatment period: 28,202 data points
+
+Key Results
+----------------------------------------
+Energy Efficiency Improvement: 12.3%
+Baseline kW/ton: 1.987
+Post-treatment kW/ton: 1.743
+
+The PermaFrost NMR treatment reduced energy consumption by 12.3%, 
+lowering the system's kW per ton from 1.987 to 1.743.
+
+Facility Information
+----------------------------------------
+Customer: Major Telecom E
+Industry: Telecommunications
+
+Measurement Standards
+----------------------------------------
+Standard: ASHRAE Guideline 14-2014
+Note: High-resolution time-series data supports detailed analysis
+
+═══ METHODOLOGY ═══
+Measurement Methodology
+========================================
+
+Data Type: Time Series
+Total Measurements: 134,570
+
+Source Data Files:
+  - meter_502_analysis_configuration.csv: 23 rows (unknown period)
+  - meter_502_baseline_bins.csv: 13 rows (baseline period)
+  - meter_502_combined_raw_data.csv: 40,248 rows (unknown period)
+  - meter_502_comparison.csv: 12 rows (unknown period)
+  - meter_502_file_inventory.csv: 11 rows (unknown period)
+  - meter_502_hourly_baseline.csv: 336 rows (baseline period)
+  - meter_502_hourly_combined.csv: 672 rows (unknown period)
+  - meter_502_hourly_post.csv: 336 rows (post period)
+  - meter_502_post_bins.csv: 19 rows (post period)
+  - meter_502_raw_baseline_data.csv: 20,124 rows (baseline period)
+  - meter_502_raw_post_data.csv: 20,124 rows (post period)
+  - meter_502_statistical_summary.csv: 9 rows (unknown period)
+  - 502 Baseline_6ad98dc0-a6e0-4975-ba14-8affc3c85599_9581568.csv: 44,920 rows (baseline period)
+  - 502 Post_6ad98dc0-a6e0-4975-ba14-8affc3c85599_1569118.csv: 7,723 rows (post period)
+
+Measurement Protocol
+----------------------------------------
+This study follows the International Performance Measurement & Verification Protocol (IPMVP)
+for collecting and analyzing HVAC performance data. Key metrics measured include:
+
+  - Coefficient of Performance (COP)
+  - Energy Efficiency Ratio (EER)
+  - Power consumption (kW)
+  - Cooling capacity (Tons)
+  - kW per Ton efficiency
+  - Outdoor air temperature
+  - Chilled water flow rate (GPM)
+  - Chilled water delta temperature
+
+Measurements were collected at 2-second intervals using calibrated sensors
+to capture transient system behavior and ensure statistical significance.
+
+═══ DETAILED METRICS ═══
+Detailed Metrics Analysis
+========================================
+
+Data File: meter_502_analysis_configuration.csv
+Period: Unknown
+Measurements: 23
+------------------------------
+
+
+Data File: meter_502_baseline_bins.csv
+Period: Baseline
+Measurements: 13
+------------------------------
+
+Avg_kWh:
+  Mean: 1.486
+  Median: 1.610
+  Std Dev: 0.478
+  Range: 0.800 to 2.130
+
+StdDev_kWh:
+  Mean: 0.218
+  Median: 0.270
+  Std Dev: 0.115
+  Range: 0.000 to 0.340
+
+
+Data File: meter_502_combined_raw_data.csv
+Period: Unknown
+Measurements: 40,248
+------------------------------
+
+Meter 1 kWh:
+  Mean: 2,610
+  Median: 2,637
+  Std Dev: 2,380
+  Range: 14.900 to 5,164
+
+Outdoor Air Temperature (F):
+  Mean: 69.082
+  Median: 67.259
+  Std Dev: 8.125
+  Range: 52.297 to 237.664
+
+Time Range:
+  Column: DateTime
+  Start: 2025-06-24 05:01:00
+  End: 2025-10-29 04:58:00
+  Duration: 3047.9 hours
+
+
+Data File: meter_502_comparison.csv
+Period: Unknown
+Measurements: 12
+------------------------------
+
+Avg_kWh_Baseline:
+  Mean: 1.543
+  Median: 1.650
+  Std Dev: 0.451
+  Range: 0.840 to 2.130
+
+Avg_kWh_Post:
+  Mean: 1.271
+  Median: 1.165
+  Std Dev: 0.353
+  Range: 0.870 to 1.910
+
+kWh_Savings:
+  Mean: 0.272
+  Median: 0.295
+  Std Dev: 0.196
+  Range: -0.040 to 0.610
+
+
+Data File: meter_502_file_inventory.csv
+Period: Unknown
+Measurements: 11
+------------------------------
+
+
+Data File: meter_502_hourly_baseline.csv
+Period: Baseline
+Measurements: 336
+------------------------------
+
+kWh_consumption:
+  Mean: 1.341
+  Median: 1.215
+  Std Dev: 0.487
+  Range: 0.800 to 2.500
+
+Outdoor Air Temperature (F):
+  Mean: 70.744
+  Median: 68.372
+  Std Dev: 6.063
+  Range: 61.587 to 85.166
+
+Time Range:
+  Column: DateTime
+  Start: 2025-06-24 05:00:00
+  End: 2025-07-08 04:00:00
+  Duration: 335.0 hours
+
+
+Data File: meter_502_hourly_combined.csv
+Period: Unknown
+Measurements: 672
+------------------------------
+
+kWh_consumption:
+  Mean: 1.201
+  Median: 1.000
+  Std Dev: 0.441
+  Range: 0.800 to 2.500
+
+Outdoor Air Temperature (F):
+  Mean: 69.073
+  Median: 67.336
+  Std Dev: 6.956
+  Range: 52.930 to 89.327
+
+Time Range:
+  Column: DateTime
+  Start: 2025-06-24 05:00:00
+  End: 2025-10-29 04:00:00
+  Duration: 3047.0 hours
+
+
+Data File: meter_502_hourly_post.csv
+Period: Post
+Measurements: 336
+------------------------------
+
+kWh_consumption:
+  Mean: 1.061
+  Median: 0.900
+  Std Dev: 0.336
+  Range: 0.800 to 2.474
+
+Outdoor Air Temperature (F):
+  Mean: 67.401
+  Median: 65.808
+  Std Dev: 7.387
+  Range: 52.930 to 89.327
+
+Time Range:
+  Column: DateTime
+  Start: 2025-10-15 05:00:00
+  End: 2025-10-29 04:00:00
+  Duration: 335.0 hours
+
+
+Data File: meter_502_post_bins.csv
+Period: Post
+Measurements: 19
+------------------------------
+
+Avg_kWh:
+  Mean: 1.173
+  Median: 1.030
+  Std Dev: 0.350
+  Range: 0.870 to 1.910
+
+StdDev_kWh:
+  Mean: 0.263
+  Median: 0.195
+  Std Dev: 0.302
+  Range: 0.000 to 1.140
+
+
+Data File: meter_502_raw_baseline_data.csv
+Period: Baseline
+Measurements: 20,124
+------------------------------
+
+Meter 1 kWh:
+  Mean: 233.278
+  Median: 242.200
+  Std Dev: 131.185
+  Range: 14.900 to 465.500
+
+Outdoor Air Temperature (F):
+  Mean: 70.754
+  Median: 68.420
+  Std Dev: 7.346
+  Range: 61.269 to 232.994
+
+Time Range:
+  Column: DateTime
+  Start: 2025-06-24 05:01:00
+  End: 2025-07-08 04:59:00
+  Duration: 336.0 hours
+
+
+Data File: meter_502_raw_post_data.csv
+Period: Post
+Measurements: 20,124
+------------------------------
+
+Meter 1 kWh:
+  Mean: 4,987
+  Median: 4,996
+  Std Dev: 104.524
+  Range: 4,808 to 5,164
+
+Outdoor Air Temperature (F):
+  Mean: 67.409
+  Median: 65.535
+  Std Dev: 8.513
+  Range: 52.297 to 237.664
+
+Time Range:
+  Column: DateTime
+  Start: 2025-10-15 05:01:00
+  End: 2025-10-29 04:58:00
+  Duration: 335.9 hours
+
+
+Data File: meter_502_statistical_summary.csv
+Period: Unknown
+Measurements: 9
+------------------------------
+
+
+Data File: 502 Baseline_6ad98dc0-a6e0-4975-ba14-8affc3c85599_9581568.csv
+Period: Baseline
+Measurements: 44,920
+------------------------------
+
+cop:
+  Mean: 1.834
+  Median: 1.851
+  Std Dev: 0.330
+  Range: 0.837 to 2.907
+
+eer:
+  Mean: 5.982
+  Median: 6.050
+  Std Dev: 1.076
+  Range: 2.725 to 9.404
+
+kwton:
+  Mean: 1.987
+  Median: 1.900
+  Std Dev: 0.394
+  Range: 1.210 to 4.200
+
+kw:
+  Mean: 5.506
+  Median: 5.540
+  Std Dev: 0.183
+  Range: 4.940 to 6.000
+
+kweperkwr:
+  Mean: 1.987
+  Median: 1.900
+  Std Dev: 0.394
+  Range: 1.210 to 4.200
+
+kwr:
+  Mean: 0.000
+  Median: 0.000
+  Std Dev: 0.000
+  Range: 0.000 to 0.000
+
+Time Range:
+  Column: utc_time
+  Start: 2025-06-24 17:54:22+00:00
+  End: 2025-07-08 04:20:39+00:00
+  Duration: 322.4 hours
+
+
+Data File: 502 Post_6ad98dc0-a6e0-4975-ba14-8affc3c85599_1569118.csv
+Period: Post
+Measurements: 7,723
+------------------------------
+
+cop:
+  Mean: 1.581
+  Median: 2.000
+  Std Dev: 0.493
+  Range: 1.000 to 2.000
+
+eer:
+  Mean: 6.641
+  Median: 6.660
+  Std Dev: 0.781
+  Range: 4.036 to 9.622
+
+kwton:
+  Mean: 1.743
+  Median: 1.710
+  Std Dev: 0.214
+  Range: 1.180 to 2.820
+
+kw:
+  Mean: 5.633
+  Median: 5.650
+  Std Dev: 0.154
+  Range: 5.200 to 5.960
+
+kweperkwr:
+  Mean: 1.743
+  Median: 1.710
+  Std Dev: 0.214
+  Range: 1.180 to 2.820
+
+kwr:
+  Mean: 0.000
+  Median: 0.000
+  Std Dev: 0.000
+  Range: 0.000 to 0.000
+
+Time Range:
+  Column: utc_time
+  Start: 2025-10-16 21:31:19+00:00
+  End: 2025-10-29 02:47:35+00:00
+  Duration: 293.3 hours
+
+
+
+═══ TEMPERATURE ANALYSIS ═══
+Temperature-Normalized Analysis
+========================================
+
+HVAC efficiency varies significantly with outdoor temperature.
+This analysis normalizes results by temperature bins to ensure
+fair comparison between baseline and post-treatment periods.
+
+Overall Results (All Temperature Bins):
+  Baseline Average: 1.987 kW/ton
+  Post-Treatment Average: 1.743 kW/ton
+  Improvement: 12.3%
+
+The improvement percentage represents the reduction in electrical
+power required to produce one ton of cooling capacity after
+PermaFrost NMR treatment was applied to the HVAC system.

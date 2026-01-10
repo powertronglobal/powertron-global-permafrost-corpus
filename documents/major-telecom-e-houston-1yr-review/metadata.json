@@ -1,0 +1,355 @@
+{
+  "doc_id": "major-telecom-e-houston-1yr-review",
+  "slug": "major-telecom-e-houston-1yr-review",
+  "title": "Major Telecom E REVIEW Field Study",
+  "source_type": "tabular",
+  "source_folder": "Major Telecom E Cell Tower Hub Houston 1 Year Review",
+  "source_files": [
+    {
+      "filename": "Major Telecom A CTH 511 Post 2024.xlsx",
+      "type": "xlsx",
+      "rows": 28736,
+      "period": "post",
+      "size_bytes": 837744
+    },
+    {
+      "filename": "Major Telecom A CTH 511 Post v2 2023.xlsx",
+      "type": "xlsx",
+      "rows": 28471,
+      "period": "post",
+      "size_bytes": 809266
+    },
+    {
+      "filename": "Major Telecom A CTH 512 Post 2024.xlsx",
+      "type": "xlsx",
+      "rows": 28735,
+      "period": "post",
+      "size_bytes": 836087
+    },
+    {
+      "filename": "Major Telecom A CTH 512 Post v2 2023.xlsx",
+      "type": "xlsx",
+      "rows": 28472,
+      "period": "post",
+      "size_bytes": 830104
+    },
+    {
+      "filename": "Major Telecom A CTH 513 Post 2024.xlsx",
+      "type": "xlsx",
+      "rows": 27302,
+      "period": "post",
+      "size_bytes": 776214
+    },
+    {
+      "filename": "Major Telecom A CTH 513 Post v2 2023.xlsx",
+      "type": "xlsx",
+      "rows": 28222,
+      "period": "post",
+      "size_bytes": 840807
+    },
+    {
+      "filename": "Major Telecom A CTH 514 Post 2024.xlsx",
+      "type": "xlsx",
+      "rows": 28736,
+      "period": "post",
+      "size_bytes": 893418
+    },
+    {
+      "filename": "Major Telecom A CTH 514 Post v2 2023.xlsx",
+      "type": "xlsx",
+      "rows": 28156,
+      "period": "post",
+      "size_bytes": 829265
+    },
+    {
+      "filename": "Major Telecom A CTH 515 Post 2024.xlsx",
+      "type": "xlsx",
+      "rows": 28744,
+      "period": "post",
+      "size_bytes": 786358
+    },
+    {
+      "filename": "Major Telecom A CTH 515 Post v2 2023.xlsx",
+      "type": "xlsx",
+      "rows": 28666,
+      "period": "post",
+      "size_bytes": 810574
+    },
+    {
+      "filename": "Major Telecom A CTH 516 Post 2024.xlsx",
+      "type": "xlsx",
+      "rows": 28741,
+      "period": "post",
+      "size_bytes": 787708
+    },
+    {
+      "filename": "Major Telecom A CTH 516 Post v2 2023.xlsx",
+      "type": "xlsx",
+      "rows": 28234,
+      "period": "post",
+      "size_bytes": 825212
+    },
+    {
+      "filename": "Major Telecom A CTH 517 Post 2024.xlsx",
+      "type": "xlsx",
+      "rows": 28732,
+      "period": "post",
+      "size_bytes": 887178
+    },
+    {
+      "filename": "Major Telecom A CTH 517 Post v2 2023.xlsx",
+      "type": "xlsx",
+      "rows": 26998,
+      "period": "post",
+      "size_bytes": 760382
+    },
+    {
+      "filename": "Major Telecom A CTH 518 Post 2024.xlsx",
+      "type": "xlsx",
+      "rows": 28732,
+      "period": "post",
+      "size_bytes": 787339
+    },
+    {
+      "filename": "Major Telecom A CTH 518 Post v2 2023.xlsx",
+      "type": "xlsx",
+      "rows": 27852,
+      "period": "post",
+      "size_bytes": 788613
+    },
+    {
+      "filename": "Major Telecom A CTH 519 Post 2024.xlsx",
+      "type": "xlsx",
+      "rows": 28716,
+      "period": "post",
+      "size_bytes": 816497
+    },
+    {
+      "filename": "Major Telecom A CTH 520 Post 2024.xlsx",
+      "type": "xlsx",
+      "rows": 28721,
+      "period": "post",
+      "size_bytes": 815774
+    },
+    {
+      "filename": "Major Telecom A CTH 520 Post v2 2023.xlsx",
+      "type": "xlsx",
+      "rows": 27745,
+      "period": "post",
+      "size_bytes": 854058
+    },
+    {
+      "filename": "Major Telecom A CTH 521 Post 2024.xlsx",
+      "type": "xlsx",
+      "rows": 28750,
+      "period": "post",
+      "size_bytes": 812657
+    },
+    {
+      "filename": "Major Telecom A CTH 521 Post v2 2023.xlsx",
+      "type": "xlsx",
+      "rows": 28463,
+      "period": "post",
+      "size_bytes": 834303
+    },
+    {
+      "filename": "Major Telecom A CTH 522 Post 2024.xlsx",
+      "type": "xlsx",
+      "rows": 28750,
+      "period": "post",
+      "size_bytes": 813851
+    },
+    {
+      "filename": "Major Telecom A CTH 522 Post v2 2023.xlsx",
+      "type": "xlsx",
+      "rows": 28392,
+      "period": "post",
+      "size_bytes": 820346
+    },
+    {
+      "filename": "Major Telecom A CTH 523 Post 2024.xlsx",
+      "type": "xlsx",
+      "rows": 28710,
+      "period": "post",
+      "size_bytes": 812912
+    },
+    {
+      "filename": "Major Telecom A CTH 523 Post v2 2023.xlsx",
+      "type": "xlsx",
+      "rows": 21310,
+      "period": "post",
+      "size_bytes": 614939
+    },
+    {
+      "filename": "Major Telecom A CTH 524 Post 2024.xlsx",
+      "type": "xlsx",
+      "rows": 28705,
+      "period": "post",
+      "size_bytes": 814153
+    },
+    {
+      "filename": "Major Telecom A CTH 524 Post v2 2023.xlsx",
+      "type": "xlsx",
+      "rows": 26474,
+      "period": "post",
+      "size_bytes": 757016
+    },
+    {
+      "filename": "Major Telecom A CTH 525 Post 2024.xlsx",
+      "type": "xlsx",
+      "rows": 28709,
+      "period": "post",
+      "size_bytes": 801751
+    },
+    {
+      "filename": "Major Telecom A CTH 525 Post v2 2023.xlsx",
+      "type": "xlsx",
+      "rows": 28339,
+      "period": "post",
+      "size_bytes": 861197
+    },
+    {
+      "filename": "Major Telecom A CTH 526 Post 2024.xlsx",
+      "type": "xlsx",
+      "rows": 28709,
+      "period": "post",
+      "size_bytes": 866127
+    },
+    {
+      "filename": "Major Telecom A CTH 526 Post v2 2023.xlsx",
+      "type": "xlsx",
+      "rows": 28395,
+      "period": "post",
+      "size_bytes": 861959
+    },
+    {
+      "filename": "511 Baseline 2.xlsx",
+      "type": "xlsx",
+      "rows": 26974,
+      "period": "baseline",
+      "size_bytes": 781144
+    },
+    {
+      "filename": "512 baseline 2.xlsx",
+      "type": "xlsx",
+      "rows": 31260,
+      "period": "baseline",
+      "size_bytes": 909138
+    },
+    {
+      "filename": "513 baseline 2 .xlsx",
+      "type": "xlsx",
+      "rows": 27522,
+      "period": "baseline",
+      "size_bytes": 813521
+    },
+    {
+      "filename": "514 baseline 2.xlsx",
+      "type": "xlsx",
+      "rows": 27402,
+      "period": "baseline",
+      "size_bytes": 811907
+    },
+    {
+      "filename": "515 baseline 2.xlsx",
+      "type": "xlsx",
+      "rows": 28547,
+      "period": "baseline",
+      "size_bytes": 806320
+    },
+    {
+      "filename": "516 baseline 2.xlsx",
+      "type": "xlsx",
+      "rows": 28382,
+      "period": "baseline",
+      "size_bytes": 837730
+    },
+    {
+      "filename": "517 baseline 2.xlsx",
+      "type": "xlsx",
+      "rows": 29991,
+      "period": "baseline",
+      "size_bytes": 832779
+    },
+    {
+      "filename": "518 baseline 2.xlsx",
+      "type": "xlsx",
+      "rows": 28578,
+      "period": "baseline",
+      "size_bytes": 808831
+    },
+    {
+      "filename": "520 Baseline 2 - no kWh data.xlsx",
+      "type": "xlsx",
+      "rows": 41234,
+      "period": "baseline",
+      "size_bytes": 1140539
+    },
+    {
+      "filename": "521 Baseline 2.xlsx",
+      "type": "xlsx",
+      "rows": 31408,
+      "period": "baseline",
+      "size_bytes": 939694
+    },
+    {
+      "filename": "522 Baseline 2.xlsx",
+      "type": "xlsx",
+      "rows": 28530,
+      "period": "baseline",
+      "size_bytes": 826504
+    },
+    {
+      "filename": "523 Baseline 2.xlsx",
+      "type": "xlsx",
+      "rows": 28475,
+      "period": "baseline",
+      "size_bytes": 835278
+    },
+    {
+      "filename": "524 Baseline 2.xlsx",
+      "type": "xlsx",
+      "rows": 28363,
+      "period": "baseline",
+      "size_bytes": 829861
+    },
+    {
+      "filename": "525 Baseline 2.xlsx",
+      "type": "xlsx",
+      "rows": 28432,
+      "period": "baseline",
+      "size_bytes": 874992
+    },
+    {
+      "filename": "526 Baseline 2.xlsx",
+      "type": "xlsx",
+      "rows": 28505,
+      "period": "baseline",
+      "size_bytes": 869696
+    },
+    {
+      "filename": "Major Telecom A CTH Data Tables CDD Runtimes.xlsx",
+      "type": "xlsx",
+      "rows": 407,
+      "period": "unknown",
+      "size_bytes": 65291
+    },
+    {
+      "filename": "Major Telecom A CTH Data Tables CDD Runtimes_REVISED.xlsx",
+      "type": "xlsx",
+      "rows": 407,
+      "period": "unknown",
+      "size_bytes": 87965
+    }
+  ],
+  "data_resolution": {
+    "type": "time_series",
+    "total_rows": 1316834
+  },
+  "company": {
+    "name": "Major Telecom E",
+    "industry": "Telecommunications"
+  },
+  "created_at": "2026-01-05T21:29:55.555932",
+  "processing_version": "1.0.0"
+}

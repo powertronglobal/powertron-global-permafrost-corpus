@@ -1,0 +1,29 @@
+Energy Science Division
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling Capacity in Tons  
+Average Annual Runtime Hours
+Date Installed
+Mammoth
+HEBRFC-301-G320-58-M24
+22864-04-10
+R22
+30 Tons
+2,950
+1993
+       Detailed Results for 30-Ton Package RTU
+System Description / Design Characteristics
+This system provides cooling for the Duchess Hall facility located on Major University University’s south 
+campus. Given the internal load of the facility and national weather BIN data, it is estimated that the system 
+runs ~2,950 hours per year prior to the ECM being implemented.  
+Baseline & Energy Reporting (Post) Periods
+The identical IPMVP following data points were recorded for Baseline and Post on 6/26/13 and 9/5/13 
+respectively using recently NIST calibrated devices to insure measurement accuracy. The return wet and 
+dry bulb temperatures entering the coil were very similar in both periods as were the discharge pressures of 
+the compressor so only the post Amps were adjusted upwards slightly to compensate for the 5 degree 
+cooler outdoor air temps in the post testing period.  Both original and adjusted post amps are shown in the 
+table below. The measurements are as follows: 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

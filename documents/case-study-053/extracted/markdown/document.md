@@ -1,0 +1,1556 @@
+# Regional Telecom.pdf
+
+Energy Science Division
+
+®
+
+Energy Eﬃciency Study Summary
+
+PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Regional Telecom COMMUNICATIONS
+
+Study Date:
+     2/4/16 – 3/4/16
+
+Locations:
+      Bull Head City & Kingman, AZ
+
+Participants:
+      Regional Telecom
+      Mark Jeﬀries,
+      VP/GM Southwest Region
+
+[Technical Supervisor], Bull Head City
+      Technical Supervisor
+
+[Client Representative], Kingman
+      Technical Supervisor
+
+Powertron Global (PTG)
+      [Senior Energy Engineer], M.E.
+      Director of Engineering
+
+[Director Global Business]
+      Director Global Business
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+1
+
+Background
+
+This report details the results of the recently completed comprehensive energy performance pilot study
+
+conducted at two Regional Telecom Communications locations in Bull Head City and Kingman, AZ. This study focused
+
+on three large Roof Top HVAC Package Units (RTUs) supporting the switch rooms at both of these mixed use
+
+sites. The equipment tested included a 30-ton RTU, 25-ton RTU and a 20-ton RTU.
+
+All the measurements for this pilot followed the International Measurement and Verification Protocols
+
+(IPMVP). The IPMVP is endorsed by the US Department of Energy as the best method for measuring capacity,
+
+performance and efficiency of HVAC systems in-situ.
+
+The same certified test equipment was used under identical weather conditions in both the baseline and post
+
+collection periods and photographic evidence is available of all key measurements. This ensured that all the
+
+benefits produced could definitively be attributed to the PermaFrost NMR® energy conservation measure (ECM).
+
+Overview
+
+Running from 4 February to 4 March, 2016, the Regional Telecom Communications pilot was designed to illustrate the
+
+positive impact PermaFrost NMR® would have on the capacity, performance, and overall efficiency measured
+
+in kW/ton of the three pilot RTUs.
+
+As demonstrated in this field trial, PermaFrost NMR restores the capacity on the RTUs that has been lost over
+
+time due to fouling of the heat exchange surfaces. The ECM will immediately benefit Regional Telecom in any or all of
+
+the following ways:
+
+• Restoring capacity of the systems to satisfy fluctuating building loads or lower room temps
+
+• Producing additional system redundancy at no extra cost or interruption to operations
+
+• Improving system efficiency, lowering cost to produce each ton of cooling required (kW/ton)
+
+• Restoring thermal efficiency, allowing systems to achieve thermostat set points faster, reducing
+
+runtime and extending equipment life by 15% or more
+
+• Reducing annual kWh usage by the HVAC systems
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+2
+
+The improvements demonstrated in this or any field test resulting from PermaFrost NMR® are dependent on
+
+factors such as age, condition, service history, runtime of one or more compressors, and the design and
+
+operational application of each HVAC system. The results in this pilot were very consistent with 14+ year
+
+historical performance averages as well as the recent independent laboratory study completed in May, 2015 on
+
+DX equipment by Underwriters Laboratories (UL) in their testing chambers in [Texas Location], TX.
+
+The data for each of the three pilot RTUs will be shown in separate sections.
+
+Financial Beneﬁts of the Study
+
+Regional Telecom will realize the following financial benefits from investing a total of $5,313 on the installation of
+
+PermaFrost NMR® in the operational portions of the three RTUs included in this study:
+
+- Net Annual Energy Savings    
+ 
+ 
+ 
+ 
+ 
+$ 7,945
+
+- Avoided cost of additional capacity replacement @ $1000/ton 
+ 
+$ 9,800
+
+- Initial Payback Period (energy only)  
+ 
+ 
+ 
+ 
+8 months
+
+- Annual Internal Rate of Return (energy only) 
+ 
+ 
+ 
+150%
+
+- Return On Investment over 5 years (energy only) 
+ 
+ 
+ 
+748%
+
+- Estimated Reduction in Annual kWh’s 
+ 
+ 
+ 
+ 
+75,668
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+3
+
+11.3
+
+Passenger vehicles
+
+19.2
+
+Tons of Waste sent to the Landﬁll
+
+6,026
+
+Gallons of gasoline
+consumed
+
+57,525
+
+Pounds of coal burned
+annually
+
+125
+
+Barrels of oil
+consumed
+
+7.4
+
+Homes’ electricity use for
+one year
+
+Positive Impact on the Environment
+
+Just by treating the three pilot RTUs with PermaFrost NMR®, based on the manner in which the RTUs are
+
+currently being operated, Regional Telecom will save approximately 75,668 kWh per year and all the costs associated
+
+with those savings. From an environmental impact standpoint, Regional Telecom will also benefit the surrounding
+
+Arizona communities in which they operate. Imagine the positive environmental impacts of treating the rest
+
+of the Regional Telecom portfolio of buildings in the southwest and across the US.
+
+The 75,668 kWh saved per year equates to preventing 53.6 metric tons of greenhouse gas emissions from
+
+being released or any of the following:
+
+Annual greenhouse emissions from:
+
+CO2 emissions from:
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+4
+
+Key Performance Results
+
+When comparing the three pilot RTUs before and after PermaFrost NMR® was installed, below are some of the
+
+highlights of the study:
+
+• With PermaFrost NMR® all the benefits produced are directly linked to increasing capacity. When
+
+initially tested, the pilot RTUs together were producing 40.54 tons of cooling. Following installation,
+
+the cooling capacity jumped by 9.82 tons or 24.2% to 50.36 tons.
+
+• The overall cost to produce each ton of cooling on the three RTUs dropped 22.8% from an average of
+
+1.14 kW/ton in the baseline to .88 kW/ton in the post. This means for every ton of cooling the pilot
+
+RTUs are asked to produce, Regional Telecom is spending 22.8% less to do so.
+
+• The projected annual kWh’s were reduced by 75,668 or 22.2%, from 340,510 to 264,842.
+
+• The average cost to operate the three pilot RTUs dropped 22.2% from a total of $35,754 in the baseline
+
+to $27,809 in the post. This reflects annual energy savings of $7,945.
+
+• The average Coefficient of Performance (COP) of the three pilot RTUs increased from 3.12 in the
+
+baseline to 4.02 representing an improvement of 28.8%
+
+• When operating under nearly identical weather and building load conditions, the average discharge
+
+pressure across the three pilot RTUs decreased from 215.2 in the baseline to 197.8 in the post. This
+
+represents a reduction of 8.1%. This improvement in the ability of the RTUs to dissipate heat faster
+
+will work to extend compressor life when outside temperatures are elevated in the warmer months
+
+of the year.
+
+The three RTUs involved in the pilot are recorded as follows:
+
+Lennox RTU, Mfg date: 2004, R22, Nominal 30-tons full load, 210V/3Ph, Model LCA360
+
+Lennox RTU, Mfg date: 2000, R22, Nominal 25-tons full load, 210V/3Ph, Model LGA300
+
+Lennox RTU, Mfg date: 1998, R22, Nominal 20-tons full load, 210V/3Ph, Model LGA240
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+5
+
+Objectives
+
+The four key objectives for this PermaFrost NMR® pilot study were all achieved. They included:
+
+1. Determine that the “as-is” capacity and efficiency of the pilot RTUs supporting the Regional Telecom switching
+
+centers had degraded by at least 10% on average after 10+ years in operation.
+
+2. Demonstrate at least 7% performance improvement in tonnage and/or corresponding kW/ton and
+
+energy reduction in the pilot systems 350-400 hours or more after PermaFrost NMR® was installed.
+
+3. Demonstrate the ability of the pilot RTUs to produce cooler, drier air as measured in both Dry Bulb
+
+and/or Wet Bulb deltas for the DX equipment after being treated.
+
+4. To support an effective business case for further deployments of the ECM within the Regional Telecom
+
+portfolio of properties, demonstrate the financial benefits associated with efficiency improvements
+
+realized over the duration of the study. These benefits must be equivalent to an 18-month or less
+
+payback to Regional Telecom on their initial project costs.
+
+ECM Product Brief
+
+PermaFrost NMR® is a multi-patented surface science
+
+nanotechnology that uses Nucleo Molecular Regenerative (NMR®)
+
+technology as its core agent. A sustainable, one-time treatment with
+
+no down time required, PermaFrost NMR® lasts for the remaining
+
+life of any type of climate control system in which it is installed.
+
+The direct benefits of PermaFrost NMR® are increased capacity
+
+resulting in improved system efficiency.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+6
+
+Testing Methodology
+
+The M&V team used the aforementioned IPMVP methodology to capture the performance and energy use of
+
+the three pilot systems. First, after verifying the amount of air flowing across the evaporator coils in the DX
+
+equipment before beginning each pilot phase, the subsequent measurements used in the efficiency calculations
+
+were collected and compiled in accordance with Option B of the IPMVP. This Protocol was developed by
+
+experts in the international community to provide a consistent method for analyzing HVAC system
+
+performance. Baseline measurements for the RTUs were taken on 4 and 5 February, 2016. Post measurements
+
+for these same three RTUs were taken on 3 and 4 March, 2016.
+
+The results presented below were formulated by entering the data into the following thermodynamic
+
+engineering formulas:
+
+• kW = Volts * Amps * Power Factor * Sq Rt 3 /1000 (for 3-Phase)
+
+• kW/ton = Actual Measured Energy / Actual Measured Capacity
+
+• Coefficient of Performance (COP) = 12 / (kW/ton) /3.412
+
+• Tons of Cooling = (Measured CFM * 4.5 * Enthalpy Delta T) / 12,000 BTU
+
+• Enthalpy = (WB Enter Temp converted to Enthalpy – WB Leaving Temp converted to Enthalpy)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+7
+
+Improved Unit Cost Following ECM
+
+The “Unit Cost” in the HVAC industry is the kW/ton
+
+ratio. KW/ton is commonly used for larger commercial
+
+and industrial air conditioning, heat pump and
+
+refrigeration systems. It is the HVAC industry’s standard
+
+of determining how much energy is required to create a
+
+single ton of cooling (i.e., conditioned air). When you
+
+reduce the unit cost of cooling you are saving energy
+
+regardless of how much overall cooling is required.
+
+The chart to the right clearly illustrates the amount of
+
+efficiency restoration the ECM created in the pilot 30-Ton
+
+RTU after treatment. The treated RTU is now performing
+
+20.4% more efficiently than before being treated. This
+
+degradation in operational efficiency was costing
+
+Regional Telecom a substantial amount of money in wasted
+
+energy.
+
+kW/ton
+
+.20 kW/ton
+Recovered
+Energy
+
+Equating to a
+20.4% Reduction
+
+30-Ton System Performance Eﬃciency
+After Treatment
+
+Baseline
+Post ECM
+
+0.98
+
+0.78
+
+BULL HEAD CITY 30-TON PILOT UNIT DATA
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+• Following treatment, the 30-ton pilot RTU has regained a total
+
+of 4.38 tons of capacity or 22%
+
+• Following treatment, the COP of the 30-ton pilot RTU
+
+increased by .93 or 25.9%
+
+3.59
+Baseline COP
+
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+19.89
+tons Baseline
+
+100%
+CAPACITY @
+100% LOAD
+
+Baseline
+
+PermaFrost NMR®
+Installed
+
+3.59
+
+4.52
+
+Baseline
+
+PermaFrost NMR®
+Installed
+
+19.89
+
+24.27
+
+4.52
+Post Installation COP
+24.27
+tons Post Installation
+
+25.9%
+
+Improvement
+in COP
+4.38
+
+tons of
+Recovered
+Capacity
+
+TONNAGE
+COP
+
+Summary of Key Performance Measurements
+in Treated 30-Ton Pilot RTU
+
+The charts below summarize the substantial improvements resulting from the implementation of the
+
+PermaFrost® NMR ECM into the 30-ton pilot RTU.
+
+8
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+Additional Results for Pilot Chiller when Employing the ECM
+
+IPMVP Baseline & Post Measurements in Treated 30-Ton Pilot RTU
+
+The chart below lists all of the performance measurements taken on the treated 30-ton pilot RTU. Only recently
+
+calibrated quality instruments were used to capture the data. Care was also taken to collect both the baseline
+
+and post measurements at nearly identical weather conditions so as not to unduly affect the resulting data.
+
+9
+
+23.78
+
+POST
+
+BASELINE
+
+18.93
+
+Calculated kW
+
+REDUCTION
+20.4%
+REDUCTION
+20.4%
+
+POST
+
+BASELINE
+
+Calculated kWh Reduction
+
+145,819
+
+116,079
+
+Type of Measurement
+
+Bull Head City
+30-Ton RTU
+Baseline
+
+Bull Head City
+30-Ton RTU
+Post
+
+Volts
+
+Amps
+
+Suction Temp
+
+Discharge Pressure
+
+Entering Air DB
+
+Leaving Air DB
+
+DB Air Delta
+
+Entering Air WB
+
+Leaving Air WB
+
+Entering WB Enthalpy
+
+Leaving WB Enthalpy
+
+Enthalpy Delta
+
+CFM Measured at Air Handler
+
+Outside Air Temp.
+
+kW
+
+Tons
+
+kW/Ton
+
+Coeﬃcient of Performance (COP)
+
+213
+
+62.3
+
+31.9
+
+166.5
+
+75.2
+
+53.9
+
+21.3
+
+54.4
+
+43.8
+
+22.86
+
+17.05
+
+5.81
+
+9,130
+
+55
+
+19.51
+
+19.89
+
+0.980
+
+3.59
+
+213.3
+
+60.2
+
+33.3
+
+154.2
+
+75.2
+
+52.3
+
+22.9
+
+55
+
+41.9
+
+23.22
+
+16.13
+
+7.09
+
+9,130
+
+55
+
+18.93
+
+24.27
+
+0.780
+
+4.52
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+Energy Consumption & Financial Metrics for 30-Ton Pilot RTU
+
+The following are the final calculated average performance measurements and financial projections before and
+
+after the ECM was installed in the 30-ton pilot RTU. These results may vary slightly from the tables listed earlier
+
+in this report due to rounding only to the first decimal position for cooling tons and kW values.
+
+Average Baseline Energy Consumption
+
+Baseline Capacity:  19.89 tons
+
+Adjusted kW Baseline:  0.98 kW/ton * 24.27 tons = 23.78 kW
+
+Adjusted Baseline kWh:  23.78 kW * 6,132 Annual Operating Hours = 145,819 kWh
+
+Revised Cost to Run Baseline: 145,819 kWh * $.105 = $15,311
+
+Average Post Energy Consumption
+
+kW Post:  0.78 kW/ton * 24.27 tons = 18.93 kW
+
+Annual kWh Post:  18.93 kW * 6,132 hours = 116,079 kWh
+
+Annual Cost Post:  116,079 kWh * $.105 cents = $12,188
+
+Average Savings per Year Per Unit
+
+Avoided Energy Cost (savings) Per Year:  $15,311 - $12,188 = $3,123
+
+Estimated Energy Savings per Month: $3,123 / 12 = $260
+
+Return on Investment
+
+Cost of PermaFrost NMR® installed in the operational portion of the 30-ton pilot RTU: $2,500*
+
+Estimated ROI for Regional Telecom when treating the 30-ton pilot RTU: $2,500 / $260 = ~9.6 mos
+
+Annual Internal Rate of Return = 125%
+
+Return on Investment Over 5 Years = 625%
+
+10
+
+(*) The cost to treat the entire unit was $3,750, but since only 2 of the 3 compressors on the unit were operational
+
+during the entire pilot and produced the savings, the cost to treat only that portion of the system was used in the
+
+calculations. If the full cost of treatment was used the ROI expands to just over 14 months.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+Explanation of Regression Analysis
+
+To obtain a realistic avoided energy cost and subsequent payback period for Regional Telecom for implementing the PermaFrost
+
+NMR® ECM, a detailed Regression Analysis is used to calculate the true energy savings resulting from the improvement
+
+in both capacity and efficiency utilizing data collected during the pilot study. These improvements reduce the annual kWh
+
+expended in the Post Analysis Period. The ROI comes from determining what the cost to run the RTU was when operating
+
+at the original energy profile to produce the newly restored amount of available capacity before then subtracting the revised
+
+cost to run the RTU at the same restored capacity after the ECM was installed. This regression analysis is the most widely
+
+accepted method of accounting for the reduced number of hours and/or load % at which the RTU will now operate due to
+
+the restored performance profile. If the building control system and associated thermostats are operating normally, this
+
+restored performance profile will normally allow the RTU to satisfy the internal area set points with increased efficiency
+
+resulting in reduced compressor demand loading.
+
+11
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+1.2
+
+12
+
+Improved Unit Cost Following ECM
+
+The “Unit Cost” in the HVAC industry is the kW/ton
+
+ratio. KW/ton is commonly used for larger commercial
+
+and industrial air conditioning, heat pump and
+
+refrigeration systems. It is the HVAC industry’s standard
+
+of determining how much energy is required to create a
+
+single ton of cooling (i.e., conditioned air). When you
+
+reduce the unit cost of cooling you are saving energy
+
+regardless of how much overall cooling is required.
+
+The chart to the right clearly illustrates the amount of
+
+efficiency restoration the ECM created in the 25-ton pilot
+
+RTU after treatment. The treated RTU is now performing
+
+26.3% more efficiently than before being treated. This
+
+degradation in operational efficiency was costing
+
+Regional Telecom a substantial amount of money in wasted
+
+energy.
+
+kW/ton
+
+.31 kW/ton
+Recovered
+Energy
+
+Equating to a
+26.3% Reduction
+
+25-Ton System Performance Eﬃciency
+After Treatment
+
+Baseline
+Post ECM
+
+1.18
+
+0.87
+
+KINGMAN 25-TON PILOT UNIT DATA
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+• Following treatment, the 25-ton pilot RTU has regained a total
+
+of 3.07 tons of capacity or 28%
+
+• Following treatment, the COP of the 25-ton pilot RTU system
+
+increased by 1.04 or 34.9%
+
+2.98
+Baseline COP
+
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+10.97
+tons Baseline
+
+100%
+CAPACITY @
+100% LOAD
+
+Baseline
+
+PermaFrost NMR®
+Installed
+
+2.98
+
+4.02
+
+Baseline
+
+PermaFrost NMR®
+Installed
+
+10.97
+
+14.04
+
+4.02
+Post Installation COP
+14.04
+tons Post Installation
+
+34.9%
+
+Improvement
+in COP
+3.07
+
+tons of
+Recovered
+Capacity
+
+TONNAGE
+COP
+
+Summary of Key Performance Measurements
+in Treated 25-Ton Pilot RTU
+
+The charts below summarize the substantial improvements resulting from the implementation of the
+
+PermaFrost® NMR ECM into the 25-ton pilot RTU.
+
+13
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+Additional Results for Pilot Chiller when Employing the ECM
+
+IPMVP Baseline & Post Measurements in Treated 25-Ton Pilot RTU
+
+The chart below lists all of the performance measurements taken on the treated 25-ton pilot RTU. Only recently
+
+calibrated quality instruments were used to capture the data. Care was also taken to collect both the baseline
+
+and post measurements at nearly identical weather conditions so as not to unduly affect the resulting data.
+
+14
+
+16.57
+
+POST
+
+BASELINE
+
+12.21
+
+Calculated kW
+
+REDUCTION
+26.3%
+REDUCTION
+26.3%
+
+POST
+
+BASELINE
+
+Calculated kWh Reduction
+
+101,607
+
+74,872
+
+Type of Measurement
+
+Bull Head City
+25-Ton RTU
+Baseline
+
+Bull Head City
+25-Ton RTU
+Post
+
+Volts
+
+Amps
+
+Suction Temp
+
+Discharge Pressure
+
+Entering Air DB
+
+Leaving Air DB
+
+DB Air Delta
+
+Entering Air WB
+
+Leaving Air WB
+
+Entering WB Enthalpy
+
+Leaving WB Enthalpy
+
+Enthalpy Delta
+
+CFM Measured at Air Handler
+
+Outside Air Temp.
+
+kW
+
+Tons
+
+kW/Ton
+
+Coeﬃcient of Performance (COP)
+
+210.7
+
+41.8
+
+33
+
+220
+
+72
+
+52.6
+
+19.4
+
+53.6
+
+47.3
+
+22.38
+
+18.84
+
+3.54
+
+8,265
+
+54
+
+12.95
+
+10.97
+
+1.180
+
+2.98
+
+210.3
+
+39.7
+
+34.7
+
+214.1
+
+72.4
+
+51.5
+
+20.9
+
+53.6
+
+45.4
+
+22.38
+
+17.85
+
+4.53
+
+8,265
+
+54
+
+12.21
+
+14.04
+
+0.870
+
+4.02
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+Energy Consumption & Financial Metrics for 25-Ton Pilot RTU
+
+The following are the final calculated average performance measurements and financial projections before and
+
+after the ECM was installed in the 25-ton pilot RTU. These results may vary slightly from the tables listed earlier
+
+in this report due to rounding only to the first decimal position for cooling tons and kW values.
+
+Average Baseline Energy Consumption
+
+Baseline Capacity:  10.97 tons
+
+Adjusted kW Baseline:  1.18 kW/ton * 14.04 tons = 16.57 kW
+
+Adjusted Baseline kWh:  16.57 kW * 6,132 Annual Operating Hours = 101,607 kWh
+
+Revised Cost to Run Baseline: 101,607 kWh * $.105 = $10,669
+
+Average Post Energy Consumption
+
+kW Post:  0.87 kW/ton * 14.04 tons = 12.21 kW
+
+Annual kWh Post:  12.21 kW * 6,132 hours = 74,872 kWh
+
+Annual Cost Post:  74,872 kWh * $.105 cents = $7,862
+
+Average Savings per Year Per Unit
+
+Avoided Energy Cost (savings) Per Year:  $10,669 - $7,862 = $2,807
+
+Estimated Energy Savings per Month: $2,807 / 12 = $234
+
+Return on Investment
+
+Cost of PermaFrost NMR® installed in the 25-ton pilot RTU: $1,563
+
+Estimated ROI for Regional Telecom when treating the 25-ton pilot RTU: $1,563 / $234 = ~6.8 mos
+
+Annual Internal Rate of Return = 180%
+
+Return on Investment Over 5 Years = 898%
+
+15
+
+(*) The cost to treat the entire unit was $3,125, but since only 2 of the 4 compressors on the unit were operational
+
+during the entire pilot and produced the savings, the cost to treat only that portion of the system ($1,563) was
+
+used in the calculations. If the full cost of treatment was used the ROI expands to just over 13 months.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+Explanation of Regression Analysis
+
+To obtain a realistic avoided energy cost and subsequent payback period for Regional Telecom for implementing the PermaFrost
+
+NMR® ECM, a detailed Regression Analysis is used to calculate the true energy savings resulting from the improvement
+
+in both capacity and efficiency utilizing data collected during the pilot study. These improvements reduce the annual kWh
+
+expended in the Post Analysis Period. The ROI comes from determining what the cost to run the RTU was when operating
+
+at the original energy profile to produce the newly restored amount of available capacity before then subtracting the revised
+
+cost to run the RTU at the same restored capacity after the ECM was installed. This regression analysis is the most widely
+
+accepted method of accounting for the reduced number of hours and/or load % at which the RTU will now operate due to
+
+the restored performance profile. If the building control system and associated thermostats are operating normally, this
+
+restored performance profile will normally allow the RTU to satisfy the internal area set points with increased efficiency
+
+resulting in reduced compressor demand loading.
+
+16
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+0.0
+
+0.3
+
+0.6
+
+0.9
+
+1.2
+
+1.5
+
+17
+
+Improved Unit Cost Following ECM
+
+The “Unit Cost” in the HVAC industry is the kW/ton
+
+ratio. KW/ton is commonly used for larger commercial
+
+and industrial air conditioning, heat pump and
+
+refrigeration systems. It is the HVAC industry’s standard
+
+of determining how much energy is required to create a
+
+single ton of cooling (i.e., conditioned air). When you
+
+reduce the unit cost of cooling you are saving energy
+
+regardless of how much overall cooling is required.
+
+The chart to the right clearly illustrates the amount of
+
+efficiency restoration the ECM created in the 20-ton pilot
+
+RTU after treatment. The treated RTU is now performing
+
+20.6% more efficiently than before being treated. This
+
+degradation in operational efficiency was costing
+
+Regional Telecom a substantial amount of money in wasted
+
+energy.
+
+kW/ton
+
+.26 kW/ton
+Recovered
+Energy
+
+Equating to a
+20.6% Reduction
+
+20-Ton System Performance Eﬃciency
+After Treatment
+
+Baseline
+Post ECM
+
+1.26
+
+1.00
+
+KINGMAN 20-TON PILOT UNIT DATA
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+• Following treatment, the 20-ton pilot RTU has regained a total
+
+of 2.37 tons of capacity or 24.5%
+
+• Following treatment, the COP of the 20-ton pilot RTU system
+
+increased by .73 or 26.2%
+
+2.79
+Baseline COP
+
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+9.68
+tons Baseline
+
+100%
+CAPACITY @
+100% LOAD
+
+Baseline
+
+PermaFrost NMR®
+Installed
+
+2.79
+
+3.52
+
+Baseline
+
+PermaFrost NMR®
+Installed
+
+9.68
+
+12.05
+
+3.52
+Post Installation COP
+12.05
+tons Post Installation
+
+26.2%
+
+Improvement
+in COP
+2.37
+
+tons of
+Recovered
+Capacity
+
+TONNAGE
+COP
+
+Summary of Key Performance Measurements
+in Treated 20-Ton Pilot RTU
+
+The charts below summarize the substantial improvements resulting from the implementation of the
+
+PermaFrost® NMR ECM into the 20-ton pilot RTU.
+
+18
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+Additional Results for Pilot Chiller when Employing the ECM
+
+IPMVP Baseline & Post Measurements in Treated 20-Ton Pilot RTU
+
+The chart below lists all of the performance measurements taken on the treated 20-ton pilot RTU. Only recently
+
+calibrated quality instruments were used to capture the data. Care was also taken to collect both the baseline
+
+and post measurements at nearly identical weather conditions so as not to unduly affect the resulting data.
+
+19
+
+15.18
+
+POST
+
+BASELINE
+
+12.05
+
+Calculated kW
+
+REDUCTION
+20.6%
+REDUCTION
+20.6%
+
+POST
+
+BASELINE
+
+Calculated kWh Reduction
+
+93,084
+
+73,891
+
+Type of Measurement
+
+Bull Head City
+20-Ton RTU
+Baseline
+
+Bull Head City
+20-Ton RTU
+Post
+
+Volts
+
+Amps
+
+Suction Temp
+
+Discharge Pressure
+
+Entering Air DB
+
+Leaving Air DB
+
+DB Air Delta
+
+Entering Air WB
+
+Leaving Air WB
+
+Entering WB Enthalpy
+
+Leaving WB Enthalpy
+
+Enthalpy Delta
+
+CFM Measured at Air Handler
+
+Outside Air Temp.
+
+kW
+
+Tons
+
+kW/Ton
+
+Coeﬃcient of Performance (COP)
+
+208.3
+
+39.7
+
+34.7
+
+259.1
+
+71.3
+
+52.5
+
+18.8
+
+53.5
+
+45.9
+
+22.32
+
+18.11
+
+4.21
+
+6,132
+
+56
+
+12.16
+
+9.68
+
+1.260
+
+2.79
+
+209.3
+
+39.1
+
+35.4
+
+225.2
+
+71.4
+
+51.5
+
+19.9
+
+53.3
+
+43.6
+
+22.2
+
+16.96
+
+5.24
+
+6,132
+
+56
+
+12.03
+
+12.05
+
+1.000
+
+3.52
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+Energy Consumption & Financial Metrics for 20-Ton Pilot RTU
+
+The following are the final calculated average performance measurements and financial projections before and
+
+after the ECM was installed in the 20-ton pilot RTU. These results may vary slightly from the tables listed earlier
+
+in this report due to rounding only to the first decimal position for cooling tons and kW values.
+
+Average Baseline Energy Consumption
+
+Baseline Capacity:  9.68 tons
+
+Adjusted kW Baseline:  1.26 kW/ton * 12.05 tons = 15.18 kW
+
+Adjusted Baseline kWh:  15.18 kW * 6,132 Annual Operating Hours = 93,084 kWh
+
+Revised Cost to Run Baseline: 93,084 kWh * $.105 = $9,774
+
+Average Post Energy Consumption
+
+kW Post:  1.00 kW/ton * 12.05 tons = 12.05 kW
+
+Annual kWh Post:  12.05 kW * 6,132 hours = 73,891 kWh
+
+Annual Cost Post:  73,891 kWh * $.105 cents = $7,759
+
+Average Savings per Year Per Unit
+
+Avoided Energy Cost (savings) Per Year:  $9,774 - $7,759 = $2,015
+
+Estimated Energy Savings per Month: $2,015 / 12 = $168
+
+Return on Investment
+
+Cost of PermaFrost NMR® installed in the 20-ton pilot RTU: $1,250
+
+Estimated ROI for Regional Telecom when treating the 20-ton pilot RTU: $1,250 / $168 = ~7.4 mos
+
+Annual Internal Rate of Return = 161%
+
+Return on Investment Over 5 Years = 806%
+
+20
+
+(*) The cost to treat the entire unit was $2,500, but since only 2 of the 4 compressors on the unit were operational
+
+during the entire pilot and produced the savings, the cost to treat only that portion of the system ($1,250) was
+
+used in the calculations. If the full cost of treatment was used the ROI expands to just over 14 months.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+Explanation of Regression Analysis
+
+To obtain a realistic avoided energy cost and subsequent payback period for Regional Telecom for implementing the PermaFrost
+
+NMR® ECM, a detailed Regression Analysis is used to calculate the true energy savings resulting from the improvement
+
+in both capacity and efficiency utilizing data collected during the pilot study. These improvements reduce the annual kWh
+
+expended in the Post Analysis Period. The ROI comes from determining what the cost to run the RTU was when operating
+
+at the original energy profile to produce the newly restored amount of available capacity before then subtracting the revised
+
+cost to run the RTU at the same restored capacity after the ECM was installed. This regression analysis is the most widely
+
+accepted method of accounting for the reduced number of hours and/or load % at which the RTU will now operate due to
+
+the restored performance profile. If the building control system and associated thermostats are operating normally, this
+
+restored performance profile will normally allow the RTU to satisfy the internal area set points with increased efficiency
+
+resulting in reduced compressor demand loading.
+
+21
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

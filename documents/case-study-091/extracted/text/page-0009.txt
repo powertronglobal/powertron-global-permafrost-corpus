@@ -1,0 +1,76 @@
+®
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+In reduced cost
+per ton of cooling
+equating
+to an 8.9%
+reduction
+8
+Reducing the Cost for Every Ton of Cooling Consumed
+The chart to the right illustrates the performance 
+restoration the PermaFrost NMR® ECM created in 
+the treated Chiller unit. The average cost to operate 
+this unit before it was treated with PermaFrost 
+NMR®, as calculated in kW/ton, was 0.45.
+The specific cost to operate this unit after it was 
+treated with PermaFrost NMR®, as calculated in 
+kW/ton, is currently 0.41.
+The higher baseline kW/ton rating measured in-situ was expected when compared to the ASHRAE loss of 
+performance efficiency and cost to operate estimate for a 5 ½ year old Chiller unit. The post results are also 
+in line with the average improvement savings shown over more than 130,000 installations globally.
+Additional Key Results for [Southeast Location] Metro Chiller 
+Cost to Operate
+kW/ton
+0.04 kW/ton
+Baseline
+Post ECM
+0.45
+0.41
+3,821,750
+POST
+BASELINE
+3,482,000
+Annual kWh
+REDUCTION
+8.9%
+8.7%
+POST
+BASELINE
+Chilled Water Delta 
+IMPROVEMENT
+9.2° F
+10° F
+HVAC Equipment Manufacturer
+CDHF2500
+R123
+3450
+2,500
+2008
+System Description
+Manufacturer
+Model Number
+Refrigerant Type
+Nominal Cooling Capacity in
+Tons at Given Test conditions  
+Average Annual
+Runtime Hours
+Date Installed
+Notes
+The pilot Chiller unit provides cooling to the main data center 
+floor at the Data Center Provider [Southeast Location] metro complex. Although there is a 
+consistently heavy load, the complex utilizes outside air at 
+times through plate & frame heat exchangers in addition to 
+having five other similar sized chiller units available to 
+support all the cooling duties. Given this operational scenario, 
+Data Center Provider plant personnel determined the pilot chiller unit runs 
+approximately 2,500 hours or more annually prior to the ECM 
+being implemented. To be conservative, we used the minimum 
+number of hours to develop the Initial Payback Period (IPP) 
+and Internal Rate of Return (IRR).
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

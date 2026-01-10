@@ -1,0 +1,153 @@
+®
+1.14
+POST
+BASELINE
+.94
+kW/ton
+REDUCTION
+17.4%
+REDUCTION
+POST
+BASELINE
+Tonnage
+14.8%
+14.8%
+POST
+BASELINE
+Enthalpy Delta
+IMPROVEMENT
+7.95
+22.72
+26.09
+107,646
+9.13
+Results for RTU #57 After Treatment with PermaFrost NMR®
+HVAC Equipment Manufacturer
+YCD300B4L
+334100790D
+R22
+25
+4,380
+2003
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+14
+Notes
+The pilot unit provides cooling to working 
+spaces on the 2nd floor at Retail Chain C complex. Given 
+the average building load, the pilot unit runs 
+approximately 4,380 hours or more annually 
+prior to the ECM being implemented.
+IMPROVEMENT
+POST
+BASELINE
+130,261
+Calculated Annual kWh 
+17.4%
+477.7
+35.00
+34.57
+37.4
+122.7
+64.8
+269.2
+73.7
+52.7
+64.3
+50.2
+29.54
+20.41
+9.13
+15.3
+24.58
+24.58
+0.94
+26.09
+7,620
+107,646
+100
+77
+122.7
+-0.017
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Adj Amps for Higher Post Discharge PSI 
+ 
+Suction Temperature  
+Discharge Temperature 
+ 
+Suction Pressure 
+ 
+Discharge Pressure 
+ 
+Entering Air DB 
+ 
+Leaving Air DB 
+ 
+Entering Air WB 
+ 
+Leaving Air WB 
+ 
+Enthalpy of Entering WB 
+ 
+Enthalpy of Leaving WB 
+ 
+Delta-T of Enthalpy 
+ 
+Evaporator Approach  
+kW (V x A x 1.47) 
+ 
+Adjusted kW  
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Unit CFM 
+ 
+Adjusted Annual kWh  
+ 
+Unit % Load During Testing  
+OAT 
+ 
+Adj for Diﬀerences in CDR Pressures 
+ 
+Adj for Cooler Post on Condenser Coils 
+ 
+476.6
+36.97
+39.9
+120.6
+68.6
+261.9
+75
+55.7
+64.1
+52
+29.39
+21.44
+7.95
+15.8
+25.90
+29.74
+1.14
+22.72
+7,620
+130,261
+100
+87
+120.6
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

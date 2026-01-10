@@ -1,0 +1,42 @@
+11 
+SUMMARY OF SYSTEMS AND SITES 
+There are sixty-one (61) units tested to demonstrate that PermaFrost NMR® provides the 
+benefits advertised.  Of these four (4) units (1.5 tons each) were tested at a Juno Beach lab.  
+These units all had similar conditions and can be compared against one another to determine 
+potential variations between like units (see Appendix B).   
+Unit #1 Make – Bard 
+Model – WA182-A08 
+Serial 1395011660322-02 
+Refrigerant Type – R-22 
+Age – 2001 
+Nominal Cooling Capacity Btuh / tons – 18,300 Btuh / 1.5 tons 
+Design CFM – 640 
+Unit #2 Make – Bard 
+Model – W18A1-A08XX4 
+Serial – 313H112809104 
+Refrigerant Type – R-410A 
+Age – 2011 (BRAND NEW) 
+Nominal Cooling Capacity Btuh / tons – 18,300 Btuh / 1.5 tons 
+Design CFM – 600 
+Unit #3 Make – Bard 
+Model – W18A1-A08 
+Serial – 313H112809 
+Refrigerant Type – R-410A 
+Age – 2011 (BRAND NEW) 
+Nominal Cooling Capacity Btuh / tons – 18,300 Btuh / 1.5 tons 
+Design CFM – 600 
+Unit #4 Make – Bard 
+Model – WA182-A08XX4 
+Serial  – 139N011690158-02 
+Refrigerant Type – R-22 
+Age – 2001 
+Nominal Cooling Capacity Btuh / tons – 18,300 Btuh / 1.5 tons 
+Design CFM – 640 
+The existing building (in-situ) sites are outline as follows: 
+Organization A, 2nd floor, [Commercial Address], NY   This unit is a 20-ton Comfort-Aire 
+DX HVAC unit.  The Company made the decision to treat the unit as it was the main unit 
+supporting the office. This unit provides cooling for The Company’s design and engineering 
+spaces on the 2nd floor of the facility.  
+Per The Company, the equipment is estimated to run 1,800 hours per year. It was Powertron’s 
+understanding that the condenser coil was cleaned by a service group to attempt to alleviate this 
+condition. The post energy measurement period revealed that the discharge pressure is in excess 

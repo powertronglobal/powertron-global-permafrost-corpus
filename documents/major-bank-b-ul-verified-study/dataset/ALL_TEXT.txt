@@ -1,0 +1,765 @@
+================================================================================
+DOCUMENT EXTRACTED FROM PDF
+================================================================================
+
+═══ PAGE 001 ═══
+
+Energy Science Division
+®
+Comprehensive Energy Eﬃciency Study 
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+Major Bank B LOCATIONS IN NEW YORK CITY
+Study Dates:
+     August - September 2015
+Participants:
+      Major Bank B
+      [Client SVP], SVP
+      Director of Facilities
+      [Client VP], VP
+      Regional Facilities Manager Lead
+      Property Management Firm B
+      [Facility Manager]
+      Facility Manager NY/NJ
+      [Facility Manager]
+      Facility Manager NY 
+     Underwriters Laboratories (UL)
+      [UL Field Engineer] 
+      Sr. Field Engineer
+      [UL Engineering Technician]
+      Engineering Technician
+      HVAC Contractor A
+      [Contractor VP] 
+      VP of Operations
+      [Contractor Technician]
+      Sr. HVAC Technician
+      Powertron Global (PTG)
+      [Senior Energy Engineer]
+      Director of Engineering
+      [Director Global Business]
+      Director Global Business
+Property of Powertron Global®
+
+
+═══ PAGE 002 ═══
+
+Client:  Powertron Global, LLC 
+ 
+ 
+The in-situ testing of PermaFrost NMR in two unitary systems occurred at 
+two locations in Brooklyn, NY. The addresses are 987 4th Avenue & 9904 
+4th Avenue. The instrumentation utilized during the baseline and the post 
+data gathering period were identical. The methods to employ these 
+instruments were identical as well. Current instrument validation of 
+calibration and accuracy were furnished to Underwriters Laboratories (UL) 
+to assure compliance with accepted standards. 
+ 
+On August 10, 2015 during the baseline measurements, UL’s Senior Field 
+Engineer [UL Field Engineer] witnessed and verified all readings performed by 
+Powertron Global’s Senior Engineer [Senior Energy Engineer]. On September 3, 
+2015 the team returned to these same two locations and performed the 
+post measurements with UL’s Engineering technician [UL Engineering Technician] 
+verifying all data collection.  
+ 
+After all data was received, field data sheets were completed by 
+requesting the data that was sent to the mobile devices of the U.L. 
+representatives to be read aloud to the field engineer performing the test 
+and that the data read from their devices was transferred in writing to the 
+field sheet. The U.L. representatives were asked to sign and date these 
+sheets and photograph the results. 
+ 
+The following categories were measured and witnessed by the UL 
+representatives:  
+ 
+- System air volume (CFM) 
+- Return and supply air dry and wet bulb temperature (measured across 
+Property of Powertron Global®
+
+
+═══ PAGE 003 ═══
+
+the fin and tube evaporator) 
+- Total equipment voltage and amperage (measured at the service 
+disconnect switch) 
+- Refrigerant suction, discharge pressures, superheat and sub-cooling 
+- Dry bulb temperature of outdoor air entering the fin and tube condenser 
+coil 
+ 
+ 
+This method of testing and extensive data tracking and validation 
+completes the testing protocols and adherence to the field AHRI 340/360 
+standard strategy. 
+ 
+ 
+ 
+[UL Engineering Technician]  
+ 
+ 
+ 
+ 
+[UL Field Engineer] 
+ 
+ 
+ 
+ 
+Date:  9-28-2015         
+ 
+ 
+ 
+ 
+Date: 10/6/2015                 
+Engineering Technician  
+ 
+ 
+ 
+ 
+Global HVAC Program Manager 
+Project Handler-CLS  
+ 
+ 
+ 
+ 
+ 
+Underwriters Laboratories LLC. 
+3027C  
+ 
+ 
+ 
+ 
+ 
+ 
+1285 Walt Whitman Rd. 
+Underwriters Laboratories LLC. 
+ 
+ 
+ 
+Melville, N.Y. 11747 
+1285 Walt Whitman Rd.  
+ 
+ 
+ 
+ 
+(607) 642-5408 
+Melville, N.Y. 11747 
+ 
+ 
+ 
+ 
+ 
+(607) 239-8367 
+(631) 546-2354 Ext. 22354 
+ 
+ 
+ 
+ 
+[ul-engineer@provider.com] 
+[ul-technician@provider.com] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Property of Powertron Global®
+
+
+═══ PAGE 004 ═══
+
+1
+Study Overview
+This report details the results of the recently completed comprehensive energy performance study conducted at 
+four New York City Major Bank B locations. They are as follows:
+ 
+ 
+• 987 4th Avenue, Brooklyn, NY 
+ 
+• 9904 4th Avenue, Brooklyn, NY
+ 
+• 16406 Union Turnpike, Queens, NY 
+         
+• [Queens Laboratory Address], Queens, NY
+Running from August 10 to September 4, 2015, the pilot was designed to illustrate the positive impact the 
+PermaFrost NMR® energy control measure (ECM) would have on the overall cooling performance of common 
+types of cooling systems supporting the Major Bank B portfolio of facilities. A variety of package rooftop units were 
+tested at three of the locations, while a common split system was tested at the fourth location.
+As demonstrated in this field trial, PermaFrost NMR® restores the capacity lost over time due to fouling of the 
+heat exchange surfaces. This improvement in thermal performance will manifest itself in any or all of the 
+following ways:
+ 
+• Restored additional capacity to better satisfy fluctuating building loads 
+ 
+• Additional critical HVAC redundancy at no extra cost or interruption to facility operations
+ 
+• Improved system efficiency, lowering cost to produce each ton of cooling required (i.e., kW/ton)
+ 
+• Restored thermal efficiency allowing systems to achieve thermostat set points faster, reducing 
+ 
+   runtime (i.e., kWh) and extending useful equipment life an average of 15% 
+The improvements demonstrated in this or any field test resulting from PermaFrost NMR® are dependent on 
+factors such as age, condition, service history, runtime of one or both compressors and the design and application 
+of each system. The results in this pilot were very consistent with 13 year historical performance averages as well 
+as the recent laboratory study completed in May, 2015 by Underwriters Laboratories (UL) in their testing 
+chambers in [Texas Location], TX. 
+Property of Powertron Global®
+
+
+═══ PAGE 005 ═══
+
+2
+Financial Beneﬁts of the Study
+Summary
+Major Bank B will realize the following financial benefits from investing $3,875 on the installation of PermaFrost 
+NMR®  in the four HVAC systems included in this study:
+1. Energy Savings (annual)   
+ 
+ 
+ 
+ 
+ 
+$  4,236
+2. Avoided cost of additional capacity replacement   
+ 
+$  6,000  
+3. Deferred capital costs 
+ 
+ 
+ 
+  
+ 
+$  1,200 
+4. Capital improvement deduction 
+ 
+ 
+ 
+ 
+$  3,875 
+5. Payback Period 
+ 
+ 
+ 
+ 
+ 
+ 
+11 Months
+6. Annual Rate of Return 
+ 
+ 
+ 
+ 
+ 
+109%
+7. Return On Investment (5 years) 
+ 
+ 
+ 
+ 
+547%
+Highlights of the study:
+• The four HVAC systems tested ranged in age from 7 to 12 years respectively with the average age 
+    being 9 years in service. The pilot systems  produced a combined 30.02 ton of cooling. After the 
+    installation of Permafrost NMR® 22%  of the cooling capacity was restored (36.63 tons post vs 30.02 
+    ton baseline).
+• The average cost to produce each ton of cooling on the pilot systems dropped 21% from 1.43 kW/ton 
+    in the baseline to 1.13 kW/ton. 
+• The average Coefficient of Performance (COP) of the pilot systems improved 23.7% from an average 
+    of 2.91 in the baseline to 3.60. 
+• The average cost to operate each system at an average of $.17 per kWh delivered fell 19.6% from 
+    $5,403 in the baseline to $4,344.
+• The cost to treat all four of the pilot systems of $3,875 divided by the annual savings achieved of 
+    $4,236 results in an average payback period of 11 months. 
+Property of Powertron Global®
+
+
+═══ PAGE 006 ═══
+
+3
+Objectives
+The PermaFrost NMR® study was jointly-conducted by Major Bank B, Property Management Firm B, Underwriters Laboratories (UL), 
+HVAC Contractor A and Powertron Global and achieved four objectives: 
+ 
+1. Determine that the “as-is” capacity and efficiency of the four pilot systems supporting the 
+ 
+   aforementioned Major Bank B facilities had degraded by at least 10% after an average of 9 years in 
+ 
+   operation.  
+ 
+2. Verify that an average of 10% performance improvement in both tonnage and kW/ton occurred  
+ 
+    across all four of pilot cooling systems due to the installation of PermaFrost NMR®. A lower kW/ton 
+ 
+    efficiency ratio reduces the unit cost of running climate control systems.
+ 
+3. Verify that every system is producing cooler, drier air as measured in both Dry Bulb and Wet Bulb 
+ 
+    deltas due to the installation of  PermaFrost NMR®.
+ 
+4. Report the financial benefits associated with efficiency improvements realized over the duration of 
+ 
+    the study in terms of energy cost savings and capital improvements of restored capacity.. 
+ 
+    The financial benefits support an effective business case for Major Bank B portfolio of properties to reduce 
+ 
+    its unit cost for cooling providing a 24-month or less payback to Major Bank B.
+The multiple cooling systems involved in the study are recorded as follows:
+Carrier, Mfg date: 2006, R22, 208 volt-3 Phase, Model 48HJF009 (987 4th Ave, Brooklyn)
+Carrier, Mfg date: 2008, R22, 208 volt-3 Phase, Model 48HJF012 (9904 4th Ave, Brooklyn)
+Carrier, Mfg date: 2006, R22, 208 volt-3 Phase, Model 48HJF008 (16406 Union Tnpk, Queens)
+Carrier, Mfg date: 2003, R22, 208 volt-3 Phase, Model 38TRA048 ([Queens Laboratory Address], Queens)
+ECM Product Brief
+PermaFrost NMR® is a multi-patented surface science nanotechnology that uses Nucleo Molecular 
+Regenerative (NMR®) technology as its core agent. A sustainable, one-time installation with no down time 
+required, PermaFrost NMR® lasts for the remaining life of any type of climate control system in which it is 
+installed.  The direct benefits of PermaFrost NMR® are improved cooling efficiency and increased capacity. 
+Property of Powertron Global®
+
+
+═══ PAGE 007 ═══
+
+0.0
+0.3
+0.6
+0.9
+1.2
+1.5
+    4
+Methodology
+After verifying the amount of air flowing across the evaporator coils before beginning each pilot, the 
+subsequent measurements used in the efficiency calculations were collected using AHRI Standards 210/240
+& 340/360 and compiled in accordance with Option B of the IPMVP (International Measurement and 
+Verification Protocol) framework.   
+The results presented below were formulated by entering the data into the following thermodynamic 
+engineering formulas:
+ 
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+• kW/ton = Actual Measured Energy / Actual Measured Capacity 
+ 
+• Coefficient of Performance (COP) = 12 / (kW/ton) /3.412
+ 
+• Actual Cooling Capacity per Hour = (Measured CFM * 4.5 * Enthalpy Delta T) / 12,000 BTU
+Recovered Unit Cost with PermaFrost NMR® ECM
+The kW/ton is the standard Unit Cost in the HVAC 
+industry. It is the HVAC industry’s standard of 
+determining how much energy is required to create 1 ton 
+of cooling (i.e., conditioned air). When you reduce your 
+unit cost of cooling you are saving regardless of how 
+much cooling is required.
+The chart to the right illustrates the amount of efficiency 
+restoration the ECM created in the pilot systems after 
+installation. This degradation in operational efficiency is 
+costing Major Bank B a substantial amount of money in 
+wasted energy.  As the last chart clearly illustrates, the 
+pilot systems are currently performing 21% more 
+efficiently than the control systems. This gap will only 
+continue to widen until it levels off at 30-35% loss of 
+efficiency.
+kW/ton
+.30 kW/ton
+Recovered
+Energy
+Equating to a
+21% Reduction
+Pilot Systems Performance Eﬃciency
+After Installation
+Baseline
+Post ECM
+1.43
+1.13
+Property of Powertron Global®
+
+
+═══ PAGE 008 ═══
+
+• Following installation, the four pilot systems now have regained a total
+  of 6.61 tons of capacity or an average of 1.65 tons per system equating
+  to 22% increase
+• Following installation, the COP of the four pilot systems increased
+  an average of 23.7%
+2.91
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+30.02
+tons Baseline
+100%
+CAPACITY @
+100% LOAD
+Baseline
+PermaFrost NMR®
+Installed
+2.91
+3.60
+Baseline
+PermaFrost NMR®
+Installed
+30.02
+36.63
+3.60
+Post Installation COP
+36.63
+tons Post Installation
+23.7%
+Improvement
+in COP
+6.61
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of Key Performance Measurements in Pilot Systems
+The charts below summarize the substantial improvements resulting from the implementation of the
+PermaFrost NMR® ECM in four systems.
+    5
+Property of Powertron Global®
+
+
+═══ PAGE 009 ═══
+
+Major Bank B
+BASELINE
+ 987 4th Ave
+Major Bank B
+POST
+ 987 4th Ave
+Major Bank B
+BASELINE
+ 9904 4th Ave
+Major Bank B
+POST
+ 9904 4th Ave
+Major Bank B
+BASELINE
+16406 Union Tpk
+Major Bank B
+POST
+16406 Union Tpk
+Major Bank B
+BASELINE
+196-41 Northern
+Major Bank B
+POST
+196-41 Northern
+Summary of All Performance Measurements in Four Pilot Systems
+The chart below lists the verified measurements of the four pilot systems as well as the some of the 
+meanings or values associated with the measurements. The readings at the two Brooklyn locations were 
+witnessed and verified by Underwriters Laboratory (UL), Property Management Firm B and HVAC Contractor A personnel. At the 
+two Queens locations, the measurements were both verified and witnessed by HVAC Contractor A. 
+Powertron Global engineers were present at all four locations.
+TYPE OF MEASUREMENT
+206.6
+29.5
+42.8
+72.8
+105.1
+211.2
+72.2
+51.2
+61.7
+49.4
+3,836
+80
+0.55
+27.64
+19.97
+8.96
+11.03
+0.812
+7.67
+21
+$5,586
+205.9
+31.2
+29.25
+45.4
+76.7
+119.6
+258.6
+72.7
+49.8
+63.9
+49.1
+3836
+85
+0.063
+0.55
+29.24
+19.81
+8.85
+13.57
+0.653
+9.43
+22.9
+$4,499
+$1,087
+210.1
+36.6
+43.8
+74.2
+111.1
+229.7
+73.4
+54.6
+62.4
+52.7
+4,625
+83
+1.15
+28.0
+21.8
+11.30
+10.75
+1.05
+6.20
+18.8
+$5,973
+211.1
+38.9
+33.7
+44.9
+75.8
+122.3
+268.3
+74.3
+52.8
+62.3
+52.3
+4625
+94
+0.134
+1.15
+28.07
+21.62
+10.46
+11.19
+0.93
+6.45
+21.5
+$5,322
+$651
+205.6
+28.86
+47
+79.2
+101.2
+199.2
+72.5
+56.3
+59.3
+50.5
+3,108
+82
+0.65
+25.98
+20.58
+8.72
+6.29
+1.39
+5.40
+16.2
+$6,262
+204.2
+33.19
+30.4
+48
+80.8
+100
+196
+71.5
+51.3
+62
+49.9
+3108
+89
+0.085
+0.65
+27.85
+20.25
+9.11
+8.86
+1.03
+7.60
+20.2
+$4,631
+$1,631
+198.3
+16.57
+38
+65.8
+104.6
+209.71
+74.6
+61.5
+58.3
+53.3
+1,477
+84
+0.35
+24.10
+20.58
+2.79
+1.95
+1.43
+3.52
+13.1
+$3,792
+188.5
+22.65
+20.8
+38.2
+66.1
+103.3
+205
+74.7
+57.7
+63.2
+55.1
+1,477
+91
+0.083
+0.35
+28.72
+23.28
+3.33
+3.01
+1.10
+5.44
+17
+$2,923
+$869
+Volts
+Amps
+Adj Post Amps for Warmer OAT
+Suction Temp (100% load)
+Suction Pressure (100% Load)
+Discharge Temp (100% Load)
+Discharge Pressure (100% Load)
+Entering Air DB
+Leaving Air DB
+Entering Air WB
+Leaving Air WB
+CFM Across Coils
+Outside Air Temp.
+Adj % for Warmer Post OAT
+Total Static Pressure
+Entering Enthalpy
+Leaving Enthalpy
+kW
+Tons
+kW/Ton
+Enthalpy Delta
+Dry Bulb Delta in Degrees
+Annual Cost to Run
+Annual $ Savings vs Baseline
+(*) - All CFM's measured baseline and post fell within a 2% margin of error so the same CFM's were used in all calculations so not to affect
+the results more positively or negatively.
+    6
+Property of Powertron Global®
+
+
+═══ PAGE 010 ═══
+
+Energy Consumption & Financial Detail
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the pilot systems compared to the control system.
+Avg. Baseline Energy Consumption
+Avg. Baseline Capacity:  7.51 tons
+Avg. Adjusted kW Baseline:  1.16 kW/ton * 9.16 tons = 10.63 kW
+Avg. Adjusted Baseline kWh:  10.63 kW * 2,990 Annual Operating Hrs = 31,784 kWh
+Avg. Revised Cost to Run Baseline: 31,784 kWh * $.17 = $5,403
+Avg. Post Energy Consumption
+kW Post:  .933 kW/ton * 9.16 tons = 8.545 kW
+Annual kWh Post:  8.545 kW * 2,990 hours = 25,550 kWh
+Annual Cost Post:  25,550 kWh * $.17 cents = $4,344
+Avg. Savings per Year Per System
+Avoided Energy Cost (savings) Per Year:  $5,403 - $4,344 = $1,059
+Estimated Energy Savings per Month: $1,059 / 12 = $88
+Estimated Energy savings per year for all four pilot systems = $4,236
+Payback Period
+Cost of PermaFrost NMR® installed in all four pilot cooling systems: $3,875
+Estimated Payback Period for Major Bank B when treating all four pilot cooling systems: $3,875 / $352 = 11 Months
+Return on Investment
+Annual Internal Rate of Return = 109%
+Return on Investment Over 5 Years = 547%
+Explanation of Regression Analysis
+Utilizing data collected during the pilot study, to obtain a true avoided energy cost and subsequent payback period for TD 
+Bank for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in both capacity and efficiency. Working together, these improvements reduce the 
+annual kWh expended in the Post Analysis Period. The ROI comes from determining what the cost to run the cooling systems 
+was when operating at the original energy profile to produce the newly restored amount of available capacity and then 
+subtracting the revised cost to run the systems at the same restored capacity after the PermaFrostNMR® ECM was installed. 
+This regression analysis is the most widely accepted method of accounting for the reduced number of hours and/or load % at 
+which the systems will now operate due to the restored performance profile. This restored performance profile allows the 
+cooling systems to satisfy the internal area set point with increased efficiency resulting in reduced compressor demand loading.
+    7
+Property of Powertron Global®
+
+
+═══ PAGE 011 ═══
+
+Capital Improvements Detail
+The capacity recovered after the PermaFrost NMR®  treatment has substantial capital benefits including cost 
+avoidance, deferred capital expense, and capital improvement in addition to the reduced energy cost to run the 
+systems.  These are instantaneous benefits realized at installation.
+Treating the 4 HVAC systems with PermaFrost NMR® allows Major Bank B to realize the following 
+ﬁnancial beneﬁts: 
+ 
+1. Restoration of 6 tons of HVAC Capacity. (Current rate to purchase commercial rooftop HVAC 
+ 
+    capacity is ~ $1000 per ton installed). 
+ 
+2. Deferred Capital Cost. (Extending the remaining useful life of HVAC equipment will defer capital 
+ 
+    cost of replacement. Using five years (30%) service life remaining, the systems will experience an 
+ 
+    estimated 1-1.5 years of additional service life, deferring replacement costs by 20%). 
+ 
+3. Capital Improvement Deduction. (Improving performance and extending the useful life of existing 
+ 
+    equipment allows for a capital expense classification. This classification enhances EBITDA, reduces 
+ 
+    exposure, and preserves asset value while deducting the expense over the remaining life of the system 
+ 
+    ~ 5 years). 
+    8
+Property of Powertron Global®
+
+
+═══ PAGE 012 ═══
+
+12.7
+Passenger vehicles
+3.1
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+6,772
+Gallons of gasoline
+consumed
+64,642
+Pounds of coal burned
+annually
+140
+Barrels of oil
+consumed
+8.3
+Homes’ electricity use for
+one year
+    9
+Major Bank B is Saving More than Just Energy and
+Preserving Capital
+By treating the pilot cooling systems plus all the other equipment at the four locations with PermaFrost 
+NMR®, based on the manner in which the systems are currently being operated, Major Bank B will save 
+approximately 87,276 kWh per year and all the costs associated with those savings. From an environmental 
+impact standpoint, Major Bank B will also benefit all the surrounding communities in which they operate.  
+Imagine the positive environmental impacts of treating the rest of Major Bank B portfolio of offices and retail 
+locations spread across the eastern seaboard.  
+The 87,276 kWh saved per year equates to preventing 60.2 metric tons of greenhouse gas emissions from 
+being released or any of the following:
+Annual greenhouse emissions from:
+CO2 emissions from:
+Property of Powertron Global®
+

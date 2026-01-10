@@ -1,0 +1,1706 @@
+================================================================================
+DOCUMENT EXTRACTED FROM PDF
+================================================================================
+
+═══ PAGE 001 ═══
+
+TM
+EMIP
+Demostration
+TAI-566 EMIP Demonstration, Military Base B
+
+
+═══ PAGE 002 ═══
+
+
+
+
+═══ PAGE 003 ═══
+
+
+
+
+═══ PAGE 004 ═══
+
+1
+TAI-566 EMIP Demonstration, Military Base B
+July 20 - 22, 2009
+In this demonstration we treated a 
+Carrier Transicold Supra 744 
+refrigerated transport vehicle to show 
+the benefits of PermaFrost®.
+     Objective:
+ 
+Powertron Global™ supplied a refrigerated vehicle for the demonstration of the PermaFrost® product line’s 
+ability to reduce HVAC system kilowatt consumption by allowing the refrigerated unit to produce colder 
+dryer air which results in reduced run-time.  Reducing run-time reduces the kilowatts (kwh) needed to run 
+the refrigerated system.  Reducing the kwh required for operation reduces fuel necessary to run the generator 
+and the vehicle.
+ 
+The Demonstration was conducted over 2 days.  
+The truck was allowed to run for 8 hours from 
+0950 to 1750 and all measurements were recorded.  
+Then we applied PermaFrost® technology to the 
+refrigeration unit and measured it for the same 8 
+hours the following day (0950 to 1750).
+
+
+═══ PAGE 005 ═══
+
+21-Jul
+20-Jul
+62
+64
+66
+68
+70
+72
+74
+76
+78
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Temperature
+Hours
+2
+     Initial 4 hours
+The container temperature was one degree higher for the Post compared to the Baseline.  The system ran 
+approximately 2 minutes for each degree of heat removed, therefore the post time was adjusted by 2 minutes 
+to normalize the data for the higher temperature in the Post measurement.
+     Results:
+     Pulldown Time
+     Weather Data
+• Set Temperature  25 degrees F.
+Pull Down Time 
+18:20 min
+Initial Box temp 
+61
+Run-time 
+ 
+1:17   
+Avg. temp 
+ 
+72.5
+Pull Down Time 
+16:23 min
+Initial Box temp 
+62
+Run-time 
+ 
+1:08
+Avg. temp 
+ 
+72
+Before treatment
+After PermaFrost® Treatment
+Pull Down Time 
+14:23 min
+Initial Box temp 
+61
+Run-time 
+ 
+1:06
+Avg. temp 
+ 
+72
+Adjusted
+Pull Down Time 
+18:20 min
+Before treatment
+After PermaFrost® Treatment
+After Pull Down Time    14:23 min
+Approx. 21% improvement
+21.5% improvement over the initial 4 hours
+TAI-566 EMIP Demonstration, Military Base B
+July 20 - 22, 2009
+
+
+═══ PAGE 006 ═══
+
+TAI-566 EMIP Demonstration, Military Base B
+July 20 - 22, 2009
+3
+     Last 4 hours
+     Three Degree Pull Down
+Run-time 
+ 
+38 min  
+Avg. Temp 
+ 
+69.7
+1gal 26 oz used in 8 hours
+Before treatment
+After PermaFrost® Treatment
+Run-time 
+ 
+53 min
+Avg. temp 
+ 
+76.2
+39% more run time
+1 gal 32 oz used in 8 hours
+• Set Temperature  25 degrees F.
+Run-time 
+31:39 min  
+Avg. Temp 
+73
+Froze before reaching
+0 at 3 degrees
+Baseline Pull Down
+Post Pull Down 1
+Post Pull Down 2
+Run-time 
+25:19 min
+Avg. temp 
+72         
+20% Improvement
+Reached 0 at 33:39 min
+Run-time 
+23:06 min
+Avg. Temp 
+73
+27% Improvement  
+Reached 0 at 30:59 min
+• Began at 30 degrees and set temperature  0 degrees F.
+
+
+═══ PAGE 007 ═══
+
+TAI-566 EMIP Demonstration, Military Base B
+July 20 - 22, 2009
+4
+     Weather Delta T
+     Estimated Savings
+If weather conditions were similar throughout the demo, the system would have used 23 oz less fuel:
+1) -18-22% amount of fuel per refer unit and on generators used to run refrigeration systems in the field.
+2) Extending the equipment life up to 20-25%.
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix A Total Run Time Log
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix B Weather Data from Military Base B
+Before Treatment
+In temp 
+71.6
+Out Temp 
+58.3
+Delta  
+13.3  
+After Treatment
+In Temp 
+72.1
+Out Temp 
+55.2
+Delta  
+16.9
+29% improvement in Delta T
+
+
+═══ PAGE 008 ═══
+
+Appendix A
+Total Run Time Log
+5
+ 
+7/20/10 
+ 
+Total Runtime
+1 
+start 
+0:00:00  
+18:20:00
+ 
+stop 
+18:20:00 
+ 
+2 
+ 
+29:53:00 
+24:19:00
+ 
+ 
+35:52:00 
+ 
+3 
+ 
+48:33:00 
+30:10:00
+ 
+ 
+54:22:00 
+ 
+4 
+ 
+1:09:01  
+35:50:00
+ 
+ 
+1:14:34  
+5 
+ 
+1:30:05  
+41:12:00
+ 
+ 
+1:35:25  
+6 
+ 
+1:51:14  
+46:35:00
+ 
+ 
+1:56:37  
+7 
+ 
+2:12:56  
+52:06:00
+ 
+ 
+2:18:27  
+8 
+ 
+2:35:27  
+57:16:00
+ 
+ 
+2:40:37  
+ 
+ 
+ 
+ 
+9 
+ 
+2:58:06  
+102:32:00
+ 
+ 
+3:03:24  
+ 
+ 
+ 
+ 
+10 
+ 
+3:21:22  
+1:07:37
+ 
+ 
+3:26:27  
+ 
+ 
+ 
+ 
+11 
+ 
+3:45:33  
+1:12:28
+ 
+ 
+3:50:25  
+ 
+ 
+ 
+ 
+12 
+ 
+4:10:22  
+1:17:15
+ 
+ 
+4:15:08  
+ 
+ 
+ 
+ 
+13 
+ 
+4:35:50  
+1:22:03
+ 
+ 
+4:40:38  
+14 
+ 
+5:03:06  
+1:26:39
+ 
+ 
+5:07:41  
+ 
+ 
+ 
+ 
+15 
+ 
+5:30:54  
+1:31:12
+ 
+ 
+5:36:09  
+ 
+ 
+ 
+ 
+Total Runtime
+ 
+ 
+ 
+ 
+16 
+start 
+5:58:55  
+1:36:02
+ 
+stop 
+6:03:45  
+ 
+17 
+ 
+6:27:33  
+1:40:45
+ 
+ 
+6:32:19  
+18 
+ 
+6:56:06  
+1:45:43
+ 
+ 
+7:01:04  
+19 
+ 
+7:23:07  
+1:50:37
+ 
+ 
+7:28:01  
+20 
+ 
+7:49:40  
+1:55:35
+
+
+═══ PAGE 009 ═══
+
+Appendix A
+Total Run Time Log
+6
+ 
+7/21/10 
+ 
+Total Runtime
+1 
+ 
+0:00:00  
+16:23:07
+ 
+ 
+16:23:07 
+ 
+2 
+ 
+27:47:01 
+21:42:00
+ 
+ 
+33:06:00 
+ 
+3 
+ 
+50:11:00 
+26:59:00
+ 
+ 
+55:21:00 
+ 
+4 
+ 
+1:16:25  
+32:10:00
+ 
+ 
+1:21:36  
+5 
+ 
+1:41:45  
+37:29:00
+ 
+ 
+1:47:03  
+6 
+ 
+2:07:10  
+42:44:00
+ 
+ 
+2:12:24  
+7 
+ 
+2:31:44  
+47:58:00
+ 
+ 
+2:36:57  
+8 
+ 
+2:55:26  
+53:18:00
+ 
+ 
+3:00:46  
+9 
+ 
+3:19:40  
+58:26:00
+ 
+ 
+3:24:47  
+10 
+ 
+3:42:52  
+1:03:36
+ 
+ 
+3:48:02  
+11 
+ 
+4:06:28  
+1:08:51
+ 
+ 
+4:11:43  
+12 
+ 
+4:29:33  
+1:14:04
+ 
+ 
+4:34:47  
+13 
+ 
+4:52:25  
+1:19:12
+ 
+ 
+4:57:34  
+14 
+ 
+5:14:55  
+1:24:19
+ 
+ 
+5:20:03  
+15 
+ 
+5:37:57  
+1:29:38
+ 
+ 
+5:43:18  
+ 
+ 
+ 
+ 
+Total Runtime
+ 
+ 
+ 
+ 
+16 
+ 
+6:00:30  
+1:35:07
+ 
+ 
+6:05:59  
+ 
+ 
+ 
+ 
+17 
+ 
+6:24:01  
+1:40:39
+ 
+ 
+6:29:32  
+ 
+ 
+ 
+ 
+18 
+ 
+6:46:00  
+1:46:01
+ 
+ 
+6:51:22  
+ 
+ 
+ 
+ 
+19 
+ 
+7:08:40  
+1:01:25
+ 
+ 
+7:14:05  
+ 
+ 
+ 
+ 
+20 
+ 
+7:31:27  
+1:56:40
+ 
+ 
+7:36:41  
+ 
+ 
+ 
+ 
+21 
+ 
+7:54:08  
+2:01:59
+ 
+ 
+7:59:26
+
+
+═══ PAGE 010 ═══
+
+Appendix B
+Weather Data from Military Base B
+7
+ 
+ 
+ 
+ 
+ 
+ 
+7:55 PM, Tue  
+72° 
+61° 
+69% 
+30.06in       10mi      Unlft  
+ESE 
+0mph 
+Scattered Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8mph 
+ 
+6:55 PM, Tue  
+73° 
+63° 
+69% 
+30.06in       10mi      Unlft E 
+0mph 
+Scattered Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6mph 
+ 
+5:55 PM, Tue  
+75° 
+63° 
+65% 
+30.06in       10mi      Unlft E 
+0mph 
+Scattered Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5mph 
+ 
+4:56 PM, Tue  
+77° 
+59° 
+54% 
+30.06in       12mi      25000ft 
+ENE 
+21mph Broken Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9mph 
+ 
+4:30 PM, Tue  
+77° 
+59° 
+54% 
+30.06in       12mi      25000ft 
+ESE 
+0mph 
+Broken Clouds Thunderstorm
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10mph  
+3:56 PM, Tue  
+77° 
+59° 
+54% 
+30.06in       12mi      25000ft 
+ESE 
+0mph 
+Broken Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11mph  
+2:55 PM, Tue  
+75° 
+63° 
+65% 
+30.09in       12mi      25000ft 
+SE 
+0mph 
+Broken Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11mph  
+1:56 PM, Tue  
+77° 
+61° 
+57% 
+30.09in       12mi      25000ft 
+SE 
+0mph 
+Broken Clouds Scattered 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10mph  
+Showers  
+1:10 PM, Tue  
+73° 
+61° 
+65% 
+30.09in       12mi      Unlft 
+ESE 
+0mph 
+Scattered Clouds Scattered
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9mph 
+ 
+Showers  
+12:31 PM, Tue  
+73° 
+64° 
+73% 
+30.12in       12mi      14000ft 
+ESE 
+0mph 
+Broken Clouds Thunderstorm
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8mph 
+ 
+11:55 AM, Tue  73° 
+64° 
+73% 
+30.12in       12mi      14000ft 
+E 
+0mph 
+Broken Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9mph 
+ 
+10:55 AM, Tue  70° 
+64° 
+83% 
+30.12in       12mi      9500ft 
+E 
+0mph 
+Broken Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6mph 
+ 
+9:55 AM, Tue  
+66° 
+63° 
+88% 
+30.15in       12mi      10000ft 
+NE 
+0mph 
+Overcast 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3mph 
+ 
+8:55 AM, Tue  
+64° 
+61° 
+88% 
+30.12in       12mi      9500ft 
+E 
+0mph 
+Broken Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6mph 
+ 
+7:55 AM, Tue  
+59° 
+57° 
+94% 
+30.12in       12mi      Unlft 
+N 
+0mph 
+Scattered Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3mph 
+ 
+Date/Time
+Temp
+Dew Point
+Relative
+Humidity
+Pressure
+Visibility
+Ceiling
+Wind
+Gust
+Weather
+
+
+═══ PAGE 011 ═══
+
+Appendix B
+Weather Data from Military Base B
+8
+ 
+ 
+ 
+ 
+ 
+ 
+6:55 AM, Tue  
+57° 
+55° 
+94% 
+30.12in       12mi      Unlft 
+N 
+0mph 
+Few Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5mph 
+ 
+5:55 AM, Tue  
+55° 
+54° 
+94% 
+30.12in       12mi      Unlft 
+N 
+0mph 
+Few Clouds 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5mph 
+ 
+4:55 AM, Tue  
+55° 
+54° 
+94% 
+30.12in       12mi     Unlft  
+NE 
+0mph 
+Clear 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5mph 
+ 
+3:55 AM, Tue  
+56° 
+54° 
+91% 
+30.12in       10mi     Unlft  
+NNE 
+0mph 
+Clear 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3mph 
+ 
+2:55 AM, Tue  
+58° 
+55° 
+90% 
+30.15in       10mi     Unlft  
+NNW 
+0mph 
+Clear 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3mph 
+ 
+1:55 AM, Tue  
+58° 
+54° 
+87% 
+30.15in       10mi     Unlft  
+N 
+0mph 
+Clear 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0mph 
+ 
+12:55 AM, Tue  59° 
+55° 
+86% 
+30.15in       10mi     Unlft  
+E 
+0mph 
+Clear 
+21-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3mph 
+ 
+11:55 PM, Mon  62° 
+55° 
+79% 
+30.15in       10mi     Unlft  
+N 
+0mph 
+Clear 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0mph 
+ 
+10:55 PM, Mon  68° 
+59° 
+73% 
+30.15in       10mi     Unlft  
+N 
+0mph 
+Few Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3mph 
+ 
+9:55 PM, Mon  
+68° 
+61° 
+78% 
+30.12in       10mi     Unlft  
+E 
+0mph 
+Few Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5mph 
+ 
+8:55 PM, Mon  
+70° 
+61° 
+73% 
+30.12in       10mi     Unlft  
+ENE 
+0mph 
+Few Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7mph 
+ 
+7:55 PM, Mon  
+72° 
+59° 
+64% 
+30.12in       10mi     Unlft  
+ENE 
+0mph 
+Few Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8mph 
+ 
+6:55 PM, Mon  
+73° 
+57° 
+57% 
+30.12in       10mi     Unlft  
+ENE 
+0mph 
+Scattered Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8mph 
+ 
+5:55 PM, Mon  
+72° 
+59° 
+64% 
+30.12in       10mi     12000ft 
+ENE 
+0mph 
+Broken Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6mph 
+ 
+4:56 PM, Mon  
+72° 
+55° 
+57% 
+30.12in       10mi     12000ft 
+ENE 
+0mph 
+Overcast 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3mph 
+ 
+Date/Time
+Temp
+Dew Point
+Relative
+Humidity
+Pressure
+Visibility
+Ceiling
+Wind
+Gust
+Weather
+
+
+═══ PAGE 012 ═══
+
+Appendix B
+Weather Data from Military Base B
+9
+ 
+ 
+ 
+ 
+ 
+ 
+3:55 PM, Mon  
+70° 
+57° 
+64% 
+30.12in       10mi      12000ft 
+N 
+0mph 
+Overcast 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0mph 
+ 
+3:14 PM, Mon  
+68° 
+57° 
+68% 
+30.15in       12mi      v12000ft 
+S 
+0mph 
+Overcast Scattered Showers
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5mph 
+ 
+2:55 PM, Mon  
+68° 
+57° 
+68% 
+30.15in       12mi      12000ft 
+SSW 
+0mph 
+Overcast Rain Showers
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6mph 
+ 
+2:43 PM, Mon  
+68° 
+57° 
+68% 
+30.15in       12mi      12000ft 
+S 
+0mph 
+Overcast Rain Showers
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7mph 
+ 
+1:55 PM, Mon  
+70° 
+57° 
+64% 
+30.15in       12mi      12000ft 
+S 
+0mph 
+Overcast Scattered Showers
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10mph  
+1:01 PM, Mon  
+75° 
+59° 
+57% 
+30.15in       12mi      11000ft 
+SSE 
+0mph 
+Broken Clouds Scattered 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13mph  
+Showers  
+12:31 PM, Mon  73° 
+61° 
+65% 
+30.15in       12mi      10000ft 
+SE 
+0mph 
+Broken Clouds Thunderstorm
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8mph 
+ 
+11:55 AM, Mon  75° 
+59° 
+57% 
+30.15in       12mi      Unlft 
+ESE 
+0mph 
+Few Clouds Scattered 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8mph 
+ 
+Showers  
+10:55 AM, Mon  72° 
+61° 
+69% 
+30.18in       12mi     Unlft  
+E 
+0mph 
+Few Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7mph 
+ 
+9:55 AM, Mon  70° 
+63° 
+78% 
+30.18in       12mi     Unlft  
+NE 
+0mph 
+Scattered Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5mph 
+ 
+8:55 AM, Mon  68° 
+63° 
+83% 
+30.15in       12mi     Unlft  
+ESE 
+0mph 
+Scattered Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6mph 
+ 
+7:55 AM, Mon  63° 
+61° 
+94% 
+30.15in       12mi     13000ft 
+N 
+0mph 
+Broken Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0mph 
+ 
+6:55 AM, Mon  61° 
+57° 
+88% 
+30.12in       12mi     13000ft 
+N 
+0mph 
+Broken Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0mph 
+ 
+5:55 AM, Mon  59° 
+57° 
+94% 
+30.12in       12mi     12000ft 
+NNW 
+0mph 
+Broken Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5mph 
+ 
+4:56 AM, Mon  61° 
+57° 
+88% 
+30.12in       12mi     10000ft 
+NNW 
+0mph 
+Broken Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2mph 
+ 
+Date/Time
+Temp
+Dew Point
+Relative
+Humidity
+Pressure
+Visibility
+Ceiling
+Wind
+Gust
+Weather
+
+
+═══ PAGE 013 ═══
+
+Appendix B
+Weather Data from Military Base B
+10
+ 
+ 
+ 
+ 
+ 
+ 
+3:55 AM, Mon  60° 
+57° 
+90% 
+30.15in       10mi      9500ft 
+N 
+0mph 
+Overcast 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0mph 
+ 
+2:55 AM, Mon  59° 
+56° 
+91% 
+30.15in       10mi      9000ft 
+N 
+0mph 
+Broken Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0mph 
+ 
+1:55 AM, Mon  60° 
+56° 
+88% 
+30.15in       10mi      13000ft 
+N 
+0mph 
+Overcast 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0mph 
+ 
+12:55 AM, Mon  61° 
+57° 
+86% 
+30.15in       10mi      8500ft 
+N 
+0mph 
+Broken Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0mph 
+ 
+11:55 PM, Sun  61° 
+57° 
+86% 
+30.12in       10mi      14000ft 
+NNE 
+0mph 
+Broken Clouds 
+19-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3mph 
+ 
+10:55 PM, Sun  63° 
+57° 
+82% 
+30.12in       12mi      8500ft 
+SW 
+0mph 
+Broken Clouds 
+19-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6mph 
+ 
+10:41 PM, Sun  63° 
+55° 
+77% 
+30.12in       12mi      8500ft 
+SSW 
+0mph 
+Broken Clouds 
+19-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7mph 
+ 
+9:55 PM, Sun  
+63° 
+57° 
+82% 
+30.12in       10mi      6000ft 
+SSW 
+0mph 
+Overcast Rain Showers
+19-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6mph 
+ 
+8:55 PM, Sun  
+64° 
+59° 
+83% 
+30.12in       12mi      10000ft 
+SSW 
+0mph 
+Overcast Scattered Showers
+19-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8mph 
+ 
+8:27 PM, Sun  
+64° 
+57° 
+77% 
+30.09in       12mi      6000ft 
+N 
+0mph 
+Broken Clouds Scattered 
+19-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0mph 
+ 
+Showers
+Date/Time
+Temp
+Dew Point
+Relative
+Humidity
+Pressure
+Visibility
+Ceiling
+Wind
+Gust
+Weather
+120
+2:55 am
+3:55 am
+4:55 am
+5:55 am
+6:55 am
+7:55 am
+8:55 am
+9:55 am
+10:55 am
+11:55 am
+12:31 pm
+1:10 pm
+1:56 pm
+2:55 pm
+3:56 pm
+4:30 pm
+4:56 pm
+5:55 pm
+6:55 pm
+7:55 pm
+100
+80
+60
+40
+Record High 96
+Average High 82
+Average Low 63
+Record Low 46
+32
+20
+0
+-20
+Temperature (F)
+58
+56
+55
+55
+57
+59
+64
+66
+70
+73
+73
+73
+77
+77
+77
+77
+75
+75
+73
+72
+ http://www.intellicast.com/Local/Observation.aspx?location=USMI9781
+

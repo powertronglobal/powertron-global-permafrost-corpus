@@ -1,0 +1,830 @@
+# US Internet Provider.pdf
+
+Energy Science Division
+
+®
+
+US Internet Provider - CRAC UNITS
+
+Comprehensive HVAC/R Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+PermaFrost NMR® Eﬃciency Report
+
+US Internet Provider CRAC Units
+
+November, 2013
+Executive Summary
+
+This report contains specific information regarding the installation of the energy conservation method
+
+(ECM) PermaFrost NMR® into two Leibert Computer Room Air Conditioning (CRAC) units using R22
+
+refrigerant supporting the US Internet Provider data center located in downtown [Southeast Location].
+
+Detailed forensic performance testing (outlined later in
+
+this report) was performed on the two pilot CRAC
+
+units to determine their suitability for testing and their
+
+performance capability after 14 years in service.
+
+Following testing, these CRAC units, as well as all the
+
+other CRAC units in the facility, were treated with the
+
+proper amount and type of the PermaFrost NMR®
+
+technology specially formulated for these types of
+
+machines. Measurement and Verification (M&V)
+
+readings were collected and compiled in accordance
+
+with the IPMVP (International Measurement and
+
+Verification Protocol) framework pre-installation and
+
+post-gestation by the Powertron Global’s Director of
+
+Engineering, [Senior Energy Engineer]. Frank Wilcox,
+
+US Internet Provider Data Center Manager, and Ralph Moore,
+
+Chief Technician for US Internet Provider oversaw the process. Jay
+
+Evans, US Internet Provider’s senior on-site technician provided
+
+direct support to the team. This same US Internet Provider
+
+management team also selected a third unit to serve as
+
+a blind control unit when the M&V team returned for
+
+the avoided energy reporting period (AERP) readings.
+
+This control unit was installed at the same time as the
+
+two pilot units and provided US Internet Provider with additional
+
+evidence that the ECM worked the same in all the units.
+
+Energy Science Division
+
+An image of one of the 20-ton Leibert CRAC units involved
+
+in the PermaFrost NMR® pilot.
+
+Powertron’s Director of Engineering goes over baseline
+
+IPMVP results with US Internet Provider Managers.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+It should be noted when reading through this report that the two pilot CRAC units had lower than
+
+design airflow measured across the coils which contributes to the slightly higher deltas seen in the
+
+baseline measurements. The CFM in the control unit was much closer to its design. However, this pilot is
+
+all about showing the delta effects resulting from improving the thermal dynamic characteristics of the
+
+CRAC units which are clearly evident in the performance data stated below. The improvement in
+
+efficiency and restored capacity gained directly at the units was solely attributable to the PermaFrost
+
+NMR® ECM. This is a result of the reversal of thermal inefficiency on heat exchange surfaces.
+
+Following treatment with the PermaFrost NMR® technology, units 3 and 4 showed an effective reduction
+
+in kW of 6.1% and 10.7% respectively based on the exact capacity measured in the baseline M&V and
+
+AERP M&V periods when operating at 100% load. The effective annual kWh were reduced by 63,707 in
+
+unit 3 and 42,558 in unit 4, equating to a combined 29.2% reduction while simultaneously producing a
+
+total increase of 9.57 tons. This equates to an average 30% increase in tonnage across both units and a
+
+reduction in average kW/ton of 29.2%. Prior to the ECM, the units produced a combined 31.96 tons of
+
+cooling as measured in-situ. After the ECM, the tonnage produced increased to 41.53 tons. This 30%
+
+capacity increase from the baseline performance levels, in combination with other related improvements,
+
+led to an effective increase in COP across both units of 42.2%. All of these factors directly correlate to
+
+what US Internet Provider will realize in energy savings as they operate this and other facility CRAC units in the
+
+future under similar parameters. As a case in point, the 22-ton control CRAC unit selected at random by
+
+US Internet Provider was measured in-situ after treatment to be producing 20.84 tons of cooling, or 95% of design.
+
+Following treatment with the PermaFrost NMR® ECM, the two pilot CRAC units also showed average
+
+reduction in amp draw of 8.4% and a 32.4% reduction in the average refrigeration approach while at the
+
+same time producing 30% more cooling. All the measurements mentioned combine to reflect the
+
+thermodynamic enhancement brought about by the PermaFrost NMR® ECM. The result of the ECM
+
+improvement is an ROI to US Internet Provider that is measured in under a year. The tables of data used to
+
+determine the financial payback are available for review at the end of this report.
+
+Energy Science Division
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Product Brief
+
+PermaFrost NMR® is a multi-patented nanotechnology surface chemistry Energy Control Measure
+
+(ECM) that uses Nucleo Molecular Regenerative® (NMR™) technology as its core agent. A sustainable,
+
+one-time treatment with no down time required, PermaFrost NMR® lasts for the remaining useful life of
+
+any system in which it is installed. Examples of the types of commercial HVACR systems and
+
+equipment that PermaFrost NMR® has proven success with are direct expansion air systems (DX);
+
+chilled water systems (both flooded and DX; air and water cooled); ice making equipment; ammonia
+
+refrigeration plants (single compressor and cascade) and variable refrigerant flow (VRF) designs. The
+
+equipment utilized in these systems within our expanding portfolio of clients includes centrifugal (single
+
+and multi-stage), scroll, reciprocating and screw configurations.
+
+The direct benefits of PermaFrost NMR® in any type of HVACR system are improved cooling
+
+performance, increased capacity and improved refrigerant velocity – all of which allow systems to
+
+achieve set point temperatures in a more rapid fashion, or in the case of CRAC units, unload, all of
+
+which reduces compressor operating periods. The indirect benefits resulting from the enhanced
+
+thermodynamic characteristics following treatment include reduced run time, less kW hours used, less
+
+amp draw at the compressor, longer equipment life cycle time, and as depicted at the end of this
+
+document, a reduced carbon footprint for US Internet Provider across their portfolio.
+
+Energy Science Division
+
+BOUNDARY LAYER
+OIL REMOVED
+
+BEFORE TREATMENT
+AFTER TREATMENT
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Measurement and Veriﬁcation Protocol
+
+The IPMVP was utilized in the development of this report. The Association of Energy Engineers (AEE), The
+
+American Society of Heating, Refrigeration and Air-Conditioning Engineers (ASHRAE), and The Efficiency
+
+Valuation Organization (EVO) accept the IPMVP as a global methodology for determining the effectiveness
+
+of ECM’s and products.
+
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize. They
+
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report. Option B is
+
+defined as: All parameter measurements with the boundary of the ECM (PermaFrost NMR®) as the single
+
+source of measurement. Savings are determined by field measurement of the energy use of the ECM
+
+affected equipment or system and any performance enhancements versus the baseline data.
+
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the
+
+savings and the length of the reporting period. For the boundary utilized for Option B short-term
+
+measurements are very useful as data when the variables are contained. The savings are calculated by
+
+short-term measurements of baseline and energy reporting period (post), and /or engineering computations
+
+using measurements of proxies of energy use.
+
+The final computation follows the formula:
+
+Energy Science Division
+
+Option B savings = Baseline Energy – Reporting Period Energy
+
++/ - Routine Adjustments +/ - Non-Routine Adjustments
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Conservation Method (ECM) Content
+
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the
+
+effects of thermal degradation and fouling on the heat exchange surfaces.
+
+Following a diagnostic examination of the pilot equipment to determine the operational condition of the
+
+CRAC units was satisfactory, Baseline M&V data was collected and recorded prior to the proper amount
+
+and type of PermaFrost NMR® being injected. The gestation
+
+period for the US Internet Provider pilot was four (4) weeks. Prior to taking
+
+AERP measurements, systems need to achieve ~300 hours of
+
+runtime to ensure adequate performance improvement time. At
+
+the end of this gestation period, AERP M&V results were taken
+
+in the identical manner as in the baseline.  For the Control CRAC
+
+unit, only post readings were taken as it was randomly selected
+
+by US Internet Provider management to be checked to see what its new
+
+performance efficiency after treatment with PermaFrost NMR®.
+
+Incoming condenser water to each of the units was carefully
+
+metered to ensure it was the same temperature in both data
+
+collection periods. This action also allowed the discharge
+
+pressures of the compressors to be very similar so no
+
+adjustments were necessary for weather.
+
+The following report produces the utilization of the IPMVP as the M&V plan.
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase)
+
+Ton = (Airﬂow * 4.5 * Enthalpy Delta) / 12,000
+
+kW/Ton = kW / Actual Tonnage
+
+Coeﬃcient of Performance (COP) = (12 / kW per ton /3.412)
+
+Energy Science Division
+
+The M&V team collects critical IPMVP
+
+measurements such as air flow and pressure drop
+
+across the coil using the latest, most accurate digital
+
+NIST calibrated testing equipment as part of the
+
+scientific PermaFrost NMR® performance pilot.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Make
+
+Model
+
+Serial Number
+
+Refrigerant Type
+
+Nominal Cooling Capacity in Tons
+
+Average Annual Runtime Hours
+
+Date Installed
+
+Leibert
+
+UH240G-ASM
+
+366212-001
+
+R22
+
+20
+
+5,870
+
+1999
+
+Leibert
+
+UH240G-AAM
+
+513893-001
+
+R22
+
+20
+
+5,870
+
+1999
+
+Detailed Results for US Internet Provider CRAC Units
+
+System Description / Design Characteristics
+
+The two pilot units provide cooling to one of several tenant suites comprising the US Internet Provider Data Center facility.
+
+The Control CRAC unit is the workhorse unit in a totally separate suite. Given the internal load of the suite and
+
+the lifetime run hours on the system, it is estimated that the systems run a minimum of ~5,870 hours or more
+
+each per year prior to the ECM being implemented.
+
+Baseline and Post Measurements
+
+The identical IPMVP following data points were recorded for Baseline and AERP on 25 September 2013 and
+
+24 October 2013 respectively using recently calibrated devices by NIST (National Institutes of Standards and
+
+Technology) to insure measurement accuracy. CRAC units #3 and #4 also has a measured amount of airflow
+
+less than design passing through the coil. The Control CRAC unit was more in line with design. The
+
+measurements are as follows:
+
+Energy Science Division
+
+CRAC Unit #4
+CRAC Unit #3
+
+Leibert
+
+UH265G-ASM
+
+376652-002
+
+R22
+
+22
+
+5,870
+
+1999
+
+Control CRAC Unit
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+CRAC Unit #3
+
+BASELINE
+AERP
+
+Voltage
+
+Amperage
+
+Suction Refrigerant Temp
+
+Discharge Refrigerant Temp
+
+Suction Pressure (Avg)
+
+Discharge Pressure (Avg)
+
+Entering Air Temp DB (Return)
+
+Entering Air Temp WB (Return)
+
+Leaving Air Temp DB (Supply)
+
+Leaving Air Temp WB (Supply)
+
+Enthalpy of Entering WB
+
+Enthalpy of Leaving WB
+
+Enthalpy Delta
+
+Evaporator Approach
+
+Measured Tons Produced
+
+Airﬂow (Ft3/Min)
+
+Total kW
+
+Calculated kW / Ton
+
+Coeﬃcient of Performance (COP)
+
+kWh
+
+O.A.T.
+
+471.4 V
+
+31 A
+
+35.9 F
+
+112.8 F
+
+63.3 PSI
+
+235.9 PSI
+
+74 F
+
+59.4 F
+
+51.9 F
+
+47.7 F
+
+26.05
+
+19.05
+
+7
+
+16 F
+
+15.35
+
+5,848
+
+21.5
+
+1.401
+
+2.51
+
+126,220**
+
+64 F
+
+472 V
+
+29.1 A
+
+37.3 F
+
+112.5 F
+
+64.25 PSI
+
+235 PSI
+
+73.9 F
+
+56.6 F
+
+47.3 F
+
+37.7 F
+
+24.29
+
+14.18
+
+10.11
+
+10 F
+
+22.17
+
+5,848*
+
+20.2
+
+0.911
+
+3.86
+
+118,615
+
+62 F
+
+MEASUREMENT
+
+CRAC Unit #4
+
+BASELINE
+AERP
+
+468.4 V
+
+38.7 A
+
+33.7 F
+
+119.2 F
+
+60.4 PSI
+
+257.3 PSI
+
+74 F
+
+58.8 F
+
+53.9 F
+
+47.4 F
+
+25.65
+
+18.89
+
+6.76
+
+20.2 F
+
+16.61
+
+6,553
+
+26.65
+
+1.604
+
+2.19
+
+156,436**
+
+62 F
+
+468 V
+
+34.6 A
+
+33.8 F
+
+119.05 F
+
+60.4 PSI
+
+256.7 PSI
+
+74.1 F
+
+57.7 F
+
+48.5 F
+
+43.8 F
+
+24.93
+
+17.05
+
+7.88
+
+14.7 F
+
+19.36
+
+6,553*
+
+23.80
+
+1.229
+
+2.86
+
+139,706
+
+64 F
+
+CRAC
+Control Unit
+
+AERP
+
+471.8 V
+
+32.2 A
+
+36.8 F
+
+113 F
+
+65 PSI
+
+247 PSI
+
+72 F
+
+57.1
+
+52.6 F
+
+46.2 F
+
+24.54
+
+18.26
+
+6.28
+
+15.8 F
+
+20.84
+
+8,848
+
+21.8
+
+1.048
+
+3.35
+
+128,240
+
+62 F
+
+*CFM in AERP was within 2% of baseline reading so the same CFM reading was used in the calculations
+
+**Prior to regression analysis at end of document to determine impact of restored tonnage on the ROI
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+BASELINE
+AERP
+IMPROVEMENTS
+IMPROVEMENTS
+
+CRAC Unit #4
+
+BASELINE
+AERP
+
+CRAC Unit #3
+
+kW / Ton  
+Evaporator Approach
+Eﬀective Annual kWh
+Measured Tons
+COP
+Total kW
+
+1.604
+20.2 F
+182,264
+16.61
+2.19
+26.65
+
+1.229
+14.7 F
+139,706
+19.36
+2.86
+23.8
+
+23.4 %
+27.2 %
+23.3 %
+16.6 %
+30.6 %
+10.7 %
+
+1.401
+16 F
+182,322
+15.35 
+2.51
+21.5
+
+0.911
+10 F 
+118,615
+22.17
+3.86
+20.2
+
+35 %
+37.5 %
+34.9 %
+44.4 %
+53.8 %
+6.1 %
+
+Results
+
+The following are the final calculated average performance measurements following the PermaFrost NMR®
+
+AERP for the pilot CRAC unit.
+
+Some of the key field readings on CRAC unit 3 (above) and CRAC unit 4 (below) from both the baseline and AERP data collection periods.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+PermaFrost NMR®: Determining the Payback Period for US Internet Provider
+
+Utilizing data in the above charts, to obtain a true avoided energy cost and subsequent payback period for US Internet Provider
+
+for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy
+
+savings resulting from the improvement in capacity. This greater capacity reduces the runtime hours and in turn
+
+reduces the annual kWh expended in the Post. The true ROI comes from determining what the cost to run the units
+
+was when operating at their original energy profile to produce the newly restored amount of tonnage and then
+
+subtracting the new cost to run the units at this same newly restored tonnage after the PermaFrost NMR® ECM
+
+was installed. This regression calculation is the most scientific method of accounting for the reduced number of hours
+
+the units will now run due to their increased capacity which allows the units to reach set temperatures quicker and
+
+shut off sooner.
+
+Since this regression analysis involves two units, the average kW/ton and total tons are used to calculate an average
+
+ROI across both units.
+
+Adjusted kW Baseline        1.5 kW/ton * 20.765 tons = 31.148 kW
+
+Adjusted Baseline kWh        31.148 kW * 5,870 Annual Operating Hrs = 182,839 kWh per CRAC unit
+
+Revised Cost to Run Baseline        182,839 kWh * $.09 = $16,455.51 per CRAC unit
+
+kW Post        1.06 kW/ton * 20.765 tons = 22.01 kW per CRAC unit
+
+Annual kWh Post         22.01 kW * 5,870 hours = 129,199 kWh per CRAC unit
+
+Annual Cost Post         129,199 kWh * $.09 = $11,627.91 per CRAC unit
+
+Avoided Energy Cost (savings) Per Month       ($16,455.51 - $11,627.91) / 12 = $402.30 per unit
+
+Cost of PermaFrost NMR® installed in two pilot systems        $5,000.00
+
+Estimated Energy Savings Payback Period for US Internet Provider        $5000 / $804.60 = 6.21 months
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Energy Science Division
+
+US Internet Provider Saving More than just Energy at its Park Place Location
+
+By treating just the two pilot CRAC units and the one control CRAC unit with PermaFrost NMR®, US Internet Provider has
+
+saved approximately 159,282 kWh per year and all the costs associated with those savings – and this doesn’t count
+
+all the other CRAC units that were treated in the facility. From an environmental impact standpoint, US Internet Provider is
+
+also beneﬁtting the surrounding community.
+
+The 159,282 kWh saved per year equates to the following:
+
+Prevention of 112 metric tons of CO2 emissions
+
+Equivalent of removing annual greenhouse gas emissions from 23.4 passenger vehicles
+
+CO2  emissions from the electricity use of 15.5 homes for a year
+
+Greenhouse gas emissions avoided by recycling 42.1 tons of waste instead of sending it to a landﬁll
+
+CO2 emissions from 12,599 gallons of gasoline consumed
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

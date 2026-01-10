@@ -1,0 +1,28 @@
+Real Estate Capital Firm A PermaFrost NMR® Performance Report
+Two Rooftop Packaged Units in Las Vegas Oﬃce Park
+October 7, 2012
+Executive Summary
+        This report contains specific information regarding the detailed forensic performance testing (outlined 
+later in this report) of the energy control measure (ECM) PermaFrost NMR® in Suite 170 in Building 6 of the 
+Office Park A in Las Vegas, NV.  The two 5-ton HVAC Equipment Manufacturer packaged rooftop units supporting the facility 
+use R-22 refrigerant.  Both of the pilot units were installed in June of 2004 and are estimated to run 
+approximately 3,050 hours per year. Immediately following the baseline testing, both units were treated 
+with five ounces of the PermaFrost NMR® product specially formulated for R-22 DX systems.  
+Since there were no other ECM’s going on during this pilot project, the improvement in efficiency and 
+restored capacity gained directly at the units is solely attributable to the PermaFrost NMR® ECM.  The pilot 
+units now provide colder and drier supply air and more Btu’s while using less power.  This greater 
+operational efficiency is due to the restoration of the heat transfer ability of the evaporator and condenser 
+coils, less metal to metal friction and improved refrigerant flow.  
+Since the outside air temperatures and humidity were almost identical in the baseline and post reporting 
+periods, as were the return air temperatures from inside the space, no adjustment for weather were made to 
+the resulting numbers.
+Following treatment with PermaFrost NMR® the two pilot units showed an average 22.7% reduction in 
+Total Watts and a 14.7% reduction in Amps while at the same time producing an increase in capacity of 
+11,340 Btuh or 11.1% more tonnage.  The units also showed a substantial reduction in Watts/Ton of 22.7% 
+and an 11.1% improvement in the Enthalpy Delta.  Additionally, the two pilot units showed an average of 
+29.7% improvement in EER, which is another measurable way to view the thermodynamic enhancement of 
+the PermaFrost NMR® ECM.  The result of the average ECM improvements is an ROI to Real Estate Capital Firm A of just 
+18.3 months. The tables of data and financial calculations are available for review at the end of this report.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

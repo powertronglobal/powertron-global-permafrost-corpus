@@ -1,0 +1,19 @@
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2017 Powertron Global, LLC. 
+Measurement & Verification (M&V) Report 
+PermaFrost NMR® Testing and Results 
+Major US Cable Provider/Maicom LLC - Ellicott City, Maryland 
+October 16, 2017 
+Project Overview   To determine the PermaFrost NMR® impact and effect on 
+Major US Cable Provider‘s HVAC/R equipment. Three (3) DX systems (two split 
+systems and one package) were selected, treated and monitored 
+and measured. 
+Representatives 
+Maicom 
+[Director Critical Facility Maintenance], Director of Critical Facility Maintenence
+Powertron Global® 
+[Senior Energy Engineer], Forensic Mechanical Engineer & Chief 
+Science Officer 
+Process 
+Testing was performed on two (2) 15 year-old Liebert 5-Ton split 
+systems and one (1) 9 year-old Liebert 5-ton package system 

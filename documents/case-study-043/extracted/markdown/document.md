@@ -1,0 +1,954 @@
+# Municipal School District.pdf
+
+Energy Science Division
+
+®
+
+Municipal School District ISD
+
+Pilot Particulars
+
+Study Date:
+     June 2014 - August 2014
+
+Participants:
+     Municipal School District ISD
+     [Maintenance and Operations Coordinator],
+     Maintenance and Operations
+     Co-Ordinator
+ 
+     Energy Consulting Partner
+     [Principal Engineer],
+     Principal Engineer and Municipal School District ISD
+     Commissioner for the Project
+ 
+     Powertron Global
+     [Senior Energy Engineer],
+     Director of Engineering,
+     Forensic Engineer and Chief
+     Science Oﬃcer
+
+Location:
+     West Lake High School,
+     Austin, TX
+
+Comprehensive HVAC/R Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+1
+
+HVAC/R Eﬃciency Report
+
+Purpose of Energy Eﬃciency Study
+
+The purpose of this study is to verify the industry wide problem of efficiency loss in HVAC/R as projected by
+
+ASHRAE research and to quantify the amount of money wasted due to this loss. Many industry leading
+
+organizations including ASHRAE project that all HVAC/R units degrade in capacity and efficiency as they age.
+
+Thermal degradation is caused by a phenomenon that is present in all HVACR equipment that operates as a
+
+vapor compression cycle associated with refrigerant and compressor lubricant. This thermal degradation is well
+
+documented by the HVACR industry and the original equipment manufacturers (OEM’s). Thermal degradation
+
+prevents units from operating at the original design efficiency, which leads to excessive run-times and additional
+
+kWh consumption.
+
+The DX unit in this study is representative of 40% of the equipment operated by Municipal School District ISD. If thermal
+
+degradation is present in this DX unit, it is present in the entire inventory of the DX equipment. Energy waste
+
+can be calculated based on this unit (portfolio representation) and then accurately extrapolated across the
+
+entire inventory of DX equipment if average age of equipment is known.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+2
+
+Process
+
+This report contains specific information regarding the current performance profile of one of dozens of DX
+
+units that support the West Lake High School Campus in Austin, Texas.
+
+Detailed performance testing (outlined later in this report) was performed on the pilot DX unit before and after
+
+the installation of the PermaFrost NMR® ECM to determine the impact on the three key elements that greatly
+
+affect Municipal School District ISD HVAC power bill as they relate to the original design specifications:
+
+1.  The cooling capacity the DX unit is capable of producing after 10 years in service.
+
+2.  The actual cost of power required to produce the amount of cooling tons the DX unit is delivering as
+
+reflected in the kW/ton measurement.
+
+3.  The thermal dynamic ability of the DX unit to still perform at or close to operational design.
+
+Methodology
+
+The measurements used in the efficiency calculations were collected and compiled in accordance with the
+
+IPMVP (International Measurement and Verification Protocol) framework. The team consisted of Powertron Global
+
+Global’s Director of Engineering, [Senior Energy Engineer] and [Principal Engineer], Principal Engineer for ESA Energy
+
+Systems Associates, Inc. [Principal Engineer] was acting as the Municipal School District ISD Commissioner, overseeing the Project for
+
+Municipal School District ISD. Several members of the Municipal School District ISD Maintenance team participated in the testing process and were a
+
+great help with their intricate knowledge of the nuances associated with the pilot unit.
+
+The baseline day chosen to test the RTU was an average day temperature and humidity-wise for the Austin,
+
+TX area which ensured repeatability of similar weather for the post testing measurements. The boundary of
+
+the testing was each of the RTU and nothing else; therefore confidence in the accuracy of the performance
+
+calculations is very high.
+
+Notes
+
+The unit measured serviced the main High School Gymnasium hallway. The DX unit tested was found to have a faulty
+
+pulley and had to be stabilized before we could start the baseline. Both the baseline and post measurements were taken
+
+with outside air temperatures of 88 degrees.
+
+The boundary of the testing was the DX unit and nothing else; therefore confidence in the accuracy of the performance
+
+calculations is very high.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+3
+
+Energy Conservation Method (ECM)
+
+The content detailed in this report will first demonstrate the ability of the pilot DX unit to perform prior to and
+
+following the PermaFrost NMR® being installed. The report will also illustrate the amount of thermal
+
+degradation that has occurred due in large part to thermal degradation within the heat exchangers and how much of
+
+that has been restored.
+
+The following report produces the utilization of the IPMVP as the M&V plan.
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase)
+
+• Tons = (Airflow * 4.5 * Enthalpy Delta) / 12,000
+
+• kW/Ton = kW / Actual Tonnage
+
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+
+• Refrigerant Approach = Supply Air Temp – Saturated Suction Temp
+
+Notes
+
+Following a diagnostic examination of the pilot equipment to determine the operational condition of the system was
+
+satisfactory, Baseline M&V data was collected and recorded by the M&V team. Four hundred runtime hours after
+
+installation of the PermaFrost NMR® ECM, the M&V team returned on a very similar weather day to the Baseline to
+
+take Post M&V measurements in the identical fashion as in the Baseline. The delta of these measurements and associated
+
+calculations show the amount of capacity restored.
+
+The following IPMVP data points were recorded on 3 June 2014 using recently calibrated devices by NIST (National
+
+Institutes of Standards and Technology) to insure measurement accuracy. The DX unit was then treated with
+
+PermaFrost NMR® on the same day and allowed to run until 6 August 2014 to ensure the patented surface science
+
+nanotechnology had ample time to seat into all the metal surfaces of the heat exchangers. All measurements were taken at
+
+100% load and at similar return air and outdoor air temperatures.
+
+The collection of the data in both the baseline and post periods was collected by Powertron Global® under the watchful eye
+
+of Municipal School District ISD technicians and [Principal Engineer], of Energy Consulting Partner. The Municipal School District ISD technicians, maintain the unit
+
+and [Principal Engineer] oversaw the Project for Municipal School District ISD.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+4
+
+5.19 tons
+
+8.15 tons
+
+Baseline
+Tonnage
+
+Post ECM
+Tonnage
+
+• The RTU should be operating @ 7.7 tons of cooling capacity
+
+• The RTU was operating @ 5.19 tons of cooling capacity prior to
+
+installing ECM
+
+• The RTU now has 2.96 tons of restored cooling capacity after ECM
+
+• The RTU should be operating @ 3 COP or higher
+
+• The RTU was operating @ 1.94 COP prior to the ECM
+
+and 3.09 following the ECM
+
+• The average COP of the RTU was increased by 59.3%
+
+following the ECM
+
+1.94
+Baseline COP
+
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+5.19
+tons Baseline
+
+100%
+CAPACITY @
+100% LOAD
+
+Baseline
+COP
+
+Post ECM
+COP
+
+1.94
+
+3.29
+
+3.09
+Post ECM COP
+8.15
+tons Post ECM
+
+59.3%
+
+Improvement
+in COP
+3
+tons of
+Recovered
+Capacity
+
+TONNAGE
+COP
+
+Summary of HVAC/R Eﬃciency Study Results
+
+DX Unit Eﬃciency with PermaFrost NMR® ECM
+
+Municipal School District ISD has the problem of thermal degradation in its HVAC/R units. The lower operating tonnage and
+
+COP ratings measured on site are in line with the ASHRAE loss of performance and cost to operate numbers.
+
+The degraded equipment performance is costing Municipal School District ISD significant money and wasting energy. The
+
+equipment is using significantly more kWh to operate than it used when it was new.
+
+The performance summary includes the measured efficiency and tonnage of the DX unit in the baseline and
+
+post testing periods demonstrating the impact of thermal degradation.
+
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 3 operating tons and an average
+
+improvement of 59.3% in Coefficient of Performance (COP), significantly reducing the cost to operate the DX
+
+unit throughout the year.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+Recovered
+Energy
+
+5
+
+Recovered Wasted Energy with ECM -  DX Unit
+
+The chart to the right illustrates the performance
+
+restoration PermaFrost NMR® created in the treated
+
+DX unit. The average cost to operate this unit before it
+
+was treated with PermaFrost NMR®, as calculated in
+
+kW/ton, was 1.81.
+
+The specific cost to operate this unit after it was
+
+treated with PermaFrost NMR®, as calculated in
+
+kW/ton, is currently 1.14.
+
+The higher baseline kW/ton rating measured in-situ
+
+was expected when compared to the ASHRAE loss of
+
+performance efficiency and cost to operate estimate
+
+for a 10 year old DX unit. The post results are also in
+
+line with the average improvement savings shown
+
+over more than 120,000 installations globally.
+
+Cost to Operate
+
+Baseline
+Post ECM
+
+kW/ton
+
+.67 kw/ton
+
+1.81
+
+1.14
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+6
+
+HVAC/R Eﬃciency Study Results
+
+Calculated Eﬃciency of West Lake High School/Municipal School District ISD Unit Baseline and Post
+
+The chart below illustrates just how far off design the Municipal School District ISD DX unit had degraded in terms of efficiency
+
+over 10 years of the coils being in use. The unit was performing at an average of 69.2% of the original design
+
+efficiency when first installed. The actual design rated tonnage of this DX unit is 7.7 tons. In actuality however,
+
+the unit was only producing 5.19 tons at the start of the pilot. The majority of this 30.7% efficiency loss was
+
+directly attributable to thermal degradation of the heat exchange surfaces that naturally occurs over time, creating a barrier to optimal heat transfer through the tube walls.
+
+After the ECM was installed, the average efficiency in the DX unit jumped up to 106% of design specifications
+
+or 8.15 tons. This represents a 57% improvement in efficiency over the baseline numbers.
+
+Original Design
+Eﬃciency
+
+ASHRAE Projected
+Eﬃciency Loss
+Over Time
+
+Actual Municipal School District ISD
+Design Eﬃciency as
+Measured In-Situ
+
+Actual Municipal School District ISD HVAC/R Operating Eﬃciency
+vs. ASHRAE Projected Eﬃciency Loss
+
+HVAC/R Eﬃciency %
+
+DESIGN EFFICIENCY
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+Eﬃciency
+Improvement
+30.7%
+
+Age of HVAC/R Units
+
+Age of Municipal School District ISD
+Equipment
+10
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+7
+
+HVAC/R Eﬃciency Study Results
+
+Cost to West Lake High School/Municipal School District ISD to Operate the DX Unit Baseline vs Post
+
+The next chart illustrates the just how much money the efficiency performance loss in the pilot DX unit was
+
+costing West Lake HS/Municipal School District ISD in the way of wasted energy each and every day they were operating prior to
+
+the ECM. The average cost to operate this unit as calculated in kW/ ton was 1.81 in the Baseline. When new, the
+
+kW/ton rating for units like these usually range from 1.0-1.2 kW/ton. This means West Lake HS/Municipal School District ISD
+
+was paying up to 37% more than design for energy to run the DX unit as a direct result of the baseline reduced
+
+level of performance. The kW/ton ratings measured on site in Austin, Texas were very much in line with the
+
+ASHRAE loss of performance and cost to operate numbers.
+
+The restored average kW/ton rating following the ECM is now 1.14. This represents a 37% reduction in energy
+
+costs from the baseline for every ton of cooling produced. It also brings down the West Lake HS/Municipal School District ISD
+
+costs to operate the unit to just above design. This will result in an initial payback period to West Lake
+
+HS/Municipal School District ISD of approximately 7.3 months. Over just a few years these accumulated savings will greatly
+
+reduce the eventual CapEx costs to replace the DX unit when it finally reaches the end of its useful life.
+
+Original Design
+Eﬃciency
+
+ASHRAE Projected
+Cost to Operate
+Over Time
+
+Actual Municipal School District ISD to
+Operate Major US Warehouse Retailer
+Systems As Is
+
+Operational Cost %
+
+Actual Municipal School District ISD HVAC/R Operating Cost
+vs. ASHRAE Historical Performance
+
+-40
+
+-20
+
+00
+
+20
+
+40
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+EXPECTED COST
+
+Age of HVAC/R Units
+
+37%
+in Energy
+Savings
+
+Age of Municipal School District ISD
+Equipment
+10
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Return On Investment
+
+The following are the final calculated average performance measurements following the PermaFrost NMR®
+
+Post measurement period for the West Lake HS/Municipal School District ISD DX Unit.
+
+Baseline Energy Consumption
+
+Baseline Tonnage: 5.19 tons
+
+Adjusted kW Baseline: 1.81 kW/ton * 8.15 tons = 14.75 kW
+
+Adjusted Baseline kWh: 14.75 kW * 3000 Annual Operating Hrs = 44,250 kWh
+
+Revised Cost to Run Baseline: 44,250 kWh * $.10 = $4,425
+
+Post Energy Consumption
+
+kW Post: 1.14 kW/ton * 8.15 tons = 9.3 kW
+
+Annual kWh Post: 9.3 kW * 3000 hours = 27,900 kWh
+
+Annual Cost Post: 27,900 kWh * .10 cents = $2,790
+
+Savings Per Year
+
+Avoided Energy Cost (savings) Per Year: $4,425 - $ 2,790 = $1,630
+
+Estimated Energy Savings Per Month: $1,635 / 12 = $136
+
+Initial Payback Period
+
+Cost of PermaFrost NMR® installed in the pilot DX unit: $1,000
+
+Estimated ROI Period for Pilot DX Unit: $1000/ $136 = 7.3 months
+
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period
+
+for West Lake High School and Municipal School District ISD for implementing the PermaFrost NMR® ECM, a detailed Regression
+
+Analysis is used to calculate the true energy savings resulting from the improvement in capacity. This increased
+
+capacity reduces the annual kWh expended in the Post Analysis Period. ROI comes from determining what the cost to
+
+run the systems was when operating at the original energy profile to produce the newly restored amount of available
+
+tonnage capacity and then subtracting the revised cost to run the systems at the same restored tonnage after the
+
+PermaFrostNMR® ECM was installed. This regression analysis is the most widely accepted method of accounting for
+
+the reduced number of hours the systems will now operate due to the restored capacity. This restored capacity allows the
+
+systems to reach the internal building set points with increased efficiency resulting in reduced compressor demand
+
+loading.
+
+8
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+Key Results for DX Unit with PermaFrost NMR® ECM
+
+9
+
+HVAC Equipment Manufacturer
+
+YHC092A4RMIGR
+
+424101173L
+
+R22
+
+7.7
+
+3,000
+
+2004
+
+Make
+
+Model
+
+Serial Number
+
+Refrigerant Type
+
+Nominal Cooling
+Capacity in Tons
+
+Average Annual
+Runtime Hours
+
+Age
+
+System Description
+
+485.9
+
+13.0
+
+50.6
+
+121
+
+84.5
+
+263.5
+
+76.7
+
+53.3
+
+70
+
+51.3
+
+34.09
+
+21.03
+
+13.06
+
+2.7
+
+9.29
+
+1.14
+
+8.15
+
+1664.4
+
+88
+
+Energy Usage
+BASELINE
+POST
+
+Voltage
+
+Amperage
+
+Suction Temperature
+
+Discharge Temperature
+
+Suction Pressure
+
+Discharge Pressure
+
+Entering Air DB
+
+Leaving Air DB
+
+Entering Air WB
+
+Leaving Air WB
+
+Enthalpy of Entering WB
+
+Enthalpy of Leaving WB
+
+Delta-T of Enthalpy
+
+Evaporator Approach
+
+kW (V x A x 1.47)
+
+kW / Ton
+
+Actual Measured Operating Tons
+
+Unit CFM
+
+OAT
+
+482.7
+
+13.2
+
+50.1
+
+121.2
+
+84.5
+
+264.1
+
+78.7
+
+63.7
+
+67.2
+
+55.4
+
+31.78
+
+23.47
+
+8.31
+
+13.6
+
+9.39
+
+1.81
+
+5.19
+
+1664.4
+
+88
+
+Notes
+
+The pilot DX unit provides cooling to the Gymnasium
+
+hallway at the West Lake High School Campus. The annual
+
+run-time on the pilot unit is approximately 3000 hours, (based
+
+upon 11.5 hours per day during 187 days of school and some
+
+additional school events during the summer), or more prior to
+
+PermaFrost NMR® being implemented.
+
+1.81
+
+POST
+
+BASELINE
+
+1.14
+
+kW/ton
+
+REDUCTION
+37%
+
+REDUCTION
+REDUCTION
+
+POST
+
+BASELINE
+
+36.9%
+
+57.2%
+
+POST
+
+BASELINE
+
+Enthalpy Delta
+
+IMPROVEMENT
+
+POST
+
+BASELINE
+13.6
+
+Refrigerant Approach
+
+80.1%
+
+8.31
+
+44,250
+
+27,900
+2.7
+
+13.06
+
+(w/regression analysis)
+Calculated Annual kWh
+
+BASELINE
+POST
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+2.4
+
+Passenger vehicles
+
+4
+
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+
+1,269
+
+Gallons of gasoline
+consumed
+
+12,110
+
+Pounds of coal burned
+annually
+
+26.2
+
+Barrels of oil
+consumed
+
+1.6
+
+Homes’ electricity use for
+one year
+
+10
+
+West Lake High School and Municipal School District ISD are Saving More
+than Just Energy
+
+By treating just the pilot DX unit with PermaFrost NMR®, based on the current manner West Lake High
+
+School and Municipal School District ISD operates this unit, it will save approximately 16,350 kWh per year and all the costs
+
+associated with those savings. From an environmental impact standpoint, West Lake High School and Municipal School District
+
+ISD is also benefitting the surrounding community of Austin, Texas. Imagine how great the environmental
+
+impact will be when West Lake High School and Municipal School District ISD moves forward with treating all their climate
+
+control systems across their portfolio of buildings.
+
+The 16,350 kWh saved per year equates to preventing 11.3 metric tons of greenhouse gas emissions from
+
+being released or any of the following:
+
+Annual greenhouse emissions from:
+
+CO2 emissions from:
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+®
+
+11
+
+Closing Observations
+
+In addition to significantly reducing HVAC/R costs at Municipal School District ISD by implementing PermaFrost NMR®, Municipal School District
+
+ISD can also expect to benefit by increased service life and reduced maintenance costs. Not only will the
+
+system last longer because it runs less (by reaching set-point temperatures faster), but PermaFrost NMR® is
+
+also proven to increase lubricity above the OEM oil and it also includes preventative maintenance measures
+
+such as anti-humectants, acid scavengers, as well as seal/bearing conditioners - all of which contribute to the
+
+life extension of the equipment. Considering Municipal School District ISD's process of acquiring new HVAC assets (via bonds),
+
+Municipal School District ISD can now reconsider future bond amounts by delaying the replacement of some units, reducing the
+
+amount required to fund new capital equipment.
+
+Municipal School District ISD can also expect an improvement in indoor air quality by reducing humidity levels due to the
+
+efficiency restoration. Lower humidity levels also help reduce the potential for mold, mildew, etc. The drop
+
+in humidity can allow Municipal School District ISD to operate at a higher thermostat setting by one to three degrees, while
+
+keeping comfort levels unchanged and drive the kWh savings even further.
+
+Not only will Municipal School District ISD will be making significant progress towards exceeding efficiency goals by
+
+implementing PermaFrost NMR®, it will also help solidify their role as a leader in sustainability and
+
+environmental stewardship by making a meaningful reduction to their carbon footprint. When calculated
+
+over several years a PermaFrost NMR® implementation can free up large amounts of capital for Municipal School District ISD -
+
+the total savings which include energy savings, maintenance savings, extended equipment life, reduced
+
+demand charges, etc. are significant.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

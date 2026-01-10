@@ -1,0 +1,227 @@
+{
+  "description": "Geographic distribution of PE-certified measurements in the Powertron Global PermaFrost NMR Energy Corpus",
+  "total_measurements": 254,
+  "total_unique_locations": 83,
+  "by_country": {
+    "United States": {
+      "measurements": 232,
+      "states": 24
+    },
+    "Brazil": {
+      "measurements": 8
+    },
+    "[Caribbean Location]": {
+      "measurements": 7
+    },
+    "Puerto Rico": {
+      "measurements": 3
+    },
+    "United Kingdom": {
+      "measurements": 2
+    },
+    "South Africa": {
+      "measurements": 2
+    }
+  },
+  "ashrae_climate_zones_legend": {
+    "description": "ASHRAE 169-2021 Climate Zones",
+    "zones": {
+      "1A": "Very Hot-Humid (Miami)",
+      "2A": "Hot-Humid (Houston, Tampa)",
+      "2B": "Hot-Dry (Phoenix)",
+      "3A": "Warm-Humid ([Georgia Location], [Texas City])",
+      "3B": "Warm-Dry (Los Angeles, Las Vegas)",
+      "3C": "Warm-Marine (San Francisco)",
+      "4A": "Mixed-Humid (NYC, DC, Philadelphia)",
+      "4B": "Mixed-Dry (Albuquerque)",
+      "5A": "Cool-Humid (Chicago, Boston)",
+      "5B": "Cool-Dry (Denver, Salt Lake)",
+      "6A": "Cold-Humid (Minneapolis, Milwaukee)",
+      "6B": "Cold-Dry (Helena)",
+      "7": "Very Cold (Duluth, Fairbanks)",
+      "8": "Subarctic (Barrow)"
+    }
+  },
+  "us_states": {
+    "NY": {
+      "name": "New York",
+      "measurements": 64,
+      "region": "Northeast",
+      "ashrae_zone": "4A",
+      "zone_note": "NYC metro area; upstate ranges to 5A-6A"
+    },
+    "FL": {
+      "name": "Florida",
+      "measurements": 36,
+      "region": "Southeast",
+      "ashrae_zone": "2A",
+      "zone_note": "South FL is 1A (Miami); most of state is 2A"
+    },
+    "MD": {
+      "name": "Maryland",
+      "measurements": 34,
+      "region": "Northeast",
+      "ashrae_zone": "4A"
+    },
+    "TX": {
+      "name": "Texas",
+      "measurements": 25,
+      "region": "Southwest",
+      "ashrae_zone": "2A",
+      "zone_note": "Houston/Gulf Coast 2A; [Texas City] 3A; El Paso 3B"
+    },
+    "LA": {
+      "name": "Louisiana",
+      "measurements": 10,
+      "region": "Southeast",
+      "ashrae_zone": "2A"
+    },
+    "NJ": {
+      "name": "New Jersey",
+      "measurements": 9,
+      "region": "Northeast",
+      "ashrae_zone": "4A"
+    },
+    "PA": {
+      "name": "Pennsylvania",
+      "measurements": 8,
+      "region": "Northeast",
+      "ashrae_zone": "4A",
+      "zone_note": "Philadelphia area 4A; northwest PA is 5A"
+    },
+    "GA": {
+      "name": "Georgia",
+      "measurements": 7,
+      "region": "Southeast",
+      "ashrae_zone": "3A"
+    },
+    "AZ": {
+      "name": "Arizona",
+      "measurements": 6,
+      "region": "Southwest",
+      "ashrae_zone": "2B",
+      "zone_note": "Hot-Dry climate (Phoenix area)"
+    },
+    "VA": {
+      "name": "Virginia",
+      "measurements": 5,
+      "region": "Southeast",
+      "ashrae_zone": "4A"
+    },
+    "MI": {
+      "name": "Michigan",
+      "measurements": 5,
+      "region": "Midwest",
+      "ashrae_zone": "5A",
+      "zone_note": "Southern MI is 5A; Upper Peninsula is 6A-7"
+    },
+    "CA": {
+      "name": "California",
+      "measurements": 4,
+      "region": "Southwest",
+      "ashrae_zone": "3B",
+      "zone_note": "LA/San Diego 3B; SF 3C; mountains vary 4B-6B"
+    },
+    "OH": {
+      "name": "Ohio",
+      "measurements": 3,
+      "region": "Midwest",
+      "ashrae_zone": "5A"
+    },
+    "NC": {
+      "name": "North Carolina",
+      "measurements": 3,
+      "region": "Southeast",
+      "ashrae_zone": "4A",
+      "zone_note": "Coastal areas 3A; mountains 5A"
+    },
+    "TN": {
+      "name": "Tennessee",
+      "measurements": 2,
+      "region": "Southeast",
+      "ashrae_zone": "4A"
+    },
+    "IL": {
+      "name": "Illinois",
+      "measurements": 2,
+      "region": "Midwest",
+      "ashrae_zone": "5A"
+    },
+    "SC": {
+      "name": "South Carolina",
+      "measurements": 2,
+      "region": "Southeast",
+      "ashrae_zone": "3A"
+    },
+    "CO": {
+      "name": "Colorado",
+      "measurements": 2,
+      "region": "Mountain",
+      "ashrae_zone": "5B",
+      "zone_note": "Denver 5B; mountains range to 6B-7"
+    },
+    "CT": {
+      "name": "Connecticut",
+      "measurements": 1,
+      "region": "Northeast",
+      "ashrae_zone": "5A"
+    },
+    "MA": {
+      "name": "Massachusetts",
+      "measurements": 1,
+      "region": "Northeast",
+      "ashrae_zone": "5A"
+    },
+    "WI": {
+      "name": "Wisconsin",
+      "measurements": 1,
+      "region": "Midwest",
+      "ashrae_zone": "6A"
+    },
+    "IN": {
+      "name": "Indiana",
+      "measurements": 1,
+      "region": "Midwest",
+      "ashrae_zone": "5A"
+    },
+    "MO": {
+      "name": "Missouri",
+      "measurements": 1,
+      "region": "Midwest",
+      "ashrae_zone": "4A"
+    },
+    "NV": {
+      "name": "Nevada",
+      "measurements": 1,
+      "region": "Mountain",
+      "ashrae_zone": "3B",
+      "zone_note": "Las Vegas 3B; Reno area 5B"
+    }
+  },
+  "by_region": {
+    "Northeast": {
+      "states": ["NY", "MD", "NJ", "PA", "CT", "MA"],
+      "measurements": 117
+    },
+    "Southeast": {
+      "states": ["FL", "LA", "GA", "VA", "NC", "TN", "SC"],
+      "measurements": 65
+    },
+    "Southwest": {
+      "states": ["TX", "AZ", "CA"],
+      "measurements": 35
+    },
+    "Midwest": {
+      "states": ["MI", "OH", "IL", "WI", "IN", "MO"],
+      "measurements": 13
+    },
+    "Mountain": {
+      "states": ["CO", "NV"],
+      "measurements": 3
+    },
+    "International": {
+      "countries": ["Brazil", "[Caribbean Location]", "Puerto Rico", "United Kingdom", "South Africa"],
+      "measurements": 22
+    }
+  }
+}

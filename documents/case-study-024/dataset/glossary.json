@@ -1,0 +1,40 @@
+{
+  "doc_id": "pdf_006",
+  "terms": [
+    {
+      "term": "Days",
+      "abbreviation": "CDD",
+      "definition": null
+    },
+    {
+      "term": "Power Factor",
+      "abbreviation": "PF",
+      "definition": null
+    },
+    {
+      "term": "British Thermal Units",
+      "abbreviation": "BTU",
+      "definition": null
+    },
+    {
+      "term": "Efficient of Performance",
+      "abbreviation": "COP",
+      "definition": null
+    },
+    {
+      "term": "Energy Efficiency Ratio",
+      "abbreviation": "EER",
+      "definition": null
+    },
+    {
+      "term": "The cubic feet per minute",
+      "abbreviation": "CFM",
+      "definition": null
+    },
+    {
+      "term": "Industrial Internet of Things",
+      "abbreviation": "IIOT",
+      "definition": null
+    }
+  ]
+}

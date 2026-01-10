@@ -1,0 +1,32 @@
+Energy Consumption & Financial Metrics
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the Major Global Bank Data Center Chillers 3 & 4.
+Baseline Energy Consumption
+Baseline Tonnage: 639 tons
+Adjusted kW Baseline:  .635 kW/ton * 648 tons = 411.48 kW
+Adjusted Baseline kWh: 411.48 kW * 5650 Annual Operating Hrs = 2,324,862 kWh
+Revised Cost to Run Baseline: 2,324,862 kWh * $.11 = $255,734
+Post Energy Consumption
+kW Post: .595 kW/ton * 648 tons = 385.56 kW
+Annual kWh Post: 385.56 kW * 5650 hours = 2,178,414 kWh
+Annual Cost Post: 2,178,414 kWh * .11 cents = $239,626
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $255,734 - $239,626 = $16,108
+Estimated Energy Savings Per Month: $16,108 / 12 = $1,342
+Initial Payback Period
+Cost of PermaFrost NMR® installed in the chillers (3 & 4): $13,708
+Estimated ROI Period for Major Global Bank on the chillers: $13,708 / $1,342 = 10.2 months
+Annual Rate of Return = 117.5%
+Return on Investment Over 5 Years = 587.5%
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period for 
+Major Global Bank for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true 
+energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended in 
+the Post Analysis Period. ROI comes from determining what the cost to run the chiller was when operating at the original 
+energy profile to produce the newly restored amount of available tonnage capacity and then subtracting the revised cost to 
+run the chiller at the same restored tonnage after the PermaFrostNMR® ECM was installed. This regression analysis is 
+the most widely accepted method of accounting for the reduced number of hours or load the chiller will now operate due to 
+the restored capacity. This restored capacity allows the chiller to reach the internal building set points with increased 
+efficiency resulting in reduced compressor demand loading.
+5
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

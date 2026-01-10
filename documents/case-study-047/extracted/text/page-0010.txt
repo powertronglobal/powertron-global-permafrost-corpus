@@ -1,0 +1,100 @@
+Energy Science Division
+CRAC #5
+CRAC #3
+BASELINE
+AERP
+BASELINE
+AERP
+475.8 V
+21.4 A
+36.5 F
+63.7 PSI
+78.7 F
+140.8 PSI
+80.3 F
+59.7 F
+58.2 F
+47.5 F
+9,007
+21.28  
+6.3
+15
+.703
+100,457
+5.0
+36 F
+475.9 V 
+20.2 A 
+ 34.5 F
+ 61.2 PSI
+ 75.9 F
+134.4 PSI
+ 80.5 F
+ 55.3 F
+57.8 F
+43.4 F
+9,007
+ 27.46  
+8.13
+14.2
+.516
+73,721
+6.82
+39 F
+Voltage  
+Amperage  
+Suction Refrig Temp
+Suction Refrig Pressure
+Discharge Refrig Temp
+Discharge Refrig Pressure
+Entering Air DB Temp  
+Leaving Air DB Temp  
+Entering Air WB Temp  
+Leaving Air WB Temp  
+CFM Across Coils
+Cooling Capacity (Tons) 
+Total WB Enthalpy Delta
+kW  
+kW/Ton 
+Calculated kWh
+COP 
+Outside Air Temp
+475.8 V
+24.5 A
+33.5 F
+60.7 PSI
+93.7 F
+180.1 PSI
+75.9 F
+57.6 F
+55.7 F
+46.9 F
+9,004
+16.95  
+5.02
+17.1
+1.011
+108,732
+3.48
+36 F
+475.8 V 
+22.6 A 
+ 29.7 F
+ 56.4 PSI
+ 90.5 F
+171.8 PSI
+ 76.9 F
+56.7 F
+58.9 F
+48.7 F
+9,004
+ 20.66  
+6.12
+15.8
+.765
+82,276
+4.6
+39 F
+MEASUREMENT
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,23 @@
+Energy Science Division
+The machine loaded the compressor to 82% while attaining the chilled water set point of 43 degrees.  
+During this performance improvement period, the energy consumption was reduced from 430 amps to 350 
+amps (see photos).  Special notation should be made to the tonnage required to attain chilled water set point 
+while using less electrical energy.  This is the tonnage that was required to deliver the chilled water set 
+point.  While attaining the chilled water set point of 43 degrees, this machine only required the net 
+refrigeration affect of 280 tons.  This is the result of the ECM enhancing the ability of the heat exchange 
+surfaces of the chiller evaporator and condenser to transfer kinetic heat energy. 
+As previously reported, all attempts were made to assure load stability for the baseline and avoided energy 
+reporting periods.  All internal chilled water valves serving air handlers were digitally controlled to open fully 
+to the 100% operating position during the pre and post measurement periods.  While it is always a concern to 
+create similar operating conditions to generate examples of baseline energy consumption versus avoided 
+energy reporting periods, this machine was driven to the maximum operating limits of the connected load.
+Measurement confidence was confirmed that the avoided energy-reporting period was in excess of the 
+chilled water load conditions experienced during the baseline-reporting period.  
+This pilot machine provides chilled water at the measured GPM and now delivers design chilled water 
+outlet set point temperature at reduced kWh while increasing tonnage per kW efficiency.  This allows the 
+chiller to produce more tonnage while consuming less energy.  The introduction of PermaFrost NMR® has 
+restored a significant amount of chilled water capacity to support this critical Company facility, which has 
+resulted in much lower operational costs. 
+Baseline Period 5/30/12                           Post Treatment Period 6/27/12
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

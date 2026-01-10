@@ -1,0 +1,47 @@
+®
+Recovered
+Energy
+5
+Recovered Wasted Energy with ECM -  Chiller
+The chart to the right illustrates the performance 
+restoration the ECM created in the treated chiller. The 
+average cost to operate this chiller before it was 
+treated with PermaFrost NMR® as calculated in 
+kW/ton was .587.
+The specific cost to operate this chiller after it was 
+treated with PermaFrost NMR® as calculated in 
+kW/ton is currently .521.
+The higher baseline kW/ton rating measured in-situ 
+was expected when compared to the ASHRAE loss of 
+performance efficiency and cost to operate estimate 
+for a 12 year old chiller. The post results are also in 
+line with the average improvement savings shown 
+over more than 120,000 installations globally.
+Notes 
+The efficiency and capacity restored is significant and within the expected range for this type of equipment. However, the 
+actual efficiency and capacity restored is lower than the historical statistical average. 
+Lower than expected restoration can occur if the unit is :
+1   Extremely efficient (statistical possibility)  
+2.  Has lower than expected total runtime (unit has not fully degraded in efficiency yet therefore it cannot be restored)
+3.  The improper amount of PermaFrost NMR® was not installed (incorrect oil charge information) 
+On further review (because of the abnormality), we identified the oil charge to be 20 gallons versus the reported 12-13 
+gallons given by the Global Telecom Equipment Manufacturer staff. Though still significant, this improper oil charge identification most likely caused the 
+lower than historically expected efficiency returns. Once the missing amount PermaFrost NMR® is installed and the 
+chiller is allowed to run another 350+ hours, additional M&V measurements will show the maximum amount of restored 
+capacity.
+Cost to Operate
+Baseline
+Post ECM
+kW/ton
+.066  kw/ton
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+.587
+.521
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

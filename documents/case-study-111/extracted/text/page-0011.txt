@@ -1,0 +1,31 @@
+3rd Floor East Suite Data Center Temperatures
+11
+Environmental Changes Resulting from Increased Capacity 
+The graph below illustrates the impact the 19.6 tons of additional cooling capacity produced by the PermaFrost 
+NMR® ECM has had on the pilot data center suite. Although the 71 and 72 degree set points of the CRAC systems 
+are still usually well below the warmest areas within the suite, the 3.8 degree reduction in average temperature 
+now makes cycling of the CRAC systems more attainable.  
+Energy Readings Directly from Utility Grade Meter Monitoring All Systems 
+The graph below illustrates how the Circuit Master® devices installed directly to the load side contactors of the 
+lead compressor on each CRAC system immediately improved the Power Factor directly at the systems and 
+reduced the current draw supplied by the Utility. Savings above and beyond those achieved in this pilot are 
+available at all equipment by installing additional Circuit Master® devices on the secondary compressor of each 
+CRAC system and at each of the respective condensing units. Overall Power Factor of .95 or higher and these 
+savings are  absolutely attainable without a noticeable increase in the Return on Investment (ROI) period.
+74
+76
+78
+80
+82
+84
+86
+88
+Inside Temperatures
+11/11/15
+PermaFrost NMR®
+Installed
+11/18/15
+11/25/15
+12/2/15
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

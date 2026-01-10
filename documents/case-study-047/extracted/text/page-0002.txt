@@ -1,0 +1,28 @@
+PermaFrost NMR® Eﬃciency Report
+Global Telecom Equipment Manufacturer
+Legacy Rd Location, [Texas Location]
+Report Summary
+This report contains specific information regarding the installation of the energy conservation measure 
+(ECM) PermaFrost NMR® into two computer room air conditioning (CRAC) units. The units (#3 and #5) 
+are the same age (2001), same size (16.5 tons), use the same refrigerant (R22) and support the same 
+mission-critical Global Telecom Equipment Manufacturer data center housed within the Legacy Road facility in [Texas Location].
+    
+Following baseline detailed forensic performance measurement and verification (M&V) testing, each CRAC 
+was treated with the proper amount and type of the PermaFrost NMR® technology specially formulated for 
+these types of systems. After a gestation period of four weeks, identical testing was conducted under very 
+similar conditions using the same test equipment as was used in the baseline.  The purpose of the testing 
+was threefold:  
+1. Demonstrate how the ECM improves the thermal performance 
+2. Demonstrate ECM is safe and will not harm Global Telecom Equipment Manufacturer’s critical HVAC equipment
+3. Calculate the amount of energy saved per unit by restoring lost eﬃciency
+ 
+Energy Science Division
+This 16.5-ton Leibert CRAC unit was one of two units 
+involved in the Global Telecom Equipment Manufacturer pilot. These units help cool the 
+mission-critical Global Telecom Equipment Manufacturer internal data center in [Texas Location], 
+TX.  The image shows several of the NIST-calibrated and 
+certified digital instrumentation used to calculate the 
+efficiency of each of the CRAC units in both the Baseline 
+and Avoided Energy Reporting Period (AERP) or Post.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

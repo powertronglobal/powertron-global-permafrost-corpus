@@ -1,0 +1,96 @@
+================================================================================
+DOCUMENT EXTRACTED FROM PDF
+================================================================================
+
+═══ PAGE 001 ═══
+
+PermaFrost NMR®
+ Installation Instructions
+for DX
+The following instructions are designed to
+guide licensed HVAC personnel through the
+PermaFrost NMR® installation process for
+DX style equipment. 
+Normal routine maintenance and services are required to ensure ﬂawless installation and bottom line results.
+Inspect the HVAC equipment  and ensure that it is in proper working order.
+Complete any necessary repairs prior to PermaFrost NMR® installation. Examples include refrigerant leaks, dirty coils 
+(outside), fan and compressor issues.
+When the system is in proper working order proceed with the Recommendations & Requirements of PermaFrost NMR®.
+Before you begin the installation of PermaFrost NMR®
+The two types of PermaFrost NMR® formulas for DX units are synthetic and mineral. 
+It is important that the correct PermaFrost NMR® formulation is matched to the 
+correct  refrigerant oil type. The oil type always determines the correct type of 
+PermaFrost NMR® to be installed. On occasion, larger DX units may be equipped 
+with refrigerants such as R-22 (mineral based), but have a synthetic refrigeration oil; 
+never assume the oil type, this must be veriﬁed.
+We require a separate pump/injector for any units equipped with mineral based 
+refrigerant oils and a separate pump/injector for any units equipped with synthetic 
+based refrigerant oils.  This is to reduce the risk of cross contamination. 
+RECOMMENDATIONS & REQUIREMENTS
+#77950
+#77930
+
+
+═══ PAGE 002 ═══
+
+The installer must know how much their pump injects per stroke. For example, the Yellow Jacket Max-Flow #77930
+that is recommended pumps 3.8 oz. per stroke (simply approximate 4 oz.). If you use an injector or some other piece of 
+equipment, follow recommend OEM guidelines for adding oil to HVAC equipment.
+All PermaFrost NMR® injections are measured in U.S. ﬂuid oz. The amount of PermaFrost NMR® to be installed is 
+directly proportional to the total tonnage of the unit. This is further explained (Step 6) in the Instructions For Installing. 
+It is recommended that the compressor remains operational during the entire installation process. This will ensure 
+that PermaFrost NMR® is thoroughly circulated throughout the system.
+Insure that all precautions are taken to assure that there are no residual 
+products such as old oil or any foreign matter present in the charging apparatus.
+Care should be taken to assure the purity of the PermaFrost NMR®. 
+2
+1
+3
+4
+5
+6
+7
+8
+INSTRUCTIONS FOR INSTALLING
+PermaFrost NMR®
+Use the same precautions handling PermaFrost NMR®, as you would while handling refrigerant oils.
+      Approach unit and identify nominal tonnage and refrigerant oil type to determine how much (Step 6) and what 
+type of PermaFrost NMR® to install.
+      Locate low pressure port or suction side of the unit and remove cap.
+      Place recommended oil pump into the PermaFrost NMR® container but be sure that oil pump does not have any
+residual refrigerant oil or contaminates on the copper tube before submerging into the PermaFrost NMR® container.
+      Next, purge the charging hose of air. Place the end of the hose over the opening of the PermaFrost NMR® container to 
+capture excess. Do not inject any non-condensable into refrigeration circuit!
+      Connect charging hose to suction port on the unit.
+      All injections of PermaFrost NMR® will be measured in US fluid ounces (or metric equivalent). The treat level is 1 oz. 
+of PermaFrost NMR® per 1 ton of refrigeration. For example: for a 5 ton unit, add 5 ounces of PermaFrost NMR®. If 
+there is a ½ ton increment, round up to the next full ounce. However, if the unit has multiple circuits it is important to 
+determine the total capacity per circuit. Inject the required amount of PermaFrost NMR® per each circuit's total
+tonnage. PermaFrost NMR® injections are safe within 5% of the actual tonnage so there is margin for error when 
+installing the product. Approximate and use your best judgment.
+      Once the proper dosage is injected into the system, remove the charging hose and wipe away excess.
+      Once all of the units have been installed at a given location, remove pump from PermaFrost NMR® container, 
+letting excess drip back into the container to reduce waste.
+
+
+═══ PAGE 003 ═══
+
+POST INSTALLATION GUIDELINES
+PermaFrost NMR® will remove any oil ﬁlm inside the heat exchangers, and on some older systems the stagnant oil 
+may clog the ﬁlter drier.  This is evidence that PermaFrost NMR® is working properly.  Filter drier replacement only 
+occurs in ~3% of all DX systems treated. PermaFrost NMR® does not directly cause the clogging of the ﬁlter drier 
+however the amount and size of the performance robbing contaminates dislodged by the product can.
+This completes the PermaFrost NMR® installation process.
+Powertron Global LLC. © Copyright 2017
+TROUBLESHOOTING
+Installing PermaFrost NMR® in a unit that is low on 
+refrigerant may freeze the evaporator. If this happens 
+the solution is to simply charge the unit properly.
+The system will return to normal when the
+refrigerant level is correct.
+For Assistance Please Call info@powertronglobal.com
+or email support@powertronglobal.com 
+15402 Dexler Drive
+Austin, TX 78734
+www.powertronglobal.com
+

@@ -1,0 +1,40 @@
+{
+  "doc_id": "pdf_112",
+  "terms": [
+    {
+      "term": "Energy Conservation Measure",
+      "abbreviation": "ECM",
+      "definition": null
+    },
+    {
+      "term": "Refrigeration and Air \nConditioning Engineers",
+      "abbreviation": "ASHRAE",
+      "definition": null
+    },
+    {
+      "term": "Air Conditioning and Refrigeration",
+      "abbreviation": "HVACR",
+      "definition": null
+    },
+    {
+      "term": "Coefficient of Performance",
+      "abbreviation": "COP",
+      "definition": null
+    },
+    {
+      "term": "This will result in an initial payback period",
+      "abbreviation": "IPP",
+      "definition": null
+    },
+    {
+      "term": "Return",
+      "abbreviation": "IRR",
+      "definition": null
+    },
+    {
+      "term": "Actual Measured Operating kWRefrigeration  \nChiller Flow Rate",
+      "abbreviation": "LPS",
+      "definition": null
+    }
+  ]
+}

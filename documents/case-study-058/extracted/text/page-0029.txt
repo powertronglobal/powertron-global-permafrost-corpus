@@ -1,0 +1,55 @@
+ 
+Refrigerant / filling volume - R22/1,670g 
+Noise (indoor/outdoor) - 46/52dB(A) 
+Anti-static protection - Category I 
+Mass (indoor/outdoor) - 38/53kg 
+Operating current under the most severe conditions - 19.5A 
+Overpressure at air outlet side - 2.60MPa 
+Overpressure at air intake side - 0.50MPa 
+Indoor Model    KFRd-50L 
+Power supply    Single-phase - 220V, 50 Hz 
+Rated current for refrigerating/heating - 9.4/8.6+5.5A 
+Circulation air flow - 850m3/h 
+Rated input power - 405+1,200W 
+Mass - 38kg 
+Ex-factory number 
+Manufacture date 
+Hefei Meiling Sigma Electrical Appliance Co., Ltd.  
+32.  
+Split  Heat Pump Floor-Standing Room Air Conditioner 
+Outdoor Model 
+KFRd-50W 
+Power supply    Single-phase - 220V, 50Hz 
+Rated current for refrigerating/heating - 9.4/8.6+5.5A 
+Rated power for refrigerating/heating – 2,060/1,900+1,200W 
+Refrigerant/filling volume - R22/1670g 
+Waterproof class - IPX4 
+Mass - 53kg 
+Operating current under the most severe conditions - 19.5A 
+Ex-factory number 
+Manufacture date 
+Hefei Meiling Sigma Electrical Appliance Co., Ltd.  
+33.  
+Refrigerating capacity 
+34.  
+Input power 
+35.  
+Dry bulb temperature at evaporator air outlet 
+36.  
+Wet bulb temperature at evaporator air outlet 
+37.  
+1. Measured nominal cooling condition: indoor side dry bulb temperature 
+26.95°C; web bulb temperature 18.98°C 
+                     Outdoor side 
+dry bulb temperature 34.98°C 
+                                          Air outlet static pressure 0Pa 
+2. The refrigerating capacity, input power, dry bulb temperature at 
+evaporator air outlet, wet bulb temperature at evaporator air outlet listed in 
+the table are tested according to the provisions of Chinese Standard GB/T 
+7,725-2,004. 
+3. The refrigerant used in this test is R22, and its filling volume is 1670g.  
+4. The refrigerating capacity, input power, dry bulb temperature at 
+evaporator air outlet, and wet bulb temperature at evaporator air outlet listed 
+in this table were measured after the machine had been in operation for 15 
+hours following filling of 50 ml of the PFHCFC model of PermaFrost III 
+refrigerant. 

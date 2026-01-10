@@ -1,0 +1,58 @@
+ASTM D665A: Completed Rust inhibitor. 
+ 
+A type of additive for protecting lubricated metal surfaces against chemical attack by water or other contaminants. 
+Polar compounds wet the surface preferentially, protecting it with a film of oil. 
+Results: <0.5% 
+ 
+ 
+ASTM D611: Completed Aniline point, °F. 
+ 
+The lowest temperature at which a specified quantity of aniline (a benzene derivative) is soluble in a specified quantity 
+of petroleum product, i.e. the solvent power of a hydrocarbon. The lower aniline point, the greater the solvency. 
+Results: 11°F 
+ 
+ 
+ASTM D877: Completed Dielectric breakdown, kV. 
+ 
+The minimum voltage required to produce an electric arc through an oil sample, hence an indication of the insulating 
+ 
+(arc preventive) properties of an oil. 
+ 
+Results: 41 kV 
+ 
+ 
+ASTM D93: Completed Flash point, °F. 
+ 
+The lowest temperature at which the vapor of a combustible liquid can be made to ignite momentarily in air. Flash point 
+is an important indicator of the fire and explosion hazards associated with petroleum products. 
+Results: 370°F 
+ 
+ 
+ASTM D1744: Completed Water content, PPM. 
+ 
+A method used for obtaining a semi-quantitative estimate of the amount of trace water present in a finished lubricant. 
+ 
+Results: 10 PPM 
+ 
+ 
+ASTM D445: Completed Viscosity @ 100°F. 
+ 
+This test measures the fluid's resistance to flow. Liquids change viscosity with temperature, becoming less viscous when 
+heated. High pressures, or load, tend to squeeze the oil out of the bearing, which calls for the greater film strength of a 
+high-viscosity oil. 
+Results: 7.8 
+ 
+ 
+ASTM D97: Completed Pour point, °F. 
+ 
+The lowest temperature at which oil is observed to flow, when cooled under conditions as defined by ASTM D97. The 
+pour point is 5°F above the temperature at which the oil in a test vessel shows no movement 
+when the container is held horizontally for five seconds. 
+ 
+Results: -70°F. 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,202 @@
+{
+  "schema_version": "2.0",
+  "description": "Comprehensive ROI calculation methodology for PermaFrost NMR treatment - both preventive and restorative approaches",
+  "data_source": "Corpus of 82 PE-certified field measurements with equipment age documentation",
+
+  "roi_types": {
+    "restorative": {
+      "name": "Restorative ROI",
+      "description": "Calculates value of RESTORING efficiency already lost to thermal degradation",
+      "applicable_when": "Equipment has accumulated thermal degradation (typically 5+ years old)",
+      "calculation_basis": "Restored efficiency percentage applied to remaining equipment life",
+      "typical_equipment_age": "5-20 years",
+      "roi_range": "200-500%",
+      "best_for": "Equipment showing measurable efficiency degradation",
+      "formula": {
+        "annual_savings": "(degraded_kW/ton - restored_kW/ton) × capacity_tons × runtime_hours × electricity_rate",
+        "lifetime_savings": "annual_savings × remaining_equipment_life",
+        "roi_pct": "((lifetime_savings - treatment_cost) / treatment_cost) × 100"
+      },
+      "example": {
+        "scenario": "200-ton chiller, 10 years old, 25% degradation, 13 years remaining life",
+        "degraded_kw_ton": 0.82,
+        "restored_kw_ton": 0.67,
+        "runtime_hours": 2500,
+        "electricity_rate": 0.12,
+        "annual_savings": 9000,
+        "remaining_life_years": 13,
+        "lifetime_savings": 117000,
+        "treatment_cost": 25000,
+        "net_savings": 92000,
+        "roi_pct": 368
+      }
+    },
+    "preventive": {
+      "name": "Preventive ROI",
+      "description": "Calculates value of PREVENTING all future thermal degradation over equipment lifetime",
+      "applicable_when": "New equipment (0-3 years) or immediately after major service/overhaul",
+      "calculation_basis": "Sum of avoided degradation cost for each year over full equipment lifetime",
+      "typical_equipment_age": "0-3 years",
+      "roi_range": "500-800%",
+      "best_for": "New installations, post-major-service equipment",
+      "key_insight": "Highest total ROI because preventing full lifetime of degradation - savings compound yearly",
+      "formula": {
+        "yearly_avoided_waste": "degradation_at_year_N × baseline_energy_cost",
+        "lifetime_avoided_waste": "sum of yearly_avoided_waste for all years of equipment life",
+        "roi_pct": "((lifetime_avoided_waste - treatment_cost) / treatment_cost) × 100"
+      },
+      "example": {
+        "scenario": "200-ton chiller, Day 1 treatment, 23-year equipment life",
+        "baseline_kw_ton": 0.65,
+        "runtime_hours": 2500,
+        "electricity_rate": 0.12,
+        "yearly_degradation_prevented": {
+          "year_1": { "degradation": "16%", "avoided_cost": 6318 },
+          "year_5": { "degradation": "21%", "avoided_cost": 8190 },
+          "year_10": { "degradation": "23.5%", "avoided_cost": 9165 },
+          "year_15": { "degradation": "26%", "avoided_cost": 10140 },
+          "year_23": { "degradation": "30%", "avoided_cost": 11700 }
+        },
+        "lifetime_avoided_waste": 209703,
+        "treatment_cost": 25000,
+        "net_savings": 184703,
+        "roi_pct": 739
+      }
+    }
+  },
+
+  "comparison_table": {
+    "metric": ["Treatment Cost", "Equipment Age at Treatment", "Immediate Improvement", "Lifetime Savings", "Lifetime ROI", "Key Value Driver"],
+    "restorative_10yr": ["$25,000", "10 years", "25%", "$117,000", "368%", "Restoring existing degradation"],
+    "preventive_day1": ["$25,000", "0 years (Day 1)", "5-15%", "$209,703", "739%", "Preventing all future degradation"],
+    "conclusion": "Preventive treatment yields ~2x higher lifetime ROI despite lower immediate improvement"
+  },
+
+  "corpus_vs_ashrae": {
+    "summary": "Corpus field measurements (82 PE-certified studies) complement and validate ASHRAE research",
+    "recommendation": "Use corpus model as primary calculation basis, cite ASHRAE research for context",
+
+    "corpus_model": {
+      "name": "Corpus Degradation Model",
+      "basis": "82 PE-certified before/after field measurements where equipment age was documented",
+      "methodology": "Polynomial curve fitted to real degradation data by equipment age buckets",
+      "advantages": [
+        "Real equipment under real operating conditions",
+        "Controlled comparison - same equipment pre/post treatment",
+        "Measures thermal degradation specifically - what PermaFrost NMR addresses",
+        "133 total case studies across multiple equipment types, ages, industries"
+      ],
+      "age_buckets": {
+        "0-5_years": { "n": 12, "avg_degradation": 20.9, "std_dev": 8.2 },
+        "5-10_years": { "n": 21, "avg_degradation": 25.2, "std_dev": 9.1 },
+        "10-15_years": { "n": 32, "avg_degradation": 25.8, "std_dev": 10.4 },
+        "15-20_years": { "n": 9, "avg_degradation": 24.9, "std_dev": 11.2 },
+        "20+_years": { "n": 8, "avg_degradation": 22.6, "std_dev": 9.8 }
+      },
+      "curve_formula": "Uses polynomial interpolation: degradation = 0.10 + 0.012*age - 0.0003*age²",
+      "peak_degradation_window": "10-15 years (25.8% average)",
+      "plateau_explanation": "Degradation plateaus after 15 years as severely degraded equipment is typically replaced rather than measured"
+    },
+
+    "ashrae_model": {
+      "name": "ASHRAE Research Model",
+      "basis": "Industry standard ~2% COP decline per year from published ASHRAE research",
+      "source": "UCF/FSEC study, ASHRAE 1998 Handbook Chapter 2.9, ASHRAE RP-751/RP-601",
+      "methodology": "Linear degradation: 2% per year with 30% maximum cap",
+      "context": [
+        "Conservative baseline from published ASHRAE Handbook methodology",
+        "Corpus field data shows real-world degradation often exceeds this baseline",
+        "Provides industry-standard reference point for comparison",
+        "Based on peer-reviewed ASHRAE research including RP-751 and RP-601"
+      ],
+      "formula": "degradation = min(age × 0.02, 0.30)"
+    },
+
+    "key_differences": {
+      "early_years": "Corpus shows ~16% degradation at Year 1 vs ASHRAE's 2% - suggests rapid initial fouling",
+      "mid_life": "Corpus shows higher degradation 5-15 years (25-26% vs ASHRAE 10-30%)",
+      "late_life": "Both plateau around 30% maximum, but corpus reaches plateau earlier",
+      "explanation": "Corpus includes initial oil distribution losses; ASHRAE may only measure ongoing decline"
+    }
+  },
+
+  "calculation_inputs": {
+    "equipment_specifications": {
+      "capacity_tons": { "description": "Cooling capacity in tons", "source": "Nameplate or commissioning data" },
+      "original_kw_ton": { "description": "Design efficiency rating", "source": "Nameplate, use defaults if unknown" },
+      "equipment_type": { "description": "Chiller, RTU, CRAC, etc.", "affects": "Default kW/ton and expected life" },
+      "equipment_age_years": { "description": "Years since installation", "affects": "Expected degradation %" }
+    },
+    "operational_parameters": {
+      "runtime_hours_per_year": { "description": "Annual operating hours", "default": 2500, "presets": {
+        "24_7_critical": 8760,
+        "commercial_extended": 4380,
+        "commercial_standard": 2500,
+        "seasonal": 1500
+      }},
+      "electricity_rate_per_kwh": { "description": "Cost per kWh", "default": 0.12 }
+    },
+    "treatment_cost": {
+      "cost_per_ton": 125,
+      "basis": "2025 USD",
+      "formula": "treatment_cost = capacity_tons × 125"
+    }
+  },
+
+  "ui_requirements": {
+    "always_show_both": "Per user requirement: Always show BOTH preventive and restorative ROI side-by-side",
+    "no_auto_selection": "Do NOT automatically select one mode based on equipment age",
+    "corpus_as_primary": "Highlight corpus model as primary calculation, show ASHRAE for comparison",
+    "display_elements": [
+      "Equipment specifications input form",
+      "Dual ROI display (preventive + restorative)",
+      "Yearly breakdown chart showing compounding savings",
+      "Model comparison (corpus vs ASHRAE)",
+      "Key insight about which approach yields higher ROI"
+    ]
+  },
+
+  "training_qa_examples": [
+    {
+      "question": "What's the ROI on treating a brand new chiller?",
+      "answer": "While immediate efficiency improvement will be modest (5-15%), the PREVENTIVE ROI is the highest of any treatment scenario. Treating on Day 1 prevents 23 years of thermal degradation, yielding 600-800% lifetime ROI. This is nearly double the ROI of waiting until Year 10 to treat the same chiller.",
+      "key_concept": "Evaluate new equipment treatment by PREVENTIVE value, not immediate improvement"
+    },
+    {
+      "question": "Why would I treat new equipment if it only shows 10% improvement?",
+      "answer": "The 10% improvement represents the existing baseline degradation (even new equipment has some oil distribution losses). But the real value is PREVENTIVE - you're locking in near-design efficiency for the equipment's entire 23-year life. Without treatment, that same chiller will lose 25-30% efficiency over time. The $25,000 treatment cost saves over $200,000 in prevented energy waste.",
+      "key_concept": "Preventive value vs restorative value"
+    },
+    {
+      "question": "Should I wait until my equipment shows problems before treating?",
+      "answer": "No - waiting reduces your total ROI by nearly half. Treating a 10-year-old chiller with 25% degradation yields ~377% ROI. Treating that same chiller on Day 1 would have yielded ~739% ROI. Every year you wait, you're paying for efficiency loss that could have been prevented.",
+      "key_concept": "Cost of delayed treatment"
+    },
+    {
+      "question": "How does corpus data compare to ASHRAE standards?",
+      "answer": "The corpus model is based on 82 PE-certified field measurements on real equipment under real operating conditions. ASHRAE's ~2%/year estimate is a conservative baseline from published research. Corpus field data shows real-world degradation often exceeds ASHRAE estimates, particularly in early equipment life. We recommend using the corpus model as primary and showing ASHRAE for comparison.",
+      "key_concept": "Field data validates ASHRAE research"
+    }
+  ],
+
+  "oem_validation": {
+    "trane_patent": {
+      "patent_number": "US6564560B2",
+      "key_quote": "eliminate the oil-coating of heat exchange surfaces and the resulting diminishment of the heat transfer process",
+      "significance": "Major OEM acknowledges oil fouling problem that PermaFrost NMR solves",
+      "oem_solution_cost": "$1,500-3,000/ton (new equipment purchase)",
+      "permafrost_solution_cost": "$125/ton (treat existing equipment)",
+      "cost_advantage": "12-24x less expensive"
+    },
+    "ashrae_research": {
+      "source": "ASHRAE 1998 Handbook Chapter 2.9",
+      "findings": [
+        "33% efficiency reduction at 1-2% oil concentration",
+        "40-50% efficiency reduction at 5-15% oil concentration",
+        "7% efficiency loss in first year of operation",
+        "5% additional loss in second year",
+        "2% annual loss thereafter, up to 30% maximum"
+      ]
+    }
+  }
+}

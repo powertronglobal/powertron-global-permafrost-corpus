@@ -1,0 +1,46 @@
+Detailed Results Unit #5
+System Description / Design Characteristics
+This RTU provides cooling for the display and demonstration area.  The unit runs an average of 482 hours 
+per month or 5,790 hours per year. 
+Baseline Measurement Period Selection
+The following data was recorded on 12/19/2012 using recently NIST calibrated devices to insure 
+measurement accuracy.  The results were recorded as a result of the implementation of the IPMVP Protocol.
+Energy Science Division
+Make
+Model
+Serial Number
+Nominal Cooling Capacity in Btuh/tons
+Refrigerant Type
+ICP
+PHB090
+L980999806
+90,000 / 7.5
+R-22  
+Voltage
+Amperage
+Suction Refrigerant  Temp
+Discharge Refrigerant Temp
+Entering Air Temp DB
+Leaving Air Temp DB
+Entering Air Temp WB
+Leaving Air Temp WB
+Actual CFM
+Calculated Coil Capacity Btuh / tons
+Enthalpy Delta
+Calculated Total Watts 
+Calculated Watts per Ton
+486.76 V
+14.03 A
+33 F
+95.5 F
+75 F
+51 F 
+63.4 F
+49 F
+1,735
+71,204 / 5.93
+9.12
+10,039 CTW
+1,693 CWPT
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

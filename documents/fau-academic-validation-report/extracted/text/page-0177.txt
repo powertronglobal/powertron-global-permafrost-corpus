@@ -1,0 +1,31 @@
+ 
+Appendix A Examples         77 
+ 
+measurement process was put in place for assessing the increased electrical output in order to 
+qualify for an electric-utility incentive payment.  
+Factors Affecting The M&V Design  The purpose of the M&V was to report electrical 
+improvements. The mill recognized that extraction of more energy by the turbine left less steam 
+energy for the process, or required more boiler energy to deliver the same steam to the process. 
+These interactive effects were not part of this analysis for the electrical utility. The utility 
+incentive was based purely on increased electricity production. 
+M&V Plan  The mill and the utility agreed to use IPMVP Volume I, EVO 10000 – 1:2012, Option 
+B to determine the increase in electricity output for a one year period. Existing plant 
+instrumentation was used to determine the efficiency of the old rotor as shown in Figure A-5.1. 
+ 
+  
+The mathematical model describing the baseline unit efficiency was found by regression 
+analysis to be: 
+ 
+Efficiency (%) = (-0.000247 x flow2) + (0.255 x flow) + 14.5 
+This efficiency model will be used with the steam conditions of the one-year reporting period to 
+determine what the electricity production would have been with the old rotor. Increased 
+electricity production will be reported under reporting-period conditions, using IPMVP Equation 
+1b). 
+Existing plant meters are regularly calibrated as part of plant maintenance. They were deemed 
+to be suitable for the utility’s purpose. 
+Results  For a year after retrofit, the steam conditions every minute were applied to the 
+mathematical model of old rotor efficiency to compute the adjusted-baseline energy term used 
+ 
+Figure A-5.1  
+Old Rotor 
+Performance 

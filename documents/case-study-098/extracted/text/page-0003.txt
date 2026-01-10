@@ -1,0 +1,31 @@
+Executive Summary
+This report contains specific information regarding the installation of PermaFrost NMR® in the 20-ton 
+Comfort-Aire DX HVAC unit at Organization A, 2nd floor, [Commercial Address], NY.  The unit is owned 
+and maintained by Organization A (heretofore referred to as The Company) located in New York, NY. 
+[Client Representative], P.E. representing Organization A, oversaw the trial. 
+The improved/restored efficiency on the unit directly attributable to the PermaFrost NMR® ECM was 
+substantial.  The unit now provides cooler supply air with greater efficiency due to the restoration of the 
+heat transfer capacity of the evaporator and condenser coils and increased the available useful tonnage. 
+Please note that this system is subjected to excessive discharge refrigerant temperatures and subsequent 
+pressures.  These issues at times cause nuisance tripping of the discharge pressure safety switch that then 
+causes the unit to shut down.  During the initial baseline data recording period this condition was observed 
+and as a result the pressure drop across the condenser coil was measured.  This pressure difference should 
+not exceed 0.50".  The measured pressure drop measured during this baseline reporting period was in excess 
+of 2".
+ 
+It was also our understanding that the condenser coil was cleaned by a service group to attempt to alleviate 
+this condition.  The post energy measurement period revealed that the discharge pressure is  in excess of 305 
+psi.  This necessitated another measurement of the pressure drop across the condenser coil and this revealed 
+that the pressure drop is continuing to measure in excess of 2".  The method of cleaning to this coil has not 
+produced the required relief for the system to completely condense all of the discharge gas.  We suggest that 
+this condenser coil be cleaned with the proper chemicals and water as the manufacturer instructs.  When 
+this pressure is reduced, the savings as a result of the installation of PermaFrost NMR® will be even greater.
+The overall system efficiency improved by 12.7% and the EER improved by 12.4%.  There was an increase in 
+coil capacity of 19,969 in Btuh which equates to gaining 1.7-tons of capacity or 12.5%.  There is also a 
+reduction of 10.9% in total power and watts per ton which is another measurable way to view the 
+thermodynamic enhancement of the PermaFrost NMR® ECM.  The tables of data and financial calculations 
+are available for review at the end of this report.  The result of these combined ECM improvements is an 
+ROI to The Company of 27.2 months.
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

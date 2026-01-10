@@ -1,0 +1,55 @@
+HVAC Performance Comparison: kW/Ton
+ DHU 16 Kit 3 CONTROL
+kW/Ton Comparison 
+OSA Temp.
+Base kW/Ton
+Post kW/Ton
+74 degF
+1.43 kW/Ton
+1.51 kw/Ton
+75 degF
+1.46 kW/Ton
+1.54 kw/Ton
+76 degF
+1.37 kW/Ton
+1.41 kw/Ton
+77 degF
+1.38 kW/Ton
+1.47 kw/Ton
+78 degF
+1.38 kW/Ton
+1.55 kw/Ton
+79 degF
+1.36 kW/Ton
+1.53 kw/Ton
+80 degF
+1.46 kW/Ton
+1.44 kw/Ton
+81 degF
+1.46 kW/Ton
+1.54 kw/Ton
+82 degF
+1.44 kW/Ton
+1.52 kw/Ton
+83 degF
+1.43 kW/Ton
+1.62 kw/Ton
+84 degF
+1.44 kW/Ton
+1.74 kw/Ton
+85 degF
+1.54 kW/Ton
+1.72 kw/Ton
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+74 degF - 85 degF
+68.0 degF - 72.0 degF
+0.5 - 1.0
+5s
+36668 samples
+49267 samples

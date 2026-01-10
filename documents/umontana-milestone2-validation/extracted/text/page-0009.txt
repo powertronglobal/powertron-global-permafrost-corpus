@@ -1,0 +1,44 @@
+ 
+ 
+Page 2 of 38 
+ 
+- 
+2020-09-10 
+- 
+2020-10-19 
+- 
+2020-10-25 
+- 
+2020-10-26 
+- 
+2020-10-27 
+- 
+2020-10-28 
+- 
+2020-10-29 
+- 
+2020-10-30 
+- 
+2020-11-01 
+- 
+2020-11-02 
+- 
+2020-11-10 
+- 
+2020-11-16 
+- 
+2020-11-22 
+- 
+2020-11-23 
+- 
+2020-11-27 
+ 
+Further investigation into the dates listed shows anomalies, so the algorithm is at least partially 
+successful in the identification of anomalies. For instance, consider the first anomaly July 12, 2020.  
+Plotting kW/ton for that day and the surrounding days which were not flagged as anomalous, 
+produces the results shown in Figure 7. 
+ 
+Figure 7 - July 11th - 13th  2020 Plots 
+The left vertical axis represents kW/Ton (blue values), while the vertical axis on the right represents the number of 
+compressors running (black line). The first graph represents the 11th, the second the 12th and the third the 13th. 
+ 

@@ -1,0 +1,103 @@
+84        Appendix A Examples 
+ 
+4. The post-retrofit normal-conditions model was then adjusted to remove the ECMs. This 
+“baseline normal-conditions model” was archived, with both printed and electronic copy of 
+input data, diagnostic reports and output data.   
+5. The energy consumption of the two normal models were then compared using Equation 1f) 
+to yield energy savings as shown in Table A-8-1. 
+ 
+ 
+Baseline 
+Normal 
+Conditions 
+Model 
+Post-Retrofit 
+Normal 
+Conditions 
+Model 
+Savings 
+Peak period electricity 
+consumption (kWh) 
+1,003,000 
+656,000 
+347,000 
+Off-Peak period electricity 
+consumption (kWh) 
+2,250,000 
+1,610,000 
+640,000 
+Electric Demand (kW-
+months) 
+7,241 
+6,224 
+1,017 
+Steam (thousand pounds)
+12,222
+5,942
+6,280
+ 
+6. The value of the savings at the campus meter were computed as shown in Table A-8-2, 
+allowing for transformation and line losses, and contract minimum gas quantities. 
+ 
+ 
+Library 
+Energy 
+Savings 
+Campus 
+Energy 
+Savings 
+Billed 
+Energy 
+Savings 
+Cost 
+Savings 
+US$ 
+Peak period electricity 
+consumption (kWh) 
+347,000 
+357,400 
+357,400 
+64,330 
+Off Peak period electricity 
+consumption (kWh) 
+640,000 
+659,200 
+659,200 
+33,000 
+Electric Demand (kW-
+months) 
+1,017 
+1,048 
+1,048 
+10,740 
+Steam or gas 
+6,280,000 
+pounds 
+steam 
+9,420 
+mcf gas 
+5,300 mcf 
+gas 
+33,000 
+Total
+$141,00029 
+ 
+The total savings are shown for the year before revision to the gas contract minimum.  
+A-9  New Building Designed Better Than Code – Option D 
+Situation  A new building was designed to use less energy than required by the local building 
+code. In order to qualify for a government incentive payment, the owner was required to show 
+that the building’s energy use during the first year of operation after commissioning and full 
+occupancy was less than 60% of what it would have been if it had been built to code. 
+                                                  
+29 The final savings number is expressed using three significant digits due to the significant figure rules in section 
+8.12..  
+ 
+A-8-1 Simulated 
+Library Savings 
+under Normal 
+Conditions 
+ 
+A-8-2 
+Campus 
+Savings 
+ 

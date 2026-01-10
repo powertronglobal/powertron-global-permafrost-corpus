@@ -1,0 +1,20 @@
+3
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) framework. The team was led by Global Telecom Equipment Manufacturer’s 
+ Testing Manager, [Client Representative], P.E., was supported by Commercial Real Estate Services’s [Facility Manager], Facility Manager and Powertron Global’s Director of Engineering, [Senior Energy Engineer].  
+Notes 
+The chiller tested (see photo below) is one of the most efficient types of chillers York manufactured at that point in time.  
+Both the baseline and post measurement s were taken with outside air temperatures of 63 and 65 respectfully. The effect of 
+this slight difference in temperature as well as a similar slight difference in incoming condenser water from the tower are 
+both within the industry-accepted margin of error and thereby considered insignificant in terms of overall results.  
+Global Telecom Equipment Manufacturer’s repeatable management of the chiller 
+plant during the trial provided more than an 
+adequate heat load on the facility to ensure the 
+chiller would remain running during the actual 
+data collection period. 
+The boundary of the testing was the chiller and 
+nothing else; therefore confidence in the accuracy 
+of the performance calculations is very high.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

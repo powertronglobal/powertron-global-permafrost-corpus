@@ -1,0 +1,43 @@
+®
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+5
+Wasted Energy / Cost of HVAC System
+The kW/ton is the standard Unit Cost in the HVAC
+industry. It is the HVAC industry’s standard of
+determining how much energy is required to create 1 
+ton of cooling (i.e., conditioned air). When you 
+reduce your unit cost of cooling you are saving 
+regardless of how much cooling is required. The chart 
+illustrates how much the performance loss in the 
+HVAC/R system is costing in wasted energy when it 
+is operating. The specific cost to operate this 
+HVAC/R system at 78% load as calculated in 
+kilo-watt per ton was .69 kW/ton.
+The specific cost to operate this chiller after it was 
+treated with PermaFrost NMR® at 78% load as 
+calculated in kW/ton is now .60
+The higher baseline kW/ton rating measured in-situ 
+was expected when compared to the ASHRAE loss of 
+performance efficiency and cost to operate estimate 
+for a 11 year old chiller utilizing R-134A refrigerant. 
+Recovered Energy
+Equating to a
+13.0% reduction
+.09 kW/ton
+kW/ton
+Cost to Operate
+Baseline
+Post ECM
+.69
+.60
+This report is provided to Major Healthcare Provider Permanente Hospital. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

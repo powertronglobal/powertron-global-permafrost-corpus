@@ -1,0 +1,50 @@
+ 
+24 
+ 
+RESULTS 
+ 
+There are two important questions to answer as a part of this evaluation. First, does the product 
+appear to provide the benefits suggested by the manufacturer? Second, was the process by which 
+data was gathered appear to meet the necessary requirements to demonstrate that benefit?  
+ 
+The data collection protocol for the 49 in-situ DX units and 8 in-situ chillers appears to be in 
+conformance with that suggested by the standards.  In-situ before and after results is indicative of 
+the initial results thereby eliminating the need to provide corrections.  However these short-term 
+comparisons do not necessarily portend long-term results.  A long-term comparison however is 
+impossible since all equipment is different and virtually every site has differing use and demand 
+characteristics. Initial results appear to be appropriate, although continued periodic modeling 
+would be helpful to demonstrate the long-term results. Powertron Global has long term results 
+that are available from a major banking institution located in the southern United States.  
+ 
+The four (4) units at the Juno Bach lab test site also followed the suggested protocol with the 
+same notes and caveats for the building sites.   
+ 
+The requisite data was gathered and the calculations noted previously were developed.  The 
+intent of these efforts is outlined in Table 1.  For example, voltage and amperage must be 
+measured so that watts can be calculated.  The changes in voltage should be minimal as the 
+electrical system/motors drive the voltage required, however amperage measured affects the 
+draw upon the grid.  Higher amperage means more draw.  Since wattage includes both of these 
+parameters, higher amperage means higher watts, and therefore more power demand from the 
+grid.  The desire is that the additive will decrease demand on the grid.  Likewise the remaining 
+factors are summarized.   
+ 
+With respect to the evaluation of whether the technology PermaFrost NMR® works requires 
+investigation into whether the goals for the parameters above were met.  Tables 2 and 3 compare 
+the results, including all the factors listed in Table 1 for DX units and CHillers.  Tables 4 and 5 
+denote whether the goals of the technology (to improve efficiency and reduce draw on the grid) 
+are met or not.  In all cases the PermaFrost NMR® met the intent.   
+ 
+Table 2 summary observations: 
+ 
+• Voltage relatively constant 
+• Amperage dropped at most sites after PermaFrost NMR® was added.  The overall 
+average was a decrease of 7% 
+• Air flow was constant 
+• Coil Capacity increased at each site that PermaFrost NMR® was installed with an 
+average of 29/4%. 
+• The COP improved 13.3% 
+• Watts per ton decreased at the three standard HVAC system sites by an average of 
+20.3%, with a total average, adjusted wattage improvement of 16% 
+• Efficiency improved by + 4.9% 
+ 
+Table 3 observations (controlled lab site): 
