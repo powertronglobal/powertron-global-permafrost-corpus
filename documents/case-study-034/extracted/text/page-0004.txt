@@ -1,0 +1,24 @@
+ËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËË3
+Energy Conservation Method (ECM)
+The content detailed in this report will first demonstrate the ability of the low and medium temperature 
+portions of Rack-A to perform prior to PermaFrost NMR® (ECM) being installed, as well as illustrate the 
+amount of thermal degradation within the heat exchangers. 
+Following a diagnostic examination of the pilot equipment to determine the operational condition of the 
+systems was satisfactory, Baseline M&V data was collected and recorded by the M&V team. Approximately 
+five weeks after installation of PermaFrost NMR®, the M&V team returned to uninstall all the monitoring 
+equipment after verifying with Clima-Check that the data taken during the pilot was satisfactory. The delta of 
+these combination of measurements and associated calculations show the amount improvement the 
+PermaFrost NMR® had on Rack-A.
+The following report was produced utilizing the IPMVP framework as the M&V plan.
+The results were tracked by the Clima-Check Performance Analyzer either directly or formulated by 
+entering the data into the following thermodynamic engineering formulas:
+ 
+• kWh= kW * Runtime Hours
+ 
+• Thermal Transfer Delta T = Evap Temp Leaving – Returning Refrigerant Temp
+ 
+• Amps = direct collection showing amount of work the compressor is doing
+ 
+• kW = (Volts * Amps * Power Factor * √3) / 1000   
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

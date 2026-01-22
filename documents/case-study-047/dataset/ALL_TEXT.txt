@@ -1,0 +1,562 @@
+================================================================================
+DOCUMENT: Case Study 047
+DOC_ID: pdf_048
+SHA256: 76757d0e5448683c52cc6e6c3754409833da94b6a4f027caa01e933dd15cd431
+================================================================================
+
+═══ PAGE 001 ═══
+
+Energy Science Division
+®
+Global Telecom Equipment Manufacturer
+Comprehensive HVAC/R Capacity Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 002 ═══
+
+PermaFrost NMR® Eﬃciency Report
+Global Telecom Equipment Manufacturer
+Legacy Rd Location, [Texas Location]
+Report Summary
+This report contains specific information regarding the installation of the energy conservation measure 
+(ECM) PermaFrost NMR® into two computer room air conditioning (CRAC) units. The units (#3 and #5) 
+are the same age (2001), same size (16.5 tons), use the same refrigerant (R22) and support the same 
+mission-critical Global Telecom Equipment Manufacturer data center housed within the Legacy Road facility in [Texas Location].
+    
+Following baseline detailed forensic performance measurement and verification (M&V) testing, each CRAC 
+was treated with the proper amount and type of the PermaFrost NMR® technology specially formulated for 
+these types of systems. After a gestation period of four weeks, identical testing was conducted under very 
+similar conditions using the same test equipment as was used in the baseline.  The purpose of the testing 
+was threefold:  
+1. Demonstrate how the ECM improves the thermal performance 
+2. Demonstrate ECM is safe and will not harm Global Telecom Equipment Manufacturer’s critical HVAC equipment
+3. Calculate the amount of energy saved per unit by restoring lost eﬃciency
+ 
+Energy Science Division
+This 16.5-ton Leibert CRAC unit was one of two units 
+involved in the Global Telecom Equipment Manufacturer pilot. These units help cool the 
+mission-critical Global Telecom Equipment Manufacturer internal data center in [Texas Location], 
+TX.  The image shows several of the NIST-calibrated and 
+certified digital instrumentation used to calculate the 
+efficiency of each of the CRAC units in both the Baseline 
+and Avoided Energy Reporting Period (AERP) or Post.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 003 ═══
+
+The improvement in efficiency and restored capacity gained directly at each CRAC was solely 
+attributable to the PermaFrost NMR® ECM. This is a result of the successful removal of the accumulated 
+excess lubricant layer on heat exchange surfaces.   
+Following treatment with the ECM, CRAC units #3 and #5 showed a reduction in kW/ton of 24.3% and 
+26.6% respectively based on the exact capacity measured in the baseline M&V and the post gestation 
+M&V when operating at 100% load. The ECM also produced an increase cooling capacity of 21.9% and 
+29% respectively equating to a total increase of 9.89 tons or an average of 4.95 tons per CRAC. This 
+25.9% cooling capacity increase from the baseline performance levels led to an effective average increase 
+in COP across the two CRAC’s of 34.7%.  Each of these factors directly correlate to what Global Telecom Equipment Manufacturer will 
+realize in energy savings as they operate these CRAC’s in the future, as well as other similar HVAC 
+equipment across their portfolio.  
+Following treatment, the two CRAC’s also showed a combined 25.9% increase in the Enthalpy Delta (i.e., 
+amount of work done by the heat exchange coils) versus the Baseline. This is a critical measurement 
+used to determine the thermodynamic enhancement brought about by the PermaFrost NMR®  ECM.  
+The result of the ECM improvements is an ROI to Global Telecom Equipment Manufacturer that is measured in less than one year. The 
+tables of data used to determine the financial payback are available for review at the end of this report.
+The charts on the following page visually capture the positive impact PermaFrost NMR® had on the 
+average performance of the two pilot CRAC units.  
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 004 ═══
+
+Equipment Eﬃciency %
+Age of CRAC units
+DESIGN EFFICIENCY
+EFFICIENCY IMPROVEMENT IN TONS
+© Powertron Global Copyright 2013
+0
+20
+40
+60
+80
+100
+120
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Eﬃciency
+Improvement
+AHealthcare System AVED
+25.9%
+ 
+ 
+ 
+Age of 
+Equipment
+12
+Original Design Eﬃciency
+ASHRAE Projected Eﬃciency Loss Over Time 
+Post Design Eﬃciency as Measured In-Situ
+Operational Cost %
+Age of CRAC units
+ENERGY SAVINGS IN kW/TON
+© Powertron Global Copyright 2013
+0
+-40
+-20
+00
+20
+40
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+ 
+ 
+ 
+EXPECTED COST
+Original Design Eﬃciency
+ASHRAE Projected Cost to Operate Over Time 
+Baseline Cost to Operate Systems
+Age of 
+Equipment
+12
+AHealthcare System AVED
+in Energy
+Savings
+25.2%
+Impact of Reversing Thermal Degradation
+(Actual results from HVACR study on Global Telecom Equipment Manufacturer Equipment)
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 005 ═══
+
+Product Brief
+PermaFrost NMR® is a multi-patented nanotechnology surface chemistry Energy Control Measure 
+(ECM) that uses Nucleo Molecular Regenerative® (NMR™) technology as its core agent. A sustainable, 
+one-time treatment with no down time required, PermaFrost NMR® lasts for the rest of the useful life of 
+system in which it is installed. Examples of the types of commercial HVACR systems and equipment 
+that PermaFrost NMR® has proven success with are direct expansion air systems (DX); chilled water 
+systems (both flooded and DX; air and water cooled); ice making equipment; ammonia refrigeration 
+plants (single compressor and cascade) and variable refrigerant flow (VRF) designs. The equipment 
+utilized in these systems within our expanding portfolio of clients includes centrifugal (single and 
+multi-stage), scroll, reciprocating and screw configurations.
+The direct benefits of PermaFrost NMR® in any type of HVACR system are improved cooling 
+performance, increased capacity and improved refrigerant velocity – all of which allow systems to 
+achieve set point temperatures in a more rapid fashion which reduces compressor operating periods. 
+The indirect benefits resulting from the enhanced thermodynamic characteristics following treatment 
+include reduced run time, less kW hours used, less amp draw at the compressor, longer equipment life 
+cycle time and a substantially reduced carbon footprint for Global Telecom Equipment Manufacturer and their customers.
+Energy Science Division
+BOUNDARY LAYER
+OIL REMOVED
+BEFORE TREATMENT
+AFTER TREATMENT
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 006 ═══
+
+Energy Science Division
+Option B savings = Baseline Energy – Avoided Energy Reporting Period
++/ - Routine adjustments  + /- Non-Routine Adjustments
+Measurement and Veriﬁcation Protocol
+The International Performance Measurement and Verification Protocol (IPMVP) was utilized in the 
+development of this report. The Department of Energy (DOE), Association of Energy Engineers (AEE), The 
+American Society of Heating, Refrigeration and Air-Conditioning Engineers (ASHRAE), and The Efficiency 
+Valuation Organization (EVO) accept the IPMVP as a global methodology for determining the effectiveness 
+of energy conservation measures and products.
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize. They 
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report. Option B is 
+defined as: All parameter measurements with the boundary of the ECM as the single source of 
+measurement. Savings are determined by field measurement of the energy use of the ECM affected 
+equipment or system and any performance enhancements versus the baseline data.
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the 
+savings and the length of the reporting period.  For the boundary utilized for Option B short-term 
+measurements are very useful as data when the variables are contained. The savings are calculated by 
+short-term measurements of baseline and avoided energy reporting period (AERP), and /or engineering 
+computations using measurements of proxies of energy use. 
+The final computation follows the formula:
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 007 ═══
+
+Energy Science Division
+Energy Conservation Method (ECM) Content
+The content within the following report will demonstrate the ability of PermaFrost NMR® to remove the 
+accumulated lubricant excess layer on the heat exchange surfaces. 
+A diagnostic examination of the pilot equipment was implemented to determine if the operational 
+conditions of the systems were satisfactory. Baseline M&V was recorded on each of the two CRAC units 
+comprised of four (4) compressors and then the proper amount and type of PermaFrost NMR® was injected 
+directly into the low pressure service port of the refrigerant loop. The gestation period for the Global Telecom Equipment Manufacturer pilot 
+was four weeks. 
+Prior to taking AERP (i.e., post) measurements, systems need to achieve at least 300 or more hours of 
+runtime to ensure adequate performance improvement. At the end of this gestation period, AERP 
+measurements were taken in the identical manner as in the baseline, taking special care to match the same 
+discharge pressures on the compressors as well as the wet bulb and dry bulb temperatures of the air 
+entering the respective coils. These are three of the most critical variables to contend with in an in-situ 
+HVAC testing situation. When analyzing all of the data in the baseline and AERP, the amps in the AERP 
+period were adjusted downward per industry standards to account for the slightly warmer temperatures 
+entering the condenser.
+Wes Patterson, Global Telecom Equipment Manufacturer’s building manager and Jerry Palacios, one of three HVAC service technicians 
+supporting the facility, oversaw the testing on behalf of Global Telecom Equipment Manufacturer. The final calculations were performed by 
+Powertron Global®’s Forensic Mechanical Engineer, [Senior Energy Engineer] and signed off by Jerry Palacios. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 008 ═══
+
+Energy Science Division
+Samples of Key Measurements
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+BTUH = CFM * 4.5 * Wet Bulb Enthalpy Delta
+ 
+kW/Ton = kW / Actual Tonnage
+ 
+Percentage Eﬃciency = Measured BTUH / Manufacturers Design BTUH
+ 
+Coeﬃcient of Performance (COP) = (12 / kW per ton /3.412)
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 009 ═══
+
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling Capacity in Tons  
+Annual Runtime Hours from Logs
+Date CRAC’s Installed
+Leibert
+DH199AUAAEI
+394806-003
+R22
+16.5 Tons
+5,205
+2001 
+Leibert
+DH199AUAAEI
+394806-005
+R22
+16.5 Tons
+5,205
+2001
+Detailed Results for the Two Pilot CRAC’s
+System Description / Design Characteristics
+The two CRAC units provide cooling for the Global Telecom Equipment Manufacturer’s mission-critical data center located in [Texas Location]. Based 
+on the date of installation and total compressor runtime hours pulled directly from the system logs, the CRAC 
+units run 5,205 hours per year prior to the ECM being implemented.  
+Baseline & AERP Measurements
+The identical IPMVP following data points were recorded for Baseline and AERP on 12/13/13 and 1/8/14 
+respectively using recently NIST-calibrated devices to insure measurement accuracy. In all tests the discharge 
+pressures of the compressors as well as the wet and dry bulb temperatures entering the coil were very similar 
+in both periods so no adjustments to the data was necessary. Additionally, the CFM airflow readings taken in 
+the baseline and AERP were within the 2% margin of error accepted so the same readings were used for both 
+periods to ensure consistency of the data. The measurements are as follows: 
+Energy Science Division
+CRAC #5
+CRAC #3
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 010 ═══
+
+Energy Science Division
+CRAC #5
+CRAC #3
+BASELINE
+AERP
+BASELINE
+AERP
+475.8 V
+21.4 A
+36.5 F
+63.7 PSI
+78.7 F
+140.8 PSI
+80.3 F
+59.7 F
+58.2 F
+47.5 F
+9,007
+21.28  
+6.3
+15
+.703
+100,457
+5.0
+36 F
+475.9 V 
+20.2 A 
+ 34.5 F
+ 61.2 PSI
+ 75.9 F
+134.4 PSI
+ 80.5 F
+ 55.3 F
+57.8 F
+43.4 F
+9,007
+ 27.46  
+8.13
+14.2
+.516
+73,721
+6.82
+39 F
+Voltage  
+Amperage  
+Suction Refrig Temp
+Suction Refrig Pressure
+Discharge Refrig Temp
+Discharge Refrig Pressure
+Entering Air DB Temp  
+Leaving Air DB Temp  
+Entering Air WB Temp  
+Leaving Air WB Temp  
+CFM Across Coils
+Cooling Capacity (Tons) 
+Total WB Enthalpy Delta
+kW  
+kW/Ton 
+Calculated kWh
+COP 
+Outside Air Temp
+475.8 V
+24.5 A
+33.5 F
+60.7 PSI
+93.7 F
+180.1 PSI
+75.9 F
+57.6 F
+55.7 F
+46.9 F
+9,004
+16.95  
+5.02
+17.1
+1.011
+108,732
+3.48
+36 F
+475.8 V 
+22.6 A 
+ 29.7 F
+ 56.4 PSI
+ 90.5 F
+171.8 PSI
+ 76.9 F
+56.7 F
+58.9 F
+48.7 F
+9,004
+ 20.66  
+6.12
+15.8
+.765
+82,276
+4.6
+39 F
+MEASUREMENT
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 011 ═══
+
+Energy Science Division
+Results
+The following are the final calculated average performance measurement improvements following the 
+PermaFrost NMR® AERP on the two Global Telecom Equipment Manufacturer CRAC units.  
+PermaFrost NMR®: Determining the Payback Period for Global Telecom Equipment Manufacturer
+Utilizing data in the above charts, to obtain a true avoided energy cost and subsequent payback period for Global Telecom Equipment Manufacturer for 
+implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in capacity. This greater capacity reduces the runtime hours and in turn 
+reduces the annual kWh expended in the AERP. The true ROI comes from determining what the cost to run the 
+system was when operating at its original energy profile then subtracting the cost to operate the system at its newly 
+restored energy profile less the percentage of increased capacity. This regression calculation is the most scientific 
+method of accounting for the reduced number of hours the units will now run due to their increased capacity which 
+allows the units to reach set temperatures quicker and shut off sooner.   
+Since this regression analysis involves two units, the average kW/ton and total tons are used to calculate an average 
+ROI across the two units.
+ 
+  
+Improvements
+Total Calculated kWh (2 CRAC’s)
+Average kWh Per CRAC
+Cooling Capacity in Tons (2 CRAC’s)
+Average Capacity Per CRAC
+kW / Ton (2 CRAC’s)
+Average kW / Ton Per CRAC
+COP (2 CRAC’s)
+Average COP Per CRAC
+Total Enthalpy Delta (2 CRAC’s)
+Average Enthalpy Delta Per CRAC
+(25.4%)
+(25.4%)
+25.9%
+25.9%
+(25.2%)
+(25.2%)
+34.7%
+34.7%
+25.9%
+25.9%
+Baseline
+209,189
+104,595
+38.23 
+19.12
+1.714 
+.857
+8.48
+4.24
+11.32
+5.66
+AERP
+155,997
+77,999
+48.12
+24.06
+1.281
+.641
+11.42
+5.71
+14.25
+7.13
+Delta
+53,192
+26,596
+9.89
+4.94
+0.433
+0.216
+2.94
+1.47
+2.93
+1.47
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 012 ═══
+
+Energy Science Division
+Adjusted kW Baseline        .857 kW/ton * 24.06 tons = 20.62 kW
+Adjusted Baseline kWh        20.62 kW * 5,205 Annual Operating Hrs = 107,327 kWh  
+Revised Cost to Run Baseline        107,327 kWh * $.09 = $9,659.43  
+kW Post        .641 kW/ton * 24.06 tons = 15.42 kW  
+Annual kWh Post         15.42 kW * 5,205 hours = 80,261 kWh  
+Annual Cost Post         80,261 kWh * $.09 = $7,223.49  
+Avoided Energy Cost (savings) Per Month       ($9,659.43 – $7,223.49) /12 = $203  
+Cost of PermaFrost NMR® installed in each CRAC unit         $2,210.00
+Estimated Energy Savings Payback Period for Global Telecom Equipment Manufacturer         $2,210.00 / $203 = 10.9 months
+*Note – A cost of $.09 per kWh was used for this [Texas Location] Pilot calculation. When using the national average kWh cost 
+of $.105 the ROI will be 9.4 months
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 013 ═══
+
+Energy Science Division
+Global Telecom Equipment Manufacturer Saving More than just Energy at its [Texas Location] Location
+By treating just these two CRAC units with PermaFrost NMR®, Global Telecom Equipment Manufacturer will save approximately 53,192 
+kWh per year and all the costs associated with those savings. From an environmental impact standpoint, 
+Global Telecom Equipment Manufacturer is also benefitting the surrounding community. Imagine how great the environmental impact will 
+be when Global Telecom Equipment Manufacturer moves forward with treating all their HVAC equipment.
+The 53,192 kWh saved per year equates to preventing 37.5 metric tons of greenhouse gas emissions from being 
+released or any of the following:
+Annual greenhouse emissions from:
+CO2 emissions from:
+Carbon sequerest by:
+7.8
+Passenger vehicles
+14.1
+Tons of waste sent to the
+landﬁll instead of recycled
+962
+Tree seedings grown for
+10 years
+30.8
+Acres of U.S. forest in
+one year
+0.29
+Acres of U.S. forests preserved
+from conversion to cropland
+in one year
+4,207
+Gallons of gasoline
+consumed
+0.495
+Tanker trucks’ worths of
+gasoline
+1.9
+Homes’ energy use for
+one year
+87.3
+Barrels of oil
+consumed
+0.161
+Railcars worth
+of coal burned
+5.2
+Homes’ electricity use for
+one year
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+

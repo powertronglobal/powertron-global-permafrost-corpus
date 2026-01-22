@@ -1,0 +1,30 @@
+{
+  "doc_id": "pdf_018",
+  "slug": "case-study-010",
+  "original_filename": "Case Study 010.pdf",
+  "sha256": "3203fdace5ca0448972c3f70f4b5fc86cd2fcb8e4fd3588d1194f2114dd8b8d2",
+  "page_count": 10,
+  "extraction": {
+    "tool": "pymupdf",
+    "version": "1.26.5",
+    "timestamp": "2025-12-27T22:34:44.778387Z",
+    "ocr_applied": false,
+    "ocr_confidence": null
+  },
+  "content": {
+    "language": "en",
+    "word_count": 2990,
+    "char_count": 18244
+  },
+  "quality": {
+    "score": 1.0,
+    "issues": []
+  },
+  "license": {
+    "status": "proprietary_owned",
+    "detected_notices": [
+      "Powertron Global proprietary content"
+    ],
+    "user_confirmed": false
+  }
+}

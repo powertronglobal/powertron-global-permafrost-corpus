@@ -1,0 +1,578 @@
+{
+  "doc_id": "major-telecom-e-meter-502",
+  "slug": "major-telecom-e-meter-502",
+  "source_type": "tabular",
+  "extracted_at": "2026-01-05T21:28:21.077562",
+  "summary": {
+    "total_files": 14,
+    "baseline_files": 4,
+    "post_files": 4,
+    "total_rows": 134570,
+    "baseline_rows": 65393,
+    "post_rows": 28202,
+    "efficiency_improvement": {
+      "baseline_kw_per_ton": 1.987,
+      "post_kw_per_ton": 1.743,
+      "improvement_percent": 12.3
+    }
+  },
+  "file_statistics": [
+    {
+      "period": "unknown",
+      "rows": 23,
+      "columns": 2,
+      "column_names": [
+        "Parameter",
+        "Value"
+      ],
+      "metrics": {},
+      "source_file": "meter_502_analysis_configuration.csv"
+    },
+    {
+      "period": "baseline",
+      "rows": 13,
+      "columns": 8,
+      "column_names": [
+        "Temp_Bin",
+        "Avg_kWh",
+        "StdDev_kWh",
+        "Count_Hours",
+        "Avg_Temp_F",
+        "Avg_Compressor",
+        "CV_%",
+        "Period"
+      ],
+      "metrics": {
+        "Avg_kWh": {
+          "mean": 1.4861538461538462,
+          "std": 0.47840949094435936,
+          "min": 0.8,
+          "max": 2.13,
+          "median": 1.61
+        },
+        "StdDev_kWh": {
+          "mean": 0.21846153846153846,
+          "std": 0.11538675211696776,
+          "min": 0.0,
+          "max": 0.34,
+          "median": 0.27
+        }
+      },
+      "source_file": "meter_502_baseline_bins.csv"
+    },
+    {
+      "period": "unknown",
+      "rows": 40248,
+      "columns": 5,
+      "column_names": [
+        "DateTime",
+        "Compressor 1",
+        "Meter 1 kWh",
+        "Outdoor Air Temperature (F)",
+        "Period"
+      ],
+      "metrics": {
+        "Meter 1 kWh": {
+          "mean": 2610.268239323429,
+          "std": 2379.976980032308,
+          "min": 14.9,
+          "max": 5164.3,
+          "median": 2636.5742855
+        },
+        "Outdoor Air Temperature (F)": {
+          "mean": 69.08180017717179,
+          "std": 8.125225227812924,
+          "min": 52.29736842,
+          "max": 237.6642105,
+          "median": 67.258987855
+        }
+      },
+      "time_range": {
+        "column": "DateTime",
+        "start": "2025-06-24 05:01:00",
+        "end": "2025-10-29 04:58:00",
+        "duration_hours": 3047.95
+      },
+      "source_file": "meter_502_combined_raw_data.csv"
+    },
+    {
+      "period": "unknown",
+      "rows": 12,
+      "columns": 11,
+      "column_names": [
+        "Temp_Bin",
+        "Avg_kWh_Baseline",
+        "Count_Hours_Baseline",
+        "Avg_Temp_F_Baseline",
+        "Avg_kWh_Post",
+        "Count_Hours_Post",
+        "Avg_Temp_F_Post",
+        "kWh_Savings",
+        "Savings_%",
+        "Weighted_Hours",
+        "Weighted_Savings"
+      ],
+      "metrics": {
+        "Avg_kWh_Baseline": {
+          "mean": 1.5433333333333332,
+          "std": 0.45090481425146867,
+          "min": 0.84,
+          "max": 2.13,
+          "median": 1.65
+        },
+        "Avg_kWh_Post": {
+          "mean": 1.2708333333333333,
+          "std": 0.35348803074331653,
+          "min": 0.87,
+          "max": 1.91,
+          "median": 1.165
+        },
+        "kWh_Savings": {
+          "mean": 0.27249999999999996,
+          "std": 0.19573288848929715,
+          "min": -0.04,
+          "max": 0.61,
+          "median": 0.29500000000000004
+        }
+      },
+      "source_file": "meter_502_comparison.csv"
+    },
+    {
+      "period": "unknown",
+      "rows": 11,
+      "columns": 4,
+      "column_names": [
+        "File Name",
+        "Description",
+        "Rows",
+        "Period"
+      ],
+      "metrics": {},
+      "source_file": "meter_502_file_inventory.csv"
+    },
+    {
+      "period": "baseline",
+      "rows": 336,
+      "columns": 5,
+      "column_names": [
+        "DateTime",
+        "kWh_consumption",
+        "Outdoor Air Temperature (F)",
+        "Compressor 1",
+        "Period"
+      ],
+      "metrics": {
+        "kWh_consumption": {
+          "mean": 1.3410714285684524,
+          "std": 0.48728807742242486,
+          "min": 0.8,
+          "max": 2.5,
+          "median": 1.214871795
+        },
+        "Outdoor Air Temperature (F)": {
+          "mean": 70.7439604216369,
+          "std": 6.06261230260466,
+          "min": 61.58708097,
+          "max": 85.16647166,
+          "median": 68.372147775
+        }
+      },
+      "time_range": {
+        "column": "DateTime",
+        "start": "2025-06-24 05:00:00",
+        "end": "2025-07-08 04:00:00",
+        "duration_hours": 335.0
+      },
+      "source_file": "meter_502_hourly_baseline.csv"
+    },
+    {
+      "period": "unknown",
+      "rows": 672,
+      "columns": 5,
+      "column_names": [
+        "DateTime",
+        "kWh_consumption",
+        "Outdoor Air Temperature (F)",
+        "Compressor 1",
+        "Period"
+      ],
+      "metrics": {
+        "kWh_consumption": {
+          "mean": 1.2012670068005953,
+          "std": 0.44105432084630686,
+          "min": 0.8,
+          "max": 2.5,
+          "median": 1.0
+        },
+        "Outdoor Air Temperature (F)": {
+          "mean": 69.07268938558036,
+          "std": 6.956287928232007,
+          "min": 52.92959717,
+          "max": 89.32704858,
+          "median": 67.3355415
+        }
+      },
+      "time_range": {
+        "column": "DateTime",
+        "start": "2025-06-24 05:00:00",
+        "end": "2025-10-29 04:00:00",
+        "duration_hours": 3047.0
+      },
+      "source_file": "meter_502_hourly_combined.csv"
+    },
+    {
+      "period": "post",
+      "rows": 336,
+      "columns": 5,
+      "column_names": [
+        "DateTime",
+        "kWh_consumption",
+        "Outdoor Air Temperature (F)",
+        "Compressor 1",
+        "Period"
+      ],
+      "metrics": {
+        "kWh_consumption": {
+          "mean": 1.0614625850465862,
+          "std": 0.3361273566698903,
+          "min": 0.7999999999992724,
+          "max": 2.47435897437299,
+          "median": 0.9000000000114596
+        },
+        "Outdoor Air Temperature (F)": {
+          "mean": 67.40141834944777,
+          "std": 7.386886616252323,
+          "min": 52.92959716599191,
+          "max": 89.32704858299596,
+          "median": 65.80756506896316
+        }
+      },
+      "time_range": {
+        "column": "DateTime",
+        "start": "2025-10-15 05:00:00",
+        "end": "2025-10-29 04:00:00",
+        "duration_hours": 335.0
+      },
+      "source_file": "meter_502_hourly_post.csv"
+    },
+    {
+      "period": "post",
+      "rows": 19,
+      "columns": 8,
+      "column_names": [
+        "Temp_Bin",
+        "Avg_kWh",
+        "StdDev_kWh",
+        "Count_Hours",
+        "Avg_Temp_F",
+        "Avg_Compressor",
+        "CV_%",
+        "Period"
+      ],
+      "metrics": {
+        "Avg_kWh": {
+          "mean": 1.1726315789473685,
+          "std": 0.3500768503765861,
+          "min": 0.87,
+          "max": 1.91,
+          "median": 1.03
+        },
+        "StdDev_kWh": {
+          "mean": 0.2627777777777778,
+          "std": 0.3023789121879165,
+          "min": 0.0,
+          "max": 1.14,
+          "median": 0.195
+        }
+      },
+      "source_file": "meter_502_post_bins.csv"
+    },
+    {
+      "period": "baseline",
+      "rows": 20124,
+      "columns": 5,
+      "column_names": [
+        "DateTime",
+        "Compressor 1",
+        "Meter 1 kWh",
+        "Outdoor Air Temperature (F)",
+        "Period"
+      ],
+      "metrics": {
+        "Meter 1 kWh": {
+          "mean": 233.27789464024846,
+          "std": 131.18451662878442,
+          "min": 14.9,
+          "max": 465.5,
+          "median": 242.2
+        },
+        "Outdoor Air Temperature (F)": {
+          "mean": 70.75437952543083,
+          "std": 7.346413693599389,
+          "min": 61.26894737,
+          "max": 232.9936842,
+          "median": 68.42
+        }
+      },
+      "time_range": {
+        "column": "DateTime",
+        "start": "2025-06-24 05:01:00",
+        "end": "2025-07-08 04:59:00",
+        "duration_hours": 335.96666666666664
+      },
+      "source_file": "meter_502_raw_baseline_data.csv"
+    },
+    {
+      "period": "post",
+      "rows": 20124,
+      "columns": 5,
+      "column_names": [
+        "DateTime",
+        "Compressor 1",
+        "Meter 1 kWh",
+        "Outdoor Air Temperature (F)",
+        "Period"
+      ],
+      "metrics": {
+        "Meter 1 kWh": {
+          "mean": 4987.258584006609,
+          "std": 104.52370439453267,
+          "min": 4807.648571,
+          "max": 5164.3,
+          "median": 4996.3
+        },
+        "Outdoor Air Temperature (F)": {
+          "mean": 67.40922082891274,
+          "std": 8.513326919637517,
+          "min": 52.29736842,
+          "max": 237.6642105,
+          "median": 65.53538462
+        }
+      },
+      "time_range": {
+        "column": "DateTime",
+        "start": "2025-10-15 05:01:00",
+        "end": "2025-10-29 04:58:00",
+        "duration_hours": 335.95
+      },
+      "source_file": "meter_502_raw_post_data.csv"
+    },
+    {
+      "period": "unknown",
+      "rows": 9,
+      "columns": 5,
+      "column_names": [
+        "Metric",
+        "Baseline",
+        "Post",
+        "Difference",
+        "Percent_Change"
+      ],
+      "metrics": {},
+      "source_file": "meter_502_statistical_summary.csv"
+    },
+    {
+      "period": "baseline",
+      "rows": 44920,
+      "columns": 41,
+      "column_names": [
+        "node",
+        "utc_time",
+        "central_time",
+        "total_capacity_tons",
+        "kwton",
+        "eer",
+        "cop",
+        "oatemp",
+        "voltab",
+        "voltac",
+        "voltbc",
+        "voltavg",
+        "cfm",
+        "contactclosure1",
+        "contactclosure2",
+        "contactclosure3",
+        "contactclosure4",
+        "contactclosure5",
+        "contactclosure6",
+        "currentavg",
+        "deltat",
+        "dewpoint1",
+        "dewpoint2",
+        "enthalpy1",
+        "enthalpy2",
+        "delta_enthalpy",
+        "humidity1",
+        "humidity2",
+        "kw",
+        "kweperkwr",
+        "kwr",
+        "normalized_totalcapacity_tons",
+        "performance",
+        "powerfactor",
+        "powersum",
+        "static_pressure",
+        "onnoff",
+        "temp1",
+        "temp2",
+        "wetbulb1",
+        "wetbulb2"
+      ],
+      "metrics": {
+        "cop": {
+          "mean": 1.8342311030526743,
+          "std": 0.3302827648164758,
+          "min": 0.837380673254061,
+          "max": 2.90661060137773,
+          "median": 1.85105201456161
+        },
+        "eer": {
+          "mean": 5.981685567662287,
+          "std": 1.0761067391953718,
+          "min": 2.72458524392764,
+          "max": 9.4040659357647,
+          "median": 6.04953337503996
+        },
+        "kwton": {
+          "mean": 1.9865026714158502,
+          "std": 0.3935078622150334,
+          "min": 1.21,
+          "max": 4.2,
+          "median": 1.9
+        },
+        "kw": {
+          "mean": 5.5061529385574355,
+          "std": 0.18309226783685892,
+          "min": 4.94,
+          "max": 6.0,
+          "median": 5.54
+        },
+        "kweperkwr": {
+          "mean": 1.9865026714158502,
+          "std": 0.3935078622150334,
+          "min": 1.21,
+          "max": 4.2,
+          "median": 1.9
+        },
+        "kwr": {
+          "mean": 0.0,
+          "std": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "median": 0.0
+        }
+      },
+      "time_range": {
+        "column": "utc_time",
+        "start": "2025-06-24 17:54:22+00:00",
+        "end": "2025-07-08 04:20:39+00:00",
+        "duration_hours": 322.43805555555554
+      },
+      "source_file": "502 Baseline_6ad98dc0-a6e0-4975-ba14-8affc3c85599_9581568.csv"
+    },
+    {
+      "period": "post",
+      "rows": 7723,
+      "columns": 41,
+      "column_names": [
+        "node",
+        "utc_time",
+        "central_time",
+        "total_capacity_tons",
+        "kwton",
+        "eer",
+        "cop",
+        "oatemp",
+        "voltab",
+        "voltac",
+        "voltbc",
+        "voltavg",
+        "cfm",
+        "contactclosure1",
+        "contactclosure2",
+        "contactclosure3",
+        "contactclosure4",
+        "contactclosure5",
+        "contactclosure6",
+        "currentavg",
+        "deltat",
+        "dewpoint1",
+        "dewpoint2",
+        "enthalpy1",
+        "enthalpy2",
+        "delta_enthalpy",
+        "humidity1",
+        "humidity2",
+        "kw",
+        "kweperkwr",
+        "kwr",
+        "normalized_totalcapacity_tons",
+        "performance",
+        "powerfactor",
+        "powersum",
+        "static_pressure",
+        "onnoff",
+        "temp1",
+        "temp2",
+        "wetbulb1",
+        "wetbulb2"
+      ],
+      "metrics": {
+        "cop": {
+          "mean": 1.5807328758254564,
+          "std": 0.4934711072978235,
+          "min": 1.0,
+          "max": 2.0,
+          "median": 2.0
+        },
+        "eer": {
+          "mean": 6.640921304612735,
+          "std": 0.7812514307096995,
+          "min": 4.03639797920093,
+          "max": 9.621783896108647,
+          "median": 6.659996538244437
+        },
+        "kwton": {
+          "mean": 1.743111485174155,
+          "std": 0.21428816132809322,
+          "min": 1.18,
+          "max": 2.82,
+          "median": 1.71
+        },
+        "kw": {
+          "mean": 5.632997539816134,
+          "std": 0.15401654609665544,
+          "min": 5.2,
+          "max": 5.96,
+          "median": 5.65
+        },
+        "kweperkwr": {
+          "mean": 1.743111485174155,
+          "std": 0.21428816132809322,
+          "min": 1.18,
+          "max": 2.82,
+          "median": 1.71
+        },
+        "kwr": {
+          "mean": 0.0,
+          "std": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "median": 0.0
+        }
+      },
+      "time_range": {
+        "column": "utc_time",
+        "start": "2025-10-16 21:31:19+00:00",
+        "end": "2025-10-29 02:47:35+00:00",
+        "duration_hours": 293.2711111111111
+      },
+      "source_file": "502 Post_6ad98dc0-a6e0-4975-ba14-8affc3c85599_1569118.csv"
+    }
+  ],
+  "key_results": {
+    "kw_per_ton_improvement_percent": 12.3,
+    "baseline_kw_per_ton": 1.987,
+    "post_kw_per_ton": 1.743
+  }
+}

@@ -1,0 +1,41 @@
+Highlights of the study
+ 
+• The seven HVAC systems tested averaged 9 years of age.  The pilot systems produced a combined 7.22 
+ 
+tons of cooling in the baseline and 9.04 tons following the installation of PermaFrost NMR® equating to  
+ 
+an increase of 25.2% 
+ 
+• The average cost to produce each ton of cooling on the pilot systems dropped 25.8% from 1.24 
+ 
+kW/ton in the baseline to .92 kW/ton.
+ 
+• The average Coefﬁcient of Performance (COP) of the pilot systems improved 33.8% from an average of  
+ 
+2.99 in the baseline to 4.00.
+ 
+• The cost to treat all seven of the pilot systems of $1,650 divided by the annual savings achieved of  
+ 
+$3,237 results in an average payback period of 6.1 months.
+ECM Product Brief
+PermaFrost NMR® is a multi-patented surface science nanotechnology that uses Nucleo Molecular Regenerative 
+(NMR®) technology as its core agent. A sustainable, one-time installation with no down time required, PermaFrost 
+NMR® lasts for the remaining life of any type of climate control system in which it is installed. The direct beneﬁts of 
+PermaFrost NMR® are improved cooling efﬁciency and increased capacity.
+Methodology
+After verifying the amount of air ﬂowing across the evaporator coils before beginning each pilot, the subsequent 
+measurements used in the efﬁciency calculations were collected using AHRI Standards 210/240 and compiled in 
+accordance with Option B of the IPMVP (International Measurement and Veriﬁcation Protocol) framework.
+The results presented below were formulated by entering the data into the following thermodynamic 
+engineering formulas:
+ 
+• kW = (Volts * Amps * Power Factor * Sq Rt of 3) /1000 (for 3-Phase)
+ 
+• kW/ton = Actual Measured Energy / Actual Measured Capacity
+ 
+• Coefﬁcient of Performance (COP) = 12 / (kW/ton) / 3.412
+ 
+• Actual Cooling Capacity per Hour = (Measured CFM * 4.5 * Enthalpy Delta T) / 12,000 BTU
+4
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

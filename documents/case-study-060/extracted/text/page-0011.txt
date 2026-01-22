@@ -1,0 +1,119 @@
+10
+1.80
+POST
+BASELINE
+1.52
+kW/ton
+REDUCTION
+15.5%
+POST
+BASELINE
+18.5%
+15.1%
+POST
+BASELINE
+Capacity (tonnage)
+IMPROVEMENT
+IMPROVEMENT
+IMPROVEMENT
+17.2
+1.95
+2.31
+5.00
+19.8
+Key Results for CRAC #60 with PermaFrost NMR® ECM
+Liebert
+DS077AJA00I212S
+C06F8E0070
+R-22
+22
+6,877
+2006
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+483.6
+47.5
+45.4
+48.5
+63.4
+121.1
+264.2
+71.6
+53.7
+57.8
+48.6
+24.53
+19.53
+5.00
+5.2
+30.01
+1.57
+ 19.10*
+10188.7
+99
+6.5%
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Adjusted Amps for Warmer OAT in Post
+Suction Temperature
+Suction Pressure
+Discharge Temperature
+Discharge Pressure
+Entering Air DB
+Leaving Air DB
+Entering Air WB
+Leaving Air WB
+Enthalpy of Entering WB
+Enthalpy of Leaving WB 
+ 
+Delta-T of Enthalpy
+Evaporator Approach
+kW (V x A x PF x 1.732)
+kW / Ton
+Actual Measured Operating Tons
+Unit CFM
+OAT
+Adjustment for Warmer OAT in Post
+480.0
+47.0
+39.8
+83.1
+113.7
+253.4
+70.7
+54.1
+57.8
+49.6
+24.53
+20.03
+4.50
+14.5
+3.87
+1.80
+17.19
+10188.7
+93
+11.1%
+POST
+BASELINE
+4.50
+Enthalpy Delta
+COP
+®
+* before manufacturers capacity adjustment.
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

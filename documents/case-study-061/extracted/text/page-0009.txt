@@ -1,0 +1,19 @@
+Utilizing the data in the above charts, the following performance measurements were placed into the 
+regression analysis to account for the restored capacity brought about by PermaFrost NMR® and to 
+determine an accurate ROI for implementing this ECM:.
+Regression Analysis 
+Adjusted Base Tonnage         20.22 tons (equates to tonnage in ERP)
+Adjusted Total Watts         926 Watts per Ton * 20.22 tons = 18,723.7 Total Watts
+Adjusted Base kWh         (18,723.7 Watts /1,000) * 1,482 Annual Operating hrs = 27,749 kWh
+Revised Cost to Run Prior to ECM         27,749 kWh * $.2098 = $5,821.42 USD
+Post ECM kWh         (15,098.9 Watts / 1,000) * 1,482 Annual Operating hrs = 22,377 kWh
+Cost to Run After ECM         22,377 kWh * $.2098 = $4,694.60 USD
+Cost Savings per Year         ($5,821.42 - $4,694.60) = $1126.82 USD
+Cost of PermaFrost NMR® $3,087 USD
+KwH Saving per Year         ($27,749 - 22,377) = 5,372 kWh
+Environmental Impact of the Project         * 3.8 metric ton reduction of carbons dioxide emissions
+*Emission factor calculated by 7.055 x 10 to the negative 4 metric tons Co2/KwH
+Source: EPA 2012 eGRID2012 Version 1.0
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

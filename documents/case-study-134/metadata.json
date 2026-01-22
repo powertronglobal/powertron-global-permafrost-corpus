@@ -1,0 +1,86 @@
+{
+  "document_id": "case-study-134",
+  "title": "Major Telecom E Cell Tower Sites Field Study",
+  "source_file": "Major Telecom E",
+  "original_filename": "[OBFUSCATED]",
+  "document_type": "case_study",
+  "page_count": 18,
+  "word_count": 4500,
+  "extraction_method": "pymupdf",
+  "extraction_quality": "complete",
+  "language": "en",
+  "created_date": "2023-09-30",
+  "extracted_date": "2026-01-03",
+  "client": {
+    "name": "Major Telecom E",
+    "industry": "telecommunications",
+    "application": "cell_tower_cooling"
+  },
+  "location": {
+    "city": "Houston",
+    "state": "TX",
+    "country": "USA",
+    "climate_zone": "2A",
+    "climate_description": "Hot-Humid"
+  },
+  "equipment": {
+    "type": "Package DX",
+    "make": "Bard",
+    "models": ["W49A1", "W60A1", "W36A1", "W60A2"],
+    "refrigerant": "R-410A",
+    "units_tested": 20,
+    "sites_tested": 10,
+    "capacities_tons": [3, 4, 5],
+    "year_manufactured": "2012-2013",
+    "age_years": 11
+  },
+  "study_period": {
+    "baseline_start": "2023-05-31",
+    "baseline_end": "2023-06-28",
+    "treatment_date": "2023-07-05",
+    "post_start": "2023-09-06",
+    "post_end": "2023-09-30",
+    "measurement_days": 20
+  },
+  "results": {
+    "efficiency_improvement_pct": 19.4,
+    "runtime_reduction_pct": 18.3,
+    "runtime_reduction_minutes": 18818,
+    "baseline_kwh_total": 8205.36,
+    "post_kwh_total": 6610.27,
+    "kwh_saved": 1595.09,
+    "per_site_results": {
+      "cell_hut_1": 20.5,
+      "cell_hut_2": 23.25,
+      "cell_hut_3": 14.5,
+      "cell_hut_4": 5.0,
+      "cell_hut_5": 19.9,
+      "cell_hut_6": 17.1,
+      "cell_hut_7": 29.1,
+      "cell_hut_8": 32.3,
+      "cell_hut_9": 8.9,
+      "cell_hut_10": 21.6
+    }
+  },
+  "certification": {
+    "methodology": "AHRI Standard M&V",
+    "pe_name": "[Mechanical Engineer]",
+    "pe_title": "Forensic Mechanical Engineer",
+    "cmvp": "Victor LaRocca",
+    "instrumentation": {
+      "power_meter": "AccuEnergy 1312 (IEC 62053-22 0.5s class)",
+      "temperature": "Dwyer O-4 Thermistor (NIST calibrated)",
+      "current_switch": "Dwyer CCS-231150",
+      "air_velocity": "Dwyer AVUL",
+      "humidity": "Dwyer RHP-2D1B"
+    },
+    "data_points_measured": 33
+  },
+  "validation_notes": [
+    "Results consistent with UL laboratory testing (18-22% range)",
+    "CDD variance between baseline and post: 0.2% (negligible)",
+    "Two sites required regression analysis due to mechanical issues",
+    "Node 519 excluded due to pre-existing malfunction"
+  ],
+  "corpus_category": "field_study"
+}

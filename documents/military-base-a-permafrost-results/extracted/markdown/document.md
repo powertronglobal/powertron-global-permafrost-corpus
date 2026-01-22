@@ -1,0 +1,368 @@
+# Military Base A PermaFrost Results
+
+---
+
+## Page 1
+
+Military Base A
+PermaFrost® Results
+TM
+
+
+---
+
+## Page 2
+
+PermaFrost® Results
+      In order to analyze the benefits of PermaFrost®, Military Base A agreed to treat a number of 
+buildings and monitor the effects over a 6 month period.  The decision was made to pick facilities that had  
+heat pumps and get performance data in the heating mode and the cooling mode.  The goal was to examine 
+pre & post kWh consumption for each building in order to trend the results for many sites over several months.  
+The data shows a minimum of 3 months in heating mode and 3 months in cooling mode.  PermaFrost® is 
+applicable in both modes in heat pumps.  The data below will show a comparison of like months of the 
+pre-treatment versus post-treatment billing cycles.
+1
+Bldg 3766
+     kWh Used
+     Installation
+Powertron Global™ sent a team of trained installers to work with the HVAC staff at Military Base A for the 
+installation process.  Powertron Global™ personnel conducted a class room training session on the details 
+of product handling, installation, expectations and handled all subsequent questions.  After conducting 
+several unit installations Powertron Global™ staff monitored Military Base A HVAC staff complete the remainder 
+of the facilities.  
+November 
+December 
+January
+March
+April 
+May
+17978
+20007
+22075
+20243
+16947
+12272
+15624
+25536
+12869
+36304
+12936
+10771
+Before
+After
+Average
+kWh reduction
+Adjusted
+for weather
+-12.6%
+-13.1%
+
+
+---
+
+## Page 3
+
+2
+     kWh Used
+Bldg 3765
+November 
+December 
+January
+March
+April 
+May
+**THE CEM THREW THIS BUILDING OUT **
+7519
+9516
+7660
+7873
+9009
+8463
+6159
+6257
+7771
+10381
+8965
+Before
+After
+Average
+kWh reduction
+Adjusted
+for weather
+plus 2.0%
+plus 4.5%
+Bldg 3616
+November 
+December 
+January
+March
+April 
+May
+9787
+8771
+10020
+9997
+10758
+10971
+9999
+9235
+9108
+8567
+9717
+9414
+Before
+After
+Average
+kWh reduction
+Adjusted
+for weather
+-6.6%
+-8.3%
+PermaFrost® Results
+Bldg 1845
+November 
+December 
+January
+March
+April 
+May
+25775
+25690
+27666
+23820
+23353
+24884
+20531
+23110
+24239
+23363
+23700
+25354
+Before
+After
+Average
+kWh reduction
+Adjusted
+for weather
+-6.9%
+-6.3%
+
+
+---
+
+## Page 4
+
+Total AFTER Weather adjustment
+3
+     kWh Used - Results
+Total reduction in kWh
+-8.5% with Bldg 3765 
+ 
+ 
+-11.1% with out Bldg 3765 
+-9.1% with Bldg 3765 
+ 
+ 
+ 
+ 
+-12.5% with out Bldg 3765 
+Abnormal Usage not related to PermaFrost® 
+ 
+ 
+Previously calculated by [Energy Manager] CEM   
+ 
+Eliminated by CEM for erratic meter patterns  
+ 
+PermaFrost® Results
+Bldg 1778
+November 
+December 
+January
+March
+April 
+May
+7182
+7443
+9295
+7736
+6231
+5551
+5597
+7852
+7208
+6111
+4880
+3983
+Before
+After
+Average
+kWh reduction
+Adjusted
+for weather
+-18.3%
+-22.5%
+     kWh Used
+
+
+---
+
+## Page 5
+
+     Summary
+The pilot was successful and the units at the sites performed exactly as expected.  Total energy consumption 
+for the sites was reduced 11.1% prior to weather adjustments and 12.5% after a slight adjustment for 
+changes in weather.  The performance measured is projected to provide an initial payback of approximately 
+9 to 11 months.  The climate in the Washington DC area is perfect for heat pumps and provides the 
+opportunity to get savings for most of the year since the units operate in both seasons.  If these results are 
+used to project the payback in standard HVAC systems operating only in cooling mode in this area, they 
+would provide a payback of 12-14 months as a result of 3 months less operation time.
+4
+PermaFrost® Results
+
+
+---
+
+## Page 6
+
+5
+     Weather
+November
+HDD
+CDD
+Total
+543
+0
+543
+Difference in Post
+30.8% less HDD
+376
+0
+376
+2008
+2009
+December
+HDD
+CDD
+Total
+759
+0
+759
+Difference in Post
+10% more HDD
+835
+0
+835
+January
+HDD
+CDD
+Total
+1028
+0
+1028
+Difference in Post
+11.1% less HDD
+914
+0
+914
+2009
+2010
+2008
+2009
+2009
+2010
+February
+HDD
+CDD
+Total
+698
+0
+698
+Difference in Post
+22.8% more HDD
+857
+0
+857
+PermaFrost® Results
+
+
+---
+
+## Page 7
+
+6
+March
+HDD
+CDD
+Total
+608
+0
+608
+Difference in Post
+31.1% less HDD
+419
+0
+419
+2009
+2010
+2009
+2010
+2009
+2010
+2009
+2010
+2009
+2010
+April
+HDD
+CDD
+Total
+270
+37
+307
+Difference in Post
+35.2% less HDD
+& CDD combined
+159
+40
+199
+May
+HDD
+CDD
+Total
+73
+93
+166
+Difference in Post
+55.4% more HDD 
+& CDD combined
+57
+201
+258
+June
+HDD
+CDD
+Total
+4
+270
+274
+Difference in Post
+72.6% more HDD 
+& CDD combined
+0
+473
+473
+July
+HDD
+CDD
+Total
+0
+378
+378
+Difference in Post
+49.7% more CDD
+0
+566
+566
+PermaFrost® Results
+
+

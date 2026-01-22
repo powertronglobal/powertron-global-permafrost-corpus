@@ -1,0 +1,46 @@
+ 
+ 
+3 
+C. 
+GENERAL FINDINGS 
+ 
+1. Pre Inspection 
+Before testing began our engineering team arrived on site to perform a pre-test 
+performance exercise. 
+ 
+DHU 9 was observed as having low capacity production and high kW/ton due to 
+the following: 
+ 
+1) Low CFM due to glazed evaporator blower fan motor, loose evaporator blower 
+fan belt. 
+2) ERV not operating 
+ 
+Powertron Global notified client and this action concluded with a service work 
+order was sent to Major US Retailer’s service contractor. Repairs were concluded and 
+system was determined to be ready for the test. 
+ 
+DHU 16 was observed as having low capacity production and high kW/ton due to 
+the following: 
+ 
+1) Low CFM due to the loose evaporator blower fan belt and damaged blower 
+motor sheave 
+2) 2) ERV not operating 
+3) 3) Problematic sub-cooling and superheat 
+ 
+Powertron Global notified client and this action concluded with a service work 
+order was sent to Major US Retailer’s service contractor. 
+ 
+2. Equipment Selection 
+DHU 9 was selected as the test candidate because it was the most conservative 
+choice for performance improvement and was the best representation of Major US Retailer’s 
+HVAC/R portfolio of equipment. 
+ 
+ 
+3. Method of Procedure for testing: 
+ 
+The objective of measuring the overall cooling production of HVAC/R systems 
+can be realized by measuring the total energy consumed by the specific unit 
+being tested and the total BTU production of the system then calculating these 
+parameters to obtain kW per ton, EER (energy efficient ratio) and COP 
+(coefficient of performance). Using that information the total BTUH of cooling 
+production can be realized. The objective of measuring overall power consumed 

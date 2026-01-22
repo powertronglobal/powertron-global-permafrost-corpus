@@ -1,0 +1,39 @@
+ 
+ 
+Page 8 of 38 
+ 
+Figure 13 - Generic Distance Matrix Example
+ 
+The way that distance is calculated for each object (A-F in the figure above) is by using the 
+Pythagorean theorem. For instance, the distance between objects A and C is calculated by the 
+following formula... 
+ඥ(51 −9)ଶ+ (28 −49)ଶ= 46.95743.. . ≈47 
+ 
+This example helps to understand the process of creating a distance matrix in a simplified manner. 
+However, in the analysis of the given data set, each object is characterized by 7 variables. In this 
+case, distance is instead calculated using the Euclidean distance formula so all variables can be 
+considered, as opposed to the two-variable distance produced by the Pythagorean theorem. The 
+resulting distance matrix can be found in the ‘Results’ sub-section for hierarchical clustering. 
+ 
+Once the algorithm has produced a distance matrix, the distances are compared in a hierarchical 
+fashion, first grouping the two data points closest together to form a cluster. The assumption that 
+each data point is initially treated as an independent cluster and then iteratively grouped together 
+using the distance matrix defines this method to be agglomerative, as opposed to divisive5. Once a 
+link has been created between the closest two points, the next closest distance is determined 
+between the two-point cluster and the other data points, working to find the shortest distance. After 
+the next shortest distance is determined, a link is created. This process occurs iteratively and 
+produces a visualization of the hierarchy mapping the distance between points known as a 
+dendrogram. The dendrogram shows linkages across all data points and is eventually used to 
+determine the input for number of clusters when commanding the algorithm to produce cluster 
+assignments. 
+ 
+After the number of clusters has been determined by the dendrogram, the algorithm can be run set 
+to the number of clusters determined to receive an output depicting the cluster assignments for all 
+input objects e.g. Day x belongs in cluster y based on its relationship to all other data points. To 
+better understand the cluster assignments and place them in context of the selected features, the 
+objects can be visualized with a scatter plot. Each data point on the plot represents a day as it falls 
+within the framework of the selected features – while the color of the points in the plot can be 
+modulated to represent what cluster the point was assigned to. 
+ 
+5 https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-
+c6e8243758ec  

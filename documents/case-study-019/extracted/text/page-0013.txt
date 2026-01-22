@@ -1,0 +1,35 @@
+Energy Consumption & Financial Metrics
+The following are the ﬁnal calculated average performance measurements before and after the two ECM’s were 
+installed on the two pilot CRAC systems. 
+Average Baseline Energy Consumption
+Baseline Capacity:  34.65 tons
+Adjusted kW Baseline:  1.57 kW/ton * 41.42 tons = 65.03 kW
+Adjusted Baseline kWh:  65.03 kW * 6,130 Annual Operating Hours = 398,634 kWh
+Revised Cost to Run Baseline: 398,634 kWh * $.102 = $40,661
+Average Post Energy Consumption
+kW Post:  1.07 kW/ton * 41.42 tons = 44.32 kW
+Annual kWh Post:  44.32 kW * 6,130 hours = 271,682 kWh
+Annual Cost Post:  271,682 kWh * $.102 cents = $27,712
+Average Savings Per Year Per Unit
+Avoided Energy Cost (savings) Per Year:  $40,661 - $27,712 = $12,949
+Estimated Energy Savings per Month: $12,949 / 12 = $1,079
+Return on Investment
+Cost of PermaFrost NMR® and Circuit Master devices installed in the pilot cooling systems: $12,393
+Estimated ROI for Regional Telecom when treating the pilot cooling systems: $12,393 / $1,079 = ~11.5 mos
+Annual Internal Rate of Return = 104%
+Return on Investment Over 5 Years = 522%
+Explanation of Regression Analysis
+To obtain a avoided energy cost and subsequent payback period for Regional Telecom for implementing both the 
+PermaFrost NMR® and Circuit Master ECMs, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in both capacity and efﬁciency utilizing data collected during the pilot 
+study. Working together, these improvements reduce the annual kWh expended in the Post Analysis Period. The 
+ROI comes from determining what the cost to run the cooling systems was when operating at the original energy 
+proﬁle to produce the newly restored amount of available capacity and then subtracting the revised cost to run 
+the cooling systems at the same restored capacity after the PermaFrost NMR® and Circuit Master ECMs were 
+installed. This regression analysis is the most widely accepted method of accounting for the reduced number of 
+hours and/or load % at which the systems will now operate due to the restored performance proﬁle. This restored 
+performance proﬁle allows the cooling systems to satisfy the internal area set points with increased efﬁciency 
+resulting in reduced compressor demand loading.  
+13
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

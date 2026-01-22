@@ -1,0 +1,30 @@
+®
+2
+Process
+This report contains specific information regarding the installation of the energy control measure (ECM) 
+PermaFrost NMR® into one (1) Carrier water-cooled ice rink chiller located in Oak Bluffs, Island Location A, 
+MA. 
+Detailed forensic performance testing (outlined later in this report) was performed on this unit owned by Island Location A Arena 
+to determine three key elements that Island Location A Arena should be concerned with as they relate to the original design 
+specifications: 
+1.  Current btuh capacity of the equipment in service with the installed PermaFrost NMR® ECM.
+2.  Actual cost of power required to produce the amount of cooling the chiller is delivering as reflected in the 
+     kW/ton measurement. 
+3.  Mechanical soundness of the chiller and its ability to still perform at or close to operational design.
+Following testing, the chiller was treated with the proper amount and type of the PermaFrost NMR® 
+technology specially formulated for this type of system.
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) framework. NIST (National Institutes of 
+Standards & Technology) calibrated devices where used for the highest level of accuracy and data integrity. 
+IPMVP is the industry standard according to the US Department of Energy. Because of its wide international 
+adoption, the IPMVP has been identified as the best Measurement and Verification (M&V) Framework for 
+helping to determine and secure financial compensation for emissions reductions resulting from Energy 
+Conservation Methods (ECM).
+M&V was conducted to establish an initial energy baseline and a post avoided energy-reporting period. The 
+purpose of the testing was to show how the ECM improves the thermal performance of any system it is 
+installed in.
+The improvement in efficiency and restored capacity gained directly at each unit was solely attributable to 
+PermaFrost NMR®. This is a result of the reversal of thermal inefficiency on the heat exchanger surfaces.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,68 @@
+ 
+ 
+Page 3 of 38 
+ 
+hotter outside. Preliminary results showed that runtime seemed to increase linearly with outside air 
+temperature. 
+By demonstrating a linear relationship between these two variables, linear regression allows for the 
+creation an equation to model this relationship.  This equation was used to create a feature based on 
+the deviation from the predicted relationship, where the deviation is referred to as an error.  If the 
+error was consistently large, this would merit attention, as it could mean that the machine was not 
+performing as expected. 
+ 
+Each of the sub-sections under Section II: Deep Dive Methods, references the specific pre-treatment 
+of data and the features extracted for each model tested. Feature extraction represents a key piece 
+in any data science or machine learning implementation, as its impacts can range from the actual 
+determination of which technique to explore to the actual success of the technique itself.  
+ 
+The team believes that further features could have been explored in future exploration specifically 
+related to the features and variables that one would need to assess for successful predictive 
+mechanical failure. 
+ 
+Section II. Deep Dive Methods 
+ 
+The following subsections outline the methods explored further by the team given time constraints. 
+Each section produced different results and conclusions surrounding the effectiveness of any of the 
+given algorithms or methods are independent of one another. Common limitations and conclusions 
+resulting from all deep dives are discussed in the final section of this paper. 
+ 
+The Random Forest Algorithm 
+ 
+Method Description 
+ 
+The random rorest is a classification algorithm that will take a large set of inputs and put them into 
+different categories. It is a "supervised" algorithm, which means that there must be a training set of 
+data which allows for the machine to categorize future data sets based on given sample inputs and 
+outputs. This is called labeled data.  Consider a data set gathered by surveying people on whether 
+they would buy a certain cell phone. 
+ 
+ 
+ 
+Phone
+Price
+RAM
+Internal Storage
+Label
+A 
+$700 
+32 GB 
+128 GB 
+Don't Buy 
+B 
+$350 
+16 GB 
+128 GB 
+Buy 
+C 
+$90 
+1 GB 
+4 GB 
+Don't buy 
+… 
+… 
+… 
+… 
+… 
+ 
+Each input is a row representing a phone and can be thought of as a single data point with three 
+features: price, RAM and internal storage.  The key desired output is whether someone would buy 

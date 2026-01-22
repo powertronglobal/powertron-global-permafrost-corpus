@@ -1,0 +1,34 @@
+Energy Consumption & Financial Detail
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the pilot systems compared to the control system.
+Avg. Baseline Energy Consumption
+Avg. Baseline Capacity:  7.51 tons
+Avg. Adjusted kW Baseline:  1.16 kW/ton * 9.16 tons = 10.63 kW
+Avg. Adjusted Baseline kWh:  10.63 kW * 2,990 Annual Operating Hrs = 31,784 kWh
+Avg. Revised Cost to Run Baseline: 31,784 kWh * $.17 = $5,403
+Avg. Post Energy Consumption
+kW Post:  .933 kW/ton * 9.16 tons = 8.545 kW
+Annual kWh Post:  8.545 kW * 2,990 hours = 25,550 kWh
+Annual Cost Post:  25,550 kWh * $.17 cents = $4,344
+Avg. Savings per Year Per System
+Avoided Energy Cost (savings) Per Year:  $5,403 - $4,344 = $1,059
+Estimated Energy Savings per Month: $1,059 / 12 = $88
+Estimated Energy savings per year for all four pilot systems = $4,236
+Payback Period
+Cost of PermaFrost NMR® installed in all four pilot cooling systems: $3,875
+Estimated Payback Period for Major Bank B when treating all four pilot cooling systems: $3,875 / $352 = 11 Months
+Return on Investment
+Annual Internal Rate of Return = 109%
+Return on Investment Over 5 Years = 547%
+Explanation of Regression Analysis
+Utilizing data collected during the pilot study, to obtain a true avoided energy cost and subsequent payback period for TD 
+Bank for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in both capacity and efficiency. Working together, these improvements reduce the 
+annual kWh expended in the Post Analysis Period. The ROI comes from determining what the cost to run the cooling systems 
+was when operating at the original energy profile to produce the newly restored amount of available capacity and then 
+subtracting the revised cost to run the systems at the same restored capacity after the PermaFrostNMR® ECM was installed. 
+This regression analysis is the most widely accepted method of accounting for the reduced number of hours and/or load % at 
+which the systems will now operate due to the restored performance profile. This restored performance profile allows the 
+cooling systems to satisfy the internal area set point with increased efficiency resulting in reduced compressor demand loading.
+    7
+Property of Powertron Global®

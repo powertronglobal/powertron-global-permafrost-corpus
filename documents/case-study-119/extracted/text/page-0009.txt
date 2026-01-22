@@ -1,0 +1,117 @@
+®
+0.43
+POST
+BASELINE
+0.32
+Daikin
+EUWAN24KAZW1
+[Serial Number]
+R407C
+67
+4,380
+2008
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in kWR  
+Average Annual
+Runtime Hours
+Age
+kWE/kWR
+REDUCTION
+25.6%  
+REDUCTION
+REDUCTION
+POST
+BASELINE
+Calculated Annual kWh
+25.6%
+49%
+POST
+BASELINE
+Refrigerant Approach
+REDUCTION
+POST
+BASELINE
+34.5
+Calculated Amps
+4.35%
+3.06
+111,252
+82,826
+1.56
+Key Results for PU Unit with PermaFrost NMR® ECM
+System Description
+394.30
+33.05
+4.64
+66.11
+6.22
+13.33
+7.11
+1.58
+18.91
+0.32
+59.08
+54.00
+82,826.00
+100.00
+3.08
+22.22
+0.08
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Saturated Suction Temperature 
+ 
+Discharge Refrigerant Temperature
+Chilled Water Leaving Temp (Supply)
+Chilled Water Entering Temp (Return)
+Chilled Water Delta T 
+Refrigeration Approach 
+ 
+kWEnergy (after regression analysis)  
+kWE / kWR (prior to regression analysis) 
+Actual Measured Operating kWRefrigeration  
+Chiller Flow Rate (LPS)
+Annual kWh (after regression analysis)  
+ 
+Chiller Load % During Testing 
+ 
+Coeﬃcient of Performance (COP)
+OAT
+Adjustment for cooler OAT Post Temps
+400.30
+34.53
+4.89
+71.67
+7.94
+13.56
+5.62
+3.05
+25.40
+0.43
+46.77
+54.00
+111,252.00
+100.00
+2.30
+25.56
+8
+Notes
+This Pilot DXC provides cooling for the African Telecom Provider B
+Telecom switching center on campus. It is 
+estimated the DXC runs approximately 4,380 
+hours annually prior to the PermaFrost NMR® 
+ECM being installed.
+Chiller Load in both the Baseline and Post was 100%. OAT was 3.34ºC cooler in the 
+Post so the measured 31.3 amps were adjusted upward to account for that.
+33.0
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

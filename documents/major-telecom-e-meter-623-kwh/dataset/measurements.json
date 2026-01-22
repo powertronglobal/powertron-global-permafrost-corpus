@@ -1,0 +1,172 @@
+{
+  "doc_id": "major-telecom-e-meter-623-kwh",
+  "slug": "major-telecom-e-meter-623-kwh",
+  "source_type": "tabular",
+  "extracted_at": "2026-01-05T21:31:36.998609",
+  "summary": {
+    "total_files": 6,
+    "baseline_files": 2,
+    "post_files": 2,
+    "total_rows": 68973,
+    "baseline_rows": 34407,
+    "post_rows": 34540
+  },
+  "file_statistics": [
+    {
+      "period": "baseline",
+      "rows": 20,
+      "columns": 10,
+      "column_names": [
+        "temperature_bin_range",
+        "temperature_bin_start",
+        "mean_temp",
+        "min_temp",
+        "max_temp",
+        "mean_kWh",
+        "std_kWh",
+        "min_kWh",
+        "max_kWh",
+        "count"
+      ],
+      "metrics": {
+        "mean_kWh": {
+          "mean": 1.1245,
+          "std": 0.2157843709281145,
+          "min": 0.83,
+          "max": 1.48,
+          "median": 1.1099999999999999
+        },
+        "std_kWh": {
+          "mean": 0.2015,
+          "std": 0.034530688105692764,
+          "min": 0.14,
+          "max": 0.25,
+          "median": 0.20500000000000002
+        },
+        "min_kWh": {
+          "mean": 0.631,
+          "std": 0.1167498450353981,
+          "min": 0.45,
+          "max": 0.82,
+          "median": 0.63
+        },
+        "max_kWh": {
+          "mean": 1.779,
+          "std": 0.28951683888851787,
+          "min": 1.35,
+          "max": 2.25,
+          "median": 1.775
+        }
+      },
+      "source_file": "Meter_623_Baseline_Temperature_Bins.csv"
+    },
+    {
+      "period": "post",
+      "rows": 16,
+      "columns": 10,
+      "column_names": [
+        "temperature_bin_range",
+        "temperature_bin_start",
+        "mean_temp",
+        "min_temp",
+        "max_temp",
+        "mean_kWh",
+        "std_kWh",
+        "min_kWh",
+        "max_kWh",
+        "count"
+      ],
+      "metrics": {
+        "mean_kWh": {
+          "mean": 1.005625,
+          "std": 0.11899404747017107,
+          "min": 0.84,
+          "max": 1.17,
+          "median": 0.985
+        },
+        "std_kWh": {
+          "mean": 0.15125000000000002,
+          "std": 0.017841898254763514,
+          "min": 0.12,
+          "max": 0.18,
+          "median": 0.15
+        },
+        "min_kWh": {
+          "mean": 0.61,
+          "std": 0.09521904571390466,
+          "min": 0.46,
+          "max": 0.76,
+          "median": 0.61
+        },
+        "max_kWh": {
+          "mean": 1.544375,
+          "std": 0.13633139770427058,
+          "min": 1.3,
+          "max": 1.75,
+          "median": 1.525
+        }
+      },
+      "source_file": "Meter_623_Post_Temperature_Bins.csv"
+    },
+    {
+      "period": "unknown",
+      "rows": 16,
+      "columns": 10,
+      "column_names": [
+        "temperature_bin_range",
+        "temp_bin",
+        "count_baseline",
+        "mean_baseline",
+        "std_baseline",
+        "count_post",
+        "mean_post",
+        "std_post",
+        "energy_savings",
+        "energy_savings_pct"
+      ],
+      "metrics": {},
+      "source_file": "Meter_623_Temperature_Comparison.csv"
+    },
+    {
+      "period": "unknown",
+      "rows": 10,
+      "columns": 2,
+      "column_names": [
+        "Metric",
+        "Value"
+      ],
+      "metrics": {},
+      "source_file": "Meter_623_Weighted_Analysis_Results.csv"
+    },
+    {
+      "period": "baseline",
+      "rows": 34387,
+      "columns": 6,
+      "column_names": [
+        "BASELINE Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4",
+        "Unnamed: 5"
+      ],
+      "metrics": {},
+      "source_file": "623 MATHealthcare System ANG Baseline 9_16-10_10_24 extended.xlsx"
+    },
+    {
+      "period": "post",
+      "rows": 34524,
+      "columns": 6,
+      "column_names": [
+        "POST Measurement History",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4",
+        "Unnamed: 5"
+      ],
+      "metrics": {},
+      "source_file": "623 MATHealthcare System ANG Post 9_16_10_10_25 extended.xlsx"
+    }
+  ]
+}

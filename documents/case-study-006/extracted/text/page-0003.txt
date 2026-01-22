@@ -1,0 +1,143 @@
+ 
+    
+ 
+2006 Windy Terrace Suite A 
+www.powertronglobal.com 
+ 
+ 
+Data 
+ 
+2023 Baseline II vs 2024 Post II 
+kWh 
+Cell Hut 3 
+Cell Hut 4 
+Cell Hut 5 
+Cell Hut 6 
+Baseline 
+684.1 
+814.8 
+483.2 
+320.3 
+Post 
+592.2 
+792.3 
+369.1 
+268.3 
+Diff% 
+13.4% 
+2.8% 
+23.6% 
+16.2% 
+kWh 
+Cell Hut 7 
+Cell Hut 8 
+Cell Hut 9 
+Cell Hut 10 
+Baseline 
+538.06 
+545.2 
+418 
+1388 
+Post 
+277.8 
+410.7 
+363 
+1085.4 
+Diff% 
+48.4% 
+24.7% 
+13.2% 
+21.8% 
+Total kWh 
+Baseline 
+5192 
+Post 
+4159 
+Diff% 
+19.9% 
+Savings 
+ 
+**All raw data files have been provided to Major US Telecom 
+ 
+CDD 
+2023 
+2024 
+Post Iv2 vs. Post II 
+Baseline II 
+Post II 
+Diff% 
+Cell Hut 3 
+511 
+346 
+343 
+-0.87% 
+512 
+344 
+343 
+-0.29% 
+Cell Hut 4 
+513 
+362 
+360 
+-0.56% 
+514 
+358 
+360 
+0.56% 
+Cell Hut 5 
+515 
+366 
+369 
+0.81% 
+516 
+365 
+369 
+1.08% 
+Cell Hut 6 
+517 
+403 
+407 
+0.98% 
+518 
+403 
+407 
+0.98% 
+Cell Hut 7 
+519 
+N/A 
+358 
+0.00% 
+520 
+362 
+358 
+-1.1% 
+Cell Hut 8 
+521 
+384 
+383 
+-0.26% 
+522 
+383 
+383 
+0.00% 
+Cell Hut 9 
+523 
+369 
+372 
+0.81% 
+524 
+372 
+372 
+0.00% 
+Cell Hut 10 
+525 
+371 
+368 
+-0.8% 
+  
+526 
+369 
+368 
+-0.27% 
+0.07% 
+AVG 

@@ -1,0 +1,65 @@
+                                                                                                                                                                                                                         7
+HVAC/R Eﬃciency Study Results
+Cost to Major US Warehouse Retailer to Operate the [Southeast Location] HVAC RTUs Baseline vs Post
+The next chart illustrates the just how much money the efficiency performance loss in the pilot RTUs was 
+costing Major US Warehouse Retailer in the way of wasted energy each they were operating prior to the ECM. The average cost to 
+operate these three pilot RTUs as calculated in kW/ ton was 1.36 in the Baseline. When new, the kW/ton rating 
+for units like these usually ranges from .9 - 1.05 kW/ton. This means Major US Warehouse Retailer was paying up to 22.8% more than 
+design for energy to run the RTUs as a direct result of the baseline reduced level of performance. The kW/ton 
+ratings measured on site in [Southeast Location] were very much in line with the published ASHRAE loss of 
+performance averages.  
+The restored average kW/ton rating following the ECM is now 1.07. This represents a 21.3% reduction in 
+energy costs from the baseline for every ton of cooling produced. It also brings down the Major US Warehouse Retailer costs to 
+operate the RTUs to just 3% over design. This will result in an initial payback period to Major US Warehouse Retailer of 
+approximately 12-13 months. Over just a few years these accumulated savings will greatly reduce the eventual 
+CapEx costs to replace the RTUs when they finally reach the end of their useful life.   
+Original Design
+Eﬃciency
+ASHRAE Projected
+Cost to Operate
+Over Time
+Actual Cost to
+Operate Major US Warehouse Retailer
+Systems As Is
+Operational Cost %
+Actual Major US Warehouse Retailer HVAC/R Operating Cost
+vs. ASHRAE Historical Performance
+-40
+-20
+00
+20
+40
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+ 
+ 
+ 
+Avg Age of Major US Warehouse Retailer
+Equipment
+11
+EXPECTED COST
+Age of HVAC/R Units
+23%
+in Energy
+Savings
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

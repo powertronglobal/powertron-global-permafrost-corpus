@@ -1,0 +1,166 @@
+®
+Appendix A
+Data Center Provider HVAC Units - [Building Address]nue, NYC
+9
+SUITE #
+1402
+1402
+1402
+1402
+1402
+1402
+1402
+1402
+1402
+1402
+CRAC #
+14.1
+14.2
+14.3
+14.4
+14.5
+14.6
+14.7
+14.8
+14.9
+14.10
+MAKE
+AirFlow
+Liebert
+AirFlow
+AirFlow
+Liebert
+AirFlow
+Liebert
+AirFlow
+Liebert
+Liebert
+MODEL #
+CCT15A4
+DS053ADA1E13135
+CCT15A4
+CCT15A4-UD
+VS053ADADE
+CCT15A
+DS053ADA1E1313S
+CCT15A
+DH245AUAAE1
+DH245AUAAOO
+SERIAL #
+015MD017
+C14C8E0151
+015MD015
+015MD019
+C14C8E0152
+015MD018
+C14C8E0150
+015MD014
+761801-002
+761801-001
+TONNAGE
+15
+15
+15
+15
+15
+15
+15
+15
+20
+20
+MFG DATE
+1998
+2014
+1998
+1998
+2014
+1998
+2014
+1998
+2005
+2005
+Refrig Type
+R-22
+R-407c
+R-22
+R-22
+R-407c
+R-22
+R-407c
+R-22
+R-22
+R-22
+SUITE #
+1515
+1515
+1515
+1515
+1515
+1515
+1515
+1515
+CRAC #
+15.1
+15.2
+15.3
+15.4
+15.5
+15.6
+15.7
+15.8
+MAKE
+Liebert
+Liebert
+Liebert
+Liebert
+Liebert
+Liebert
+Liebert
+Liebert
+MODEL #
+VE240GAAEI
+VE240GAAEI
+VE240GAAEI
+VE240GAAEI
+VE116GAAEI
+VE116GAAEI
+VE240GAAEIS135
+VE240GAAEIS135
+SERIAL #
+371224-002
+371224-004
+371224-001
+371224-003
+371224-005
+371224-006
+940135-002
+940135-001
+TONNAGE
+20
+20
+20
+20
+10
+10
+20
+20
+MFG DATE
+1999
+1999
+1999
+1999
+1999
+1999
+2007
+2007
+Refrig Type
+R-22
+R-22
+R-22
+R-22
+R-22
+R-22
+R-22
+R-22
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

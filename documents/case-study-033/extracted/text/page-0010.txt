@@ -1,0 +1,115 @@
+HVAC Performance Comparison: COP
+Major US Cable Provider CU-1 Split
+COP Comparison 
+OSA Temp.
+Base COP
+Post COP
+60 degF
+3.74
+11.85
+61 degF
+4.66
+8.98
+62 degF
+3.19
+8.52
+63 degF
+3.96
+6.63
+64 degF
+3.37
+8.48
+65 degF
+4.31
+5.81
+66 degF
+2.96
+6.6
+67 degF
+3.34
+6.22
+68 degF
+4.28
+7.67
+69 degF
+3.19
+5.7
+70 degF
+3.19
+5.55
+71 degF
+3.27
+5.83
+72 degF
+3.81
+5.69
+73 degF
+4.22
+5.48
+74 degF
+2.98
+5.75
+75 degF
+2.98
+5.32
+76 degF
+3.57
+5.3
+77 degF
+3.19
+5.51
+78 degF
+5.07
+5.26
+79 degF
+2.96
+5.09
+80 degF
+3.39
+5.53
+81 degF
+3.39
+5.02
+82 degF
+3.46
+4.9
+83 degF
+3.13
+5.85
+84 degF
+3.48
+0.0
+85 degF
+3.22
+0.0
+86 degF
+4.3
+0.0
+87 degF
+3.01
+0.0
+88 degF
+0.0
+0.0
+89 degF
+0.0
+0.0
+90 degF
+0.0
+0.0
+-----
+3.56
+6.36
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+60 degF - 90 degF
+60.0 degF - 75.0 degF
+0.5 - 1.0
+5s
+15176 samples
+11977 samples

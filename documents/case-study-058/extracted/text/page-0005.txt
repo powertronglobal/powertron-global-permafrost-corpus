@@ -1,0 +1,42 @@
+Inspection Report - Pre Treatment
+Report Highlights translated into English
+4
+ 
+ 
+ 
+Baseline  - No. 2009JC025
+ 
+ 
+ 
+Cooling Capacity
+Power Input
+EER
+Dry bulb temp of Evaporator - wind discharged
+Wet bulb temp of Evaporator - wind discharged
+4339 W
+2981 W
+2.085
+12.92 C
+12.00 C
+Inspection Data
+Inspection Items
+     Remarks,
+1.   Actually condition on inspection pre-treatment
+ 
+Indoor: Dry bulb temp: 27.01C 
+ 
+Wet bulb temp: 19.00C
+ 
+Outdoor: Dry bulb temp: 34.99C
+ 
+Discharged pressure: 0Pa
+2.   The refrigerating capacity, input power, dry bulb temperature at evaporator air 
+outlet listed in this table are tested according to the provisions of Chinese Standard 
+GB/T7725-2004.  The international standard equivalents are:
+ 
+• ANSI/ASHRAE 58
+ 
+• ISO5151
+ 
+• GT/T7725-1996
+3.   On this test, the refrigerant is R22.

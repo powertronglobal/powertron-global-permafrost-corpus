@@ -1,0 +1,35 @@
+®
+3
+3. Demonstrate the sustainability of the ECM by showing 90% or more of the material performance 
+improvements generated in 2011, just one month after being treated with PermaFrost NMR®, still 
+remained in this same cooling unit four years later. 
+4. After nine years in service, demonstrate the effectiveness and sustainability of the ECM by increasing 
+the “as-is” efficiency and capacity of the treated pilot unit by more than 10% when compared to an 
+identical untreated control unit performing the same function on another floor. 
+5. To support an effective business case for further deployments of the ECM within the Commercial Real Estate Developer 
+portfolio of properties, demonstrate financial benefits associated with efficiency improvements realized 
+over the duration of the study. These benefits must be equivalent to a 24-month or less payback to 
+Commercial Real Estate Developer on their initial pilot project costs.  
+ECM Product Brief
+PermaFrost NMR® is a multi-patented surface science nanotechnology that uses Nucleo Molecular 
+Regenerative (NMR®) technology as its core agent. A sustainable, one-time treatment with no down time 
+required, PermaFrost NMR® lasts for the remaining life of any type of climate control system in which it is 
+installed. The direct benefits of PermaFrost NMR® are improved cooling efficiency and increased capacity, both 
+of which result in lower overall costs to operate a system and extended equipment life.
+Methodology
+After verifying the amount of air flowing across the evaporator coil before beginning the pilot, the subsequent 
+measurements used in the efficiency calculations were collected and compiled in accordance with Option B of 
+the IPMVP (International Measurement and Verification Protocol) framework. 
+The results presented below were formulated by entering the data into the following thermodynamic 
+engineering formulas:
+ 
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+• kW/ton = Actual Measured Energy / Actual Measured Capacity 
+ 
+• Coefficient of Performance (COP) = 12 / (kW/ton) /3.412
+ 
+• Actual Cooling Capacity per Hour = (Measured CFM * 4.5 * Enthalpy Delta T) / 12,000 BTU
+ 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

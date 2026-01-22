@@ -1,0 +1,22 @@
+®
+2
+Summary Results of Retail Chain C Study
+This comprehensive report contains specific information regarding the performance profiles of four 25-ton 
+Roof Top Units (RTUs) and one 140-ton air cooled chiller at Retail Chain C facility in [Texas City]. 
+At the conclusion of the pilot, the five units showed the following substantial changes: 
+ 
+• Overall capacity rose by 32.19 tons from 108.31 tons to 140.5 tons or 29.7%
+ 
+• Average cost per unit of cooling (i.e., kW/ton) fell by .46 from 1.52 to 1.06 or 30.3%
+ 
+• Aggregate kWh consumed based on avg kW/ton fell by 223,749 from 739,345 to 515,596 or 30.3% 
+ 
+• Energy costs to operate the five units fell by $22,375 from $73,935 to $51,560 or 30.3%  
+These efficiency improvements demonstrated equate to an Initial Payback Period (IPP) of the Retail Chain C project 
+(including all testing fees) of 11.7 months and a corresponding Internal Rate of Return (IRR) of 103%. This is 
+exactly what was estimated in the proposal given the age and average runtime of the equipment.
+Further details of the measurements are described in the various sections later in this report. All testing was 
+conducted by Powertron Global’s Director of Engineering, [Senior Energy Engineer] while being assisted and 
+witnessed throughout by [Facility Manager] of Retail Chain C and his HVAC contractor, HVAC Services Provider.   
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

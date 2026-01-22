@@ -1,0 +1,347 @@
+================================================================================
+DOCUMENT: Case Study 116
+DOC_ID: pdf_111
+SHA256: a01ff24750e061901b14988d8fd93fa67aebb2ccee1d869e11d2ff464c8bc37f
+================================================================================
+
+═══ PAGE 001 ═══
+
+US Navy Vessel BENAVIDEZ
+Comprehensive HVAC/R Capacity Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+®
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 002 ═══
+
+Energy Performance Report
+US Navy Vessel Benavidez
+April 2, 2012
+Technical Narrative
+This reports contains the details regarding the installation of PermaFrost NMR™ in chiller #1 of the US Navy Vessel 
+Benavidez.  PermaFrost NMR® is a chemical designed to correct the issue of thermal inefficiency in HVACR 
+equipment. 
+The International Performance Measurement and Verification Protocol (IPMVP) was used to develop this 
+report.  The Association of Energy Engineers (AEE), American Society of Heating, Refrigeration and 
+Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization (EVO) accept the IPMVP 
+as a global standard.
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize. 
+Retrofit Isolation (Option B) was the option used for this report.
+Retrofit Isolation (Option B) is defined as: All parameter measurement.  Savings are determined by field 
+measurement of the energy use of the energy conservation method affected equipment or system.
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the 
+savings and the length of the reporting period.  The savings are calculated by short term or continuous 
+measurements of baseline and reporting period energy, and /or engineering computations using 
+measurements of proxies of energy use. 
+The final computation follows the formula:
+Energy Science Division
+Option B Savings = Baseline Energy – Reporting Period Energy
+®
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 003 ═══
+
+System Description / Design Characteristics
+The chilled water distribution plant of The US Navy Vessel Benavidez is equipped with five York centrifugal chillers. 
+Each chiller is equipped with a chilled water centrifugal pump feeding a common header. The two chillers 
+in this report are indentical make and model with approximately 1.6 years of runtime.
+  
+The fresh water-cooled condensers of these chillers are fed from a central fresh water loop that is cooled via 
+plate and frame heat exchangers utilizing seawater as the heat exchange / rejection medium. Operational 
+conditions are distinctly different when the vessel is docked versus when at sea. The results of this report are 
+predicated on operation while docked. The air conditioning plant while docked only has the ability to 
+operate one chiller at a time. This is due to the reduced fresh water flow provided by the in port central fresh 
+water circulating pump. While docked many of the large square foot areas cooled by the energy plant are 
+non-active. Areas that are active are living quarters, bridge and other areas required for the daily non 
+-commissioned activities of this vessel. 
+The cooling coils that are served by this chilled water 
+distribution system are controlled by two-way solenoid 
+valves. Upon satisfaction of the temperature requirements 
+of the conditioned space these valves will close until the 
+space temperature rises. 
+At the time of this performance verification the vessel was 
+docked and one chiller was being utilized. This IPMVP Plan 
+was developed with a defined measurement boundary. That boundary is comprised of Chiller #1 and 
+Chiller #5. This boundary was selected with the assistance of the ship’s Chief Engineer [Client Representative]. Chiller 
+#1 and #5 are both York Codepak Model YKM2M2G4-CBS Centrifugal water-cooled chillers each rated at 330 
+tons equipped with R-134a refrigerant. 
+Each chiller was subjected to identical performance parameters demonstrated by the local control of the 
+incremental loading of each chiller within a controlled parameter. The verification process was initiated and 
+concluded on two consecutive days.  Each day began with no chillers running. One chilled water pump was 
+operating in an effort to increase the load on the chilled water loop to a maximum of 80 deg. F.
+Energy Science Division
+®
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 004 ═══
+
+Baseline Measurement Period Selection
+Chiller #1 was treated with PermaFrost NMR® on August 17, 2011.  There was a pre and post measurement 
+and verification performed to develop a baseline to determine the efficacy of this energy conservation 
+measure that consisted of chiller #1 (unit treated with PermaFrost NMR®) and chiller #5 (no PermaFrost 
+NMR® treatment). 
+Each chiller was started and limited to the load factor of 80% by limiting the inlet guide vane position of the 
+machines for a period of five minutes.  During this five-minute period the following parameters were 
+recorded:
+Chiller kW, Chilled Water Delta T, Condenser Water Delta T, Condensed Liquid Refrigerant Temperature, 
+Saturated Evaporator Refrigerant Temperature, Actual Tonnage and kW per Ton.
+The results were formulated by entering the data into thermodynamic engineering formulas.
+These formulas are as follows:
+• To determine the kW, voltage, amperage and power factor were recorded using a digital kW meter.  Data 
+from that meter is automatically calculated.  Those data streams were verified by the manual calculation for 
+determining kW energy as:
+ 
+Volts X Amps X .85 X 1.73 / 1000 = kW
+• To determine the tonnage the following formula was utilized:
+ 
+GPM X 8.34 X 60 X Chilled Water Delta T / 12,000 BTU = Actual Tonnage
+• To determine the actual kW per ton the following formula was utilized:
+ 
+Actual kW / Actual Tonnage = kW per Ton
+Energy Science Division
+®
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 005 ═══
+
+Chiller #5 was not treated with PermaFrost NMR®. The IPMVP for this chiller was conducted on March 12, 
+2012. The following results were veriﬁed at the following load factors:
+Chiller #5 (without PermaFrost NMR®)
+Energy Science Division
+kW per Ton
+kW
+80% load
+.85 kW @ 275 tons
+490 volts x 324 amps x .85 x 1.73 / 1000 = 234 kW
+Refrigerant Approach
+Chiller #5 (without PermaFrost NMR®)  
+Suction Refrigerant Temp
+Chiller Water Temp
+80% load
+50 deg F
+54.3 deg F
+Chiller #5 (without PermaFrost NMR®) at 80% load
+Voltage 
+ 
+Amperage 
+ 
+Suction Refrigerant Pressure  
+Discharge Refrigerant Pressure 
+ 
+Supply Chilled Water  
+Return Chilled Water  
+Chiller GPM 
+ 
+490
+324
+45 psi
+101 psi
+54.3 deg F
+62 deg F
+858
+®
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 006 ═══
+
+Energy Reporting Period Selection
+On March 13, 2012 chiller #1 (previously treated with PermaFrost NMR® on August 17, 2011) was operated 
+under the identical characteristics that were used for the baseline reporting period of chiller #5. The 
+following results were recorded as a result of the implementation of The IPMVP Protocol.
+This data was determined using the exact engineering thermodynamic formulas used previously for chiller #5.
+Energy Science Division
+Chiller #1 (with PermaFrost NMR®) at 80% load
+kW per Ton
+kW
+80% load
+0.77 kW @ 286 tons
+490 volts x 306 amps x .85 x 1.73 / 1000 = 220 kW
+Chiller #1 (with PermaFrost NMR®)
+Voltage 
+ 
+Amperage 
+ 
+Suction Refrigerant Pressure  
+Discharge Refrigerant Pressure 
+ 
+Supply Chilled Water  
+Return Chilled Water  
+Chiller GPM 
+ 
+490
+306
+50 psi
+94 psi
+56 deg F
+64 deg F
+858
+Refrigerant Approach
+Chiller #1 (with PermaFrost NMR®) 
+ 
+Suction Refrigerant Temp
+Chiller Water Temp
+80% load
+54 deg F
+56 deg F
+®
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 007 ═══
+
+There was a veriﬁed eﬃciency gain as this data was inspected. 
+The following is a summary of the energy reduction results.
+Chiller #1 used less energy and delivered more tonnage than chiller #5.  The efficiency of the heat exchange 
+surfaces for chiller #1 was greater than chiller #5 resulting in improvement of the ability to cool the chilled 
+water supply to the load using less energy.
+Energy Science Division
+kW per Ton
+Chiller #5
+(without PermaFrost NMR®)
+Chiller #1
+(with PermaFrost NMR®)
+Eﬃciency Improvements (Direct Beneﬁt)
+80% load
+.85 kW @ 275 tons
+.77 kW @ 286 tons
+9.4% with an additional 11 tons of output
+Refrigerant Approach
+Chiller #5
+(without PermaFrost NMR®)
+Chiller #1
+(with PermaFrost NMR®)
+80%
+50 deg F
+54.3 deg F
+4.3 deg F
+Demand load%
+Suction Refrigerant Temp
+Chilled Water Temp
+Approach
+Eﬃciency Improvements (Direct Beneﬁt)
+80%
+54 deg F
+56 deg F
+2 deg F
+53%
+®
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 008 ═══
+
+The following is the ﬁnancial calculations regarding the energy conservation method:
+There are two financial formulations to be considered.  At Sea Power calculations will be using the diesel 
+generated energy cost of  $0.28 per kW-hr for the deployed vessels at 3500 operating hours per year (2 
+chillers on line in pre-positioned deployment) and the Shore Power calculations using the dockside 
+electrical costs of $0.10 per kW-hr (national average) at 1750 hours per year as recommended by Chief 
+Wakeham.
+Energy Science Division
+Sea Power
+Shore Power
+Chiller #1 (with PermaFrost NMR®)
+Operating Hours 
+Elec. Cost per kW-hr
+Demand Load% 
+Annual kW-hr Consumed 
+Annual Cost to Operate
+kWh Avoided
+SAVINGS 
+3500
+0.28 (diesel)
+80%
+770,000 kW-hr
+$215,600
+49,000
+$13,720
+1750
+0.10
+80%
+385,000 kW-hr
+$38,500
+24,500
+$2,450
+Sea Power
+Shore Power
+3500
+0.28 (diesel)
+80%
+819,000 kW-hr
+$229,320
+1750
+0.10
+80%
+409,500 kW-hr
+$40,950
+Operating Hours 
+Elec. Cost per kW-hr
+Demand Load% 
+Annual kW-hr Consumed
+Annual Cost to Operate 
+Chiller #5 (without PermaFrost NMR®)
+®
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 009 ═══
+
+Conclusion
+The improved efficiency (kW per ton) at the unit at 80% load was 9.4% with and additional 3.8% increase 
+in capacity.  The improvement in the refrigerant approach, a measurable thermodynamic enhancement 
+of PermaFrost NMR®, at 80% load was 53%.  These results are highly significant.  Chiller #1 not only 
+provides chilled water at the rated GPM and design chilled water outlet temperature at reduced kW-hr and 
+cost, it also does this at a greater tonnage per kW.  This allows the chiller to produce more tonnage at less 
+energy. 
+These results are in line with what we would expect on a chiller that has only 1.6 years of actual runtime. 
+According to ASHRAE, thermal inefficiency of the heat transfer surfaces of air conditioning and refrigeration 
+systems, will cause a loss of about 7% efficiency the first year, 5% the second year, and 2% per year the 
+following years.  This loss will continue to accumulate until equilibrium is reached between flow force and 
+adhesion.  At this point the thermal boundary layer formed has achieved its maximum thickness, producing 
+maximum loss of efficiency.  Published ASHRAE information confirms these observations.  According to 
+ASHRAE, performance is degraded by as much as 30% due to the thermal degradation of internal 
+surfaces.  Higher percentages up to 40% have been observed in systems 20 years old or older.
+These identical units (Chiller #1 & #5) have approximately 1.6 years of actual runtime, which equates to a 
+loss of efficiency of 9.6% according to the above thermal inefficiency rates from ASHRAE. The efficiency 
+improvement on Chiller #1 is 9.4%, which puts these results in line with a ASHRAE.  Now that Chiller #1 
+has been treated with PermaFrost NMR®, the efficiency has been restored and the heat exchange surfaces 
+are now protected from thermal inefficiency reoccurring for the life of the unit.
+Chiller number one, treated with PermaFrost NMR®, has produced significant results.  Additionally, there 
+are several direct benefits and indirect benefits that increase the return on investment but may not be easily 
+measured.  These additional direct and indirect benefits are as follows:
+• Increased tonnage per kW will allow the staff to operate this chiller in some time periods as the only chiller 
+that will be required versus operating two chillers to capture a similar load.  The scenario of 80 percent load 
+Energy Science Division
+®
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 010 ═══
+
+factors were used because the chiller produced more available tonnage as a direct result of PermaFrost 
+NMR®'s ability to improve the heat exchange process of the chiller tubes in the evaporator and condenser. 
+• Additional benefits include special ingredients formulated for these specific chillers that condition the seals 
+(mainly the shaft seals on this design) and all bearing surfaces.  These York Marine Pak chillers contain 
+aluminum sleeve bearings and low / high speed thrust bearings that have very small tolerances for wear.  
+PermaFrost NMR® will reside on the surfaces of these components to allow the the refrigerant system to deliver above normal protection.  This benefit is directly related to additional operational hours within the 
+life cycle analysis therefore reducing maintenance costs.  PermaFrost NMR® also includes acid scavengers 
+and anti-humectants in its patented blends for added protection of the refrigeration circuit.
+Energy Science Division
+®
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+

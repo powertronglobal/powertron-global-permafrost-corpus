@@ -1,0 +1,32 @@
+Energy Science Division
+Avoided Energy Cost (savings) Per Month         ($47,369 - $25,582)/12 = $1,816
+Cost of PermaFrost NMR® installed         $8,750 / $1,816 = 5 months
+        ROI = 5 months
+Engineering Conclusions
+The client, Douglas North, Facilities Management Director, Major Tire Manufacturer [Eastern Cape Location] Plant was consulted 
+regarding this equipment after the avoided energy reporting period (post analysis) and the following 
+observations were discussed.
+ 
+        The evaporator coil has some visual mold growth on the leaving airside of the aluminum fins. This is 
+causing some additional pressure drop across the tube and fin evaporator.
+ 
+ 2     The blower drive components are not performing at the proper RPM due to the degradation of drive 
+sheaves. Once corrected, the belts should also be replaced. This is causing a reduction in the area of available 
+delivered cubic feet of supply air per minute (CFM). Please note that this condition was present during the 
+baseline data period and was not corrected until after this pilot analysis was to be completed. Now that the 
+pilot testing period has ended, this correction should commence.
+ 2     Compressor number one (1) was recently replaced and is now showing evidence of overheating. There 
+is a refrigerant leak emitting from the capillary tubing connecting the compressor to its respective safety 
+switches. Evidence of this refrigerant oil can be seen inside of the pressure controls section cabinet.
+        There are four segregated sections of evaporator coils that are joined together creating one evaporator. 
+Compressor #1 serves two of the circuits and the other two circuits are served by compressor #2. Each 
+section of the respective circuits is comprised of two thermostatic expansion valves (TXV) for each 
+compressor. Each of these TXV’s had a different superheat. This should be corrected in a timely manner. The 
+evaporator should be cleaned and the belts and sheaves should be corrected before this adjustment is 
+initiated.
+4
+1
+2
+3
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

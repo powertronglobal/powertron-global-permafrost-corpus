@@ -1,0 +1,127 @@
+ 
+ 
+Air‐Condition Before, After, % Change 
+ 
+ 
+Before 
+After 
+% Change 
+DB temp. of Indoor (oC) 
+27.02 
+27.00 
+‐0.07 
+WB temp. of Indoor (oC) 
+19.00 
+19.00 
+0.00 
+DB temp. of Outdoor (oC) 
+35.07 
+35.05 
+‐0.06 
+WB temp. of Outdoor 
+(oC) 
+17.10 
+15.82 
+‐7.49 
+DB temp. of Outlet (oC) 
+13.41 
+13.42 
+0.07 
+WB temp. of Outlet (oC) 
+12.44 
+12.43 
+‐0.08 
+Temp. of airflow 
+15.47 
+15.49 
+0.13 
+Pressure Drop (Pa) 
+302.96 
+307.41 
+1.47 
+Static Pressure (Pa) 
+0.01 
+0.00 
+‐100.00 
+Specific volume of outlet 
+air (m3/kg) 
+0.80 
+0.80 
+0.00 
+Absolute humidity (g/kg) 
+0.01 
+0.01 
+0.00 
+Dehumidify Weight 
+(kg/h) 
+2.03 
+2.08 
+2.46 
+Inlet Enthalpy (kJ/kg) 
+53.90 
+53.89 
+‐0.02 
+Outlet Enthalpy (kJ/kg) 
+35.37 
+35.32 
+‐0.14 
+Differential Enthalpy 
+(kJ/kg) 
+18.53 
+18.57 
+0.22 
+Air Volume (m3/h) 
+909.958 
+916.56 
+0.73 
+Latent Capacity (W) 
+1390.28 
+1421.95 
+2.28 
+Sensible Capacity (W) 
+4366.67 
+4383.47 
+0.38 
+Capacity (W) 
+5756.95 
+5805.42 
+0.84 
+Voltage (V) 
+230.08 
+230.04 
+‐0.02 
+Current (A) 
+9.41 
+9.26 
+‐1.59 
+Power Input (W) 
+2106.29 
+2069.42 
+‐1.75 
+Power Factor (%) 
+97.25 
+97.20 
+‐0.05 
+Frequency (Hz) 
+50.00 
+50.00 
+0.00 
+E.E.R. (W/W) 
+2.73 
+2.81 
+2.93 
+Wind Speed (m/s) 
+21.60 
+21.76 
+0.74 
+Atmospheric Pressure 
+(kPa) 
+101.51 
+101.52 
+0.01 
+ 
+Summary 
+The above test verifies that a single treatment of PermaFrost will improve the performance 
+(E.E.R.) in a new, never used R410A Split Type air conditioning unit, directly off the assembly 
+line, by approximately 2.93%. 
+ 

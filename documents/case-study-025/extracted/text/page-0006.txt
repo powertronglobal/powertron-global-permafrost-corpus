@@ -1,0 +1,38 @@
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+5
+Recovered Wasted Energy with ECM - Chiller 
+The chart below illustrates the performance restoration the ECM created in the treated chillers. The average 
+cost to operate these chillers before they were treated with PermaFrost NMR® as calculated in kW/ton was 
+0.76.
+The specific cost to operate these chillers after they 
+were treated with PermaFrost NMR® as calculated 
+in kW/ton is currently 0.46.
+The higher baseline kW/ton rating measured 
+in-situ was expected when compared to the 
+ASHRAE loss of performance efficiency and cost to 
+operate estimate for an average 21-year old chillers 
+utilizing R -134A refrigerant. The post results are 
+also in line with the average improvement savings 
+shown over more than 130,000 installations 
+globally.
+Recovered Energy
+Equating to a
+39.5% reduction
+Cost to Operate
+Pre ECM
+Post ECM
+0.30 kW/ton
+kW/ton
+0.76
+0.46
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are 
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

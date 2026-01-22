@@ -1,0 +1,14 @@
+ 
+ 
+Page 7 of 38 
+ 
+Figure 5 - Random Forest Department Store A Example 1 
+Decision tree 1 generated on 39 days of Department Store A data (dates from 10-1-19 to 10-8-19 and 5-1-20 to 5-31-20) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

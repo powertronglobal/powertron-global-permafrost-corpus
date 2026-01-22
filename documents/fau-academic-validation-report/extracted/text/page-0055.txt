@@ -1,0 +1,64 @@
+ASTM D1287: Completed Test for pH. 
+ 
+Measures the acidity or alkalinity of an aqueous solution. The pH scale ranges from 0 (very acidic) to 14 (very alkaline), 
+with a pH of 7 indicating a neutral solution equivalent to the pH of distilled water. 
+Results: 6.18 
+ 
+ 
+ASTM D2717: Completed Thermal conductivity. 
+ 
+Measures the ability to conduct heat. The higher the conductivity, the quicker molecules transfer heat under high 
+temperatures. 
+Results: Refrigerant oil only - 0.94; with PermaFrost - 1.18 
+ 
+ 
+ASTM D1384: Completed Corrosion test. 
+ 
+The chemical attack on metal or other solid contaminants in a lubricant. Common corrosive contaminants are (1) water, 
+which causes rust, and (2) acids, which may form as oxidation products in deteriorating oil. 
+Results: -3 to -5 
+ 
+ 
+ASTM D4052, D70: Completed API gravity @ 60°F. 
+ 
+Higher API gravity values translate into lower material density, which would mean a lower specific gravity. 
+ 
+Results: .9200 
+ 
+ 
+EPA 6010: Completed Total metals. 
+ 
+Measures the amount of metal particles in lubricants. 
+ 
+Results: all < 1.0 PPM 
+ 
+ 
+EPA 7471: Atomic absorption for mercury. 
+ 
+The process of hydrocarbon analysis to determine mercury content. 
+ 
+Results: < .05 
+ 
+ 
+EPA 9020B: Total halogens. 
+ 
+The standard for determining the percentage concentration of all halogens in lubricants. 
+ 
+Results: 364 
+ 
+ 
+PPMANSI - Compatibility with Hydrocarbons (Group 1, 2, 3): Completed 
+ 
+Results: Compatible 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

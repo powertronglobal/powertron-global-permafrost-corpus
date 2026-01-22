@@ -1,0 +1,49 @@
+16        IPMVP Framework and Options 
+ 
+ 
+ 
+4.6  Overview Of IPMVP Options  
+The energy quantities in the several forms of Equation 1) can be measured by one or more of 
+the following techniques:  
+ 
+Utility or fuel supplier invoices, or reading utility meters and making the same adjustments to 
+the readings that the utility makes.  
+ 
+Special meters isolating an ECM or portion of a facility from the rest of the facility. 
+Measurements may be periodic for short intervals, or continuous throughout the baseline or 
+reporting periods.  
+ 
+Separate measurements of parameters used in computing energy use. For example, 
+equipment operating parameters of electrical load and operating hours can be measured 
+separately and multiplied together to compute the equipment’s energy use. 
+ 
+Measurement of proven proxies for energy use. For example, if the energy use of a motor 
+has been correlated to the output signal from the variable speed drive controlling the motor, 
+the output signal could be a proven proxy for motor energy. 
+ 
+Computer simulation that is calibrated to some actual performance data for the system or 
+facility being modeled. One example of computer simulation is DOE-2 analysis for buildings 
+(Option D only).  
+If the a energy value is already known with adequate accuracy or when it is more costly to 
+measure than justified by the circumstances, then measurement of energy may not be 
+necessary or appropriate. In these cases, estimates may be made of some ECM parameters, 
+but others must be measured (Option A only).   
+IPMVP provides four Options for determining savings (A, B, C and D). The choice among the 
+Options involves many considerations including the location of the measurement boundary (see 
+Chapter 4.4). If it is decided to determine savings at the facility level, Option C or D may be 
+favored. However if only the performance of the ECM itself is of concern, a retrofit-isolation 
+technique may be more suitable (Option A, B or D).  
+What Basis for Adjustment, or Which Type of ‘Savings?’ 
+Factors to consider when choosing between avoided energy use and normalized savings: 
+“Avoided Energy Use” style of savings (Equation 1b)):  
+- are dependent upon the reporting period’s operating conditions. Even though savings 
+can be properly adjusted for phenomena such as weather, the level of reported savings 
+depends upon the actual weather.  
+- cannot be directly compared with savings predicted under baseline conditions. 
+“Normalized savings” style of savings (Equation 1c): 
+- are unaffected by reporting-period conditions since the fixed set of conditions are 
+established once and not changed. 
+- can be directly compared with savings predicted under the same set of fixed conditions.  
+- can only be reported after a full cycle of reporting-period energy use, so that the 
+mathematical correlation between reporting-period energy and operating conditions can 
+be derived. 

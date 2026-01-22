@@ -1,0 +1,362 @@
+ 
+ 
+ 
+33.67	
+  kW	
+  /	
+  12	
+  tons	
+  =	
+  2.80	
+  kilowatts	
+  per	
+  ton	
+  	
+  	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+4.	
+  	
+  	
+  	
+  Technical	
+  
+	
+  
+When	
+  PermaFrost	
+  NMR®	
+  is	
+  installed	
+  into	
+  a	
+  unit,	
+  a	
+  molecular	
+  transformation	
+  
+develops.	
+  This	
+  transformation	
+  displaces	
+  layers	
+  of	
+  lubricating	
+  fluids	
+  that	
+  have	
+  been	
+  
+impinged	
+  in	
+  the	
+  evaporator	
+  and	
+  condenser	
+  heat	
+  exchanger	
+  surfaces.	
+  When	
+  the	
+  fluid	
+  
+is	
+  displaced,	
+  the	
+  evaporator	
+  and	
+  condenser	
+  can	
+  transfer	
+  additional	
+  heat	
+  energy	
+  
+through	
+  the	
+  tube	
+  walls	
+  (thermal	
+  restoration).	
+  This	
+  enables	
+  the	
+  evaporator	
+  to	
+  
+completely	
+  dehumidify	
+  the	
+  air	
+  per	
+  the	
+  unit’s	
+  design	
+  specifications.	
+  	
+  When	
+  more	
+  
+dehumidification	
+  is	
+  developed,	
+  the	
+  enthalpy	
+  (a	
+  measure	
+  of	
+  how	
+  many	
+  grains	
+  of	
+  
+moisture	
+  are	
+  contained	
+  in	
+  a	
+  pound	
+  of	
+  air)	
+  increases.	
+  
+	
+  
+If	
+  the	
+  CFM	
+  and	
+  4.5	
+  remain	
+  constant,	
+  then	
+  it	
+  is	
+  the	
+  effect	
+  of	
+  PermaFrost	
+  NMR®’s	
+  
+Enthalpy	
+  Delta	
+  increase	
+  that	
+  restores	
+  (increases)	
+  the	
+  lost	
+  capacity	
+  (Tons).	
+  	
+  
+	
+  
+If	
+  the	
+  tonnage	
+  increases,	
+  then	
+  the	
+  kW/ton	
+  decreases	
+  by	
+  means	
+  of	
+  mathematical	
+  
+function,	
+  demonstrating	
+  PermaFrost	
+  NMR®’s	
+  post-­‐treatment	
+  effect	
+  lowering	
+  the	
+  
+electrical	
+  cost	
+  of	
+  every	
+  ton	
+  of	
+  cooling	
+  produced,	
+  no	
+  matter	
+  how	
+  many	
+  tons	
+  are	
+  called	
+  
+for	
+  at	
+  any	
+  given	
+  time.	
+  	
+  
+	
+  	
+  
+PermaFrost	
+  NMR®	
+  cannot	
+  change	
+  any	
+  unit’s	
+  electrical	
+  characteristics	
+  i.e.	
+  everything	
+  
+that	
+  requires	
+  electricity	
+  is	
+  rated	
+  for	
+  the	
+  required	
+  power	
+  under	
+  different	
+  loads	
+  e.g.	
+  
+compressors	
+  and	
+  fans.	
+  	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+5.	
+  	
+  	
+  	
+  Conclusion	
+  
+	
+  
+The	
+  International Cinema Chain	
+  testing	
+  results	
+  validate	
+  the	
+  performance	
+  of	
+  the	
+  2	
+  x	
+  RTUs	
+  is	
+  consistent	
+  
+with	
+  a	
+  previously	
+  tested	
+  UL	
+  (formerly	
+  Underwriters	
+  Laboratories)	
+  unit	
+  for	
+  
+International Cinema Chain	
+  as	
+  well	
+  as	
+  +300	
+  case	
+  studies	
+  for	
+  review.	
+  	
+  The	
+  results	
+  of	
+  the	
+  testing	
+  
+demonstrate	
+  the	
+  efficacy	
+  of	
+  PermaFrost	
+  NMR®	
+  by	
+  restoring	
+  the	
+  evaporator	
+  and	
+  
+condenser	
+  heat	
+  transfer	
+  capabilities	
+  per	
+  manufacturer’s	
+  design,	
+  thereby	
+  increasing	
+  
+cooling	
+  capacity	
+  while	
+  lowering	
+  the	
+  electrical	
+  cost	
+  per	
+  ton	
+  of	
+  cooling.	
+  We	
+  expect	
+  the	
+  
+capacity	
+  to	
+  improve	
+  further	
+  once	
+  circuit	
+  2	
+  on	
+  each	
+  pilot	
+  system	
+  has	
+  achieved	
+  the	
+  
+required	
+  300+	
+  runtime	
+  hours.	
+  
+	
+  
+	
+  
+	
+  
+	
+  

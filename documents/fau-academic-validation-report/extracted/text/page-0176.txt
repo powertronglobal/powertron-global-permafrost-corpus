@@ -1,0 +1,50 @@
+76        Appendix A Examples 
+ 
+It was assumed that the impact on plant electrical demand would be minimal since it is likely 
+that there will be no change in the maximum number of compressors that will function during 
+plant operations.  
+M&V Plan  A full M&V Plan is shown on EVO’s subscriber website (www.evo-world.org). It uses 
+IPMVP Volume I, EVO 10000 – 1:2012, Option B, for ongoing measurement of savings to 
+indicate changes in compressed-air leakage rates. IPMVP Equation 1b) was used to adjust 
+baseline energy to reporting period conditions. The M&V Plan aimed to minimize extra 
+measurement costs so a simple three-phase true-rms wattmeter was added to the electrical 
+supply of the motor-control center feeding all equipment in the compressor room. This 
+measurement boundary encompassed 6 compressors, 3 compressed-air driers, and all other 
+minor auxiliary systems in the compressor room. Heat generated within the compressor room is 
+not an interactive effect since it does not affect any other energy uses. Plant staff were 
+instructed to read the meter at the end of each shift (i.e. three times a day) whether the plant 
+was operating or not. The meter was installed three months before leak-management activities 
+began.  
+The static factors related to plant design and operations were listed, as a reference for any 
+future possible non-routine adjustments.  They included the number, capacity and usage 
+patterns of all compressed-air-driven equipment, plant production-line speed, and vehicle 
+models being produced. 
+The baseline period electricity use, for operating and non-operating shifts, were quite different. 
+Also within either kind of shift there were slight variations in energy use. No specific 
+independent variable could be identified to account for the variations. It was decided to use the 
+mean energy use of each kind of shift in the baseline period for determining the savings. A 
+criterion was established for determining when sufficient readings had been made of baseline 
+energy per shift to meet the Retail Chain A 95/5 uncertainty Retail Chain A for any savings report. 
+Results  A full set of savings results are shown on the EVO subscriber website. It was found 
+that to meet the 95/5 uncertainty criterion, the variation in shift energy during the baseline 
+required readings for a seven-week period before retrofit. The baseline values were therefore 
+established as the seven-week average electricity use of operating and non-operating shifts. 
+It was noted that after the leakage repair activity was completed there was much less variation 
+in the reporting-period energy use per shift.  Therefore the uncertainty Retail Chain A could be met by 
+monthly savings reports.  
+Energy savings were computed as the difference between actual energy use every month and 
+the adjusted-baseline energy determined by multiplying the number of actual shifts in the month 
+by the baseline mean energy use for each type of shift.  
+The appropriate price of electricity was applied to the consumption savings, assuming that the 
+utility’s “peak period” rates only applied to three hours within the second shift.  No demand 
+savings were calculated.   
+These measurements continued as part of normal plant operations. The plant-engineering 
+department adjusted the baseline energy periodically as static factors changed. Operating staff 
+provided shift energy readings and the engineering department reported savings every month. 
+Variations from past savings patterns became a focus for assessing the maintenance practices 
+related to the compressed-air system. 
+A-5  Turbine/Generator Set Improvement – Option B 
+Situation  A pulp mill used a steam turbine to generate much of its own electricity. Recent 
+process changes had reduced the available steam for the turbine-generator (TG) unit from its 
+original design level. As a result electricity output and thermal efficiency of the TG unit was 
+reduced. The mill installed a new more efficient rotor designed for the new smaller steam flow. A 

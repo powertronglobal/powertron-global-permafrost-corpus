@@ -1,0 +1,26 @@
+Energy Science Division
+Utilizing the data in the above charts, the following steps were taken to calculate an accurate payback for 
+Commercial Real Estate Developer Enterprises for implementing this ECM.  First, the annual cost is calculated to run the chiller at 
+baseline levels for 3,500 hours per year.
+kW Baseline = .47 kW/ton * 151 tons = 71kW
+Annual kWh Baseline = 71kW * 3,500 hours = 248,500 kWh
+Annual Cost Baseline = 248,500 kWh * .11 cents = $27,335
+The next step is to adjust the tonnage from 151 tons to 218 tons to match the tonnage of the post installation test. 
+        Adjusted Baseline Tonnage = 218 tons 
+        Adjusted kW Baseline = .47 kW/ton * 218 tons = 102.5 kW
+        Adjusted Baseline kWh =  102.5 * 3,500 Annual Operating Hrs = 358,750 kWh
+        Revised Cost to Run Baseline = 358,750 kWh * $.11 = $39,463
+The cost to run the chiller at 3,500 hours per year at 218 tons utilizing original baseline eﬃciency is calculated at 
+$39,462 per year. 
+The cost of running the chiller at 218 tons utilizing the improved post installation eﬃciency derived from 
+eliminating thermal inefficiency:
+        kW ERP =  .30 kW/ton * 218 tons = 65.4 kW
+        Annual kWh ERP = 65.4 kW * 3,500 hours = 228,900 kWh
+        Annual Cost ERP = 228,900 kWh * .11 cents = $25,179
+        Annual Savings = $39,463- $25,179=$14,284
+        Monthly Savings = $14,284/12=$1,190
+        Finally, the estimated the time to payback the investment in PermaFrost NMR® is determined. With an 
+initial investment of $12,800 for the required amount of PermaFrost NMR® divided by the expected monthly 
+savings of $1,190, the simple payback period is 11 months.  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

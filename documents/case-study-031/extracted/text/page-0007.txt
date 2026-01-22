@@ -1,0 +1,105 @@
+.651
+POST
+BASELINE
+.624
+kW/ton
+REDUCTION
+4.1%
+POST
+BASELINE
+6.8%
+4.4%
+POST
+BASELINE
+COP
+IMPROVEMENT
+5.40
+201.8
+188.0
+5.64
+Key Results for Chiller #3 with PermaFrost NMR® ECM
+York
+YSDBCBS3-CLE
+SFKM433640
+R22
+350
+5,600
+2002
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+455.7
+280.7
+41.9
+91
+44.3
+54.6
+83.2
+92.1
+10.3
+188.0
+0.624
+301.5
+702
+84
+77
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Saturated Suction Temperature 
+ 
+ 
+ 
+Discharge Refrigerant Temperature
+Chilled Water Leaving Temp (Supply)
+Chilled Water Entering Temp (Return)
+Condenser Water Temp Entering Chiller
+Condenser Water Temp Leaving Chiller
+Chilled Water Delta T
+kW (V x A x 1.47) 
+ 
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Chiller GPM
+Vane Position % During Testing 
+OAT 
+ 
+450.0
+305.0
+42.7
+95.4
+44
+54.6
+82.7
+91.3
+10.6
+201.8
+0.651
+310.0
+701.37
+86
+68
+6
+Notes
+The chiller provides cooling to the data center in 
+[Northeast Location]. Given the facility load and the two 
+chillers partially comprising the plant, this 
+chiller runs approximately 5,600 hours or more 
+annually prior to the ECM being implemented. 
+REDUCTION
+Calculated kW
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

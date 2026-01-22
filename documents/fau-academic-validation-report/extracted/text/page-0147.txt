@@ -1,0 +1,51 @@
+ 
+Other Common M&V Issues       47 
+ 
+3. Low Energy Variation & High-Value ECM.  With low variation in energy use, the level of 
+uncertainty is often low, so Option A techniques may be most suitable. However, since you 
+expect high savings, small improvements in precision may have monetary rewards large 
+enough to merit more precise metering and data analysis, if you can keep M&V costs 
+appropriate relative to the savings. For example, if the savings from an ECM are $1,000,000 
+annually, you may decide to increase the $5,000 annual M&V cost to $20,000, if it increases 
+precision and provides more operational data. Alternatively, a high-value ECM may be 
+clearly measurable with Option C. Option C can keep M&V costs low, if simple means are 
+used to monitor static factors to detect the need for non-routine adjustments. 
+4. High Energy Variation & High-Value ECM.  This situation allows appropriate uncertainty 
+reduction through extensive data collection and analysis using Options A, B or D.  However 
+savings are also likely to show in the utility records, so that Option C techniques may be 
+used with careful monitoring of static factors to detect the need for non-routine adjustments.  
+The reporting period may have to span multiple normal cycles of facility operation.   
+8.6  Verification by an Independent Verifier  
+Where a contractor is hired by a facility owner to make and report energy savings, the owner 
+may need an independent verifier to review the savings reports. This independent verifier 
+should begin by reviewing the M&V Plan during its preparation, to ensure that the savings 
+reports will satisfy the owner's expectations for uncertainty.  
+The independent review could also examine non-routine adjustments. However full review of 
+non-routine adjustments requires good understanding of the facility, its operations and energy 
+engineering calculation techniques. The facility owner should provide summaries of changes in 
+static factors so that the verifier can focus on the engineerign calculations in the non-routine 
+adjustments. 
+An energy performance contract requires that both parties believe that the performance 
+payments are based on valid information. An independent verifier may be helpful to ensure 
+measurement validity and to prevent conflicts. If conflicts arise during the reporting period, this 
+independent verifier can help to resolve the conflicts. 
+Independent verifiers are typically engineering consultants with experience and knowledge in 
+ECMs, M&V and energy performance contracting. Many are members of industry professional 
+societies, or are Certified Measurement and Verification Professionals (CMVP®s).19 
+8.7  Data for Emission Trading 
+Adherence to IPMVP can provide increased confidence in energy-savings reports, which also 
+increases confidence in associated reports of emission-reduction commodities.  
+Combined with the specific M&V Plan of each project, IPMVP enhances consistency of 
+reporting and enables validation and verification of energy-saving projects. However to verify an 
+emission-reduction commodity, IPMVP and the project's M&V Plan must be used in conjunction 
+with the emission-trading program's specific guidance on converting energy savings into 
+equivalent emissions reductions. 
+Emission trading will be facilitated if the following energy-reporting methods are considered 
+when designing the process for determining the units of energy saved. 
+ 
+Electrical savings should be split into peak period and off peak periods, and ozone season 
+and non-ozone season when NOx or VOC trading is involved. These periods are defined by 
+the relevant emission-trading program. 
+                                                  
+19 The CMVP® program is a joint activity of Efficiency Valuation Organization and the Association of 
+Energy Engineers (AEE). It is accessible through EVO’s website www.evo-world.org.  

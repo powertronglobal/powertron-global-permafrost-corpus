@@ -1,0 +1,40 @@
+ 
+References         65 
+ 
+EN 14154-2:2005+A1:2007 Water meters - Part 2: Installation and conditions of use 
+EN 14154-3:2005+A1:2007 Water meters - Part 3: Test methods and equipment 
+EN 14236:2007 Ultrasonic domestic gas meters 
+EN 50470-1:2006 Electricity metering equipment (a.c.) - Part 1: General requirements, 
+tests and test conditions - Metering equipment (class indexes A, B and C) 
+EN 50470-2:2006 Electricity metering equipment (a.c.) - Part 2: Particular requirements 
+- Electromechanical meters for active energy (class indexes A and B) 
+EN 50470-3:2006 Electricity metering equipment (a.c.) - Part 3: Particular requirements 
+- Static meters for active energy (class indexes A, B and C) 
+ 
+Other European and Interantional standards for  measurements and interpretation of data are: 
+EN ISO 4259  Petroleum products - Determination and application of precision data in 
+relation to methods of test 
+EN 24185  Measurement of liquid flow in closed conduits - Weighing method (ISO 
+4185:1980) 
+EN 29104  Measurement of fluid flow in closed conduits -- Methods of evaluating the 
+performance of electromagnetic flow-meters for liquids 
+EN ISO 5167  Measurement of fluid flow by means of pressure differential devices - 
+Part 1: Orifice plates, nozzles and Venturi tubes inserted in circular 
+cross-section conduits running full 
+EN ISO 6817  Measurement of conductive liquid flow in closed conduits - Methods 
+using electromagnetic flow-meters (ISO 6817:1992) 
+EN ISO 9300  Measurement of gas flow by means of critical flow Venturi nozzles 
+EURACHEM  Quantifying Uncertainty in Analytical Measurement 
+EUROLAB Technical Report “Measurement Uncertainty – a collection for beginners” 
+ISO 11453  Statistical interpretation of data - Tests and confidence intervals relating to 
+proportions (1996) 
+ISO 16269-7  Statistical interpretation of data - Part 7: Median - Estimation and 
+confidence interval (2001) 
+ISO 3534  Statistics - Vocabulary and symbols 
+ISO 5479  Statistical interpretation of data - Tests for departure from the normal 
+distribution (1997) 
+ISO 5725  Accuracy (trueness and precision) of measurement method and results 
+ISO/TR 5168  Measurement of fluid flow - Evaluation of uncertainties 
+ISO/TR 7066-1  Assessment of uncertainty in calibration and use of flow 
+measurement devices - Part 1: Linear calibration relationships 
+ 

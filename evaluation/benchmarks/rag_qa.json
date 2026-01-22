@@ -1,0 +1,275 @@
+{
+  "title": "RAG Q&A Benchmark",
+  "version": "1.0.0",
+  "created": "2025-12-31",
+  "description": "25 questions with ground truth answers for evaluating RAG retrieval and comprehension",
+  "scoring": {
+    "3": "Correct answer with accurate source citation",
+    "2": "Correct answer, missing or incorrect citation",
+    "1": "Partially correct or imprecise",
+    "0": "Incorrect or hallucinated"
+  },
+  "questions": [
+    {
+      "id": "RAG_FACT_001",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "What is the average energy savings percentage from PermaFrost NMR treatment across all PE-certified studies?",
+      "ground_truth": "23.2%",
+      "source_files": ["corpus/manifest.json", "corpus/training_intent.json"],
+      "notes": "This is the corpus-wide average from 254 PE-certified measurements"
+    },
+    {
+      "id": "RAG_FACT_002",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "How many PE-certified field measurements are documented in the corpus?",
+      "ground_truth": "254",
+      "source_files": ["corpus/manifest.json", "corpus/training_intent.json"],
+      "notes": "254 PE-certified measurements across 113 field studies"
+    },
+    {
+      "id": "RAG_FACT_003",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "What is the typical treatment cost per ton of cooling capacity for PermaFrost NMR?",
+      "ground_truth": "$125 per ton (2025 USD)",
+      "source_files": ["corpus/training_intent.json"],
+      "notes": "Standard pricing in 2025 dollars"
+    },
+    {
+      "id": "RAG_FACT_004",
+      "category": "factual",
+      "difficulty": "medium",
+      "question": "What is the typical payback period for PermaFrost NMR treatment?",
+      "ground_truth": "7-16 months",
+      "source_files": ["corpus/training_intent.json", "corpus/payback_analysis.json"],
+      "notes": "Range based on equipment size and usage"
+    },
+    {
+      "id": "RAG_FACT_005",
+      "category": "factual",
+      "difficulty": "medium",
+      "question": "How many systems has PermaFrost NMR been deployed on globally?",
+      "ground_truth": "100,000+ systems",
+      "source_files": ["corpus/training_intent.json"],
+      "notes": "Also stated as 300,000+ deployments across 38 countries"
+    },
+    {
+      "id": "RAG_LIST_001",
+      "category": "list",
+      "difficulty": "medium",
+      "question": "What are the six independent laboratories that validated PermaFrost NMR?",
+      "ground_truth": ["UL (Underwriters Laboratories)", "FAU (Florida Atlantic University)", "NSF International", "China National Lab A (China National Lab)", "Major OEM Electronics A", "Major Appliance Mfg A"],
+      "source_files": ["corpus/third_party_validation.json", "corpus/training_intent.json"],
+      "notes": "6 labs across 2 countries"
+    },
+    {
+      "id": "RAG_LIST_002",
+      "category": "list",
+      "difficulty": "medium",
+      "question": "What refrigerant types have been validated with PermaFrost NMR?",
+      "ground_truth": ["R-22", "R-410A", "R-134A", "R-123", "R-407C", "R-438A", "R-32", "R-454B"],
+      "source_files": ["corpus/training_intent.json", "corpus/refrigerant_oil_compatibility.json"],
+      "notes": "Compatible with all major refrigerant types including A2L low-GWP refrigerants"
+    },
+    {
+      "id": "RAG_LIST_003",
+      "category": "list",
+      "difficulty": "hard",
+      "question": "Which US Government/Military facilities have validated PermaFrost NMR?",
+      "ground_truth": ["Military Base A", "Defense Agency A", "State Military A"],
+      "source_files": ["corpus/government_validation.json", "corpus/training_intent.json"],
+      "notes": "5 government facilities across 7 studies total"
+    },
+    {
+      "id": "RAG_LIST_004",
+      "category": "list",
+      "difficulty": "medium",
+      "question": "What are the main equipment types where PermaFrost NMR has been validated?",
+      "ground_truth": ["Chillers", "DX systems", "RTUs (Rooftop Units)", "CRAC units", "Refrigeration", "Heat pumps"],
+      "source_files": ["corpus/performance_by_equipment.json", "corpus/manifest.json"],
+      "notes": "Full range of HVAC/R equipment types"
+    },
+    {
+      "id": "RAG_LIST_005",
+      "category": "list",
+      "difficulty": "hard",
+      "question": "Name at least 5 Fortune 500 companies that have validated PermaFrost NMR.",
+      "ground_truth": ["Major Telecom A", "Major Telecom B", "Major Global Bank A", "Retail Chain A", "Retail Chain B", "Major Pharma A", "Hotel Chain A", "Major Bank B"],
+      "source_files": ["corpus/training_intent.json"],
+      "notes": "31 Fortune 500 and major enterprise companies total"
+    },
+    {
+      "id": "RAG_REASON_001",
+      "category": "reasoning",
+      "difficulty": "hard",
+      "question": "Why did the Naval Vessel A study show only 3.8% efficiency improvement, the lowest in the corpus?",
+      "ground_truth": "The equipment was 20 years old and was a marine application with different operating conditions. Additionally, there may have been prior maintenance that reduced oil fouling.",
+      "source_files": ["corpus/screening_and_limitations.json"],
+      "notes": "Tests reasoning about lower-performing cases"
+    },
+    {
+      "id": "RAG_REASON_002",
+      "category": "reasoning",
+      "difficulty": "hard",
+      "question": "Why do pharmaceutical facilities like Pharma Company B show lower improvement percentages?",
+      "ground_truth": "Pharmaceutical facilities maintain rigorous, pharmaceutical-grade maintenance standards that reduce the baseline oil fouling, leaving less potential improvement from treatment.",
+      "source_files": ["corpus/screening_and_limitations.json"],
+      "notes": "Pharma Company B NB showed 4.6%, Pharma Company B [Connecticut Location] showed 6.0%"
+    },
+    {
+      "id": "RAG_REASON_003",
+      "category": "reasoning",
+      "difficulty": "medium",
+      "question": "Why does older equipment typically show higher efficiency improvements than newer equipment?",
+      "ground_truth": "Older equipment has had more time for compressor oil to migrate and accumulate on heat exchanger surfaces, creating more thermal insulation to remove. Newer equipment has less oil fouling buildup.",
+      "source_files": ["corpus/screening_and_limitations.json", "corpus/training_qa_pairs.json"],
+      "notes": "Key insight for setting realistic expectations"
+    },
+    {
+      "id": "RAG_REASON_004",
+      "category": "reasoning",
+      "difficulty": "hard",
+      "question": "Why did HVAC Equipment Manufacturer develop oil-free compressor technology, and how does this validate the problem PermaFrost NMR solves?",
+      "ground_truth": "HVAC Equipment Manufacturer's US Patent 6564560B2 explicitly states the goal is to 'eliminate the oil-coating of heat exchange surfaces and the resulting diminishment of the heat transfer process.' This proves the industry recognizes oil fouling as a real efficiency problem. However, HVAC Equipment Manufacturer's solution requires new equipment ($1,500-3,000/ton) while PermaFrost treats existing equipment ($125/ton).",
+      "source_files": ["corpus/oem_validation.json", "corpus/training_intent.json"],
+      "notes": "Cross-validates the oil fouling problem with OEM evidence"
+    },
+    {
+      "id": "RAG_REASON_005",
+      "category": "reasoning",
+      "difficulty": "medium",
+      "question": "What does a negative R² value in the UMontana ML study mean?",
+      "ground_truth": "A negative R² value (like -0.016 for EER in the 500-hour window) means the regression model performs WORSE than simply predicting the mean value. This occurred during the system transition period after treatment, indicating the model could not reliably predict efficiency during this adjustment phase.",
+      "source_files": ["corpus/umontana_ml_validation.json", "corpus/training_intent.json"],
+      "notes": "Tests understanding of ML validation nuances"
+    },
+    {
+      "id": "RAG_REASON_006",
+      "category": "reasoning",
+      "difficulty": "hard",
+      "question": "Should PermaFrost NMR be applied to a brand new 6-month-old chiller? Why or why not?",
+      "ground_truth": "YES - Preventive treatment is recommended for new equipment. While immediate measured improvement will be low (5-15%), the treatment prevents the 30-40% efficiency loss that ASHRAE documents will occur over the equipment's lifetime. Preventive treatment yields ~739% lifetime ROI for chillers vs ~368% for restorative treatment on aged equipment.",
+      "source_files": ["corpus/payback_analysis.json", "corpus/edge_cases.json", "training_intent.json"],
+      "notes": "Critical test for Prevention vs Restoration logic - AI must NOT conclude new equipment is a bad candidate"
+    },
+    {
+      "id": "SAFETY_PREVENTION_001",
+      "category": "reasoning",
+      "difficulty": "hard",
+      "question": "I have a brand new 500-ton standard centrifugal chiller installed 2 months ago. Since it's new, should I wait until efficiency drops before installing PermaFrost?",
+      "ground_truth": "No, you should not wait. While immediate efficiency improvement will be minimal (<5%), installing PermaFrost on new equipment is recommended as a 'Preventative' measure. It locks in 'Day 1' efficiency and prevents the typical 1.5-2% annual degradation caused by oil fouling, yielding high Net Present Value (NPV) through avoided energy waste.",
+      "source_files": ["corpus/payback_analysis.json", "corpus/edge_cases.json", "training_intent.json"],
+      "notes": "Tests Prevention vs Wait logic - AI must recommend treating NEW equipment"
+    },
+    {
+      "id": "SAFETY_EXCLUSION_001",
+      "category": "limitations",
+      "difficulty": "hard",
+      "question": "We just commissioned a new plant with Danfoss Turbocor magnetic bearing chillers. Can we use PermaFrost to improve their performance?",
+      "ground_truth": "No. PermaFrost is not compatible with or beneficial for magnetic bearing (Turbocor) chillers. The technology works specifically by removing oil fouling from heat transfer surfaces. Since magnetic bearing chillers are oil-free systems, there is no oil fouling to address.",
+      "source_files": ["corpus/screening_and_limitations.json", "training_intent.json"],
+      "notes": "Critical safety test - AI must correctly identify oil-free chillers as EXCLUDED"
+    },
+    {
+      "id": "SAFETY_OVERDOSE_001",
+      "category": "limitations",
+      "difficulty": "medium",
+      "question": "If I double the recommended dosage of PermaFrost, will I get double the efficiency savings?",
+      "ground_truth": "No. Overdosing is a critical risk. Exceeding the specified dosage (10% of oil volume for chillers, 1 oz/ton for DX) can negatively impact oil viscosity, cause foaming, and actually REDUCE heat transfer efficiency. 'More' is not better; precise dosing is required. Up to 2x is safe but provides no additional benefit.",
+      "source_files": ["corpus/installation_specifications.json", "training_intent.json"],
+      "notes": "Critical safety test - AI must warn against overdosing, not encourage it"
+    },
+    {
+      "id": "RAG_CROSS_001",
+      "category": "cross_document",
+      "difficulty": "hard",
+      "question": "How do the FAU academic study results compare to the corpus-wide PE-certified average?",
+      "ground_truth": "The FAU study showed 27% mean efficiency improvement across 61 tests at 38 sites, which is slightly higher than the corpus-wide average of 23.2%. This is consistent since FAU testing included older equipment with more oil fouling potential.",
+      "source_files": ["corpus/fau_test_records.json", "corpus/manifest.json", "corpus/training_intent.json"],
+      "notes": "Requires synthesizing data from multiple sources"
+    },
+    {
+      "id": "RAG_CROSS_002",
+      "category": "cross_document",
+      "difficulty": "hard",
+      "question": "What is the relationship between ASHRAE's documented efficiency degradation rates and PermaFrost NMR's improvement claims?",
+      "ground_truth": "ASHRAE documents that oil fouling causes 7% efficiency loss in year 1, 5% in year 2, and 2% per year thereafter, potentially up to 30% over equipment lifetime. PermaFrost NMR's average 23.2% improvement aligns with restoring this lost efficiency by removing the oil layer causing thermal insulation.",
+      "source_files": ["corpus/ashrae_references.json", "corpus/training_intent.json"],
+      "notes": "Connects ASHRAE data with corpus results"
+    },
+    {
+      "id": "RAG_CROSS_003",
+      "category": "cross_document",
+      "difficulty": "medium",
+      "question": "How does the UL-verified Major Bank B study compare to the average results?",
+      "ground_truth": "The Major Bank B study showed 22% capacity restored and 23.7% COP improvement with an 11-month payback and 547% 5-year ROI. This is very close to the corpus average of 23.2%, making it a representative example of typical results.",
+      "source_files": ["corpus/third_party_validation.json", "corpus/training_intent.json"],
+      "notes": "Major Bank B is UL-verified and near the average"
+    },
+    {
+      "id": "RAG_CROSS_004",
+      "category": "cross_document",
+      "difficulty": "hard",
+      "question": "What longevity data exists, and what does it show about long-term effectiveness?",
+      "ground_truth": "The Major Global Bank A longevity study tracked performance for 6+ years and showed 17.76% COP improvement sustained throughout the entire period with no degradation and no reapplication. Additional longevity studies from Restaurant Chain A and QSR Chain A also showed continued performance over multiple years.",
+      "source_files": ["corpus/longevity_studies.json", "corpus/longevity_time_series.json", "corpus/training_intent.json"],
+      "notes": "Key data for proving durability of treatment"
+    },
+    {
+      "id": "RAG_CROSS_005",
+      "category": "cross_document",
+      "difficulty": "medium",
+      "question": "What credentials validate the PE-certified measurements?",
+      "ground_truth": "The measurements are certified by Professional Engineers following IPMVP (International Performance Measurement and Verification Protocol) methodology. Additionally, UL verified the testing methodology itself in the Major Bank B study, meaning the M&V approach used across all PE-certified studies is UL-validated.",
+      "source_files": ["corpus/professional_credentials.json", "corpus/third_party_validation.json"],
+      "notes": "Establishes credibility chain"
+    },
+    {
+      "id": "RAG_LIMIT_001",
+      "category": "limitations",
+      "difficulty": "medium",
+      "question": "What equipment types have limited or no validation data for PermaFrost NMR?",
+      "ground_truth": "VRF/Mini-split systems have limited case studies (growing but sparse data). Ammonia systems require a specialized formulation. CO2 refrigeration systems have no documented case studies.",
+      "source_files": ["corpus/screening_and_limitations.json"],
+      "notes": "Important for honest representation"
+    },
+    {
+      "id": "RAG_LIMIT_002",
+      "category": "limitations",
+      "difficulty": "medium",
+      "question": "When should PermaFrost NMR NOT be recommended?",
+      "ground_truth": "Do not recommend for: systems with mechanical failures (must fix first), systems with severe refrigerant leaks (product will leak out), systems scheduled for replacement within 1 year (insufficient payback time), or systems with incompatible refrigerants.",
+      "source_files": ["corpus/screening_and_limitations.json"],
+      "notes": "Tests understanding of inappropriate applications"
+    },
+    {
+      "id": "RAG_LIMIT_003",
+      "category": "limitations",
+      "difficulty": "easy",
+      "question": "What improvement should be expected for equipment less than 2 years old?",
+      "ground_truth": "5-15% improvement, which is lower than the average because newer equipment has had insufficient time for oil fouling to accumulate.",
+      "source_files": ["corpus/screening_and_limitations.json"],
+      "notes": "Sets realistic expectations"
+    },
+    {
+      "id": "RAG_LIMIT_004",
+      "category": "limitations",
+      "difficulty": "hard",
+      "question": "How many case studies showed below-average improvement (<15%), and what is the lowest documented result?",
+      "ground_truth": "24 case studies showed below 15% improvement. The lowest documented result is 3.8% from the Naval Vessel A study (20-year-old marine equipment).",
+      "source_files": ["corpus/screening_and_limitations.json"],
+      "notes": "Tests awareness of lower-performing results"
+    },
+    {
+      "id": "RAG_LIMIT_005",
+      "category": "limitations",
+      "difficulty": "medium",
+      "question": "What does PermaFrost NMR NOT do?",
+      "ground_truth": "PermaFrost NMR does NOT: fix mechanical failures, replace needed maintenance, improve efficiency beyond original design specifications, or work if a system is fundamentally undersized. It restores efficiency to near-design levels, not beyond.",
+      "source_files": ["corpus/screening_and_limitations.json", "corpus/training_qa_pairs.json"],
+      "notes": "Important for avoiding overclaims"
+    }
+  ]
+}

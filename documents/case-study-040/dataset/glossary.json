@@ -1,0 +1,35 @@
+{
+  "doc_id": "pdf_042",
+  "terms": [
+    {
+      "term": "Energy Conservation Measure",
+      "abbreviation": "ECM",
+      "definition": null
+    },
+    {
+      "term": "The Association of Energy Engineers",
+      "abbreviation": "AEE",
+      "definition": null
+    },
+    {
+      "term": "Conditioning Engineers",
+      "abbreviation": "ASHRAE",
+      "definition": null
+    },
+    {
+      "term": "The Efficiency \nValuation Organization",
+      "abbreviation": "EVO",
+      "definition": null
+    },
+    {
+      "term": "Performance",
+      "abbreviation": "COP",
+      "definition": null
+    },
+    {
+      "term": "Entering Air to Condenser\nLeaving Air from Condenser\nEvaporator Approach\nMeasured Tonnes Produced \nWater Flow through Chiller",
+      "abbreviation": "LPM",
+      "definition": null
+    }
+  ]
+}

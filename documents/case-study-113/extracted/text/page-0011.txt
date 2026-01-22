@@ -1,0 +1,129 @@
+®
+Appendix B
+Suite # 307 Results / 4 Units
+10
+TYPE OF IMPROVEMENT MEASURE
+BASELINE
+4 UNITS
+1.32
+9.27
+113,966
+1,056,162
+POST
+1.08
+11.21
+110,555
+1,238,979
+IMPROVEMENT
+18.3%
+20.9%
+3,411
+182,817
+Avg kW/ton
+Avg Unit EER 
+Total Power in Watts Reduction
+Total Capacity in BTUs Restored
+CRAC # 3.1
+BASELINE
+468
+40.5
+77.6
+56.7
+59.9
+49.1
+26.39
+19.81
+9,540
+27.86
+23.54
+1.18
+6.58
+20.9
+POST
+463.6
+39.4
+74.1
+51.6
+58.4
+45.4
+25.38
+17.85
+9,540
+26.85
+26.94
+1.00
+7.53
+22.5
+DELTA
+3.63%
+3.4
+15.79%
+14.44%
+7.66%
+Volts
+Amps
+Entering DB
+Leaving DB
+Entering WB
+Leaving WB
+Entering Enthalpy
+Leaving Enthalpy
+CFM
+kW
+Tons
+kW/Ton
+Enthalpy Delta
+Dry Bulb Delta in Degrees
+CRAC # 3.2
+BASELINE
+468.0
+41.2
+77.4
+54.7
+60.7
+50.2
+26.94
+20.41
+9,480
+28.34
+23.21
+1.22
+6.53
+22.7
+POST
+462.6
+39.9
+78.0
+54.0
+62.9
+50.9
+28.50
+20.80
+9,480
+27.13
+27.37
+0.99
+7.70
+24
+DELTA
+4.27%
+4.2
+18.82%
+17.92%
+5.73%
+Volts
+Amps
+Entering DB
+Leaving DB
+Entering WB
+Leaving WB
+Entering Enthalpy
+Leaving Enthalpy
+CFM
+kW
+Tons
+kW/Ton
+Enthalpy Delta
+Dry Bulb Delta in Degrees
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,42 @@
+Energy Science Division
+Chilled Water Supply & Return Temps                         
+Baseline Motor Amp Fixed Load
+Evaporator Temperature
+Chilled Water Supply & Return Temps
+AERP Motor Amp Fixed Load
+Evaporator Temperature
+Baseline Key Measurement Images
+AERP Key Measurement Images
+Results
+The table below contains a comparison of the baseline and AERP performance data calculated* performance 
+measurements. 
+Improvements
+Total Adjusted kW
+Operating Tons / Hour
+kW / Ton
+Total Adjusted kWh
+COP
+Evaporator Approach
+15.2% 
+23.9%
+15.2%
+15.2%
+19.2%
+6.7%
+Post-Installation
+156.8
+560
+0.28
+595,840
+12.69
+15.4
+Baseline
+184.8
+452
+0.33
+702,240
+10.65
+16.5
+*see kWh calculations below
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

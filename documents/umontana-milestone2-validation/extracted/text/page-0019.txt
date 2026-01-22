@@ -1,0 +1,22 @@
+ 
+ 
+Page 11 of 38 
+ 
+There were also two outliers identified within the days from May, clustered within clusters 2 and 3. 
+These are seen to be outliers as they are single days that were dissimilar enough from the points in 
+clusters 0 and 1 that the algorithm chose to classify them in their own categories entirely. 
+ 
+Overall, the result produced is reasonably successful, as the majority of days from the pre-treatment 
+data were classified separately from the post-treatment data. This aligns with the expectation that 
+the behavior of the device would be different between pre and post PermaFrost treatment 
+implemented by PowerTron. 
+ 
+To examine possibilities even further, the team decided to look at several scatter plots of the data, 
+where the clusters have been identified. The two most interesting plots produced that illustrate not 
+only the behavior of the clusters, but also the success of PowerTron’s treatment are shown below in 
+figures 17 and 18. 
+Figure 17 - COP Against Outside Air Temperature  
+COP is measured on the y-axis; Outside air temperature is measured on the x-axis; Clusters are represented by the 
+color of the points, which each represent a day; Note – The axes remain between 0 and 1 as the data has been 
+normalized 
+ 

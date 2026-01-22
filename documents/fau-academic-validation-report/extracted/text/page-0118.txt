@@ -1,0 +1,97 @@
+18        IPMVP Framework and Options 
+ 
+IPMVP Option 
+How Savings Are 
+Calculated 
+Typical Applications 
+C. Whole Facility 
+ 
+Savings are determined by 
+measuring energy use at the whole 
+facility or sub-facility level.  
+ 
+Continuous measurements of the 
+entire facility’s energy use are taken 
+throughout the reporting period.  
+ 
+ 
+ 
+Analysis of whole 
+facility baseline and 
+reporting period (utility) 
+meter data. 
+Routine adjustments as 
+required, using 
+techniques such as 
+simple comparison or 
+regression analysis.  
+Non-routine 
+adjustments as 
+required. 
+ 
+ 
+Multifaceted energy 
+management program 
+affecting many systems in a 
+facility. Measure energy use 
+with the gas and electric 
+utility meters for a twelve 
+month baseline period and 
+throughout the reporting 
+period.  
+D. Calibrated Simulation 
+ 
+Savings are determined through 
+simulation of the energy use of the 
+whole facility, or of a sub-facility.  
+Simulation routines are demonstrated 
+to adequately model actual energy 
+performance measured in the facility. 
+This Option usually requires 
+considerable skill in calibrated 
+simulation.  
+ 
+ 
+ 
+Energy use simulation, 
+calibrated with hourly 
+or monthly utility billing 
+data. (Energy end use 
+metering may be used 
+to help refine input 
+data.)  
+ 
+ 
+ 
+Multifaceted energy 
+management program 
+affecting many systems in a 
+facility but where no meter 
+existed in the baseline 
+period. 
+Energy use measurements, 
+after installation of gas and 
+electric meters, are used to 
+calibrate a simulation.  
+Baseline energy use, 
+determined using the 
+calibrated simulation, is 
+compared to a simulation of 
+reporting period energy use.  
+ 
+4.7  Options A & B: Retrofit Isolation  
+Chapter 4.4 defines the concept of a measurement boundary encompassing the retrofitted 
+equipment. Retrofit isolation allows the narrowing of the measurement boundary in order to 
+reduce the effort required to monitor independent variables and static factors, when retrofits 
+affect only a portion of the facility. However boundaries smaller than the total facility usually 
+require additional meters at the measurement boundary. Narrow measurement boundaries also 
+introduce the possibility of ‘leakage’ through unmeasured interactive effects.  
+Since measurement is of less than the total facility, the results of retrofit isolation techniques 
+cannot be correlated to the facility’s total energy use shown on utility bills. Facility changes 
+beyond the measurement boundary but unrelated to the ECM will not be reported by retrofit-
+isolation techniques but will be included in the utility’s metered consumption or demand. 
+ 
+Table 2 
+Overview of 
+IPMVP 
+Options 

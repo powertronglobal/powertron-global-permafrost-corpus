@@ -1,0 +1,52 @@
+The following is the ﬁnancial calculations regarding the energy conservation method:
+There are two financial formulations to be considered.  At Sea Power calculations will be using the diesel 
+generated energy cost of  $0.28 per kW-hr for the deployed vessels at 3500 operating hours per year (2 
+chillers on line in pre-positioned deployment) and the Shore Power calculations using the dockside 
+electrical costs of $0.10 per kW-hr (national average) at 1750 hours per year as recommended by Chief 
+Wakeham.
+Energy Science Division
+Sea Power
+Shore Power
+Chiller #1 (with PermaFrost NMR®)
+Operating Hours 
+Elec. Cost per kW-hr
+Demand Load% 
+Annual kW-hr Consumed 
+Annual Cost to Operate
+kWh Avoided
+SAVINGS 
+3500
+0.28 (diesel)
+80%
+770,000 kW-hr
+$215,600
+49,000
+$13,720
+1750
+0.10
+80%
+385,000 kW-hr
+$38,500
+24,500
+$2,450
+Sea Power
+Shore Power
+3500
+0.28 (diesel)
+80%
+819,000 kW-hr
+$229,320
+1750
+0.10
+80%
+409,500 kW-hr
+$40,950
+Operating Hours 
+Elec. Cost per kW-hr
+Demand Load% 
+Annual kW-hr Consumed
+Annual Cost to Operate 
+Chiller #5 (without PermaFrost NMR®)
+®
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

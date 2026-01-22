@@ -1,0 +1,49 @@
+ 
+3
+heat exchange. When a system is new it is operating at its highest efficiency.  As years go by and 
+run time of the system is accumulated, that same initial efficiency is decreased. This decrease is a 
+direct result of the oil coating all of the heat exchange surfaces, resulting in longer run times. 
+ 
+The refrigerant lines within the heat exchangers and that connect split systems are metal and 
+therefore have a positive charge, while the oil and refrigerant have a negative charge. The oil will 
+stick to the refrigerant wall lines and as it breaks down, more will stick, ultimately building up a 
+layer of degraded oil on the surface. If there were a compound that could remove the insulating 
+oil from these heat exchanger surfaces and improve the ability of the heat exchangers to develop 
+a more efficient transfer of energy, the result would be restored BTUH capacity and reduced total 
+kWh. 
+ 
+PermaFrost NMR®, covered by US patent numbers 6369006, 6362139, 6286323, and 6276147, 
+is purported to be such a product.  The concept behind PermaFrost NMR® is that it has a higher 
+negative charge than either the refrigerant or refrigerant oil used by manufacturers in their 
+systems. When installed, PermaFrost NMR® penetrates and binds to the metal lattice in the 
+refrigerant lines and heat exchange surfaces. Subsequently this action removes the fouled oil, 
+which will return back into circulation and ultimately to the compressor oil reservoir where it 
+should be. As the PermaFrost NMR® displaces the trapped oil it will restore the ability of the 
+heat exchanger to transfer heat energy back to near design specifications. With the restored 
+ability of the heat exchanger, the system will be able to produce colder air therefore satisfy the 
+thermostat in the conditioned space sooner enabling the unit to run less to perform the same 
+work. This is where most of the savings are achieved. 
+ 
+There are several questions about this technology that require answers.  The first question is 
+whether there is anything in PermaFrost NMR® that would reduce the refrigerant lubricating oil 
+surface bonding, to allow it (the refrigeration oil) to be displaced by the PermaFrost NMR®?  A 
+polar molecule would have a higher attraction to the metal and displace the lower charged oil 
+molecules. This would mean the system efficiency would improve after PermaFrost NMR™ is 
+added.  If there is no surface bonding or displacement of refrigerant oil, then no improvement 
+should be seen in the short term. 
+ 
+The second question is whether the PermaFrost NMR® can adversely impact the refrigerant 
+flow?  If PermaFrost NMR® does work at the micro level and can replace the trapped 
+refrigerant oil, reduce laminar friction and return refrigerant oil from the heat exchangers, it 
+would only improve the flow.  If it does not accomplish the above, it would only add to the 
+volume of oil in the heat exchangers and possibly reduce refrigerant flow.   
+ 
+An accompanying question about product longevity inside a system have been asked, including 
+one of the large utilities that currently provides rebates for PermaFrost NMR®.   An oil analysis 
+stamped by a PE shows all of the tests required to satisfactorily provide an answer.  While the 
+chemical specifics of these three questions is technically beyond the scope of this review, they 
+play into the results included in this reports.  To address these three questions, a lab test showing 
+long-term compatibility with metals, groups of refrigerants, and common by products of 
+refrigeration, as well as thermo conductivity and friction tests is attached. (Appendix A). The 
+conclusion from this review was: 
+ 

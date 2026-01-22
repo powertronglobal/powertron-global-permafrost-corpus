@@ -1,0 +1,45 @@
+ 
+    
+ 
+2006 Windy Terrace Suite A 
+www.powertronglobal.com 
+ 
+ 
+ 
+ 
+Methodology 
+ 
+Powertron Global attached one F2 (IoT Measurement & Verification) device 
+per site that included two (2) revenue grade power meters (one for each Bard 
+unit), an outdoor air temperature sensor and a dry contact on each of the 
+treated sixteen (16) Bard units (compressor on/off sensor). These are the 
+same make and model of devices and sensors that were implemented in 
+2023. 
+ 
+Powertron Global was tasked by Major US Telecom to compare twenty (20) days of 
+baseline (II) from 2023, which differed from the original baseline due to the 
+standard of matching heat loads/CDDs to newly captured post (II) data 
+collection 2024 – 1 year later. Powertron Global was careful in choosing the 
+twenty (20) day selections for each treated unit as to match the outdoor air 
+temperature or external heat load to normalize the data sets. Each unit’s data 
+set was customized to match exactly or with a variance in CDDs of only 1% or 
+less (.07% on average). This variance is considered insignificant between 
+data sets giving confidence in the data. This exact methodology was 
+implemented the year prior. Please see CDD table contained in this report. 
+ 
+All detailed per node/HVAC unit data sets with exact dates, pre and post, are 
+found in the accompanying spreadsheet provided to Major US Telecom along with all raw 
+data files.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,125 @@
+®
+Key Results for DX Chiller with PermaFrost NMR® ECM
+8
+Carrier
+30RA-060-081-EE
+10P03535
+R407C
+59.8
+4,440
+2000
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in kWR  
+Average Annual
+Runtime Hours
+Age
+System Description
+Notes
+This Pilot DXC provides cooling for the coffee drying 
+operation at the Beverage Company Coffee & Creamery factory. It is 
+estimated the DXC runs approximately 4,440 hours 
+annually prior to PermaFrost NMR® being installed.
+0.48
+POST
+BASELINE
+0.36
+kWE/kWR
+REDUCTION
+25%
+REDUCTION
+IMPROVEMENT
+POST
+BASELINE
+25%
+21.8%
+POST
+BASELINE
+Refrigerant Approach
+REDUCTION
+POST
+BASELINE
+2.33
+Chilled Water Delta-T
+0.78
+78,144
+58,608
+3.66
+0.61
+Calculated Annual kWh
+57.1%
+392.2
+22.6
+21.17
+61.11
+21.78
+25.44
+23.78
+38.89
+3.66
+0.61
+13.0
+13.0
+0.36
+36.58
+37.78
+57,720
+60
+2.81
+22.78
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Saturated Suction Temperature 
+ 
+Discharge Refrigerant Temperature
+Chilled Water Leaving Temp (Supply)
+Chilled Water Entering Temp (Return)
+Condenser Air Temp Entering Chiller
+Condenser Air Temp Leaving Chiller
+Chilled Water Delta T 
+Refrigeration Approach
+kW (V x A x 1.47) 
+ 
+kWE (after regression analysis) 
+ 
+kWE / kWR 
+Actual Measured Operating kWR 
+Chiller Flow in l/s
+Annual kWh (after regression analysis)  
+ 
+Chiller Load % During Testing 
+ 
+Coeﬃcient of Performance (COP)
+OAT (Outside Ambient Temperature)
+394.0
+19.1
+21.28
+61.89
+22.06
+24.39
+24
+37.22
+2.33
+0.78
+11.1
+17.6
+0.48
+23.21
+37.78
+78,144
+60
+2.1
+23.89
+Chiller Load in both the Baseline and Post was 60%. Though OAT was slightly 
+cooler in the post, no adjustments were made to Amps since the incoming chilled 
+water and the entering air to the condenser were very similar.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

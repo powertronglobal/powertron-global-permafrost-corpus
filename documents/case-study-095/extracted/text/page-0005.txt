@@ -1,0 +1,29 @@
+Energy Conservation Method (ECM) Content
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the 
+effects of thermal degradation and fouling on the heat exchange surfaces. 
+A diagnostic examination of the pilot equipment was implemented to determine if the unit’s operational 
+conditions were satisfactory. Baseline M&V were recorded and then the proper amount and type of 
+PermaFrost NMR® was injected. The gestation period for the Regional Cable Provider pilot was six (6) weeks on these 
+particular CRACs to allow them each to achieve the required ~300 hours of runtime on each system to 
+ensure adequate performance improvement time. At the end of this gestation period, Post M&V results 
+were taken in the identical manner as in the baseline, taking special care to match the same or very similar 
+entering air temperatures and compressor discharge pressures. These are the two most critical 
+measurements affected by the weather. When analyzing the data, no adjustments for weather were 
+necessary.
+ 
+The following report produces the utilization of the International Performance Measurement and 
+Verification Protocol (IPMVP) as the M&V plan. Mike Romanovitch and Jeff Stage from Regional Cable Provider witnessed the 
+collection of the data used in this report. The final calculations were performed by Powertron Global’s 
+Forensic Mechanical Engineer, [Senior Energy Engineer].  
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+BTUH = CFM * 4.5 (standard air) * Calculated Enthalpy Delta
+ 
+kW/Ton = kW / Actual Tonnage 
+ 
+Percentage Eﬃciency = Measured BTUH / Manufacturers Design BTUH
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

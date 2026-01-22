@@ -1,0 +1,100 @@
+HVAC Performance Comparison: COP
+Kit 4 Caribbean Telecom Provider Downtown POST
+COP Comparison 
+OSA Temp.
+Base COP
+Post COP
+70 degF
+2.68
+0.0
+71 degF
+2.79
+0.0
+72 degF
+2.9
+0.0
+73 degF
+2.64
+0.0
+74 degF
+3.1
+0.0
+75 degF
+3.0
+0.0
+76 degF
+2.97
+0.0
+77 degF
+2.83
+3.78
+78 degF
+2.77
+3.73
+79 degF
+2.86
+3.65
+80 degF
+2.75
+3.65
+81 degF
+2.86
+3.74
+82 degF
+2.73
+3.6
+83 degF
+2.82
+3.6
+84 degF
+2.56
+3.52
+85 degF
+2.72
+3.54
+86 degF
+2.61
+3.55
+87 degF
+2.79
+3.53
+88 degF
+2.81
+3.49
+89 degF
+2.73
+3.4
+90 degF
+2.81
+3.38
+91 degF
+2.82
+3.29
+92 degF
+2.75
+3.29
+93 degF
+2.74
+3.32
+94 degF
+2.72
+3.24
+95 degF
+2.63
+3.29
+-----
+2.78
+3.5
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+70 degF - 95 degF
+75.0 degF - 80.0 degF
+0.5 - 1.0
+15s
+22386 samples
+9245 samples

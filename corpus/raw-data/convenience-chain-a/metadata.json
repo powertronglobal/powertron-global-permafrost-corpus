@@ -1,0 +1,80 @@
+{
+  "source": "Convenience Store Chain A",
+  "industry": "convenience_retail",
+  "location_obfuscated": "Southwest US, TX",
+  "processed_date": "2026-01-08T20:02:14.394831",
+  "files": [
+    {
+      "obfuscated_file": "site1_baseline.parquet",
+      "rows": 408063,
+      "columns": 41,
+      "size_kb": 17623.7
+    },
+    {
+      "obfuscated_file": "site1_post.parquet",
+      "rows": 95801,
+      "columns": 41,
+      "size_kb": 4540.7
+    },
+    {
+      "obfuscated_file": "site2_baseline.parquet",
+      "rows": 391550,
+      "columns": 41,
+      "size_kb": 17885.5
+    },
+    {
+      "obfuscated_file": "site2_post.parquet",
+      "rows": 199841,
+      "columns": 41,
+      "size_kb": 8965.4
+    },
+    {
+      "obfuscated_file": "site3_baseline.parquet",
+      "rows": 414171,
+      "columns": 41,
+      "size_kb": 19318.2
+    },
+    {
+      "obfuscated_file": "site3_post.parquet",
+      "rows": 24210,
+      "columns": 41,
+      "size_kb": 1209.2
+    },
+    {
+      "obfuscated_file": "site4_baseline.parquet",
+      "rows": 62234,
+      "columns": 41,
+      "size_kb": 3505.6
+    },
+    {
+      "obfuscated_file": "site4_post.parquet",
+      "rows": 5085,
+      "columns": 41,
+      "size_kb": 307.7
+    },
+    {
+      "obfuscated_file": "site5_baseline.parquet",
+      "rows": 162160,
+      "columns": 41,
+      "size_kb": 8019.0
+    },
+    {
+      "obfuscated_file": "site5_post.parquet",
+      "rows": 20886,
+      "columns": 41,
+      "size_kb": 1051.3
+    },
+    {
+      "obfuscated_file": "site6_baseline.parquet",
+      "rows": 119468,
+      "columns": 41,
+      "size_kb": 5596.7
+    },
+    {
+      "obfuscated_file": "site6_post.parquet",
+      "rows": 4892,
+      "columns": 41,
+      "size_kb": 271.8
+    }
+  ]
+}

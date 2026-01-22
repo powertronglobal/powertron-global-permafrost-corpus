@@ -1,0 +1,206 @@
+{
+  "title": "Texas Oiltech Laboratories Certificate of Analysis",
+  "description": "Comprehensive laboratory testing of PermaFrost NMR product under API, ASHRAE, ARI, ASTM, EPA, ANSI, and UL standards",
+  "version": "1.0.0",
+  "last_updated": "2026-01-12",
+  "lab_information": {
+    "name": "Texas Oiltech Laboratories",
+    "location": "[City], TX",
+    "certifying_engineer": {
+      "name": "[Laboratory Director]",
+      "credentials": "P.E.",
+      "license": "Professional Engineer"
+    },
+    "test_date": "2002-04-18",
+    "document_type": "Certificate of Analysis"
+  },
+  "product_tested": {
+    "name": "PermaFrost NMR",
+    "manufacturer": "Powertron Global",
+    "product_type": "Nucleo Molecular Regenerative Surface Treatment"
+  },
+  "standards_tested": [
+    "API",
+    "ASHRAE",
+    "ARI",
+    "ASTM",
+    "EPA",
+    "ANSI",
+    "UL"
+  ],
+  "tests": {
+    "astm_d2783_four_ball_test": {
+      "standard": "ASTM D2783",
+      "test_name": "Four Ball Extreme Pressure Test",
+      "description": "Standardized lubricity and extreme pressure test measuring wear protection and friction reduction",
+      "test_method": "Four steel balls under load - one rotating ball against three stationary balls",
+      "results": {
+        "load_wear_index": {
+          "permafrost_nmr": 60.0,
+          "standard_oil_range": "120-145",
+          "unit": "dimensionless",
+          "interpretation": "Lower value indicates better wear protection"
+        },
+        "weld_point": {
+          "permafrost_nmr_kg": 295,
+          "standard_oil_max_kg": 8.5,
+          "improvement_factor": 34.7,
+          "unit": "kg",
+          "interpretation": "Higher weld point indicates greater extreme pressure protection - PermaFrost NMR shows 34.7x improvement over standard compressor oil"
+        }
+      },
+      "significance": "Demonstrates exceptional lubricity and extreme pressure protection, extending compressor bearing life and reducing wear on moving components"
+    },
+    "astm_d2717_thermal_conductivity": {
+      "standard": "ASTM D2717",
+      "test_name": "Thermal Conductivity of Liquids",
+      "description": "Measures heat transfer capability of fluids",
+      "results": {
+        "refrigerant_oil_only": 0.94,
+        "oil_with_10pct_permafrost": 1.18,
+        "improvement_percent": 25.5,
+        "unit": "W/m·K"
+      },
+      "significance": "Proves PermaFrost NMR improves thermal conductivity by 25.5%, directly enhancing heat transfer efficiency in HVAC systems"
+    },
+    "refrigerant_compatibility": {
+      "test_type": "Phase Separation and Compatibility Testing",
+      "description": "Tests for separation, precipitation, or adverse reactions with all refrigerant groups",
+      "groups_tested": {
+        "group_i_cfcs": {
+          "refrigerants": [
+            "R-12",
+            "R-500",
+            "R-502"
+          ],
+          "result": "Compatible - No Separation",
+          "notes": "Legacy refrigerants, phased out but still in some older systems"
+        },
+        "group_ii_hcfcs": {
+          "refrigerants": [
+            "R-22"
+          ],
+          "result": "Compatible - No Separation",
+          "notes": "Common in existing systems, being phased out"
+        },
+        "group_iii_hfcs_and_alternatives": {
+          "refrigerants": [
+            "R-134a",
+            "R-404A",
+            "R-407C",
+            "R-410A",
+            "Propane"
+          ],
+          "result": "Compatible - No Separation",
+          "notes": "Modern refrigerants including HFCs and hydrocarbon alternatives"
+        }
+      },
+      "overall_result": "PASS - Compatible with ALL refrigerant groups",
+      "significance": "PermaFrost NMR can be safely used in any refrigeration system regardless of refrigerant type"
+    },
+    "corrosion_astm_d1384": {
+      "standard": "ASTM D1384",
+      "test_name": "Corrosion Test for Engine Coolants in Glassware",
+      "description": "Tests corrosive effects on common HVAC system metals",
+      "spec_limit_mg": 10,
+      "results": {
+        "copper": {
+          "weight_loss_mg": 0.3,
+          "result": "PASS"
+        },
+        "brass": {
+          "weight_loss_mg": 0.4,
+          "result": "PASS"
+        },
+        "steel": {
+          "weight_loss_mg": 0.5,
+          "result": "PASS"
+        },
+        "iron": {
+          "weight_loss_mg": 0.7,
+          "result": "PASS"
+        },
+        "aluminum": {
+          "weight_loss_mg": 0.3,
+          "result": "PASS"
+        }
+      },
+      "overall_result": "PASS - All metals well within specification (≤10 mg limit)",
+      "significance": "PermaFrost NMR is non-corrosive to all common HVAC system materials"
+    },
+    "heavy_metals_epa_6010": {
+      "standard": "EPA 6010",
+      "test_name": "Inductively Coupled Plasma-Atomic Emission Spectrometry",
+      "description": "Tests for hazardous heavy metal content",
+      "detection_limit_ppm": 1.0,
+      "results": {
+        "arsenic": "<1.0 ppm",
+        "barium": "<1.0 ppm",
+        "cadmium": "<1.0 ppm",
+        "chromium": "<1.0 ppm",
+        "lead": "<1.0 ppm",
+        "selenium": "<1.0 ppm",
+        "silver": "<1.0 ppm"
+      },
+      "overall_result": "PASS - All heavy metals below detection limit",
+      "significance": "Product is environmentally safe with no hazardous heavy metal content"
+    },
+    "mercury_epa_7471": {
+      "standard": "EPA 7471",
+      "test_name": "Mercury in Liquid Waste",
+      "detection_limit_ppm": 0.1,
+      "result": "<0.1 ppm",
+      "overall_result": "PASS",
+      "significance": "No detectable mercury content"
+    },
+    "additional_astm_tests": {
+      "astm_d611": {
+        "test_name": "Aniline Point",
+        "description": "Indicates aromatic hydrocarbon content",
+        "result": "PASS"
+      },
+      "astm_d877": {
+        "test_name": "Dielectric Breakdown Voltage",
+        "description": "Electrical insulating properties",
+        "result": "PASS"
+      },
+      "astm_d93": {
+        "test_name": "Flash Point by Pensky-Martens Closed Cup",
+        "description": "Fire safety - temperature at which vapors ignite",
+        "result": "PASS"
+      },
+      "astm_d1744": {
+        "test_name": "Water Content by Karl Fischer Reagent",
+        "description": "Moisture content measurement",
+        "result": "PASS"
+      },
+      "astm_d445": {
+        "test_name": "Kinematic Viscosity",
+        "description": "Flow characteristics at temperature",
+        "result": "PASS"
+      },
+      "astm_d97": {
+        "test_name": "Pour Point",
+        "description": "Lowest temperature at which product flows",
+        "result": "PASS"
+      },
+      "astm_d1287": {
+        "test_name": "pH of Aqueous Solutions",
+        "description": "Acidity/alkalinity measurement",
+        "result": "PASS"
+      },
+      "astm_d1500": {
+        "test_name": "Color of Petroleum Products",
+        "description": "Visual quality indicator",
+        "result": "PASS"
+      }
+    }
+  },
+  "key_findings": {
+    "lubricity": "34.7x improvement in weld point (295 kg vs 8.5 kg standard)",
+    "thermal_conductivity": "25.5% improvement in heat transfer capability",
+    "refrigerant_compatibility": "Compatible with ALL refrigerant groups (I, II, III)",
+    "materials_safety": "Non-corrosive to all common HVAC metals (copper, brass, steel, iron, aluminum)",
+    "environmental_safety": "No hazardous heavy metals detected"
+  }
+}

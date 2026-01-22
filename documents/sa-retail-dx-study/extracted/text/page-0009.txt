@@ -1,0 +1,34 @@
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2020 Powertron Global, LLC. 
+Technical 
+When PermaFrost NMR® (interior coil surface treatment) is installed into a unit, a 
+molecular transformation develops. This transformation displaces layers of 
+lubricating fluids that have been impinged in the evaporator and condenser heat 
+exchanger metal surfaces. When the fluid is displaced, the evaporator and 
+condenser can transfer additional heat energy through the tube walls (thermal 
+restoration). This enables the evaporator to completely dehumidify the air per the 
+unit’s design specifications.  When more dehumidification is developed, the 
+enthalpy (a measure of how many grains of moisture are contained in a pound of 
+air) increases. 
+If the CFM and 4.5 remain constant, then it is the effect of PermaFrost NMR®’s 
+Enthalpy Delta increase that restores (increases) the lost capacity (Tons).  
+If the tonnage increases, then the kW/ton decreases by means of mathematical 
+function, demonstrating PermaFrost NMR®’s post-treatment effect lowering the 
+electrical cost of every ton of cooling produced, no matter how many tons are 
+called for at any given time.  
+PermaFrost NMR® cannot change any unit’s electrical characteristics i.e. 
+everything that requires electricity is rated for the required power under different 
+loads e.g. compressors and fans.  
+The multi-enzyme evaporator coil cleaner (exterior surface treatment) is designed 
+for the removal of organic and inorganic debris (biofilm) from the heat exchangers 
+to improve efficiency, reduces running costs while improving indoor air quality. The 
+proprietary enzyme based cleaner is non corrosive and completely biodegradable.  
+A common form of fouling (exterior surface) arises from the formation of bacteria 
+and fungi deep inside the coils. This biological form of fouling is exceptionally 
+problematic for HVAC systems. When microbes take root deep inside the coils they 
+begin to form biofilms, which is a plasticity type of membrane excreted by these 
+micro-organisms. Biofilms are particularly detrimental to the HVAC system because 
+these films are highly conductive which works to inhibit heat transfer between the 
+metal surfaces of the coil and the passing air flow. In addition, biofilms can have 
+sticky surfaces that can accumulate dust and the other fouling debris, thereby 
+acting to inhibit air flow and efficient heat transfer though the coils. 

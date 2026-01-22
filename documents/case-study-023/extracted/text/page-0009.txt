@@ -1,0 +1,25 @@
+VIP 1 SALAS 2 BASELINE BOTH COMP
+Starting Date: 05-11-17
+Ending Date: 05-24-17
+Category
+Value
+Performance %
+54.96/100%
+Tons
+7.85 (Design = 12.5)
+kW/Ton
+2.01 (Design = 1.12)
+COP
+1.75 (Design = 3.14)
+EER
+5.96 (Design = 10.71)
+Outside Air Temperature Range
+65.0 deg F --- 85.0 deg F
+Return Air Temperature Range
+65.0 deg F --- 80.0 deg F
+Power Factor Range
+0.5 --- 1.0
+Schedule
+All Hours
+Samples
+6469

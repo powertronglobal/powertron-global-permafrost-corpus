@@ -1,0 +1,66 @@
+68        Appendix A Examples 
+ 
+APPENDIX A   EXAMPLES 
+A-1  Introduction 
+This Appendix presents a variety of project types and discusses the key M&V design issues 
+arising from the described situations. Each example shows just one IPMVP adherent M&V 
+design, though there are numerous possible designs for any project.   
+The examples cover 12 different scenarios: 
+ 
+Pump/motor efficiency improvement (A-2)  
+ 
+Pump/motor demand shifting (A-2-1)  
+ 
+Lighting efficiency (A-3)  
+ 
+Lighting operational control (A-3-1)  
+ 
+Street lighting efficiency and dimming (A-3-2)  
+ 
+Compressed air leakage management  (A-4)  
+ 
+Turbine-generator set improvement (A-5)  
+ 
+Boiler efficiency improvement (A-6)  
+ 
+Multiple ECM with metered baseline data (A-7)  
+ 
+Whole facility energy accounting relative to budget (A-7-1) 
+ 
+Multiple ECMs in a building without energy meters in the baseline period (A-8)  
+ 
+New building designed better than code (A-9)   
+These examples go into varying levels of depth, in order to highlight different features of 
+common M&V approaches. None of them is comprehensive. Readers are referred to the EVO 
+website for more complete M&V Plans and sample savings reports (www.evo-world.org) 
+accessible to EVO Subscribers. Also IPMVP Volume III contains example M&V applications for 
+new buildings and renewable-energy projects. 
+These examples from around the world use the variety of technical units and currencies in local 
+common use.  The following table provides an appreciation of the magnitude of the technical 
+quantities expressed in approximate alternate units. 
+Multiply: 
+By: 
+to get: 
+Natural 
+gas 
+m3 
+35 
+ft3 
+mcf 
+1000 
+ft3 
+Steam 
+pound 
+0.45 
+kg of steam 
+Oil 
+liter 
+0.26 
+gallon (US) 
+EVO subscribers are encouraged to submit their own examples for possible inclusion in the 
+website’s library (email to: ipmvprev@evo-world.org ). 
+A-2  Pump/Motor Efficiency Improvement – Option A 
+Situation  Ten irrigation pump-sets are distributed around a South African agricultural property 
+to pump water from underground wells. Pump operation is usually continuous during the normal 
+six-month annual dry season, though pumps are turned on and off manually as needed. The 
+local utility offered a partial subsidy to replace the pumps with new high-efficiency pumps and 

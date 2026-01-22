@@ -1,0 +1,33 @@
+®
+0.0
+0.5
+1.0
+1.5
+2.0
+Recovered
+Energy
+5
+Recovered Wasted Energy with ECM -  DX Unit
+The chart to the right illustrates the performance 
+restoration PermaFrost NMR® created in the treated 
+DX unit. The average cost to operate this unit before it 
+was treated with PermaFrost NMR®, as calculated in 
+kW/ton, was 1.81.
+The specific cost to operate this unit after it was 
+treated with PermaFrost NMR®, as calculated in 
+kW/ton, is currently 1.14.
+The higher baseline kW/ton rating measured in-situ 
+was expected when compared to the ASHRAE loss of 
+performance efficiency and cost to operate estimate 
+for a 10 year old DX unit. The post results are also in 
+line with the average improvement savings shown 
+over more than 120,000 installations globally.
+Cost to Operate
+Baseline
+Post ECM
+kW/ton
+.67 kw/ton
+1.81
+1.14
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

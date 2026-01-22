@@ -1,0 +1,233 @@
+37 
+MD 
+Convenience 
+Store #7 Before
+After
+MD 
+Convenience 
+Store #3 
+Before
+After
+MD 
+Convenience 
+Store #4 
+Before
+After
+Food Retailer 
+[Florida Location] 
+Before
+After
+205.1
+203.4
+203.3
+203.4
+202.6
+202.3
+211.8
+206.7
+14.59
+14.06
+25.39
+27.6
+26.15
+27.41
+29.6
+26.72
+40.3
+29
+40.2
+33.5
+41.6
+41.8
+31
+31.8
+106.7
+79.1
+104
+76.7
+109.8
+86.3
+121.5
+117
+73.9
+71.6
+75.3
+78.1
+81.9
+79
+74.5
+74.6
+49.1
+40.4
+58.2
+46.3
+55.7
+49.3
+57
+50.3
+61.6
+59
+60.3
+60.3
+69.8
+65.6
+62.9
+63
+43.5
+35.5
+53.5
+50.4
+52.6
+38.1
+53.2
+47.9
+1,060
+1,060
+3,400
+3,400
+1,403
+1,403
+3,200
+3,241
+50,848
+59,864
+66,555
+94,095
+76,583
+101,963
+91,584
+121,343
+4.24
+4.98
+5.55
+7.84
+6.4
+8.49
+7.63
+10.11
+10.66
+12.55
+4.35
+6.15
+12.13
+16.15
+6.36
+8.32
+DX Measured Parameter 
+Voltage
+Amperage
+Suction Refrigerant Temp F 
+Discharge Refrigerant Temp F 
+Entering Air Temp DB 
+Leaving Air Temp DB 
+Entering Air Temp WB 
+Leaving Air Temp WB 
+Actual CFM
+Actual Coil Capacity Btuh 
+Actual Coil Capacity Tons 
+Enthalpy Delta
+OAT at time of readings
+84.6
+69.7
+86.5
+69.6
+85.4
+69.6
+78
+81.6
+Calculated Parameters
+Refrigerant Approach
+8.8
+11.4
+18
+12.8
+14.1
+7.5
+26
+18.5
+Total Watts Normalized for Weather
+4,399
+4,204
+7,588
+8,252
+7,788
+8,151
+9,216
+8,119
+Watts Per Ton
+1037
+844
+1367
+1053
+1217
+960
+1208
+803
+Adjusted Baseline Tonnage
+Adjusted Baseline Total Watts
+COP
+3.39
+4.17
+2.57
+3.34
+2.89
+3.66
+2.91
+4.38
+Delta T Dry bulb
+24.8
+31.2
+17.1
+31.8
+26.2
+29.7
+17.5
+24.3
+Watts/degree decrease DB
+Delta T Wet(acctg for humidity)
+Watts/degree decrease WB
+kW (volts x amps x .85 x 1.732)/1000 OR
+(volts x amps x 1.56)/1000 OR (volts x amps
+x .9)/1000
+4.4
+4.2
+7.6
+8.3
+7.8
+8.2
+9.2
+8.1
+Adjusted Total Watts
+5,167
+4,204
+10,719
+8,252
+10,331
+8,151
+12,211
+8,119
+Btuh Coil Capacity
+50,848
+59,864
+66,555
+94,095
+76,583
+101,963
+91,584
+121,343
+System Efficiency
+84.8%
+99.7%
+65.3%
+92.3%
+75.1%
+99.9%
+101.8%
+134.8%
+EER (Btuh / Watts)
+11.56
+14.24
+8.77
+11.40
+9.83
+12.51

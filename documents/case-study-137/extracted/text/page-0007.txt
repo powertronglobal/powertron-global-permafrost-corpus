@@ -1,0 +1,95 @@
+Report Parameters
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+80 degF - 90 degF
+72.0 degF - 75.0 degF
+0.6 - 1.0
+5s
+18731 samples
+10619 samples
+Compressor 1 Runtime Comparison
+OSA Temp.
+Base Runtime
+Hours
+Post Runtime
+Hours
+80 degF
+2.52 hours
+2.52 hours
+81 degF
+1.91 hours
+1.57 hours
+82 degF
+3.37 hours
+2.19 hours
+83 degF
+3.4 hours
+1.8 hours
+84 degF
+3.67 hours
+1.34 hours
+85 degF
+3.52 hours
+1.13 hours
+86 degF
+2.6 hours
+0.69 hours
+87 degF
+0.56 hours
+0.0 hours
+88 degF
+0.43 hours
+0.0 hours
+89 degF
+0.17 hours
+0.0 hours
+90 degF
+0.02 hours
+0.0 hours
+Total Runtime 311.17 hours
+137.05 hours
+Compressor 2 Runtime Comparison
+OSA Temp.
+Base Runtime
+Hours
+Post Runtime
+Hours
+80 degF
+1.66 hours
+1.63 hours
+81 degF
+1.81 hours
+0.7 hours
+82 degF
+3.14 hours
+1.33 hours
+83 degF
+3.2 hours
+1.14 hours
+84 degF
+3.28 hours
+0.89 hours
+85 degF
+3.26 hours
+0.64 hours
+86 degF
+2.42 hours
+0.42 hours
+87 degF
+0.56 hours
+0.0 hours
+88 degF
+0.43 hours
+0.0 hours
+89 degF
+0.17 hours
+0.0 hours
+90 degF
+0.02 hours
+0.0 hours
+Total Runtime 282.07 hours
+31.7 hours

@@ -1,0 +1,23 @@
+ 
+Changes in This Edition       vii 
+ 
+ 
+CHANGES IN THIS EDITION 
+ 
+The 2012 edition makes the following changes to the 2010 edition: 
+1. Added content to Appendix C-1 sections for USA. Moved all references to ASHRAE to 
+Annex C. 
+2. Moved detailed descriptions of users of IPMVP (Chapter 1.4) to a new Appendix D. 
+3. Formally modified requirements to include “operational verification” in addition to “savings 
+verification” in Chapters 4 and 5. Consolidated former Chapters 4.4, 4.5 and 4.6 in the new 
+Savings Verification Chapter 4.5, and renumbered subsequent sections of Chapter 4. 
+4. Included concept of “owner’s project requirements for M&V” in Chapter 4. 
+5. Definition of baseline for new construction added. 
+6. The role of Equations 1f and 1g) were clarified in Chapter 4.9.3. 
+7. Concept of “Monitoring and Targeting,” and its relationship to M&V added Its reference is 
+made in a new Chapter 4.11 on Peristence of Savings. 
+8. Definitions of statistical and uncertainty concepts clarified in Appendix B.  
+9. Made minor corrections to typographical or wording errors and updated references made to 
+this edition of IPMVP. 
+10. A Catalonian section was added to Appendix C-3 for Spain 
+ 

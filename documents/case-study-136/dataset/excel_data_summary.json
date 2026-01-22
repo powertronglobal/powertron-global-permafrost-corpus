@@ -1,0 +1,155 @@
+{
+  "excel_files": [
+    {
+      "source_file": "Baseline CU1.xlsx",
+      "description": "CU1 Baseline Data",
+      "sheets": [
+        "hvac_comparison_1505150449.59.c"
+      ],
+      "sheet_summaries": {
+        "hvac_comparison_1505150449.59.c": {
+          "rows": 31569,
+          "columns": 23,
+          "column_names": [
+            "HVAC Performance Comparison",
+            "Unnamed: 1",
+            "Major Telecom F CU-1Baseline ",
+            "Unnamed: 3",
+            "Unnamed: 4",
+            "Unnamed: 5",
+            "Unnamed: 6",
+            "Unnamed: 7",
+            "Unnamed: 8",
+            "Unnamed: 9"
+          ]
+        }
+      }
+    },
+    {
+      "source_file": "CU1 POST 10_13_17.xlsx",
+      "description": "CU1 Post Treatment Data",
+      "sheets": [
+        "hvac_comparison_1507917077.3.cs"
+      ],
+      "sheet_summaries": {
+        "hvac_comparison_1507917077.3.cs": {
+          "rows": 27163,
+          "columns": 23,
+          "column_names": [
+            "HVAC Performance Comparison",
+            "Unnamed: 1",
+            "Major Telecom F CU-1/Split",
+            "Unnamed: 3",
+            "Unnamed: 4",
+            "Unnamed: 5",
+            "Unnamed: 6",
+            "Unnamed: 7",
+            "Unnamed: 8",
+            "Unnamed: 9"
+          ]
+        }
+      }
+    },
+    {
+      "source_file": "Baseline CU2.xlsx",
+      "description": "CU2 Baseline Data",
+      "sheets": [
+        "hvac_comparison_1505150989.37.c"
+      ],
+      "sheet_summaries": {
+        "hvac_comparison_1505150989.37.c": {
+          "rows": 38317,
+          "columns": 23,
+          "column_names": [
+            "HVAC Performance Comparison",
+            "Unnamed: 1",
+            "Major Telecom F CU-2 Baseline ",
+            "Unnamed: 3",
+            "Unnamed: 4",
+            "Unnamed: 5",
+            "Unnamed: 6",
+            "Unnamed: 7",
+            "Unnamed: 8",
+            "Unnamed: 9"
+          ]
+        }
+      }
+    },
+    {
+      "source_file": "CU2 POST 10_13_17.xlsx",
+      "description": "CU2 Post Treatment Data",
+      "sheets": [
+        "hvac_comparison_1507917466.33.c"
+      ],
+      "sheet_summaries": {
+        "hvac_comparison_1507917466.33.c": {
+          "rows": 49979,
+          "columns": 23,
+          "column_names": [
+            "HVAC Performance Comparison",
+            "Unnamed: 1",
+            "Major Telecom F CU-2/Split",
+            "Unnamed: 3",
+            "Unnamed: 4",
+            "Unnamed: 5",
+            "Unnamed: 6",
+            "Unnamed: 7",
+            "Unnamed: 8",
+            "Unnamed: 9"
+          ]
+        }
+      }
+    },
+    {
+      "source_file": "Baseline PKG1 .xlsx",
+      "description": "Package 1 Baseline Data",
+      "sheets": [
+        "hvac_comparison_1505152245.81.c"
+      ],
+      "sheet_summaries": {
+        "hvac_comparison_1505152245.81.c": {
+          "rows": 34359,
+          "columns": 23,
+          "column_names": [
+            "HVAC Performance Comparison",
+            "Unnamed: 1",
+            "Major Telecom F Package-01 Baseline",
+            "Unnamed: 3",
+            "Unnamed: 4",
+            "Unnamed: 5",
+            "Unnamed: 6",
+            "Unnamed: 7",
+            "Unnamed: 8",
+            "Unnamed: 9"
+          ]
+        }
+      }
+    },
+    {
+      "source_file": "PK1 POST 9_29_17.xlsx",
+      "description": "Package 1 Post Treatment Data",
+      "sheets": [
+        "hvac_comparison_1507744668.61.c"
+      ],
+      "sheet_summaries": {
+        "hvac_comparison_1507744668.61.c": {
+          "rows": 48743,
+          "columns": 23,
+          "column_names": [
+            "HVAC Performance Comparison",
+            "Unnamed: 1",
+            "Major Telecom F PK-1",
+            "Unnamed: 3",
+            "Unnamed: 4",
+            "Unnamed: 5",
+            "Unnamed: 6",
+            "Unnamed: 7",
+            "Unnamed: 8",
+            "Unnamed: 9"
+          ]
+        }
+      }
+    }
+  ],
+  "note": "Time-series measurement data from field study"
+}

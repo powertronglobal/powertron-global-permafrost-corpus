@@ -1,0 +1,22 @@
+1
+HVAC/R Eﬃciency Report
+Purpose of Energy Eﬃciency Study
+The purpose of this study is to verify the industry wide problem of efficiency loss in HVAC/R as projected by 
+ASHRAE research and to quantify the amount of money wasted due to this loss. Many industry leading 
+organizations including ASHRAE project that all HVAC/R units degrade in capacity and efficiency as they age. 
+Thermal degradation is caused by a phenomenon that is present in all HVAC/R equipment that operates as a 
+vapor compression cycle associated with refrigerant and compressor lubricant. This thermal degradation is well 
+documented by the HVAC/R industry and the original equipment manufacturers (OEM’s). Thermal 
+degradation prevents units from operating at the original design efficiency, which leads to excessive run-times 
+and additional kWh consumption.
+The DX units in this study represent a great 
+majority of the portfolio of equipment 
+operated by Energy Solutions Company. If thermal degradation 
+is present in these DX units, it is present in 
+the entire inventory of equipment. Energy 
+waste can be calculated based on this unit 
+(portfolio representation) and then 
+accurately extrapolated across the entire 
+inventory of equipment.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

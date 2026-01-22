@@ -1,0 +1,95 @@
+ 
+Other Common M&V Issues       53 
+ 
+Rules for significant digits are derived from the "total derivative" concept from calculus.  
+Expressed as a function of two variables, the total derivative is,
+dy
+y
+f
+dx
+x
+f
+y
+x
+df
+
+
+
+
+
+
+
+
+)
+,
+(
+    3.1) 
+If the incremental change, dx & dy, where exchanged for absolute error, Δx & Δy, the following 
+equation results, 
+y
+y
+f
+x
+x
+f
+y
+x
+df
+
+
+
+
+
+
+
+
+
+
+)
+,
+(
+ 
+3.2) 
+From equation 3.2, we can calculate the limits of absolute error. The rules for significant digits 
+agree with equation 3.2 when the absolute error is greater than or equal to ±1 unit of the 
+smallest significant digit. 
+To calculate the significant digits of a number, simply count the number of digits ignoring any 
+leading zeros or trailing zeros terminating at the “ones” column (without a decimal point).  Any 
+trailing zeros to the right or left of a decimal point are considered significant. 
+ 
+Arithmetic 
+Operation20 
+RULE 
+Addition / 
+Subtraction21 
+X + Y 
+Round (up or down as appropriate) the result at the right-most decimal 
+place (lowest unit) where all numbers have a common digit.  The number 
+of significant digits will be the total of the digits of the result. 
+Multiplication / 
+Division21 
+X × Y 
+The number of significant digits in the result equals the smallest number 
+of significant digits of any one of the input numbers. 
+Powers 
+X
+a 
+The number of significant digits equals the number of significant digits in 
+the input. 
+ 
+8.12.1  EXAMPLES 
+Numbers: 
+ 
+00123 → 3 significant digits. 
+ 
+12300 → 3 significant digits (because it is represented as 1.23 × 104). 
+ 
+12300. → 5 significant digits (because it can be represented as 1.2300 × 104). 
+ 
+12300.000 → 8 significant digits. 
+ 
+12300.012 → 8 significant digits. 
+ 
+                                                  
+20 Additional rules exist for logarithmic and exponential functions that are not included here. 
+21 Mark’s Standard Handbook for Mechanical Engineers, 8th Ed., pp. 2.2-2.3 

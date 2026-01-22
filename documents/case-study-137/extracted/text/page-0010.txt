@@ -1,0 +1,28 @@
+APPENDIX III 
+Points Measured per Unit 
+-
+Inlet Enthalpy
+-
+Outlet Enthalpy
+-
+Delta Enthalpy
+-
+CFM
+-
+Compressor 1 Runtime Hours
+-
+Compressor 2 Runtime Hours
+-
+Return Air temperature
+-
+Supply Air Temperature
+-
+Delta Temperature
+-
+Total Capacity (BTU’s)
+-
+Total Capacity (Tons)
+-
+kW/Ton
+-
+Outside Air Temperature (OSA)

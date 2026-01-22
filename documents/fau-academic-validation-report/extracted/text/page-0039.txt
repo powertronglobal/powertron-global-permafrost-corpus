@@ -1,0 +1,150 @@
+39 
+Table 2 Summary 
+Measured Parametesr
+Average 
+Delta 
+Percent Delta
+Percent Delta
+Goal 
+Met?
+Average 
+Before 
+Condition
+Voltage
+-4.16
+-0.2%
+Should not vary significantly since thsisia basis for 
+delivering power to equipment
+Yes
+1703.57
+Amperage
+-18.25
+-7.0%
+Reduce Amperage demand = higher efficiency devices 
+operating properly, which reduces amp draw.  Expect 
+significnat decrease as frictionis reduced
+Yes
+262.53
+Suction Refrigerant Temp F
+-0.08
+Comparative statistic only, function of air temp of outside 
+and effect on building
+n/a
+150.00
+Discharge Refrigerant Temp F
+-12.21
+Comparative statistic only, function of air temp of outside 
+and effect on building
+n/a
+430.14
+Entering Air Temp DB
+-0.59
+Comparative statistic only, function of air temp of outside 
+and effect on building
+n/a
+278.50
+Leaving Air Temp DB
+-7.51
+Comparative statistic only, function of air temp of outside 
+and effect on building
+n/a
+213.89
+Entering Air Temp WB 
+Comparative statistic only, function of air temp of outside 
+and effect on building
+n/a
+248.64
+Leaving Air Temp WB
+Comparative statistic only, function of air temp of outside 
+and effect on building
+n/a
+215.31
+Actual CFM
+-84.07
+-0.4% Should not change - function of air handler
+Yes
+23613.51
+Actual Coil Capacity Btuh
+170159.09
+27.6%
+Should increase if efficiency increases - goal is to hav 
+emore available cooling
+Yes
+616469.01
+Actual Coil Capacity Tons
+14.06
+26.3% Better efficiency = more avaialble cooling 
+Yes
+53.45
+Enthalpy Delta
+Delta should increase with better efficiency
+Yes
+25.38
+OAT at time of readings
+Comparative statistic only
+n/a
+308.54
+Calculated Parameters
+0.00
+Should decrease as efficiency improves
+Yes
+0.00
+Refrigerant Approach
+663.40
+3.7% Watts should decrease as amperage decreases
+Yes
+17759.62
+Total Watts Normalized for Weather
+-2182.91
+-4.4% Should decrease as efficiency improves
+Yes
+49378.56
+Watts Per Ton
+-955.25
+3834.37
+Adjusted Baseline Tonnage
+-7.95
+Adjusted Baseline Total Watts
+0.00
+COP
+3.48
+13.3% Comparative statistic only
+26.07
+Delta T Dry bulb
+11.04
+689.47
+Watts/degree decrease DB
+-0.57
+Comparative statistic only
+Delta T Wet(acctg for humidity)
+100.37
+Watts/degree decrease WB
+0.60
+Demand of HVAC system on graid - need to show decrease
+Yes
+kW (volts x amps x .85 x 1.732)/1000 OR
+(volts x amps x 1.56)/1000 OR (volts x amps
+x .9)/1000
+-4479.75
+-20.3% Watts should decrease as amperage decreases
+Yes
+22014.37
+Adjusted Total Watts
+-39914.86
+-16.0%
+Should increase if efficiency increases - goal is to hav 
+emore available cooling
+Yes
+249490.03
+Btuh Coil Capacity
+138480.90
+29.4% Should increase if efficiency increases 
+Yes
+471760.88
+System Efficiency
+-0.58
+-4.9% Should increase if efficiency increases 
+Yes
+11.91
+EER (Btuh / Watts)
+4.21

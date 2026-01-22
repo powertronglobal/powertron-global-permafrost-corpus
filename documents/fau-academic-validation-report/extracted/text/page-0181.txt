@@ -1,0 +1,60 @@
+ 
+Appendix A Examples         81 
+ 
+Assessment of 
+Regression Analysis 
+Good 
+Good 
+Good 
+Marginal 
+Regression Coefficients (where accepted):
+Intercept 
+446.73 
+102,425 
+ 
+HDD coefficient 
+1.9788 
+179.3916 
+ 
+The regression statistics for the gas consumption and main electricity consumption show 
+acceptable correlation with HDD as indicated by the high R2, and the HDD t-statistics being well 
+above the critical IPMVP Table B-1 value of 1.89 for 8 data points and 90% confidence. These 
+observations are logical since the primary use of gas is for building heating. There is also a 
+significant amount of electric heat in the main building. 
+The field house account showed a poor t-statistic and R2. The building has no installed heating 
+but must be lit longer in months of less daylight, which are also colder months. Monthly 
+electricity use could be expected to follow a reasonably regular annual pattern related to 
+daylight hours and occupancy, not driven by ambient temperature. Therefore the minimal 
+correlation of this meter with HDD is ignored, and there will be no weather adjustments made to 
+it. Instead, each month’s savings report will take its baseline energy from the corresponding 
+baseline month’s consumption, adjusting for the number of days in the reporting period. 
+The main electrical-demand meter showed a poor correlation with the coldest day’s weather. 
+Therefore each month’s savings report will take its baseline demand from the corresponding 
+baseline month’s actual demand, without adjustment. 
+ 
+The long term impact on savings reports of these regression statistics was analyzed. The 
+relative precision in winter savings reports will be less than ±10% for gas and less than 
+±20% for the main electricity account. The expected savings will be statistically significant 
+for winter months since they will be more than twice the standard error of the baseline 
+formulae (see criterion in Appendix B-1.2). The school officials felt comfortable with this 
+expected quantified precision, and with possible unquantifiable errors related to simply 
+adjusting for metering period lengths in months with 50 or fewer HDD.  
+ 
+The utility rates to be used in valuing savings will be the then current full-price schedule 
+appropriate for each account. 
+Results  The reporting-period data for the first year was taken directly from utility bills without 
+adjustment, and from government weather reports. This data and the calculations for the 
+savings in energy and demand units, using Equation 1b), are shown on EVO’s website.   
+Each month’s current utility rate schedule was applied to each account’s adjusted-baseline 
+energy and reporting-period energy to compute savings. Since the gas rate changed in month 9 
+and the electric rate changed in month 7, two different price schedules were used for each 
+commodity during the 12-month savings report. These computations are also detailed on the 
+EVO website.  
+A-7.1  Whole-Facility Energy Accounting Relative To Budget 
+Situation  The energy manager of a chain of hotels was required to annually prepare an energy 
+budget, and routinely account for variances from budget. 
+Factors Affecting M&V Design  Hotel guest-room occupancy, convention-area usage and 
+weather significantly affect energy use.  In order to account for energy use, the energy manager 
+realized she needed to use M&V style techniques to adjust for these significant factors. 
+M&V Plan  The energy manager followed IPMVP Volume I, EVO 10000 – 1:2012, Option C, 
+since she needed to explain budget variances in management accounting reports. She always 

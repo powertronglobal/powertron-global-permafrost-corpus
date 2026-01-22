@@ -1,0 +1,115 @@
+HVAC Performance Comparison: COP
+ PK-1
+COP Comparison 
+OSA Temp.
+Base COP
+Post COP
+60 degF
+3.44
+3.71
+61 degF
+3.01
+4.47
+62 degF
+2.95
+3.87
+63 degF
+2.75
+4.28
+64 degF
+2.86
+4.46
+65 degF
+2.75
+3.95
+66 degF
+2.86
+3.99
+67 degF
+2.77
+3.73
+68 degF
+2.73
+3.76
+69 degF
+2.64
+3.56
+70 degF
+2.34
+3.44
+71 degF
+2.19
+3.47
+72 degF
+2.29
+3.5
+73 degF
+2.71
+3.29
+74 degF
+2.77
+3.35
+75 degF
+2.58
+3.17
+76 degF
+2.13
+3.13
+77 degF
+2.07
+3.25
+78 degF
+2.03
+3.05
+79 degF
+2.48
+3.0
+80 degF
+1.94
+3.1
+81 degF
+2.18
+3.03
+82 degF
+3.06
+2.89
+83 degF
+2.38
+2.85
+84 degF
+2.05
+2.78
+85 degF
+0.89
+2.61
+86 degF
+1.14
+2.43
+87 degF
+0.0
+1.09
+88 degF
+0.0
+0.0
+89 degF
+0.0
+0.0
+90 degF
+0.0
+0.0
+-----
+2.44
+3.33
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+60 degF - 90 degF
+60.0 degF - 75.0 degF
+0.5 - 1.0
+5s
+17151 samples
+31582 samples

@@ -1,0 +1,115 @@
+{
+  "title": "ASHRAE Climate Zone Reference",
+  "version": "1.0.0",
+  "last_updated": "2026-01-02",
+  "purpose": "Maps geographic locations to ASHRAE climate zones for context",
+  "note": "Climate zone does not affect kW/ton efficiency measurements (which are instantaneous), but provides context for annual energy savings estimates",
+  "zone_definitions": {
+    "1A": "Very Hot-Humid (cooling-dominated, >5000 CDD)",
+    "2A": "Hot-Humid (cooling-dominated, 3500-5000 CDD)",
+    "2B": "Hot-Dry (cooling-dominated, 3500-5000 CDD)",
+    "3A": "Warm-Humid (mixed, 2500-3500 CDD)",
+    "3B": "Warm-Dry (mixed, 2500-3500 CDD)",
+    "4A": "Mixed-Humid (mixed, heating and cooling)",
+    "5A": "Cool-Humid (heating-dominated, 3000-4000 HDD)",
+    "6A": "Cold-Humid (heating-dominated, 4000-5000 HDD)"
+  },
+  "state_mappings": {
+    "AL": {
+      "zone": "3A",
+      "description": "Warm-Humid"
+    },
+    "AZ": {
+      "zone": "2B",
+      "description": "Hot-Dry"
+    },
+    "CA": {
+      "zone": "3B",
+      "description": "Warm-Dry"
+    },
+    "CT": {
+      "zone": "5A",
+      "description": "Cool-Humid"
+    },
+    "DC": {
+      "zone": "4A",
+      "description": "Mixed-Humid"
+    },
+    "FL": {
+      "zone": "2A",
+      "description": "Hot-Humid"
+    },
+    "GA": {
+      "zone": "3A",
+      "description": "Warm-Humid"
+    },
+    "HI": {
+      "zone": "1A",
+      "description": "Very Hot-Humid"
+    },
+    "IL": {
+      "zone": "5A",
+      "description": "Cool-Humid"
+    },
+    "LA": {
+      "zone": "2A",
+      "description": "Hot-Humid"
+    },
+    "MA": {
+      "zone": "5A",
+      "description": "Cool-Humid"
+    },
+    "MD": {
+      "zone": "4A",
+      "description": "Mixed-Humid"
+    },
+    "MO": {
+      "zone": "4A",
+      "description": "Mixed-Humid"
+    },
+    "NJ": {
+      "zone": "4A",
+      "description": "Mixed-Humid"
+    },
+    "NV": {
+      "zone": "3B",
+      "description": "Warm-Dry"
+    },
+    "NY": {
+      "zone": "5A",
+      "description": "Cool-Humid"
+    },
+    "PA": {
+      "zone": "5A",
+      "description": "Cool-Humid"
+    },
+    "TN": {
+      "zone": "4A",
+      "description": "Mixed-Humid"
+    },
+    "TX": {
+      "zone": "2A",
+      "description": "Hot-Humid"
+    },
+    "VA": {
+      "zone": "4A",
+      "description": "Mixed-Humid"
+    },
+    "WI": {
+      "zone": "6A",
+      "description": "Cold-Humid"
+    },
+    "UK": {
+      "zone": "4A",
+      "description": "Mixed-Humid (equivalent)"
+    },
+    "Brazil": {
+      "zone": "1A",
+      "description": "Very Hot-Humid"
+    },
+    "South Africa": {
+      "zone": "3A",
+      "description": "Warm-Humid (equivalent)"
+    }
+  }
+}

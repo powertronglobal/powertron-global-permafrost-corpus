@@ -1,0 +1,105 @@
+®
+0.797
+POST
+BASELINE
+0.670
+kW / Ton
+IMPROVEMENT
+15.9%
+POST
+BASELINE
+Measured Tons
+IMPROVEMENT
+16.3%
+15.9%
+POST
+BASELINE
+kWh
+IMPROVEMENT
+POST
+BASELINE
+4.42
+COP
+IMPROVEMENT
+18.8%
+5.25
+Results for Chiller with PermaFrost NMR® ECM
+Key Results
+9
+Carrier
+5H120-A219
+G4X879009i
+Circuit #2
+R22
+180
+1993
+Notes
+Given the equipment is an ice rink chiller, it is estimated 
+the chiller runs ~4,800 hours per year prior to the ECM 
+being implemented.  
+Additionally, the M&V was conducted in the baseline 
+and post under nearly identical conditions.
+System Description
+Make
+Model
+Serial Number(s)
+Island Location A Arena Tag No.
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Age
+492.0
+82.70
+-14
+13
+87
+165
+18.2
+28.9
+10.70
+59.8
+89.2
+200
+0.670
+5.25
+28 F
+Energy Usage
+341,280
+287,040
+76.7
+89.2
+BASELINE
+POST
+Voltage  
+Amperage  
+Saturated Suction Temperature
+Saturated Suction Pressure
+Discharge Refrigerant Temp
+Discharge Refrigerant Pressure
+Chilled Water Leaving Temp (Supply)
+Chilled Water Entering Temp (Return)
+Chileld Water Delta T
+Adjusted Total kW
+Measured Tons Produced 
+Chiller GPM (estimated)
+Calculated kW / Ton  
+Coeﬃcient of Performance (COP)
+Outside Air Temp
+(Light snow Baseline & Post)
+489.7
+84.90
+-11.7
+15.4
+69.5
+125
+16.5
+25.7
+9.20
+71.1
+76.7
+200
+0.797
+4.42
+26 F
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

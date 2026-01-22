@@ -1,0 +1,46 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2020 Powertron Global, LLC. 
+ 
+ 
+ 
+ 
+For these HVAC/R systems, parameters were measured continuously every 
+second during all hours for a period of seven (7) days to develop a scientific 
+baseline. The same exact parameters were measured for the post data collection 
+period. 
+ 
+The outdoor air temperature entering the air-cooled condenser coils of each unit 
+will affect the design capacity. An analysis is provided for each of the seven (7) 
+day periods (baseline & post) of performance profiles of subsequent kW/ton, EER 
+and COP across a variation of outdoor air temperatures spanning a twenty-five 
+(25) degree span (75ºF-100ºF). 
+ 
+Total BTUH was developed along with total kW consumption by measuring all 
+required data points (33 points - see appendix for points measured) and entering 
+them into industry best practice engineering formulae. All measurement hardware 
+was certified under NIST or CE standards. Engineering formulae was developed 
+by AHRI / ASHRAE (American Heating and Refrigeration Institute / American 
+Society of Heating Refrigeration & Air Conditioning Engineers): 
+ 
+ 
+Kilo-watt (kW) = Volts (V) x Amps (A) x Power Factor (PF) x √3 / 1000 
+British Thermal Units (BTU) = CFM x 4.5 x Enthalpy Delta  
+Capacity / Tons = BTU / 12,000 
+Kilo-watt per Ton (kW/Ton) = kW Energy / Tons (capacity) 
+Co-Efficient of Performance (COP) = 12/kW per ton/ 3.412 
+Energy Efficiency Ratio (EER) = BTU / Watts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

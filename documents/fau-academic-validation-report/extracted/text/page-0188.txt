@@ -1,0 +1,50 @@
+88        Appendix B Uncertainty 
+ 
+B-1.1   Expressing Uncertainty 
+In order to communicate savings in a statistically valid manner, savings need to be expressed 
+along with their associated confidence and precision levels. Confidence refers to the likelihood 
+or probability that the estimated savings will fall within the precision range.31 For example, the 
+savings estimation process may lead to a statement such as: “the best estimate of savings is 
+1,000 kWh annually (point estimate) with a 90% probability (confidence) that the true-average 
+savings value falls within ±20% of 1,000.” A graphical presentation of this relationship is shown 
+in Figure B-1.   
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+Observed Values
+Number of Observed Values
+90% chance that the 
+true average savings 
+falls between 800 and 
+1,200
+ 
+A statistical precision statement (the ±20% portion) without a confidence level (the 90% portion) 
+is meaningless. The M&V process may yield extremely high precision with low confidence. For 
+example, the savings may be stated with a precision of ±1%, but the associated confidence 
+level may drop from 95% to 35%.   
+B-1.2   Acceptable Uncertainty 
+Savings are deemed to be statistically valid if they are large relative to the statistical variations. 
+Specifically, the savings need to be larger than twice the standard error (see definition in 
+Appendix B-1.3) of the baseline value. If the variance of the baseline data is excessive, the 
+unexplained random behavior in energy use of the facility or system is high, and any single 
+savings determination is unreliable.  
+Where you cannot meet this criterion, consider using: 
+ 
+more precise measurement equipment,  
+ 
+more independent variables in any mathematical model,  
+ 
+larger sample sizes, or  
+ 
+an IPMVP Option that is less affected by unknown variables.  
+                                                  
+31  Italicized statistical terms in this Appendix are defined in Appendix B-1.3 
+ 
+Figure B-1 Normally 
+Distributed Population 

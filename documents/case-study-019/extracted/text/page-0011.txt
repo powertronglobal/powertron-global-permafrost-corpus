@@ -1,0 +1,95 @@
+Summary of 22-Hour Power Consumption Comparison with Pilot CRAC 
+Systems Operating at Nearly Identical OAT and Time of Day
+11
+~50 Degrees
+Voltage
+478.81
+46.35
+Current
+65.86
+OAT
+53.99 
+Measurements
+kW 
+~50 Degrees
+Voltage
+484.53
+37.80
+18.45%
+Current
+53.07
+OAT
+52.75
+Measurements
+kW
+% Reduction
+~60 Degrees
+Voltage
+475.87
+52.99
+Current
+75.75
+OAT
+63.05
+Measurements
+kW 
+~60 Degrees
+Voltage
+481.09
+42.37
+20.04%
+Current
+59.91
+OAT
+63.56
+Measurements
+kW
+% Reduction
+~70 Degrees
+Voltage
+474.95
+53.96
+Current
+77.29
+OAT
+74.08
+Measurements
+kW 
+~70 Degrees
+Voltage
+480.15
+44.38
+17.75%
+Current
+62.88
+OAT
+74.24
+Measurements
+kW
+% Reduction
+Combined Avgs
+Voltage
+476.54
+51.10
+Current
+72.96
+OAT
+63.71
+Measurements
+kW 
+Combined Avgs
+Voltage
+481.92
+41.52
+18.76%
+Current
+58.62
+OAT
+63.52
+Measurements
+kW
+Avg kW Reduction
+Baseline
+Post
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

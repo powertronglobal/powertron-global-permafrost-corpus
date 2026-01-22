@@ -1,0 +1,51 @@
+14        IPMVP Framework and Options 
+ 
+ 
+Reporting-Period Basis or Avoided Energy Use 
+When savings are reported under the conditions of the reporting period, they can also be called 
+avoided energy use of the reporting period. Avoided energy use quantifies savings in the 
+reporting period relative to what energy use would have been without the ECM(s).  
+When reporting savings under reporting-period conditions, baseline-period energy needs to be 
+adjusted to reporting-period conditions.  
+For this common style of savings reporting Equation 1a) can be restated as: 
+ 
+Avoided Energy Use (or Savings)  =   
+( Baseline Energy   Routine Adjustments to reporting-period conditions  
+ Non-Routine Adjustments to reporting-period conditions ) -  Reporting-Period Energy  
+ 
+This equation is often simplified to the following: 
+ 
+Avoided Energy Use  (or Savings)  =   
+ 
+Adjusted-Baseline Energy – Reporting-Period Energy  
+ 
+ Non-Routine Adjustments of baseline energy to reporting-period conditions     
+1b) 
+ 
+Where Adjusted-Baseline Energy is defined as the baseline energy plus any routine 
+adjustments needed to adjust it to the conditions of the reporting period.  
+The adjusted-baseline energy is normally found by first developing a mathematical model which 
+correlates actual baseline energy data with appropriate independent variable(s)in the baseline 
+period. Each reporting period’s independent variable(s) are then inserted into this baseline  
+mathematical model to produce the adjusted-baseline energy use.  
+ 
+ 
+Savings
+ 
+(Energy and 
+Cost savings) 
+Avoided Energy Use
+or Avoided Cost 
+ 
+Stated under conditions of the 
+Reporting Period.  See 
+Chapter 4.6.1 
+Normalized Savings
+ 
+Stated under fixed or ‘normal’ 
+conditions. See Chapter 4.6.2 
+ 
+Figure 3  Two 
+Types of 
+Savings 
+ 

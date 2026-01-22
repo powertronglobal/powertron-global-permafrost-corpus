@@ -1,0 +1,80 @@
+34        IPMVP Framework and Options 
+ 
+It is impossible to generalize on the best IPMVP Option for any type of situation. However some 
+key project characteristics suggest commonly favored Options as shown in Table 3 below. 
+ 
+ 
+ 
+ECM Project Characteristic 
+Suggested Option
+A 
+B 
+C 
+D 
+Need to assess ECMs individually 
+X 
+X 
+ 
+X 
+Need to assess only total facility performance 
+ 
+ 
+X 
+X 
+Expected savings less than 10% of utility meter 
+X 
+X 
+ 
+X 
+Significance of some energy driving variables is unclear 
+ 
+X 
+X 
+X 
+Interactive effects of ECM are signficant or unmeasurable 
+ 
+ 
+X 
+X 
+Many future changes expected within measurement 
+boundary 
+X 
+ 
+ 
+X 
+Long term performance assessment needed 
+X 
+ 
+X 
+ 
+Baseline data not available 
+ 
+ 
+ 
+X 
+Non-technical persons must understand reports 
+X 
+X 
+X 
+ 
+Metering skill available 
+X 
+X 
+ 
+ 
+Computer simulation skill available 
+ 
+ 
+ 
+X 
+Experience reading utility bills and performing regression 
+analysis available 
+ 
+ 
+X 
+ 
+ 
+Table 3  Suggested 
+(not the only) Options  
+- Marked by X 
+ 

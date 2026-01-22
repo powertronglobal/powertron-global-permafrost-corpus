@@ -1,0 +1,70 @@
+{
+  "source": "Entertainment Venue A (case-study-135)",
+  "industry": "entertainment",
+  "location_obfuscated": "Central Mexico",
+  "processed_date": "2026-01-08T19:54:43.452639",
+  "files": [
+    {
+      "obfuscated_file": "unit1_baseline.parquet",
+      "rows": 6469,
+      "columns": 20,
+      "size_kb": 109.7,
+      "time_range": {
+        "start": "05-12-17 12:15PM",
+        "end": "05-24-17 03:36PM"
+      }
+    },
+    {
+      "obfuscated_file": "unit1_post.parquet",
+      "rows": 5392,
+      "columns": 20,
+      "size_kb": 85.9,
+      "time_range": {
+        "start": "08-01-17 10:03AM",
+        "end": "08-13-17 09:39PM"
+      }
+    },
+    {
+      "obfuscated_file": "unit2_baseline.parquet",
+      "rows": 19980,
+      "columns": 20,
+      "size_kb": 207.4,
+      "time_range": {
+        "start": "05-11-17 10:00AM",
+        "end": "05-24-17 10:04PM"
+      }
+    },
+    {
+      "obfuscated_file": "unit2_post.parquet",
+      "rows": 4271,
+      "columns": 20,
+      "size_kb": 56.8,
+      "time_range": {
+        "start": "08-01-17 10:01AM",
+        "end": "08-13-17 10:10PM"
+      }
+    }
+  ],
+  "columns": {
+    "Timestamp": "Measurement timestamp",
+    "kW": "Power consumption in kilowatts",
+    "Tons": "Cooling capacity in tons",
+    "kW/Ton": "Efficiency ratio",
+    "OSA Temperature": "Outside air temperature (\u00b0F)",
+    "RA Temperature": "Return air temperature (\u00b0F)",
+    "SA Temperature": "Supply air temperature (\u00b0F)",
+    "Return Humidity": "Return air humidity (%)",
+    "Supply Humidity": "Supply air humidity (%)",
+    "Inlet Enthalpy": "Inlet enthalpy (BTU/lb)",
+    "Outlet Enthalpy": "Outlet enthalpy (BTU/lb)",
+    "Delta Enthalpy": "Enthalpy difference (BTU/lb)",
+    "Voltage A-N": "Phase A voltage (V)",
+    "Voltage B-N": "Phase B voltage (V)",
+    "Voltage C-N": "Phase C voltage (V)",
+    "Current, Phase A": "Phase A current (A)",
+    "Current, Phase B": "Phase B current (A)",
+    "Current, Phase C": "Phase C current (A)",
+    "Flow Rate": "Air flow rate (CFM)",
+    "Performance": "Performance indicator"
+  }
+}

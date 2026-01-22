@@ -1,0 +1,73 @@
+Energy Science Division
+Results
+The following are the final calculated average performance measurement improvements following the 
+PermaFrost NMR® AERP on the two Global Telecom Equipment Manufacturer CRAC units.  
+PermaFrost NMR®: Determining the Payback Period for Global Telecom Equipment Manufacturer
+Utilizing data in the above charts, to obtain a true avoided energy cost and subsequent payback period for Global Telecom Equipment Manufacturer for 
+implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in capacity. This greater capacity reduces the runtime hours and in turn 
+reduces the annual kWh expended in the AERP. The true ROI comes from determining what the cost to run the 
+system was when operating at its original energy profile then subtracting the cost to operate the system at its newly 
+restored energy profile less the percentage of increased capacity. This regression calculation is the most scientific 
+method of accounting for the reduced number of hours the units will now run due to their increased capacity which 
+allows the units to reach set temperatures quicker and shut off sooner.   
+Since this regression analysis involves two units, the average kW/ton and total tons are used to calculate an average 
+ROI across the two units.
+ 
+  
+Improvements
+Total Calculated kWh (2 CRAC’s)
+Average kWh Per CRAC
+Cooling Capacity in Tons (2 CRAC’s)
+Average Capacity Per CRAC
+kW / Ton (2 CRAC’s)
+Average kW / Ton Per CRAC
+COP (2 CRAC’s)
+Average COP Per CRAC
+Total Enthalpy Delta (2 CRAC’s)
+Average Enthalpy Delta Per CRAC
+(25.4%)
+(25.4%)
+25.9%
+25.9%
+(25.2%)
+(25.2%)
+34.7%
+34.7%
+25.9%
+25.9%
+Baseline
+209,189
+104,595
+38.23 
+19.12
+1.714 
+.857
+8.48
+4.24
+11.32
+5.66
+AERP
+155,997
+77,999
+48.12
+24.06
+1.281
+.641
+11.42
+5.71
+14.25
+7.13
+Delta
+53,192
+26,596
+9.89
+4.94
+0.433
+0.216
+2.94
+1.47
+2.93
+1.47
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

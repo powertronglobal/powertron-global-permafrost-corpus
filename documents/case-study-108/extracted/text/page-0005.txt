@@ -1,0 +1,30 @@
+Energy Conservation Method (ECM) Content
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the 
+effects of thermal degradation and fouling on the heat exchange surfaces.
+ 
+After consulting with Company personnel involved in the test, it was determined to treat this particular 
+chiller since it serves as the primary chiller in the facility.  A diagnostic examination of the pilot equipment 
+was implemented to determine if the unit’s operational conditions were satisfactory.  Baseline 
+measurements were recorded and then the proper amount and type of PermaFrost NMR® was injected. The 
+product was then allowed 28 days to seat itself into the metal surfaces before post measurements were taken 
+to establish the efficiency gains. 
+The chiller was started and 100% load was attained by having the EMS command the opening all of the 
+chilled water valves for the entire data-gathering period.  This data gathering baseline period did not 
+contain variables of any consequence to alter the data.  The team waited 15 minutes before starting to record 
+data to allow the chiller to stabilize fully. During this 15 minute wait period, the following parameters were 
+recorded:
+Chiller kW; Chilled Water Delta T; Condenser Water Delta T; Condensed Liquid Refrigerant Temperature; 
+Saturated (Suction) Evaporator Refrigerant Temperature; Operating Tonnage; kW per Ton and COP.
+The results of the above readings were formulated by entering the data into the following thermodynamic 
+engineering formulas:
+•  To determine the kW, voltage, amperage and power factor, the team utilized data from the chiller digital 
+and analog instrumentation for pre and post measurement. Those data streams were verified by the manual 
+calculation for determining kW energy as:
+ 
+Volts * Amps * .85 * 1.56 / 1000
+•  To determine the actual GPM the following formula was utilized:
+ 
+GPM2 = GPM * Measured Pressure Drop (ft) / by Design Pressure Drop (ft) (sqd)
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

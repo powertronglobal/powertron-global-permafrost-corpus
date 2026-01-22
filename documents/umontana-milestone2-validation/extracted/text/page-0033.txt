@@ -1,0 +1,33 @@
+ 
+ 
+Page 25 of 38 
+ 
+A histogram of the OAT (Figure 32) results into bins provided a reasonable approach for any given 
+3-minute “on” interval to identify the number of compressors “active” (identified with a value = 1).  A 
+review of the source data velocities, coupled with the number of compressors active provided a 
+means to assign a relevant velocity measure, with variance allowed for based on differing humidity 
+levels by month. 
+Figure 32 
+ 
+Resulting compressor count and velocity calculation: 
+compressor 1 active as per Macy’s actual data:  600 * humidity1 
+If OAT >= 78.5 = 2 compressors:  600 * humidity1 * 1.5 
+If OAT >= 85.5 = 3 compressors:  600 * humidity1 * 2.0 
+If OAT > 90 = 4 compressors:  600 * humidity1 * 2.5 
+The remaining 6 source data variables (current and voltage readings) were taken from the original 
+source data as no significant anomalies were detected. 
+With these 12 variables for each 3-minute interval (166,430 of which 39,853 were compressor 
+active), manual calculations of all interim and final KPI’s were performed and captured, leading to a 
+38-field simulation data set. 
+A random sample of 8,000 active records was then subjected to a process of additional calculation 
+(where OAT was arbitrarily increased by 15 degrees for calculation purposes only), with the resulting 
+KPI’s being labeled as anomalies.  An additional field was created to label each record as a “1” 
+(8,000 anomaly records) or a “0” (31,853 non-anomaly records). 
+The simulation model for calculating anomaly values in the KPI’s is relatively easy to adjust and 
+other methods to calculate the anomalies may be useful for building a machine learning “train/test” 
+model that could be later applied to the actual Macy’s data. 
+Conclusion on Simulated Data Set 
+When MAD and Random Forest were applied to the labeled simulated data set, unfortunately results 
+produced were inconclusive. The manually created ‘anomalies’ were not identified in a consistent 
+manner by either algorithm and further exploration via modifications to the simulation set were not 
+possible due to time constraints. 

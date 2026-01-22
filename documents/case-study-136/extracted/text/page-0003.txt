@@ -1,0 +1,73 @@
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2017 Powertron Global, LLC. 
+Equipment Information 
+TYPE 
+Equipment 
+ID 
+Manufacturer 
+ Model Number 
+Serial 
+Number 
+Type 
+Year 
+Mfg. 
+Refrig. 
+Type 
+Tonnage 
+DX 
+CU-1 
+Liebert-
+Emerson 
+PFC067A-YLO 
+D045876 
+CRAC 
+2002 
+22 
+5 
+DX 
+CU-02 
+Liebert-
+Emerson 
+PFC067A-YLO 
+D046148 
+CRAC 
+2002 
+22 
+5 
+DX 
+PKG-1 
+Liebert-
+Emerson 
+ET0607RY0CT6484 
+Y11KH50140 
+CRAC 
+2008 
+407C 
+5 
+The testing included monitoring the operation before and after (PRE and POST) 
+PermaFrost NMR® treatment to verify the amount of cooling capacity (tons) 
+restoration and the resultant kW/ton energy savings improvement.  
+The Measurement and Verification (M&V) protocol defined the boundary by 
+isolating the entry and departure points of the medium being cooled to determine 
+cooling performance and comparing that with the power being used to quantify 
+the power costs per unit of cooling, kW/Ton (kilowatt-per-ton), EER (Energy 
+Efficiency Ratio) and COP (Co-Efficient of Performance). 
+1.
+Method of Procedure for testing:
+The objective of measuring the overall cooling production of HVAC/R systems 
+can be realized by measuring the total energy consumed by the specific unit 
+being tested and the total BTU production of the system then calculating these 
+parameters to obtain current capacity, kW per ton, EER (energy efficient ratio) 
+and COP (coefficient of performance). Using that information the total BTUH of 
+cooling production can be realized. The objective of measuring overall power 
+consumed by an HVAC/R system can be realized by measuring voltage, 
+amperage and power factor.  
+For these specific HVAC/R systems many parameters were measured every 
+thirty milliseconds for a period of twelve (12) and nine (9) days for the 
+development of a scientific baseline performance. Data was extracted from the 
+parameters measured every five (5) seconds during all operating hours.  
+Total BTUH was developed along with total kW consumption by measuring all 
+required data points (35 points see appendix for points measured) and entering 
+them into industry best practice engineering formulae. All measurement hardware 
+was certified under NIST or CE standards. Engineering formulae was developed 
+by AHRI / ASHRAE (American Heating and Refrigeration Institute / American 

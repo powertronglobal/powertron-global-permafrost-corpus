@@ -1,0 +1,55 @@
+®
+4
+HVAC/R Eﬃciency Study Results
+Major US Telecom Chiller Eﬃciency with PermaFrost NMR® ECM
+The air-cooled chiller had the problem of thermal degradation. The high kW/ton ratings measured on site are 
+in line with the ASHRAE estimated loss of performance and cost to operate numbers. The degraded equipment 
+performance was costing Major US Telecom significant money and wasting energy. The equipment was currently using 
+significantly more kWh to operate than it used when it was new. 
+The problem of thermal degradation affecting the chiller has been significantly corrected by installing the ECM 
+PermaFrost NMR®. The degraded equipment performance has been restored. The chiller is using significantly 
+less kWh to operate than before the ECM was implemented. This efficiency summary combines the baseline 
+and post tonnage & coefficient of performance. This summary is the cumulative impact of the ECM’s 
+performance on the treated process chiller.
+79.6 tons
+95.6 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The chiller was operating @ 79.6 tons of cooling capacity
+• The chiller has 16 tons of restored cooling capacity after ECM
+• The chiller was operating @ 3.63 COP
+• The COP of the chiller was restored by 19.6%
+3.63
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+79.6
+tons Baseline
+100%
+CAPACITY @
+100%
+Baseline
+COP
+Post ECM
+COP
+3.63
+4.34
+4.34
+Post ECM COP
+95.6
+tons Post ECM
+19.6%
+Improvement
+in COP
+16
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

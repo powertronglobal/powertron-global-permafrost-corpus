@@ -1,0 +1,40 @@
+64        References 
+ 
+11. IESNA Publications, New York, New York. TEL: 212-248-5000, http://www.iesna.org. 
+12. Lawrence Berkeley National Laboratory (LBNL), Berkeley CA. TEL: 510- 486-6156, 
+Email: EETDinfo@lbl.gov, http://eetd.lbl.gov. 
+13. National Association of Energy Service Companies (NAESCO), Washington, D.C. TEL: 
+202-822-0950, http://www.naesco.org. 
+14. Energy Information Administration (EIA), Department of Energy, Washington, D.C., TEL: 
+202-586-8800, http://www.eia.doe.gov. 
+15. National Renewable Energy Laboratory (NREL), Boulder, Colorado,  
+TEL: (303) 275-3000, http://www.nrel.gov. 
+16. National Technical Information Service (NTIS), U.S. Department of Commerce (This is 
+repository for all publications by the Federal labs and contractors), Springfield Virginia. 
+TEL: 703-605-6000, http://www.ntis.gov. 
+17. Oak Ridge National Laboratory (ORNL), Oak Ridge, Tennessee,  
+Tel: (865) 574-5206, http://www.ornl.gov/ORNL/BTC. 
+18. Pacific Northwest National Laboratory (PNNL), Richland, Washington,  
+Tel: (509) 372-4217, http://www.pnl.gov/buildings/. 
+. 
+10.2  Measurement References 
+ASHRAE (2002) Annex A contains useful information on sensors, calibration techniques, lab 
+standards for measurement, and test methods for chillers, fans, pumps, motors, boilers, 
+furnaces, thermal storage and air handling systems. It also contains useful error and cost 
+considerations, though the cost information is dated because the research that produced the 
+data was done in 1994. 
+ 
+Standards under European Directive 2004/22/EC relative to measurement instruments are: 
+EN 1359:1998 Gas meters - Diaphragm gas meters 
+EN 1359:1998/A1:2006 
+EN 1434-1:2007 Heat meters - Part 1: General requirements 
+EN 1434-2:2007 Heat meters - Part 2: Constructional requirements 
+EN 1434-4:2007 Heat meters - Part 4: Pattern approval tests 
+EN 1434-5:2007 Heat meters - Part 5: Initial verification tests 
+EN 12261:2002 Gas meters - Turbine gas meters 
+EN 12261:2002/A1:2006 
+EN 12405-1:2005 Gas meters - Conversion devices - Part 1: Volume conversion 
+EN 12405-1:2005/A1:2006 
+EN 12480:2002 Gas meters - Rotary displacement gas meters 
+EN 12480:2002/A1:2006 
+EN 14154-1:2005+A1:2007 Water meters - Part 1: General requirements 

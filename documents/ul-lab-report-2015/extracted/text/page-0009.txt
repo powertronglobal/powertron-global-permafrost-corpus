@@ -1,0 +1,46 @@
+This is a report provided to customer and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2015 Powertron Global LLC. Please be aware 
+that our companies have a non-disclosure agreement in place and this document is covered under that agreement. This document is not to be distributed to any 
+third party and is not to be in the public domain without our written approval. 
+Hertz 
+60 
+60 
+60 
+60 
+Hz 
+Lbs Condensate / 30 Min 
+Latent 
+Capacity 
+Sensible 
+Capacity 
+Calculated 
+Condensate 
+Capacity 
+Net 
+Capacity 
+Balance 
+6.79 
+18073.04 
+58635.39 
+77060.43 
+76708.43 
+-0.45678 
+ 
+ 
+ 
+ 
+Conclusion 
+ 
+Upon detailed examination in a controlled chamber, the baseline measurements determined that the 
+test unit showed a considerable amount of degraded capacity and efficiency loss per OEM design 
+specifications.  
+Following the baseline readings, 8 ounces of PermaFrost NMR (corresponding to nominal equipment 
+design tonnage of the test unit) was injected into the evaporator section of the test unit while under load 
+inside the controlled chamber. The test unit was then removed from the chamber and installed into a 
+holding chamber where it was allowed to run at full load for 400+ hours. According to the OEM, this 
+was the approximate amount of time the PermaFrost NMR chemical compound required to fully 
+displace the lubricant from the metal surfaces of the heat exchangers and then absorb into these same 
+metal surfaces to prevent a reoccurrence of the oil fouling condition.  
+Subsequent to the 400+ hours of run time, the test unit was then reinserted into the test chamber to 
+allow for data collection and analysis. The system showed a significant increase in capacity compared 
+to the baseline.  With this increase in capacity came an equally significant improvement in efficiency of 
+the test unit as measured in EER and condensate collected.

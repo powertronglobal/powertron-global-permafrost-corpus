@@ -1,0 +1,61 @@
+{
+  "doc_id": "major-telecom-e-meter-623-kwh",
+  "slug": "major-telecom-e-meter-623-kwh",
+  "title": "Major Telecom E KWH Field Study",
+  "source_type": "tabular",
+  "source_folder": "Major Telecom E Central Office 623 kWh Meter",
+  "source_files": [
+    {
+      "filename": "Meter_623_Baseline_Temperature_Bins.csv",
+      "type": "csv",
+      "rows": 20,
+      "period": "baseline",
+      "size_bytes": 1216
+    },
+    {
+      "filename": "Meter_623_Post_Temperature_Bins.csv",
+      "type": "csv",
+      "rows": 16,
+      "period": "post",
+      "size_bytes": 994
+    },
+    {
+      "filename": "Meter_623_Temperature_Comparison.csv",
+      "type": "csv",
+      "rows": 16,
+      "period": "unknown",
+      "size_bytes": 1065
+    },
+    {
+      "filename": "Meter_623_Weighted_Analysis_Results.csv",
+      "type": "csv",
+      "rows": 10,
+      "period": "unknown",
+      "size_bytes": 350
+    },
+    {
+      "filename": "623 MATHealthcare System ANG Baseline 9_16-10_10_24 extended.xlsx",
+      "type": "xlsx",
+      "rows": 34387,
+      "period": "baseline",
+      "size_bytes": 1995862
+    },
+    {
+      "filename": "623 MATHealthcare System ANG Post 9_16_10_10_25 extended.xlsx",
+      "type": "xlsx",
+      "rows": 34524,
+      "period": "post",
+      "size_bytes": 2005075
+    }
+  ],
+  "data_resolution": {
+    "type": "time_series",
+    "total_rows": 68973
+  },
+  "company": {
+    "name": "Major Telecom E",
+    "industry": "Telecommunications"
+  },
+  "created_at": "2026-01-05T21:31:37.000371",
+  "processing_version": "1.0.0"
+}

@@ -1,0 +1,34 @@
+ Study Overview
+As demonstrated in this ﬁeld trial, PermaFrost NMR® restores the capacity on the CRAC systems lost over time 
+due to fouling of the heat exchange surfaces. The Circuit Master® devices treat the power supplying these same 
+CRAC systems. Working together, the ECMs beneﬁt Data Center Provider/Data Center REIT in any or all of the following ways:
+ 
+• Restoring capacity of the CRAC systems to satisfy ﬂuctuating building loads or lower room temps
+ 
+• Producing additional CRAC system redundancy at no extra cost or interruption to operations 
+ 
+• Improving CRAC system efﬁciency, lowering cost to produce each ton of cooling required 
+ 
+• Restoring thermal efﬁciency, allowing CRAC systems to achieve thermostat set points faster, reducing 
+ 
+   runtime and extending equipment life by 15%+ 
+ 
+• Reducing amp draw and demand charges (KVA) while increasing Power Factor utilization
+ 
+• Producing cooler operating temperatures of compressors, reducing service calls 
+The improvements demonstrated in this or any ﬁeld test resulting from PermaFrost NMR® and Circuit Master® are 
+dependent on factors such as age, condition, service history, runtime of one or both compressors, and the design 
+and operational application of each system. The results in this pilot were very consistent with 14+ year historical 
+performance averages as well as recently successful pilots conducted at multiple Data Center Provider locations and independent 
+laboratory study completed in May, 2015 on DX equipment by Underwriters Laboratories (UL) in their testing 
+chambers in [Texas Location], TX.
+Site Selection
+The location chosen for this pilot was a separate data center suite supported by four pilot CRAC systems put into 
+service in 2001.  The conﬁguration of this suite puts the major load on CRAC systems 1, 2 and 3.  CRAC system 4 
+supports the least densely populated area of the main ﬂoor furthest from the entrance. At the start of the pilot, 
+CRAC system 4 was the only system where the second compressor was occasionally cycling on and off. A 
+temperature logger placed on top of the cable racks in the center aisle of the suite on November 11, just prior to 
+the ECM’s being installed, measured temperatures averaging 84 degrees.  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+3

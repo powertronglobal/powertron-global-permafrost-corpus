@@ -1,0 +1,48 @@
+ 
+Appendix D Users of IPMVP         121 
+ 
+Utilities already have the whole facility data for their commodity in their databases, so may apply 
+Option C (Chapter 4.9) on all program participants or a sample of them. However without 
+adequate knowledge of changes within each facility, a large percentage of variation in the 
+savings should be expected, especially as time elapses between the baseline and reporting 
+periods.  
+EVO is monitoring the needs of the utility program evaluation community. EVO is considering 
+development of special M&V guidance for DSM program evaluation, and for establishing 
+baselines for measuring the ‘demand response’ of customers receiving utility price or 
+curtailment signals (see Preface – EVO’s Future Plans).  
+D-9   Water-Efficiency Project Developers  
+Water-efficiency M&V is analogous to energy-efficiency M&V, so uses similar M&V techniques. 
+The relevant technique for any project depends upon the nature of the change being evaluated, 
+and upon the user’s situation as discussed in Chapters 1.4.1 through 1.4.5 and 1.4.8.  
+Water-consuming equipment is often in the control of facility users (building occupants or 
+production managers). Therefore it can be difficult to monitor user behavior as needed to make 
+adjustments to total-facility water use for the application of Option C methods. Retrofit Isolation 
+methods are often more easily applied (Chapter 4.8), using a sample of the retrofits (Appendix 
+B-3) to demonstrate the performance of an entire group of changes. 
+Where outdoor water use is being evaluated, the adjustments term in IPMVP Equation 1 
+(Chapter 4) may be related to parameters that drive water use such as rainfall. 
+Liquid flow measurements devices (see Chapter 8.11, Table 5) are most commonly applied in 
+M&V for water efficiency projects.  
+D-10   Emission Trading Programs 
+Energy-efficiency programs can be central to helping large energy users meet their regulated 
+emission allocation. All of the techniques of this document help energy users manage their 
+energy use, through proper accounting (Chapters 1.4.3 and 1.4.4).  
+Energy-efficiency projects may also be the basis of trades in emission-reduction commodities 
+(credits, offsets, set asides, etc). Since such trades must hold up under public scrutiny, 
+compliance with an industry recognized protocol adds credibility to emission reduction claims.  
+Trading-program designers should specify compliance with IPMVP, 2002 edition or later. They 
+may go further and require fully measured energy-savings approaches (i.e. Options B or C, 
+Chapters 4.8.2 or 4.9). This further specification reduces the uncertainty in the quantification by 
+eliminating Options using estimated or simulated values rather than measured values. 
+Chapter 8.7 discusses the special M&V design issues for emission trades. 
+D-11  Energy Users Seeking ISO 50001 Certification 
+The management methods required under ISO 50001 focus on managing total facility utility 
+costs. IPMVP’s Options C and D (Chapters 4.9 and 4.10) describe methods useful for this 
+purpose, even if no savings are being sought. However IPMVP cautions on the challenges of 
+detecting small changes in whole facility utility energy use data. IPMVP offers both general 
+guidance (Chapter 4.9) and specific guidance (Appendix B-1.2) on how large total facility energy 
+use changes must be to be reportable with any statistical validity. If expected savings are not 
+large enough, it would be appropriate to also use sub-meters for different sections of the facility. 
+Also IPMVP’s Retrofit Isolation Options A and/or B (Chapter 4.8) would also be appropriate 
+management tools for specific energy efficiency projects. However Chapter 4.8 cautions that 
+Retrofit Isolation results cannot be correlated with whole facility utility bills.

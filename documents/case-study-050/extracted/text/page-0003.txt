@@ -1,0 +1,33 @@
+®
+2
+Process
+This report contains specific information regarding the current performance profile of one of two chillers that 
+support the Global Telecom Equipment Manufacturer [Texas Location] Facility in [Texas Location], TX. 
+Detailed performance testing (outlined later in this report) was performed on the pilot chiller before and after 
+the installation of the ECM to determine the impact on the three key elements that greatly affect Global Telecom Equipment Manufacturer’s 
+HVAC power bill as they relate to the original design specifications:
+ 
+ 
+1.  The cooling capacity the chiller is capable of producing after 15+ years in service. 
+ 
+2.  The actual cost of power required to produce the amount of cooling tons the chiller is delivering as 
+ 
+     reflected in the kW/ton measurement. 
+ 
+3.  The thermal dynamic ability of the chiller to still perform at or close to operational design.
+ 
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) framework. The team was led by Commercial Real Estate Services’s Chief Engineer, [Client Representative] and supported by Plant Engineer [Client Representative] and Powertron 
+Global’s Director of Engineering, [Senior Energy Engineer].  
+Notes
+The chiller tested is one of the most efficient types of chillers HVAC Equipment Manufacturer manufactures.  Both the baseline and post 
+measurements were taken with outside air temperatures of 72 degrees.  
+The incoming condenser water from the tower in both the baseline and post was very close to design specifications so no 
+adjustments were made.
+Global Telecom Equipment Manufacturer’s repeatable management of the chiller plant during the trial provided more than an adequate heat load on the 
+facility to ensure the chiller would remain running during the actual data collection periods. 
+The boundary of the testing was the chiller and nothing else; therefore confidence in the accuracy of the performance 
+calculations is very high.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

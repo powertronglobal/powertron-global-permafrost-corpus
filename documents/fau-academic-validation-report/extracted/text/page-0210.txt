@@ -1,0 +1,49 @@
+110        Appendix C Region Specific Materials 
+ 
+COSTIC : http://www.costic.com/dju/presentation.html 
+ 
+4.9A4 : Méthodes de calibration applicables   
+Compléments méthodologiques : voir ASHRAE 2002, 1051RP 
+ 
+4.9A5 : Niveaux de précision minimaux recommandés   
+ASHRAE 2002 
+ 
+C-3  España - 2009 
+En el desarrollo del IPMVP en España, aunque no existe una normativa específica para la 
+Medida y verificación de proyectos eficientes existen particularidades y utilidades propias de su 
+legislación y normativa que conviene conocer. 
+Por ello, se anexa información específica de España: 
+Anexos al Capítulo 4.9.1 
+Para la obtención de la escala de calificación energética de edificios, en España, se ha 
+realizado un estudio específico en el que se detalla el procedimiento utilizado para obtener los 
+límites de dicha escala en función del tipo de edificio considerado y de la climatología de la 
+localidad. Este procedimiento ha tomado en consideración las escalas que en la actualidad se 
+sopesan en otros países y, en particular, la propuesta que figura en el documento del CEN 
+prEN 15217 “Energy performance of buildings: Methods for expresing energy preformance and 
+for energy certification of buildings”.  
+La determinación del nivel de eficiencia energética correspondiente a un edificio puede 
+realizarse empleando dos opciones:  
+ 
+La opción general, de carácter prestacional, a través de un programa informático; y la 
+opción simplificada, de carácter prescriptivo, que desarrolla la metodología de cálculo 
+de la calificación de eficiencia energética de una manera indirecta.  
+ 
+La opción general se basa en la utilización de programas informáticos que cumplen los 
+requisitos exigidos en la metodología de cálculo dada en el RD 47/2007. Se ha 
+desarrollado un programa informático de referencia denominado Calener, promovido por 
+el Ministerio de Industria, Turismo y Comercio a través del IDAE y la Dirección General 
+de Arquitectura y Política de Vivienda del Ministerio de Vivienda.  
+Este programa cuenta con dos versiones:  
+ 
+Calener_VYP, para edificios de Viviendas y del Pequeño y Mediano Terciario (Equipos 
+autónomos).  
+ 
+Calener_GT, para grandes edificios del sector terciario.  
+La utilización de programas informáticos distintos a los de referencia está sujeta a la 
+aprobación de los mismos por parte de la Comisión Asesora para la Certificación Energética de 
+Edificios. Esta aprobación se hará de acuerdo con los criterios que se establece en el 
+Documento de Condiciones de Aceptación de Procedimientos Alternativos a Líder y Calener.  
+El Programa informatico Calener es una herramienta promovida por el Ministerio de Industria, 
+Turismo y Comercio, a través del IDAE , y por el Ministerio de Vivienda, que permite determinar 
+el nivel de eficiencia energética correspondiente a un edificio. El programa consta de dos 
+herramientas informaticas para una utilización mas fácil por el usuarioNT. 

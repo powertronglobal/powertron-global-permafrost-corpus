@@ -1,0 +1,45 @@
+viii        Preface 
+ 
+PREFACE 
+Outline Of This Document 
+The International Performance Measurement and Verification Protocol (IPMVP) Volume I is a 
+guidance document describing common practice in measuring, computing and reporting savings 
+achieved by energy or water efficiency projects at end user facilities. The IPMVP presents a 
+framework and four measurement and verification (M&V) Options for transparently, reliably and 
+consistently reporting a project’s saving. M&V activities include site surveys, metering of energy 
+or water flow(s), monitoring of independent variable(s), calculation, and reporting. When 
+adhering to IPMVP’s recommendations, these M&V activities can produce verifiable savings 
+reports. 
+The IPMVP is intended to be used by professionals as a basis for preparing savings reports. 
+Each user must establish its own specific M&V Plan that addresses the unique characteristics of 
+the project. The IPMVP is not a standard and thus there is no formal compliance mechanism for 
+this document. Adherence with the IPMVP requires preparation of a project specific M&V Plan 
+that is consistent with IPMVP terminology. It must name the IPMVP Option(s) to be used, 
+metering monitoring and analysis methods to be used, quality assurance procedures to be 
+followed, and person(s) responsible for the M&V. 
+IPMVP Volume I Chapters are organized as follows: 
+1. Introduces IPMVP and EVO.  
+2. Defines M&V, and lists eight uses for M&V techniques.  
+3. Lays the foundation of M&V by defining the underlying Principles of good M&V. The 
+balance of the document summarizes common industry methods for implementing these 
+fundamental Principles. 
+4. Defines the IPMVP Framework and its four Options. It presents the basic methodologies 
+and adjustments to energy or water measurements needed to properly report savings. 
+Tables 2 and 4, and Figure 4 summarize the Options and offer guidance in choosing 
+amongst them for each application. 
+5. Lists the topics that should be contained in an M&V Plan and gives guidance on design 
+decisions needed to make the M&V activity cost effective for all users of the savings 
+reports. 
+6. Defines a means of specifying the use of IPMVP and of claiming adherence with it. 
+7. Presents key information that should be included in each savings report. 
+8. Lists many additional issues that commonly arise in M&V design or reporting. 
+9. Lists definitions of all italicized words in the document.  
+10. Provides a list of references and some useful other resources. 
+Appendix A provides 12 example applications of IPMVP, in varying levels of detail. It refers to 
+EVO’s website for detailed examples of M&V Plans and Savings Reports. 
+Appendix B summarizes basic uncertainty quantification techniques to guide decisions about 
+the level of rigour suitable for each M&V process.  
+Appendix C contains region-specific materials for the United States of America, France, Spain 
+(incl. Catalonia), Romania, Bulgaria, the Czech Republic, Croatia and Poland. 
+Appendix D is a Users Guide to help different types of readers understand common ways of 
+applying the document 

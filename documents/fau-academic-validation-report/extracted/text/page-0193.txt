@@ -1,0 +1,48 @@
+ 
+Appendix B Uncertainty         93 
+ 
+   monthly energy consumption = 342,000 + (63 x HDD) + (103 x CDD) + (222 x Occupancy) 
+ 
+HDD and CDD are heating and cooling degree days, respectively. Occupancy is a measure of 
+percent occupancy in the building. In this model 342,000 is an estimate of baseload in kWh, 63 
+measures the change in consumption for one additional HDD, 103 measures the change in 
+consumption for one additional CDD, and 222 measures the change in consumption per 1% 
+change in occupancy. 
+Appendix B-6 presents an example of a regression analysis report for a single independent 
+variable, from common spreadsheet software. 
+B-2.1   Modeling Errors 
+When using regression models, as described above, several types of errors may be introduced 
+as listed below. 
+1. The model is built on values that are outside the probable range of the variables to be used. 
+A mathematical model should only be constructed using reasonable values of the 
+dependent and independent variables. 
+2. The mathematical model may not include relevant independent variables, introducing the 
+possibility of biased relationships (omitted variable bias). 
+3. The model may include some variables that are irrelevant. 
+4. The model may use inappropriate functional form. 
+5. The model may be based on insufficient or unrepresentative data. 
+Each of these types of modeling errors is discussed below. 
+B-2.1.1   Using Out of Range Data 
+If the model is built on data that are not representative of the normal energy behavior of the 
+facility, then the predictions may not be relied upon. This may include inclusion of outliers, or 
+values that are well outside the range of reasonableness. Data should be screened before 
+building the model. 
+B-2.1.2   Omission of Relevant Variables 
+In M&V, regression analysis is used to account for changes in energy use. Most complex 
+energy using systems are affected by innumerable independent variables. Regression models 
+cannot hope to include all independent variables. Even if it were possible, the model would be 
+too complex to be useful and would require excessive data gathering activities. The practical 
+approach is to include only independent variable(s) thought to significantly impact energy.  
+Omission of a relevant independent variable may be an important error. The example model in 
+Appendix B-2 tries to explain the variations in monthly energy use using several X variables. If a 
+relevant independent variable is missing (e.g., HDD), then the model will fail to account for a 
+significant portion of the variation in energy. The deficient model will also attribute some of the 
+variation that is due to the missing variable to the variable(s) that are included in the model. The 
+effect will be a less accurate model. .  
+There are no obvious indications of this problem in the standard statistical tests (except maybe 
+a low R2, see B-2.2.1 below). Experience and knowledge of the engineering of the system 
+whose performance is being measured is most valuable here.  
+There may be cases where a relationship is known to exist with a variable recorded during the 
+baseline period. However the variable is not included in the model due to lack of budget to 
+continue to gather the data in the reporting period. Such omission of a relevant variable should 
+be noted and justified in the M&V Plan. 

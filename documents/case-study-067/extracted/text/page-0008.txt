@@ -1,0 +1,19 @@
+®
+7
+RTU Testing Methodology
+For this portion of the pilot, measurement data was collected prior to the RTU being treated with the 
+PermaFrost NMR® ECM on 6 June 2014. PermaFrost NMR® was then allowed to work for a period of at least 
+400+ hours before the post measurements were taken on a similar weather day and then compared to the 
+baseline data.
+  
+To reduce the impact of the store variables on the data, care was taken to have similar outside air temperatures 
+affecting the ability of the condensing coils to reject heat as well as similar entering wet bulb and dry bulb 
+temperatures. With these three conditions accomplished and the boundary of the test being the RTU itself, the 
+confidence level in the resulting data in very high. 
+For the RTU phase, the comparisons included testing conducted on the days listed below:
+Baseline -  Friday 6 June, Outside Air Temp of 75°, Entering DB of 71.4°, Entering WB of 56.9° 
+Post - Friday 1 August, Outside Air Temp of 75°, Entering DB of 70.3°, Entering WB of 56.7°
+The boundary of the testing was the RTU and nothing else; therefore confidence in the accuracy of the 
+performance calculations is very high.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

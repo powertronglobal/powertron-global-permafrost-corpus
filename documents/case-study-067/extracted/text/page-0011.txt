@@ -1,0 +1,51 @@
+®
+10
+3.23 tons
+4.98 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The RTU should be operating @ 5 tons of cooling capacity
+• The RTU was operating @ 3.23 tons of cooling capacity prior to
+   installing ECM
+• The RTU now has 4.98 tons of restored cooling capacity after ECM
+• The RTU should be operating @ 3 COP or higher
+• The RTU was operating @ 2.01 COP prior to the ECM
+   and 2.98 following the ECM
+• The COP of the RTU was increased by 48.3% following the ECM
+2.01
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+3.23
+tons Baseline
+CAPACITY @
+SIMILAR
+OPERATING
+CONDITIONS
+Baseline
+COP
+Post ECM
+COP
+2.01
+2.98
+2.98
+Post ECM COP
+4.98
+tons Post ECM
+48.3%
+Improvement
+in COP
+1.75
+tons of
+Recovered
+Capacity
+TONS OF COOLING
+COP
+HVAC/R Eﬃciency Study Results 
+RTU Eﬃciency with PermaFrost NMR® ECM
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

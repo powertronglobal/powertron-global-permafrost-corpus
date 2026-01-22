@@ -1,0 +1,86 @@
+6
+Energy Science Division
+Chiller #1 IPMVP Data
+POST
+BASELINE
+Voltage  
+Amperage  
+Suction Refrigerant Temp  - ck1 / ck2
+Suction Refrigerant Pressure  - ck1 / ck2
+Discharge Refrigerant Temp - ck1 / ck2
+Discharge Refrigerant Pressure - ck1 / ck2
+Chilled Water Leaving (Supply)
+Chilled Water Entering (Return)
+Evaporator Approach
+Measured Tons Produced 
+Water Flow Through Chiller (GPM)
+kW
+Calculated kW / Ton  
+Coeﬃcient of Performance (COP)
+kWh
+O.A.T.
+491.6 V
+143.1 A
+36.6 / 36.6 F 
+64 / 64 PSI
+112.3 / 112 F 
+233 / 233 PSI
+45.4 F 
+54.9 F 
+8.8 F 
+58.9
+148.8
+103.4 kW
+1.76
+2.00
+453,823
+73 F 
+488.3 V 
+128.0 A 
+35 / 35.7 F
+61 / 62 PSI
+104.2 / 104.2 F 
+209 / 209 PSI
+43.8 F 
+54.8 F 
+8.45 F 
+62.5
+132.3
+91.9 kW
+1.47 
+2.39
+403,349
+72 F 
+MEASUREMENT
+Improvements
+kW / Ton  
+Evaporator Approach
+Total kWh
+Measured Tons
+COP
+Total kW 
+16.5%
+4.0%
+16.5%
+6.1%
+19.5%
+16.5%
+Post
+1.47
+8.45 F 
+403,349
+62.5
+2.39
+91.9
+Baseline
+1.76
+8.80 F 
+482,790
+58.9
+2.00
+110
+Results
+The following are the final calculated performance measurements following the PermaFrost NMR® Post 
+measurement period of Chiller #1. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,132 @@
+{
+  "title": "Independent Laboratory Testing Details",
+  "description": "Detailed test results from FAU, UL, Texas Oiltech, and third-party labs",
+  "version": "2.0.0",
+  "last_updated": "2026-01-12",
+  "tests": [
+    {
+      "source_file": "Texas_Oiltech_PF-NMR_COA.pdf",
+      "text_length": 12500,
+      "lab": "Texas Oiltech Laboratories",
+      "location": "[City], TX",
+      "certifying_engineer": "[Laboratory Director], P.E.",
+      "test_date": "2002-04-18",
+      "type": "Certificate of Analysis",
+      "standards_tested": [
+        "API",
+        "ASHRAE",
+        "ARI",
+        "ASTM",
+        "EPA",
+        "ANSI",
+        "UL"
+      ],
+      "key_results": {
+        "astm_d2783_four_ball": {
+          "weld_point_kg": 295,
+          "standard_oil_max_kg": 8.5,
+          "improvement_factor": 34.7,
+          "load_wear_index": 60.0
+        },
+        "astm_d2717_thermal_conductivity": {
+          "oil_only": 0.94,
+          "with_permafrost": 1.18,
+          "improvement_percent": 25.5
+        },
+        "refrigerant_compatibility": {
+          "group_i_cfcs": "Compatible",
+          "group_ii_hcfcs": "Compatible",
+          "group_iii_hfcs": "Compatible"
+        },
+        "corrosion_d1384": {
+          "copper_mg": 0.3,
+          "brass_mg": 0.4,
+          "steel_mg": 0.5,
+          "iron_mg": 0.7,
+          "aluminum_mg": 0.3,
+          "spec_limit_mg": 10
+        }
+      }
+    },
+    {
+      "source_file": "2022_[Laboratory]_FAU-report.pdf",
+      "text_length": 478037,
+      "lab": "Florida Atlantic University / Oak Ridge",
+      "type": "University Research",
+      "temperature_readings": 196,
+      "eer_values": [
+        10.2,
+        9.2,
+        24.0
+      ],
+      "cop_values": [
+        1.55,
+        1.53,
+        3.8,
+        2.22,
+        2.14,
+        2.64,
+        1.44,
+        3.39,
+        1.45,
+        3.48
+      ],
+      "kw_per_ton": [],
+      "improvement_percentages": [
+        40.0,
+        15.0,
+        21.0,
+        20.0,
+        10.0,
+        50.0,
+        40.0,
+        20.0,
+        40.0,
+        50.0,
+        10.9,
+        9.0,
+        7.0,
+        4.0,
+        13.3,
+        20.3,
+        16.0,
+        4.9,
+        6.0,
+        16.0
+      ]
+    },
+    {
+      "source_file": "2022_UL-Report.pdf",
+      "text_length": 17854,
+      "lab": "Underwriters Laboratories (UL)",
+      "type": "Third-Party Certification",
+      "temperature_readings": 13,
+      "eer_values": [
+        10.3,
+        6.48,
+        7.98
+      ],
+      "improvement_percentages": [
+        5.0,
+        18.9,
+        2.9,
+        18.9,
+        22.5,
+        18.2,
+        24.6
+      ]
+    },
+    {
+      "source_file": "2022_UL_Verified_Report-.pdf",
+      "text_length": 529,
+      "lab": "Underwriters Laboratories (UL)",
+      "type": "Third-Party Certification"
+    },
+    {
+      "source_file": "2022_3rd-Party-MV.pdf",
+      "text_length": 1170,
+      "lab": "Third-Party M&V",
+      "type": "Independent Verification"
+    }
+  ]
+}

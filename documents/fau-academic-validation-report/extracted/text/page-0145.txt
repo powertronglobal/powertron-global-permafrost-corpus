@@ -1,0 +1,53 @@
+ 
+Other Common M&V Issues       45 
+ 
+possible ways to document the results of an ECM so that users can develop low-cost M&V 
+procedures that provide adequate information. 
+It is difficult to generalize about costs for the different IPMVP Options, since each project will 
+have its own budget. However, M&V should incur no more cost than needed to provide 
+adequate certainty and verifiability in the reported savings, consistent with the overall budget for 
+the ECMs.   
+ 
+Option A 
+Number of measurement points; complexity of 
+estimation; frequency of reporting period inspections. 
+Option B 
+Number of measurement points; length of the reporting 
+period. 
+Option C 
+Number of static factors to be tracked during the 
+reporting period; number of independent variables to be 
+used for routine adjustments. 
+Option D 
+Number and complexity of systems simulated; number of 
+field measurements needed to provide input data for the 
+calibrated simulation; skill of professional simulator in 
+achieving calibration. 
+ 
+Table 4 highlights key cost-governing factors unique to each Option, or not listed above. 
+Commonly, since Option A involves estimates, it will involve fewer measurement points and 
+lower cost, providing estimation and inspection costs are not unusually high. Option A methods 
+usually have lower cost and higher uncertainty than Option B methods.   
+Since new measurement equipment is often involved in Options A or B, the cost of maintaining 
+this equipment may make Option C less costly for long reporting periods. However, the costs of 
+extra meters for Options A or B may be shared with other objectives of monitoring or cost 
+allocation. 
+When multiple ECMs are installed at one site, it may be less costly to use Options C or D than 
+to isolate and measure multiple ECMs with Options A or B. 
+An Option D simulation model is often time-consuming and costly. However, the model may 
+have other uses such as for designing the ECMs themselves or designing a new facility. 
+Expect M&V costs to be highest at the beginning of the reporting period. At this stage in a 
+project, measurement processes are being refined, and accurate performance monitoring helps 
+to optimize ECM operation. The cost for each savings determination should be in proportion to 
+the expected savings and the variation in savings (see Chapter 8.5).  
+A contractor is often responsible for only certain performance indicators. Other indicators may 
+not have to be measured for contractual purposes, though the facility owner may still wish to 
+measure all indicators. In this situation, the owner and contractor share the costs of 
+measurement. 
+8.5  Balancing Uncertainty And Cost 
+The acceptable level of uncertainty in a savings report is related to the cost of decreasing 
+uncertainty to an appropriate level for the expected amount of  savings. Typically average 
+annual M&V costs are less than 10% of the average annual savings being assessed. The 
+ 
+Table 4  Unique Elements 
+of M&V Costs 

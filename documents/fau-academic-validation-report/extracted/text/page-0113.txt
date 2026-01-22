@@ -1,0 +1,45 @@
+ 
+IPMVP Framework and Options       13 
+ 
+ 
+Non-Routine Adjustments – for those energy-governing factors which are not usually 
+expected to change, such as: the facility size, the design and operation of installed 
+equipment, the number of weekly production shifts, or the type of occupants. These static 
+factors must be monitored for change throughout the reporting period. See Chapter 8.2 for 
+discussion of non-routine adjustments.  
+ 
+  
+Therefore Equation 1) can be expressed more fully as: 
+ 
+Savings  =   ( Baseline Energy –  Reporting-Period Energy ) 
+ 
+ 
+ 
+± Routine Adjustments  ±  Non-Routine Adjustments 
+1a) 
+ 
+The adjustments terms in Equation 1a) are used to express both pieces of measured energy 
+data under the same set of conditions. The mechanism of the adjustments depends upon 
+whether savings are to be reported on the basis of the conditions of the reporting period, or 
+normalized to some other fixed set of conditions as discussed below9. 
+ 
+                                                  
+9 The following general methods can be applied to Options A, B and C described in the rest of the Chapter 4. Option 
+D generally includes the adjustments within the simulation, though the set of conditions for adjustment must still be 
+chosen. 
+ 
+Static Factors 
+Examples of static factors needing non-routine adjustments are changes in the:  
+ 
+amount of space being heated or air conditioned, 
+ 
+type of products being produced or number of production shifts per day 
+ 
+building envelope characteristics (new insulation, windows, doors, air tightness), 
+ 
+amount, type or use of the facility’s and the users’ equipment,  
+ 
+indoor environmental standard (e.g. light levels, temperature, ventilation rate), 
+and 
+ 
+occupancy type or schedule. 

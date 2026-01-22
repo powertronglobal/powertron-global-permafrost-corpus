@@ -1,0 +1,46 @@
+ 
+Appendix D Users of IPMVP         119 
+ 
+Good advance recording of static factors in the M&V Plan (Chapter 5) and diligent monitoring of 
+conditions after retrofit (Chapter 8.2) will help identify baseline change.  
+Plant managers would normally employ long-term energy monitoring to continuously minimize 
+energy waste. Energy-performance contractors may focus instead on short-term monitoring to 
+demonstrate their performance (Chapter 4.5.2).  
+For retrofits that may be easily turned off temporarily, such as a heat recovery device, 
+sequential short-term tests, which use the On/Off Test technique (Chapter 4.5.3), can 
+demonstrate performance. 
+The complexity of the M&V system’s meter design (Chapters 4.8.3 and 8.12) and computations 
+should also consider M&V costs, the expected magnitude of the savings, project economics and 
+desired accuracy of reporting (Chapters 8.3 - 8.5 and Appendix B). 
+The prices used for valuing the savings should be those established in the energy performance 
+contract (Chapter 8.1). 
+The energy user may hire a verifier, separate from the energy-performance contractor (Chapter 
+8.6) when he or she lacks the ability to review an M&V Plan or savings report. 
+Appendix A contains examples of industrial applications of IPMVP (Sections A-4, A-5, while A-2, 
+A-3.1 and A-6 relate to technologies found in most industrial plants). 
+D-3   Industrial and Building Energy Users Doing Their Own Retrofits 
+Energy users often install ECMs themselves. When they are confident about achieving the 
+planned savings, a ‘no M&V’ approach leaves the entire budget available for retrofits. However 
+energy users may need to justify investments, add credibility to requests for future investments, 
+or quantify uncertain performance. 
+M&V design issues would be similar to those described in Chapters 1.4.1. or 1.4.2, above, 
+except that there is no division of responsibility between energy user and an energy 
+performance contractor. Reporting costs may be lower because of less formal reporting. 
+D-4   Facility Managers Accounting For Energy/Water Budget Variances 
+To manage energy costs successfully, a facility manager should understand the relationship 
+between energy use and facility operating parameters. Important operating parameters include 
+occupancy, production rate, and weather. If a facility manager neglects these independent 
+variables, he or she may struggle to explain variances from predicted energy budgets. He/she 
+also risks future budgeting errors. Baseline adjustments are also necessary to account for non-
+routine changes at the facility. 
+Even if no savings are planned, the calculation techniques of Chapter 4 can help to explain 
+energy-budget variances. Therefore, M&V Plans (Chapter 5) are useful with or without retrofits. 
+Whole facility, Option C methods (Chapter 4.9), may be used, based on main (utility) meters or 
+sub-meters for major sections of the facility. If sub-meters are in place on specific pieces of 
+equipment (Chapter 4.8) they may help allocate costs to user departments or tenants within the 
+facility (using Option A or B approaches). 
+Components critical to the variations in the overall energy budget may be isolated for separate 
+metering of either their energy use (Option B, Chapter 4.8.2) or of a key parameter of energy 
+use (Option A, Chapter 4.8.1). Both of these cases call for long-term metering. Pay close 
+attention to the cost of maintaining and calibrating meters and managing data received from the 
+meters (see Chapter 4.8.3 and 8.12). 

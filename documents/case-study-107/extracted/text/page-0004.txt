@@ -1,0 +1,23 @@
+®
+3
+Energy Conservation Method (ECM)
+The content detailed in the first phase of this report will first demonstrate the ability of the pilot PU to perform 
+prior to the ECM being installed, as well as illustrate the amount of thermal degradation due in large part to 
+thermal degradation within the heat exchangers. 
+Following a diagnostic examination of the pilot equipment to determine the operational condition of the 
+system was satisfactory, Baseline M&V data was collected and recorded by the M&V team. Approximately 3 
+months after installation of PermaFrost NMR®, the M&V team returned on a very similar weather day to the 
+Baseline to take Post M&V measurements in the identical fashion as in the Baseline. The delta of these 
+measurements and associated calculations show the amount of capacity restored.
+The following report produces the utilization of the IPMVP as the M&V plan. 
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+• Ton = (Airflow * 4.5 * Enthalpy Delta) / 12,000 
+ 
+• kW/Ton = kW / Actual Tonnage 
+ 
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

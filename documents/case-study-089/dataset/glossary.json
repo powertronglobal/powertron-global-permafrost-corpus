@@ -1,0 +1,30 @@
+{
+  "doc_id": "pdf_088",
+  "terms": [
+    {
+      "term": "Energy Conservation Measure",
+      "abbreviation": "ECM",
+      "definition": null
+    },
+    {
+      "term": "Coefficient of Performance",
+      "abbreviation": "COP",
+      "definition": null
+    },
+    {
+      "term": "Saturated Evaporator Temp",
+      "abbreviation": "CH",
+      "definition": null
+    },
+    {
+      "term": "Saturated \n  Evaporator Temp",
+      "abbreviation": "DX",
+      "definition": null
+    },
+    {
+      "term": "Condenser Water Supply\nCondenser Water Return\nEvaporator Approach\nMeasured Tons Produced \nWater Flow Through Chiller",
+      "abbreviation": "GPM",
+      "definition": null
+    }
+  ]
+}

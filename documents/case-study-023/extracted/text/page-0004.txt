@@ -1,0 +1,51 @@
+ 
+ 
+ 
+Kilo-­‐watt	  per	  Ton	  (kW/Ton)	  =	  kW	  Energy	  /	  Tons	  (capacity)	  
+Co-­‐Efficient	  of	  Performance	  (COP)	  =	  12/kW	  per	  ton/	  3.412	  
+Energy	  Efficiency	  Ratio	  (EER)	  =	  BTU	  /	  Watts	  
+	  
+During	  all	  twenty-­‐four	  hours	  in	  a	  day,	  outdoor	  air	  temperature	  entering	  the	  air-­‐
+cooled	  condenser	  coils	  of	  both	  RTUs	  varies	  significantly.	  Accordingly,	  pre	  or	  
+baseline	  and	  post	  analysis	  and	  comparison	  of	  improved	  capacity	  is	  across	  a	  twenty	  
+(20)	  degree	  temperature	  span	  (65ºF-­‐85ºF)	  for	  kW	  per	  Ton,	  COP	  and	  EER.	  
+	  
+Please	  see	  the	  diagram	  below	  outlining	  the	  sensor	  placement	  and	  a	  general	  layout	  
+of	  the	  measurement	  &	  verification	  kits	  used	  on	  each	  RTU	  to	  determine	  capacity:	  
+	  
+	  
+	  
+To	  Determine	  Capacity:	  
+	  
+The	  evaporator	  entering	  air	  volume	  and	  the	  return	  enthalpy	  are	  measured	  by	  the	  
+CFM	  and	  inlet	  enthalpy	  sensors.	  The	  evaporator	  leaving	  air	  enthalpy	  is	  measured	  
+by	  the	  outlet	  air	  enthalpy	  sensor.	  The	  inlet	  and	  outlet	  enthalpies	  are	  subtracted	  
+from	  each	  other	  resulting	  in	  a	  sum	  called	  the	  Enthalpy	  delta.	  This	  enthalpy	  delta	  (∆)	  
+is	  used	  in	  the	  shown	  formula	  below.	  Other	  components	  of	  this	  formula	  complete	  
+the	  equation.	  These	  include	  the	  volume	  of	  air	  passing	  through	  the	  evaporator	  (CFM	  
+or	  Cubic	  feet	  of	  air	  per	  minute)	  and	  an	  engineering	  standard	  ratio	  of	  4.5	  (Ratio	  of	  
+Standard	  Air)	  or	  constant.	  	  The	  result	  of	  this	  calculation	  yields	  the	  industry	  
+standard	  the	  British	  Thermal	  Unit	  (BTU),	  which	  is	  used	  to	  calculate	  the	  unit’s	  
+capacity	  in	  BTU.	  This	  BTU	  number	  is	  then	  divided	  by	  the	  constant	  12,000	  which	  is	  
+C
+E
+E
+E
+E
+T
+outdoor air
+temperature
+sensor
+compressor on/off
+detection section
+CFM sensor
+evaporator outlet
+enthalpy sensor
+evaporator inlet
+enthalpy sensor
+evaporator inlet
+enthalpy sensor
+T
+outdoor air
+temperature
+sensor

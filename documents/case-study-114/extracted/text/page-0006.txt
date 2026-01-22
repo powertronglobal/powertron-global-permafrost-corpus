@@ -1,0 +1,28 @@
+®
+5
+Engineering Notes
+Following a diagnostic examination of the pilot equipment to determine the operational condition of the units were 
+satisfactory, Baseline M&V data was collected and recorded by the M&V team with assistance from HVAC Services Provider. Units 
+51 and 52 were initially tested and treated on 16 July 2014 and had 400+ runtime hours after installation of the ECM 
+before the post readings were taken on 25 Sept 2014. Due to some maintenance and scheduling issues, units 50 and 57 
+were not initially tested and treated until 14 Aug 2014 and had just over 300 runtime hours while the chiller, which was 
+also tested and treated on 14 Aug, had just under 250 runtime hours on it when post readings were taken on 25 Sept 
+2014. Since the combined results were well within expected savings parameters, no further readings are necessary.  
+Both the baseline dates were nearly identical weather and building load perspective. The scheduled post reading date was 
+somewhat cooler but the internal building load was the same in three of the spaces served by the units. To replicate 
+similar weather conditions on the RTUs, doors were opened to the compressors to get the head pressures to close to what 
+they were in the baseline readings. Any shortfalls in pressures were adjusted for by raising the post amps accordingly. 
+Due to differences in operational load, the area served by unit 50 was above the 1 degree entering air WB temperature 
+difference testing parameters we normally accept to assure high confidence in the data but the team decided to leave it a 
+part of the study for transparency. The load on circuit B of the chiller was much higher in the post (86.5%) than in the 
+baseline (50%) and since circuit A was still down for maintenance the M&V team could not load limit the chiller to take 
+measurements without negatively affecting laundry operations. For this portion of the test the key element to look at is the 
+reduction of kW/ton. 
+As expected in any in-situ testing, all the RTUs had varying airflows, refrigerant temps and enthalpy deltas which show 
+up in the varying levels of performance. This is the reason to focus on the delta improvements both at each unit and as an 
+aggregate. 
+The collection of the data in both the baseline and post periods was collected by Powertron Global® while witnessed 
+throughout by HVAC Services Provider technicians. Pictures were also taken of all the key readings used in the formulas and are 
+available upon request.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

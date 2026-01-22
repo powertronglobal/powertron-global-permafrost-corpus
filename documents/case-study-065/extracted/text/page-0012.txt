@@ -1,0 +1,25 @@
+®
+Return On Investment
+The final calculated average performance measurements following the PermaFrost NMR® Baseline and Post 
+measurement period of the chillers are:
+Baseline Energy Consumption
+Adjusted Baseline: 666.05 kWR
+Adjusted kW Baseline: 0.3221 kW/ton * 666.05 kWR = 214.53 kW
+Adjusted Baseline kWh: 214.53 kWE * 3,040 Annual Operating Hrs = 652,171 kWh
+Revised Cost to Run Baseline: 652,171  * ZAR 1.10 = ZAR 717,388
+Post Energy Consumption
+kWE AERP: 0.2466 kWE * 666.05 kWR = 164.25 kWE
+Annual kWh ERP: 164.25 kWE * 3,040 hours = 499,320 kWh
+Annual Cost ERP: 499,320 kWh * ZAR 1.10 = ZAR 549,252
+Savings Per Year
+Avoided Energy kWh (savings) Per Year: 652,171 – 499,320  = 152,851 kWh
+Avoided Energy Cost (savings) Per Year: ZAR 717,388 – ZAR 549,252 = ZAR 168,136
+Estimated Energy Savings Per Month: ZAR 168,136 / 12 = R14,011
+Return On Investment
+Cost of PermaFrost NMR® installed in pilot System: ZAR 238,000 
+Estimated Chiller ROI Period: ZAR 238,000 / ZAR 14,011 = 16.99 months
+~ Rounding utilized in all above calculations
+11
+Healthcare System ALLER #1
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

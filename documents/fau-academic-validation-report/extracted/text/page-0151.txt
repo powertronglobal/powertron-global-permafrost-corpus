@@ -1,0 +1,119 @@
+ 
+Other Common M&V Issues       51 
+ 
+ 
+Application 
+Meter 
+Category 
+Meter Types 
+Typical 
+Accuracy 
+Relative 
+Cost 
+Best Uses 
+Special M&V 
+Issues 
+Humidity (%) 
+ 
+ 
+ 
+ 
+ 
+Regular re-
+calibration 
+required 
+Liquid Flow 
+(units/sec) 
+Intrusive 
+Differential 
+Pressure 
+1-5% of max 
+ 
+ 
+ 
+Positive 
+Displacement 
+<1% 
+ 
+ 
+ 
+Turbine, or hot tap 
+insertion turbine 
+<1% 
+ 
+Clean fluid, 
+straight 
+pipe 
+ 
+Vortex Shedding
+High
+Non-
+intrusive 
+Ultrasonic 
+<1% 
+ 
+Straight 
+pipe 
+Spot flow 
+measure-
+ment 
+Magnetic
+High
+Bucket & Stop 
+watch 
+ 
+Low 
+Steam 
+condensat
+e, 
+plumbing 
+outlet 
+fixture 
+Spot flow 
+measure-
+ment 
+Pressure 
+ 
+ 
+ 
+ 
+ 
+ 
+Thermal 
+Energy 
+Packaged 
+flow and 
+tempera-
+ture 
+logging 
+and 
+comput-
+ation 
+Uses accurate flow 
+and temperature 
+sensors.  For 
+steam may need 
+pressure and 
+temperature 
+sensors 
+<1% 
+High 
+ 
+Use matched 
+temperature 
+sensors for 
+measuring a 
+temperature 
+difference.  
+Carefully 
+manage all 
+possible 
+sources of 
+error 
+ 
+ 
+Table 5  
+Key 
+Meter 
+Types – 
+Part 2 

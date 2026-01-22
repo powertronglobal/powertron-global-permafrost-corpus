@@ -1,0 +1,25 @@
+58        Definitions 
+ 
+8.1). Savings, as used in IPMVP, are not the simple difference between baseline and reporting 
+period utility bills or metered quantities. See Chapter 4.1 for elaboration on this point.  
+Significant Digits: Non-zero digits, and zeroes having non-zero digits to their left. Note that 
+whole numbers (numbers displaying no decimal point) have an unlimited number of significant 
+digits. Whole numbers ending in zero have an unclear number of significant digits. (See also 
+Chapter 8.12.) Note also that when adding numbers, the significant digits rule is replaced by a 
+rule on the number of digits after the decimal place. The number of such digits in any sum 
+should match that of the number with the fewest such digits. 
+Simulation Model: An assembly of algorithms that calculates energy use for a facility based on 
+engineering equations and user-defined parameters. 
+Standard Deviation:  See Appendix B-1.3. 
+Standard Error:  See Appendix B-1.3. 
+Standard Error of the Coefficient:  See Appendix B-2.2.3. 
+Standard Error of the Estimate:  See Appendix B-2.2.2. 
+Static Factors:  Those characteristics of a facility which affect energy use, within the chosen 
+measurement boundary, but which are not used as the basis for any routine adjustments. These 
+characteristics include fixed, environmental, operational and maintenance characteristics. They 
+may be constant or varying. (See particularly Chapters 4.6 and 8.2.) 
+t-statistic:  See Appendix B-2.2.3. 
+Variance:  See Appendix B-1.3. 
+Verification: The process of examining a report prepared by others to comment on its suitability 
+for the intended purpose. 
+ 

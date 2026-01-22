@@ -1,0 +1,18 @@
+Utilizing the data in the above charts, the following steps were taken to determine a very accurate ROI for 
+The Company for implementing this ECM:
+Baseline kWh = (27,780 CTW / 1,000) * 1,800 Annual Operating Hrs = 50,004 kWh
+Baseline Cost To Run = 50,004 kWh * $.18 = $9,001
+Regression Analysis is then used to account for amount of tonnage restored to Unit #1
+Adjusted Base Tonnage = 14.93 tons (equates to tonnage in ERP)
+Adjusted Total Watts = 2,093 WPT * 14.93 tons = 31,248 W
+Adjusted Base kWh = (31,248 W/1,000) * 1,800 Annual Operating Hrs = 56,246 kWh
+Revised Cost to Run Prior to ECM = 56,246 kWh * $.18 = $10,124
+Post ECM kWh = (27,834 W / 1,000) * 1,800 Annual Operating Hrs = 50,101 kWh
+Cost to Run After ECM = 50,101 kWh * $.18 = $9,018
+Cost Savings per Month = ($10,124 - $9,018) / 12 = $92
+Cost of PermaFrost NMR® installed @ $2,500 / $92 = 27.2
+ 
+ROI = 27.2 months
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

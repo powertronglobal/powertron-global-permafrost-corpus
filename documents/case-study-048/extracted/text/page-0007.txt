@@ -1,0 +1,61 @@
+®
+6
+ENERGY SAVINGS IN kW/TON
+Original Design
+Eﬃciency
+Baseline Cost to
+Operate Global Telecom Equipment Manufacturer
+Chiller As Is
+Post Cost to Operate
+Global Telecom Equipment Manufacturer Chiller
+after ECM 
+Operational Cost %
+-40
+-20
+00
+20
+40
+60
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+ 
+ 
+ 
+Age of
+Chiller
+13
+EXPECTED COST
+Age of Chiller
+AHealthcare System AEVED in
+Energy Savings
+11.2%
+Impact of Reversing Thermal Degradation
+With PermaFrost NMR® ECM
+Cost to Global Telecom Equipment Manufacturer for Lost Eﬃciency
+Left uncorrected, the chiller system with its reduced level of performance is costing (in money) an additional 
+11.2% more than it would if it were running at the design specification. Extrapolated across the Global Telecom Equipment Manufacturer 
+inventory of chiller equipment, this adds up to a significant waste in money and energy resources.
+Global Telecom Equipment Manufacturer was wasting over $23,664 a year by not correcting this problem in this chiller.
+ 
+Additional kWh Wasted at Global Telecom Equipment Manufacturer [New Jersey] per Year
+Additional Cost to Global Telecom Equipment Manufacturer [New Jersey] per Year
+Cost of Waste
+Reduced level of Performance Causes 
+196,400 kWh  
+$23,664 /Year
+ASHRAE Projected
+Eﬃciency Loss
+over time
+*
+* See page 5 Notes
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

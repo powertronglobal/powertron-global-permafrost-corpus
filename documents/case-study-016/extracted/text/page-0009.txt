@@ -1,0 +1,42 @@
+Results
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period of Refrigeration System #4 prior to using regression analysis. 
+PermaFrost NMR®: Determining the Payback Period for Major Food Manufacturer
+Utilizing data in the above charts, to obtain a true avoided energy cost and subsequent payback period for Major Food Manufacturer 
+for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in capacity. This greater capacity reduces the runtime hours and in turn 
+reduces the annual kWh expended in the Post. The true ROI comes from determining what the cost to run the units 
+was when operating at their original energy profile to produce the newly restored amount of tonnage and then 
+subtracting the new cost to run the units at this same newly restored tonnage after the PermaFrost NMR® ECM was 
+installed. This regression calculation is the most scientific method of accounting for the reduced number of hours the 
+units will now run due to their increased capacity which allows the units to reach set temperatures quicker and shut 
+off sooner.
+Avg. Adjusted kW Baseline        3.265 kW/ton * 8.88 tons = 28.99 kW
+Avg. Adjusted Baseline kWh        28.99 kW * 4,500 Annual Operating Hrs = 130,455 kWh
+Avg. Revised Cost to Run Baseline        130,455 kWh * $.12 = $15,654.60
+Energy Science Division
+Improvements
+kW / Ton  
+Total DB Delta of both Evaps
+Operating Tons Per Hour
+COP
+Unit Eﬃciency Per Design
+35.2%
+46.5%
+46.5 %
+53.7%
+46.5%
+Post
+2.12
+17.29
+8.88
+1.66
+96.7%
+Baseline
+3.27 
+11.80
+6.06 
+1.08
+66%
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

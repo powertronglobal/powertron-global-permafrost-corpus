@@ -1,0 +1,192 @@
+{
+  "doc_id": "major-telecom-e-meter-598-thermal",
+  "slug": "major-telecom-e-meter-598-thermal",
+  "source_type": "tabular",
+  "extracted_at": "2026-01-05T21:27:05.560697",
+  "summary": {
+    "total_files": 3,
+    "baseline_files": 1,
+    "post_files": 1,
+    "total_rows": 19320,
+    "baseline_rows": 8630,
+    "post_rows": 10688,
+    "efficiency_improvement": {
+      "baseline_kw_per_ton": 0.749,
+      "post_kw_per_ton": 0.595,
+      "improvement_percent": 20.7
+    }
+  },
+  "file_statistics": [
+    {
+      "period": "baseline",
+      "rows": 8630,
+      "columns": 9,
+      "column_names": [
+        "DateTime",
+        "Capacity (Tons)",
+        "Chilled Water Delta Temperature (F)",
+        "Chilled Water Flow Rate (GPM)",
+        "Circuit 1 Compressor 1",
+        "Circuit 2 Compressor 1",
+        "kW per Ton",
+        "Outdoor Air Temperature Entering Condenser (F)",
+        "Period"
+      ],
+      "metrics": {
+        "kW per Ton": {
+          "mean": 0.7494549607355665,
+          "std": 0.16238732498166464,
+          "min": 0.438369043039342,
+          "max": 1.22709654425927,
+          "median": 0.7296719133197664
+        },
+        "Capacity (Tons)": {
+          "mean": 117.89662727019065,
+          "std": 12.027370614957766,
+          "min": 84.760471743615,
+          "max": 157.014841782325,
+          "median": 117.9084433951855
+        },
+        "Outdoor Air Temperature Entering Condenser (F)": {
+          "mean": 78.32661020984497,
+          "std": 6.735957683668094,
+          "min": 64.76,
+          "max": 92.6342857142856,
+          "median": 77.8742857142857
+        },
+        "Chilled Water Delta Temperature (F)": {
+          "mean": 7.521732526804939,
+          "std": 0.7390784242983839,
+          "min": 5.45771428571429,
+          "max": 9.32,
+          "median": 7.52000000000001
+        },
+        "Chilled Water Flow Rate (GPM)": {
+          "mean": 375.7499854476666,
+          "std": 3.381420626477288,
+          "min": 364.064204193867,
+          "max": 518.638412645034,
+          "median": 375.9232577955785
+        }
+      },
+      "time_range": {
+        "column": "DateTime",
+        "start": "2024-10-23 05:01:00",
+        "end": "2024-10-29 04:59:00",
+        "duration_hours": 143.96666666666667
+      },
+      "source_file": "baseline_598_cleaned.csv"
+    },
+    {
+      "period": "unknown",
+      "rows": 2,
+      "columns": 15,
+      "column_names": [
+        "GPM Bin",
+        "Baseline kW/Ton",
+        "Post kW/Ton",
+        "kW/Ton Improvement %",
+        "Baseline Capacity",
+        "Post Capacity",
+        "Capacity Change %",
+        "Baseline Delta T",
+        "Post Delta T",
+        "Delta T Change %",
+        "Baseline OAT",
+        "Post OAT",
+        "OAT Difference",
+        "Baseline Count",
+        "Post Count"
+      ],
+      "metrics": {
+        "Baseline kW/Ton": {
+          "mean": 0.786,
+          "std": 0.15697770542341352,
+          "min": 0.675,
+          "max": 0.897,
+          "median": 0.786
+        },
+        "Post kW/Ton": {
+          "mean": 0.536,
+          "std": 0.14283556979968262,
+          "min": 0.435,
+          "max": 0.637,
+          "median": 0.536
+        },
+        "kW/Ton Improvement %": {
+          "mean": 32.27053140096619,
+          "std": 4.6457257121435065,
+          "min": 28.985507246376812,
+          "max": 35.555555555555564,
+          "median": 32.27053140096619
+        }
+      },
+      "source_file": "gpm_bin_comparison_598.csv"
+    },
+    {
+      "period": "post",
+      "rows": 10688,
+      "columns": 9,
+      "column_names": [
+        "DateTime",
+        "Capacity (Tons)",
+        "Chilled Water Delta Temperature (F)",
+        "Chilled Water Flow Rate (GPM)",
+        "Circuit 1 Compressor 1",
+        "Circuit 2 Compressor 1",
+        "kW per Ton",
+        "Outdoor Air Temperature Entering Condenser (F)",
+        "Period"
+      ],
+      "metrics": {
+        "kW per Ton": {
+          "mean": 0.5945734170084206,
+          "std": 0.19013332863630883,
+          "min": 0.087623097,
+          "max": 1.585676407,
+          "median": 0.581573133
+        },
+        "Capacity (Tons)": {
+          "mean": 129.09749069914764,
+          "std": 15.361137945462186,
+          "min": 65.8169987,
+          "max": 168.9219443,
+          "median": 132.0774402
+        },
+        "Outdoor Air Temperature Entering Condenser (F)": {
+          "mean": 70.55169853403349,
+          "std": 6.499718010168151,
+          "min": 55.67771429,
+          "max": 84.92,
+          "median": 69.62
+        },
+        "Chilled Water Delta Temperature (F)": {
+          "mean": 8.385984104609935,
+          "std": 0.8643196712734469,
+          "min": 4.804571429,
+          "max": 10.75485714,
+          "median": 8.5247580645
+        },
+        "Chilled Water Flow Rate (GPM)": {
+          "mean": 368.7088038504491,
+          "std": 14.02652541522592,
+          "min": 243.2741947,
+          "max": 399.4709053,
+          "median": 371.08908729999996
+        }
+      },
+      "time_range": {
+        "column": "DateTime",
+        "start": "2025-10-21 05:01:00",
+        "end": "2025-10-28 15:24:00",
+        "duration_hours": 178.38333333333333
+      },
+      "source_file": "post_598_cleaned.csv"
+    }
+  ],
+  "key_results": {
+    "kw_per_ton_improvement_percent": 20.7,
+    "baseline_kw_per_ton": 0.749,
+    "post_kw_per_ton": 0.595
+  }
+}

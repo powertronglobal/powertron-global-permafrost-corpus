@@ -1,0 +1,81 @@
+ 
+Appendix B Uncertainty         99 
+ 
+ 
+ 
+ 
+ 
+ 
+67
+1.0
+5.0
+64
+.1
+2
+2
+2
+
+
+
+on
+ 
+ 
+In some cases (e.g., metering of lighting hours or use), it may be desirable to initially 
+conduct a small sample for the sole purpose of estimating a cv value to assist in planning 
+the sampling program. Also values from previous M&V work may be used as appropriate 
+initial estimates of cv.  
+5. Adjust initial sample size estimate for small populations. The necessary sample size 
+can be reduced if the entire population being sampled is no more than 20 times the size of 
+the sample. For the initial sample size example, above, (no = 67), if the population (N) from 
+which it is being sampled is only 200, the population is only 3 times the size of the sample. 
+Therefore the “Finite Population Adjustment” can be applied. This adjustment reduces the 
+sample size (n) as follows:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N
+n
+N
+n
+n
+
+
+0
+0
+ 
+ 
+ 
+B-17 
+ 
+ 
+Applying this finite population adjustment to the above example reduces the sample size (n) 
+required to meet the 90%/±10% criterion to 50. See an example use of this adjustment in 
+Appendix A-3-1. 
+6. Finalize Sample Size.  Because the initial sample size (no) is determined using an assumed 
+cv, it is critical to remember that the actual cv of the population being sampled may be 
+different. Therefore a different actual sample size may be needed to meet the precision 
+criterion. If the actual cv turns out to be less than the initial assumption in step 4, the 
+required sample size will be unnecessarily large to meet the precision goals. If the actual cv 
+turns out to be larger than assumed, then the precision goal will not be met unless the 
+sample size increases beyond the value computed by Equations B-16 and B-17.  
+As sampling continues, the mean and standard deviation of the readings should be 
+computed. The actual cv and required sample size (Equations B-16 and B-17) should be re-
+computed. This re-computation may allow early curtailment of the sampling process. It may 
+also lead to a requirement to conduct more sampling than originally planned. To maintain 
+M&V costs within budget it may be appropriate to establish a maximum sample size. If this 
+maximum is actually reached after the above re-computations, the savings report(s) should 
+note the actual precision achieved by the sampling.  
+B-4   Metering  
+Energy quantities and independent variables are often measured as part of an M&V program, 
+using meters. No meter is 100% accurate, though more sophisticated meters may increase the 
+accuracy towards 100%. The accuracy of selected meters is published by the meter 
+manufacturer, from laboratory tests. Proper meter sizing, for the range of possible quantities to 
+be measured, ensures that collected data fall within known and acceptable error limits (or 
+precision). 
+Manufacturers typically rate precision as either a fraction of the current reading or as a fraction 
+of the maximum reading on the meter’s scale. In this latter case it is important to consider where 
+the typical readings fall on the meter’s scale before computing the precision of typical readings. 

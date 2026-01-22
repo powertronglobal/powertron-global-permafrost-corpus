@@ -1,0 +1,50 @@
+ 
+IPMVP Framework and Options       27 
+ 
+significant effect on the baseline energy use, should be included in the routine adjustments 
+when determining savings12 using Equation 1a), b) or c). 
+Independent variables should be measured and recorded at the same time as the energy data. 
+For example, weather data should be recorded daily so they can be totaled to correspond with 
+the exact monthly energy-metering period, which may be different from the calendar month. Use 
+of simple monthly mean temperature data for a non-calendar month energy metering period 
+introduces unnecessary error into the analysis.  
+4.8.4 Option C: Calculations and Mathematical Models  
+For Option C, the routine adjustments term of Equation 1a) is calculated by developing a valid 
+mathematical model of each meter’s energy-use pattern. A model may be as simple as an 
+ordered list of twelve measured monthly energy quantities without any adjustments. However a 
+model often includes factors derived from regression analysis, which correlate energy to one or 
+more independent variables such as outdoor temperature, degree days, metering period length, 
+production, occupancy, and/or operating mode. Models can also include a different set of 
+regression parameters for each range of conditions, such as summer or winter in buildings with 
+seasonal energy-use variations. For example, in schools where the building’s energy use differs 
+between the school year and the vacation period, you may need separate regression models for 
+the different usage periods (Landman and Haberl 1996a; 1996b).  
+Option C should use complete years (12, 24, or 36 months) of continuous data, during the 
+baseline period, and continuous data during the reporting periods (Fels 1986). Models, which 
+use other numbers of months, (9, 10, 13, or 18 months, for example) can create statistical bias 
+by under or over-representing normal modes of operation.   
+Meter data can be hourly, daily or monthly whole-facility data. Hourly data should be combined 
+into daily data to limit the number of independent variables required to produce a reasonable 
+baseline model, without significantly increasing the uncertainty in computed savings 
+(Katipamula 1996, Kissock et al. 1992). Variation in the daily data often results from the weekly 
+cycle of most facilities.  
+Many mathematical models are appropriate for Option C. To select the one most suited to the 
+application, consider statistical-evaluation indices, such as R2 and t (see Appendix B-2.2)13. 
+Appendix B-2.2 or published statistical literature can help you demonstrate the statistical validity 
+of your selected model.  
+4.8.5 Option C: Metering 
+Whole-facility energy measurements can use the utiltity’s meters. Utility-meter data is 
+considered 100% accurate for determining savings because this data defines the payment for 
+energy. Utility-meter data is usually required to meet commercial accuracy regulations for sale 
+of energy commodities.   
+The energy supplier’s meter(s) may be equipped or modified to provide an electical pulse output 
+that can be recorded by the facility's monitoring equipment. The energy-per-pulse constant of 
+the pulse transmitter should be calibrated against a known reference such as similar data 
+recorded by the utility meter. 
+                                                  
+12 All other parameters affecting energy use (i.e. “static factors” see box in Chapter 4.6) should be measured and 
+recorded in the baseline and reporting periods so that non-routine adjustments can be made if needed (see Chapter 
+8.8) 
+13 Additional information concerning these selection procedures can be found in Reynolds and Fels (1988), Kissock et 
+al. (1992, 1994) and in the ASHRAE Handbook of Fundamentals (2005) Chapter 32. ASHRAE (2002) also provides 
+several statistical tests to validate the usefulness of derived regression models. 

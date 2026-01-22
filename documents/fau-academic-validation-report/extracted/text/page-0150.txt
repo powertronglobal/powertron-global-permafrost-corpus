@@ -1,0 +1,135 @@
+50        Other Common M&V Issues 
+ 
+ 
+Application 
+Meter 
+Category 
+Meter Types 
+Typical 
+Accuracy 
+Relative 
+Cost 
+Best 
+Uses 
+Special M&V 
+Issues 
+AC Current 
+(amps) 
+Current 
+transformer 
+(CT) 
+Solid torroid or 
+split core 
+transformer 
+<1% 
+ 
+ 
+Not for use 
+where power 
+factor is less than 
+100% or there is 
+sinewave 
+distortion 
+AC Voltage 
+(volts) 
+Voltage 
+leads or 
+‘potential 
+transformer
+’ (PT) 
+Solid torroid or 
+split core 
+transformer 
+ 
+ 
+ 
+ 
+AC Electric 
+Power 
+(watts) or AC 
+Energy 
+(watthours) 
+True rms 
+watt meter 
+or watthour 
+meter 
+Measure watts 
+(or amps volts 
+and power 
+factor), and 
+watthours.  Use 
+digital sampling 
+(IEEE 519-
+1992) to 
+properly 
+measure 
+distorted 
+waveforms 
+ 
+ 
+ 
+Necessary for 
+inductive loads 
+(eg motors, 
+ballasts) or 
+circuits with 
+harmonics from 
+components such 
+as  a variable 
+speed drive 
+Runtime 
+(hours) 
+Measure 
+and record 
+equipment 
+operating 
+periods 
+Battery 
+operated 
+ 
+Lower cost 
+than 
+watthour 
+recording 
+Logging 
+of 
+lighting 
+periods 
+For equipment 
+having a constant 
+power usage rate 
+when on 
+Tempera-
+ture 
+(degrees) 
+Resistance 
+Temperatu
+re Detector 
+(RTD) 
+ 
+Reasonable 
+Low cost 
+Air and 
+water 
+Widely used.  
+Take care to 
+compensate for 
+different lead 
+lengths 
+Thermo-
+couple 
+ 
+High 
+High 
+ 
+Narrow range.  
+Suited to thermal 
+energy metering.  
+Need signal  
+amplifiers 
+  
+ 
+Table 5  
+Key Meter 
+Types – 
+Part 1 

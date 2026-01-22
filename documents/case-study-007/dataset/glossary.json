@@ -1,0 +1,40 @@
+{
+  "doc_id": "pdf_002",
+  "terms": [
+    {
+      "term": "Inc",
+      "abbreviation": "UL",
+      "definition": null
+    },
+    {
+      "term": "Energy \nReporting Period",
+      "abbreviation": "ERP",
+      "definition": null
+    },
+    {
+      "term": "All measurements were collected to \nprovide the establishment of a confident baseline power consumption and thermal \nperformance as determined by the use of temperature data",
+      "abbreviation": "CDD",
+      "definition": null
+    },
+    {
+      "term": "Power Factor",
+      "abbreviation": "PF",
+      "definition": null
+    },
+    {
+      "term": "British Thermal Units",
+      "abbreviation": "BTU",
+      "definition": null
+    },
+    {
+      "term": "Efficient of Performance",
+      "abbreviation": "COP",
+      "definition": null
+    },
+    {
+      "term": "Energy Efficiency Ratio",
+      "abbreviation": "EER",
+      "definition": null
+    }
+  ]
+}

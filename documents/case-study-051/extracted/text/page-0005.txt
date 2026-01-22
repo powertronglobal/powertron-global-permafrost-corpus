@@ -1,0 +1,49 @@
+0.0
+0.3
+0.6
+0.9
+1.2
+1.5
+4
+Methodology
+After verifying the GPM of the evaporator before beginning each phase of the pilot, the subsequent 
+measurements used in the efficiency calculations were collected using AHRI Standard 550/590 and compiled in 
+accordance with Option B of the IPMVP (International Measurement and Verification Protocol) framework. 
+The results presented below were formulated by entering the data into the following thermodynamic 
+engineering formulas:
+ 
+• kW = Volts * Amps * 1.47/1000 (for 3-Phase) 
+ 
+• kW/ton = Actual Measured Energy / Actual Measured Capacity 
+ 
+• Coefficient of Performance (COP) = 12 / (kW/ton) /3.412
+ 
+• Actual Cooling Capacity per Hour = Evaporator GPM X 8.34 * 60 * Chilled Water Delta T / 12,000 BTU
+Recovered Unit Cost with PermaFrost NMR® ECM
+The kW/ton is the standard Unit Cost in the HVAC 
+industry. It is the HVAC industry’s standard of 
+determining how much energy is required to create 1 ton 
+of cooling (i.e., conditioned air). When you reduce your 
+unit cost of cooling you are saving regardless of how 
+much cooling is required.
+The chart to the right illustrates the average amount of 
+efficiency restoration the ECM created in the pilot system 
+after being installed. This degradation in operational 
+efficiency is costing Community Center A a substantial amount of money 
+in wasted energy.  As the last chart clearly illustrates, the 
+treated pilot systems are currently performing on average 
+of 11.6% more efficiently. 
+kW/ton
+ .15 kW/ton
+Recovered
+Energy
+Equating to a
+11.6% Reduction
+Pilot Systems Average Performance
+Eﬃciency After Installation
+Baseline
+Post ECM
+1.28
+1.13
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

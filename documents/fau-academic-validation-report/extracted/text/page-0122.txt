@@ -1,0 +1,87 @@
+22        IPMVP Framework and Options 
+ 
+  
+When planning an Option A procedure, consider both the amount of variation in baseline energy 
+and the ECM’s energy impact before establishing which parameter(s) to measure. The following 
+three examples show the range of scenarios that may arise.  
+ 
+ECM reduces a constant load without changing its operating hours. Example: industrial-
+plant lighting fixtures are replaced with more efficient ones, but the operating hours of the 
+lights do not change. To reasonably measure the effect of the project, fixture power levels 
+should be measured in the baseline and reporting periods, while operating hours are 
+estimated in the energy calculations. 
+ 
+ECM reduces operating hours while load is unchanged. Example: automatic controls shut 
+down air compressors during unoccupied periods. To reasonably measure the effect of the 
+project, compressors’ operating time should be measured in both the baseline and reporting 
+periods, while compressors’ power can be estimated in the energy calculations. 
+ 
+ECM reduces both equipment load and operating hours. Example: Resetting of temperature 
+on a hot-water radiation system reduces overheating and induces occupants to close 
+windows, thereby reducing boiler load and operating periods. When both load and operating 
+periods are variable and uncertain, Option A cannot be used. 
+Generally, conditions of variable load or variable operating hours require more rigorous 
+measurement and computations.   
+Option A: Calculations 
+General Equation 1) in Chapter 4.1 is used in all IPMVP adherent computations. However under 
+Option A, there may be no need for adjustments, routine or non-routine, depending upon the 
+location of the measurement boundary, the nature of any estimated values, the length of the 
+reporting period, or the amount of time between baseline measurements and reporting-period 
+measurements.  
+Similarly baseline or reporting-period energy measurements involve measurement of only one 
+parameter under Option A, and estimation of the other. Therefore Equation 1) may simplify 
+down to: 
+ 
+Situation 
+Measurement vs. 
+Estimation Strategy 
+Adherent 
+to Option 
+A? 
+Operating 
+Hours 
+Power 
+Draw 
+ECM reduces operating hours 
+Measure 
+Estimate
+Yes 
+Estimate
+Measure 
+No 
+ECM reduces power draw 
+Estimate
+Measure 
+Yes 
+Measure
+Estimate
+No
+ECM reduces both power draw and operating hours: 
+Baseline power uncertain, operating 
+hours known 
+Estimate
+Measure 
+Yes 
+Measure 
+Estimate
+No 
+Power known but operating hours 
+uncertain 
+Measure 
+Estimate
+Yes 
+Estimate
+Measure
+No 
+Power and operating hours poorly 
+known 
+Measure 
+Estimate
+No – Use 
+Option B 
+Estimate
+Measure 
+ 
+Table 2  
+Example 
+Lighting 

@@ -1,0 +1,17 @@
+6
+Inspection Report - Post Treatment
+Important Manufacturer's Note
+     PermaFrost® is designed to allow the system to achieve thermostat set points faster thereby allowing 
+the unit to cycle off or cycle down to provide the greatest energy savings.  The proper way to measure the full 
+benefits of PermaFrost® include allowing the system to cycle on and off normally and measure kWh use 
+over time.
+ 
+Significantly greater energy savings are measurable when the process of recycling air (cooling cooler air) 
+and measuring kWh use over time are included in the test.  This test is designed to measure efficiency 
+improvemnet only when the unit is running.  This test does not take into account the exponential benifit of 
+coolong cooler air and the full energy savings derived from producing colder air.  Increased cooling capacity 
+allows the system to reach the thermostat set point temperature quicker.  The energy savings not accounted 
+for in this test is the energy saved due to reduced runtime.  
+ 
+With PermaFrost® installed the unit will acieve thermostat temperature setpoint faster and remain off for 
+longer periods of time saving energy.

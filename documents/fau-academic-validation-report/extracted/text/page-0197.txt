@@ -1,0 +1,74 @@
+ 
+Appendix B Uncertainty         97 
+ 
+The range within which the true value of the coefficient, b falls is found using equation B-8 as: 
+ 
+ 
+ 
+ 
+ 
+ 
+b ± t x SEb    
+ 
+The standard error of the coefficient, b, also leads to the calculation of the t-statistic. This test 
+ultimately determines if the computed coefficient is statistically significant. The t-statistic is 
+computed by all statistical software using the following equation: 
+ 
+ 
+ 
+ 
+ 
+ 
+t-statistic 
+b
+SE
+b
+
+ 
+ 
+B-15 
+ 
+Once the t-statistic is estimated, it can be compared against critical t values from Table B-1. If 
+the absolute value of the t-statistic exceeds the appropriate number from Table B-1, then it 
+should be concluded that the estimate is statistically valid.  
+A rule of thumb states that the absolute value of a t-statistic result of 2 or more implies that the 
+estimated coefficient is significant relative to its standard error, and therefore that a relationship 
+does exist between Y and the particular X related to the coefficient. It can then be concluded 
+that the estimated b is not zero. However, at a t-statistic of about 2, the precision in the value of 
+the coefficient is about ±100%: not much of a vote of confidence in the value of b. To obtain a 
+better precision of say ±10%, the t-statistic values must be around 20, or the standard error of b 
+has to be no more than 0.1 of b itself.  
+To improve the t-statistic result: 
+ 
+Select independent variable(s) with the strongest relationship to energy;  
+ 
+Select independent variable(s) whose values span the widest possible range (if X does not 
+vary at all in the regression model, b cannot be estimated and the t-statistic will be poor); 
+ 
+Gather and use more data points to develop the model; or 
+ 
+Select a different functional form for the model; for example, one which separately 
+determines coefficient(s) for each season in a building that is significantly affected by 
+seasonal weather changes.  
+B-3   Sampling 
+Sampling creates errors because not all units under study are measured. The simplest sampling 
+situation is that of randomly selecting n units from a total population of N units. In a random 
+sample, each unit has the same probability 
+
+N
+n
+ of being included in the sample.  
+In general, the standard error is inversely proportional to
+n .  That is, increasing the sample size 
+by a factor “f” will reduce the standard error (improve the precision of the estimate) by a factor of 
+f . 
+B-3.1   Sample Size Determination 
+You can minimize sampling error by increasing the fraction of the population that is sampled 
+
+
+N
+n
+. Increasing the sample size increases cost, of course. Several issues are critical in 
+optimizing sample sizes. The following steps should be followed in setting the sample size. 
+1. Select a homogeneous population. In order for sampling to be cost effective, the 
+measured units should be expected to be the same as the entire population. If there are two 

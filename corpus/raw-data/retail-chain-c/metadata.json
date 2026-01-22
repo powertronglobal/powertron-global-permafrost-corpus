@@ -1,0 +1,111 @@
+{
+  "source": "Retail Chain C Miami",
+  "industry": "retail",
+  "location_obfuscated": "Southeast US, FL",
+  "processed_date": "2026-01-08T20:07:16.157596",
+  "description": "4-way comparison study: baseline, PermaFrost NMR, enhanced PM, NexRev",
+  "files": [
+    {
+      "obfuscated_file": "rtu1_baseline_nexrev.parquet",
+      "rows": 201657,
+      "columns": 43,
+      "size_kb": 9852.5
+    },
+    {
+      "obfuscated_file": "rtu1_post_nexrev.parquet",
+      "rows": 159503,
+      "columns": 43,
+      "size_kb": 8060.0
+    },
+    {
+      "obfuscated_file": "rtu1_baseline_nexrev.parquet",
+      "rows": 138502,
+      "columns": 43,
+      "size_kb": 6775.8
+    },
+    {
+      "obfuscated_file": "rtu1_post_nexrev.parquet",
+      "rows": 14835,
+      "columns": 43,
+      "size_kb": 813.4
+    },
+    {
+      "obfuscated_file": "rtu11_baseline.parquet",
+      "rows": 98745,
+      "columns": 43,
+      "size_kb": 4843.4
+    },
+    {
+      "obfuscated_file": "rtu11_post.parquet",
+      "rows": 187382,
+      "columns": 43,
+      "size_kb": 8730.5
+    },
+    {
+      "obfuscated_file": "rtu2_baseline_nexrev.parquet",
+      "rows": 55287,
+      "columns": 43,
+      "size_kb": 2768.9
+    },
+    {
+      "obfuscated_file": "rtu2_post_nexrev.parquet",
+      "rows": 73787,
+      "columns": 43,
+      "size_kb": 3581.1
+    },
+    {
+      "obfuscated_file": "rtu2_baseline_nexrev.parquet",
+      "rows": 44029,
+      "columns": 43,
+      "size_kb": 2302.8
+    },
+    {
+      "obfuscated_file": "rtu2_post_nexrev.parquet",
+      "rows": 75360,
+      "columns": 43,
+      "size_kb": 3913.2
+    },
+    {
+      "obfuscated_file": "rtu5_baseline.parquet",
+      "rows": 588195,
+      "columns": 43,
+      "size_kb": 27899.4
+    },
+    {
+      "obfuscated_file": "rtu8_baseline.parquet",
+      "rows": 153331,
+      "columns": 43,
+      "size_kb": 7489.6
+    },
+    {
+      "obfuscated_file": "rtu8_post.parquet",
+      "rows": 198766,
+      "columns": 43,
+      "size_kb": 9062.0
+    },
+    {
+      "obfuscated_file": "rtu9_baseline_nexrev.parquet",
+      "rows": 210385,
+      "columns": 43,
+      "size_kb": 10280.5
+    },
+    {
+      "obfuscated_file": "rtu9_post_nexrev.parquet",
+      "rows": 150668,
+      "columns": 43,
+      "size_kb": 7589.7
+    },
+    {
+      "obfuscated_file": "rtu9_baseline_nexrev.parquet",
+      "rows": 130291,
+      "columns": 43,
+      "size_kb": 6880.2
+    },
+    {
+      "obfuscated_file": "rtu9_post_nexrev.parquet",
+      "rows": 164185,
+      "columns": 43,
+      "size_kb": 8135.8
+    }
+  ]
+}

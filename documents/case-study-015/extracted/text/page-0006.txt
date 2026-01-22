@@ -1,0 +1,30 @@
+•  •  To determine the actual COP the following formula was utilized:
+ 
+12 / kW per ton / 3.412
+•  To determine Refrigerant Approach the following formula was utilized:
+ 
+Supply Water Temp – Saturated Evaporator Temp
+The following report produces the utilization of the IPMVP International Performance Measurement and 
+Verification Protocol as the M&V plan. The final calculations were performed by Powertron Global’s Senior 
+engineer [Senior Energy Engineer] ME/CEM/CMC/CMVP.
+System Description / Design Characteristics
+This unit is a process machine.  The annual operational hours of this equipment is 3800 hours.
+Energy Science Division
+Make
+Model
+Serial
+Refrigerant Type
+Age
+Design GPM
+Tonnage
+Design Pressure Drop
+ York
+ YKJHHDJ2-DBFS
+ SEPM792300
+ R-134A
+ 2008
+ 2558
+ 1279
+ 12.35
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

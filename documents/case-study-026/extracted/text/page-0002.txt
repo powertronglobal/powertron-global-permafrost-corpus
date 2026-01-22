@@ -1,0 +1,28 @@
+1
+HVAC/R Eﬃciency Report
+Purpose of Energy Eﬃciency Study
+The purpose of this study is to verify the industry wide problem of efficiency loss in HVAC/R as projected by 
+ASHRAE research and to quantify the amount of money wasted due to this loss. Many industry leading 
+organizations including ASHRAE project that all HVAC/R units degrade in capacity and efficiency as they 
+age. Thermal degradation is caused by a phenomenon that is present in all HVAC/R equipment that operates 
+as a vapor compression cycle associated with refrigerant and compressor lubricant. This thermal degradation is 
+well documented by the HVAC/R industry and the original equipment manufacturers (OEM’s). Thermal 
+degradation prevents units from operating at the original design efficiency, which leads to excessive run-times 
+and additional kWh consumption.
+The chillers in this study are representative of Major Global Bank's data center portfolio HVAC/R equipment. If thermal 
+degradation is present in this chiller plant, it is present in the the entire inventory of equipment. Energy waster 
+can be calculated based on this equipment and then extrapolated across the entire portfolio.
+Process
+This report contains specific information regarding the current performance profile of six (6) chillers that 
+support the Major Global Bank Southwest Data Center in [Texas Location].
+Detailed performance testing (outlined later in this report) was performed on each chiller before and after the 
+installation of the ECM to determine the impact on the three key elements:
+1. The cooling capacity that each chiller produces after 9 years in service, before and after the
+administration of the ECM.
+2. The actual cost of power required to produce the amount of cooling tons each chiller can delivers as
+reflected in the kW/ton measurement, before and after the administration of the ECM.
+3. The thermal dynamic ability of each chiller to perform in relation to operational design, before and
+after the administration of the ECM.
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

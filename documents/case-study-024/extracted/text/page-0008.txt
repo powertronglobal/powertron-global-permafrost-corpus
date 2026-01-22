@@ -1,0 +1,53 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2024 Powertron Global, LLC. 
+ 
+ 
+ 
+ 
+ 
+To Determine Efficiency: 
+ 
+Divide the measured kilowatts (kW) by the measured tons to obtain kW per ton. kW 
+per ton is the industry standard to determine system efficiency.  
+ 
+Example 
+ 
+19.4 kW / 12 tons = 1.62 kilowatts per ton   
+ 
+ 
+ 
+ 
+Measurement &Verification Equipment Specifications and Placement: 
+ 
+ 
+ 
+AccuEnergy 1312 Power Meter - AcuRev 1312 provides real-time RMS 
+measurement of the instantaneous Voltage, Current, Power, Frequency and 
+Power Factor. The meter supports energy parameters such as the reactive and 
+apparent energy with ANSI C 12.20 0.5 class and IEC 62053-22 0.5s class 
+revenue grade accuracy. 
+ 
+ 
+C
+E
+E
+E
+E
+T
+outdoor air
+temperature
+sensor
+compressor on/off
+detection section
+CFM sensor
+evaporator outlet
+enthalpy sensor
+evaporator inlet
+enthalpy sensor
+evaporator inlet
+enthalpy sensor
+T
+outdoor air
+temperature
+sensor

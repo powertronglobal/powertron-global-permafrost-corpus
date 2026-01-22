@@ -1,0 +1,32 @@
+System Description / Design Characteristics
+The chilled water distribution plant of The US Navy Vessel Benavidez is equipped with five York centrifugal chillers. 
+Each chiller is equipped with a chilled water centrifugal pump feeding a common header. The two chillers 
+in this report are indentical make and model with approximately 1.6 years of runtime.
+  
+The fresh water-cooled condensers of these chillers are fed from a central fresh water loop that is cooled via 
+plate and frame heat exchangers utilizing seawater as the heat exchange / rejection medium. Operational 
+conditions are distinctly different when the vessel is docked versus when at sea. The results of this report are 
+predicated on operation while docked. The air conditioning plant while docked only has the ability to 
+operate one chiller at a time. This is due to the reduced fresh water flow provided by the in port central fresh 
+water circulating pump. While docked many of the large square foot areas cooled by the energy plant are 
+non-active. Areas that are active are living quarters, bridge and other areas required for the daily non 
+-commissioned activities of this vessel. 
+The cooling coils that are served by this chilled water 
+distribution system are controlled by two-way solenoid 
+valves. Upon satisfaction of the temperature requirements 
+of the conditioned space these valves will close until the 
+space temperature rises. 
+At the time of this performance verification the vessel was 
+docked and one chiller was being utilized. This IPMVP Plan 
+was developed with a defined measurement boundary. That boundary is comprised of Chiller #1 and 
+Chiller #5. This boundary was selected with the assistance of the ship’s Chief Engineer [Client Representative]. Chiller 
+#1 and #5 are both York Codepak Model YKM2M2G4-CBS Centrifugal water-cooled chillers each rated at 330 
+tons equipped with R-134a refrigerant. 
+Each chiller was subjected to identical performance parameters demonstrated by the local control of the 
+incremental loading of each chiller within a controlled parameter. The verification process was initiated and 
+concluded on two consecutive days.  Each day began with no chillers running. One chilled water pump was 
+operating in an effort to increase the load on the chilled water loop to a maximum of 80 deg. F.
+Energy Science Division
+®
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

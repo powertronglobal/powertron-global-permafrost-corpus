@@ -1,0 +1,32 @@
+®
+Recovered
+Energy,
+equating to
+$5,231 annually.
+5
+Recovered Wasted Energy with ECM -  RTU’s
+The chart to the right illustrates the performance 
+restoration the ECM created in the treated RTU’s. The 
+average cost to operate these RTU’s before they were 
+treated with PermaFrost NMR®, as calculated in 
+kW/ton, averaged 1.50.
+The specific cost to operate these RTU’s after they 
+were treated with PermaFrost NMR®, as calculated in 
+kW/ton, is currently 1.13.
+The higher baseline kW/ton rating measured in-situ was expected when compared to the ASHRAE loss of 
+performance efficiency and cost to operate estimate for these 11 year old RTU’s. The post results are also in 
+line with the average improvement savings shown in more than 120,000 installations globally.
+Cost to Operate
+Baseline
+Post ECM
+kW/Ton
+.37  kW/Ton
+0.0
+0.3
+0.6
+0.9
+1.2
+1.5
+1.50
+1.13
+Property of Powertron Global®

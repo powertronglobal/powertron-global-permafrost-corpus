@@ -1,0 +1,25 @@
+{
+  "doc_id": "pdf_009",
+  "terms": [
+    {
+      "term": "Power Factor",
+      "abbreviation": "PF",
+      "definition": null
+    },
+    {
+      "term": "British Thermal Units",
+      "abbreviation": "BTU",
+      "definition": null
+    },
+    {
+      "term": "Efficient of Performance",
+      "abbreviation": "COP",
+      "definition": null
+    },
+    {
+      "term": "Energy Efficiency Ratio",
+      "abbreviation": "EER",
+      "definition": null
+    }
+  ]
+}

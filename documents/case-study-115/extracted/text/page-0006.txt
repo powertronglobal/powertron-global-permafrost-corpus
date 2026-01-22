@@ -1,0 +1,248 @@
+This is a report provided to customer and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2015 Powertron Global LLC. Please be aware 
+that our companies have a non-disclosure agreement in place and this document is covered under that agreement. This document is not to be distributed to any 
+third party and is not to be in the public domain without our written approval. 
+Outdoor 
+  
+  
+  
+  
+  
+Average Outdoor Inlet Drybulb 
+95.03 
+95.00 
+95.00 
+95.01 
+oF 
+Average Outdoor Inlet Wetbulb 
+75.01 
+74.98 
+75.00 
+75.00 
+oF 
+Refrigerant Pressures/Temperatures 
+  
+  
+  
+  
+C1 Discharge PSIG 
+316.01 
+315.68 
+315.67 
+315.79 
+PSIG 
+C1 Discharge Temp 
+134.80 
+134.60 
+134.60 
+134.66 
+oF 
+C1 Suction PSIG 
+79.42 
+79.38 
+79.36 
+79.39 
+PSIG 
+C1 Suction Temp 
+47.00 
+47.00 
+47.00 
+47.00 
+oF 
+SuperHeat 
+12.74 
+13.07 
+13.17 
+13.00 
+oF 
+Other Measurements  
+  
+  
+  
+  
+  
+ID Ent Air 1 
+79.58 
+79.56 
+79.56 
+79.57 
+oF 
+ID Ent Air 2 
+79.61 
+79.58 
+79.62 
+79.60 
+oF 
+ID Ent Air 3 
+79.38 
+79.34 
+79.37 
+79.36 
+oF 
+ID Ent Air 4 
+79.30 
+79.23 
+79.30 
+79.28 
+oF 
+ID Ent Air 5 
+79.99 
+80.04 
+80.05 
+80.03 
+oF 
+ID Ent Air 6 
+79.75 
+79.76 
+79.77 
+79.76 
+oF 
+ID Ent Air 7 
+79.74 
+79.72 
+79.73 
+79.73 
+oF 
+ID Ent Air 8 
+79.62 
+79.67 
+79.66 
+79.65 
+oF 
+OD Ent Air 1 
+94.52 
+94.53 
+94.60 
+94.55 
+oF 
+OD Ent Air 2 
+94.89 
+94.86 
+94.95 
+94.90 
+oF 
+OD Ent Air 3 
+95.78 
+95.78 
+95.79 
+95.79 
+oF 
+OD Ent Air 4 
+94.06 
+94.11 
+94.16 
+94.11 
+oF 
+OD Ent Air 5 
+94.22 
+94.24 
+94.29 
+94.25 
+oF 
+OD Ent Air 6 
+96.19 
+96.17 
+96.20 
+96.19 
+oF 
+OD Ent Air 7 
+95.29 
+95.33 
+95.35 
+95.32 
+oF 
+OD Ent Air 8 
+94.30 
+94.30 
+94.35 
+94.32 
+oF 
+OD Ent Air 9 
+94.50 
+94.54 
+94.59 
+94.54 
+oF 
+OD Ent Air 10 
+94.84 
+94.89 
+94.91 
+94.88 
+oF 
+OD Ent Air 11 
+96.33 
+96.32 
+96.34 
+96.33 
+oF 
+OD Ent Air 12 
+94.35 
+94.39 
+94.43 
+94.39 
+oF 
+OD Ent Air 13 
+94.92 
+94.93 
+94.99 
+94.95 
+oF 
+OD Ent Air 14 
+94.14 
+94.21 
+94.22 
+94.19 
+oF 
+OD Ent Air 15 
+95.99 
+95.99 
+96.00 
+95.99 
+oF 
+Power Measurements 
+  
+  
+  
+  
+  
+VOLT ab 
+208.09 
+208.18 
+208.31 
+208.19 
+Volts 
+VOLT bc 
+208.42 
+208.50 
+208.61 
+208.51 
+Volts 
+VOLT ca 
+208.22 
+208.29 
+208.41 
+208.30 
+Volts 
+AMPS a 
+31.42 
+31.35 
+31.32 
+31.37 
+Amps 
+AMPS b 
+30.45 
+30.37 
+30.34 
+30.38 
+Amps 
+AMPS c 
+31.82 
+31.73 
+31.69 
+31.75 
+Amps 
+WMajor Telecom AS Total 
+9987.25 
+9961.26 
+9952.41 
+9967.03 
+Watts 

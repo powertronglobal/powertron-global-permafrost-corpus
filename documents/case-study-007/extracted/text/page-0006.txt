@@ -1,0 +1,169 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+G. Energy Reporting Period and Conditions 
+ 
+Energy reporting period dates is from Sept 6 – 25 except for Nodes 513 & 514 
+(Sept 11-Oct 3 range) due to the matching of like weather data sets (20 
+consecutive days each set). All conditions were left the same as in the baseline 
+period. No adjustments were made. Specific data for each unit’s data set can be 
+found in Appendix D. 
+ 
+ 
+H. Final kWh Savings Results Per Cell Hut 
+ 
+kWh 
+Cell Hut 1 
+Cell Hut 2 
+Cell Hut 3 
+Cell Hut 4 
+Cell Hut 5 
+Baseline 
+1203.32 
+601.21 
+932.69 
+932.95 
+601.2 
+Post 
+956.63 
+461.26 
+797.52 
+886.4 
+481.49 
+Diff% 
+20.5% 
+23.25% 
+14.5% 
+5.0% 
+19.9% 
+ 
+ 
+ 
+ 
+ 
+ 
+kWh 
+Cell Hut 6 
+Cell Hut 7 
+Cell Hut 8 
+Cell Hut 9 
+Cell Hut 10 
+Baseline 
+368.4 
+786.72 
+729.9 
+466.1 
+1582.87 
+Post 
+305.47 
+557.68 
+494.3 
+424.73 
+1240.32 
+Diff% 
+17.1% 
+29.1% 
+32.3% 
+8.9% 
+21.6% 
+ 
+ 
+ 
+ 
+ 
+ 
+Total kWh  
+ 
+ 
+ 
+ 
+Baseline 
+8205.36 
+ 
+ 
+ 
+ 
+Post 
+6610.27 
+ 
+ 
+ 
+ 
+Diff% 
+19.4% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BLUE- Post results were adjusted by kW/ton % to account for uncontrolled variables.  See 
+Section L. Accounting for Uncontrolled Variables using Industry Standards 
+ 
+ 
+I. kWh Consumption Per Unit & Per Hut 
+ 
+ 
+kWh 
+Baseline 
+Post 
+Diff% 
+Cell Hut 1 
+507 
+559.69 
+444.41 
+20.5% 
+ 
+508 
+643.63 
+511.68 
+20.5% 
+Cell Hut 2 
+509 
+263 
+344.60 
+23.3% 
+ 
+510 
+338.21 
+128.94 
+23.3% 
+Cell Hut 3 
+511 
+481.92 
+396.12 
+17.8% 
+ 
+512 
+450.77 
+401.4 
+11.0% 
+Cell Hut 4 
+*513 
+528.15 
+489.1 
+7.4% 
+ 
+*514 
+404.8 
+397.3 
+1.9% 
+Cell Hut 5 
+515 
+263.5 
+224.29 
+14.9% 
+ 
+516 
+337.7 
+257.2 
+23.8% 
+Cell Hut 6 
+517 
+174.79 
+145.88 
+16.5% 

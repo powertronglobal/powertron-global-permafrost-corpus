@@ -1,0 +1,15 @@
+2
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) framework. The team consisted Steve Denzau 
+Chief Engineer, and Powertron Global’s Forensic Mechanical Engineer, [Senior Energy Engineer]
+Notes 
+The equipment tested were three (3) water-cooled chillers manufactured by McQuay. Both baseline and post measurement 
+s were taken in the identical manner.
+The flow rate through the evaporator was matched in the baseline and post. The condenser water entering the chiller in the 
+baseline and post were normalized. According to the manufacturer, for each degree different in the post versus the baseline 
+the capacity was either increased or decreased .25% per degree.
+The boundary of the testing was at each chiller therefore confidence in the accuracy of the performance calculations is high.
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are 
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

@@ -1,0 +1,105 @@
+{
+  "excel_files": [
+    {
+      "source_file": "Kit 1 2 Week Post HVAC Analysis.xlsx",
+      "description": "Kit 1 Post Treatment Data",
+      "sheets": [
+        "consumption 1504041681.48.csv"
+      ],
+      "sheet_summaries": {
+        "consumption 1504041681.48.csv": {
+          "rows": 5393,
+          "columns": 20,
+          "column_names": [
+            "HVAC Performance: Kit 1 LIO Salas #2",
+            "Unnamed: 1",
+            "Unnamed: 2",
+            "Unnamed: 3",
+            "Unnamed: 4",
+            "Unnamed: 5",
+            "Unnamed: 6",
+            "Unnamed: 7",
+            "Unnamed: 8",
+            "Unnamed: 9"
+          ]
+        }
+      }
+    },
+    {
+      "source_file": "Kit 1 Original Baseline BOTH COMP 5 sec sample.xlsx",
+      "description": "Kit 1 Baseline Data",
+      "sheets": [
+        "consumption 1504041808.91.csv"
+      ],
+      "sheet_summaries": {
+        "consumption 1504041808.91.csv": {
+          "rows": 6470,
+          "columns": 20,
+          "column_names": [
+            "HVAC Performance: Kit 1 LIO Salas #2",
+            "Unnamed: 1",
+            "Unnamed: 2",
+            "Unnamed: 3",
+            "Unnamed: 4",
+            "Unnamed: 5",
+            "Unnamed: 6",
+            "Unnamed: 7",
+            "Unnamed: 8",
+            "Unnamed: 9"
+          ]
+        }
+      }
+    },
+    {
+      "source_file": "Kit 2 2 Week Post HVAC Analysis.xlsx",
+      "description": "Kit 2 Post Treatment Data",
+      "sheets": [
+        "consumption 1504041497.45.csv"
+      ],
+      "sheet_summaries": {
+        "consumption 1504041497.45.csv": {
+          "rows": 4272,
+          "columns": 20,
+          "column_names": [
+            "HVAC Performance: Kit 2 LIO Salas #1",
+            "Unnamed: 1",
+            "Unnamed: 2",
+            "Unnamed: 3",
+            "Unnamed: 4",
+            "Unnamed: 5",
+            "Unnamed: 6",
+            "Unnamed: 7",
+            "Unnamed: 8",
+            "Unnamed: 9"
+          ]
+        }
+      }
+    },
+    {
+      "source_file": "Kit 2 Original Baseline BOTH COMP 5 sec sample.xlsx",
+      "description": "Kit 2 Baseline Data",
+      "sheets": [
+        "consumption 1504041215.5.csv"
+      ],
+      "sheet_summaries": {
+        "consumption 1504041215.5.csv": {
+          "rows": 19981,
+          "columns": 20,
+          "column_names": [
+            "HVAC Performance: Kit 2 LIO Salas #1",
+            "Unnamed: 1",
+            "Unnamed: 2",
+            "Unnamed: 3",
+            "Unnamed: 4",
+            "Unnamed: 5",
+            "Unnamed: 6",
+            "Unnamed: 7",
+            "Unnamed: 8",
+            "Unnamed: 9"
+          ]
+        }
+      }
+    }
+  ],
+  "note": "Time-series measurement data from field study"
+}

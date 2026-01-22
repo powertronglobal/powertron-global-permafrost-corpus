@@ -1,0 +1,49 @@
+78        Appendix A Examples 
+ 
+in IPMVP Equation 1b). This value was compared to actually measured generation for the same 
+period to determine the increase in electrical output. 
+No changes happened to the TG unit during this year, so non-routine adjustments were 
+unnecessary.   
+A-6  Boiler Efficiency Improvement – Option A 
+Situation  A boiler contractor replaced a German office building’s existing boiler with a more 
+efficient boiler. The contractor guaranteed annual oil savings of at least €25,000, assuming the 
+loads on the boiler were the same as he measured during the baseline period. The owner’s 
+purchase order specified that holdback amounts would be paid only after the contractor 
+presented a  savings report adhering to IPMVP Volume I, EVO 10000 – 1:2012. It was also 
+specified that the owner and contractor would agree to the M&V Plan as part of the final design 
+plans for the retrofit. 
+Factors Affecting M&V Design   Numerous building changes were going on at the time of the 
+boiler plant revision, so boiler plant loads were expected to change. The contractor is only 
+responsible for boiler efficiency improvements, not changes in boiler load. The boiler is the only 
+equipment in the building using oil. The price of oil to be used for proof of achieving the 
+performance guarantee was €0.70/liter. 
+M&V Plan  IPMVP Volume I, EVO 10000 – 1:2012, Option A was chosen to isolate the boiler 
+from the changes going on in the rest of the building. The measurement boundary was drawn to 
+include only the boiler, measuring fuel use and net thermal energy delivered to the building. This 
+boundary excludes the electricity use of the boiler’s burner and blower. Changes to these 
+electrical interactive effects were regarded as negligible, and not worth inclusion within the 
+measurement boundary or even separate estimation.  
+The contractor’s guarantee was stated relative to the usage of the year before submission of its 
+proposal. During that period, the facility purchased 241,300 liters of heating oil for the boiler. 
+There was a 2,100 liter increase in oil inventory between the beginning and end of that year. 
+Therefore actual consumption was 239,200 liters. The energy load on the boiler will be 
+determined from this oil-use data, once the efficiency of the old boiler is established. IPMVP 
+Equation 1d) will be used with 239,200 liters as the estimate. This estimate has no error, since 
+most of it27 comes from oil shipment data, which is the reference source with no error. 
+Boiler efficiency will be the measured parameter in Equation 1d). Efficiency tests were planned 
+for a period of typical winter conditions before removing the old boiler. Winter conditions were 
+chosen so that there was sufficient load to assess efficiency under the full range of boiler loads. 
+A recently calibrated thermal energy meter was installed by the contractor on the boiler supply 
+and return water lines and a calibrated oil meter installed on the fuel supply to the boiler. Both 
+the oil meter and the thermal-energy meter and data logger have manufacturers’ rated 
+precisions of ±2% for the ranges involved in this project.  
+Baseline efficiency tests were conducted over three separate one-week periods when daily 
+mean ambient temperatures ranged from -5oC to +5oC. Identical tests were planned for the first 
+period after commissioning of the new boiler when ambient temperatures are once again in the -
+5oC to +5oC range, using the same oil and thermal energy meters left in place since the baseline 
+efficiency tests. Since the three individual one-week tests are expected to include periods 
+                                                  
+27 Oil inventory levels are read from an un-calibrated tank gauge of unknown accuracy. Since the magnitude of 
+inventory adjustments are small relative to metered shipments for the year, any error in this inventory term were 
+considered negligible. 
+ 

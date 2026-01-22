@@ -1,0 +1,105 @@
+ 
+Appendix B Uncertainty         89 
+ 
+B-1.3   Definitions of Statistical Terms 
+Sample Mean (Y ): The most widely used measure of the central tendency of a series of 
+observations. Sample mean is determined by adding up the individual data points (Yi) and 
+dividing by the total number of these data points (n), as follows: 
+ 
+ 
+ 
+ 
+ 
+n
+Y
+Y
+i
+
+
+
+ 
+ 
+ 
+ 
+ 
+B-1 
+ 
+Sample Variance (S2): Sample variance measures the extent to which observed values differ 
+from each other, i.e., variability or dispersion. The greater the variability, the greater the 
+uncertainty in the mean. Sample variance, the most important measure of variability, is found by 
+averaging the squares of the individual deviations from the mean. The reason these deviations 
+from the mean are squared is simply to eliminate the negative values (when a value is below the 
+mean) so they do not cancel out the positive values (when a value is above the mean). Sample 
+variance is computed as follows: 
+ 
+ 
+ 
+ 
+ 
+1
+)
+(
+2
+2
+
+
+
+
+n
+Y
+Y
+S
+i
+ 
+ 
+ 
+ 
+B-2 
+ 
+Sample Standard Deviation (s): This is simply the square root of the sample variance. This 
+brings the variability measure back to the units of the data (e.g., if the variance units are (kWh)2, 
+the standard deviation units would be kWh).   
+ 
+ 
+ 
+ 
+ 
+ 
+2
+S
+s 
+ 
+ 
+ 
+ 
+B-3 
+ 
+Sample Standard Error (SE): This is the sample standard deviation divided by
+n . This 
+measure is used in estimating precision of a sample mean.  It is also denoted as , or the 
+"sample standard deviation of the mean" in most statistics textbooks.  
+ 
+ 
+ 
+ 
+ 
+ 
+n
+s
+SE 
+ 
+ 
+ 
+ 
+B-4 
+ 
+Sample Standard Deviation of the Total (stot):  Many times we are interested in the statistical 
+properties of a total rather than a mean.  The sample standard deviation of a total is used to 
+define the precision about a sample total.  It is defined as the square root of the sample size, 
+, times the sample standard deviation: 
+ 
+ 
+ 
+B-5 
+Coefficent of Variation (cv):  The coefficient of variation is simply the standard deviation of a 
+distribution expressed as a percentage of the mean.  For instance, the cv of a sample total 

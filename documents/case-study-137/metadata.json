@@ -1,0 +1,48 @@
+{
+  "document_id": "case-study-137",
+  "title": "Cultural Institution A Visitor Center M&V Report",
+  "source_file": "Cultural Institution A",
+  "document_type": "engineering_analysis",
+  "page_count": 10,
+  "extraction_method": "pymupdf",
+  "extraction_date": "2026-01-07",
+  "client": {
+    "name": "Cultural Institution A",
+    "industry": "Cultural/Non-Profit"
+  },
+  "location": {
+    "city": "Bronx",
+    "state": "NY",
+    "country": "USA"
+  },
+  "equipment": {
+    "type": "Package DX",
+    "make": "Carrier",
+    "tonnage": 15,
+    "count": 2,
+    "refrigerant": "R-22",
+    "age_years": 13
+  },
+  "study_period": {
+    "baseline_start": "2016-08-01",
+    "baseline_end": "2016-08-15",
+    "post_start": "2016-08-22",
+    "post_end": "2016-09-03"
+  },
+  "results": {
+    "cop_improvement_pct": 161.1,
+    "kw_per_ton_baseline": 1.85,
+    "kw_per_ton_post": 0.71
+  },
+  "certification": {
+    "methodology": "AHRI Standard M&V",
+    "pe_certified": false,
+    "engineer": "[Senior Energy Engineer], Forensic Mechanical Engineer"
+  },
+  "corpus_category": "engineering_analysis",
+  "stats": {
+    "chunks": 5,
+    "tokens": 5173,
+    "chars": 10369
+  }
+}

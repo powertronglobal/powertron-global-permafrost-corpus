@@ -1,0 +1,82 @@
+This is a report provided to customer and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2015 Powertron Global LLC. Please be aware 
+that our companies have a non-disclosure agreement in place and this document is covered under that agreement. This document is not to be distributed to any 
+third party and is not to be in the public domain without our written approval. 
+7.7, under the modified air flow measurement protocol and utilizing the air flow calculation stated in 
+section 7.7.4 for standard air. 
+The test sample was evaluated under the AHRI 340/360-2007 “Performance Rating of Commercial and 
+Industrial Unitary Air-Conditioning & Heat Pump Equipment” test standard for performance and 
+efficiency covering equipment ranging from 65,000 to 300,000 BTU’S.    
+All electrical data was recorded using utility grade power meters during the three 10 minute test 
+sessions. This same data is supplied with test results for each category.   
+As previously stated, the test sample unit was set up and tested to provide a baseline when subjected to 
+“Standard rating Test Conditions” according to AHRI 340/360 2007.  The unit was operated at full load 
+test conditions per the standard to provide a 100% “A” test sequence. There were three 10-minute 
+collection time segments at each of the test points (30-minutes total) and then all data was averaged.  
+The key performance test points for the 7.5-ton sample were as follows: 
+  
+-­‐ 
+Voltage and Amperage 
+-­‐ 
+EER 
+-­‐ 
+Entering evaporator air volume 
+-­‐ 
+Dry and wet bulb temperatures 
+-­‐ 
+Refrigerant pressures and temperatures 
+-­‐ 
+Condensate capture 
+ 
+ 
+Summary Results 
+ 
+Below is the resulting data recorded during the testing periods on the test unit under the previously 
+identified AHRI standards.  The conditions for the 100% “A” test included standard with ambient 
+environmental conditions at 95 degrees F dry bulb and 75 degrees F wet bulb and entering evaporator 
+coil air temperature at 80 degrees F dry bulb and 67 degrees F wet bulb at 400 CFM per ton @ design 
+static pressure.  
+ 
+ 
+Trane                
+7.5 Ton 
+Design 
+Actual (before PF) 
+    Actual (after PF) 
+% Difference 
+Btuh 
+90,000 
+64,796 
+77,060 
+18.9% 
+kW 
+8.74 
+9.97 
+9.68 
+2.9% 
+Tons 
+7.5 
+5.40 
+6.42 
+18.9% 
+EER 
+10.3 
+6.50 
+7.96 
+22.5% 
+kW/Ton 
+1.165 
+1.846 
+1.510 
+18.2% 
+   
+ Condensate  
+ 
+-- 
+ 
+       5.45 lbs  
+             6.79 lbs 
+ 
+    24.6% 
+ 
+ 
+ 

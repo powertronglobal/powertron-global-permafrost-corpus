@@ -1,0 +1,47 @@
+26        IPMVP Framework and Options 
+ 
+Meters serving non-interacting energy flows, for which savings are not to be determined, can be 
+ignored. Separately metered outdoor-lighting circuits is one example.   
+Determine savings separately for each meter or sub-meter serving a facility so that performance 
+changes can be assessed for separately metered parts of the facility. However, where a meter 
+measures only a small fraction of one energy type’s total use, it may be totaled with the larger 
+meter(s) to reduce data-management tasks. When electrical meters are combined this way, it 
+should be recognized that small consumption meters often do not have demand data associated 
+with them so that the totalized consumption data will no longer provide meaningful load factor 
+information.  
+If several different meters are read on separate days, then each meter having a unique billing 
+period should be separately analyzed. The resultant savings can be combined after analysis of 
+each individual meter, if the dates are reported. 
+If any of the energy data are missing from the reporting period, a reporting-period mathematical 
+model can be created to fill in missing data. However the reported savings for the missing 
+period should identify these savings as "missing data."  
+4.8.2 Option C: Energy Invoices Issues  
+Energy data for Option C are often derived from utility meters, either through direct reading of 
+the meter, or from utility invoices. Where utility bills are the source of data, it should be 
+recognized that a utility’s need for regular meter reading is not usually as great as the needs of 
+M&V. Utility bills sometimes contain estimated data, especially for small accounts. Sometimes it 
+cannot be determined from the bill itself whether the data came from an estimate or an actual 
+meter reading. Unreported estimated meter readings create unknown errors for estimated 
+month(s) and and also for the subsequent month of the actual meter reading. However the first 
+invoice with an actual reading after one or more estimates will correct the previous errors in 
+energy quantities. Savings reports should note when estimates are part of the utility data.  
+When an electrical utility estimates a meter reading, no valid data exist for the electrical demand 
+of that period.  
+Energy may be supplied indirectly to a facility, through on-site storage facilities, such as for oil, 
+propane or coal. In these situations, the energy supplier’s shipment invoices do not represent 
+the facility’s actual consumption during the period between shipments. Ideally a meter 
+downstream of the storage facility measures energy use. However where there is no 
+downstream meter, inventory-level adjustments for each invoice period should supplement the 
+invoices.  
+4.8.3 Option C: Independent Variables  
+Regularly changing parameters affecting a facility’s energy use, are called independent 
+variables (see also box in Chapter 4.6.1). Common independent variables are weather, 
+production volume and occupancy. Weather has many dimensions, but for whole-facility 
+analysis, weather is often just outdoor dry-bulb temperature. Production has many dimensions, 
+depending upon the nature of the industrial process. Production is typically expressed in mass 
+units or volumetric units of each product. Occupancy is defined in many ways, such as hotel-
+room occupancy, office-building occupancy hours, occupied days (weekdays/weekends), or 
+restaurant-meal sales.  
+Mathematical modeling can assess independent variables if they are cyclical. Regression 
+analysis and other forms of mathematical modeling can determine the number of independent 
+variables to consider in the baseline data (See Appendix B-2). Parameters, which have a 

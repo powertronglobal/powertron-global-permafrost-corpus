@@ -1,0 +1,871 @@
+# Retail Chain B_refrigeration.pdf
+
+Energy Science Division
+
+®
+
+Major US Warehouse Retailer CLEARWATER
+
+Study Date:
+     April – May 2014
+
+Participants:
+
+Major US Warehouse Retailer
+     [General Manager],
+     General Manager
+ 
+     Refrigeration Contractor A
+     [Service Manager],
+     Service Manager
+
+Clima-Check International
+     [Technical Specialist],
+     [Technical Team],
+     [Technical Team],
+     [Technical Specialist],
+     Technical Team
+
+Energy Consulting Partner
+     [CEO],
+     CEO
+ 
+     Powertron Global
+     [Senior Energy Engineer],
+     Director of Engineering
+
+Location:
+     [Commercial Address]
+     [Florida Location]
+
+Comprehensive HVAC/R Capacity Study
+
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+1
+
+HVAC/R Eﬃciency Report
+
+Purpose of Energy Eﬃciency Study
+
+Thermal degradation is well documented by the American Society of
+
+Heating, Refrigeration and Air Conditioning Engineers (ASHRAE) and
+
+the original equipment manufacturers (OEM’s). It is a major cause of
+
+capacity loss in Heating, Ventilation, Air Conditioning and
+
+Refrigeration (HVACR) systems, preventing them from operating at the
+
+original design efficiency.
+
+The purpose of this efficiency study is to verify the effectiveness of the
+
+PermaFrost NMR® Energy Conservation Measure (ECM) in Major US Warehouse Retailer’s
+
+refrigeration systems and document the future energy cost reductions
+
+associated with the same.
+
+Image to the right and below right is of Rack-A supporting the Major US Warehouse Retailer [Southeast Facility].
+
+Rack-A was forensically tested using the IPMVP methodology to determine the low and
+
+medium compressor performance capabilities before and after the implementation of the
+
+PermaFrost ECM. Rack-B was also treated so store’s power bill would reflect reduction
+
+resulting from total refrigeration improvement. Images below left are of the awards the
+
+Clima-Check performance analyzer has won in the field of thermal dynamic improvement
+
+monitoring. Image directly below is of the Clima-Check performance analyzer itself.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+2
+
+Process
+
+This comprehensive report contains specific information regarding the performance profile of the low and
+
+medium temperature compressors comprising Rack-A which supports the Major US Warehouse Retailer facility in [Florida Location].
+
+For this report, detailed performance testing (outlined later in this report) was performed on each half of Rack
+
+A before (baseline) and after (post) the installation of the ECM. The data was collected using the Clima-Check
+
+performance analyzer. This testing determined the impact on three key elements relating to the operational
+
+performance of the systems prior to the ECM that greatly affect the refrigeration portion of Major US Warehouse Retailer’s power bill.
+
+They include:
+
+1. The cooling capacity required of Rack-A to reach evaporator set points after 11 years in service.
+
+2. The amount of kWh’s used to achieve similar evaporator set points in baseline and post periods.
+
+3. The thermal dynamic ability of the equipment to still perform at or close to operational design.
+
+Methodology
+
+The measurements used in the efficiency calculations were collected and compiled in accordance with the
+
+IPMVP (International Measurement and Verification Protocol) framework. [Technical Specialist] and [Technical Specialist],
+
+working in direct coordination with Clima-Check of Sweden, remotely collected and verified all of the pilot
+
+refrigeration measurements. All of the temperature and pressure sensors were installed with support from
+
+Refrigeration Contractor A, Major US Warehouse Retailer’s refrigeration support contractor.
+
+The Clima-Check performance analyzer is specifically designed to monitor thermal dynamic and power efficiency
+
+performance improvement in all types of HVAC and refrigeration systems instantaneously and over time.
+
+For this pilot, ten days of data was collected prior to Rack-A being treated with the PermaFrost NMR® ECM
+
+on 10 May 2014. The ECM was then allowed to work for a period of at least 400+ hours before any post
+
+collection data was compared to the baseline data.
+
+To reduce the impact the store and weather variables may have on the data, two similar periods of time with
+
+similar outside air temperatures and time of day were chosen to compare refrigeration performance before
+
+and after the ECM. These comparisons included:
+
+Tuesday 8 April (75.5°) & Tuesday 29 April (77.2°), 1AM – 5AM (no activity in store)
+
+Monday 7 April (79.3°) & Monday 5 May (80.6°), 10AM – 9PM (full day of operations)
+
+The boundary of the testing was the low and medium temperature compressors and nothing else; therefore
+
+the performance calculations are extremely accurate.
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+ËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËË3
+
+Energy Conservation Method (ECM)
+
+The content detailed in this report will first demonstrate the ability of the low and medium temperature
+
+portions of Rack-A to perform prior to PermaFrost NMR® (ECM) being installed, as well as illustrate the
+
+amount of thermal degradation within the heat exchangers.
+
+Following a diagnostic examination of the pilot equipment to determine the operational condition of the
+
+systems was satisfactory, Baseline M&V data was collected and recorded by the M&V team. Approximately
+
+five weeks after installation of PermaFrost NMR®, the M&V team returned to uninstall all the monitoring
+
+equipment after verifying with Clima-Check that the data taken during the pilot was satisfactory. The delta of
+
+these combination of measurements and associated calculations show the amount improvement the
+
+PermaFrost NMR® had on Rack-A.
+
+The following report was produced utilizing the IPMVP framework as the M&V plan.
+
+The results were tracked by the Clima-Check Performance Analyzer either directly or formulated by
+
+entering the data into the following thermodynamic engineering formulas:
+
+• kWh= kW * Runtime Hours
+
+• Thermal Transfer Delta T = Evap Temp Leaving – Returning Refrigerant Temp
+
+• Amps = direct collection showing amount of work the compressor is doing
+
+• kW = (Volts * Amps * Power Factor * √3) / 1000
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+4
+
+30.75 tons
+
+28.65 tons
+
+Baseline
+Tonnage
+
+Post ECM
+Tonnage
+
+• Rack A now is using 2.1 fewer tons in the post to achieve the
+
+same multiple evaporator set points as in the baseline.
+
+• Using the national average cost per kWh of $.105, the reduction
+
+of 99,076 kWh’s equates to an annual energy savings of $10,403.
+
+1,486,660
+
+Baseline kWh
+
+kWh’s
+30.75
+tons Baseline
+
+CAPACITY @
+SIMILAR
+OPERATING
+CONDITIONS
+
+Baseline
+kWh
+
+Post ECM
+kWh
+
+1,486,660
+
+1,387,584
+
+1,387,584
+
+Post ECM kWh
+28.65
+tons Post ECM
+
+99,076
+
+Reduction
+in kWh
+2.1
+tons of
+Capacity
+not needed
+
+TONS OF COOLING
+ANNUAL KWH’s USED
+
+Refrigeration Eﬃciency Study Results
+
+Calculated Eﬃciency of Major US Warehouse Retailer Refrigeration Baseline and Post
+
+The charts below illustrate where the energy savings achieved in this pilot are stemming from. The average
+
+tonnage required to achieve the multiple low and medium evaporator set points has been reduced from 30.75
+
+in each section of Rack-A down to 28.65. This equates to a reduction of 6.83%. The overall annual kWh’s
+
+associated with the operation of Rack-A dropped 6.63%, from 1,486,660 kWh in the baseline to 1,388,032 in the
+
+post.  Given nearly identical voltage recorded in both the baseline and post measurement periods, the average
+
+Amps used by the compressors to reach given evaporator set points dropped from 208.4 down to 195.2, equating
+
+to 6.33%. Finally, the calculated kW/ton dropped from 2.76 to 2.58 which equates to a reduction of 6.52%.
+
+The key system improvements have come by way of thermal dynamic efficiency improvement, which
+
+demonstrates how much heat is being absorbed in the cooling cycle. In particular, the delta of the leaving
+
+refrigerant temperature at the compressor and the refrigerant temperature returning from the evaporators.  For
+
+Rack-A, the refrigerant delta in the baseline averaged 39.3 degrees and increased to 42.08 degrees in the post.
+
+This equates to an increase in the thermal transfer ability of Rack-A of 7.1%
+
+Refrigeration Eﬃciency with PermaFrost NMR® ECM
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+Recovered
+Energy
+
+5
+
+Recovered Wasted Energy with PermaFrost NMR®
+
+The chart to the right illustrates the performance
+
+restoration the ECM created Rack-A following
+
+treatment.       .
+
+The average cost to operate Rack-A before
+
+it was treated with PermaFrost NMR®, as
+
+calculated in kW/ton, was 2.76.
+
+The specific cost to operate Rack-A after it was
+
+treated with PermaFrost NMR®, as calculated in
+
+kW/ton, is currently 2.58. This equates to a 6.52%
+
+reduction in kW/ton.
+
+The delta of the refrigeration kW/ton ratings
+
+measured in-situ were expected as they fell within the
+
+average improvement savings shown over more than
+
+120,000 installations globally.
+
+Cost to Operate
+
+Baseline Post ECM
+
+kW/ton
+
+.18 kw/ton
+
+2.76
+
+2.58
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Return On Investment
+
+The following are the final calculated average performance measurements following the PermaFrost NMR®
+
+Post measurement period for the Major US Warehouse Retailer Rack-A refrigeration system.
+
+Baseline Energy Consumption of Low Temp Section of Rack-A
+
+Adjusted kW Baseline: 3.2 kW/ton * 29.5 tons = 94.4 kW
+
+Adjusted Baseline kWh: 94.4 kW * 8,760 Annual Operating Hrs = 826,944 kWh
+
+Revised Cost to Run Baseline: 826,944 kWh * $.105 = $86,829
+
+Post Energy Consumption of Low Temp Section of Rack-A
+
+Adjusted Post Tonnage: 29.5
+
+kW Post: 2.96 kW/ton * 29.5 tons = 87.32 kW
+
+Annual kWh Post: 87.32 kW * 8,760 hours = 764,923 kWh
+
+Annual Cost Post: 764,923 kWh * .105 cents = $80,317
+
+Savings Per Year on Low Temp Section of Rack-A
+
+Avoided Energy Cost (savings) Per Year: $86,829 - $80,317 = $6,512
+
+Estimated Energy Savings Per Month: $6,512 / 12 = $543
+
+Baseline Energy Consumption of Med Temp Section of Rack-A
+
+Adjusted kW Baseline: 2.35 kW/ton * 32 tons = 75.2 kW
+
+Adjusted Baseline kWh: 75.2 kW * 8,760 Annual Operating Hrs = 658,752 kWh
+
+Revised Cost to Run Baseline: 658,752 kWh * $.105 = $69,169
+
+Post Energy Consumption of Med Temp Section of Rack-A
+
+Adjusted Post Tonnage: 32
+
+kW Post: 2.23 kW/ton * 32 tons = 71.36 kW
+
+Annual kWh Post: 71.36 kW * 8,760 hours = 625,114 kWh
+
+Annual Cost Post: 625,114 kWh * .105 cents = $65,637
+
+Savings Per Year on Med Temp Section of Rack-A
+
+Avoided Energy Cost (savings) Per Year: $69,169 - $65,637 = $3,532
+
+Estimated Energy Savings Per Month: $3,532 / 12 = $294
+
+Return On Investment
+
+Cost of PermaFrost NMR® installed in Rack-A: $18,450
+
+Estimated ROI Period for Major US Warehouse Retailer Rack-A: $18,450 / $837 = 22 months
+
+6
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period
+
+for Major US Warehouse Retailer for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true
+
+energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended
+
+in the Avoided Energy Reporting (Post) Analysis Period. In this case, where less tonnage is now required to achieve
+
+evaporator set points, the ROI first comes from determining what the cost to run Rack-A was when operating at the
+
+original energy profile. To account for the reduced amount of tonnage now needed to achieve set points, the original
+
+tonnage is used in the formulation of the post kW/ton rating. This post kW/ton rating is then used in conjunction with
+
+the original tonnage and the actual kW produced by the PermaFrost NMR® ECM. The result directly correlates with
+
+the other savings achieved by the ECM. This regression analysis is the most widely accepted method of accounting for
+
+the reduced number of hours the systems will now operate due to the restored capacity. This restored capacity allows
+
+the systems to reach the internal evaporator set points with increased efficiency resulting in reduced compressor
+
+demand loading.
+
+7
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+28.8
+
+Passenger vehicles
+
+7
+
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+
+15,375
+
+Gallons of gasoline
+consumed
+
+146,763
+
+Pounds of coal burned
+annually
+
+318
+
+Barrels of oil
+consumed
+
+.733
+
+Railcars worth
+of coal burned
+
+18.8
+
+Homes’ electricity use for
+one year
+
+8
+
+Major US Warehouse Retailer is Saving More than just Energy
+
+By treating both refrigeration Racks in the Major US Warehouse Retailer store in [Florida Location], with PermaFrost NMR® and
+
+based on the current manner in which Major US Warehouse Retailer operates these refrigeration systems, the company will save
+
+approximately 198,152 kWh per year and all the costs associated with those savings. From an environmental
+
+impact standpoint, Major US Warehouse Retailer is also benefitting the surrounding community. Imagine how great the
+
+environmental impact will be when Major US Warehouse Retailer moves forward with treating all their refrigeration equipment
+
+across the USA.
+
+The 198,152 kWh saved per year equates to preventing 137 metric tons of greenhouse gas emissions from
+
+being released or any of the following:
+
+Annual greenhouse emissions from:
+
+CO2 emissions from:
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Cost Savings for Major US Warehouse Retailer when Implementing ECM
+Portfolio-wide in Refrigeration Systems
+
+The [Southeast Facility] is estimated to be one of the average facilities in the portfolio with the each of the Rack
+
+systems totaling 12 gallons or more of system capacity. This is the key factor used in refrigeration systems
+
+for determining the amount of Permafrost NMR® needed to effectively treat each Rack system.
+
+The overall refrigeration load equates to approximately 50% of the total amount of HVAC/R cooling load of the
+
+store. Rack-A and Rack-B combined required 360 ounces of PermaFrost NMR® to treat.
+
+9
+
+Annual kWh Savings for Both [Southeast Location] Refrigeration Systems
+
+Annual Cost Savings for Both  [Southeast Location] Refrigeration Systems
+
+Annual Cost Savings for Major US Warehouse Retailer’s 350 Eastern Region Stores
+
+Estimated Cost for Eastern Region PermaFrost NMR® Treatment
+
+198,152
+
+$20,806
+
+$7,000,000 to $9,000,000
+
+$11,000,000 to $13,000,000
+
+Annual Savings Value
+Portfolio Eﬀects of ECM
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Key Results from Refrigeration Rack-A Treated with
+PermaFrost NMR® ECM
+
+10
+
+0
+
+200000
+
+400000
+
+600000
+
+800000
+
+1000000
+
+Low Temp
+Med Temp
+
+Low Temp
+Med Temp
+Average
+
+827,908
+
+763,697
+
+658,752
+
+623,887
+
+kWh’s Used Annually
+
+Amps
+
+6.67% Overall Reduction
+in kWh’s Required
+
+6.33% Overall Reduction
+in Amps Required
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+Low Temp
+Med Temp
+
+49.39
+
+53.87
+
+29.21
+
+30.29
+
+Thermal Refrigerant Delta
+(Refrig Temp Entering vs Leaving)
+
+7.1% Overall Increase in
+Thermal Transfer Ability
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+232.1
+
+214.3
+
+184.6
+
+176.1
+
+208.4
+
+195.2
+
+Low Temp
+Med Temp
+Average
+
+Total kW
+
+6.67% Overall Reduction
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+94.51
+
+87.18
+
+75.2
+
+71.22
+
+84.86
+
+79.2
+
+Baseline
+
+Post
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+Key Results from Refrigeration Rack-A Treated with
+PermaFrost NMR® ECM
+
+11
+
+Baseline
+
+Post
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Low Temp
+Med Temp
+Average
+
+Tons of Cooling
+
+6.83% Overall Reduction in Tons
+Required to Reach Evap Set Points
+
+29.5
+
+27.5
+
+32
+
+29.8
+
+30.75
+
+28.65
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+Low Temp
+Med Temp
+Average
+
+Calculated kW/Ton
+
+6.52% Reduction in kW/Ton
+
+3.2
+
+2.96
+
+2.35
+
+2.23
+
+2.76
+
+2.58
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+---
+
+12
+
+System Description
+
+The Rack-A refrigeration system is depicted below. Four compressors support the low temperature evaporator
+
+freezers while the other four compressors support the medium temperature coolers in the store. The Copeland
+
+compressors are all original 11 year old units while the four Bitzer compressors have all been installed within
+
+the last 3 years.
+
+Given that Rack-A supports varying types and sizes of evaporators, it runs 8,760 hours at varying capacities.
+
+CLEARWATER Major US Warehouse Retailer REFRIGERATION PLANT LAYOUT
+
+ECONOMIZER
+LIQUID
+RECEIVER
+
+SUCTION
+RECEIVER
+
+AIR COOLED
+CONDENSER
+
+P=AI4
+
+T=T4
+
+P=AI1
+T=T3
+
+P=AI3
+T=T2
+
+Low Temp
+Suction Header
+
+Copeland Low Temp
+
+Med Temp
+Suction Header
+
+Common Discharge
+Header
+
+P=AI2
+
+T=T1
+
+T=T5
+T=T6
+
+1
+
+Copeland Med Temp
+Bitzer Low Temp
+Bitzer Med Temp
+
+2
+3
+4
+5
+6
+7
+8
+
+Power Connections
+
+1S1 & 1S2 CT1 = Comp 1-4
+4S1 & 4S2 CT2 = Comp 5-8
+
+Compressor Model Numbers
+
+1:  3DA3A075L-TFD-423
+2:  4B3139PH-2NU
+3:  4B3139ph-2NL
+4:  4DH3-250L-TSK-423
+5:  4B2707PL-2NU
+6:  4DT3F76KE-TSK-800
+7:  4B2707PL-2NU
+8:  3DB3A075L-TFD-423
+
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

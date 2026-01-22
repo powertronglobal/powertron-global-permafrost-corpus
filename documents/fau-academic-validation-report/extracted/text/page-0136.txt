@@ -1,0 +1,47 @@
+36        M&V Plan Contents 
+ 
+CHAPTER 5   M&V PLAN  CONTENTS  
+The preparation of an M&V Plan is a recommended part of savings determination. Advance 
+planning ensures that all data needed for savings determination will be available after 
+implementation of the ECM(s), within an acceptable budget.  
+Data from the baseline and details of the ECMs may be lost over time. Therefore record them 
+for future reference in case conditions change or ECMs fail. Documentation should be easy to 
+find and easy to understand by verifiers and others, because years may pass before these data 
+are needed.  
+A complete M&V Plan should include discussion of the following 13 topics:  
+1. ECM Intent   Describe the ECM, its intended result, and the operational verification 
+procedures that will be used to verify successful implementation of each ECM. Identify any 
+planned changes to conditions of the baseline, such as unoccupied building temperature 
+settings. 
+2. Selected IPMVP Option and Measurement Boundary   Specify which IPMVP Option, 
+defined in Chapters 4.8 – 4.10, will be used to determine savings. This identification should 
+include the date of publication or the version number and Volume number of the IPMVP 
+edition being followed (IPMVP Volume I EVO 10000-1:2012), for example). Identify the 
+measurement boundary of the savings determination. The boundary may be as narrow as 
+the flow of energy through a pipe or wire, or as broad as the total energy use of one or many 
+facilities. Describe the nature of any interactive effects beyond the measurement boundary 
+together with their possible effects (see Chapter 4.4).  
+3. Baseline: Period, Energy and Conditions  Document the facility’s baseline conditions and 
+energy data, within the measurement boundary. (In energy performance contracts, baseline 
+energy and baseline conditions may be defined by either the owner or the ESCO, providing 
+the other party is given adequate opportunity to verify them.)  
+An energy audit used for establishing the objectives of a savings program or terms of an 
+energy performance contract usually provides most if not all of the baseline documentation 
+needed in the M&V Plan. This baseline documentation should include:  
+a) Identification of the baseline period (Chapter 4.5.1) 
+b) All baseline energy consumption and demand data  
+c) All independent variable data coinciding with the energy data (e.g. production rate, 
+ambient temperature) 
+d) All static factors coinciding with the energy data: 
+- Occupancy type, density and periods  
+- Operating conditions for each baseline operating period and season, other than the 
+independent variables. (For example, in an industrial process, baseline operating 
+conditions might include product type(s), raw material type, and number of 
+production shifts per day. In a building baseline operating conditions might include 
+light level, space temperature humidity and ventilation levels. An assessment of 
+thermal comfort and/or indoor air quality (IAQ) may also prove useful in cases where 
+the new system performs differently than the old inefficient system. See IPMVP 
+Volume II.) 
+- Description of any baseline conditions that fall short of required conditions. For 
+example, the space is under-heated during the baseline, but the ECM will restore the 
+desired temperature. Details of all adjustments that are necessary to the baseline 

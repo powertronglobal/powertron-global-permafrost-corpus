@@ -1,0 +1,30 @@
+{
+  "doc_id": "pdf_005",
+  "terms": [
+    {
+      "term": "Two\t\n \u00a0pilot\t\n \u00a0Roof\t\n \u00a0Top\t\n \u00a0Units",
+      "abbreviation": "RTU",
+      "definition": null
+    },
+    {
+      "term": "Power\t\n \u00a0Factor",
+      "abbreviation": "PF",
+      "definition": null
+    },
+    {
+      "term": "British\t\n \u00a0Thermal\t\n \u00a0Units",
+      "abbreviation": "BTU",
+      "definition": null
+    },
+    {
+      "term": "Efficient\t\n \u00a0of\t\n \u00a0Performance",
+      "abbreviation": "COP",
+      "definition": null
+    },
+    {
+      "term": "Energy\t\n \u00a0Efficiency\t\n \u00a0Ratio",
+      "abbreviation": "EER",
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+ 
+ 
+Page 24 of 38 
+ 
+Figure 30 
+ 
+ 
+With outside air temperature (OAT) and humidity1 (H1) replaced by these values, a review of the 
+average relationship between OAT and temp1, temp2 resulted in extrapolation of values for those 
+additional columns; similarly, a review of H1 to humidity2 resulted in an extrapolation to populate 
+humidity2. 
+Figure 31 represents the average results for manual calculations simulating the Macy’s dataset. 
+Figure 31 
+ 

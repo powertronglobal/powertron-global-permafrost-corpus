@@ -1,0 +1,33 @@
+®
+Energy Consumption & Financial Metrics
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the NKGF PU Unit.
+Baseline Energy Consumption
+Baseline Tonnage: 14.3 tons
+Adjusted kW Baseline: 2.02 kW/ton * 22.2 tons = 44.84 kW
+Adjusted Baseline kWh: 44.84 kW * 1,600 Annual Operating Hrs = 71,744 kWh
+Revised Cost to Run Baseline: 71,744 kWh * $.31 = $22,241
+Post Energy Consumption
+kW Post: 1.31 kW/ton * 22.2 tons = 29.08 kW
+Annual kWh Post: 29.09 kW * 1,600 hours = 46,544 kWh
+Annual Cost Post: 46,544 kWh * .31 cents = $14,429
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $22,241 - $14,429 = $7,812
+Estimated Energy Savings Per Month: $7,812 / 12 = $651
+Initial Payback Period
+Cost of PermaFrost NMR® installed in the pilot PU unit: $4,375
+Estimated Initial Payback Period for Pilot PU Unit: $4,375 / 651= 6.7 months
+Annual Internal Rate of Return = 179%
+Return on Investment Over 5 Years = 893%
+Utilizing data in the charts on the previous and subsequent pages, to obtain a true avoided energy cost and subsequent 
+payback period for NKGF for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to 
+calculate the true energy savings resulting from the improvement in capacity. This increased capacity reduces the 
+annual kWh expended in the Post Analysis Period. ROI comes from determining what the cost to run the systems was 
+when operating at the original energy profile to produce the newly restored amount of available tonnage capacity and 
+then subtracting the revised cost to run the systems at the same restored tonnage after the PermaFrostNMR® ECM was 
+installed. This regression analysis is the most widely accepted method of accounting for the reduced number of hours the 
+systems will now operate due to the restored capacity. This restored capacity allows the systems to reach the internal 
+building set points with increased efficiency resulting in reduced compressor demand loading.
+7
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

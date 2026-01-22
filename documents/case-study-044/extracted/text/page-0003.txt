@@ -1,0 +1,28 @@
+It should be noted when reading through this report that the two pilot CRAC units had lower than 
+design airflow measured across the coils which contributes to the slightly higher deltas seen in the 
+baseline measurements. The CFM in the control unit was much closer to its design. However, this pilot is 
+all about showing the delta effects resulting from improving the thermal dynamic characteristics of the 
+CRAC units which are clearly evident in the performance data stated below. The improvement in 
+efficiency and restored capacity gained directly at the units was solely attributable to the PermaFrost 
+NMR® ECM. This is a result of the reversal of thermal inefficiency on heat exchange surfaces.  
+Following treatment with the PermaFrost NMR® technology, units 3 and 4 showed an effective reduction 
+in kW of 6.1% and 10.7% respectively based on the exact capacity measured in the baseline M&V and 
+AERP M&V periods when operating at 100% load. The effective annual kWh were reduced by 63,707 in 
+unit 3 and 42,558 in unit 4, equating to a combined 29.2% reduction while simultaneously producing a 
+total increase of 9.57 tons. This equates to an average 30% increase in tonnage across both units and a 
+reduction in average kW/ton of 29.2%. Prior to the ECM, the units produced a combined 31.96 tons of 
+cooling as measured in-situ. After the ECM, the tonnage produced increased to 41.53 tons. This 30% 
+capacity increase from the baseline performance levels, in combination with other related improvements, 
+led to an effective increase in COP across both units of 42.2%. All of these factors directly correlate to 
+what US Internet Provider will realize in energy savings as they operate this and other facility CRAC units in the 
+future under similar parameters. As a case in point, the 22-ton control CRAC unit selected at random by 
+US Internet Provider was measured in-situ after treatment to be producing 20.84 tons of cooling, or 95% of design.
+Following treatment with the PermaFrost NMR® ECM, the two pilot CRAC units also showed average 
+reduction in amp draw of 8.4% and a 32.4% reduction in the average refrigeration approach while at the 
+same time producing 30% more cooling. All the measurements mentioned combine to reflect the 
+thermodynamic enhancement brought about by the PermaFrost NMR® ECM. The result of the ECM 
+improvement is an ROI to US Internet Provider that is measured in under a year. The tables of data used to 
+determine the financial payback are available for review at the end of this report. 
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,50 @@
+ 
+2
+  
+ 
+BACKGROUND 
+ 
+The world needs more energy production in the coming years.  The dependence on foreign oil 
+and the need to improve efficiency have been national goals for nearly 40 years.  The 
+development of additional power generating facilities however has been slow, compared to 
+energy demand control.  This is in part because current public service commission rules make 
+recovery of costs for large-scale power projects difficult and smaller increments of green power 
+are just emerging as cost effective alternatives.   
+       
+At the same time, the energy sector struggles with improving the efficiency of mechanical parts 
+in its efforts to increase power production or decrease power use.  For example, much of the 
+potential energy in fossil fuels and coal is lost to heat, making these processes less than 40% 
+efficient, which is far better than the 15% efficiency for a car engine, but is still a significant loss 
+of potential energy.  Incremental improvements in efficiency at either the customer or power 
+generation point yield significant benefits across the grid, especially in peak times. 
+ 
+Because siting and constructing power plants is an arduous and expensive process, many power 
+companies have attempted to extend the life of their current power generating facilities by 
+offering rebates to customers for energy saving measures like insulation, more efficient 
+appliances and HVAC system renovations.  HVAC systems are often the largest users of power 
+for homes and businesses, especially in the State of Florida and the rest of the southern United 
+States where humidity is a concurrent issue. HVAC may consume 60-80 percent of the power 
+used in homes and businesses.  Since HVAC efficiency tends to decrease linearly with time due 
+to oil fouling in their heat exchangers. The ability to improve HVAC performance, or to extend 
+the life of HVAC system efficiency, would be of benefit both to customers and power generating 
+entities. For the customer, the benefits include the potential for reduced maintenance and shorter 
+recovery times for their investments. For power suppliers, the benefits include the delay of the 
+next increment of power supply.  From a power industry perspective, the more efficient the 
+HVAC system,  the more available power there is on the grid for new customers, the lower the 
+carbon emissions and the more palatable the options is as a green solution.  
+ 
+Most mechanisms to improve efficiency of HVAC system are mechanical – if the parts work 
+more efficiently, the power draw will be less and the ability to perform additional work will be 
+displayed as increased capacity (Btuh).  Among the issues in the compressor is the heat buildup 
+from mechanical friction.  The mechanical friction will cause a heat loss, which then manifests 
+itself as a reduction in efficiency of the unit.  Friction also increases wear on the unit, which 
+further reduces the efficiency of the units over time.  If the friction can be reduced, efficiency 
+should improve and the life of the equipment should increase.  Demonstrating a means to reduce 
+friction is difficult.   
+ 
+Within most conventional HVAC systems there is lubricating oil. The primary use of the oil is to 
+lubricate the compressor. As the compressor pushes the refrigerant out, the small amount of oil 
+that is there to lubricate will get pushed out with the refrigerant.  Over time the oil is going build 
+layer upon layer in the refrigerant lines, just as it does in your car’s engine where oil escapes the 
+compression stroke and is combusted.  In HVAC over time the compressor oil is going to escape 
+the compressor and coat the heat exchangers. Oil is an insulator and therefore will impede the 

@@ -1,0 +1,95 @@
+11
+~50 Degrees
+Voltage
+241.39
+4.55
+Current
+22.16
+OAT
+56.19
+Measurements
+kW 
+~50 Degrees
+Voltage
+242.06
+4.01
+11.87%
+Current
+19.49
+OAT
+55.63
+Measurements
+kW
+% Reduction
+~60 Degrees
+Voltage
+238.10
+4.82
+Current
+23.84
+OAT
+64.59
+Measurements
+kW 
+~60 Degrees
+Voltage
+239.53
+4.34
+10.03%
+Current
+21.32
+OAT
+64.72
+Measurements
+kW
+% Reduction
+~70 Degrees
+Voltage
+238.18
+4.79
+Current
+23.68
+OAT
+74.39
+Measurements
+kW 
+~70 Degrees
+Voltage
+239.52
+4.38
+8.55%
+Current
+21.53
+OAT
+74.93
+Measurements
+kW
+% Reduction
+Combined Avgs
+Voltage
+239.22
+4.72
+Current
+23.23
+OAT
+65.06
+Measurements
+kW 
+Combined Avgs
+Voltage
+240.37
+4.25
+10.09%
+Current
+20.78
+OAT
+65.09
+Measurements
+kW
+Avg kW Reduction
+Summary of 24-Hour Power Consumption Comparison with Pilot 
+Cooling System Operating at Nearly Identical OAT and Time of Day
+Baseline
+Post
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website.
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

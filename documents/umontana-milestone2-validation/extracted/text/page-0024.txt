@@ -1,0 +1,15 @@
+ 
+ 
+Page 16 of 38 
+ 
+Figure 21 - Time Series Plot of Each Variable  
+Dates are on the x-axis, units of the variable on the y-axis. Note that COP is unitless 
+ 
+Prior to performing archetypal analysis, the 38 points are normalized in each dimension separately, 
+by dividing each measurement by the maximum value of the measurement in the data set.  Thus, 
+the variables all ranges between 0 and 1, with fractions representing percentages, e.g., 0.5 is 50% of 
+the max value achieved by that variable in the data set.   
+The first step in applying archetypal analysis is to compute the total error in representing the data in 
+terms of the archetypes, in this case it is the residual sum of squares, or RSS.  The RSS is 
+computed for each set of archetypes and decreases as a larger number of archetypes is taken.  See 
+Figure 22.   

@@ -1,0 +1,48 @@
+52        Other Common M&V Issues 
+ 
+8.11.2 Use of Control Systems for Data Collection 
+A computerized control system can provide much of the monitoring necessary for data 
+collection.  However, the system’s hardware and software must be capable of performing 
+control and data gathering simultaneously, without slowing computer processing, consuming 
+excess communication bandwidth, or overfilling storage.  
+Some measured parameters may not be useful for control: electric power metering, for example. 
+Trending of small power, lighting and main-feed power consumption may be very useful for 
+high-quality savings determination and operational feedback, but useless for real-time control. 
+Control system software can often perform other functions to assist the tracking of changes to 
+static factors during the reporting period, such as automatically recording changes in set-points.  
+Facility staff should be properly trained in this use of the system so they can develop their own 
+trending information for diagnosing system problems, providing the system has the capacity for 
+extra trending. However where a contractor is responsible for some operations controlled by the 
+system, security arrangements should ensure that persons can only access functions for which 
+they are competent and authorized. 
+The control-system design and monitoring team may have a direct read-only connection into the 
+system via a modem link so that it can easily inspect trend data in the team’s office. However 
+possible concerns for virus attacks and computer security should be addressed in this situation. 
+Control systems can record energy use with their trending capability. However, some systems 
+record "change of value" (COV) events that are not directly used for calculating energy savings 
+without tracking time intervals between individual COV events (Claridge et al. 1993, Heinemeier 
+and Akbari 1993). It is possible to tighten COV limits in order to force the trending towards more 
+regular intervals, but this can overload systems that are not designed for such data densities.  
+Great care should be exercised to: 
+ 
+Control access and/or changes to the sysem trend log from which the energy data are 
+extracted. 
+ 
+Develop post-processing routines for changing any control-system COV data into time-
+series data for performing an analysis. 
+ 
+Get from the control system supplier:  
+o standard traceable calibrations of all sensors it supplies,  
+o evidence that proprietary algorithms for counting and/or totaling pulses and units are 
+accurate. (Currently, there are no industry standards for performing this analysis (Sparks 
+et al. 1992)), and 
+o commitment that there is adequate processing and storage capacity to handle trending 
+data while supporting the system's control functions. 
+ 
+8.12  Significant Digits 
+When performing any arithmetic calculation, one must consider the inherent accuracy of the 
+data so the result does not presume greater accuracy than is defendable.  For this reason, 
+engineers have adopted a standard of rounding rules that limits the resolution of a result to that 
+which is supported by the data.  Therefore, the IPMVP has adopted the following rules to insure 
+all calculations performed under this standard adhere to strict accuracy standards. 
+ 

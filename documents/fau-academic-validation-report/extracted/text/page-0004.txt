@@ -1,0 +1,50 @@
+ 
+4
+“PermaFrost NMR® will continue to work at the surface as long as there is 
+nothing changing internally in a system to deactivate the product. The tests in the 
+oil analysis prove that PermaFrost NMR® will not separate under all applicable 
+tolerances and will remain active under standard operating conditions.  In addition 
+to the actual bonding, chemically the molecular weight of PermaFrost NMR® is 
+heavier than oil and water and will not be lifted away due to floating or 
+displacement by refrigerant oil, liquid refrigerant or any other lighter fluid.  (As 
+an example, in a bowl of water, refrigerant oil will float and PermaFrost NMR® 
+will sink to the bottom proving it is heavier than both water and oil.)  The 
+combination of surface bonding and molecular weight keep PermaFrost NMR® 
+on the metal surfaces preventing the refrigerant oil from reversing the effect.   
+Any solution must create a bond to the surface and space lattice and remain in 
+place or the product will work itself out of the heat exchangers and the benefits 
+will fade quickly.” 
+ 
+The fourth question, and focus of this report, is whether the efficiency can be demonstrated 
+under a series of conditions, both in-situ and controlled.  There are protocols for determining 
+savings, but from a power supply perspective, less draw on the grid (kW) is desirable.  One 
+problem with any technology such as this is that there have been several predecessor products 
+that claimed to provide such benefits. The older studies of several additives all showed no 
+significant savings, which is one reason why power providers may be reluctant to pursue these 
+types of technological options.  
+ 
+ A different research result could open the door to stating that some refrigerant-based surface 
+science technologies can produce results that save energy.  Hence, demonstrating the savings in-
+situ and in a controlled environment is beneficial.  There is long term data for demonstrating 
+performance advantages, but the variables cannot be controlled for these sites.  However, 
+because of the chemical nature of the product, if it works in the short term it should also work in 
+the long term.  The properties appear to make it less likely to deteriorate than the oil in the 
+compressors that may last up to 15-20 years in some sealed systems.  There should be interest 
+from the owners and power providers in a thermal surface science technology for HVAC systems 
+if measurable operations savings could be achieved.   
+ 
+Therefore the fourth question can be answered if a protocol was developed and a series of HVAC 
+systems were tested, both in-situ and under controlled conditions.  The International Performance 
+Measurement and Verification Protocol (IPMVP) is the widely referenced framework for 
+“measuring” energy savings at each site.   IPMVP presents common terminology and defines full 
+disclosure, to support rational discussion of measurement and verification issues. A primary 
+purpose of IPMVP is to publish current good measurement and verification practice, as 
+reassurance for the public about savings reports. Performance contracting industry growth in the 
+USA was facilitated by the publication of the IPMVP. 
+ 
+The Association of Energy Engineers (AEE), American Society of Heating, Refrigeration and 
+Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization (EVO) 
+recognize the IPMVP as a global methodology for determining the effectiveness of energy 
+conservation methods and products. There are four distinct options in the IPMVP protocol for 
+energy conservation professionals to utilize: options A, B, C and D.  
+ 

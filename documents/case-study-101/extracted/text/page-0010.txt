@@ -1,0 +1,52 @@
+The post DB temperature (71.5 deg. F) entering the coil was matched exactly to the baseline period (71.5 
+deg. F). After matching this temperature the post readings were taken to ensure that the work the coil had 
+to do was as similar to the baseline. Normalizing the post amperage was not required in this case due to the 
+O.A.T. was the same during both measurement periods. 
+Energy Science Division
+POST
+BASELINE
+Voltage 
+Amperage 
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Entering Air Temp DB
+Leaving Air Temp DB
+Entering Air Temp WB
+Leaving Air Temp WB
+Actual CFM
+Actual Coil Capacity Btuh / Tons
+Enthalpy Delta
+Calculated Watts
+Calculated Watts per Ton
+Outdoor Air Temp (OAT)
+226 V
+31 A
+30 deg F
+117.5 deg F
+71.5 deg F
+58 deg F
+59.1 deg F
+54.8 deg F
+1,760 CFM
+31,205 Btuh / 2.6 Tons
+3.94
+6,305.4
+2,425
+82.4 deg F 
+226 V
+26 A
+31.8 deg F
+109 deg F
+71.5 deg F
+48.5 deg F
+61.2 deg F
+46.5 deg F
+1,760 CFM
+70,250 Btuh / 5.85 Tons
+8.87
+5,288.4
+903
+82.5 deg F 
+MEASUREMENT
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

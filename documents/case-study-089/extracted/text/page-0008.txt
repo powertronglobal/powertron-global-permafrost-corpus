@@ -1,0 +1,35 @@
+®
+7
+Cost to Pﬁzer Inc. for Lost Eﬃciency
+Left unfixed, the chiller system with it reduced level of performance is costing (in money) an additional 31.6% 
+or more than it would if it where running at the design specification. Extrapolated across Major Pharmaceutical Company's inventory of 
+equipment this adds up to a significant waste in money and energy resources.
+Notes
+Cost of Major Pharmaceutical Company Inc. for loss of efficiency could not be estimated across the entire portfolio because we do not have access to 
+the average age and size of equipment. The amount of recovered energy depends on the age and condition of the chiller. This 
+treated chiller recovered a significant amount of energy. A portfolio inventory savings estimation can be created for Major Pharmaceutical Company 
+Inc. if additional information is provided.
+Pﬁzer Inc. was wasting over $626,520 a year by not correcting this problem in this process chiller.
+Additional kWh Wasted at Pﬁzer per Year
+Additional Cost to Pﬁzer per Year
+2,724,000 kWh  
+$626,520 /Year
+Cost of Waste
+Reduced level of Performance Causes 
+Recovered
+Energy
+Cost to Operate
+Baseline
+Post ECM
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+kW/ton
+.976
+.668
+31.6%
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,52 @@
+®
+REDUCTION
+20.6%
+2
+Image on previous page is of Med Temp Rack-B system supporting the open-air cut meat, packaged 
+lunchmeat and other perishables cases. The image above is of the packaged RTU supporting the 
+bakery. Both systems were forensically tested using the IPMVP protocols to determine overall system 
+performance capabilities before and after the implementation of the PermaFrost NMR® ECM. 
+Baseline kWh
+Unit Name
+TOTALS
+31,828
+159,943
+191,771
+Total kWh Saved
+10,366
+29,054
+TOTAL kWH Savings
+39,420
+RTU            
+Med Temp      
+1.18
+1.15
+2.33
+Baseline kW/Ton
+Post kW/Ton
+1.75
+1.41
+3.16
+Post kWh
+21,462
+130,889
+152,351
+Energy Savings Per Year
+Total kWh Saved
+$3,744.90
+Price of PermaFrost NMR ®
+$ 3,875
+39,420
+kWh Cost
+$ 0.095
+Payback Period
+Initial Payback Period in Months              12.4   (Price of PermaFrost NMR®/(Energy Savings / 12)) 
+Annual Internal Rate of Return 
+           96.6%
+Return On Investment Over 10 Years 
+966.4%
+Summary Performance
+REDUCTION
+26.3%
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

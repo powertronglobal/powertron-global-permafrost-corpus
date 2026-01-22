@@ -1,0 +1,960 @@
+================================================================================
+DOCUMENT: Case Study 026
+DOC_ID: pdf_031
+SHA256: dffdef16c59daba6ba89013ab4e11141085abd6af9063a55acd34f000bc77c2c
+================================================================================
+
+═══ PAGE 001 ═══
+
+Comprehensive HVAC/R Capacity Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+Energy Science Division
+Major Global Bank Southwest Data Center
+Study Date:
+     August 2016 – September 2017      
+Participants:
+     Property Management Firm
+     Major Global Bank Realty Services
+     Jeﬀ Vaughn
+     Regional Facilities Manager
+     [Client Representative]
+     Sr. Chief Engineer
+     Powertron Global
+      [Senior Energy Engineer],
+      Director of Engineering
+Location:
+     [Texas Location]    
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 002 ═══
+
+1
+HVAC/R Eﬃciency Report
+Purpose of Energy Eﬃciency Study
+The purpose of this study is to verify the industry wide problem of efficiency loss in HVAC/R as projected by 
+ASHRAE research and to quantify the amount of money wasted due to this loss. Many industry leading 
+organizations including ASHRAE project that all HVAC/R units degrade in capacity and efficiency as they 
+age. Thermal degradation is caused by a phenomenon that is present in all HVAC/R equipment that operates 
+as a vapor compression cycle associated with refrigerant and compressor lubricant. This thermal degradation is 
+well documented by the HVAC/R industry and the original equipment manufacturers (OEM’s). Thermal 
+degradation prevents units from operating at the original design efficiency, which leads to excessive run-times 
+and additional kWh consumption.
+The chillers in this study are representative of Major Global Bank's data center portfolio HVAC/R equipment. If thermal 
+degradation is present in this chiller plant, it is present in the the entire inventory of equipment. Energy waster 
+can be calculated based on this equipment and then extrapolated across the entire portfolio.
+Process
+This report contains specific information regarding the current performance profile of six (6) chillers that 
+support the Major Global Bank Southwest Data Center in [Texas Location].
+Detailed performance testing (outlined later in this report) was performed on each chiller before and after the 
+installation of the ECM to determine the impact on the three key elements:
+1. The cooling capacity that each chiller produces after 9 years in service, before and after the
+administration of the ECM.
+2. The actual cost of power required to produce the amount of cooling tons each chiller can delivers as
+reflected in the kW/ton measurement, before and after the administration of the ECM.
+3. The thermal dynamic ability of each chiller to perform in relation to operational design, before and
+after the administration of the ECM.
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 003 ═══
+
+2
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) framework. The team consisted [Client Representative], 
+Sr. Chief Engineer and Powertron Global’s Forensic Mechanical Engineer, [Senior Energy Engineer].  
+Notes 
+The equipment tested were six (6) water-cooled chillers manufactured by HVAC Equipment Manufacturer. Both baseline and post measurements 
+were taken in the identical manner.
+The flow rate through the evaporator was matched in the baseline and post. The condenser water entering the chiller in the 
+baseline and post were normalized. According to the manufacturer, for each degree different in the post versus the 
+baseline, the capacity was either increased or decreased .25% per degree.
+The boundary of the testing was at each chiller therefore confidence in the accuracy of the performance calculations is high.
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 004 ═══
+
+3
+Energy Conservation Method (ECM)
+The content detailed in this report will first demonstrate the ability of the treated chillers to perform prior to 
+the ECM being installed, as well as illustrate the thermal degradation that naturally occurs in heat exchangers over time.
+The following report produces the utilization of the IPMVP as the M&V plan. 
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+• kW = Volts * Amps * Power Factor * √3/1000 (for 3-Phase)
+• kW/Ton = kW / Actual Tonnage
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+• Actual Cooling Tons per Hour = Evaporator GPM X 8.34 * 60 * Chilled Water Delta T / 12,000 BTU
+Notes 
+Following a diagnostic examination to determine the operational condition of the chillers was satisfactory, baseline M&V 
+data was collected and recorded.  500+ runtime hours after installation of the ECM, we returned on very similar weather 
+days to assure compliant weather conditions as compared to the Baseline for the purpose of obtaining post M&V 
+measurements as was performed in the Baseline. The delta of these measurements and associated calculations demonstrate 
+the amount of thermal capacity recovery.
+The flow of the evaporator and condenser were measured using NIST calibrated instruments (National Institutes of 
+Standards and Technology) for the verification of accurate GPM measurement. 
+The remaining measurements were obtained locally from the chiller control panel. The chillers were then treated with 
+PermaFrost NMR® on the same day and allowed to run normally to ensure the patented surface science nanotechnology 
+had ample time to become assimilated into all the metal surfaces of the heat exchangers. All critical measurements were 
+taken at similar incoming condenser water temperatures as well as outdoor air temperatures however routine adjustments 
+to normalize the capacity due to warmer or cooler entering condenser temperatures were applied as per the IPMVP 
+protocol.
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 005 ═══
+
+4
+3311
+4096
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• Chillers should be operating @ 4096 tons of cooling capactity
+• Chillers were operating @ 3311 tons of cooling capacity prior to
+installing ECM
+• Chillers had 785 tons of restored cooling capacity after ECM
+equating to 23.7% increase
+• Chillers should be operating @ 6.31 or higher
+• Chillers were operating @ 5.11 COP prior to the ECM
+• The average COP of the chillers have increased by 23.5%
+following the ECM
+5.11
+Baseline COP
+COP
+3311
+tons Baseline
+CAPACITY
+Baseline
+COP
+Post ECM
+COP
+5.11
+6.31
+6.31
+Post ECM COP
+4096
+Post ECM
+23.5%
+Improvement
+in COP
+785
+tons of
+Restored
+ Capacity
+TONNAGE
+Coeﬃcient of Performance (COP)
+Summary of HVAC/R Eﬃciency Study Results 
+Chiller Eﬃciency with PermaFrost NMR® ECM
+Major Global Bank has the problem of thermal degradation in its Chiller systems. The lower operating tonnage and COP 
+ratings measured on site are in line with the ASHRAE loss of performance and cost to operate numbers. The 
+degraded equipment performance is costing Major Global Bank Properties significant money and wasting energy. The treated 
+chillers were using significantly more energy to operate than when they were new. 
+The performance summary includes the measured efficiency and tonnage of the chillers in the baseline and 
+post testing periods demonstrating the impact of thermal degradation. 
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 785 operating tons and an average 
+improvement of 23.5% in Coefficient of Performance (COP), significantly reducing the cost to operate the 
+chiller throughout the year.
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 006 ═══
+
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+5
+Recovered Wasted Energy with ECM - Chiller 
+The chart below illustrates the performance restoration the ECM created in the treated chillers. The average 
+cost to operate these chillers before they were treated with PermaFrost NMR® as calculated in kW/ton was 
+0.71.
+The specific cost to operate these chillers after they 
+were treated with PermaFrost NMR® as calculated 
+in kW/ton is currently 0.56.
+The higher baseline kW/ton rating measured 
+in-situ was expected when compared to the 
+ASHRAE loss of performance efficiency and cost to 
+operate estimate for an average 9 year old chillers 
+utilizing R -123 refrigerant. The post results are 
+also in line with the average improvement savings 
+shown over more than 130,000 installations 
+globally.
+Recovered Energy
+Equating to a
+21.1% reduction
+Cost to Operate
+Pre ECM
+Post ECM
+0.15 kW/ton
+kW/ton
+0.71
+0.56
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 007 ═══
+
+6
+Energy Consumption & Financial Metrics
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the six (6) Major Global Bank Southwest Data Center chillers combined.
+Baseline Energy Consumption
+Baseline Tonnage: 3311 tons
+Adjusted kW Baseline: .71 kW/ton * 4,096 tons = 2,908.2 kW
+Adjusted Baseline kWh: 2,908.2 kW * 2,193 Annual Operating Hrs = 6,377,683 kWh
+Revised Cost to Run Baseline: 6,377,683 kWh * $.085 = $542,103
+Post Energy Consumption
+kW Post: .56 kW/ton * 4,096 tons = 2,293.8 kW
+Annual kWh Post: 2,293.8 kW * 2,193 hours = 5,030,303 kWh
+Annual Cost Post: 5,030,303 kWh * .085 cents = $427,576
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $542,103 - $427,576 = $114,527
+Estimated Energy Savings Per Month: $114,527 / 12 = $9,544
+Return On Investment
+Cost of PermaFrost NMR® installed in all six chillers: $37,003
+Estimated Payback Period for Major Global Bank on the chillers: $37,003 / $9,544 = 4 months
+Annual Rate of Return = 309.5%
+Return on Investment Over 10 Years = 3095% 
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period 
+for Major Global Bank for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true 
+energy savings resulting from the improvement in capacity. This restored capacity reduces the annual kWh expended 
+in the Post Analysis Period. ROI comes from determining what the cost to run the chiller was when operating at the 
+original energy profile to produce the newly restored amount of available tonnage capacity and then subtracting the 
+revised cost to run the chiller at the same restored tonnage after the PermaFrost NMR® ECM was installed. This 
+regression analysis is the most widely accepted method of accounting for the reduced number of hours or load the 
+chillers will now operate due to the restored capacity. This restored capacity allows the chiller to reach the internal 
+building set points with increased efficiency resulting in reduced compressor demand loading.
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 008 ═══
+
+.64
+POST
+PRE
+.56
+HVAC Equipment Manufacturer
+CVHF910
+L07E02336
+R-123
+910
+2,471
+2007
+Make
+Model
+Serial Number
+Refrigerant Type
+Cooling
+Capacity kWR  
+Annual
+Runtime Hours
+Age
+kW/ton
+REDUCTION
+12.5%  
+IMPROVEMENT
+IMPROVEMENT
+POST
+PRE
+COP
+14.2%
+7.5%
+POST
+PRE
+Chiller Water Delta
+IMPROVEMENT
+POST
+PRE
+631.2
+OperatingTonnage
+5.8%
+10.6 deg F
+5.50
+6.28 
+667.9
+11.4 deg F
+Key Results for Chiller 1A with PermaFrost NMR® ECM
+System Description
+7
+488.7
+516.7
+48
+83.4
+48.3
+59.7
+74.6
+82.8
+11.4
+0.3
+371.7
+0.56
+667.9
+1428
+95
+Energy Usage
+BASELINE
+POST
+Voltage 
+Amperage
+Saturated Suction Temperature 
+Discharge Refrigerant Temperature
+Chilled Water Leaving Temp (Supply)
+Chilled Water Entering Temp (Return)
+Condenser Water Temp Entering Chiller
+Condenser Water Temp Leaving Chiller
+Chilled Water Delta T
+Refrigeration Approach
+kW (V x A x PF x 1.732)/1000 
+kW / Ton 
+Operating Tons 
+Chiller GPM 
+OAT 
+ 
+**
+** Post tons normalized up or down .25% per degree due to post
+entering condenser water temp vs. baseline temp
+489.7
+560.0
+47.9
+90.3
+50
+60.6
+81
+89.5
+10.6
+2.1
+403.7
+0.64
+631.2
+1428
+89
+Notes
+The chiller provides cooling to the [Texas] 
+location. Given the facility load and the six 
+chillers comprising the plant, chiller 1A runs 
+approximately 2,471 hours or more annually 
+prior to the ECM being implemented. 
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 009 ═══
+
+.95
+POST
+PRE
+.62
+HVAC Equipment Manufacturer
+CVHF910
+L07E02416
+R-123
+910
+1911
+2007
+Make
+Model
+Serial Number
+Refrigerant Type
+Cooling
+Capacity kWR  
+Annual
+Runtime Hours
+Age
+kW/ton
+REDUCTION
+34.7%  
+IMPROVEMENT
+IMPROVEMENT
+POST
+PRE
+COP
+53.2%
+70.1%
+POST
+PRE
+Chiller Water Delta
+IMPROVEMENT
+POST
+PRE
+387.2
+OperatingTonnage
+68.8%
+6.7 deg F
+3.70
+5.67 
+653.6
+11.4 deg F
+Key Results for Chiller 1B with PermaFrost NMR® ECM
+System Description
+8
+487.3
+561.7
+46.1
+87
+48.4
+59.8
+74.6
+83.7
+11.4
+2.3
+403.0
+0.62
+653.6
+1386
+91
+Energy Usage
+BASELINE
+POST
+Voltage 
+Amperage
+Saturated Suction Temperature 
+Discharge Refrigerant Temperature
+Chilled Water Leaving Temp (Supply)
+Chilled Water Entering Temp (Return)
+Condenser Water Temp Entering Chiller
+Condenser Water Temp Leaving Chiller
+Chilled Water Delta T
+Refrigeration Approach
+kW (V x A x PF x 1.732)/1000 
+kW / Ton 
+Operating Tons 
+Chiller GPM 
+OAT 
+ 
+**
+** Post tons normalized up or down .25% per degree due to post
+entering condenser water temp vs. baseline temp
+488.7
+510.7
+44.8
+86.7
+49.9
+56.6
+77.8
+86.6
+6.7
+5.1
+367.4
+0.95
+387.2
+1386
+87
+Notes
+The chiller provides cooling to the [Texas] 
+location. Given the facility load and the six 
+chillers comprising the plant, chiller 1B runs 
+approximately 1,911 hours or more annually 
+prior to the ECM being implemented.   
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 010 ═══
+
+.70
+POST
+PRE
+.54
+HVAC Equipment Manufacturer
+CVHF910
+L07E02415
+R-123
+910
+2536
+2007
+Make
+Model
+Serial Number
+Refrigerant Type
+Cooling
+Capacity kWR  
+Annual
+Runtime Hours
+Age
+kW/ton
+REDUCTION
+22.9%  
+IMPROVEMENT
+IMPROVEMENT
+POST
+PRE
+COP
+29.7%
+8.2%
+POST
+PRE
+Chiller Water Delta
+IMPROVEMENT
+POST
+PRE
+583.6
+OperatingTonnage
+6.6%
+9.8 deg F
+5.02
+6.51 
+622.4
+10.6 deg F
+Key Results for Chiller 2A with PermaFrost NMR® ECM
+System Description
+9
+488.7
+467.7
+47.3
+83.8
+51
+61.6
+74
+82.8
+10.6
+3.7
+336.5
+0.54
+622.4
+1428
+91
+Energy Usage
+BASELINE
+POST
+Voltage 
+Amperage
+Saturated Suction Temperature 
+Discharge Refrigerant Temperature
+Chilled Water Leaving Temp (Supply)
+Chilled Water Entering Temp (Return)
+Condenser Water Temp Entering Chiller
+Condenser Water Temp Leaving Chiller
+Chilled Water Delta T
+Refrigeration Approach
+kW (V x A x PF x 1.732)/1000 
+kW / Ton 
+Operating Tons 
+Chiller GPM 
+OAT 
+ 
+**
+** Post tons normalized up or down .25% per degree due to post
+entering condenser water temp vs. baseline temp
+489.0
+566.3
+46.1
+89.4
+49.8
+59.6
+79.6
+88.1
+9.8
+3.7
+407.7
+0.70
+583.6
+1428
+85
+Notes
+The chiller provides cooling to the [Texas] 
+location. Given the facility load and the six 
+chillers comprising the plant, chiller 2A runs 
+approximately 2,536 hours or more annually 
+prior to the ECM being implemented. 
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 011 ═══
+
+.54
+POST
+PRE
+.50
+HVAC Equipment Manufacturer
+CVHF910
+L07E02414
+R-123
+910
+1,710
+2007
+Make
+Model
+Serial Number
+Refrigerant Type
+Cooling
+Capacity kWR  
+Annual
+Runtime Hours
+Age
+kW/ton
+REDUCTION
+7.4%  
+IMPROVEMENT
+IMPROVEMENT
+POST
+PRE
+COP
+8.0%
+7.3%
+POST
+PRE
+Chiller Water Delta
+IMPROVEMENT
+POST
+PRE
+635.8
+OperatingTonnage
+5.9%
+11.0 deg F
+6.51
+7.03
+673.3
+11.8 deg F
+Key Results for Chiller 2B with PermaFrost NMR® ECM
+System Description
+10
+467.7
+488.7
+49.1
+82.1
+50.3
+62.1
+73.1
+81.3
+11.8
+1.2
+336.5
+0.50
+673.3
+1386
+91
+Energy Usage
+BASELINE
+POST
+Voltage 
+Amperage
+Saturated Suction Temperature 
+Discharge Refrigerant Temperature
+Chilled Water Leaving Temp (Supply)
+Chilled Water Entering Temp (Return)
+Condenser Water Temp Entering Chiller
+Condenser Water Temp Leaving Chiller
+Chilled Water Delta T
+Refrigeration Approach
+kW (V x A x PF x 1.732)/1000 
+kW / Ton 
+Operating Tons 
+Chiller GPM 
+OAT 
+ 
+**
+** Post tons normalized up or down .25% per degree due to post
+entering condenser water temp vs. baseline temp
+488.7
+476.0
+48.5
+85.7
+50.1
+61.1
+78.2
+86.2
+11
+1.6
+342.5
+0.54
+635.8
+1386
+86
+Notes
+The chiller provides cooling to the [Texas] 
+location. Given the facility load and the six 
+chillers comprising the plant, chiller 2B runs 
+approximately 1,710 hours or more annually 
+prior to the ECM being implemented.
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 012 ═══
+
+.78
+POST
+PRE
+.55
+HVAC Equipment Manufacturer
+CVHF910
+L07E02363
+R-123
+910
+2481
+2007
+Make
+Model
+Serial Number
+Refrigerant Type
+Cooling
+Capacity kWR  
+Annual
+Runtime Hours
+Age
+kW/ton
+REDUCTION
+29.5%  
+IMPROVEMENT
+IMPROVEMENT
+POST
+PRE
+COP
+41.7%
+40%
+POST
+PRE
+Chiller Water Delta
+IMPROVEMENT
+POST
+PRE
+535.9
+OperatingTonnage
+40.5%
+9 deg F
+4.51
+6.39
+752.9
+12.6 deg F
+Key Results for Chiller 3A with PermaFrost NMR® ECM
+System Description
+11
+488.3
+574.7
+48.5
+90.6
+49.9
+62.5
+80.6
+89.8
+12.6
+1.4
+413.1
+0.55
+752.9
+1428
+95
+Energy Usage
+BASELINE
+POST
+Voltage 
+Amperage
+Saturated Suction Temperature 
+Discharge Refrigerant Temperature
+Chilled Water Leaving Temp (Supply)
+Chilled Water Entering Temp (Return)
+Condenser Water Temp Entering Chiller
+Condenser Water Temp Leaving Chiller
+Chilled Water Delta T
+Refrigeration Approach
+kW (V x A x PF x 1.732)/1000 
+kW / Ton 
+Operating Tons 
+Chiller GPM 
+OAT 
+ 
+**
+** Post tons normalized up or down .25% per degree due to post
+entering condenser water temp vs. baseline temp
+488.3
+579.7
+45.4
+89.1
+50
+59
+79.2
+88.2
+9
+4.6
+416.7
+0.78
+535.9
+1428
+89
+Notes
+The chiller provides cooling to the [Texas] 
+location. Given the facility load and the six 
+chillers comprising the plant, chiller 3A runs 
+approximately 2,481 hours or more annually 
+prior to the ECM being implemented.
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 013 ═══
+
+.65
+POST
+PRE
+.59
+HVAC Equipment Manufacturer
+CVHF910
+L07E02337
+R-123
+910
+2036
+2007
+Make
+Model
+Serial Number
+Refrigerant Type
+Cooling
+Capacity kWR  
+Annual
+Runtime Hours
+Age
+kW/ton
+REDUCTION
+9.2%  
+IMPROVEMENT
+IMPROVEMENT
+POST
+PRE
+COP
+10.2%
+34.4%
+POST
+PRE
+Chiller Water Delta
+IMPROVEMENT
+POST
+PRE
+537.5
+OperatingTonnage
+35.1%
+9.3 deg F
+5.41
+5.96
+725.9
+12.5 deg F
+Key Results for Chiller 3B with PermaFrost NMR® ECM
+System Description
+12
+487.7
+591.7
+46.7
+89.7
+50.3
+62.8
+79.4
+89.7
+12.5
+3.6
+424.8
+0.59
+725.9
+1386
+95
+Energy Usage
+BASELINE
+POST
+Voltage 
+Amperage
+Saturated Suction Temperature 
+Discharge Refrigerant Temperature
+Chilled Water Leaving Temp (Supply)
+Chilled Water Entering Temp (Return)
+Condenser Water Temp Entering Chiller
+Condenser Water Temp Leaving Chiller
+Chilled Water Delta T
+Refrigeration Approach
+kW (V x A x PF x 1.732)/1000 
+kW / Ton 
+Operating Tons 
+Chiller GPM 
+OAT 
+ 
+**
+** Post tons normalized up or down .25% per degree due to post
+entering condenser water temp vs. baseline temp
+490.3
+483.3
+47.3
+86
+49.9
+59.2
+77.5
+86.1
+9.3
+2.6
+348.9
+0.65
+537.5
+1386
+80
+Notes
+The chiller provides cooling to the [Texas] 
+location. Given the facility load and the six 
+chillers comprising the plant, chiller 3B runs 
+approximately 2,036 hours or more annually 
+prior to the ECM being implemented.
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+
+
+═══ PAGE 014 ═══
+
+215
+Passenger vehicles
+349
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+112,83
+Gallons of gasoline
+consumed
+1.097.09
+Pounds of coal burned
+annually
+2.322
+Barrels of oil
+consumed
+5.5
+Railcars worth
+of coal burned
+108
+Homes’ electricity use for
+one year
+Major Global Bank is Saving More than Just Energy
+By treating the entire plant with PermaFrost NMR®, based on the current manner in which the Major Global Bank operates 
+the chillers, they will save an estimated 1,347,380 kWh per year and all the costs associated with those 
+savings. From an environmental impact standpoint, Major Global Bank is also benefitting the surrounding community of 
+[Texas Location]. The environmental impact can be even greater after treating all of their chillers across their 
+portfolio.
+The 1,347,380 kWh saved per year equates to preventing 1,003 metric tons of greenhouse gas emissions from 
+being released or any of the following:
+Annual greenhouse emissions from:
+CO2 emissions from:
+13
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.
+

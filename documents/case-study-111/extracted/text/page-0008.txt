@@ -1,0 +1,46 @@
+Summary of Key Performance Measurements in Treated Pilot Systems
+The charts below summarize the substantial improvements resulting from the implementation of both the 
+PermaFrost NMR® and Circuit Master® ECMs into the pilot cooling systems. 
+       
+981.6
+tons
+Baseline
+Baseline
+TONNAGE
+Post
+100%
+CAPACITY @
+100% LOAD
+111.2
+tons Post ECM
+19.6
+tons of
+Capacity
+restored
+91.6
+111.2
+• Following treatment, the four pilot CRAC systems have regained
+   a total of 19.6 tons of capacity or 21.4% 
+TONS OF COOLING
+2.24
+Baseline
+COP
+Baseline
+COP
+Post
+COP
+Coefﬁcient of
+Performance
+3.11
+Post ECM COP
+38.9%
+Improvement
+in COP
+2.24
+3.11
+• Following treatment, the average COP of the four pilot CRAC
+   systems increased by .87 or 38.9% 
+COEFFICIENT OF PERFORMANCE
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website.
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+8

@@ -1,0 +1,36 @@
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2020 Powertron Global, LLC. 
+Conclusion 
+The confirmatory testing results validate the performance improvements of the 
+treated HVAC/R system and are in line with a previously tested UL (formally 
+Underwriters Laboratories) unit as well as +300 P.E. reviewed case studies 
+available upon request.  The results of the confirmatory testing demonstrate the 
+efficacy of PermaFrost NMR® by restoring the evaporator and condenser heat 
+transfer capabilities per manufacturer’s design, thereby restoring cooling capacity 
+while lowering the electrical cost per ton of cooling.  
+APPENDIX 
+I. 
+RTU 2 Performance Analysis Summary 
+II.
+RTU 3 Performance Analysis Summary
+III.
+RTU 4 Performance Analysis Summary
+IV.
+RTU 5 Performance Analysis Summary
+V. 
+RTU 7 Performance Analysis Summary
+VI.
+RTU 10 Performance Analysis Summary
+VII.
+RTU 12 Performance Analysis Summary
+VIII.
+RTU 14 Performance Analysis Summary
+IX.
+RTU 15 Performance Analysis Summary
+X. 
+RTU 16 Performance Analysis Summary
+XI.
+RTU 17 Performance Analysis Summary
+XII.
+33 points measured
+*(raw data files are made available) 

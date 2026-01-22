@@ -1,0 +1,22 @@
+Energy Science Division
+Determining the Payback Period
+Utilizing the data in the above charts, the following steps were taken to determine an accurate Payback 
+Period for Regional Cable Provider for implementing this ECM:
+Baseline kW         1.92 kW/ton * 16 tons = 30.72 kW
+Baseline Annual kWh         30.72 kW * 3,200 hours = 98,304 kWh
+Baseline Annual Cost         98,304 kWh * .095 cents = $9,339
+Regression Analysis is then used to account for amount of tonnage restored to Split System 
+ 
+Adjusted Baseline Tonnage         20.3 tons (equates to tonnage in Post)
+Adjusted kW Baseline         1.92 kW/ton * 20.3 tons = 38.98 kW
+Adjusted Baseline kWh         38.98 kW * 3,200 Annual Operating Hrs = 124,736 kWh
+Revised Cost to Run Baseline         124,736 kWh * $.095 = $11,850
+kW Post         1.075 kW/ton * 20.3 tons = 21.82 kW
+Annual kWh Post         21.82 kW * 3,200 hours = 69,824 kWh
+Annual Cost Post         69,824 kWh * .095 cents = $6,633
+Avoided Energy Cost (savings) Per Month         ($11,850 - $6,633)/12 = $434.75
+Cost of PermaFrost NMR® installed         $2,500 / $434.75 = 6 months
+ 
+ROI = 6 months
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

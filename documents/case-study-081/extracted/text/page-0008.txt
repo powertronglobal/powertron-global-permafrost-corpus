@@ -1,0 +1,38 @@
+®
+This is a report provided to Major South African Bank Headquarters and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2016 Powertron Global LLC.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement.
+This document is not to be distributed to any third party and is not to be in the pubic domain without our written approval.
+7
+Return On Investment
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the Major South African Bank Headquarters.
+ 
+Baseline Energy Consumption
+Adjusted Baseline Capacity: 704.28 kWR
+Adjusted kW Baseline: 0.24 kWE /kWR * 704.28 kWR = 169.03 kWE
+Adjusted Baseline kWh: 169.03 kWE * 4,380 Annual Operating Hrs = 740,351 kWh
+Revised Cost to Run Baseline: 740,351 kWh * R1.05 = R777,369
+ 
+Post Energy Consumption
+kW Post: 0.17 kWE /kWR * 704.28 kWR = 119.73 kWE
+Annual kWh Post: 119.73 kWE * 4,380 hours = 524,417 kWh
+Annual Cost Post: 524,417 kWh * R1.05 = R550,638
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: R777,369 – R550,638 = R252,952
+Estimated Energy Savings Per Month: R252,952 / 12 = R21,079
+ 
+Initial Payback Period
+Cost of PermaFrost NMR® installed in the pilot chiller: R214,200
+Estimated Initial Payback Period on the chiller: R214,200 / R21,079 = 10.2 months
+Total kWh saved by treating this chiller = 215,934 kWh
+ 
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period 
+for the Major South African Bank Headquarters implementing PermaFrost NMR®, a detailed Regression Analysis is used to calculate 
+the true energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh 
+expended in the Avoided Energy Reporting (Post) Analysis Period. ROI comes from determining what the cost to run 
+the systems was when operating at the original energy profile to produce the newly restored amount of available 
+tonnage capacity and then subtracting the revised cost to run the systems at the same restored tonnage after the 
+PermaFrostNMR® was installed. This regression analysis is the most widely accepted method of accounting for the 
+reduced number of hours the systems will now operate due to the restored capacity. This restored capacity allows the 
+systems to reach the internal building set points with increased efficiency resulting in reduced compressor demand 
+loading. 

@@ -1,0 +1,29 @@
+®
+15
+Rack-B Refrigeration Testing Methodology
+For this portion of the pilot, measurement data was collected using the Clima-Check Performance Analyzer 
+prior to Rack-B being treated with the PermaFrost NMR® ECM on 18 June 2014. The ECM was then allowed to 
+work for a period of at least 400+ hours before baseline data was then compared to the post data on similar 
+weather days. 
+To reduce the impact of the store variables on the data, two similar periods of time on similar days of the week 
+with similar in-store and outside air wet and dry bulb temperatures were chosen to compare refrigeration 
+performance before and after the ECM. These comparisons included:
+Baseline - Friday 13 June, 75° Average Outdoor Air Temp, 8AM – 8PM (full day of operations)  
+Post - Friday 18 July, 78° Average Outdoor Air Temp, 8AM – 8PM (full day of operations)
+The boundary of the testing was the Rack-B medium temperature compressors and nothing else; therefore 
+confidence in the accuracy of the performance calculations is very high.
+Refrigeration Eﬃciency Study Results
+Calculated Eﬃciency of Grocery Chain A Refrigeration Baseline and Post
+The charts below illustrate the energy savings achieved in this pilot. The average Btuh required to achieve the 
+Rack-B multiple medium temperature evaporator set points has been reduced from 155,724 down to 89,771. 
+This equates to a reduction of 42.4%. The overall kWh associated with the operation of Rack-B dropped 18.2%, 
+from 219.1 kWh in the baseline to 179.3 in the post. The input kW to the rack system dropped from 18.2 kW in 
+the baseline to 14.97 in the post period. This equates to a reduction of 17.8%. 
+The key system improvements have come by way of thermal dynamic efficiency restoration. In particular, the 
+delta of the leaving absolute compressor ratio dropped from 5.47 in the baseline to 4.84 in the post, equating to 
+an 11.5% reduction. This same reduction demonstrates that the compressors are satisfying their set points 
+while running easier. Another key measurement in determining performance improvements is the condensed 
+liquid temperature (CLT). In Rack-B, the CLT fell from 104.7 degrees to in the baseline down to 95 degrees in 
+the post. This equates to a 9.3% reduction. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

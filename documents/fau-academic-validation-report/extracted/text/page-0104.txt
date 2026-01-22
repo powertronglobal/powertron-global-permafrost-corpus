@@ -1,0 +1,68 @@
+4        Definition and Purposes of M&V 
+ 
+CHAPTER 2   DEFINITION AND PURPOSES OF M&V  
+“Measurement and Verification” (M&V) is the process of using measurement to reliably 
+determine actual savings4 created within an individual facility by an energy management 
+program. Savings cannot be directly measured, since they represent the absence of energy 
+use. Instead, savings are determined by comparing measured use before and after 
+implementation of a project, making appropriate adjustments for changes in conditions.  
+M&V activities consist of some or all of the following: 
+ 
+meter installation calibration and maintenance,  
+ 
+data gathering and screening, 
+ 
+development of a computation method and acceptable estimates,  
+ 
+computations with measured data, and 
+ 
+reporting, quality assurance, and third party verification of reports.  
+When there is little doubt about the outcome of a project, or no need to prove results to another 
+party, applying M&V methods to calculate savings may not be necessary. However, it is still 
+wise to verify (initially and repeatedly) that the installed equipment is able to produce the 
+expected savings. Verification of the potential to achieve savings is referred to as operational 
+verification,  which may involve inspection, commissioning of equipment, functional performance 
+testing and/or data trending (see Section 4.4. below). IPMVP-adherent M&V includes both 
+operational verification and an accounting of savings based on site energy measurements 
+before and after implementation of a project, and adjustments, as described above.   
+M&V is not just a collection of tasks conducted to help a project meet IPMVP requirements. 
+Properly integrated, each  M&V task serves to enhance and improve facility operation and 
+maintenance of savings. As shown in Figure 1, M&V activities overlap with other project efforts 
+(e.g. collecting data to both identify ECMs and establish energy baselines, commissioning and 
+operational verification of installed ECMs, and installing monitoring systems to track and 
+maintain savings persistence, etc.). Identifying these project synergies and establishing roles 
+and responsibilities of involved parties during project planning will support a coordinated team 
+effort. This can leverage complementary scopes and control M&V-related costs.  
+ 
+Plan
+• Identify ECMs
+• Document 
+baseline energy
+• Plan and 
+coordinate 
+M&V activities
+• Design ECMs
+Install
+• Install ECMs
+• Commission
+• Verify 
+Operations
+Maintain
+• Gather data
+• Verify Savings
+• Report
+• Document 
+project feedback
+• Assure 
+persistence
+ 
+                                                  
+4 Words in italics have the special meanings defined in Chapter 9. 
+ 
+ 
+Figure 1 
+Process 
+Timeline 
+(M&V 
+activities in 
+bold) 

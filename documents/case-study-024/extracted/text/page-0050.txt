@@ -1,0 +1,17 @@
+Temperature
+Baseline kW/Ton
+Post kW/Ton
+% kwton change
+Baseline Number of Samples
+Post Number of Samples
+77
+1.12
+22959
+76
+1.05
+26815
+75
+1.05
+13253
+       
+       

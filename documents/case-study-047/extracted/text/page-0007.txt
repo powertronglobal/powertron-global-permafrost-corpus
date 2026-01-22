@@ -1,0 +1,22 @@
+Energy Science Division
+Energy Conservation Method (ECM) Content
+The content within the following report will demonstrate the ability of PermaFrost NMR® to remove the 
+accumulated lubricant excess layer on the heat exchange surfaces. 
+A diagnostic examination of the pilot equipment was implemented to determine if the operational 
+conditions of the systems were satisfactory. Baseline M&V was recorded on each of the two CRAC units 
+comprised of four (4) compressors and then the proper amount and type of PermaFrost NMR® was injected 
+directly into the low pressure service port of the refrigerant loop. The gestation period for the Global Telecom Equipment Manufacturer pilot 
+was four weeks. 
+Prior to taking AERP (i.e., post) measurements, systems need to achieve at least 300 or more hours of 
+runtime to ensure adequate performance improvement. At the end of this gestation period, AERP 
+measurements were taken in the identical manner as in the baseline, taking special care to match the same 
+discharge pressures on the compressors as well as the wet bulb and dry bulb temperatures of the air 
+entering the respective coils. These are three of the most critical variables to contend with in an in-situ 
+HVAC testing situation. When analyzing all of the data in the baseline and AERP, the amps in the AERP 
+period were adjusted downward per industry standards to account for the slightly warmer temperatures 
+entering the condenser.
+Wes Patterson, Global Telecom Equipment Manufacturer’s building manager and Jerry Palacios, one of three HVAC service technicians 
+supporting the facility, oversaw the testing on behalf of Global Telecom Equipment Manufacturer. The final calculations were performed by 
+Powertron Global®’s Forensic Mechanical Engineer, [Senior Energy Engineer] and signed off by Jerry Palacios. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

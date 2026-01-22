@@ -1,0 +1,60 @@
+• The CRACs were operating @ 40.7 tons of cooling capacity prior to
+  installing ECM
+• The CRACs now have 7.1 tons of restored cooling capacity after ECM
+  equating to a 17.4% increase
+• The CRACs were operating @ 2.46 COP prior to the ECM and
+   3.00 following the ECM
+• The average COP of the CRACs have  increased by 22%
+   following the ECM
+2.46
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+40.7
+tons
+Baseline
+100%
+CAPACITY @
+100% LOAD
+2.46
+3.00
+40.7
+47.8
+3.00
+Post ECM COP
+47.8
+tons Post ECM
+22%
+Improvement
+in COP
+7.1
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of HVAC/R Eﬃciency Study Results 
+CRAC #59 & #60 Eﬃciency with PermaFrost NMR® ECM
+Major Technology Company has the problem of thermal degradation in its HVAC systems. The lower operating tonnage and COP 
+ratings measured on site are in line with the ASHRAE loss of performance and cost to operate numbers. The 
+degraded equipment performance is costing Major Technology Company significant money and wasting energy. The pilot CRAC 
+systems are using significantly more energy to operate than when it was new ten years earlier. 
+The performance summary includes the measured efficiency and tonnage of both CRAC systems combined 
+in the baseline and post testing periods demonstrating the impact of thermal degradation. Individual system 
+results are outlined later in this report.
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 7.1 operating tons and an 
+average improvement of 22% in Coefficient of Performance (COP), significantly reducing the cost to operate 
+the systems throughout the year.
+4
+Baseline
+PermaFrost NMR®
+Installed
+Baseline
+PermaFrost NMR®
+Installed
+®
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

@@ -1,0 +1,45 @@
+Results
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period of Split Unit #2. 
+PermaFrost NMR®: Determining the Payback Period for County Law Enforcement A 
+Utilizing the data in the above charts, to obtain a true avoided energy cost and payback period for County Law Enforcement A, a 
+detailed Regression Analysis is used to account for amount of tonnage restored to Split System (the constant) at the 
+pre-pilot cost to operate the system (kW/Ton). This cost is then compared to the newly obtained cost to operate the 
+system following the installation of PermaFrost NMR® to determine the true Payback Period for County Law Enforcement A.  
+Adjusted Baseline Tonnage         25.88 tons (equates to tonnage in Post)
+Adjusted kW Baseline        1.62 kW/ton * 25.88 tons = 41.93 kW
+Adjusted Baseline kWh        41.93 kW * 3,895 Annual Operating Hrs = 163,317 kWh
+Revised Cost to Run Baseline        163,317 kWh * $.11 = $17,964.87
+kW Post        1.36 kW/ton * 25.88 tons = 35.20 kW
+Annual kWh Post         35.20 kW * 3,895 hours = 137,104 kWh
+Annual Cost Post         137,104 kWh * .11 cents = $15,081.44
+Avoided Energy Cost (savings) Per Month         ($17,964.87 - $15,081.44)/12 = $240.29
+Cost of PermaFrost NMR® installed         $2,808 / $240.29 = 11.7 months
+ 
+ROI = 12 months
+Energy Science Division
+Improvements
+Total kW
+kW / Ton  
+Calculated Enthaply Delta
+System Capacity in Tons 
+COP
+1.3%
+ 16%
+21%
+17.3%
+19.4%
+Post
+35.3 kW
+1.36
+6.8
+25.88
+2.59
+Baseline
+35.75 kW
+1.62 
+5.62
+22.07 
+2.17
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,30 @@
+Energy Conservation Method (ECM) Content
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the 
+effects of thermal degradation and fouling on the heat exchange surfaces. 
+A diagnostic examination of the pilot equipment was implemented to determine if the operational 
+conditions of the systems were satisfactory. Baseline M&V was recorded on each of the three units and then 
+the proper amount and type of PermaFrost NMR® was injected directly into the suction side of the 
+refrigerant loop. The gestation period for the Commercial Real Estate Company Realty pilot was 4 weeks. At the end of this gestation 
+period, Post M&V results were taken in the identical manner as in the baseline, taking special care to match 
+the same or very similar outside air temperatures as well as the wet bulb and dry bulb temperatures of the 
+air entering the respective coils. These are three of the most critical variables to contend with in an in-situ 
+HVAC testing situation. When analyzing all of the data in the baseline and post, only the lobby unit 
+required an amp adjustment slightly downwards due to the fact that the O.A.T. in the post was 6 degrees F 
+warmer. The other two units, the chiller and the elevator room, did not require any adjustments.
+The HVAC Equipment Manufacturer 12.5 ton unit’s (servicing the lobby) performance was validated at only 50% of its operating 
+capacity due to available building load. All measurements were taken with only one compressor operating 
+but both circuits were treated.
+  
+The following report produces the utilization of 
+the International Performance Measurement 
+and Verification Protocol (IPMVP) as the M&V 
+plan. Sara Neff, Vice President of Sustainability, 
+and Bill Wendt, Vice President of Facilities and 
+Engineering, of Commercial Real Estate Company Realty, and Sarah Woods 
+of CleanTek were all involved and witnessed 
+this pilot. The final calculations were performed 
+by Powertron Global®’s Forensic Mechanical 
+Engineer, [Senior Energy Engineer].  
+Energy Science Division
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

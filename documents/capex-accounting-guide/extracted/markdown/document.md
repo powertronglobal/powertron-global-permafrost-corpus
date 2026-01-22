@@ -1,0 +1,44 @@
+# PermaFrost NMR as Capital Expense Guide
+
+---
+
+## Page 1
+
+ 
+ 
+ 
+ 
+ 
+Expense Accounting 
+                            
+ 
+Capital Expenditure 
+  
+Every customer decides how to account for expenditures under GAAP rules. 
+Powertron Global can only attest to scientific fact and the effect of its 
+nanotechnology products. However, such information may inform accounting 
+decisions. 
+ 
+PermaFrost NMR® restores HVAC systems to “at or near” original design cooling 
+efficiency. Greater efficiency reduces machine runtime for the same workload - 
+extending the useful life of treated equipment. The improvement is permanent.  
+ 
+Treasury Regulations Guidelines help distinguish operational expense from 
+capital expense where technologies extend asset useful life: 
+ 
+• Capital expenses are “Improvements that prolong the life of the asset, restore 
+asset to a “like-new” condition, or add value to the asset.” 
+ 
+1. PermaFrost NMR® extends the useful life of a fixed asset up-to 20%. 
+2. The technology bonds with metal surfaces and lasts for the remaining life 
+of the treated HVAC system. Typically, well over 5 years. 
+3. PermaFrost NMR® is a tangible product that becomes a permanent part of 
+an HVAC system. It cannot be removed and will not wear out under normal 
+operating conditions. 
+4. PermaFrost NMR® improves the value of a fixed asset as measured in 
+equipment life extension, reduction of maintenance and reduced cost to 
+operate. 
+5. PermaFrost NMR® is not a service, nor does it require additional service 
+attention once installed. 
+
+

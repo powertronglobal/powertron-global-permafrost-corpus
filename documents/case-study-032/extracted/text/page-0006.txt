@@ -1,0 +1,50 @@
+ 
+ 
+ 
+Example	  
+	  
+480	  (volts)	  X	  45	  (amps)	  X	  √3	  (phase	  angle	  for	  three	  phase	  power	  only)	  X	  0.90	  
+(power	  factor)	  /	  1000	  =	  33.67	  kilowatts	  	  
+	  
+	  
+	  
+To	  Determine	  Efficiency:	  
+	  
+Divide	  the	  measured	  kilowatts	  (kW)	  by	  the	  measured	  tons	  to	  obtain	  kW	  per	  ton.	  
+kW	  per	  ton	  is	  the	  industry	  standard	  to	  determine	  system	  efficiency.	  	  
+	  
+Example	  
+	  
+33.67	  kW	  /	  12	  tons	  =	  2.80	  kilowatts	  per	  ton	  	  	  
+	  
+	  
+	  
+	  
+	  
+4.	  	  	  	  Technical	  
+	  
+When	  PermaFrost	  NMR®	  is	  installed	  into	  a	  unit,	  a	  molecular	  transformation	  
+develops.	  This	  transformation	  displaces	  layers	  of	  lubricating	  fluids	  that	  have	  been	  
+impinged	  in	  the	  evaporator	  and	  condenser	  heat	  exchanger	  surfaces.	  When	  the	  fluid	  
+is	  displaced,	  the	  evaporator	  and	  condenser	  can	  transfer	  additional	  heat	  energy	  
+through	  the	  tube	  walls	  (thermal	  restoration).	  This	  enables	  the	  evaporator	  to	  
+completely	  dehumidify	  the	  air	  per	  the	  unit’s	  design	  specifications.	  	  When	  more	  
+dehumidification	  is	  developed,	  the	  enthalpy	  (a	  measure	  of	  how	  many	  grains	  of	  
+moisture	  are	  contained	  in	  a	  pound	  of	  air)	  increases.	  
+	  
+If	  the	  CFM	  and	  4.5	  remain	  constant,	  then	  it	  is	  the	  effect	  of	  PermaFrost	  NMR®’s	  
+Enthalpy	  Delta	  increase	  that	  restores	  (increases)	  the	  lost	  capacity	  (Tons).	  	  
+	  
+If	  the	  tonnage	  increases,	  then	  the	  kW/ton	  decreases	  by	  means	  of	  mathematical	  
+function,	  demonstrating	  PermaFrost	  NMR®’s	  post-­‐treatment	  effect	  lowering	  the	  
+electrical	  cost	  of	  every	  ton	  of	  cooling	  produced,	  no	  matter	  how	  many	  tons	  are	  called	  
+for	  at	  any	  given	  time.	  	  
+	  	  
+PermaFrost	  NMR®	  cannot	  change	  any	  unit’s	  electrical	  characteristics	  i.e.	  everything	  
+that	  requires	  electricity	  is	  rated	  for	  the	  required	  power	  under	  different	  loads	  e.g.	  
+compressors	  and	  fans.	  	  
+	  
+	  
+	  
+	  
+	  

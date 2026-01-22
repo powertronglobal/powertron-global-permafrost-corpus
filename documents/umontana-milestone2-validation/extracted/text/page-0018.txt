@@ -1,0 +1,24 @@
+ 
+ 
+Page 10 of 38 
+ 
+Figure 15 - Dendrogram of October 2019/May 2020 Data 
+ 
+ 
+The y-axis in figure 15 is used to measure the height of the line connecting each object notated on 
+the x-axis. The taller the line representing the linkage between objects, the further apart those 
+objects are calculated to be. The colors within the dendrogram indicate the cluster assignments and 
+suggest that 4 clusters should be used when assigning clusters within the data. 
+ 
+At this point, all the inputs have been collected to run the hierarchical clustering algorithm that 
+produces a matrix assigning a cluster (cluster 0, 1, 2 or 3) to all 38 days included in the dataset. The 
+output matrix is seen in figure 16.  
+ 
+Figure 16 - Cluster Assignments within October 2019/May 2020 Dataset 
+ 
+The highlighted days in figure 16 are the first 8 days listed in the dataset i.e. the days from October 
+2019, the others listed are days in May 2020. There is some overlap in the measured device 
+behavior on days 7 and 8, as they fell into the ‘0’ cluster where the majority of days in that cluster are 
+days from May. This overlap is minimal as the remaining days from October were recognized as a 
+cluster of their own, not containing any data sets from May 2020. 
+ 

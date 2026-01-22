@@ -1,0 +1,30 @@
+Return On Investment
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the three Major US Warehouse Retailer Packaged RTUs.
+Baseline Energy Consumption
+Adjusted Baseline Tonnage: 50.8 tons
+Adjusted kW Baseline: 1.36 kW/ton * 62.5 tons = 85 kW
+Adjusted Baseline kWh: 85 kW * 3,500 Annual Operating Hrs = 297,500 kWh
+Revised Cost to Run Baseline: 297,500 kWh * $.105 = $31,238
+Post Energy Consumption
+kW Post: 1.07 kW/ton * 62.5 tons = 66.88 kW
+Annual kWh Post: 66.88 kW * 3,500 hours = 234,080 kWh
+Annual Cost Post: 234,080 kWh * .105 cents = $24,578
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $31,238 - $24,578 = $6,660
+Estimated Energy Savings Per Month: $6,660 / 12 = $555
+Return On Investment
+Cost of PermaFrost NMR® installed in three pilot RTUs: $6,663
+Estimated ROI Period for Major US Warehouse Retailer on three RTUs: $6,663 / $555 = 12 months
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period 
+for Major US Warehouse Retailer for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true 
+energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended 
+in the Avoided Energy Reporting (Post) Analysis Period. ROI comes from determining what the cost to run the systems 
+was when operating at the original energy profile to produce the newly restored amount of available tonnage capacity 
+and then subtracting the revised cost to run the systems at the same restored tonnage after the PermaFrostNMR® ECM 
+was installed. This regression analysis is the most widely accepted method of accounting for the reduced number of 
+hours the systems will now operate due to the restored capacity. This restored capacity allows the systems to reach the 
+internal building set points with increased efficiency resulting in reduced compressor demand loading.
+8
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

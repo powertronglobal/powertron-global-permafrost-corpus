@@ -1,0 +1,421 @@
+═══ PAGE 001 ═══
+
+Advanced Data Science Projects Documentation
+
+[Student Researcher A]:
+
+[student-a@university.edu], 
+
+[Student Researcher B]:
+
+[student-b@university.edu], 
+
+[Student Researcher C]
+
+[student-c@university.edu]
+
+Executive Summary:
+
+Throughout this exploration, our team was focused on anomaly detection of HVAC units. The detection of these anomalies would show poor efficiency in such HVAC units. By using a variety of preprocessing techniques, modeling techniques, and clustering techniques, our team was able to find these analogous system performances prior to Powertron Globals implementation. Through the use of two datasets, we were able to find analogous efficiency performance in HVAC systems. By doing this, our team was able to conclude that the use of Powertron Global’s supplement resulted in the efficiency of HVAC systems located on a cell tower to return back to expected system performance.
+
+Introduction:
+
+The M567-467 University of Montana Advanced Data Science projects team conducted research during the 2022 spring semester at the request of Powertron Global. The data provided consisted of data recorded by monitoring sensors on heating and cooling HVAC units.
+
+The team was given two data sets to analyze, (1) data from a Department Store A store location and (2) data from a cell phone tower unit in California. Our team analyzed different aspects of the dataset and tested various algorithms and model performances on these data and the following report documents our findings.
+
+Description of Project/Data:
+
+Our goal was to create a model that accurately represents the HVAC in optimal operating conditions. The Powertron Global company provides a product that cleans and optimizes cooling units. We were able to use the data after optimization of the cooling units as training data for our modeling process. The data we received contained various metrics that pertain to HVAC system performance
+
+Objectives:
+
+The team started by defining the objectives of our modeling process. We set out to:
+
+Develop a method for detecting anomalies or changes in system performance:
+
+Visualize the process and the variables associated with the project.
+
+Determine accurate models for predicting system efficiency from internal and external variables.
+
+Use an accurate prediction model to detect Anomalies.
+
+Local outlier Factor
+
+Cluster outliers
+
+Raw Data:
+
+During the process of exploring and understanding the data sets we were provided with we were informed our principal efforts should be directed at the cellphone tower data as opposed to the Macy’s data. We decided to train our models on the system after Powertron Global’s treatment. The reasoning behind that decision was based on the idea that post treatment data should represent the system when running as close to optimal efficiency as possible. We used the pre treatment data to represent the system when running in less than optimal conditions, however there is no guarantee that the system was running sub-optimally before treatment. Also, the data we were provided contained 21 variables. The table below consists of all 21 variables that were present to us during our project.
+
+name
+
+cfm
+
+COP
+
+Delta_Enthalpy
+
+dewpoint1
+
+dewpoint2
+
+Variables
+
+eer
+
+kw
+
+kwton
+
+OAtemp
+
+humidity1
+
+temp1
+
+enthalpy1
+
+humidity2
+
+temp2
+
+enthalpy2
+
+time
+
+Compressor 1
+
+Compressor 2
+
+Compressor 3
+
+Compressor 4
+
+Table 1: Variables in Cell Tower Dataset
+
+Also, our team took the two datasets and splitted them into training and testing sets. A training set is used so our model can get a good understanding of the data. By using the independent variables provided by the user and the Retail Chain A variable outcomes, the model can learn how much the Retail Chain A variables are affected by the independent variables. The testing set is used to determine how accurate the model can predict the Retail Chain A variables. The time spans that our team decided to train and test our models on for the Department Store A dataset and cellphone tower dataset are as follows. For the Macy’s dataset, the timeframe we decided to train our data on was from 05-15-2020 to 12-16-2020. The testing dates for the Macy’s dataset were from 10-01-2019 to 05-15-2020. On the other hand, the training dates for the cellphone tower dataset were from 07-13-2021 to 01-31-2022, while the testing dates for this dataset were from 07-06-2021 to 07-13-2021.
+
+ 
+
+Data Preprocessing:
+
+Before training and testing our models on the data, our team implemented a number of preprocessing techniques. These techniques included creating new variables that were not in the dataset prior, dropping observations that happened thirty seconds after a compressor turned on, resampling the data, and dealing with extreme values. The first 30 seconds after a compressor turns on often yields values indicative of very low efficiency. The low efficiency values did not persist after those 30 seconds and were deemed not indicative of overall system performance, thus these observations were dropped from the dataset before training and testing our models. Also, there were a few instances where the measure for kwton was in the high one hundreds to two hundred range. Since this was not persistent throughout the rest of the dataset, our team decided to exclude these values for the most part throughout the study. These values will be talked about more in the next section.
+
+Challenges/Early date outliers:
+
+The cell phone tower data contained a period spanning from 06-26-2021 to 06-30-2021 which contained values that were not consistent with the rest of the data . Depending on the analysis these data points were sometimes omitted from analysis. The following figure shows the range of days that contained values not consistent with the rest of the data.
+
+Figure 1: Anomalous data points, which were dissimilar to the rest of the dataset.
+
+Resampling:
+
+The data had an overwhelmingly large amount of observations which posed computational and memory problems. Resampling to a different time interval was necessary to reduce data volume. Resampling also serves to smooth out, remove and reduce ephemeral system changes. We used the median value of each variable over a 30 second or 1 minute time frame, which down-sampled the data by 30-60 observations per minute. Also, by using the median when resampling, we were able to limit the range of extreme values in the dataset. After resampling by 30 seconds, the dataset still contained 241,029 observations.
+
+Clean/Processed Data:
+
+We chose 3 performance indicators COP , EER , and Kwton to use as our Retail Chain A variables. The reader should note that COP and EER are highly correlated. The following figure illustrates the correlations of each exogenous variable to our Retail Chain A variables during a one second and 30 second resampling period. This figure was computed using the dataset after pre-processing and shows the differences between 1 second data points and 30 second aggregated data points.
+
+The magnitude of the correlation coefficients are larger in the 30 second data. Therefore, it’s concluded that 30 second resampling provides more information about trend(s) over time.
+
+Figure 2. A correlation heatmap on the cell phone tower data across various features and Retail Chain A variables.
+
+Variable choices:
+
+We chose EER, COP, and Kwton as our Retail Chain A vectors because they are key performance indicators. When building a model, accurately predicting these variables when the system is running at optimal performance allows for determination of when the system is running sub-optimally by comparison. To further explore these three key performance indicators, we will briefly explain how each one is measured. First, KW/ton is a measure of efficiency that can be calculated by taking the Peak Power Draw (kw) and dividing it by Peak cooling consumption (tons). Next, we have EER. EER is also a measure of efficiency which can be calculated by dividing the British Thermal Units (BTU) by the wattage. Lastly, we have COP, which can be calculated by the ratio between energy usage of the compressor and the amount of useful cooling at the evaporator.
+
+Model Variable choices:
+
+To reduce the computational strain we selected a subsample of the total data set to use as predictive variables. The variables used in each of the three models are shown in the following table.
+
+Model
+
+Random Forest
+
+Gradient Boosting Regressor
+
+Light Gradient Boosting Regressor
+
+Variables
+
+CFM
+
+CFM
+
+CFM
+
+Delta Enthalpy
+
+Delta Enthalpy
+
+Delta Enthalpy
+
+OAtemp
+
+OAtemp
+
+OAtemp
+
+Humidity 1
+
+Humidity 1
+
+Humidity 1
+
+Temp 1
+
+Temp 1
+
+Temp 1
+
+Day of Week
+
+Day of Week
+
+Day of Week
+
+Hour of Day
+
+Hour of Day
+
+Hour of Day
+
+Month
+
+Month
+
+Month
+
+Name
+
+Name
+
+Name
+
+Kw
+
+Kw
+
+Kw
+
+Table 2: Variable Choices
+
+Before creating our models, our team decided to create three new variables to incorporate. These variables created were Day of Week, Hour of Day, and month, which can be seen in the table above. Our team decided to create the feature Day of Week because we thought there would be a difference in system performance on the weekends when compared to weekdays. Also, our teams’ idea of creating the Hour of Day feature was because we thought system usage would be less during the early morning hours and late night hours than midday hours, thus resulting in different system performance when compared to that of mid-day. Lastly, we decided to create the Month feature for the same reason as the other two variables. During the cold months the system may be running at different efficiencies when compared to that of a warmer month.
+
+Modeling:
+
+Before implementing our models, our team created a pipeline. A pipeline takes our predictor variables, either categorical or numerical, and transforms them so our models can be more accurate. Within our pipeline, we used two transformers and an imputer. The transformers used were OneHotEncoding and StandardScaler. OneHotEncoding takes categorical variables and transforms them into binary features. On the other hand, StandardScaler standardizes each of the numerical features. To do this, the StandardScaler subtracts the mean of the column from such observation, then divides the value by the standard deviation of the column. Lastly, the imputer is used if there are empty values in the column. If there are empty values present, the imputer will take the median of the column and replace the empty value with the median.
+
+ 
+
+Our team decided to use three different models when training and testing the data. The three models we chose were all based on ensembles of regression trees. The three models used are as follows: Random Forest, Gradient Boosting Regressor, and Light Gradient Boosting Regressor. A random forest is a classification algorithm which consists of many decision trees. Each decision tree in the random forest then returns a class prediction. Since there are multiple trees in a random forest, the class that appears the most often becomes the model’s prediction. Now onto the gradient boosting regressor. A gradient boosting regressor uses a multitude of weak learners (decision trees) and combines new learners to minimize overall prediction error. Similarly, a light gradient boosting regressor is a modified gradient booster meant to achieve higher efficiency in computations. To test the accuracy of these models, we computed a pseudo R2 value of four different time frames. The pseudo R2 value can be computed by taking the square of the standard deviation of the Retail Chain A vector, subtracting the mean of the residuals squared from this value, then dividing such value by the standard deviation of the Retail Chain A vector squared. These time frames were the pre-treatment data, post-treatment data, 500 hour window after the implementation of Powertron’s product, and the validation set. The pseudo R2 values for each of the three models can be seen in the following tables.
+
+Gradient Boosting Regressor Pseudo R2:
+
+Retail Chain A Variable
+
+Pre Treatment
+
+Validation Set
+
+Post Treatment
+
+500 H Window
+
+Kwton
+
+0.951796
+
+0.993803
+
+0.997733
+
+0.997099
+
+EER
+
+0.856326
+
+0.992138
+
+0.998030
+
+0.996766
+
+COP
+
+0.760850
+
+0.995814
+
+0.998230
+
+0.997538
+
+Random Forest Regressor Pseudo R2
+
+Retail Chain A Variable
+
+Pre Treatment
+
+Validation Set
+
+Post Treatment
+
+500 H Window
+
+Kwton
+
+0.816706
+
+0.668728
+
+0.930982
+
+EER
+
+0.471107
+
+0.973788
+
+0.974240
+
+COP
+
+0.326350
+
+0.970241
+
+0.970543
+
+Light Gradient Boosting Regressor Pseudo R2
+
+Retail Chain A Variable
+
+Pre Treatment
+
+Validation Set
+
+Post Treatment
+
+500 H Window
+
+Kwton
+
+0.85889462984
+
+0.95050715149
+
+0.94422054833
+
+0.81599396522
+
+EER
+
+0.59739868630
+
+0.99718873343
+
+0.99749245370
+
+-0.01600525334
+
+COP
+
+0.56181917580
+
+0.99754186266
+
+0.99780246004
+
+0.10205124206
+
+Feature importances:
+
+All the models tested are variations of ensembles of decision trees, these models produce metrics on feature importances used to make accurate predictions, the following series of figures show feature importances for each Retail Chain A variable.
+
+KW/TON (above)
+
+COP (above)
+
+EER (above)
+
+Clustering:
+
+Clustering methods were evaluated on the residuals produced by our models. Residuals in our context, is defined as the difference between observed Retail Chain A variable values and a model’s predicted Retail Chain A variable values. When a residual data point has a high value it generally means that there was a large difference between the system during optimal performance and the observed system performance value. The goal of this analysis was to perform unsupervised learning to identify time periods of inefficiency, efficiency or time periods with anomalous efficiency values.
+
+We compared the results of three different clustering algorithms, Kmeans, DBscan and agglomerative clustering.
+
+Two scoring methods were used to evaluate the clustering model performance,(1) Inertia and (2) the silhouette score. The method kmeans is measured by the metric called inertia, which measures how well a data set was clustered. It is calculated by measuring the distance between each data point and its cluster centroid, squaring this distance, and summing these squares across one cluster. A good silhouette score is a high one. The Agglomerative and DBscan are measured by their silhouette score. Otherwise known as the goodness of a clustering technique. Its value ranges from -1 to 1.
+
+1: Means clusters are well apart from each other and clearly distinguished.
+
+0: Means clusters are indifferent, or we can say that the distance between clusters is not significant.
+
+-1: Means clusters are assigned in the wrong way.
+
+We choose agglomerative clustering as the best method because of its computational efficiency and high silhouette scores when compared to the other two methods of clustering. Using the agglomerative method, we clustered the post treatment data set and categorized 3 clusters as the efficient operating conditions. We then calculated the distances of clusters in the pre treatment data. Points were classified as anomalous if they were beyond a 2 standard deviation distance from the efficient cluster centers.
+
+The following  figure illustrates the percentage of anomalous data points in 8 hour windows spanning from the pre-treatment to the post-treatment data set.
+
+Discussion:
+
+In brief, the approach characterizes system efficiency when the system is believed to be operating efficiently Characterization is accomplished by modeling the 3 efficiency measures (Kwton, COP, and EER) The model accounts for exogenous conditions hour of day, day of week, and month. Departure from efficiency is measured by predicting efficiency via a model for a 30 second time intervals and measuring the difference from the actual & predicted efficiencies large deparetues indicate poor efficiency. Departures are  aggregated over several 8 hour periods. The 8 hour departures from optimal performance become the final measure of system efficiency. 
+
+The Local Outlier factor:
+
+Local outlier factor was another method utilized to identify differences in performance in the different time periods. The goal of this method is to assign an anomaly score to each data point based on its position to the points around it. There are two methods we used for this approach. One was to train a predictive model for outliers on the post treatments data. In this course of action, points were given an outlier or inlier score [-1,1], respectively. This allowed our team to observe how the number of outliers to inliers changed over time. The other method considered was to assign a quantitative value to how “unusual” a point was with respect to “nearby” data. This process produces anomaly score values from ~1 → positive infinity. The larger the value, the more anomalous the data point.
+
+The figure (above) demonstrates the method of determining how anomalous a point is compared to “nearby” data. The left column of graphs shows the distributions of Kw/ton, COP, and EER for a day in the pre-treatment period while the right column shows the same distributions for a day in the post-treatment time period. The colorbar (right) applies to all the plots and displays the gradient for the anomaly scores..
+
+Cluster distances:
+
+Two clusters were found to represent the system during optimal performance. We measured the average distance over an 8 hour period to each of the cluster's core points. When graphed over time from the beginning of the data set to the end it is observable that the average distance to each cluster decreases, implying that the system gets closer to consistent optimal performance by the end of the treatment period. The method of clustering residuals also proved to be a satisfactory method of characterizing system performance.
+
+Conclusions:
+
+The 567 - 467 projects team spent the spring of 2022 working with data provided by Powertron global. The team found that it is possible to accurately predict HVAC system performance based on measured sensor data points and ambient features.  Once accurate models were produced, it was possible to characterize recorded system performance based on their deviations from the models representation of optimal performance. These terms were residuals. A data point with a large residual value represented a moment of inefficiency as opposed to a residual with a low value which represented the system performing close to optimal conditions. The team then was able to characterize types of inefficiency. By using clustering and the Local Outlier Factor we are able to observe the system performance enhancements that are provided by the Powertron Global HVAC efficiency treatment. This model could be used to predict or observe novel HVAC systems to show prospective customers how inefficiently their current systems are performing and illustrate how this product could be beneficial.
+
+Appendix of Graphs:
+
+(above) Feature importances for COP models trained on each compressor unit in the cell phone tower data (unit 458 left, unit 459 right).
+
+(above) Residuals for each unit’s model for their respective data/times with time periods colored(unit 458 top, unit 459 bottom).
+
+(above) The residuals for each unit model plotted together (458 blue, 459 red)
+
+(below) The models predictions across all the data (unit 458 blue, unit 459 red) with a lowess smooth curve added displayed in the first two plots. The last two show the residuals overlayed with plotting orders reversed between the plots and the 95th and 5th quantiles width added.
+
+(above) A plot of the percentage of values over 25 for kwton for different time interval aggregations. (The y-axis is in ##.##% format, so 0.00% to 0.25% is the axis range)
+
+(above) These are various displays of model performance for KW/TON on the pre-treatment data. (Light Gradient Booster)
+
+(above) These are various displays of model performance for KW/TON on the validation set of the post-treatment data. (Light Gradient Booster)
+
+(above) KW/TON residuals across the entire time frame with time periods separated by color (Y-axis limited).
+
+(above) Quantile plot of KW/TON residuals
+
+(above) These are various displays of model performance for COP on pre-treatment data. (Light Gradient Booster)
+
+(above) These are various displays of model performance for COP on the validation set of the post-treatment data. (Light Gradient Booster)
+
+(above) COP residuals across the entire time frame with time periods separated by color (Y-axis limited).
+
+(above) Quantile plot of COP residuals
+
+(above) These are various displays of model performance for EER on the pre-treatment data. (Light Gradient Booster)
+
+(above) These are various displays of model performance for EER on the validation set of the post-treatment data. (Light Gradient Booster)
+
+(above) EER residuals across the entire time frame with time periods separated by color (Y-axis limited).
+
+(above) Quantile plot of EER residuals.
+
+(above) Feature importances across the different models. (Light Gradient Booster)
+
+(below) This figure shows the residuals (gold) for COP, the zero line (blue), the width from the 95th quantile to the 5th quantile of COP centered around zero (green), the recorded values of KW/TON (red), and the scaled inverse of COP predictions in an attempt to obtain KW/TON (cyan). Sundays are the highlighted block(s). This is the pre-treatment time.
+
+(below) This shows the residuals (gold) for COP, the zero line (blue), the width from the 95th quantile to the 5th quantile of COP centered around zero (green), the recorded values of KW/TON (red), and the scaled inverse of COP predictions in an attempt to obtain KW/TON (cyan). Sundays are the highlighted block(s). This is the mid-treatment time, the 500 hour window.
+
+The figure separates data points into two groups, within (green) and outside (purple) three standard deviations from the median for the three Retail Chain A variables (KW/TON, COP, EER) across the various feature distributions.

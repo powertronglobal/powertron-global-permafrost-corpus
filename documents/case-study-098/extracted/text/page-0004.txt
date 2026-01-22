@@ -1,0 +1,22 @@
+Energy Science Division
+Measurement and Veriﬁcation Protocol
+The International Performance Measurement and Verification Protocols (IPMVP) are used to develop this 
+report. The Association of Energy Engineers (AEE), American Society of Heating, Refrigeration and 
+Air-Conditioning Engineers (ASHRAE), and The Efficiency Valuation Organization (EVO) accept the 
+IPMVP as a global methodology for determining the effectiveness of energy conservation methods and 
+products.
+There are four distinct options in the IPMVP protocol for energy conservation professionals to utilize.  They 
+are options A, B, C and D.  Retrofit Isolation (Option B) was the option used for this report.  Option B is 
+defined as: All parameter measurements with the boundary of the ECM (Permafrost NMR®) as the single 
+source of measurement.  Savings are determined by field measurement of the energy use of the ECM 
+affected equipment or system and any performance enhancements versus the baseline data.
+Measurement frequency ranges from short term to continuous, depending on the expected variations in the 
+savings and the length of the reporting period.  For the boundary utilized for Option B short-term 
+measurements are very useful as data when the variables are contained. The savings are calculated by 
+short-term measurements of baseline and reporting period energy, and /or engineering computations using 
+measurements of proxies of energy use. 
+The final computation follows the formula:
+Option B savings = Baseline Energy – Reporting Period Energy
++ - Routine adjustments + - Non-Routine Adjustments
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

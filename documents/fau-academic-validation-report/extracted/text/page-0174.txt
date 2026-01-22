@@ -1,0 +1,49 @@
+74        Appendix A Examples 
+ 
+standard deviation was 24 (cv = 0.20). This was deemed an adequate measurement of 
+operating hours in the baseline period, with no occupancy sensors. 
+The occupancy sensor controls were installed after the above baseline test. Operating hours 
+were again logged in the same locations for a month. The mean was found to be 82 hours per 
+week, and the standard deviation was 3 hours. In this situation the cv is 0.04 and well within the 
+required 0.2, so the one-month readings were accepted. No changes had happened to the way 
+the plant was used or occupied, so there is no need to make any non-routine adjustment to the 
+baseline data. 
+The reduction in operating hours was 118 – 82 = 36 hours per week.  Savings were computed 
+using Equation 1d) as: 
+ 
+223 kW x 36 hours/week = 8,000 or 8.0 × 103 kWh/week 
+With 48 weeks of operation every year, the annual value of the consumption savings is:   
+ 
+= (8.0 × 103) x 48 x 450 / 100 = Rs 1.7 million 
+There are no demand savings since the retrofits only affect off peak power use. 
+Therefore, following IPMVP Option A, it can be stated with 90% confidence that the savings, in 
+the month after occupancy sensor installation, were Rs17 lakh ±10%, given the estimate of 
+installed lighting load. 
+A-3-2  Street Light Efficiency and Dimming – Option B 
+Situation  A Croatian city’s public lighting system was in need of substantial repair and 
+updating. A new lighting system was installed on the same wiring, including high-efficiency 
+fixtures and a dimming system which curtails lighting power by up to 50% in the quietest hours. 
+The lighting is distributed across the city, with 23 metering points. The retrofit included the 
+addition of centralized dimming control. The city retained the current lighting-maintenance 
+contractor to design, install and maintain the system. The city obtained a savings performance 
+guarantee from the contractor. The city required the contractor to continuously demonstrate 
+achievement of the guaranteed savings. 
+Factors Affecting The M&V Design  The baseline light levels were inconsistent because 20% 
+of the fixtures were burned out. The city wished to maintain a more uniform light level. Therefore 
+it upgraded its public lighting maintenance contract to specify that burnouts be no more than 
+3.0% at any time.  
+Since dimming is critical to the savings, continuous recording of energy use is required. The 23 
+utility meters measure energy use continually. However these meters cannot provide the rapid 
+operational feedback necessary to avoid significant energy wastage if a dimmer fails or is 
+accidentally changed. Consequently an energy recording capability was added to the central 
+dimming control system, to remotely record energy use in the city’s central control station. 
+Beyond simple energy reporting, the system compares actual hourly energy use on each circuit 
+to an expected hourly profile. Variances from this Retail Chain A are used to spot burnouts and failures 
+of the dimming system. 
+M&V Plan  Baseline electricity on all 23 utility meters for the past year totaled 1,753,000 kWh, 
+from utility bills. The number and location of all fixtures in the baseline period was recorded as 
+part of the M&V Plan, along with the operating setpoints of the lighting control system. 
+Annual energy, recorded on the bills for same accounts will be totaled for determining savings 
+using IPMVP Volume I, EVO 10000 – 1:2012, Option B, Equation 1c). The only adjustments that 
+will be made to baseline or reporting period energy use will be for additions or deletions to the 
+system and for burnouts found to be more than 3% at any time.   

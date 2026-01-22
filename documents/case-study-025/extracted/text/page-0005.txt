@@ -1,0 +1,55 @@
+4
+798
+1,173
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• Chillers should be operating @ 1,173 tons of cooling capactity
+• Chillers were operating @ 798 tons of cooling capacity prior to
+   installing ECM
+• Chillers had 375 tons of restored cooling capacity after ECM
+   equating to 47% increase
+• Chillers should be operating @ 7.72 or higher
+• Chillers were operating @ 4.75 COP prior to the ECM
+• The average COP of the chillers have increased by 62.5%
+   following the ECM
+4.75
+Baseline COP
+COP
+798
+tons Baseline
+CAPACITY
+Baseline
+COP
+Post ECM
+COP
+4.75
+7.72
+7.72
+Post ECM COP
+1,173
+Post ECM
+62.5%
+Improvement
+in COP
+375
+tons of
+Restored
+ Capacity
+TONNAGE
+Coeﬃcient of Performance (COP)
+Summary of HVAC/R Eﬃciency Study Results 
+Chiller Eﬃciency with PermaFrost NMR® ECM
+Major Global Bank has the problem of thermal degradation in its Chiller systems. The lower operating tonnage and COP 
+ratings measured on site are in line with the ASHRAE loss of performance and cost to operate numbers. The 
+degraded equipment performance is costing Major Global Bank Properties significant money and wasting energy. The treated 
+chillers were using significantly more energy to operate than when they were new. 
+The performance summary includes the measured efficiency and tonnage of the chillers in the baseline and 
+post testing periods demonstrating the impact of thermal degradation. 
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 375 operating tons and an average 
+improvement of 62.5% in Coefficient of Performance (COP), significantly reducing the cost to operate the 
+chiller throughout the year.
+This report is provided to Major Global Bank. It is confidential and proprietary of Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. The terms of use are 
+available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

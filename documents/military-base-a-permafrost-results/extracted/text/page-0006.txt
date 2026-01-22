@@ -1,0 +1,59 @@
+5
+     Weather
+November
+HDD
+CDD
+Total
+543
+0
+543
+Difference in Post
+30.8% less HDD
+376
+0
+376
+2008
+2009
+December
+HDD
+CDD
+Total
+759
+0
+759
+Difference in Post
+10% more HDD
+835
+0
+835
+January
+HDD
+CDD
+Total
+1028
+0
+1028
+Difference in Post
+11.1% less HDD
+914
+0
+914
+2009
+2010
+2008
+2009
+2009
+2010
+February
+HDD
+CDD
+Total
+698
+0
+698
+Difference in Post
+22.8% more HDD
+857
+0
+857
+PermaFrost® Results

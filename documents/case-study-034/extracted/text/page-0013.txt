@@ -1,0 +1,58 @@
+12
+System Description
+The Rack-A refrigeration system is depicted below. Four compressors support the low temperature evaporator 
+freezers while the other four compressors support the medium temperature coolers in the store. The Copeland 
+compressors are all original 11 year old units while the four Bitzer compressors have all been installed within 
+the last 3 years.
+ 
+Given that Rack-A supports varying types and sizes of evaporators, it runs 8,760 hours at varying capacities.   
+CLEARWATER Major US Warehouse Retailer REFRIGERATION PLANT LAYOUT
+ECONOMIZER
+LIQUID
+RECEIVER
+SUCTION
+RECEIVER
+AIR COOLED
+CONDENSER
+P=AI4
+T=T4
+P=AI1
+T=T3
+P=AI3
+T=T2
+Low Temp
+Suction Header
+Copeland Low Temp
+Med Temp
+Suction Header
+Common Discharge
+Header
+P=AI2
+T=T1
+T=T5
+T=T6
+1
+Copeland Med Temp
+Bitzer Low Temp
+Bitzer Med Temp
+2
+3
+4
+5
+6
+7
+8
+Power Connections
+1S1 & 1S2 CT1 = Comp 1-4
+4S1 & 4S2 CT2 = Comp 5-8
+Compressor Model Numbers
+1:  3DA3A075L-TFD-423
+2:  4B3139PH-2NU
+3:  4B3139ph-2NL
+4:  4DH3-250L-TSK-423
+5:  4B2707PL-2NU
+6:  4DT3F76KE-TSK-800
+7:  4B2707PL-2NU
+8:  3DB3A075L-TFD-423
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

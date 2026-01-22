@@ -1,0 +1,22 @@
+ 
+ 
+Page 9 of 38 
+ 
+ 
+Scatter plots and a dendrogram for the Macy’s data are included in the following results section.  
+ 
+Results, Conclusions, and Possible Uses 
+ 
+To begin, the team used the Euclidean distance and created a distance matrix between all 
+points within the normalized data set. When calculated a 38 x 38 distance matrix was produced 
+showing the distances between all 38 days assessed. A portion of this matrix can be seen in 
+Figure 14. 
+ 
+Figure 14 - Department Store A Oct 2019/May 2020 Dissimilarity Matrix 
+ 
+ 
+From the matrix, the dendrogram is then produced, starting by grouping the closest two days, then 
+adding the 3rd closest and so on until the iterative process has analyzed and assigned a cluster to 
+each day. Figure 15 shows the dendrogram produced by the algorithm package when the October 
+2019/May 2020 dataset is inputted. 
+ 

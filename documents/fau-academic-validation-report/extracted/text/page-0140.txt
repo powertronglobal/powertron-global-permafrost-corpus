@@ -1,0 +1,35 @@
+40        Adherence with IPMVP 
+ 
+CHAPTER 7   ADHERENCE WITH IPMVP  
+IPMVP is a framework of definitions and methods for properly assessing savings in energy or 
+water use or demand. The IPMVP guides users in developing M&V Plans for specific projects. 
+IPMVP is written to allow maximum flexibility in creating M&V Plans, while adhering to the 
+principles of accuracy, completeness, conservativeness, consistency, relevance and 
+transparency (Chapter 3).  
+Users claiming adherence with IPMVP must: 
+1. Identify the person responsible for approving the site-specific M&V Plan, and for making 
+sure that the M&V Plan is followed for the duration of the reporting period.  
+2. Develop a complete M&V Plan which: 
+ 
+clearly states the date of publication or the version number of the IPMVP edition and 
+Volume being followed, 
+ 
+uses terminology consistent with the definitions in the version of IPMVP cited,  
+ 
+includes all information mentioned in the M&V Plan chapter (Chapter 5 of the present 
+edition),  
+ 
+is approved by all parties interested in adherence with IPMVP, and 
+ 
+is consistent with the Principles of M&V shown in Chapter 3. 
+ 
+3.   Follow the approved IPMVP adherent M&V Plan. 
+4.   Prepare M&V reports containing the information mentioned in the M&V Reporting chapter 
+(Chapter 6). 
+Users wishing to specify the use of IPMVP in an energy performance contract or emission trade 
+may use phrases such as, “The determination of actual energy and monetary savings will follow 
+current best practice, as defined in IPMVP Volume I, EVO 10000 -1:2012.”  
+Specification may go further to include “The M&V Plan shall adhere to IPMVP Volume I, EVO 
+10000 - 1:2012 and be approved by……” and may also, if known at the time of contract 
+approval, add, “following IPMVP Option ….” 
+ 

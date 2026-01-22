@@ -1,0 +1,15 @@
+source_file,period,rows,Avg_kWh_mean,Avg_kWh_median,StdDev_kWh_mean,StdDev_kWh_median,Meter 1 kWh_mean,Meter 1 kWh_median,Outdoor Air Temperature (F)_mean,Outdoor Air Temperature (F)_median,Avg_kWh_Baseline_mean,Avg_kWh_Baseline_median,Avg_kWh_Post_mean,Avg_kWh_Post_median,kWh_Savings_mean,kWh_Savings_median,kWh_consumption_mean,kWh_consumption_median,cop_mean,cop_median,eer_mean,eer_median,kwton_mean,kwton_median,kw_mean,kw_median,kweperkwr_mean,kweperkwr_median,kwr_mean,kwr_median
+meter_502_analysis_configuration.csv,unknown,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+meter_502_baseline_bins.csv,baseline,13,1.4861538461538462,1.61,0.21846153846153846,0.27,,,,,,,,,,,,,,,,,,,,,,,,
+meter_502_combined_raw_data.csv,unknown,40248,,,,,2610.268239323429,2636.5742855,69.08180017717179,67.258987855,,,,,,,,,,,,,,,,,,,,
+meter_502_comparison.csv,unknown,12,,,,,,,,,1.5433333333333332,1.65,1.2708333333333333,1.165,0.27249999999999996,0.29500000000000004,,,,,,,,,,,,,,
+meter_502_file_inventory.csv,unknown,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+meter_502_hourly_baseline.csv,baseline,336,,,,,,,70.7439604216369,68.372147775,,,,,,,1.3410714285684524,1.214871795,,,,,,,,,,,,
+meter_502_hourly_combined.csv,unknown,672,,,,,,,69.07268938558036,67.3355415,,,,,,,1.2012670068005953,1.0,,,,,,,,,,,,
+meter_502_hourly_post.csv,post,336,,,,,,,67.40141834944777,65.80756506896316,,,,,,,1.0614625850465862,0.9000000000114596,,,,,,,,,,,,
+meter_502_post_bins.csv,post,19,1.1726315789473685,1.03,0.2627777777777778,0.195,,,,,,,,,,,,,,,,,,,,,,,,
+meter_502_raw_baseline_data.csv,baseline,20124,,,,,233.27789464024846,242.2,70.75437952543083,68.42,,,,,,,,,,,,,,,,,,,,
+meter_502_raw_post_data.csv,post,20124,,,,,4987.258584006609,4996.3,67.40922082891274,65.53538462,,,,,,,,,,,,,,,,,,,,
+meter_502_statistical_summary.csv,unknown,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+502 Baseline_6ad98dc0-a6e0-4975-ba14-8affc3c85599_9581568.csv,baseline,44920,,,,,,,,,,,,,,,,,1.8342311030526743,1.85105201456161,5.981685567662287,6.04953337503996,1.9865026714158502,1.9,5.5061529385574355,5.54,1.9865026714158502,1.9,0.0,0.0
+502 Post_6ad98dc0-a6e0-4975-ba14-8affc3c85599_1569118.csv,post,7723,,,,,,,,,,,,,,,,,1.5807328758254564,2.0,6.640921304612735,6.659996538244437,1.743111485174155,1.71,5.632997539816134,5.65,1.743111485174155,1.71,0.0,0.0

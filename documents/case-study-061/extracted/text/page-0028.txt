@@ -1,0 +1,119 @@
+Results
+Energy Science Division
+Eﬃciency Improvements
+Total Watts
+Watts per Ton
+Btuh Capacity
+System Eﬃciency %
+Enthalpy Delta
+COP
+- 26.8%
+- 26.8%
++ 33.5%
++33.5%
++33.5%
++36.6%
+Energy Reporting Period
+24,597.2
+585
+504,371
+132.7%
+9.41
+6.01
+Baseline
+33,582
+799
+377,876
+99.4%
+7.05
+4.40
+CAT - CENTRO ADMINISTRATIVO TATUAPÉ
+UNIDADE 32 
+33,582.00 
+ 
+ 
+24,597.00 
+31.49  
+ 
+ 
+42.03
+ 
+ 
+33% 
+799 
+ 
+ 
+ 
+585
+ 
+ 
+-26.8% 
+74 
+ 
+ 
+ 
+74.3
+56.8 
+ 
+ 
+ 
+50.8
+ 
+ 
+27% 
+11,911.00 
+ 
+ 
+11,911.00 
+85.6 
+ 
+ 
+ 
+81.2
+ 
+      Unreportable
+ 
+ 
+30 
+ 
+ 
+6,174.00 
+ 
+ 
+0.2098 
+24 X 7 X 60%  
+ 
+5,256.00 
+37,031.17 
+ 
+ 
+27,123.33 
+ 
+ 
+9,907.84 
+ 
+ 
+-26.8% 
+MEASUREMENT
+Energy Reporting Period
+Baseline
+Total Watts/h
+Capacity (TR)
+Performance Improvement of Equipment (%)
+Watts / TR
+Energy Eﬃciency Watts per TR
+Return Air Temperature
+Supply Air Temperature
+Delta T Improvements (%)
+CFM
+Water Temperature from Tower
+Outside Ambient Temperature
+Design Tonnage (TR)
+PermaFrost NMR® Cost
+Cost per kW w/ tax
+Equipment Runtime
+Cost of Total Energy
+Electricity Bill Savings Annually (USD)
+Electricity Bill Savings Annually (HVAC %)
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

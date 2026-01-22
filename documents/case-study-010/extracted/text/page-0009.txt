@@ -1,0 +1,151 @@
+®
+This is a report provided to Beverage Company B Factory and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2014 Powertron Global LLC.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement.
+This document is not to be distributed to any third party and is not to be in the pubic domain without our written approval.
+0.64
+POST
+BASELINE
+0.51
+TECO
+LP20m3MAR
+MZZ0712046
+R22
+70.34
+4,080
+2007
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in kWR  
+Average Annual
+Runtime Hours
+Age
+kWE/kWR
+REDUCTION
+20.3%  
+REDUCTION
+IMPROVEMENT
+POST
+BASELINE
+Calculated Annual kWh
+19.5%
+8.8%
+POST
+BASELINE
+Refrigerant Approach
+REDUCTION
+POST
+BASELINE
+7.43
+Enthalpy Delta
+27.9%
+17.06
+99,152
+79,837
+9.5
+15.56
+Key Results for PU Unit with PermaFrost NMR® ECM
+System Description
+398.3
+33.37
+32.44
+-2.22
+65.67
+361.97
+1749.2
+27.83
+13.33
+18.06
+9.89
+29.69
+20.19
+9.5
+15.55
+19.57
+0.51
+38.09
+5,168
+79,837
+100
+26.22
+0.040
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Adj Amps for Warmer Post OAT 
+ 
+Suction Temperature  
+Discharge Temperature 
+ 
+Suction Pressure 
+ 
+Discharge Pressure 
+ 
+Entering Air DB 
+ 
+Leaving Air DB 
+ 
+Entering Air WB 
+ 
+Leaving Air WB 
+ 
+Enthalpy of Entering WB 
+ 
+Enthalpy of Leaving WB 
+ 
+Delta-T of Enthalpy 
+ 
+Evaporator Approach  
+kW (V x A x 1.47) 
+ 
+kWE / kWR 
+ 
+Actual Measured Operating kWR 
+ 
+Unit M3/H 
+ 
+Adjusted Annual kWh  
+ 
+Unit % Load During Testing  
+Entering CDW Temp  
+Adj for Warmer Post Entering CDW  
+ 
+ 
+411.6
+31.26
+-
+-2.5
+66
+357.84
+1760.92
+25.06
+14.56
+18.06
+11.89
+29.69
+22.26
+7.43
+17.06
+18.94
+0.64
+29.69
+5,151
+99,152
+100
+25.22
+-
+8
+Notes
+This pilot PU provides cooling to the 1st floor 
+packaging floor of the Tea Factory.  It is estimated the 
+PU runs approximately 4,080 hours annually prior to 
+the ECM being implemented. 
+Incoming CDW in the Post was 1 degrees C warmer equating to 2.6%. This requires 
+the Post amps to be reduced by this same 2.6% * 70%. The 70% accounts for the 
+removal of fans running to which the ECM does not directly effect.   

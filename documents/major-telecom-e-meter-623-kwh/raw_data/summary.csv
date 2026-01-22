@@ -1,0 +1,7 @@
+source_file,period,rows,mean_kWh_mean,mean_kWh_median,std_kWh_mean,std_kWh_median,min_kWh_mean,min_kWh_median,max_kWh_mean,max_kWh_median
+Meter_623_Baseline_Temperature_Bins.csv,baseline,20,1.1245,1.1099999999999999,0.2015,0.20500000000000002,0.631,0.63,1.779,1.775
+Meter_623_Post_Temperature_Bins.csv,post,16,1.005625,0.985,0.15125000000000002,0.15,0.61,0.61,1.544375,1.525
+Meter_623_Temperature_Comparison.csv,unknown,16,,,,,,,,
+Meter_623_Weighted_Analysis_Results.csv,unknown,10,,,,,,,,
+623 MATCHING Baseline 9_16-10_10_24 extended.xlsx,baseline,34387,,,,,,,,
+623 MATCHING Post 9_16_10_10_25 extended.xlsx,post,34524,,,,,,,,

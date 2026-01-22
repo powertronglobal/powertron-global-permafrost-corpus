@@ -1,0 +1,25 @@
+Report Parameters
+Baseline
+Outside Air Range
+Return Air Filter
+Power Factor Filter
+CFM Filter
+Samples
+70 - 95
+70 - 80
+0 - 1
+3600 - 4100
+162159
+Post
+Outside Air Range
+Return Air Filter
+Power Factor Filter
+CFM Filter
+Samples
+70 - 95
+70 - 80
+0 - 1
+3600 - 4100
+20885
+ 
+Copyright © 2016 - 2024 Powertron Global, LLC.

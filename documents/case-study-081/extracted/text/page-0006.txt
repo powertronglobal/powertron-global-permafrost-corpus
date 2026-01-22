@@ -1,0 +1,54 @@
+®
+This is a report provided to Major South African Bank Headquarters and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2016 Powertron Global LLC.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement.
+This document is not to be distributed to any third party and is not to be in the pubic domain without our written approval.
+5
+Major South African Bank Chiller Eﬃciency with PermaFrost NMR® ECM
+518.24 kWR
+704.28 kWR
+Baseline
+kWR
+Post ECM
+kWR
+• The Chiller should be operating @ 721 kWR of cooling capacity
+• The Chiller was operating @ 518.24 kWR of cooling capacity prior
+  to installing ECM
+• The Chiller now has 186.04 kWR of restored cooling capacity after
+  ECM equating to a reduction of 35.9%
+• The Chiller should be operating @ 5.9 or higher at 50% load
+• The Chiller was operating @ 4.24 COP prior to the ECM
+   and 5.82 following the ECM
+• The COP of the Chiller was increased by 37.3% following
+   the ECM
+4.24
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+518.24
+Baseline
+TOTAL
+CAPACITY AT
+50%
+MOTOR
+LIMIT
+Baseline
+COP
+Post ECM
+COP
+4.24
+5.82
+5.82
+Post ECM COP
+704.28
+kWR Post ECM
+37.3%
+Improvement
+in COP
+186.04
+kWR of
+Recovered
+ Capacity
+kWR
+COP

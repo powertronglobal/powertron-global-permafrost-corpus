@@ -1,0 +1,50 @@
+Total AFTER Weather adjustment
+3
+     kWh Used - Results
+Total reduction in kWh
+-8.5% with Bldg 3765 
+ 
+ 
+-11.1% with out Bldg 3765 
+-9.1% with Bldg 3765 
+ 
+ 
+ 
+ 
+-12.5% with out Bldg 3765 
+Abnormal Usage not related to PermaFrost® 
+ 
+ 
+Previously calculated by [Energy Manager] CEM   
+ 
+Eliminated by CEM for erratic meter patterns  
+ 
+PermaFrost® Results
+Bldg 1778
+November 
+December 
+January
+March
+April 
+May
+7182
+7443
+9295
+7736
+6231
+5551
+5597
+7852
+7208
+6111
+4880
+3983
+Before
+After
+Average
+kWh reduction
+Adjusted
+for weather
+-18.3%
+-22.5%
+     kWh Used

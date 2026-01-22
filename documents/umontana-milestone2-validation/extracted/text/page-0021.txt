@@ -1,0 +1,50 @@
+ 
+ 
+Page 13 of 38 
+ 
+uses for this method in other scenarios. For instance, this method could be used to examine source 
+measurements (e.g. the wet bulb measurement and temp 1 & 2) and then compare the resulting 
+cluster to the expectations set in the laws of physics and defined by the psychrometric chart. Given 
+the nature of physical phenomenon, one would expect the relationships between certain source 
+readings to fall within a particular cluster. If, when actively feeding the algorithm data day to day, the 
+data begins to shift enough that it eventually triggers the creation of a new cluster by the algorithm, it 
+could possibly point to a future mechanical failure or problem. 
+ 
+With limited success comes the need for further exploration of the algorithm’s performance on 
+different data sets and modified algorithm settings to shift the model and develop a deeper 
+understanding. This initial examination deemed the algorithm to be successful enough that teams 
+could explore the possibilities more thoroughly in the future. 
+ 
+Archetypal Analysis 
+ 
+Archetype Background 
+ 
+Archetypal Analysis (AA) is a tool for the study of large data sets, used in both data compression, 
+and the analysis of spatio-temporal patterns in data (Cutler and Stone, 1997; Stone and Cutler, 
+1996; Bauckhage, 2014; Vinue et al., 2015). Recently, with the advent of greater computational 
+power, it has been used in a variety of applications in the analysis of “Big Data". For instance, it has 
+been used to analyze weather, climate and precipitation patterns (Hannachi and Trendafilov, 2017; 
+Steinschneider and Lall, 2015; Su et al., 2017). A probabilistic framework for archetypes is 
+developed in (Seth and Eugster, 2016). Its application to machine learning appears in Mørup and 
+Hansen (2012). It is also used in biomedical and industrial engineering (Epifanio et al., 2013; 
+Thøgersen et al., 2013), and in the analysis of terrorist events (Lundberg, 2019).  
+ 
+Archetypal Analysis was introduced by Cutler and Breiman in 1994 as variant of principal component 
+analysis (PCA) that could capture ’archetypal patterns’ in the data (Cutler and Breiman, 1994). 
+Through AA, each time-based observation is represented as a convex combination of a limited 
+number of points, called ’archetypes’ or ’pure types’, which may or may not be observed. These 
+influential data points best describe the exterior surface of the original data set, and as convex 
+combinations of the data points themselves, resemble the observations. 
+ 
+AA provides a number of advantages over commonly used techniques for data compression and 
+clustering, such as Principal Component Analysis, or PCA (Pearson, 1901; Abdi and Williams, 2010) 
+or k-mean clustering (MacQueen, 1967). PCA can lead to a complex representation of the data and 
+is restricted by orthogonality, so meaningful features may not be discovered. Clustering approaches 
+provide easy interpretation, but tend to lack modeling flexibility, with each observation grouped in 
+only one cluster, no in between or intermediate groupings are allowed. In contrast, with AA, each 
+observed data point is either classified to its closest archetype (single), or it is associated with two or 
+more archetypes (mixed). Therefore, AA combines the virtue of both methods; it is easy to interpret 
+and by allowing intermediates, provides more flexibility than clustering. 
+ 
+Mathematical Formulation 
+ 

@@ -1,0 +1,42 @@
+THE TOXICOLOGY GROUP, LLC
+A Wholly Owned Company of NSF International
+
+5.0 Results
+
+Test details - An ice cuber model Manitowoc GROISOA was tested before and after the
+introduction of 1 oz of PermaFrost. This machine continuously circulates water over a cooled ice
+trough. When the ice reaches a certain adjustable point it completes a circuit that triggers the
+reverse hot cycle that heats the ice trough. The ice slides off the trough and into the bin. By doing
+so the ice actuates a baffle connected to a switch that signals the compressor to resume the
+cooling cycle. For this test the ice production time was measured and it was triggered off this
+switch. The energy consumption was monitored on the incoming power supply to the entire unit.
+Both prior to and after the introduction of PermaFrost the ice bin was completely empty so that
+
+the cycle times were run under the same conditions.
+
+The ice cycle time decreased from 20 minutes to 13 minutes, with a portion (approximately 2
+minutes) of this being attributed to a cooler bin due to ice presence. A 25% reduction in ice
+production time was attributed directly to the additive itself. The energy consumption decreased
+
+by approximately 6% after the addition of Permafrost.
+
+Table 2- Manitowoc GRO150A
+
+PermaFrost
+
+PermaFrrost
+
+Average Interval
+between Ice cycles
+uintes}
+
+Rate of Energy
+Consumption (Watts)
+
+6.0 Conclusion/Summary
+Over the 24-hour testing period the results indicated a decrease in ice production cycle time with
+a corresponding decrease in energy consumption when PermaFrost was added to the Manitowoc
+
+GRO150A (cuber type ice machine).
+
+CAITIINATIAYTIAT REPORT PAGE 3 OF 3

@@ -1,0 +1,37 @@
+Recovered Wasted Energy with PermaFrost NMR (CRAC#1 & #2)
+The “Unit Cost” in the HVAC industry is the kW/ton ratio. KW/ton is commonly used for larger commercial 
+and industrial air conditioning, heat pump and refrigeration systems. It is the HVAC industry’s standard of 
+determining how much energy is required to create a single ton of cooling (i.e., conditioned air). When you
+reduce the unit cost of cooling you are saving energy regardless of how much overall cooling is required.
+The chart to the right illustrates the average performance restoration the ECM created in the treated systems. 
+The average cost to operate these CRAC systems before it was treated with PermaFrost NMR® as calculated in 
+kW/ton was 1.19.
+The specific cost to operate after the systems were 
+treated with PermaFrost NMR® as calculated in 
+kW/ton is currently .97.
+The higher baseline kW/ton rating measured in-situ 
+was expected when compared to the ASHRAE loss 
+of performance efficiency for similar age and type 
+cooling systems.
+kW/ton
+.22 kW/ton
+Recovered
+Energy
+Equating to a
+18.5% Reduction
+Cost Per Cooling Unit to Operate
+Baseline
+Post ECM
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.19
+.97
+6
+This report is provided to Caribbean Telecom Group. It is confidential and proprietary to Powertron Global®, LLC.
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

@@ -1,0 +1,139 @@
+{
+  "doc_id": "major-telecom-e-meter-597-lift",
+  "slug": "major-telecom-e-meter-597-lift",
+  "source_type": "tabular",
+  "extracted_at": "2026-01-05T21:27:45.866768",
+  "summary": {
+    "total_files": 2,
+    "baseline_files": 1,
+    "post_files": 1,
+    "total_rows": 5614,
+    "baseline_rows": 2854,
+    "post_rows": 2760
+  },
+  "file_statistics": [
+    {
+      "period": "baseline",
+      "rows": 2854,
+      "columns": 17,
+      "column_names": [
+        "DateTime",
+        "Chilled Water Flow Rate (GPM)",
+        "Chilled Water Inlet Temperature (F)",
+        "Chilled Water Outlet Temperature (F)",
+        "Circuit 1 Compressor 1",
+        "Circuit 2 Compressor 1",
+        "Condensed Refrigerant Temperature C1 (F)",
+        "Condensed Refrigerant Temperature C2 (F)",
+        "Discharge Refrigerant Pressure C1 (PSI)",
+        "Discharge Refrigerant Pressure C2 (PSI)",
+        "kW",
+        "Meter 1 kWh",
+        "Outdoor Air Temperature Entering Condenser (F)",
+        "Suction Refrigerant Pressure C1 (PSI)",
+        "Suction Refrigerant Pressure C2 (PSI)",
+        "Suction Refrigerant Temperature C2 (F)",
+        "Superheated Suction Refrigerant Temperature F"
+      ],
+      "metrics": {
+        "kW": {
+          "mean": 52.590337118791176,
+          "std": 10.72248799379893,
+          "min": 35.87308248,
+          "max": 82.64695756,
+          "median": 49.728064435
+        },
+        "Meter 1 kWh": {
+          "mean": 42375.13625621233,
+          "std": 871.2515846035254,
+          "min": 40955.53125,
+          "max": 43978.78571,
+          "median": 42383.795635
+        },
+        "Outdoor Air Temperature Entering Condenser (F)": {
+          "mean": 81.20600860733006,
+          "std": 7.587663127167159,
+          "min": 69.62,
+          "max": 96.20342857,
+          "median": 80.465642855
+        },
+        "Chilled Water Flow Rate (GPM)": {
+          "mean": 273.7755657470918,
+          "std": 4.714720602228349,
+          "min": 260.1783319,
+          "max": 413.9817368,
+          "median": 274.4092732
+        }
+      },
+      "time_range": {
+        "column": "DateTime",
+        "start": "2024-10-02 05:01:00",
+        "end": "2024-10-04 04:58:00",
+        "duration_hours": 47.95
+      },
+      "source_file": "597 lift baseline.csv"
+    },
+    {
+      "period": "post",
+      "rows": 2760,
+      "columns": 18,
+      "column_names": [
+        "DateTime",
+        "Chilled Water Flow Rate (GPM)",
+        "Chilled Water Inlet Temperature (F)",
+        "Chilled Water Outlet Temperature (F)",
+        "Circuit 1 Compressor 1",
+        "Circuit 2 Compressor 1",
+        "Condensed Refrigerant Temperature C1 (F)",
+        "Condensed Refrigerant Temperature C2 (F)",
+        "Discharge Refrigerant Pressure C1 (PSI)",
+        "Discharge Refrigerant Pressure C2 (PSI)",
+        "Discharge Refrigerant Pressure C3 (PSI)",
+        "kW",
+        "Meter 1 kWh",
+        "Outdoor Air Temperature Entering Condenser (F)",
+        "Suction Refrigerant Pressure C1 (PSI)",
+        "Suction Refrigerant Pressure C2 (PSI)",
+        "Suction Refrigerant Temperature C2 (F)",
+        "Superheated Suction Refrigerant Temperature F"
+      ],
+      "metrics": {
+        "kW": {
+          "mean": 41.12254191213043,
+          "std": 29.501055335317027,
+          "min": -13.23642042,
+          "max": 166.4235127,
+          "median": 32.395961295
+        },
+        "Meter 1 kWh": {
+          "mean": 278522.6397201812,
+          "std": 642.4222247454957,
+          "min": 277404.5,
+          "max": 279848.9231,
+          "median": 278485.20715000003
+        },
+        "Outdoor Air Temperature Entering Condenser (F)": {
+          "mean": 86.5454171976884,
+          "std": 5.136313897157294,
+          "min": 77.52457143,
+          "max": 94.76,
+          "median": 86.40885714000001
+        },
+        "Chilled Water Flow Rate (GPM)": {
+          "mean": 226.9540874644529,
+          "std": 61.83140095752494,
+          "min": 0.0,
+          "max": 378.3495623,
+          "median": 243.74846925
+        }
+      },
+      "time_range": {
+        "column": "DateTime",
+        "start": "2025-06-17 05:01:00",
+        "end": "2025-06-19 04:59:00",
+        "duration_hours": 47.96666666666667
+      },
+      "source_file": "597 lift post.csv"
+    }
+  ]
+}

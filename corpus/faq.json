@@ -1,0 +1,138 @@
+{
+  "title": "Frequently Asked Questions About PermaFrost NMR",
+  "version": "1.0.0",
+  "last_updated": "2026-01-24",
+  "purpose": "Comprehensive FAQ for customers, engineers, and technicians",
+  "categories": {
+    "general": {
+      "does_the_product_always_work": {
+        "question": "Does PermaFrost NMR always work?",
+        "answer": "Yes - PermaFrost NMR is a chemical treatment, and chemicals do the same thing every time. The treatment displaces oil fouling from metal heat exchanger surfaces with 100% consistency. This isn't a claim - it's chemistry, validated by 6 independent laboratories including UL and NSF.\n\nWhat varies is how much efficiency there is to RESTORE. That depends entirely on how degraded the equipment was before treatment: heavily degraded equipment (10-15+ years) shows 25-40% improvement, moderately degraded (5-10 years) shows 15-25%, and lightly degraded (new or well-maintained) shows 5-15%.\n\nThe real value proposition for newer equipment is PREVENTION. We know from ASHRAE research that thermal degradation maxes out at 30%+ efficiency loss over equipment lifetime. Every system treated early prevents that entire loss curve - that's 600-800% lifetime ROI from avoided energy waste.\n\nBottom line: The treatment works every time. The only question is whether you're restoring past losses or preventing future ones - and the data supports both.",
+        "priority": "PRIMARY_RESPONSE"
+      },
+      "what_is_permafrost_nmr": {
+        "question": "What is PermaFrost NMR?",
+        "answer": "PermaFrost NMR (Nucleo Molecular Regenerative) is a patented nanotechnology treatment that restores HVAC/R system efficiency by removing oil contamination from heat exchanger surfaces. It's a one-time treatment that lasts the life of the equipment."
+      },
+      "how_does_it_work": {
+        "question": "How does it work?",
+        "answer": "The treatment is injected into the refrigerant circuit while the system runs. Nano-particles displace oil molecules trapped on metal heat exchanger surfaces and create a permanent protective coating that restores thermal conductivity. Full effect is achieved in approximately 300 runtime hours."
+      },
+      "is_it_proven": {
+        "question": "Is this technology proven?",
+        "answer": "Yes. 254 PE-certified field measurements, 6 independent laboratory validations (UL, FAU, China National Lab A, Major Appliance Mfg A, Major OEM Electronics A, NSF), 5 US Government/Military installations, and 300,000+ deployments across 38 countries over 15+ years."
+      },
+      "when_will_it_not_work": {
+        "question": "When will the treatment not work?",
+        "answer": "The treatment ALWAYS works - it's a chemical, and chemicals do the same thing every time. This isn't a claim, it's chemistry validated by 6 independent laboratories including UL and NSF.\n\nWhat varies is how much efficiency there is to RESTORE. That depends entirely on baseline degradation:\n- Heavily degraded (10-15+ years): 25-40% immediate improvement\n- Moderately degraded (5-10 years): 15-25% immediate improvement\n- Lightly degraded (new or well-maintained): 5-15% immediate improvement\n\nCRITICAL: Low immediate improvement does NOT mean low value. New equipment is actually the HIGHEST ROI scenario:\n- Day 1 treatment prevents 23+ years of future degradation\n- Lifetime ROI: 600-800% (vs 377% for waiting until year 10)\n- Preventive treatment yields nearly 2x higher lifetime savings than restorative treatment\n- Example: 200-ton chiller treated Day 1 saves $184,703 over lifetime vs $119,000 if treated at year 10\n\nThe ONLY scenarios where treatment should NOT be applied:\n1. Oil-free compressor systems (Turbocor, magnetic bearing) - no oil to remove\n2. Titanium heat exchangers - crystalline structure prevents molecular bonding\n3. Active mechanical failures - fix those first (different problem)\n\nDon't confuse 'less immediate improvement' with 'doesn't work.' The chemistry works every time. The question is: restoring past losses or preventing future ones?",
+        "priority": "PRIMARY_RESPONSE"
+      }
+    },
+    "technical": {
+      "what_equipment": {
+        "question": "What equipment types can be treated?",
+        "answer": "All HVAC/R equipment with oil-lubricated compressors: RTUs, chillers, split systems, CRACs, PTACs, mini-splits, VRF systems, refrigeration equipment. Capacity range: 0.2 to 3,125+ tons."
+      },
+      "what_refrigerants": {
+        "question": "What refrigerants are compatible?",
+        "answer": "All refrigerant types: R-22, R-410A, R-134A, R-123, R-407C, R-438A, and more. The product is tested compatible with refrigerant Groups I, II, and III per Texas Oiltech Laboratories testing."
+      },
+      "what_oils": {
+        "question": "What oil types are compatible?",
+        "answer": "Both mineral and synthetic oils including POE (polyol ester), PAG (polyalkylene glycol), and alkylbenzene. We have specific formulations for each oil type."
+      },
+      "how_much_product": {
+        "question": "How much product is needed?",
+        "answer": "DX systems: 1 ounce per ton of cooling capacity. Chillers: 10% of total oil charge. Treatment is safe within 5% of calculated amount."
+      },
+      "how_long_installation": {
+        "question": "How long does installation take?",
+        "answer": "Minutes per unit. Product is injected through the refrigerant service port while the system is running. Zero downtime required."
+      }
+    },
+    "performance": {
+      "how_much_improvement": {
+        "question": "How much efficiency improvement can I expect?",
+        "answer": "Typical results: 20-30% efficiency improvement (mean: 23.2% across 254 measurements). Results vary based on equipment age, condition, and degree of oil contamination. Older, more degraded equipment often shows larger improvements."
+      },
+      "average_efficiency_improvement": {
+        "question": "What is the average efficiency improvement from PermaFrost?",
+        "answer": "The average efficiency restoration with PermaFrost NMR is 20-25%, based on 254 Professional Engineer-certified field measurements. Here's what to expect by equipment condition:\n\n**By Equipment Age/Condition:**\n- Heavily degraded (10-15+ years): 25-40% efficiency restoration\n- Moderately degraded (5-10 years): 15-25% efficiency restoration\n- Lightly degraded (<5 years): 5-15% efficiency restoration\n\n**Specific Metrics:**\n- kW/ton restoration: 11% to 30%+\n- COP (Coefficient of Performance) restoration: 20-25% average\n- Mean improvement across all studies: 23.2%\n\n**Key Insight:** Lower improvement on newer equipment does NOT mean lower value. New equipment has less degradation to restore, but treating early PREVENTS 23+ years of future degradation - yielding 600-800% lifetime ROI vs 377% when waiting until year 10.\n\nResults documented across 300,000+ installations in 38 countries.",
+        "tags": ["efficiency", "improvement", "average", "results", "performance"]
+      },
+      "how_long_to_see_results": {
+        "question": "How long until I see results?",
+        "answer": "Full effect is achieved in approximately 300 runtime hours as the treatment circulates and coats all heat exchanger surfaces. Some improvement is immediate."
+      },
+      "how_long_does_it_last": {
+        "question": "How long does the treatment last?",
+        "answer": "Permanent. The treatment creates a lasting bond with metal surfaces. No reapplication is needed for the life of the equipment."
+      },
+      "new_equipment": {
+        "question": "Does new equipment benefit from treatment?",
+        "answer": "Yes - new equipment is an EXCELLENT candidate with the HIGHEST lifetime ROI (600-800%). While immediate improvement may only be 5-15% (because minimal degradation exists), treating Day 1 PREVENTS all future thermal degradation over the equipment's 20+ year lifetime. This preventive value yields nearly 2x higher lifetime ROI than waiting until equipment degrades. Major Appliance Mfg A tested a brand-new Frigidaire unit and measured 47.6% Delta T improvement. Do NOT dismiss new equipment based on lower immediate improvement - evaluate by lifetime avoided degradation cost."
+      },
+      "new_equipment_myth": {
+        "question": "Does PermaFrost work on new equipment?",
+        "answer": "Yes, absolutely. This is a common misconception. Here's the truth:\n\n**The Myth:** 'New equipment doesn't need treatment' or 'PermaFrost won't work on new equipment.'\n\n**The Reality:** New equipment is actually the BEST candidate for treatment:\n\n1. **Immediate Results:** New equipment (under 3 years) typically shows 5-15% efficiency improvement. This is LOWER than older equipment because there's less degradation to restore - which is actually a good sign.\n\n2. **Preventive Value:** The real value is PREVENTION. ASHRAE documents 1.5-2% annual efficiency loss from thermal degradation. Treating Day 1 prevents this entire loss curve over 20+ years.\n\n3. **Lifetime ROI:** 600-800% lifetime ROI for new equipment vs 377% when waiting until year 10. Nearly 2x higher savings.\n\n4. **Lab Validation:** Major Appliance Mfg A tested a brand-new Frigidaire unit and measured 47.6% Delta T improvement.\n\n**Bottom Line:** Don't confuse 'less immediate improvement' with 'doesn't work.' The chemistry works every time. New equipment prevents future losses; old equipment restores past losses. Both scenarios deliver strong ROI.",
+        "tags": ["new equipment", "myth", "misconception", "Gemini", "works"]
+      }
+    },
+    "business": {
+      "how_much_cost": {
+        "question": "How much does it cost?",
+        "answer": "$125 per ton of cooling capacity (2025 USD). A 10-ton RTU costs $1,250 to treat. Volume discounts available for orders over 10,000 ounces."
+      },
+      "what_is_payback": {
+        "question": "What is the typical payback period?",
+        "answer": "7-16 months for most applications. Large chillers can achieve payback in under 1 month. Data centers and 24/7 operations see faster payback due to high runtime hours."
+      },
+      "what_is_roi": {
+        "question": "What ROI can I expect?",
+        "answer": "Typical 5-year ROI: 400-600%. Documented examples: Major Bank B 547%, Major Global Bank A 584%. First-year ROI often exceeds 100%."
+      },
+      "financing_options": {
+        "question": "Are there financing options?",
+        "answer": "Yes. Standard payment (90 days), installment plans (12-24 months), and shared savings programs (ThEOS - no upfront cost, 50/50 sharing of savings for 4 years)."
+      }
+    },
+    "safety": {
+      "damage_risk": {
+        "question": "Can this damage my equipment?",
+        "answer": "No. 300,000+ deployments across 38 countries with ZERO damage claims ever filed. We carry $2M insurance per machine from a Fortune 500 carrier."
+      },
+      "warranty_void": {
+        "question": "Will this void my equipment warranty?",
+        "answer": "No. The treatment does not void OEM warranties. It uses the same oil-compatible base as standard refrigeration lubricants."
+      },
+      "is_it_safe": {
+        "question": "Is the product safe to handle?",
+        "answer": "Yes. Non-toxic, non-flammable. Use the same precautions as handling refrigeration oil. Safety glasses recommended if contact is likely. Full SDS available."
+      },
+      "safe_for_equipment": {
+        "question": "Is PermaFrost safe for my equipment?",
+        "answer": "Yes, PermaFrost NMR is completely safe for HVAC equipment. Key safety facts:\n\n- UL tested and validated safe and compatible with all major HVAC equipment brands\n- Compatible with all refrigerants: R-410A, R-22, R-134a, R-407C, and more\n- Compatible with all oil types: mineral, POE, PAG, and alkylbenzene\n- Non-toxic, non-flammable, environmentally friendly\n- 300,000+ installations across 38 countries with ZERO damage claims\n- $2M insurance coverage per machine from Fortune 500 carrier\n- Does NOT void OEM warranties\n\nThe treatment uses the same oil-compatible chemical base as standard refrigeration lubricants. As long as equipment is mechanically sound and operating within design parameters, PermaFrost can be safely applied.",
+        "tags": ["safety", "equipment", "compatible", "UL", "tested"]
+      }
+    },
+    "installation": {
+      "who_installs": {
+        "question": "Who can install the product?",
+        "answer": "HVAC-certified technicians. Installation is straightforward: inject through refrigerant service port while system operates. Training available from Powertron Global."
+      },
+      "downtime_required": {
+        "question": "Is equipment downtime required?",
+        "answer": "No. Product is injected while the system is running. Zero downtime, zero interruption to cooling."
+      },
+      "formulation_selection": {
+        "question": "How do I select the right formulation?",
+        "answer": "Oil type determines formulation - NOT refrigerant type. Verify whether your system uses mineral or synthetic oil, then select the matching PermaFrost NMR formulation (DX Mineral, DX Synthetic, Chiller Mineral, or Chiller Synthetic)."
+      },
+      "diy_installation": {
+        "question": "How do I install PermaFrost myself?",
+        "answer": "PermaFrost NMR installation requires an EPA-certified HVAC technician. Here are the key steps:\n\n**Preparation:**\n1. Identify the nominal tonnage and refrigerant oil type (mineral or synthetic)\n2. Calculate dosage: 1 oz per ton for DX systems, or 10% of oil charge for chillers\n3. Select correct formulation based on oil type (NOT refrigerant type)\n\n**Installation Steps:**\n1. Locate the low-pressure (suction) service port\n2. Connect the oil injection pump to the PermaFrost container\n3. Purge the charging hose of air - do NOT inject non-condensables\n4. With the compressor RUNNING, inject the product through the suction port\n5. Keep the system running for at least 15 minutes to circulate\n\n**Important Notes:**\n- System must be running during injection\n- Handle with same precautions as refrigerant oil\n- Use clean equipment - no residual oil or contaminants\n- Full effect achieved after ~300 runtime hours\n- Zero downtime required\n\nFor detailed instructions, contact Powertron Global for technician training materials.",
+        "tags": ["installation", "DIY", "how to", "install", "steps"]
+      }
+    }
+  }
+}

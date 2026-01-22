@@ -1,0 +1,47 @@
+Energy Science Division
+Eﬃciency Improvements
+Adjusted Total Watts
+Adjusted Watts per Ton
+Btuh Capacity
+System Eﬃciency %
+Enthalpy Delta
+EER
+6.5%
+6.5%
+7.8 %
+ 7.7%
+7.5 %
+6.9 %
+Energy Reporting Period
+8,924
+969
+110,466
+117.5%
+7.2
+12.4
+Baseline
+9,542
+1,036
+102,510
+109.1%
+6.7
+11.6
+Conclusion
+The IPMVP calculations and results for the referenced American Standard Split HVAC system model # 
+TTA090 Condenser and the TWE090 air handler do not reflect the initial published design performance 
+intent. This is indicative of many systems due to the variables that effect performance in-situ. 
+The ARI Standards for determining the capacity of forced air coils AHRI-410-2001 sets standards for testing 
+that qualify the printed statements of manufacturers. Equipment in-situ rarely matches these standard tests. 
+Therefore although there are capacity levels within this report that do not coincide with published data 
+from the respective manufacturer it is due to the following:
+1. CFM is greater than the design intent.
+2. Entering air for the evaporator coil is cooler than design intent.
+3. Entering air for the condenser coil is cooler than the design intent.
+All of the above in-situ conditions have altered the performance expected baseline and post analysis but 
+since these conditions were repeated during the post analysis or avoided energy cost period the level of 
+uncertainty is acceptable within the confines of the IPMVP.
+The facility at Arcola Park has been used off and on in the last ten years with limited usage hours from area 
+community groups. The park is almost never open before 12:00 PM. This unit is an older machine but do to 
+Results
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

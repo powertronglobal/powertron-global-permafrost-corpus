@@ -1,0 +1,60 @@
+66        References 
+ 
+See also Annex C for specific measuement standards in various regions of the world. 
+ 
+10.3  Calibration References 
+Calibration references in Chapter 10’s list of US publications above include: ASTM (1992), 
+Baker and Hurley (1984), Benedict (1984), Bryant and O'Neal (1992), Cortina (1988), Doebelin 
+(1990), EEI (1981), Haberl et al. (1992), Harding (1982), Huang (1991), Hurley and Schooley 
+(1984), Hurley (1985), Hyland and Hurley (1983), Kulwicki (1991), Leider (1990), Liptak (1995), 
+Miller (1989), Morrissey (1990), Ramboz and McAuliff (1983), Robinson et al. (1992), Ross and 
+White (1990), Sparks (1992), Wiesman (1989), Wise (1976), Wise and Soulen (1986).   
+ 
+10.4  European and International Standards Supporting Energy Efficiency 
+In Buildings 
+Assessment of energy performance of buildings on the basis of measured energy use:  
+ 
+EN15603 
+ 
+EN 15251  
+ 
+CEN CR 1752  
+ 
+ISO/DIS 16814  
+ 
+ISO 7730 
+Definitions and requirements related to energy services: 
+ 
+EN 15900 
+Economic performance: 
+ 
+ISO 15686-5, Part 5  
+ 
+EN 15459 
+Overall building: 
+ 
+PrEN15203 (Assessment of delivered energy used in buildings) 
+ 
+PrEN15603 (Overall energy use primary energy and CO2 emission) 
+ 
+PrEN15232 (Calculation methods for energy efficiency improvements by the application 
+of integrated building automation systems) 
+ 
+EN15316 series (Method for calculation of system energy requirements and system 
+efficiency for heating and domestic hot water) 
+ 
+ISO 13790 (Thermal performance of buildings – calculation of energy use for space 
+heating) 
+Heating and cooling calculation and inspection methods: 
+ 
+EPBD WI 014  
+ 
+EN14335 series  
+ 
+EN14243  
+ 
+ISO 13790  
+ 
+ISO 16814  
+ 
+EN13465  

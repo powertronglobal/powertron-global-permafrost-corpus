@@ -1,0 +1,49 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2024 Powertron Global, LLC. 
+ 
+ 
+ 
+Unit/Node 512 located at CK03 (2704068) has not achieved quite enough 
+gestation time on compressor/circuit 2 at this point however partial results are 
+present. This unit also has airflow issues that were documented earlier last month 
+in November contained within the progress report submitted to the client. Now 
+the unit is not being called upon since early November. It has short cycled (very 
+brief ~1 min cycle times) “on” only a handful of times with the transition into 
+colder temperatures. Warmer temps will be needed for it to finish its gestation.  
+ 
+Unit/Node 514 located at CK04 (2704076), compressor/circuit 2 needs a bit more 
+on gestation time however results are presenting themselves but expect further 
+improvements.  
+ 
+ 
+ 
+ECM Description 
+ 
+When PermaFrost NMR (interior coil surface treatment) is installed into a unit, a 
+thermal molecular transformation develops. This transformation removes the 
+residual insulation effects of the presence of lubricants within the heat exchangers 
+(evaporator / condensers) of vapor compression refrigeration systems.  This 
+enables the evaporator to completely dehumidify the air per the  
+unit’s design specifications.  When more dehumidification is developed, the 
+enthalpy delta performance and thermal capacity increases. 
+ 
+ 
+PermaFrost NMR does not change any unit’s electrical component usage, such as 
+fans and compressors. It simply restores the thermal energy movement between 
+the refrigerant within any system and it ability to absorb heat energy as in the 
+performance of evaporators and condensers. 
+ 
+ 
+Method of Procedure for testing: 
+ 
+The objective of measuring the overall cooling production of HVAC/R systems is 
+realized by measuring the total energy consumed by the specific unit being 
+tested and the total BTUH thermal production of the system then calculating 
+these parameters to obtain current capacity, kW/ton, EER (energy efficient ratio) 
+and COP (coefficient of performance).    
+ 
+For these HVAC/R systems, parameters were measured continuously every 
+second during all hours for a period of fourteen (14) days to develop a scientific 
+baseline.  
+ 

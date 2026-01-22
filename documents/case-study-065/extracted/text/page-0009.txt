@@ -1,0 +1,46 @@
+®
+8
+Recovered Operating Cost
+The kWE/kWR ratings measured in-situ was expected when compared to ASHRAE performance loss and 
+operating cost parameters. 
+Healthcare System ALLER #1
+Healthcare System ALLER #2
+• Chiller Operating cost prior the ECM was 0.3221 kWE/kWR
+• Chiller Operating cost post the ECM was 0.2466 kWE/kWR
+• Chiller Operating decreased by 23.44% ~ this is the critical savings measure!
+• Chiller Operating cost prior the ECM was 0.1750 kWE/kWR
+• Chiller Operating cost post the ECM was 0.1363 kWE/kWR
+• Chiller Operating decreased by 22.11% ~ this is the critical savings measure!
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+0.30
+0.35
+Cost to Operate
+Recovered
+Energy 22.11% 
+0.03 kWE/kWR
+0.00
+0.05
+0.10
+0.15
+0.20
+Baseline
+Post ECM
+kWE/kWR
+0.1750
+0.1363
+Cost to Operate
+Recovered
+Energy 23.44%
+0.07 kWE/kWR
+Baseline
+Post ECM
+kWE/kWR
+0.3221
+0.2466
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

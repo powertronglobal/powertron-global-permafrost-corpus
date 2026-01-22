@@ -1,0 +1,85 @@
+HVAC Performance Comparison: EER
+QSR Franchise A DX VIP 6 Unit 05-3943
+EER Comparison 
+OSA Temp.
+Base EER
+Post EER
+65 degF
+0.0
+11.32
+66 degF
+0.0
+12.62
+67 degF
+3.93
+9.83
+68 degF
+3.84
+12.34
+69 degF
+4.16
+13.13
+70 degF
+3.94
+14.64
+71 degF
+3.41
+14.05
+72 degF
+3.63
+14.81
+73 degF
+7.97
+12.68
+74 degF
+9.5
+14.84
+75 degF
+6.3
+14.77
+76 degF
+6.34
+14.77
+77 degF
+5.75
+12.26
+78 degF
+6.32
+13.03
+79 degF
+5.47
+11.38
+80 degF
+5.77
+10.71
+81 degF
+5.81
+11.12
+82 degF
+5.46
+9.67
+83 degF
+6.52
+9.83
+84 degF
+3.94
+0.0
+85 degF
+2.32
+0.0
+-----
+5.28
+12.52
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+65 degF - 85 degF
+65.0 degF - 80.0 degF
+0.5 - 1.0
+5s
+18542 samples
+26314 samples

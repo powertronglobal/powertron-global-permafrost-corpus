@@ -1,0 +1,82 @@
+ 
+Appendix A Examples         71 
+ 
+EVO 10000 – 1:2012, Option A, using estimated operating hours. The M&V Plan was to be 
+detailed after contract signing. 
+Factors Affecting the M&V Design  In developing the M&V Plan the following were 
+considered:  
+ 
+All light fixtures are powered by a common 347-volt supply system dedicated to lighting. This 
+situation makes power measurement simple.  
+ 
+Operation of lights significantly affects heating energy requirements, so the interactive effect 
+needed to be estimated. 
+ 
+Operation of lights significantly affects mechanical-cooling requirements.  However, since 
+very little of the school is mechanically cooled and that space is usually vacant during the 
+warmer weather, cooling interactive effects were ignored. 
+ 
+School-board officials had difficulty accepting an arbitrary assumption of lighting operating 
+periods. They agreed to pay for a carefully instrumented two-month period of logging lighting 
+patterns in one school. This test would substantiate the estimated operating hours that 
+would be agreed for all schools. 
+M&V Plan  The measurement boundary of this ECM was drawn to include the lighting fixtures 
+connected to the 347-volt supply system.   
+ 
+The heating interactive effect was determined by engineering calculations to be a 6.0% 
+increase in boiler-output energy requirements, for the period from November through March. 
+Boiler efficiency in winter was estimated to be 79% under typical winter conditions.  
+ 
+The static factors recorded for the baseline included a lighting survey giving a description, 
+location, light level, and count of the number of operating and burned out lamps ballasts and 
+fixtures.  
+ 
+30 lighting loggers were placed in randomly chosen classrooms, corridors, locker rooms, 
+and offices and also in the gym and auditorium, for two months.  This period included the 
+one-week spring holiday and two legal holidays. Table A-3-1 summarizes the data obtained. 
+ 
+Location 
+Fraction of 
+Lighting Load 
+Mean weekly hours 
+School 
+Time
+Holiday 
+Time
+Locker rooms 
+5% 
+106. 
+22. 
+Offices 
+5% 
+83. 
+21. 
+Classrooms 
+61% 
+48. 
+5. 
+Auditorium
+10%
+31.
+11.
+Gymnasium 
+10% 
+82. 
+25. 
+Corridors 
+9% 
+168. 
+168. 
+ 
+Since classrooms are the largest load, the relative precision of the classroom operating period 
+measurements was evaluated before school board officials could agree to estimated values.  
+For the 19 classroom loggers, the standard deviation among the readings for 6 recorded school 
+weeks was found to be 15 hours per week. With 19 x 6 = 114 readings, the standard error in the 
+mean values was computed to be 1.4 hours per week (Equation B-4). At 95% confidence, the 
+value of t for a large number of observations is 1.96 (Table B-1).  Therefore, using Equation B-9, 
+it was established with 95% confidence that the relative precision in the measured classroom 
+operating hours is: 
+ 
+Table A-3-1 
+Operating Period 
+Survey 

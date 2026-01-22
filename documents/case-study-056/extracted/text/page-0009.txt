@@ -1,0 +1,21 @@
+Energy Science Division
+Payback Analysis
+Utilizing the data in the above charts, the following steps were taken to calculate an accurate payback for Major Tire Manufacturer 
+[Alabama Location] for implementing this ECM.  First, the annual cost is calculated to run the chiller at baseline levels for 3,800 
+hours per year.
+Adjusted Baseline Tonnage        560 tons 
+Adjusted kW Baseline        .33 kW/ton * 560 tons = 184.8 kW
+Adjusted Baseline kWh         184.8 kW * 3,800 Annual Operating Hrs = 702,240 kWh
+Revised Cost to Run Baseline         702,240 kWh * $.06 = $42,134
+The cost of running the chiller at 560 tons utilizing the improved post installation eﬃciency derived from 
+eliminating thermal inefficiency:
+kW AERP        .28 kW/ton * 560 tons = 156.8 kW
+Annual kWh ERP        156.8 kW * 3,800 hours = 595,840 kWh
+Annual Cost ERP        595,840 kWh * .06 cents = $35,750
+Annual Savings         $42,134 - $35,750 = $6,384
+Monthly Savings         $6,384/12 = $532
+Finally, the estimated the time to payback the investment in PermaFrost NMR® is determined. With an initial 
+investment of $8,550 for the required amount of  PermaFrost NMR® divided by the expected monthly savings of 
+$532, the simple payback period is 16.1 months.  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

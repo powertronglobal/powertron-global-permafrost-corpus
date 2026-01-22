@@ -1,0 +1,35 @@
+Energy Consumption & Financial Metrics for Pilot Chiller
+The following are the final calculated average performance measurements and financial projections before and 
+after the ECM was installed in the pilot chiller. These results may vary slightly from the tables listed earlier in 
+this report due to rounding only to the first decimal position for cooling tons and kW values.
+Average Baseline Energy Consumption
+Baseline Capacity:  189 tons
+Adjusted kW Baseline:  1.00 kW/ton * 227 tons = 227 kW
+Adjusted Baseline kWh:  227 kW * 3,500 Annual Operating Hours = 794,500 kWh
+Revised Cost to Run Baseline: 794,500 kWh * $.105 = $83,423
+Average Post Energy Consumption
+kW Post:  .885 kW/ton * 227 tons = 200.9 kW
+Annual kWh Post:  200.9 kW * 3,500 hours = 703,150 kWh
+Annual Cost Post:  703,150 kWh * $.105 cents = $73,831
+Average Savings per Year Per System
+Avoided Energy Cost (savings) Per Year:  $83,423 - $73,831 = $9,592
+Estimated Energy Savings per Month: $9,592 / 12 = $799
+Return on Investment
+Cost of PermaFrost NMR® installed in the pilot chiller: $7,500
+Estimated ROI for Space Center A Visitor Complex when treating the pilot chiller: $7,500 / $799 = ~9.4 mos
+Annual Internal Rate of Return = 128%
+Return on Investment Over 5 Years = 639%
+Explanation of Regression Analysis
+To obtain a realistic avoided energy cost and subsequent payback period for Space Center A Visitor Complex for implementing the PermaFrost 
+NMR® ECM, a detailed Regression Analysis is used to calculate the true energy savings resulting from the improvement 
+in both capacity and efficiency utilizing data collected during the pilot study. These improvements reduce the annual kWh 
+expended in the Post Analysis Period. The ROI comes from determining what the cost to run the chiller was when 
+operating at the original energy profile to produce the newly restored amount of available capacity before then subtracting 
+the revised cost to run the chiller at the same restored capacity after the ECM was installed. This regression analysis is the 
+most widely accepted method of accounting for the reduced number of hours and/or load % at which the chiller will now 
+operate due to the restored performance profile. If the building control system and associated air handler units are operating 
+normally, this restored performance profile will normally allow the chiller to satisfy the internal area set points with 
+increased efficiency resulting in reduced compressor demand loading.
+9
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,52 @@
+28        IPMVP Framework and Options 
+ 
+Separate meters installed by the facility owner can measure whole-facility energy. The accuracy 
+of these meters should be considered in the M&V Plan, together with a way of comparing its 
+readings with the utility meter readings. 
+4.8.6 Option C: Cost 
+Option C’s cost depends on the source of the energy data, and the difficulty of tracking static 
+factors within the measurement boundary to enable non-routine adjustments during the 
+reporting period. The utility meter or an existing sub-meter works well if the meter’s data is 
+properly recorded. This choice requires no extra metering cost. 
+The cost of tracking changes in static factors depends on the facility’s size, the likelihood of 
+static-factor change, the difficulty of detecting changes, and the surveillance procedures already 
+in place.  
+4.8.7 Option C: Best Applications  
+Option C is best applied where:  
+ 
+The energy performance of the whole facility will be assessed, not just the ECMs.  
+ 
+There are many types of ECMs in one facility.  
+ 
+The ECMs involve activities whose individual energy use is difficult to separately measure 
+(operator training, wall or window upgrades, for example).  
+ 
+The savings are large compared to the variance in the baseline data, during the reporting 
+period (See Appendix B-1.2).  
+ 
+When Retrofit-Isolation techniques (Option A or B) are excessively complex. For example, 
+when interactive effects or interactions between ECMs are substantial.   
+ 
+Major future changes to the facility are not expected during the reporting period.  
+ 
+A system of tracking static factors can be established to enable possible future non-routine 
+adjustments.  
+ 
+Reasonable correlations can be found between energy use and other independent 
+variables.  
+4.9   Option D: Calibrated Simulation  
+Option D, Calibrated Simulation, involves the use of computer simulation software to predict 
+facility energy for one or both of the terms in Equation 1). A simulation model must be 
+"calibrated" so that it predicts an energy pattern that approximately matches actual metered 
+data.   
+Option D may be used to assess the performance of all ECMs in a facility, akin to Option C. 
+However, the Option D simulation tool allows you to also estimate the savings attributable to 
+each ECM within a multiple-ECM project.  
+Option D may also be used to assess just the performance of individual systems within a facility, 
+akin to Options A and B. In this case, the system’s energy use must be isolated from that of the 
+rest of the facility by appropriate meters, as discussed in Chapters 4.5.1 and 4.7.  
+Option D is useful where:  
+ 
+Baseline energy data do not exist or are unavailable. Such situation may arise for: 
+o A new construction project 
+o A facility expansion needing to be assessed separately from the rest of the facility, or 

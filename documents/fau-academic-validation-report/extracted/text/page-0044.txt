@@ -1,0 +1,50 @@
+ 
+44 
+ 
+CONCLUSIONS 
+ 
+Powertron Global believes they have a system to enhance metal surfaces, which 
+improves heat transfer, prevent future fouling, reduce friction, increase component life 
+and improve efficiency of the units.  This report evaluates their in-situ test program to 
+determine if measurable improvements can be demonstrated.  This would benefit power 
+providers if it was verified that the HVAC systems would operate more efficiently and 
+reduce draw of power from the grid during peak periods.   
+ 
+There are four questions to answer.  The first question is whether there is anything in 
+PermaFrost NMR® that would reduce the refrigerant lubricating oil surface bonding, 
+to allow it (the refrigeration oil) to be displaced by the PermaFrost NMR®.  The 
+improvements in coil performance certainly suggest that any barrier to heat exchange 
+was altered.  If no surface bonding alteration occurs, no improvement should be seen in 
+the short term.  Improvements were seen in all systems, so something changed in 
+the coils.   
+ 
+The second question is whether the PermaFrost NMR® can adversely impact the 
+refrigerant flow.  Stabilizing the metal surface and removal of refrigerant oil from the 
+heat exchangers will reduce laminar friction and improve refrigerant flow.  The 
+improvements measured at the tests included generally showed significant 
+improvement in heat exchange and no adverse impact to refrigerant flow.  The oil 
+analysis showing compatibility (no separation of the product) with all relevant 
+components in extended tolerances suggest the product should not adversely impact 
+flow in normal operating conditions. 
+ 
+An accompanying question about product longevity inside a system has been asked, 
+including one of the large utilities that currently provides rebates for PermaFrost 
+NMR®.   An oil analysis in Appendix A shows all of the tests required to provide an 
+answer.   
+ 
+The focus of this report was the fourth question, whether the efficiency can be 
+demonstrated under a series of conditions, both in-situ and controlled, and concurrently 
+whether the appropriate data was gathered.  The International Performance 
+Measurement and Verification Protocols (IPMVP), Retrofit Isolation (Option B) was 
+the option used for this report. The Association of Energy Engineers (AEE), American 
+Society of Heating, Refrigeration and Air-Conditioning Engineers (ASHRAE), and The 
+Efficiency Valuation Organization (EVO) accept the IPMVP as a global methodology 
+for determining the effectiveness of energy conservation methods and products.  
+ 
+The test protocol for the measuring site parameters before and after PermaFrost 
+NMR® addition at in-situ test units appears to be in conformance with the standards set 
+for such systems and appropriate efficiency measurements were taken.  It was 
+recommended that a baseline for any of these tests allowed the equipment to run for a 
+normal on/off cycling for a period of 15 to 20 days to allow for stabilization and steady 
+state. Although performance changes may appear immediately, it takes approximately 
+2-4 weeks for PermaFrost NMR® to properly travel throughout the hermetic circuit.  

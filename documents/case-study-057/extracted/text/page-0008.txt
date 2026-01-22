@@ -1,0 +1,44 @@
+Results
+Utilizing the data in the above charts, the following steps were taken in accordance with IPMVP protocols to determine 
+the avoided energy usage and the annualized Return on Investment (ROI) Healthcare IT Company A will realize by implementing this ECM:
+Regression Analysis (accounts for the restored capacity brought about by PermaFrost NMR®) 
+Adjusted Base Tonnage         71.87 tons (equates to tonnage in ERP)
+Adjusted Total Watts         762 Watts per Ton * 71.87 tons = 54,765 Total Watts
+Adjusted Base kWh         (54,765 Total Watts / 1,000) * 4,212 Annual Operating hrs = 230,670 kWh
+Revised Cost to Run Prior to ECM         230,670 kWh * $.11 = $25,374 USD
+Post ECM kWh         (48,908 Total Watts / 1,000) * 4,212 Annual Operating hrs = 206,001kWh
+Cost to Run After ECM         206,001 kWh * $.11 = $22,660 USD
+Cost Savings per Month         ($25,374  - $22,660) / 12 = $226
+Cost of PermaFrost NMR® @ $5,530 / $226 = 24.5 months
+ 
+ROI = 24.5 months
+Energy Science Division
+Eﬃciency Improvements
+Total Watts
+Watts per Ton
+Btuh Capacity
+System Eﬃciency %
+Enthalpy Delta
+COP
+-10.7%
+-10.7%
++14.3%
++14.3%
++14.3%
++12.1%
+Energy Reporting Period
+48,909
+681
+862,456
+120%
+10.26
+5.17
+Baseline
+54,772
+762
+754,794
+105%
+8.98
+4.61
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

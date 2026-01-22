@@ -1,0 +1,15 @@
+ 
+ 
+Page 18 of 38 
+ 
+Figure 23 - Bar Chart Representation of the 3 Archetype Set  
+Each archetype is like a data point from the set and made up of magnitudes of each of the seven measurement 
+variables (betas). 
+ 
+Figure 24 - Mixture Coefficients (alphas) for each data point, 1-38 
+The vertical line runs through Oct. 8th, the last day of the Oct. 2019 data set. From there on, the data points (days) 
+are in May. Thus, the line divides pre-treatment days and post-treatment days 
+ 
+The mixture coefficient time series in figure 24 illustrate that archetype 3, and then a mixture of 3 
+and 1, represent the pre-treatment days. This is consistent with the properties of these two 
+archetypes, and both are less efficient than archetype 2. The difference is if compressor 2 is on or 

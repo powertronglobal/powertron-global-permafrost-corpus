@@ -1,0 +1,50 @@
+ 
+Introduction to IPMVP       3 
+ 
+ 
+Chapter 8 reviews a variety of common M&V issues that need to be considered in any M&V 
+program. A key issue governing the design and operation of an M&V system is the 
+competing needs for reasonable accuracy and reasonable cost. Each user must find its own 
+balance between the accuracy and cost of reporting. Chapter 8.5 particularly focuses on the 
+factors involved in this tradeoff. Appendix B provides an overview of some uncertainty and 
+statistical methods, but this overview is not a definitive text on the topic. Users are advised 
+to seek appropriate statistical design help for any M&V program data normalization, 
+sampling or uncertainty evaluation techniques they may use. Chapter 8 also presents 
+design issues surrounding metering for M&V programs, though it is not a definitive text on 
+metering. 
+ 
+Chapter 9 contains the definitions of key terms used in this document. The terms are 
+italicized throughout the document to indicate that they have the special meanings given in 
+Chapter 9. 
+ 
+Chapter 10 lists useful readings, references, and other sources of useful material. 
+Though the application of IPMVP is unique to each project, certain types of users will have 
+similar methods in their M&V Plans and implementation. Appendix D.1 through D.10 point out 
+some of the key ways this document may be used by the following user groups: 
+ 
+Energy performance contractors and their building customers  
+ 
+Energy performance contractors and their industrial process customers  
+ 
+Energy users doing their own retrofits and wanting to account for savings 
+ 
+Facility managers properly accounting for energy budget variances 
+ 
+New building designers  
+ 
+New building designers seeking recognition for the sustainability of their designs  
+ 
+Existing building managers seeking recognition for the environmnetal quality of their building 
+operations 
+ 
+Utility demand side management program designers and managers 
+ 
+Water efficiency project developers 
+ 
+Emission reduction trading program designers 
+ 
+Energy user’s seeking ISO 50001 certification 
+Financial backers and purchasers of emission credits from any of the above applications will 
+find the key ways to use this document under these same headings.   
+This Chapter uses terms explained in subsequent Chapters as noted in brackets, or as defined 
+in Chapter 9 for italicized words. 

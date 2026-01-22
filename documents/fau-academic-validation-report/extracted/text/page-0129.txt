@@ -1,0 +1,61 @@
+ 
+IPMVP Framework and Options       29 
+ 
+o A centrally metered campus of facilities where no individual facility meter exists in the 
+baseline period, but where individual meters will be available after ECM installation.  
+ 
+Reporting-period energy data are unavailable or obscured by factors that are difficult to 
+quantify. Sometimes it is too difficult to predict how future facility changes might affect 
+energy use. Industrial-process changes or new equipment often make the computation of 
+non-routine adjustments so inaccurate that Options A, B or C would create excessive error 
+in the savings determination.  
+ 
+It is desired to determine the savings associated with individual ECMs, but measurements 
+with Options A or B are too difficult or costly.   
+If the reporting-period energy is predicted by the simulation software, the determined savings 
+persist only if the simulated operating methods continue. Periodic inspections will identify 
+changes from baseline conditions and modeled equipment performance (see also Chapter 
+4.7.1. Option A Installation Verification). Simulation runs should be adjusted accordingly.  
+Option D is the primary M&V approach for assessing energy efficiency inclusions in new facility 
+designs. The IPMVP Volume III Part I, titled “Concepts and Options for Determining Savings In 
+New Construction”, provides guidance on a variety of M&V techniques applicable to new 
+buildings.  
+Accurate computer modeling and calibration to measured energy data are the major challenges 
+associated with Option D. To control the costs of this method while maintaining reasonable 
+accuracy, the following points should be considered when using Option D:  
+ 
+Simulation analysis should be conducted by trained personnel who are experienced with 
+both the software and the calibration techniques.  
+ 
+Input data should represent the best available information including as much as possible of 
+available actual performance data from key components in the facility 
+ 
+The simulation inputs need to be adjusted so its results match both the demand and 
+consumption data from monthly utility bills, within acceptable tolerances (i.e. "calibrated"). 
+Close agreement between predicted and actual annual total energy is usually insufficient 
+demonstration that the simulation adequately predicts the energy behavior of the facility 
+(See Chapter 4.9.2). 
+ 
+Option D requires careful documentation. Simulation printouts, survey data and the metering 
+or monitoring data used to define input values and calibrate the simulation model should be 
+kept in paper and electronic files. The version number should be declared of publicly 
+available software, so that another person can review the computations.  
+ 
+For new construction projects, modeling efforts can be streamlined by retaining the buildng 
+energy modeler that created the “as-designed” model to create the calibrated, “as-built” and 
+adjusted baseline models. 
+ 
+Building types which are not easily simulated include those with:  
+ 
+large atriums,  
+ 
+a significant fraction of the space underground or ground coupled,  
+ 
+unusual exterior shapes,  
+ 
+complex shading configurations, or 
+ 
+a large number of distinct zones of temperature control.  
+Some building ECMs cannot be simulated without great difficulty, such as:  
+ 
+addition of radiant barriers in attics, and  

@@ -1,0 +1,472 @@
+================================================================================
+DOCUMENT: Case Study 031
+DOC_ID: pdf_036
+SHA256: 46cc7631644aaf2c331c0f4a132aa754db0dab61d47229f72c1567ddc8568071
+================================================================================
+
+═══ PAGE 001 ═══
+
+Energy Science Division
+®
+Major Global Bank/Property Management Firm - [Northeast Location] Data Center - CH #3 & #4
+Study Date:
+     Sep 22, 2014  - May 07, 2015
+Participants:
+     
+     Property Management Firm
+     Major Global Bank Realty Services
+     Frank Sherry
+     Operations Manager
+      Powertron Global
+      [Senior Energy Engineer],
+      Director of Engineering
+Location:
+     [Northeast Location], NJ    
+Comprehensive HVAC/R Capacity Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 002 ═══
+
+1
+HVAC/R Eﬃciency Report
+Purpose of Energy Eﬃciency Study
+The purpose of this study is to verify the industry wide problem of efficiency loss in HVAC/R as projected by 
+ASHRAE research and to quantify the amount of money wasted due to this loss. Many industry leading 
+organizations including ASHRAE project that all HVAC/R units degrade in capacity and efficiency as they age. 
+Thermal degradation is caused by a phenomenon that is present in all HVAC/R equipment that operates as a 
+vapor compression cycle associated with refrigerant and compressor lubricant. This thermal degradation is well 
+documented by the HVAC/R industry and the original equipment manufacturers (OEM’s). Thermal 
+degradation prevents units from operating at the original design efficiency, which leads to excessive run-times 
+and additional kWh consumption.
+The chillers in this study (pictured below) are representative of a great majority of the portfolio of equipment 
+operated by Major Global Bank. If thermal degradation is present in this chiller it is present in the entire inventory of 
+equipment. Energy waste can be calculated based on this equipment (portfolio representation) and then 
+accurately extrapolated across the entire inventory of equipment.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 003 ═══
+
+2
+Process
+This report contains specific information regarding the current performance profile of two chillers that support 
+the Major Global Bank Data Center in [Northeast Location], NJ. 
+Detailed performance testing (outlined later in this report) was performed on the chillers before and after the 
+installation of the PermaFrost NMR® ECM to determine the impact on the three key elements that greatly 
+affect the HVAC/R power bill as they relate to the original design specifications:
+1. The cooling capacity the chillers produce after 11.5 (on average) years in service, before and after
+the administration of the ECM.
+2. The actual cost of power required to produce the amount of cooling tons the chillers can deliver as
+reflected in the kW/ton measurement, before and after the administration of the ECM.
+3. The thermal dynamic ability of the chillers to perform in relation to operational design, before and
+after the administration of the ECM.
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) framework. The team consisted Frank Sherry 
+Operations Manager with Commercial Real Estate Services/Major Global Bank Realty Services and Powertron Global’s Director of 
+Engineering, [Senior Energy Engineer].  
+Notes
+The equipment measured were two YS water-cooled chillers manufactured by York. The GPM through the evaporator, the 
+incoming condenser water and the return chilled water in the baseline and post were matched closely so no adjustments 
+were made.
+The boundary of the testing was the chiller and nothing else; therefore confidence in the accuracy of the performance 
+calculations is very high.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 004 ═══
+
+3
+Energy Conservation Method (ECM)
+The content detailed in this report will first demonstrate the ability of the chillers to perform prior to the 
+PermaFrost NMR® ECM being installed, as well as illustrate the amount of thermal degradation due in large 
+part to thermal degradation within the heat exchangers.
+The following report produces the utilization of the IPMVP as the M&V plan. 
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase)
+• kW/Ton = kW / Actual Tonnage
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+• Actual Cooling Tons per Hour = Evaporator GPM X 8.34 * 60 * Chilled Water Delta T / 12,000 BTU
+Notes
+Following a diagnostic examination to determine the operational condition of the chiller was satisfactory, Baseline M&V 
+data was collected and recorded by the M&V team. 400+ runtime hours after installation of the PermaFrost NMR® 
+ECM, the M&V team returned to take Post M&V measurements in the identical fashion as in the Baseline. The delta of 
+these measurements and associated calculations show the amount of capacity restored.
+The following IPMVP data points were recorded on 22 September 2014 using a flow meter recently calibrated by NIST 
+(National Institutes of Standards and Technology) to insure measurement accuracy. The remaining measurements were 
+taken directly from the chiller’s control panel. The chiller was then treated with PermaFrost NMR® on the same day and 
+allowed to run normally until 7 May 2015 to ensure the patented surface science nanotechnology had ample time to seat 
+into all the metal surfaces of the heat exchangers. All measurements were taken at similar incoming water temperatures. 
+The collection of data, in both the baseline and post periods, was witnessed by [Witnesses] of 
+Commercial Real Estate Services. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 005 ═══
+
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+Recovered
+Energy
+Equating to a
+4.1% Reduction
+4
+Recovered Wasted Energy with ECM - Chiller #3
+The chart to the right illustrates the performance 
+restoration the ECM created in the treated chiller. The 
+average cost to operate this chiller before it was treated 
+with PermaFrost NMR®, as calculated in kW/ton, was 
+.651.
+The specific cost to operate this chiller after it was 
+treated with PermaFrost NMR®, as calculated in 
+kW/ton, is currently .624.
+The higher baseline kW/ton rating measured in-situ 
+was expected when compared to the ASHRAE loss of 
+performance efficiency and cost to operate estimate for 
+11.5 year-old year old chillers utilizing R-22 refrigerant. 
+Cost Per Cooling Unit to Operate
+kW/ton
+.027 kW/ton
+Baseline
+Post ECM
+.651
+.624
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+Recovered
+Energy
+Equating to a
+8.6% Reduction
+Recovered Wasted Energy with ECM - Chiller #4
+The chart to the right illustrates the performance 
+restoration the ECM created in the treated chiller. The 
+average cost to operate this chiller before it was treated 
+with PermaFrost NMR®, as calculated in kW/ton, was 
+.619.
+The specific cost to operate the chiller after it was 
+treated with PermaFrost NMR®, as calculated in 
+kW/ton, is currently .566.
+The higher baseline kW/ton rating measured in-situ 
+was expected when compared to the ASHRAE loss of 
+performance efficiency and cost to operate estimate for 
+11.5 year-old year old chillers utilizing R-22 refrigerant.
+Cost Per Cooling Unit to Operate
+kW/ton
+.053  kW/ton
+Baseline
+Post ECM
+.619
+.566
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 006 ═══
+
+Energy Consumption & Financial Metrics
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the Major Global Bank Data Center Chillers 3 & 4.
+Baseline Energy Consumption
+Baseline Tonnage: 639 tons
+Adjusted kW Baseline:  .635 kW/ton * 648 tons = 411.48 kW
+Adjusted Baseline kWh: 411.48 kW * 5650 Annual Operating Hrs = 2,324,862 kWh
+Revised Cost to Run Baseline: 2,324,862 kWh * $.11 = $255,734
+Post Energy Consumption
+kW Post: .595 kW/ton * 648 tons = 385.56 kW
+Annual kWh Post: 385.56 kW * 5650 hours = 2,178,414 kWh
+Annual Cost Post: 2,178,414 kWh * .11 cents = $239,626
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $255,734 - $239,626 = $16,108
+Estimated Energy Savings Per Month: $16,108 / 12 = $1,342
+Initial Payback Period
+Cost of PermaFrost NMR® installed in the chillers (3 & 4): $13,708
+Estimated ROI Period for Major Global Bank on the chillers: $13,708 / $1,342 = 10.2 months
+Annual Rate of Return = 117.5%
+Return on Investment Over 5 Years = 587.5%
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period for 
+Major Global Bank for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true 
+energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended in 
+the Post Analysis Period. ROI comes from determining what the cost to run the chiller was when operating at the original 
+energy profile to produce the newly restored amount of available tonnage capacity and then subtracting the revised cost to 
+run the chiller at the same restored tonnage after the PermaFrostNMR® ECM was installed. This regression analysis is 
+the most widely accepted method of accounting for the reduced number of hours or load the chiller will now operate due to 
+the restored capacity. This restored capacity allows the chiller to reach the internal building set points with increased 
+efficiency resulting in reduced compressor demand loading.
+5
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 007 ═══
+
+.651
+POST
+BASELINE
+.624
+kW/ton
+REDUCTION
+4.1%
+POST
+BASELINE
+6.8%
+4.4%
+POST
+BASELINE
+COP
+IMPROVEMENT
+5.40
+201.8
+188.0
+5.64
+Key Results for Chiller #3 with PermaFrost NMR® ECM
+York
+YSDBCBS3-CLE
+SFKM433640
+R22
+350
+5,600
+2002
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+455.7
+280.7
+41.9
+91
+44.3
+54.6
+83.2
+92.1
+10.3
+188.0
+0.624
+301.5
+702
+84
+77
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Saturated Suction Temperature 
+ 
+ 
+ 
+Discharge Refrigerant Temperature
+Chilled Water Leaving Temp (Supply)
+Chilled Water Entering Temp (Return)
+Condenser Water Temp Entering Chiller
+Condenser Water Temp Leaving Chiller
+Chilled Water Delta T
+kW (V x A x 1.47) 
+ 
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Chiller GPM
+Vane Position % During Testing 
+OAT 
+ 
+450.0
+305.0
+42.7
+95.4
+44
+54.6
+82.7
+91.3
+10.6
+201.8
+0.651
+310.0
+701.37
+86
+68
+6
+Notes
+The chiller provides cooling to the data center in 
+[Northeast Location]. Given the facility load and the two 
+chillers partially comprising the plant, this 
+chiller runs approximately 5,600 hours or more 
+annually prior to the ECM being implemented. 
+REDUCTION
+Calculated kW
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 008 ═══
+
+.618
+POST
+BASELINE
+.566
+kW/ton
+REDUCTION
+8.4%
+POST
+BASELINE
+3.5%
+9.1%
+POST
+BASELINE
+COP
+IMPROVEMENT
+5.69
+203.4
+196.3
+6.21
+Key Results for Chiller #4 with PermaFrost NMR® ECM
+York
+YSDBCBS3-CLE
+SCPM701770
+R22
+350
+5,700
+2005
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+456.3
+292.6
+42.9
+90.4
+42.9
+54.7
+80.4
+88.7
+11.8
+196.3
+0.566
+346.9
+705
+89
+78
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Saturated Suction Temperature 
+ 
+ 
+ 
+Discharge Refrigerant Temperature
+Chilled Water Leaving Temp (Supply)
+Chilled Water Entering Temp (Return)
+Condenser Water Temp Entering Chiller
+Condenser Water Temp Leaving Chiller
+Chilled Water Delta T
+kW (V x A x 1.47) 
+ 
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Chiller GPM
+Vane Position % During Testing 
+OAT 
+ 
+448.7
+308.3
+42.5
+92
+44.3
+55.5
+80.9
+89.5
+11.2
+203.4
+0.618
+328.8
+704.1
+89
+70
+7
+Notes
+The chiller provides cooling to the data center in 
+[Northeast Location]. Given the facility load and the two 
+chillers partially comprising the plant, this 
+chiller runs approximately 5,700 hours or more 
+annually prior to the ECM being implemented. 
+REDUCTION
+Calculated kW
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 009 ═══
+
+21.3
+Passenger vehicles
+5.2
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+11,363
+Gallons of gasoline
+consumed
+108,468
+Pounds of coal burned
+annually
+235
+Barrels of oil
+consumed
+9.2
+Homes’ electricity use for
+one year
+8
+Major Global Bank/Property Management Firm is Saving More
+than Just Energy
+By treating the chillers with PermaFrost NMR®, based on the current manner in which Major Global Bank/Commercial Real Estate Services operates the chillers, it will save approximately 146,448 kWh per year and all the costs 
+associated with those savings. From an environmental impact standpoint, Major Global Bank/Commercial Real Estate Services 
+is also benefitting the surrounding community of [Northeast Location], NJ. Imagine how great the environmental 
+impact will be when Major Global Bank moves forward with treating all their chiller equipment in all their properties 
+across their portfolio.
+The 146,448 kWh saved per year equates to preventing 101 metric tons of greenhouse gas emissions from 
+being released or any of the following:
+Annual greenhouse emissions from:
+CO2 emissions from:
+.541
+Railcars worth
+of coal burned
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+

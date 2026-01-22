@@ -1,0 +1,48 @@
+ 
+Definition and Purposes of M&V       5 
+ 
+2.1  Purposes Of M&V  
+M&V techniques can be used by facility owners or energy efficiency project investors for the 
+following purposes: 
+a)   Increase energy savings 
+Accurate determination of energy savings gives facility owners and managers valuable 
+feedback on their energy conservation measures (ECMs). This feedback helps them adjust 
+ECM design or operations to improve savings, achieve greater persistence of savings over time, 
+and lower variations in savings (Kats et al. 1997 and 1999, Haberl et al. 1996).  
+b)   Document financial transactions 
+For some projects, the energy efficiency savings are the basis for performance-based financial 
+payments and/or a guarantee in a performance contract. A well-defined and implemented M&V 
+Plan can be the basis for documenting performance in a transparent manner and subjected to 
+independent verification. 
+c)   Enhance financing for efficiency projects  
+A good M&V Plan increases the transparency and credibility of reports on the outcome of 
+efficiency investments. It also increases the credibility of projections for the outcome of 
+efficiency investments. This credibility can increase the confidence that investors and sponsors 
+have in energy efficiency projects, enhancing their chances of being financed.  
+d)   Improve engineering design and facility operations and maintenance  
+The preparation of a good M&V Plan encourages comprehensive project design by including all 
+M&V costs in the project’s economics. Good M&V also helps managers discover and reduce 
+maintenance and operating problems, so they can run facilities more effectively. Good M&V 
+also provides feedback for future project designs. 
+e)  Manage energy budgets  
+Even where savings are not planned, M&V techniques help managers evaluate and manage 
+energy usage to account for variances from budgets. M&V techniques are used to adjust for 
+changing facility-operating conditions in order to set proper budgets and account for budget 
+variances.  
+f)   Enhance the value of emission-reduction credits 
+Accounting for emission reductions provides additional value to efficiency projects. Use of an 
+M&V Plan for determining energy savings improves emissions-reduction reports compared to 
+reports with no M&V Plan.   
+g)  Support evaluation of regional efficiency programs 
+Utilty or government programs for managing the usage of an energy supply system can use 
+M&V techniques to evaluate the savings at selected energy user facilities. Using statistical 
+techniques and other assumptions, the savings determined by M&V activities at selected 
+individual facilities can help predict savings at unmeasured sites in order to report the 
+performance of the entire program.  
+h)   Increase public understanding of energy management as a public policy tool  
+By improving the credibility of energy management projects, M&V increases public acceptance 
+of the related emission reduction. Such public acceptance encourages investment in energy-
+efficiency projects or the emission credits they may create. By enhancing savings, good M&V 
+practice highlights the public benefits provided by good energy management, such as improved 
+community health, reduced environmental degradation, and increased employment 
+ 

@@ -1,0 +1,85 @@
+HVAC Performance Comparison: kW/Ton
+QSR Franchise A DX VIP 7 Unit 05-3942
+kW/Ton Comparison 
+OSA Temp.
+Base kW/Ton
+Post kW/Ton
+65 degF
+2.02 kW/Ton
+0.71 kw/Ton
+66 degF
+2.28 kW/Ton
+0.7 kw/Ton
+67 degF
+3.24 kW/Ton
+0.84 kw/Ton
+68 degF
+2.45 kW/Ton
+0.71 kw/Ton
+69 degF
+1.97 kW/Ton
+0.82 kw/Ton
+70 degF
+1.83 kW/Ton
+0.82 kw/Ton
+71 degF
+1.82 kW/Ton
+0.83 kw/Ton
+72 degF
+1.75 kW/Ton
+0.83 kw/Ton
+73 degF
+1.9 kW/Ton
+0.75 kw/Ton
+74 degF
+2.2 kW/Ton
+0.9 kw/Ton
+75 degF
+2.02 kW/Ton
+0.82 kw/Ton
+76 degF
+1.91 kW/Ton
+0.77 kw/Ton
+77 degF
+2.08 kW/Ton
+0.79 kw/Ton
+78 degF
+2.03 kW/Ton
+0.92 kw/Ton
+79 degF
+1.83 kW/Ton
+0.88 kw/Ton
+80 degF
+2.07 kW/Ton
+1.03 kw/Ton
+81 degF
+2.13 kW/Ton
+1.0 kw/Ton
+82 degF
+1.97 kW/Ton
+1.06 kw/Ton
+83 degF
+1.96 kW/Ton
+1.28 kw/Ton
+84 degF
+2.46 kW/Ton
+1.13 kw/Ton
+85 degF
+1.93 kW/Ton
+0.0 kw/Ton
+-----
+2.09 kW/Ton
+0.88 kW/Ton
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+65 degF - 85 degF
+65.0 degF - 80.0 degF
+0.5 - 1.0
+5s
+46855 samples
+43834 samples

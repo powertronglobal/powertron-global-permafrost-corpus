@@ -1,0 +1,48 @@
+5
+ 
+ 
+ 
+    Post Treatment - No. 2009JC026
+ 
+ 
+ 
+Cooling Capacity
+Power Input
+EER
+Dry bulb temp of Evaporator - wind discharged
+Wet bulb temp of Evaporator - wind discharged
+2.54%
+-0.62%
+3.18 %
+-1.86%
+-2.17%
+Percentage Change
+4449 W
+2068 W
+2.1513
+12.68 C
+11.74 C
+Inspection Data
+Inspection Items
+Inspection Report - Post Treatment
+Report Highlights translated into English
+     Remarks,
+1.   Actually condition on inspection pre-treatment
+ 
+Indoor: Dry bulb temp: 26.95C 
+ 
+Wet bulb temp: 18.98C
+ 
+Outdoor: Dry bulb temp: 34.98C
+ 
+Discharged pressure: 0Pa
+2.   All the testing method for the above items included cooling capacity,  power input, 
+        Dry bulb and Wet bulb temperature of Evaporator at discharged are strictly based on 
+        the GB/T7725-2004 regulation standard.
+3.   On this test, the refrigerant is R22.
+The testing result as above was collected after post-treatment of PermaFrost® (model No: 
+PFHCFC) refrigeration oil 50 ml, and then went through 15 hours non-stopped running.
+        Cooling capacity increased by 2.54% in the post-treatment test.  This indicates a  significant 
+improvement in heat transfer in the evaporator. 
+        The COP (a ratio of the cooling capacity and power input) increased by 3.18% in  the post-treatment 
+test.  This indicates a significant improvement in the overall system performance.

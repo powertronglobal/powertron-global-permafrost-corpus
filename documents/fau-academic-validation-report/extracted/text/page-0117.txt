@@ -1,0 +1,108 @@
+ 
+IPMVP Framework and Options       17 
+ 
+Table 2 summarizes the four Options that are detailed in Chapters 4.8 through 4.10. Examples 
+of the use of the Options are contained in Appendix A. Section 4.11 offers guidance on selecting 
+the proper Option for any specific project. 
+ 
+IPMVP Option 
+How Savings Are 
+Calculated 
+Typical Applications 
+A. Retrofit  Isolation: Key 
+Parameter Measurement 
+Savings are determined by field 
+measurement of the key performance 
+parameter(s) which define the energy 
+use of the ECM’s affected system(s) 
+and/or the success of the project.  
+Measurement frequency ranges from 
+short-term to continuous, depending 
+on the expected variations in the 
+measured parameter, and the length 
+of the reporting period. 
+Parameters not selected for field 
+measurement are estimated. 
+Estimates can based on historical 
+data, manufacturer’s specifications, 
+or engineering judgment. 
+Documentation of the source or 
+justification of the estimated 
+parameter is required. The plausible 
+savings error arising from estimation 
+rather than measurement is 
+evaluated. 
+ 
+ 
+ 
+Engineering calculation 
+of baseline and 
+reporting period energy 
+from: 
+o short-term or 
+continuous 
+measurements of 
+key operating 
+parameter(s); and  
+o estimated values.  
+Routine and non-
+routine adjustments as 
+required. 
+ 
+ 
+ 
+A lighting retrofit where 
+power draw is the key 
+performance parameter that 
+is measured periodically. 
+Estimate operating hours of 
+the lights based on facility 
+schedules and occupant 
+behavior.  
+ 
+B. Retrofit Isolation: All Parameter 
+Measurement 
+Savings are determined by field 
+measurement of the energy use of 
+the ECM-affected system. 
+Measurement frequency ranges from 
+short-term to continuous, depending 
+on the expected variations in the 
+savings and the length of the 
+reporting period. 
+ 
+ 
+ 
+Short-term or 
+continuous 
+measurements of 
+baseline and reporting-
+period energy, and/or 
+engineering 
+computations using 
+measurements of 
+proxies of energy use.  
+Routine and non-
+routine adjustments as 
+required. 
+ 
+ 
+Application of a variable-
+speed drive and controls to a 
+motor to adjust pump flow. 
+Measure electric power with 
+a kW meter installed on the 
+electrical supply to the 
+motor, which reads the 
+power every minute. In the 
+baseline period this meter is 
+in place for a week to verify 
+constant loading. The meter 
+is in place throughout the 
+reporting period to track 
+variations in power use. 
+ 
+Table 2 
+Overview of 
+IPMVP 
+Options 

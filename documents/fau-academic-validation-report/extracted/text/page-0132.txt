@@ -1,0 +1,38 @@
+32        IPMVP Framework and Options 
+ 
+used: a) to calibrate an Option D simulation model, and b) to establish an Option C baseline for 
+measuring additional savings (or losses) in the second year and beyond. 
+4.9.5 Option D: Best Applications  
+Option D is usually used where no other Option is feasible.  
+Option D is best applied where: 
+ 
+Either baseline energy data or reporting-period energy data, but not both, are unavailable or 
+unreliable.  
+ 
+There are too many ECMs to assess using Options A or B.  
+ 
+The ECMs involve diffuse activities, which cannot easily be isolated from the rest of the 
+facility, such as operator training or wall and window upgrades.  
+ 
+The performance of each ECM will be estimated individually within a multiple-ECM project, 
+but the costs of Options A or B are excessive.  
+ 
+Interactions between ECMs or ECM interactive effects are complex, making the isolation 
+techniques of Options A and B impractical.  
+ 
+Major future changes to the facility are expected during the reporting period, and there is no 
+way to track the changes and/or account for their impact on energy use.  
+ 
+An experienced energy-simulation professional is able to gather appropriate input data to 
+calibrate the simulation model.  
+ 
+The facility and the ECMs can be modeled by well documented simulation software. 
+ 
+Simulation software predicts metered calibration data with acceptable accuracy.  
+ 
+Only one year’s performance is measured, immediately following installation and 
+commissioning of the energy-management program.   
+4.10   Option Selection Guide  
+The selection of an IMPVP Option is a decision that is made by the designer of the M&V 
+program for each project, based on the full set of project conditions, analysis, budgets and 
+professional judgment. Figure 4 outlines common logic used in Option selection.  

@@ -1,0 +1,54 @@
+ 
+Appendix A Examples         83 
+ 
+transform energy measured at the library to its actual impact on the campus utility bills, the 
+following assumptions were made: 
+ 
+A pound of steam at the library requires 1.5 ft3 of natural gas at the campus heating plant’s 
+gas meter. There is a fixed component in the gas use of the central plant, arising from the 
+standing losses of the steam system. The 1.5 ft3 factor, an annual average of gas use per 
+pound of steam produced, allocates a load-based share of this fixed component to the 
+library.  
+ 
+Electricity use at the library requires 3% more electricity at the campus electricity meter 
+because of estimated campus transformer and distribution losses. 
+ 
+Peak electric demand at the library is assumed to be coincident with the time of peak 
+demand at the campus meter. 
+The expected savings of the ECMs were predicted by computer simulation with the publicly 
+available DOE 2.1 software. A full survey of the building’s systems and occupancy was needed 
+to gather all the input data. The power requirements of five variable-air-volume air-handling 
+systems were logged for one week to define some of the input data for this planning simulation. 
+The simulation used long-term normal weather conditions and the occupancy and other building 
+characteristics that prevailed at the time of the prediction. It was decided to report actual 
+savings under the same conditions.  
+The university’s gas supply contract has a marginal unit price of US$6.25/mcf.  It also has a 
+minimum consumption level, which is only 5,300 mcf below the actual gas usage during the 
+baseline period. If consumption drops by more than 5,300 mcf, the university will pay for the 
+contract minimum amount. The contract will be renegotiated based on the results determined 
+from this library project. The marginal electricity price at the campus meter is $0.18/kWh in peak 
+periods, $0.05/kWh in off peak periods and demand is priced at $10.25/kW-month. 
+Following the first year, the first year’s meter data will be used as a baseline for a new Option C 
+approach for this building. 
+Results  The following steps were used to compute savings. 
+1. The new meters were calibrated and installed. Operating staff recorded monthly energy and 
+demand for 12 months throughout the first year after ECM commissioning. 
+2. Then the original planning simulation model was refined to match: the ECMs as installed, 
+the weather, the occupancy, and the operating profiles of the reporting period. The resultant 
+simulation of space temperatures and humidities were examined to ensure they reasonably 
+matched the typical range of indoor conditions during occupied and unoccupied days. 
+Initially the simulation result did not match actual energy use very well, so the M&V team 
+investigated the site further. During these additional investigations the team found that 
+unoccupied night periods experienced very little indoor temperature change. Therefore they 
+changed the thermal-mass characteristics of the computer model. After this correction the 
+modeled monthly results were compared to the monthly calibration data. The highest 
+CV(RMSE) of the differences was 12%, on the electric demand meter. The university felt 
+that because these CV(RMSE) values met ASHRAE (2002) specifications, it could have 
+reasonable confidence in the relative results of two runs of the model.  Therefore this 
+“calibrated as-built model” was archived, with both printed and electronic copy of input data, 
+diagnostic reports and output data.  
+3. The calibrated as-built model was then rerun with a weather-data file corresponding to the 
+normal year.  Occupancy statistics and static factors were also reset to what had been 
+observed during the baseline period. The resultant “post-retrofit normal-conditions 
+model” was archived, with both printed and electronic copy of input data, diagnostic reports 
+and output data.   

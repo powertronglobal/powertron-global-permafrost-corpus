@@ -1,0 +1,52 @@
+ 
+Introduction to IPMVP       1 
+ 
+CHAPTER 1  INTRODUCTION TO IPMVP 
+1.1   Purpose And Scope Of IPMVP 
+Efficiency Valuation Organization (EVO) publishes the International Performance Measurement 
+and Verification Protocol (IPMVP) to increase investment in energy and water efficiency, 
+demand management and renewable energy projects around the world.  
+The IPMVP promotes efficiency investments by the following activities.  
+ 
+IPMVP documents common terms and methods to evaluate performance of efficiency 
+projects for buyers, sellers and financiers. Some of these terms and methods may be used 
+in project agreements, though IPMVP does not offer contractual language. 
+ 
+IPMVP provides methods, with different levels of cost and accuracy, for determining 
+savings1 either for the whole facility or for individual energy conservation measures (ECM)2; 
+ 
+IPMVP specifies the contents of a Measurement and Verification Plan (M&V Plan). This 
+M&V Plan adheres to widely accepted fundamental principles of M&V and should produce 
+verifiable savings reports. An M&V Plan must be developed for each project by a qualified 
+professional3. 
+ 
+IPMVP applies to a wide variety of facilities including existing and new buildings and 
+industrial processes. Chapter 1.4, User’s Guide, summarizes how different readers might 
+use IPMVP. 
+IPMVP Volume I defines M&V in Chapter 2, presents the fundamental principles of M&V in 
+Chapter 3, and describes a framework for a detailed M&V Plan in Chapter 4. The details of an 
+M&V Plan and savings report are listed in Chapters 5 and 6, respectively. The requirements for 
+specifying use of IPMVP or claiming adherence with IPMVP are shown in Chapter 7. Volume I 
+also contains a summary of common M&V design issues, Chapter 8, and lists other M&V 
+resources. Twelve example projects are described in Appendix A and basic uncertainty analysis 
+methods are summarized in Appendix B. Region-specific materials are in Appendix C. Specific 
+guidance for different types of users is in Appendix D. 
+IPMVP Volume II provides a comprehensive approach to evaluating building indoor-
+environmental-quality issues that are related to ECM design, implementation and maintenance.  
+Volume II suggests measurements of indoor conditions to identify changes from conditions of 
+the baseline period. 
+IPMVP Volume III provides greater detail on M&V methods associated with new buiding 
+construction, and with renewable energy systems added to existing facilities. 
+IPMVP Volumes I and III are a living suite of documents, with the latest modifications available 
+on EVO’s website (www.evo-world.org). Volume II is now found in the archives of the EVO 
+website. 
+1.2   Benefits Of Using IPMVP  
+IPMVP’s history since 1995 and its international use brings the following benefits to programs 
+that adhere to IPMVP’s guidance. 
+                                                  
+1 Words in italics have the special meanings defined in Chapter 8. 
+2  Although there is some debate over the differences between two terms — energy conservation measure (ECM) 
+and energy efficiency measure (EEM) — the common ECM term is defined to include both conservation and 
+efficiency actions. See Chapter 8. 
+3 www.evo-world.org contains the current list of Certified M&V Professionals (CMVP®s), persons with appropriate 
+experience and who have demonstrated their knowledge of IPMVP by passing an examination. 

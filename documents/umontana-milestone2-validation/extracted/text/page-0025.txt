@@ -1,0 +1,22 @@
+ 
+ 
+Page 17 of 38 
+ 
+Figure 22 - Residual Sum of Squares (RSS) vs. Number of Archetypes for the Oct2019/May2020 
+Data Set  
+The algorithm creates a set of N archetypes sequentially, each accompanied with the total error (RSS) in 
+representing the data with that set of archetypes 
+ 
+With only one archetype computed the error is roughly 118.5, but drops quickly when a two 
+archetype set is computed.  We chose to truncate at 3 archetypes; adding any more does not 
+significantly affect the accuracy of the data reconstruction.  Archetypal analysis thus reduces the 
+data set from 7 dimensions to 3, and the archetypes themselves are representative of typical 
+“cooling days”.   A bar chart of the variables in each archetype is shown in figure 23. All three have 
+similar large max temperatures, but archetype 2 is a more efficient day, as the median COP is larger 
+and the Kw/ton is smaller for it than the other two. Also, compressors 1 and 2 have large capacity 
+output, and both are on for a similar amount of time.  Archetypes 1 and 3 are less efficient days, with 
+higher Kw/ton and lower COP.  Archetype 1 represents a day where compressor 2 is not turned on, 
+and archetype 3 will capture less efficient days when both compressors are on. Each data point can 
+be reconstructed by a convex combination of the 3 archetypes, and the mixture coefficients (the 
+alphas) for each is plotted in figure 24.   
+ 

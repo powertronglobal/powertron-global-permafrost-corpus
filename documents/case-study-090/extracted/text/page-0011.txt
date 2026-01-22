@@ -1,0 +1,48 @@
+Energy Science Division
+Improvements
+Total kWh
+kW per Ton
+Btuh Capacity in Tons
+System Eﬃciency %
+Calculated Enthalpy Delta
+COP
+-80.5%
+-54.1%
++75.6%
++75.4%
++75.3%
++120.4%
+Post
+1,017
+.67
+2.09
+139.1%
+7.24
+5.29
+Baseline
+5,220
+1.46
+1.19
+79.3%
+4.13
+2.40
+Results
+PermaFrost NMR®: Determining the Payback Period for Unit#1
+Utilizing data in the above charts, to obtain a true avoided energy cost and subsequent payback period for implementing 
+the PermaFrost NMR® ECM, a detailed Regression Analysis is used to account for the amount of tonnage restored to 
+the system. Once the percentage of improvement in capacity is determined, the kWh associated with the system in the 
+Post is then reduced by the same percentage to account for the reduced number of hours the system will be required to 
+run in the future to maintain the same set points. The average cost to operate the system prior to introduction of the 
+ECM is then compared to the newly obtained cost to operate the system following the installation of the ECM to 
+determine the estimated Payback Period for Major Golf Organization HQ Unit#2.  
+Baseline kWh          1.74 kW * 3000 Annual Operating Hrs = 5,220 kWh
+Cost to Run Baseline          5,220 kWh * $.1204 = $628.49
+Post ECM kWh          1.39 kW * 3000 Annual Operating Hrs = 4,170 kWh
+Revised kWh (based on 75.6% restored capacity)          4,170 kWh * (1 - .756) = 1,017 kWh
+Revised Cost to Run Post          1,017 kWh * $.1204= $122.45
+Avoided Energy Costs (Savings) Per Month          ($628.49- $122.45) / 12 = $42.17
+Cost of ECM          $170
+ROI          $170 / $42.17 = 4
+   ROI = 4 months
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

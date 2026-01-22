@@ -1,0 +1,95 @@
+Energy Science Division
+Package RTU Elevator Room
+Package RTU Lobby
+BASELINE
+POST
+BASELINE
+POST
+489.1 V
+7.73 A
+38.3 F
+67 PSI
+120.4 F
+261 PSI
+72.9 F
+47 F
+60.7 F
+48.8 F
+1446
+47,501
+7.3
+5.56
+1.40
+2.50
+75 F
+489 V 
+8.36 A 
+40.1 F
+69.3 PSI
+117.6 F
+256 PSI
+72.9 F
+44.6 F
+59.8 F
+43.4 F
+1446
+61,556 
+9.46
+6.01
+1.71
+3.00
+75 F
+Voltage  
+Amperage  
+Suction Refrig Temp
+Suction Refrig Pressure
+Discharge Refrig Temp
+Discharge Refrig Pressure
+Entering Air DB Temp  
+Leaving Air DB Temp  
+Entering Air WB Temp  
+Leaving Air WB Temp  
+CFM Across Coils
+BTUH Capacity 
+Total WB Enthalpy Delta
+kW  
+kW/Ton 
+COP 
+Outside Air Temp 
+489.4 V
+14.20 A
+39.4 F
+67.7 PSI
+123.4 F
+274.9 PSI
+75 F
+62.5 F
+ 63.9 F
+57.4 F
+3986
+81,075
+4.52
+10.22
+1.51
+2.33
+74 F
+490 V 
+13.24 A 
+40 F
+68 PSI
+124 F
+275 PSI
+75 F
+60 F
+64 F
+55.1 F
+3986
+108,160  
+6.03
+9.54
+1.06
+3.32
+80 F
+MEASUREMENT
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

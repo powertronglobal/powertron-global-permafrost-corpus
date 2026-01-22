@@ -1,0 +1,54 @@
+8        IPMVP Framework and Options 
+ 
+ 
+Savings  =  (Baseline-Period Use or Demand - Reporting-Period Use or Demand) 
+ 
+ 
+ 
+ 
+± Adjustments  
+ 
+ 
+1) 
+ 
+The "Adjustments" term in this general equation is used to re-state the use or demand of the 
+baseline and reporting periods under a common set of conditions. This adjustments term 
+distinguishes proper savings reports from a simple comparison of cost or usage before and after 
+implementation of an energy conservation measure (ECM). Simple comparisons of utility costs 
+without such adjustments report only cost changes and fail to report the true performance of a 
+project. To properly report “savings,” adjustments must account for the differences in conditions 
+between the baseline and reporting periods.  
+The baseline in an existing facility project is usually the performance of the facility or system 
+prior to modification. This baseline physically exists and can be measured before changes are 
+implemented. In new construction, the baseline is usually hypothetical and defined based on 
+code, regulation, common practice or documented performance of similar facilities. In either 
+case, the baseline model must be capable of accomodating changes in operating parameters 
+and conditions so “adjustments” can be made. 
+ 
+The balance of this Chapter defines basic methods in these measurement and adjustment 
+processes. If these methods do not cover all matters that arise in your project, consult the 
+Principles of M&V (Chapter 3) for further guidance. 
+4.2  Energy, Water and Demand Terminology 
+The processes of determining savings in energy are analogous to those for determining savings 
+in water or demand. To simplify the descriptions in this document, the italicized word energy will 
+commonly be used to mean energy and water use or demand. Similarly the word Energy 
+Conservation Measure (ECM) will commonly be used to mean measures to improve efficiency 
+or conserve energy or water, or manage demand.  
+4.3  The M&V Design and Reporting Process  
+The M&V design and reporting process parallels the ECM design and implementation process. 
+The M&V processes should involve the following steps:  
+1. Consider the needs of the user of the planned M&V report(s). If the user is focused on 
+overall cost control, Whole-Facility methods may be most suited. If user focus is on 
+particular ECMs, Retrofit Isolation techniques may be most suited (see Chapter 4.4). 
+2. While developing the ECM(s), select the IPMVP Option (see Chapters 4.7 - 4.11) that best 
+suits the ECM(s), the needs for accuracy and the budget for M&V. Decide whether 
+adjustment of all energy quantities will be made to the reporting period conditions or to some 
+other set of conditions (see Chapter 4.6). Decide the duration of the baseline period and the 
+reporting period (Chapter 4.5) (These fundamental decisions may be written into the terms 
+of an energy-performance contract.)  
+3. Gather relevant energy and operating data from the baseline period and record them in a 
+way that can be accessed in the future.  
+4. Prepare an M&V Plan (Chapter 5) containing the results of steps 1 through 3 above. It 
+should define the subsequent steps 5 through 9.  
+5. As part of the final ECM design and installation, also design, install, calibrate and 
+commission any special measurement equipment that is needed under the M&V Plan.  

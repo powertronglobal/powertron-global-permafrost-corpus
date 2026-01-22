@@ -1,0 +1,56 @@
+• The Chiller was operating @ 92.6 tons of cooling capacity prior to
+  installing ECM
+• The Chiller now has 3.8 tons of restored cooling capacity after ECM
+  equating to a 4.1% increase
+• The Chiller was operating @ 2.93 COP prior to the ECM
+• The COP of the Chiller has increased by 58% following the ECM
+2.93
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+92.6
+tons
+Baseline
+100%
+CAPACITY @
+100% LOAD
+2.93
+4.63
+92.6
+96.4
+4.63
+Post ECM COP
+96.4
+tons Post ECM
+58%
+Improvement
+in COP
+3.8
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of HVAC/R Eﬃciency Study Results 
+Chiller Eﬃciency with PermaFrost NMR® ECM
+The Non-Profit Organization has the problem of thermal degradation in its Chillers and HVAC units. The lower operating 
+tonnage and COP ratings measured on site are in line with the ASHRAE loss of performance and cost to 
+operate numbers. The degraded equipment performance is costing the Non-Profit Organization significant money and wasting 
+energy. The pilot chiller is using significantly more energy to operate than when it was new ten years earlier. 
+The performance summary includes the measured efficiency and tonnage of the chiller in the baseline and 
+post testing periods demonstrating the impact of thermal degradation. 
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 3.8 operating tons and an 
+improvement of 58% in Coefficient of Performance (COP), significantly reducing the cost to operate the 
+chiller throughout the year. The chiller can now deliver set point using fewer compressors to do so.
+4
+Baseline
+PermaFrost NMR®
+Installed
+Baseline
+PermaFrost NMR®
+Installed
+This report is provided to Non-Profit Organization. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

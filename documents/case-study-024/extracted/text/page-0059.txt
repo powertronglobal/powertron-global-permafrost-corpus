@@ -1,0 +1,15 @@
+Temperature
+Base EER
+Post EER
+% Change
+Baseline Samples
+Post Samples
+77
+16.67
+22959
+76
+17.40
+26815
+75
+17.48
+13253

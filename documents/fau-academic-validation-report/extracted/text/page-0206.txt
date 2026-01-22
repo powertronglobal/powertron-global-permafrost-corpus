@@ -1,0 +1,76 @@
+106        Appendix B Uncertainty 
+ 
+If reporting-period consumption was 4,300 kWh, savings computed using Chapter 4, Equation 
+1b) will be: 
+ 
+ 
+Savings = 6,920 – 4,300 = 2,600 kWh 
+ 
+Since the utility meter was used to obtain the reporting-period electricity value, its reported 
+values may be treated as 100% accurate (SE = 0%) because the utility meter defines the 
+amounts paid, regardless of meter error. The SE of the savings number will be:  
+ 
+     
+
+
+
+
+2
+2
+)
+(
+n
+consumptio
+period
+reporting
+SE
+baseline
+adjusted
+SE
+savings
+monthly
+SE
+
+
+ 
+ 
+ 
+ 
+    = 
+2
+2
+0
+5.
+367
+
+ = 367.5 
+ 
+Using t of 2.2, the range of possible monthly savings is  
+ 
+ 
+Range of savings  
+= 2,620 ± (2.2 x 367.5)  
+ 
+ 
+ 
+ 
+=  2,620 ± -810  = 1,810 to 3,430 
+ 
+To determine the precision of the annual total of monthly savings, it is assumed that the 
+standard error of each month’s savings will be the same. The annual reported savings then 
+have a standard error of: 
+ 
+ 
+ 
+SE (annual savings) = 
+2
+5.
+367
+12
+ = 1,273 kWh 
+ 
+Since t derives from the model of the baseline, it remains at the 2.2 value used above.  
+Therefore the absolute precision in annual savings is 2.2 x 1,273 = 2,801 kWh. 
+Assuming equal monthly savings of 2,620 kWh, annual savings are 31,440 kWh, and the 
+relative precision of the annual savings report is 9% ( = (2,801 / 31,440) x 100). 
+ 

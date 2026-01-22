@@ -1,0 +1,58 @@
+®
+1.50
+POST
+BASELINE
+1.13
+Avg kW/ton
+REDUCTION
+24.7%
+REDUCTION
+REDUCTION
+POST
+BASELINE
+Avg Calculated Annual kWh 
+24.7%
+32.7%
+POST
+BASELINE
+Avg Enthalpy Delta
+IMPROVEMENT
+POST
+BASELINE
+20.03
+Avg Refrigerant Approach
+9.9%
+5.53
+176,760
+133,170
+18.05
+Key Results for RTU’s with PermaFrost NMR® ECM
+Trane
+YSC120
+Various
+R22
+10
+3,000
+2001 - 2004
+System Description
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+12
+Notes
+The pilot RTU’s provide cooling to the Kitchens 
+in three of the four locations. The RTU at Philly 
+Airport provides cooling to the Middle part of 
+the restaurant. Given the usage of the facility 
+and the weather in the mid-Atlantic region, it is 
+estimated the RTU’s run approximately 3,000 
+hours annually prior to PermaFrost NMR® 
+installation.
+7.34
+Property of Powertron Global®

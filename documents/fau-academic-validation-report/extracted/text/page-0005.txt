@@ -1,0 +1,50 @@
+ 
+5
+Retrofit Isolation (Option B) was the option used for this report. Option B is defined as: All 
+parameter measurements with the boundary of the ECM (PermaFrost NMR®) as the single 
+source of measurement. Savings are determined by field measurement of the energy use of the 
+ECM (energy conservation method) affected equipment or system and any performance 
+enhancements versus the baseline data. Measurement frequency ranges from short term to 
+continuous, depending on the expected variations in the savings and the length of the reporting 
+period. For the boundary utilized for Option B short-term measurements are useful as data when 
+the variables are controlled. The savings are calculated by short-term measurements of baseline 
+and reporting period energy, and /or engineering computations using measurements of proxies of 
+energy use. 
+ 
+The testing procedure used here utilizes the "Option B" of that protocol.  Powertron Global's use 
+of this protocol under the direct application by a measurement and verification professional 
+utilizes enthalpy performance verification to develop a confidence baseline. After the baseline 
+has been developed the installation of PermaFrost NMR® was completed as a single ECM.  
+ 
+What to Measure?  
+  
+Practical standards exist that relate to efficiency and delivery of HVAC systems performance.  
+Listed below are the important considerations: 
+ 
+Btu: Btu equals the amount of heat it takes to change the temperature of one pound of water one 
+degree Fahrenheit.  The HVAC system is supposed to remove Btus from a building (or put them 
+into a building). Each room needs just the right amount in and out, or it’s not comfortable.  A 
+more efficient system can provide more Btuh of capacity than a less efficient one.  The goal 
+would be to determine if the refrigerant allows the unit to increase Btuh output, which means that 
+total operating or run time will decrease accordingly, thereby decreasing total kW hours 
+consumed.  
+ 
+Tons:  One ton of nominal cooling equals 12,000 Btu, although this factor should be termed 
+“nominal” because no one makes equipment that delivers 12,000.  Under ideal conditions, most 
+cooling equipment delivers around 11,700 Btu per ton.   From an efficiency perspective, more 
+Btus produced per ton of HVAC system is viewed positively. 
+ 
+Measuring enthalpy to calculate efficiency:  The amount of heat in air is referred to as 
+enthalpy. In the US, the enthalpy of air (in the HVAC business) is measured in BTUs per pound 
+of air. The enthalpy is directly related to the wet bulb temperature.  Air comprises gasses and 
+water / moisture. The gases are mostly nitrogen (78%) and oxygen (21%). The amount of water / 
+moisture in the air is expressed as a relative humidity with typical values of comfort for people 
+between 20% and 65%. When heating or cooling air, both the gases (which is called sensible 
+heat) and water vapor (which is called latent heat) are affected. A large amount of energy is 
+required to heat or cool the water in the air. It is therefore important to know both temperature 
+and relative humidity to calculate how much heating or cooling is taking place. It is especially 
+important to show a change or improvement to a heating or cooling system. 
+ 
+The enthalpy value yields the amount of heat in a pound of air. To know the total heat removed 
+by the evaporator, the rate of flow of air in cubic feet per minute that passes through the 
+evaporator. This measurement of heat removal by the air conditioning system is independent of 

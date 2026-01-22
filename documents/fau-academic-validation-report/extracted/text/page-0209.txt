@@ -1,0 +1,47 @@
+ 
+Appendix C Region Specific Materials         109 
+ 
+Addition to Chapter 4.9.2. Item 2 
+The process of obtaining and preparing actual weather data is described in depth in the User 
+News Vol. 20, No. 1, which is published by Lawrence Berkeley National Laboratory and can be 
+found at http://gundog.lbl.gov under Newsletters. Free actual weather data are available from 
+U.S. D.O.E. at 
+http://www.eere.energy.gov/buildings/energyplus/cfm/weatherdata/weather_request.cfm.  Actual 
+weather data can also be purchased. One source is the U.S. National Climatic Data Center at 
+http://lwf.ncdc.noaa.gov/oa/climate/climatedata.html.  
+ 
+One valid method for adjusting an average weather file to resemble actual weather data is found 
+in the WeatherMaker utility program, part of the U.S. National Renewable Energy Laboratory’s 
+software package Energy-10, available at http://www.nrel.gov/buildings/energy10/. 
+Addition to 8.3 
+Methods of quantifying, evaluating and reducing some of these uncertainties are discussed in 
+this document’s  Appendix B, and ASHRAE (2002), section 5.2.11.32 See also Reddy & 
+Claridge (2000) that applies standard-error-analysis methods to the typical savings 
+determination.  
+Addtion to Chapter 8.10 
+The U.S. Department of Energy's Building Energy Standards and Guidelines 
+Program (BSGP), available at 
+www.eren.doe.gov/buildings/codes_standards/buildings, provides information 
+about U.S. residential, commercial and Federal building codes. 
+ 
+C-2  France - Juillet 2009 
+Dans tout Plan de M&V, l’identification de l’option choisie doit se faire au moyen de la date de 
+publication ou du numéro de version, ainsi que de la référence du Volume de l’IPMVP, dans 
+l’édition nationale correspondante. Exemple : IPMVP Volume I EVO 10000-1:2012:F      
+ 
+Chapitre 1.4  
+1.4A1 Benchmarks, certificats et tests régionaux 
+HQE :  www.assohqe.org  
+ 
+Chapitre 4.9 Option D  
+4.9A1: Information relative aux différents types de modèles de simulation dans le Bâtiment 
+Liste des logiciels conseillés par l’ADEME (en cours d’établissement) : http://194.117.223.129 
+ 
+4.9A2 : Modèles de composants applicables 
+Liste des logiciels conseillés par l’ADEME (en cours d’établissement) : http://194.117.223.129 
+ 
+4.9A3 : Modèles et sources de données météorologiques applicables 
+Metéo-France : https://espacepro.meteofrance.com/espace_service/visite 
+                                                  
+32 It should be noted that, different from ASHRAE Guideline 14, IPMVP does not require inclusion 
+of uncertainty reporting in savings reports. 

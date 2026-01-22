@@ -1,0 +1,55 @@
+ 
+ 
+Page 6 of 38 
+ 
+ 
+● 
+Both median and median absolute deviation from the median (MAD) for: 
+○ 
+kW/Ton 
+○ 
+COP 
+○ 
+EER 
+● 
+average and maximum outside temperature 
+● 
+median and MAD capacity (TON) stratified by the number of compressors running- 1, 2, 3 or 
+4 
+● 
+the time 1, 2, 3, and 4 compressors are turned on 
+ 
+The data was filtered in two ways.  First, data points were only considered when Compressor 1 was 
+on.  In the data set considered, there were four compressors labeled 1 – 4 that always came on in 
+order.  Generally, Compressor 1 ran most frequently during the day; while Compressor 2 would 
+periodically kick in to provide extra cooling capacity. Compressors 3 and 4 rarely ran. Second, data 
+points were only considered when CFM was at least 100 cubic feet per minute. This helped to 
+remove spikes in the calculations that occur when the machine is coming on or turning off, as CFM 
+drops to zero at these times. 
+ 
+Figures 5 and 6 below represent examples of the decision trees the random forest model generated 
+from the pre-treated data for the selected dates. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

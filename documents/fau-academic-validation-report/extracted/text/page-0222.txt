@@ -1,0 +1,69 @@
+122     
+Index 
+INDEX 
+A 
+adherence, viii, 2, 40, 70, 120 
+adjustments, viii, 4, 7, 8, 11, 12, 13, 14, 15, 17, 18, 
+19,  
+baseline adjustments,, 42, 57 
+non-routine adjustments, 13, 17,  23, 25, 42, 55, 
+57, 76, 78, 79 
+routine adjustments, 12, 17, 18, 42, 43, 57 
+ASHRAE Guideline 14, 59,107 
+avoided energy use, 7, 14, 16, 55, 57 
+B 
+baseline period,  8, 11, 17, 18,55 
+C 
+calibration,  25, 29, 30, 38, 43, 64,66,  
+confidence, , 4455, 57,  
+cost, 5, 6, 37, 41, 44, 45, 46, 
+cv, 55, 89 
+CV(RMSE), 55, 96 
+cycle, 11, 12, 55 
+D 
+degree day, 27, 48, 55 
+E 
+energy conservation measure, 1, 4, 7, 8, 56 
+I 
+independent variable,  12, 14, 15,  26, 39, 42, 55, 57 
+interactive effect, 11, 18, 19,  32, 36, 43, 56 
+L 
+LEED, 3, 107 
+M 
+mean bias error, 56, 96 
+measurement boundary, 10,  16, 18, 19, 25, 36, 57 
+model, 14, 15 
+N 
+normalized savings, 15, 37, 55, 57 
+O 
+Option A, 17, 18, 19, 21, 45 
+Option B, 17, 18,, 23 45Option C,  16, 18, 25, 
+45Option D, 118, 28, 45 
+P 
+precision, 55, 57price, 37, 41, 42, 56,  
+Principles of M&V, 6, 40 
+probable error, 57, 102 
+proxy, 16, 57, 70 
+R 
+R2,  57, 94 
+regression analysis, 18, 26, 57, 92, 93 
+reporting period, 7, 12, 37, 55, 56, 57 
+S 
+sample, 20, 37, 38, 43,  
+sampling,  20, 23,  43, 97, 98 
+significant digits, 44, 52, 58 
+standard deviation, 58, 89, 91 standard error, 58, 87, 
+88, 91 
+standard error of the coefficient, 96, 97 
+standard error of the estimate, 101 
+static factor, 13, 37, 42, 43, 57, 58 
+T 
+t-statistic, 58, 94, 96, 97 
+U 
+uncertainty,  21,  37, 43, 44, 45, 87 
+V 
+variance, 28, 58, 87, 88, 91 
+verification,  4, 9, 10, 58 
+ 
+ 
+ 

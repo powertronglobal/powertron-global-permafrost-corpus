@@ -1,0 +1,489 @@
+================================================================================
+DOCUMENT: Case Study 083
+DOC_ID: pdf_084
+SHA256: 7e617627b1cee15e18e14054496b04e0aa949a1b4ad5cdc50d47dcc3abc47534
+================================================================================
+
+═══ PAGE 001 ═══
+
+Energy Science Division
+®
+Commercial Real Estate Company KNIGHT GRUBB FRANK (Property Management Firm) 
+Pilot Particulars
+Study Date:
+     June - August 2014
+Participants:
+     Commercial Real Estate Company Commercial Real Estate Firm
+     [VP Operations], 
+     VP, Operations
+     [Client Representative]
+     Service Technician
+     Powertron Global
+     [Senior Energy Engineer], 
+     Director of Engineering
+     Forensic Engineer and Chief
+     Science Oﬃcer 
+Location:
+     [NYC Office Address]
+     [NYC Location]
+Comprehensive HVAC/R Capacity Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 002 ═══
+
+®
+HVAC/R Eﬃciency Report
+Purpose of Energy Eﬃciency Study
+Thermal degradation is well documented by the American Society of Heating, Refrigeration and Air 
+Conditioning Engineers (ASHRAE) and the original equipment manufacturers (OEM’s). It is a major cause of 
+capacity loss in Heating, Ventilation, Air Conditioning and Refrigeration (HVACR) systems, preventing them 
+from operating at the original design efficiency soon after initial installation in the field. 
+The purpose of this study is to verify the effectiveness of the PermaFrost NMR® Energy Conservation Measure 
+(ECM) in the Package Unit (PU) pictured below at the Property Management Firm facility and document the future avoided energy 
+costs associated with the same.
+Summary Results
+This comprehensive report contains specific information regarding the performance profile of the 35-ton PU at 
+the Property Management Firm office building at [NYC Office Address].
+  
+At the conclusion of the pilot, the PU showed an 
+annual 25,200 kWh reduction while increasing the 
+capacity of the PU by 55.2% from 14.3 tons in the 
+baseline to 22.2 tons in the post. The pilot PU also 
+showed a 35.1% reduction in kW/ton and a similar 
+35.1% reduction in annual kW usage. These 
+efficiency improvements equate to an Initial 
+Payback Period (IPP) of the ECM project for Property Management Firm 
+of 6.7 months and a corresponding Internal Rate of 
+Return (IRR) of 179%  
+Further details of the measurements are described in the various sections later in this report. All testing was 
+conducted by Powertron Global’s Director of Engineering, [Senior Energy Engineer] while being assisted and 
+witnessed throughout by [Client Representative] of Property Management Firm.  
+1
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 003 ═══
+
+®
+2
+Process
+This report contains specific information regarding the current performance profile of one of multiple PU units 
+that support the NKGF Facility in [NYC Location]. 
+Detailed performance testing (outlined later in this report) was performed on the pilot PU unit before and after 
+the installation of the PermaFrost NMR® ECM to determine the impact on the three key elements that greatly 
+affect NKGF’s HVAC power bill as they relate to the original design specifications:
+ 
+ 
+1. The cooling capacity the PU unit is capable of producing after 21 years in service. 
+ 
+2. The actual cost of power required to produce the amount of cooling tons the PU unit is delivering 
+ 
+    as reflected in the kW/ton measurement. 
+ 
+3. The thermal dynamic ability of the PU unit to still perform at or close to operational design.
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) framework. The team consisted of NKGF’s VP, 
+Operations, [VP Operations]; Service Technician [Client Representative] and Powertron Global’s Director of Engineering, 
+[Senior Energy Engineer].  
+Notes 
+The boundary of the testing was the PU unit and nothing else; therefore confidence in the accuracy of the performance 
+calculations is very high.
+ 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 004 ═══
+
+®
+3
+Energy Conservation Method (ECM)
+The content detailed in this report will first demonstrate the ability of the pilot PU unit to perform prior to and 
+following the PermaFrost NMR® being installed. The report will also illustrate the amount of thermal 
+degradation that has occurred due in large part to thermal degradation within the heat exchangers and how much of 
+that has been restored after the ECM's introduction.
+ 
+The following report produces the utilization of the IPMVP as the M&V plan. 
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+• Tons = (Airflow * 4.5 * Enthalpy Delta) / 12,000 
+ 
+• kW/Ton = kW / Actual Tonnage 
+ 
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+ 
+• Refrigerant Approach = Supply Air Temp – Saturated Suction Temp 
+Notes 
+Following a diagnostic examination of the pilot equipment to determine the operational condition of the system was 
+satisfactory, Baseline M&V data was collected and recorded by the M&V team. Four hundred hours after installation of 
+PermaFrost NMR® ECM, the M&V team returned on a very similar weather day to the Baseline to take Post M&V 
+measurements in the identical fashion as in the Baseline. The delta of these measurements and associated calculations 
+show the amount of capacity restored.
+The following IPMVP data points were recorded on 26 June 2014 using recently calibrated devices by NIST (National 
+Institutes of Standards and Technology) to insure measurement accuracy. The PU unit was then treated with 
+PermaFrost NMR® on the same day and allowed to run at 67% load running two of the three compressors until 25 
+August 2014 to ensure the patented surface science nanotechnology had ample time to seat into all the metal surfaces of 
+the heat exchangers. All measurements were taken at 67% load and at similar return air and outdoor air temperatures. 
+The collection of the data in both the baseline and post periods was collected by Powertron Global® under the watchful eye 
+of the NKGF technician who maintains the unit. The measurements are listed below. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 005 ═══
+
+®
+4
+Summary of HVAC/R Eﬃciency Study Results
+PU Unit Eﬃciency with PermaFrost NMR® ECM
+NKGF has the problem of thermal degradation in its HVAC/R units.  The lower operating tonnage and COP 
+ratings measured on site are in line with the ASHRAE loss of performance and cost to operate numbers. The 
+degraded equipment performance is costing NKGF significant money and wasting energy. The equipment is 
+using significantly more kWh to operate than it used when it was new. 
+The performance summary includes the measured efficiency and tonnage of the PU unit in the baseline and 
+post testing periods demonstrating the impact of thermal degradation. 
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 7.9 operating tons and an 
+improvement of 54% in Coefficient of Performance (COP), significantly reducing the cost to operate the PU unit 
+throughout the year.
+The HVAC Equipment Manufacturer PU unit treated has a nominal capacity of 35 tons at 100% load at 85 degree entering air. During the 
+testing period the system was operating at 67% load utilizing two of the three compressors. Since normal 
+operations were not to be changed to accommodate the pilot, the emphasis here is on the delta between 
+baseline and post.  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 006 ═══
+
+®
+5
+14.3 tons
+22.2 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The PU should be operating @ 23.4 tons of cooling capacity
+• The PU was operating @ 14.3 tons of cooling capacity prior to
+   installing ECM
+• The PU now has 7.9 tons of restored cooling capacity after ECM
+• The PU should be operating @ 3 COP or higher
+• The PU was operating @ 1.74 COP prior to the ECM
+   and 2.68 following the ECM
+• The average COP of the PU was increased by 54%
+   following the ECM
+1.74
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+14.3
+tons Baseline
+CAPACITY
+@ 67%
+LOAD
+Baseline
+COP
+Post ECM
+COP
+1.74
+2.68
+2.68
+Post ECM COP
+22.2
+tons Post ECM
+54%
+Improvement
+in COP
+7.9
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+NKGF PU Eﬃciency with PermaFrost NMR® ECM
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 007 ═══
+
+®
+Recovered
+Energy
+Equating
+to 35.1%
+6
+Recovered Wasted Energy with PermaFrost NMR® -  PU Unit
+The chart to the right illustrates the performance 
+restoration the PermaFrost NMR® created in the 
+treated PU unit. The average cost to operate this unit 
+before it was treated with PermaFrost NMR®, as 
+calculated in kW/ton, was 2.02.
+The specific cost to operate this unit after it was 
+treated with PermaFrost NMR®, as calculated in 
+kW/ton, is currently 1.31.
+The higher baseline kW/ton rating measured in-situ 
+was expected when compared to the ASHRAE loss of 
+performance efficiency and cost to operate estimate 
+for a 21 year old PU unit. The post results are also in 
+line with the average improvement savings shown 
+over more than 125,000 installations globally.
+Cost to Operate
+kW/ton
+.71  kw/ton
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+Baseline
+Post ECM
+2.02
+1.31
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 008 ═══
+
+®
+Energy Consumption & Financial Metrics
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the NKGF PU Unit.
+Baseline Energy Consumption
+Baseline Tonnage: 14.3 tons
+Adjusted kW Baseline: 2.02 kW/ton * 22.2 tons = 44.84 kW
+Adjusted Baseline kWh: 44.84 kW * 1,600 Annual Operating Hrs = 71,744 kWh
+Revised Cost to Run Baseline: 71,744 kWh * $.31 = $22,241
+Post Energy Consumption
+kW Post: 1.31 kW/ton * 22.2 tons = 29.08 kW
+Annual kWh Post: 29.09 kW * 1,600 hours = 46,544 kWh
+Annual Cost Post: 46,544 kWh * .31 cents = $14,429
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $22,241 - $14,429 = $7,812
+Estimated Energy Savings Per Month: $7,812 / 12 = $651
+Initial Payback Period
+Cost of PermaFrost NMR® installed in the pilot PU unit: $4,375
+Estimated Initial Payback Period for Pilot PU Unit: $4,375 / 651= 6.7 months
+Annual Internal Rate of Return = 179%
+Return on Investment Over 5 Years = 893%
+Utilizing data in the charts on the previous and subsequent pages, to obtain a true avoided energy cost and subsequent 
+payback period for NKGF for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to 
+calculate the true energy savings resulting from the improvement in capacity. This increased capacity reduces the 
+annual kWh expended in the Post Analysis Period. ROI comes from determining what the cost to run the systems was 
+when operating at the original energy profile to produce the newly restored amount of available tonnage capacity and 
+then subtracting the revised cost to run the systems at the same restored tonnage after the PermaFrostNMR® ECM was 
+installed. This regression analysis is the most widely accepted method of accounting for the reduced number of hours the 
+systems will now operate due to the restored capacity. This restored capacity allows the systems to reach the internal 
+building set points with increased efficiency resulting in reduced compressor demand loading.
+7
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 009 ═══
+
+®
+Key Results for PU Unit with PermaFrost NMR® ECM
+8
+211.6
+96.0
+93.5
+31.8
+79.5
+57.4
+142.6
+73.9
+56.9
+61.1
+52.3
+27.22
+21.62
+5.6
+25.1
+29.86
+29.09
+1.31
+22.2
+10,572
+46,544
+67
+84
+2.81
+0.037
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Adj Amps for Warmer Post OAT 
+ 
+Suction Temperature  
+Discharge Temperature 
+ 
+Suction Pressure 
+ 
+Discharge Pressure 
+ 
+Entering Air DB 
+ 
+Leaving Air DB 
+ 
+Entering Air WB 
+ 
+Leaving Air WB 
+ 
+Enthalpy of Entering WB 
+ 
+Enthalpy of Leaving WB 
+ 
+Delta-T of Enthalpy 
+ 
+Evaporator Approach  
+kW (V x A x 1.47)/1000 
+ 
+Adj KW (V x Adj A x 1.47)/1000 
+ 
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Unit CFM 
+ 
+Annual kWh (Before Regression Analysis) 
+ 
+Unit % Load During Testing  
+OAT 
+ 
+Coeﬃcient of Performance (COP)  
+Adj for Warmer Post OAT 
+ 
+209.8
+93.4
+33.6
+96
+59.9
+184.9
+73.2
+61.2
+61.6
+56.2
+27.57
+23.97
+3.6
+27.6
+28.81
+2.02
+14.3
+10,572
+46,088
+67
+81
+1.74
+2.02
+POST
+BASELINE
+1.31
+kW/ton
+REDUCTION
+35.1%
+REDUCTION
+REDUCTION
+POST
+BASELINE
+35.1%
+55.6%
+POST
+BASELINE
+Enthalpy Delta
+IMPROVEMENT
+POST
+BASELINE
+27.6
+Refrigerant Approach
+9.1%
+3.6
+71,744
+46,544
+25.1
+5.6
+Calculated Annual kWh
+HVAC Equipment Manufacturer
+SCWD03560GO
+T93E01169
+R22
+22.3
+1,600
+1993
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+Notes
+The pilot PU unit provides cooling to an office 
+floor at the NKGF complex. Given the 
+consistent building load, the pilot unit runs 
+approximately 1,600 hours or more annually 
+prior to PermaFrost NMR® being implemented.
+RTU Load in both the Baseline and Post was 67%.  OAT 
+was warmer in the Post so Post Amps were reduced 
+slightly to adjust for this. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 010 ═══
+
+®
+3.7
+Passenger vehicles
+0.9
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+1,955
+Gallons of gasoline
+consumed
+18,665
+Pounds of coal burned
+annually
+40.4
+Barrels of oil
+consumed
+1.6
+Homes’ electricity use for
+one year
+9
+NKGF is Saving More than Just Energy
+By treating just the pilot PU unit with PermaFrost NMR®, based on the current manner NKGF operates this 
+unit, it will save approximately 25,200 kWh per year and all the costs associated with those savings. From an 
+environmental impact standpoint, NKGF is also benefitting the surrounding community of [NYC Location]. 
+Imagine how great the environmental impact will be when NKGF moves forward with treating all their 
+climate control systems across the USA.
+The 25,200 kWh saved per year equates to preventing 9.48 metric tons of greenhouse gas emissions from 
+being released or any of the following:
+Annual greenhouse emissions from:
+CO2 emissions from:
+.10
+Railcars worth
+of coal burned
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+

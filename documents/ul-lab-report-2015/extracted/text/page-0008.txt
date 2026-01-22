@@ -1,0 +1,243 @@
+This is a report provided to customer and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2015 Powertron Global LLC. Please be aware 
+that our companies have a non-disclosure agreement in place and this document is covered under that agreement. This document is not to be distributed to any 
+third party and is not to be in the public domain without our written approval. 
+Specific Volume V'n 
+13.645 
+13.649 
+13.6497 
+13.6479 
+V'n 
+Unit Air Flow  
+3084.19 
+3084.19 
+3084.19 
+3084.19 
+CFM 
+Calc Capacity 
+76833.34 
+76652.91 
+76639.04 
+76708.43 
+BTU/Hr 
+Calc Sensible Cap 
+58790.83 
+58557.67 
+58557.67 
+58635.39 
+BTU/Hr 
+Calc Latent Cap 
+18042.51 
+18095.24 
+18081.37 
+18073.04 
+BTU/Hr 
+Duct Loss 
+352.9 
+351.5 
+351.6 
+352 
+BTU/Hr 
+Total Capacity 
+77186.24 
+77004.41 
+76990.64 
+77060.43 
+BTU/Hr 
+Average Watts of Test Unit 
+(TOTAL) 
+9667.8 
+9685.7 
+9681.1 
+9678.2 
+W 
+EER 
+7.98 
+7.95 
+7.95 
+7.96 
+BTU/Hr·W 
+Outdoor 
+  
+  
+  
+  
+  
+Average Outdoor Inlet Drybulb 
+95.00 
+95.01 
+94.99 
+95.00 
+°F 
+Average Outdoor Inlet Wetbulb 
+74.98 
+75.01 
+74.99 
+74.99 
+°F 
+Refrigerant Pressures/Temperatures 
+  
+  
+  
+  
+C1 Discharge PSIG 
+304.36 
+304.93 
+304.82 
+304.70 
+PSIG 
+C1 Discharge Temp 
+133.20 
+133.40 
+133.40 
+133.33 
+oF 
+C1 Suction PSIG 
+69.11 
+69.11 
+69.10 
+69.11 
+PSIG 
+C1 Suction Temp 
+40.30 
+40.30 
+40.30 
+40.30 
+oF 
+SuperHeat 
+12.67 
+13.89 
+13.44 
+13.33 
+oF 
+Other Measurements 
+  
+  
+  
+  
+  
+Nozzle Temp 
+62.73 
+62.71 
+62.7 
+62.71 
+oF 
+ID Ent TC 1 
+80.78 
+80.69 
+80.78 
+80.75 
+oF 
+ID Ent TC 2 
+80.81 
+80.78 
+80.81 
+80.8 
+oF 
+ID Ent TC 3 
+80.71 
+80.6 
+80.69 
+80.67 
+oF 
+ID Ent TC 4 
+80.47 
+80.31 
+80.42 
+80.4 
+oF 
+ID Ent TC 5 
+80.61 
+80.39 
+80.54 
+80.52 
+oF 
+OD Ent TC 1 
+95.32 
+95.27 
+95.21 
+95.27 
+oF 
+OD Ent TC 2 
+94.5 
+94.36 
+94.43 
+94.43 
+oF 
+OD Ent TC 3 
+95.96 
+95.74 
+95.82 
+95.84 
+oF 
+OD Ent TC 4 
+94.76 
+94.58 
+94.74 
+94.69 
+oF 
+OD Ent TC 5 
+93.54 
+93.23 
+93.43 
+93.4 
+oF 
+OD Ent TC 6 
+95.43 
+95.22 
+95.18 
+95.28 
+oF 
+OD Ent TC 7 
+94.92 
+94.67 
+94.73 
+94.77 
+oF 
+Power Measurements 
+  
+  
+  
+  
+  
+VOLT ab 
+208.3 
+208.3 
+208.2 
+208.3 
+V 
+VOLT bc 
+208.8 
+208.8 
+208.7 
+208.8 
+V 
+VOLT ca 
+208.6 
+208.6 
+208.5 
+208.6 
+V 
+AMPS a 
+30.5 
+30.5 
+30.5 
+30.5 
+A 
+AMPS b 
+29.5 
+29.6 
+29.6 
+29.6 
+A 
+AMPS c 
+29.6 
+29.6 
+29.6 
+29.6 
+A 
+WMajor Telecom AS Total  
+9667.8 
+9685.7 
+9681.1 
+9678.2 
+W 

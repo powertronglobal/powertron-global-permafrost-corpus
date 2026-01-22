@@ -1,0 +1,73 @@
+ 
+IPMVP Framework and Options       19 
+ 
+Two Options are presented for isolating the energy use of the equipment affected by an ECM 
+from the energy use of the rest of the facility: 
+ 
+Option A: Retrofit Isolation: Key Parameter Measurement (See Chapter 4.8.1) 
+ 
+Option B:  Retrofit Isolation: All Parameter Measurement (See Chapter 4.8.2) 
+Isolation metering is placed at the measurement boundary between equipment which the ECM 
+affects and equipment which it does not affect.  
+When drawing a measurement boundary, care 
+should be taken to consider any energy flows 
+affected by the ECM but beyond the boundary. A 
+method must be derived for estimating such 
+interactive effects (See Chapter 4.4). For 
+example, a lighting load reduction often reduces 
+HVAC system energy use, but the only 
+reasonable measurement boundary would 
+encompass just the electricity use of the lights, 
+not their heating and cooling energy impacts. In 
+this case the ECM’s effect on HVAC energy 
+requirements is an interactive effect, which must 
+be assessed. If the interactive effect is expected 
+to be significant, engineering estimates could be 
+made of the interactive effect as some fraction of 
+the measured lighting-energy savings. 
+Conventional heating and cooling calculations 
+would be used to determine the appropriate 
+fraction(s) for each season. However if the 
+measurement boundary can be expanded to 
+encompass interactive effects, there is no need to 
+estimate them. 
+Apart from small estimated interactive effects, the measurement boundary defines the metering 
+points and the scope of any adjustments, which may be used in the various forms of Equation 
+1). Only changes to energy systems and operating variables within the measurement boundary 
+must be monitored to prepare the adjustments term(s) of Equation 1).   
+Chapter 4.5 discusses measurement periods, generally. Parameters may be continuously 
+measured or periodically measured for short periods. The expected amount of variation in the 
+parameter will govern the decision of whether to measure continuously or periodically. Where a 
+parameter is not expected to change it may be measured immediately after ECM installation 
+and checked occasionally throughout the reporting period. The frequency of this checking can 
+be determined by beginning with frequent measurements to verify that the parameter is 
+constant. Once proven constant, the frequency of measurement may be reduced. To maintain 
+control on savings as measurement frequency drops, more frequent inspections or other tests 
+might be undertaken to verify proper operations. 
+Continuous metering provides greater certainty in reported savings and more data about 
+equipment operation. This information can be used to improve or optimize the operation of the 
+equipment on a real-time basis, thereby improving the benefit of the ECM itself. Results from 
+several studies have shown five to fifteen percent annual energy savings can be achieved 
+through careful use of continuous data logging (Claridge et al. 1994, 1996; Haberl et al. 1995).  
+If measurement is not continuous and meters are removed between readings, the location of the 
+measurement and the specifications of the measurement device should be recorded in the M&V 
+Plan, along with the procedure for calibrating the meter being used. Where a parameter is 
+expected to be constant, measurement intervals can be short and occasional. Electric motors in 
+Retrofit Isolation Example 
+A boiler is replaced with a more 
+efficient one. A measurement 
+boundary is drawn around just the 
+boiler so that the assessment of 
+the new boiler is unaffected by 
+variations in the heating load of the 
+whole facility.  
+Meters for fuel consumption and 
+boiler heat output are all that are 
+needed to assess the efficiencies 
+of the two boilers over their full 
+range of operations. Savings are 
+reported for the boiler retrofit by 
+applying the observed efficiency 
+improvement to an estimated 
+annual boiler load. The boiler 
+efficiency test is repeated annually.  

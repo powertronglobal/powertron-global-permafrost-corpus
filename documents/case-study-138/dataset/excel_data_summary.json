@@ -1,0 +1,55 @@
+{
+  "excel_files": [
+    {
+      "source_file": "DHU 9 TESTED baseline and post data.xlsx",
+      "description": "DHU 9 Treated Unit Data",
+      "sheets": [
+        "Big Box Retailer A DHU 9 TESTED.csv"
+      ],
+      "sheet_summaries": {
+        "Big Box Retailer A DHU 9 TESTED.csv": {
+          "rows": 92909,
+          "columns": 24,
+          "column_names": [
+            "HVAC Performance Comparison",
+            "Unnamed: 1",
+            "Big Box Retailer A DHU 9 Kit 4 TESTED ",
+            "Unnamed: 3",
+            "Unnamed: 4",
+            "Unnamed: 5",
+            "Unnamed: 6",
+            "Unnamed: 7",
+            "Unnamed: 8",
+            "Unnamed: 9"
+          ]
+        }
+      }
+    },
+    {
+      "source_file": "DX sample DHU16 CONTROL - baseline and post data.xlsx",
+      "description": "DHU 16 Control Unit Data",
+      "sheets": [
+        "DX sample DHU16 CONTROL.csv"
+      ],
+      "sheet_summaries": {
+        "DX sample DHU16 CONTROL.csv": {
+          "rows": 85945,
+          "columns": 24,
+          "column_names": [
+            "HVAC Performance Comparison",
+            "Unnamed: 1",
+            "DHU 16 Kit 3 CONTROL",
+            "Unnamed: 3",
+            "Unnamed: 4",
+            "Unnamed: 5",
+            "Unnamed: 6",
+            "Unnamed: 7",
+            "Unnamed: 8",
+            "Unnamed: 9"
+          ]
+        }
+      }
+    }
+  ],
+  "note": "Time-series measurement data from field study"
+}

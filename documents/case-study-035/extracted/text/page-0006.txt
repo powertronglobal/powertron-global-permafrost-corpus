@@ -1,0 +1,47 @@
+Recovered
+Energy
+5
+Recovered Wasted Energy with ECM – 3 RTUs
+The chart to the right illustrates the performance
+restoration the ECM created in the treated RTUs.
+The average cost to operate these RTUs before 
+they were treated with PermaFrost NMR® as 
+calculated in kW/ton was 1.38.
+The specific cost to operate these RTUs after they 
+were been treated with PermaFrost NMR® as 
+calculated in kW/ton is currently 1.07.
+The baseline kW/ton ratings measured in-situ were 
+expected when compared to the ASHRAE loss of 
+performance efficiency and cost to operate estimations 
+for 11 year old equipment. The post results are also in 
+line with the average improvement savings shown 
+over more than 120,000 installations globally.  
+Cost Savings for Major US Warehouse Retailer when Implementing ECM Portfolio-wide in HVAC
+The [Southeast Facility] is outfitted with 339 tons of HVAC, however nearly 100 tons of this cooling capacity is 
+rarely if ever used. The amount of ECM required to treat this facility was 240 ounces. The average amount of 
+tonnage per Major US Warehouse Retailer facility is likely closer to this amount or 240 ounces. 
+Cost to Operate
+Baseline
+Post ECM
+kW/ton
+.31 kw/ton
+Adj. Annual kWh Savings for All [Southeast Location] HVAC Units
+Adj. Annual Cost Savings for All [Southeast Location] HVAC Units
+Annual Cost Savings for Major US Warehouse Retailer’s 350 Store Eastern Region
+Estimated Cost for Eastern Region PermaFrost NMR Treatment
+236,506 
+$24,833 
+$8,000,000 to $10,000,000
+$8,500,000 to $10,500,000
+Annual Savings Value
+Portfolio Eﬀects of ECM
+0.0
+0.3
+0.6
+0.9
+1.2
+1.5
+1.38
+1.07
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

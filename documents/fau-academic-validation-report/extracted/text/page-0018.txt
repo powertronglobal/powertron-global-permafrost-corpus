@@ -1,0 +1,50 @@
+ 
+18 
+ 
+Large Multinational Bank, [Brazil Location].  Eight (8) DX units ranging from 15 to 40 tons 
+in size equipped with R-22 DX and R-438A systems. It was determined to demonstrate the 
+performance of the product in both administrative and branch type buildings.  
+ 
+Package Unit #1  
+Make – Bitzer 
+Model – 19XL5353463CQ 
+Refrigerant Type – R22 
+Nominal Cooling Capacity Btuh/tons 180,000 / 15 
+1,482 Annual Operating hrs 
+ 
+Package Unit #2  
+Make – HVAC Equipment Manufacturer 
+Model (indoor unit / outdoor unit) – CAVA150 
+Refrigerant Type – R22 
+Nominal Cooling Capacity Btuh/Tons – 180,000/15 
+1,482 Annual Operating hrs 
+ 
+Package Unit #3  
+Make – Bitzer 
+Model (indoor unit / outdoor unit):  
+Refrigerant Type – R22 
+Nominal Cooling Capacity Btuh/Tons – 180,000 / 15 
+1,482 Annual Operating hrs 
+ 
+Cashier’s Unit  
+Make – Carrier SA 
+Model (indoor unit / outdoor unit) – 40BXA16226B 
+Refrigerant Type – R22 
+Nominal Cooling Capacity Btuh/Tons – 240,000/20 
+1,482 Annual Operating hrs 
+ 
+Manager’s Unit  
+Make – Carrier SA 
+Model (indoor unit / outdoor unit) – 40BXA16226B 
+Refrigerant Type – R22 
+Nominal Cooling Capacity Btuh/Tons – 240,000/20 
+1,482 Annual Operating hrs 
+ 
+Unit #32  
+Make  –HVAC Equipment Manufacturer 
+Model (indoor unit / outdoor unit) – SAVE300-2T 
+Refrigerant Type – R-438A 
+Nominal Cooling Capacity Btuh/Tons:  360,000/30 
+Annual Operating hrs = 176,506 kWh 
+ 
+Unit #34  

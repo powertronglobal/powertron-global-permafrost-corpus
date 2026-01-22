@@ -1,0 +1,153 @@
+®
+0.8
+POST
+BASELINE
+0.71
+kW/ton
+REDUCTION
+11.3%
+REDUCTION
+POST
+BASELINE
+11.2%
+11.5%
+POST
+BASELINE
+Enthalpy Delta
+IMPROVEMENT
+11.3
+32.43
+36.06
+112,139
+12.6
+Results for RTU #50 After Treatment with PermaFrost NMR®
+HVAC Equipment Manufacturer
+YCD300B4L
+334101021D
+R22
+25
+4,380
+2003
+System Description
+Manufacturer
+Model Number
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+479.5
+36.1
+36.6
+42.8
+123.8
+72.8
+273.5
+78
+52.5
+66
+46.1
+30.83
+18.21
+12.62
+9.7
+25.45
+25.60
+0.71
+36.06
+7,620
+112,139
+100
+77
+123.8
+0.018
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Adj Amps for Cooler Post OAT 
+ 
+Suction Temperature  
+Discharge Temperature 
+ 
+Suction Pressure 
+ 
+Discharge Pressure 
+ 
+Entering Air DB 
+ 
+Leaving Air DB 
+ 
+Entering Air WB 
+ 
+Leaving Air WB 
+ 
+Enthalpy of Entering WB 
+ 
+Enthalpy of Leaving WB 
+ 
+Delta-T of Enthalpy 
+ 
+Evaporator Approach  
+kW (V x A x 1.47) 
+ 
+Adjusted kW  
+kW / Ton 
+ 
+Actual Measured Operating Tons 
+ 
+Unit CFM 
+ 
+Adjusted Annual kWh  
+ 
+Unit % Load During Testing  
+OAT 
+ 
+Adj for Diﬀerences in CDR Pressures 
+ 
+Adj for Cooler Post on Condenser Coils 
+ 
+477.0
+37.0
+40.6
+126.1
+69.5
+282.2
+78
+56.4
+68.1
+51.5
+32.5
+21.15
+11.35
+15.8
+25.97
+28.85
+0.80
+32.43
+7,620
+126,363
+100
+87
+126.1
+11
+Notes
+The pilot unit provides cooling to working 
+spaces on the 1st floor at Retail Chain C complex. Given 
+the average building load, the pilot unit runs 
+approximately 4,380 hours or more annually 
+prior to the ECM being implemented.
+IMPROVEMENT
+POST
+BASELINE
+126,363
+Calculated Annual kWh 
+11.3%
+Tonnage
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,51 @@
+®
+This is a report provided to Beverage Company B Factory and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2014 Powertron Global LLC.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement.
+This document is not to be distributed to any third party and is not to be in the pubic domain without our written approval.
+5
+29.69 kWR
+36.87 kWR
+Baseline
+kWR
+Post ECM
+kWR
+• The PU should be operating @ 70.34 kWR of cooling capacity
+• The PU was operating @ 29.69 kWR of cooling capacity prior to
+   installing ECM
+• The PU now has 7.18 kWR of restored cooling capacity after ECM
+• The PU should be operating @ 3.5 COP or higher
+• The PU was operating @ 1.57 COP prior to the ECM
+   and 1.95 following the ECM
+• The COP of the PU was increased by 24.19% following
+   the ECM
+1.57
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+29.69
+Baseline
+100%
+CAPACITY @
+100% LOAD
+Baseline
+COP
+Post ECM
+COP
+1.57
+1.95
+1.95
+Post ECM COP
+36.87
+kWR Post ECM
+24.19%
+Improvement
+in COP
+7.18
+kWR of
+Recovered
+ Capacity
+kWR
+COP
+Tea Factory PU Eﬃciency with PermaFrost NMR® ECM

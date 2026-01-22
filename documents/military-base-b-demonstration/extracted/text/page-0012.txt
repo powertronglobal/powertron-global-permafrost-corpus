@@ -1,0 +1,281 @@
+Appendix B
+Weather Data from Military Base B
+9
+ 
+ 
+ 
+ 
+ 
+ 
+3:55 PM, Mon  
+70° 
+57° 
+64% 
+30.12in       10mi      12000ft 
+N 
+0mph 
+Overcast 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0mph 
+ 
+3:14 PM, Mon  
+68° 
+57° 
+68% 
+30.15in       12mi      v12000ft 
+S 
+0mph 
+Overcast Scattered Showers
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5mph 
+ 
+2:55 PM, Mon  
+68° 
+57° 
+68% 
+30.15in       12mi      12000ft 
+SSW 
+0mph 
+Overcast Rain Showers
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6mph 
+ 
+2:43 PM, Mon  
+68° 
+57° 
+68% 
+30.15in       12mi      12000ft 
+S 
+0mph 
+Overcast Rain Showers
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7mph 
+ 
+1:55 PM, Mon  
+70° 
+57° 
+64% 
+30.15in       12mi      12000ft 
+S 
+0mph 
+Overcast Scattered Showers
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10mph  
+1:01 PM, Mon  
+75° 
+59° 
+57% 
+30.15in       12mi      11000ft 
+SSE 
+0mph 
+Broken Clouds Scattered 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13mph  
+Showers  
+12:31 PM, Mon  73° 
+61° 
+65% 
+30.15in       12mi      10000ft 
+SE 
+0mph 
+Broken Clouds Thunderstorm
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8mph 
+ 
+11:55 AM, Mon  75° 
+59° 
+57% 
+30.15in       12mi      Unlft 
+ESE 
+0mph 
+Few Clouds Scattered 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8mph 
+ 
+Showers  
+10:55 AM, Mon  72° 
+61° 
+69% 
+30.18in       12mi     Unlft  
+E 
+0mph 
+Few Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7mph 
+ 
+9:55 AM, Mon  70° 
+63° 
+78% 
+30.18in       12mi     Unlft  
+NE 
+0mph 
+Scattered Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5mph 
+ 
+8:55 AM, Mon  68° 
+63° 
+83% 
+30.15in       12mi     Unlft  
+ESE 
+0mph 
+Scattered Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6mph 
+ 
+7:55 AM, Mon  63° 
+61° 
+94% 
+30.15in       12mi     13000ft 
+N 
+0mph 
+Broken Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0mph 
+ 
+6:55 AM, Mon  61° 
+57° 
+88% 
+30.12in       12mi     13000ft 
+N 
+0mph 
+Broken Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0mph 
+ 
+5:55 AM, Mon  59° 
+57° 
+94% 
+30.12in       12mi     12000ft 
+NNW 
+0mph 
+Broken Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5mph 
+ 
+4:56 AM, Mon  61° 
+57° 
+88% 
+30.12in       12mi     10000ft 
+NNW 
+0mph 
+Broken Clouds 
+20-Jul-09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2mph 
+ 
+Date/Time
+Temp
+Dew Point
+Relative
+Humidity
+Pressure
+Visibility
+Ceiling
+Wind
+Gust
+Weather

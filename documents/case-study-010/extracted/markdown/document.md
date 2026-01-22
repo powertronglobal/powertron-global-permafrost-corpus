@@ -1,0 +1,797 @@
+# Beverage Company Tea PermaFrost Performance Report.pdf
+
+Energy Science Division
+
+®
+
+Energy Eﬃciency Study
+
+PermaFrost NMR® Energy Conservation Measure (ECM)
+
+Beverage Company BEVERAGES – BEVERAGE COMPANY B FACTORY
+
+This is a report provided to Beverage Company B Factory and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2014 Powertron Global LLC.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement.
+This document is not to be distributed to any third party and is not to be in the pubic domain without our written approval.
+
+Participants
+
+Study Date:
+
+1 May – 23 July 2014
+
+Participants:
+
+Beverage Company / Beverage Company Beverages
+
+[Client Director of Engineering],
+
+Director of Engineering
+
+HVAC Contractor B
+
+[Client Mechanical Engineer],
+
+Mechanical Engineer
+
+Powertron Global
+
+[Senior Energy Engineer],
+
+Director of Engineering
+
+Location:
+
+[Factory Address]
+
+[South Africa Location]
+
+---
+
+®
+
+This is a report provided to Beverage Company B Factory and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2014 Powertron Global LLC.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement.
+This document is not to be distributed to any third party and is not to be in the pubic domain without our written approval.
+
+HVAC/R Eﬃciency Report
+
+Purpose of Energy Eﬃciency Study
+
+Thermal degradation is well documented by the American Society of Heating, Refrigeration and Air
+
+Conditioning Engineers (ASHRAE) and the original equipment manufacturers (OEM’s). It is a major cause of
+
+capacity loss in Heating, Ventilation, Air Conditioning and Refrigeration (HVACR) systems, preventing them
+
+from operating at the original design efficiency soon after initial installation in the field.
+
+The purpose of this study is to verify the effectiveness of the PermaFrost NMR® Energy Conservation Measure
+
+(ECM) in a water-cooled package unit at the Beverage Company/Beverage Company Beverage Company B Factory and document the future
+
+avoided energy costs associated with the same.
+
+1
+
+Image is one of the 13 TECO PU’s supporting the packaging section
+
+of the Beverage Company B Factory with the heavy duty industrial filters and
+
+front access panel removed before beginning testing. This PU was
+
+forensically tested using the IPMVP methodology to determine its
+
+performance capabilities after seven (7) years in the field.
+
+HVAC Contractor B technician collecting critical airflow measurements on
+
+one of the RTUs involved in the Beverage Company B Factory pilot. All
+
+data was recorded while both compressors were running at 100%.
+
+---
+
+®
+
+This is a report provided to Beverage Company B Factory and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2014 Powertron Global LLC.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement.
+This document is not to be distributed to any third party and is not to be in the pubic domain without our written approval.
+2
+
+Process
+
+This comprehensive report contains specific information regarding the performance profile of a single water
+
+cooled packaged unit (PU) that supports the Beverage Company B Factory. The detailed performance testing (outlined
+
+later in this report) was performed on the PU before (baseline) and after (post) the installation of PermaFrost
+
+NMR®.
+
+This testing determined the impact on three key elements relating to the original design specifications that
+
+greatly affect the HVAC portion of the Beverage Company B Factory power bill. They include:
+
+1. The cooling capacity the PU is capable of producing after just seven (7) years in service.
+
+2. The actual cost of power required to produce the amount of cooling the PU is delivering as
+
+reflected in the kWEnergy / kWRefrigeration measurement.
+
+3. The thermal dynamic ability of the equipment to still perform at or close to operational design.
+
+Methodology
+
+The measurements used in the efficiency calculations were collected and compiled in accordance with the
+
+IPMVP (International Measurement and Verification Protocol) framework.
+
+[Client Director of Engineering] of Beverage Company and [Client Mechanical Engineer] of HVAC Contractor B witnessed and verified the recording of all of the
+
+pilot measurements while being observed by Powertron Global’s Director of Engineering, [Senior Energy Engineer].
+
+The baseline day chosen to test the PU’s was an average day temperature and humidity-wise for the local
+
+area in the autumn and winter which ensured repeatability of similar weather for the post testing
+
+measurements.  The weather and factory conditions on both days provided an adequate heat load on the
+
+facility to ensure both compressors in the system would remain running during the actual data collection
+
+period. The boundary of the testing was the PU and nothing else; therefore confidence in the accuracy of the
+
+performance calculations is very high.
+
+---
+
+®
+
+This is a report provided to Beverage Company B Factory and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2014 Powertron Global LLC.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement.
+This document is not to be distributed to any third party and is not to be in the pubic domain without our written approval.
+3
+
+Energy Conservation Method (ECM)
+
+The content detailed in the first phase of this report will first demonstrate the ability of the pilot PU to perform
+
+prior to the ECM being installed, as well as illustrate the amount of thermal degradation due in large part to
+
+thermal degradation within the heat exchangers.
+
+Following a diagnostic examination of the pilot equipment to determine the operational condition of the
+
+system was satisfactory, Baseline M&V data was collected and recorded by the M&V team. Approximately 3
+
+months after installation of PermaFrost NMR®, the M&V team returned on a very similar weather day to the
+
+Baseline to take Post M&V measurements in the identical fashion as in the Baseline. The delta of these
+
+measurements and associated calculations show the amount of capacity restored.
+
+The following report produces the utilization of the IPMVP as the M&V plan.
+
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+
+• kWE = Volts * Amps * Power Factor *  √3
+
+• kWR = (Airflow * 1 * Enthalpy Delta) * 4.185
+
+• kWE /kWR = Actual Cooling Capacity
+
+• Coefficient of Performance (COP) = 1 / Actual Cooling Capacity
+
+---
+
+®
+
+This is a report provided to Beverage Company B Factory and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2014 Powertron Global LLC.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement.
+This document is not to be distributed to any third party and is not to be in the pubic domain without our written approval.
+4
+
+HVAC/R Eﬃciency Study Results
+
+Calculated Eﬃciency of Tea Factory HVAC PU Baseline and Post
+
+The measurements taken show just how far off design the Tea Factory pilot PU (#79) had degraded in terms
+
+of efficiency over seven (7) years of use. This same pilot PU was determined to be performing at an average of
+
+42% of the original design efficiency in the baseline. The actual design rated tonnage of the PU is 70.34 kWR. In
+
+actuality, the PU was only producing a total of 29.69 kWR of cooling at the start of the pilot. Approximately half
+
+of this 58% efficiency loss is directly attributable to the thermal degradation of the heat exchange surfaces over
+
+a short period of time. This is due in large part to thermal degradation which creates an insulating barrier to heat
+
+transfer on the tube walls (inside the tube on a Direct Expansion system and outside the tube on a flooded
+
+evaporator chiller). The remaining efficiency loss is a result of the reduced inlet and outlet air ducting
+
+configuration used in conjunction with this and all the other PU’s in the factory. The actual airflow across the
+
+coil in the PU is only about 50% of design so the focus of this in-situ pilot will be on the improvement delta
+
+over the baseline rather than against design.
+
+After the ECM was installed, the average efficiency in the PU increased to 52% of design specifications,
+
+equating to 36.87 kWR. The restoration of 8.44 kWR represents a 28.4% increase in capacity.
+
+Cost to Beverage Company to Operate the Tea Factory HVAC PU Baseline vs Post
+
+The degraded capacity described above prior to PermaFrost NMR® being implemented was costing the Tea
+
+Factory a similar amount in the way of wasted energy each hour the PU was operating. The average cost to
+
+operate the pilot PU as calculated in kWE/kWR was 0.64 in the Baseline. When new, the kWE/kWR rating for
+
+units like these usually ranges from 0.25 – 0.35 kWE/kWR when the proper sized ducting is used.
+
+The restored average kWE/kWR rating following the ECM is now 0.51. This represents a 20.3% reduction in
+
+energy costs from the baseline for every kWR of cooling produced. This will result in an initial payback period
+
+(IPP) to the Tea Factory of 23.64 months and an internal rate of Return (IRR) of 54.3%. Extrapolated out over
+
+just the next five (5) years, this ECM project will net the Tea Factory a substantial ROI of 272% on their
+
+investment. These accumulated savings will greatly reduce the eventual CapEx costs to replace the PU’s when
+
+they finally reach the end of their useful life.
+
+---
+
+®
+
+This is a report provided to Beverage Company B Factory and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2014 Powertron Global LLC.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement.
+This document is not to be distributed to any third party and is not to be in the pubic domain without our written approval.
+5
+
+29.69 kWR
+
+36.87 kWR
+
+Baseline
+kWR
+
+Post ECM
+kWR
+
+• The PU should be operating @ 70.34 kWR of cooling capacity
+
+• The PU was operating @ 29.69 kWR of cooling capacity prior to
+
+installing ECM
+
+• The PU now has 7.18 kWR of restored cooling capacity after ECM
+
+• The PU should be operating @ 3.5 COP or higher
+
+• The PU was operating @ 1.57 COP prior to the ECM
+
+and 1.95 following the ECM
+
+• The COP of the PU was increased by 24.19% following
+
+the ECM
+
+1.57
+Baseline COP
+
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+29.69
+
+Baseline
+
+100%
+CAPACITY @
+100% LOAD
+
+Baseline
+COP
+
+Post ECM
+COP
+
+1.57
+
+1.95
+
+1.95
+Post ECM COP
+36.87
+kWR Post ECM
+
+24.19%
+
+Improvement
+in COP
+7.18
+
+kWR of
+Recovered
+ Capacity
+
+kWR
+COP
+
+Tea Factory PU Eﬃciency with PermaFrost NMR® ECM
+
+---
+
+®
+
+This is a report provided to Beverage Company B Factory and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2014 Powertron Global LLC.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement.
+This document is not to be distributed to any third party and is not to be in the pubic domain without our written approval.
+
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+0.8
+
+6
+
+Recovered Wasted Energy with PermaFrost NMR®
+
+The chart to the right illustrates the performance
+
+restoration PermaFrost NMR® created in the treated
+
+PU. The average cost to operate this PU before
+
+it was treated with PermaFrost NMR®, as
+
+calculated in kWE/kWR, was 0.64.
+
+The specific cost to operate this PU after it was
+
+treated with PermaFrost NMR®, as calculated
+
+in kkWE/kWR, is currently 0.51.
+
+After factoring in the amount of loss in this system due to improperly sized ducting, the baseline
+
+kWE/kWR ratings measured in-situ were expected when compared to the ASHRAE loss of performance
+
+efficiency and cost to operate estimations for seven (7) year old equipment. The post results are also in line
+
+with the average improvement savings shown over more than 125,000 installations globally.
+
+Cost Savings for Tea Factory when Implementing ECM in all 13 HVAC PU’s
+
+The Beverage Company B Factory packaging area has a total 661.17 kWR of HVAC. The amount of ECM required to
+
+treat this facility was 188 units. At a cost to treat all 13 PU’s of R394,800, the Internal Rate of Return to
+
+Beverage Company is 54.3% or a 22 month Initial Payback Period.
+
+Recovered
+Energy
+
+Cost to Operate
+
+Baseline Post ECM
+
+kWE / kWR
+
+0.13 kWE / kWR
+
+0.64
+
+0.51
+
+Adj. Annual kWh Savings for All Tea Factory HVAC Units
+
+Adj. Annual Cost Savings for All Tea Factory HVAC Units
+
+268,905
+
+R301,278
+
+Annual Savings Value
+Total Eﬀects of ECM on Packaging Area
+
+---
+
+®
+
+This is a report provided to Beverage Company B Factory and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2014 Powertron Global LLC.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement.
+This document is not to be distributed to any third party and is not to be in the pubic domain without our written approval.
+
+Return On Investment
+
+The following are the final calculated average performance measurements following the PermaFrost NMR®
+
+Post measurement period for the Tea Factory PU.
+
+Baseline Energy Consumption
+
+Adjusted Baseline Capacity: 38.09 kWR
+Adjusted kW Baseline: 0.64 kWE/kWR * 38.09 kWR = 24.38 kW
+
+Adjusted Baseline kWh: 24.38  kW * 4,080 Annual Operating Hrs = 99,470 kWh
+
+Revised Cost to Run Baseline: 99,470 kWh * R1.10 = R109,417
+
+Post Energy Consumption
+
+kW Post: 0.51 kWE/kWR * 38.09 kWR = 19.43 kW
+
+Annual kWh Post: 19.43 kW * 4,080 hours = 79,274 kWh
+
+Annual Cost Post: 79,274 kWh * R1.10 = R87,201
+
+Savings Per Year
+
+Avoided Energy Cost (savings) Per Year: R109,417 - R87,201 = R22,216
+
+Estimated Energy Savings Per Month: R22,216/ 12 = R1,851
+
+Initial Payback Period
+
+Cost of PermaFrost NMR® installed in the pilot PU: R42,000
+
+Estimated Initial Payback Period on the PU: R42,000 / R1,851= 22.69 months
+
+Total kWh saved by treating this PU = 20,196
+
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period
+
+for the Tea Factory for implementing the PermaFrost NMR®, a detailed Regression Analysis is used to calculate the
+
+true energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh
+
+expended in the Avoided Energy Reporting (Post) Analysis Period. ROI comes from determining what the cost to run
+
+the systems was when operating at the original energy profile to produce the newly restored amount of available
+
+tonnage capacity and then subtracting the revised cost to run the systems at the same restored tonnage after the
+
+PermaFrost NMR® was installed. This regression analysis is the most widely accepted method of accounting for the
+
+reduced number of hours the systems will now operate due to the restored capacity. This restored capacity allows the
+
+systems to reach the internal building set points with increased efficiency resulting in reduced compressor demand
+
+loading.
+
+7
+
+---
+
+®
+
+This is a report provided to Beverage Company B Factory and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2014 Powertron Global LLC.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement.
+This document is not to be distributed to any third party and is not to be in the pubic domain without our written approval.
+
+0.64
+
+POST
+
+BASELINE
+
+0.51
+
+TECO
+
+LP20m3MAR
+
+MZZ0712046
+
+R22
+
+70.34
+
+4,080
+
+2007
+
+Make
+
+Model
+
+Serial Number
+
+Refrigerant Type
+
+Nominal Cooling
+Capacity in kWR
+
+Average Annual
+Runtime Hours
+
+Age
+
+kWE/kWR
+
+REDUCTION
+20.3%
+
+REDUCTION
+IMPROVEMENT
+
+POST
+
+BASELINE
+
+Calculated Annual kWh
+
+19.5%
+
+8.8%
+
+POST
+
+BASELINE
+
+Refrigerant Approach
+
+REDUCTION
+
+POST
+
+BASELINE
+7.43
+
+Enthalpy Delta
+
+27.9%
+
+17.06
+
+99,152
+
+79,837
+9.5
+
+15.56
+
+Key Results for PU Unit with PermaFrost NMR® ECM
+
+System Description
+
+398.3
+
+33.37
+
+32.44
+
+-2.22
+
+65.67
+
+361.97
+
+1749.2
+
+27.83
+
+13.33
+
+18.06
+
+9.89
+
+29.69
+
+20.19
+
+9.5
+
+15.55
+
+19.57
+
+0.51
+
+38.09
+
+5,168
+
+79,837
+
+100
+
+26.22
+
+0.040
+
+Energy Usage
+BASELINE
+POST
+
+Voltage
+
+Amperage
+
+Adj Amps for Warmer Post OAT
+
+Suction Temperature
+
+Discharge Temperature
+
+Suction Pressure
+
+Discharge Pressure
+
+Entering Air DB
+
+Leaving Air DB
+
+Entering Air WB
+
+Leaving Air WB
+
+Enthalpy of Entering WB
+
+Enthalpy of Leaving WB
+
+Delta-T of Enthalpy
+
+Evaporator Approach
+
+kW (V x A x 1.47)
+
+kWE / kWR
+
+Actual Measured Operating kWR
+
+Unit M3/H
+
+Adjusted Annual kWh
+
+Unit % Load During Testing
+
+Entering CDW Temp
+
+Adj for Warmer Post Entering CDW
+
+411.6
+
+31.26
+
+-
+
+-2.5
+
+66
+
+357.84
+
+1760.92
+
+25.06
+
+14.56
+
+18.06
+
+11.89
+
+29.69
+
+22.26
+
+7.43
+
+17.06
+
+18.94
+
+0.64
+
+29.69
+
+5,151
+
+99,152
+
+100
+
+25.22
+
+-
+
+8
+
+Notes
+
+This pilot PU provides cooling to the 1st floor
+
+packaging floor of the Tea Factory.  It is estimated the
+
+PU runs approximately 4,080 hours annually prior to
+
+the ECM being implemented.
+
+Incoming CDW in the Post was 1 degrees C warmer equating to 2.6%. This requires 
+the Post amps to be reduced by this same 2.6% * 70%. The 70% accounts for the 
+removal of fans running to which the ECM does not directly effect.
+
+---
+
+®
+
+This is a report provided to Beverage Company B Factory and is conﬁdential and proprietary to Powertron Global®, LLC. © Copyright 2014 Powertron Global LLC.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement.
+This document is not to be distributed to any third party and is not to be in the pubic domain without our written approval.
+
+39
+
+Passenger vehicles
+
+9.5
+
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+
+20,865
+
+Gallons of gasoline
+consumed
+
+199,166
+
+Pounds of coal burned
+annually
+
+431
+
+Barrels of oil
+consumed
+
+.994
+
+Railcars worth
+of coal burned
+
+25.4
+
+Homes’ electricity use for
+one year
+
+9
+
+The Beverage Company B Factory is Saving More than just Energy
+
+By treating all 13 of the Tea Factory PU’s with PermaFrost NMR® and based on the current manner in which
+
+the Tea Factory operates these PU’s, the company will save approximately 268,905 kWh per year and all the
+
+costs associated with those savings. From an environmental impact standpoint, the Tea Factory is also
+
+benefitting the surrounding community. Imagine how great the environmental impact will be when Beverage Company /
+
+Beverage Company moves forward with treating all their HVAC equipment across South Africa.
+
+The 268,905 kWh saved per year equates to preventing 185 metric tons of greenhouse gas emissions from
+
+being released or any of the following:
+
+Annual greenhouse emissions from:
+
+CO2 emissions from:

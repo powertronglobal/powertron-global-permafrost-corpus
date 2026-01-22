@@ -1,0 +1,49 @@
+ 
+ 
+4 
+by an HVAC/R system can be realized by measuring voltage, amperage and 
+power factor.  
+ 
+For these specific HVAC systems many parameters were measured every two 
+seconds for a period of eight (8) days for the development of a scientific baseline 
+of performance and a post period of eight (8) days for the development of a 
+scientific post analysis of performance. Data was extracted from the parameters 
+measured every five (5) seconds during the normal operating hours of 8am to 
+11pm.  
+ 
+Total BTUH was developed along with total kW consumption by measuring all 
+required data points (13 points see appendix for points measured) and entering 
+them into industry best practice engineering formulae. All measurement hardware 
+was certified under NIST or CE standards. Engineering formulae was developed 
+by AHRI / ASHRAE (American Heating and Refrigeration Institute / American 
+Society of Heating Refrigeration & Air Conditioning Engineers) 
+ 
+During regular business hours the outdoor air temperature entering the air-cooled 
+condenser coils of each unit will affect the design capacity. Therefore we have 
+provided baseline and post analysis of the eight (8) day periods at several 
+outdoor air temperature intervals so as to provide the comparison of improved 
+capacity and subsequent kW per ton, EER and COP across a variation of 
+outdoor air temperatures consisting of a twelve (12) degree span (74-85 degrees 
+F) to demonstrate the improvements across the temperature span. 
+ 
+D.   
+CONCLUSION 
+ 
+The results of the testing validate the performance improvement and are 
+consistent with the UL (Underwriters Laboratories) results of PermaFrost NMR 
+and the 300+ case studies available for review. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

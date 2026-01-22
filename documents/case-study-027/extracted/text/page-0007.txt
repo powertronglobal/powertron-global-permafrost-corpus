@@ -1,0 +1,69 @@
+Energy Science Division
+POST
+BASELINE
+RMS Voltage
+RMS Amperage
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Chilled Water Leaving Temp
+Chilled Water Entering Temp
+Condensed Water Leaving Temp
+Condensed Water Entering Temp
+Actual GPM (Cooler)
+Calculated Tons
+kW
+Calculated kW/Ton
+Outdoor Air Temperature
+484.2 V
+314.7 A
+45.2 F
+91.9 F
+43.5 F
+53.2 F
+91.4 F
+84 F
+760 GPM
+307 Tons
+224.1
+.73
+70 F
+486.6 V 
+303.0 A 
+46.8 F 
+90 F 
+43.5 F 
+53.9 F 
+90.1 F 
+82.4 F 
+760 GPM 
+330 Tons 
+216.7
+.66
+81 F
+MEASUREMENT
+Results
+Eﬃciency Improvements
+kW
+Operating Tonnage
+kW per Ton
+COP
+Amps @ 100% Load
+-3.3% 
++7.5%
++9.6%
++11.0%
+-3.7%
+Energy Reporting Period
+216.7
+330 
+.66
+5.35
+303.0
+Baseline
+224.1 
+307 
+.73 
+4.82
+314.7
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,74 @@
+BASE Results – Actual 
+Measurements taken by HVAC Contractor B indicate the following: 
+•
+kWENERGY = 393.77 x 64.02 x 1.73 x 0.82 = 35.76 kWE
+(V x A x √3 x PF) 
+•
+kWREFRIGERATION = 5.228 x 1 x 4.38 x 4.185) = 95.83 kWR
+(FR x SG x Δ-T x 4.185) 
+•
+Efficiency = 35.76/95.83 = 0.373 kWE/kWR
+(kWE/kWR) 
+•
+Coefficient of Performance = 95.83/35.76 = 2.68 COP
+(kWR/kWE) 
+BASE Results – Design 
+Interpolated capacities using original design data below, shows the following: 
+•
+COP = 124.6/37.4 = 3.33
+•
+Efficiency = 37.4/124.6 = 0.300
+Refrigeration Capacity in kWR 
+Power Consumed in kWR  (0.82 PF) 
+Ambient 
+Leaving Water Temperature 
+Ambient 
+Leaving Water Temperature 
+Temp 
+7.0 
+7.4 
+8.0 
+Temp 
+7.0 
+7.4 
+8.0 
+25.0 
+126.0 
+127.2 
+129.0 
+25.0 
+36.0 
+36.4 
+37.0 
+27.0 
+123.2 
+124.6 
+126.6 
+27.0 
+37.2 
+37.4 
+37.7 
+30.0 
+119.0 
+120.6 
+123.0 
+30.0 
+39.0 
+39.4 
+39.8 
+BASE Results Comparison: Base to Design 
+Comparing Actual to Design measurements and results per IPMVP produces the following: 
+•
+kWE = 95.61%
+(35.76/37.40) 
+•
+kWR = 76.91%
+(95.83/124.60) 
+•
+Efficiency = 80.43%
+(0.300/0.373) 
+•
+COP = 80.48%
+(2.68/3.33) 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

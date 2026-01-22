@@ -1,0 +1,50 @@
+ 
+6
+the ambient temperature outside the building and also independent of the actual temperatures of 
+the room itself. 
+ 
+Airflow:  Airflow is required to circulate the Btu’s around. Most equipment requires 400 cu.ft. 
+of air through the system in a minute in cooling mode, plus or minus 10%, or 360 to 440 CFM 
+per ton of cooling. Below 360 CFM/Ton, the heat transfer through the coil reduces rapidly. The 
+airflow through the system is all that really counts. It should match the airflow over the coil, 
+minus a few CFM for duct airflow loss, which is an unfortunate reality to some degree in nearly 
+every system.  Airflow over the indoor coil should be verified and never ignored. 
+ 
+Static Pressure:  Nearly every installation instruction requires the measurement of total external 
+static pressure at startup. This reading is used to plot airflow on the fan tables provided, with 
+each system using a fan to verify that the proper amount of airflow is being delivered through the 
+system. About 50% of the available equipment out there is rated at 0.50-in. maximum total 
+eternal static pressure. Most variable speed fans are rated from 0.90-in. to 1.2-in. available fan 
+pressure.  Design practical standards ideally limit pressure drop over the coil to 40% of the rated 
+equipment static pressure. Pressure drop over the filter is recommended to remain below 20% of 
+the equipment pressure. This leaves 40% of the available pressure for the duct system. The live 
+total external static pressure after a system is built is the real test of system performance from a 
+pressure perspective. 
+ 
+ 
+What to Calculate 
+ 
+Calculating Gains in Efficiency:  By measuring the wet bulb temperature before and after the 
+evaporator of an air conditioning system, the total heat load (enthalpy) in the air before and after 
+the evaporator can be determined. The difference is the heat that is removed by the evaporator 
+and therefore the heat that is removed by the air conditioning system. If the heat removed by the 
+air conditioning system is calculated before and after treatment with PermaFrost NMR®, the 
+change of the system’s efficiency can be accurately quantified. This calculation can be made 
+even if the ambient conditions are different when the first measurement is made and the second 
+measurement is made.  Calculating the change in enthalpy allows regression using standard 
+industry accepted models and therefore is not necessary to attempt to control or replicate the 
+various ambient conditions.  The airflow and voltage were measured before and after although it 
+is generally it is assumed that the air flow and voltage is constant in the HVAC system.  This is a 
+valid assumption under most circumstances but measured for each of these tests. 
+ 
+BTU Delivery:  Total heat removed by a cooling system can be measured. To do so requires a 
+very high quality psychrometer that measures wet bulb temperatures with extreme accuracy. It’s 
+the wet bulb temperature (the measures of both heat and humidity) that enables us to measure 
+total Btu. 
+ 
+The formula that guides this test is timeless. It is simply CFM x Delta-T of the enthalpy derived 
+from the entering air wet bulb temperature and the leaving air temperature x 4.5. In other words, 
+total BTU equals delivered airflow (CFM) times the change in temperature and moisture content 
+of the air through the system (Delta-T of E), times the constant of 4.5.  Taking accurate wet bulb 
+readings and converting the values to enthalpy easily and accurately measure the Delta-T of E 
+through the system. Subtract the enthalpy readings to find the Delta-T of E. 

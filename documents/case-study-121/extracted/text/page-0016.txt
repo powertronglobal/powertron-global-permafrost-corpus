@@ -1,0 +1,131 @@
+®
+5.14
+POST
+BASELINE
+4.28
+kW/ton
+REDUCTION
+16.6%
+REDUCTION
+REDUCTION
+POST
+BASELINE
+Calculated Annual kWh 
+16.4%
+24.4%
+POST
+BASELINE
+IMPROVEMENT
+POST
+BASELINE
+4.2
+Refrigerant Approach
+64.3%
+6.71
+9,170
+7,665
+Key Results for Tamarac WIC  with PermaFrost NMR® ECM
+Russell
+AA18-66B
+95714-0244801
+R22
+0.55
+3,500
+2002
+System Description
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+Notes: This pilot refrigeration system provides cooling 
+to the interior cooler. It is estimated the system runs 
+approximately 3,500 hours annually prior to the ECM 
+being implemented. 
+Images below are the measured DB readings directly 
+across the evaporator coil in the baseline and post data 
+collection periods.
+1.5
+8.35
+BASELINE
+POST
+    15
+Temperature Delta
+204.00
+7.30
+34
+60.2
+105.1
+211
+43.9
+35.5
+8.4
+1.50
+2.19
+0.51
+4.28
+676
+7,665
+0.82
+92.7%
+85
+Energy Usage
+BASELINE
+POST
+Voltage 
+ 
+Amperage 
+ 
+Suction Temperature  
+Suction Pressure 
+ 
+Discharge Temperature 
+ 
+Discharge Pressure 
+ 
+Entering DB Evaporator Temp 
+ 
+Leaving DB Evaporator Temp 
+ 
+Temp Delta from Evaporator  
+Refrigerant Approach 
+ 
+kW (V x A x PF x Sq Root of 3) 
+ 
+Actual Operating Tons 
+ 
+Calculated kW/Ton 
+ 
+Unit CFM 
+ 
+Annual kWh (Following Regression Analysis) 
+ 
+Coeﬃcient of Performance (COP)  
+System Eﬃciency 
+ 
+OAT 
+ 
+203.90
+7.30
+33
+58.8
+106
+210.8
+44.2
+37.2
+7
+4.20
+2.19
+0.43
+5.14
+676
+9,170
+0.68
+78.2%
+85
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

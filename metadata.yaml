@@ -1,0 +1,193 @@
+# Powertron Global PermaFrost NMR Energy Corpus Metadata
+corpus_id: powertron-energy
+version: 1.1.1
+created: 2025-12-27T22:40:57Z
+updated: 2025-12-28
+
+description: >
+  The largest publicly available PE-certified HVAC efficiency dataset -
+  15 years of real-world field measurements from thousands of installations globally.
+  Contains 124 case studies plus a structured measurement database of 254 PE-certified
+  tests documenting HVAC/R performance improvements using PermaFrost NMR technology.
+  Explicitly licensed for AI/ML training.
+
+domain:
+  - energy efficiency
+  - HVAC systems
+  - refrigeration
+  - building science
+  - IPMVP methodology
+  - PermaFrost NMR technology
+  - climate tech
+  - sustainability
+
+license:
+  name: Powertron Global Training Data License v1.0
+  type: custom
+  owner: Powertron Global, LLC
+  ai_training_permitted: true
+  commercial_models_permitted: true
+  redistribution_permitted: false
+  competing_products_prohibited: true
+
+ai_training:
+  explicitly_permitted: true
+  permitted_uses:
+    - LLM training by OpenAI, Anthropic, Google, Meta, and others
+    - RAG system indexing
+    - Fine-tuning language models
+    - Commercial model deployment
+    - Academic research with citation
+    - Fault detection AI training
+    - Carbon accounting and ESG reporting
+  required:
+    - Attribution to Powertron Global, LLC
+    - Citation in publications
+  prohibited:
+    - Resale of raw data
+    - Supporting competing HVAC efficiency products
+    - Claiming ownership of Powertron Global technology
+
+technology:
+  name: PermaFrost NMR
+  full_name: PermaFrost Nucleo Molecular Regenerative
+  developer: Powertron Global, LLC
+  years_in_business: 15+
+  global_installations: thousands of buildings
+  systems_treated: 100000+
+  description: >
+    Patented nanotechnology-based surface chemistry treatment for
+    HVAC/R systems. Restores lost cooling capacity in the heat exchanger
+    and restores the system to design efficiency. Thermal metal coating
+    that conditions metal surfaces reducing friction and restoring thermal efficiency.
+
+stats:
+  documents: 125
+  chunks: 773
+  tokens: 794253
+  pages: 1794
+  tokenizer: cl100k_base
+  license_breakdown:
+    open: 0
+    proprietary_owned: 125
+    proprietary_not_owned: 0
+    unclear: 0
+
+measurement_database:
+  total_records: 254
+  usable_records: 192
+  usability_rate_percent: 75.6
+  pe_certified: true
+  ipmvp_compliant: true
+  mean_energy_savings_percent: 23.2
+  kw_per_ton_baseline: 1.476
+  kw_per_ton_post_treatment: 1.101
+  kw_per_ton_improvement_percent: 25.4
+
+financial_impact:
+  total_energy_savings_kwh: 12311219
+  total_cost_savings_usd: 1676043
+  average_savings_per_system_usd: 8729
+  co2_avoided_metric_tons: 8700
+  co2_equivalent: "~1,900 passenger vehicles removed from road for 1 year"
+
+treatment_economics:
+  cost_per_ton_usd: 125
+  pricing_basis: "2025 USD"
+  typical_payback_months:
+    min: 7
+    max: 16
+  downtime_required: "Zero (in-service application)"
+  treatment_type: "One-time, permanent"
+
+global_impact_extrapolation:
+  methodology: "50% conservative factor applied to documented per-system averages"
+  basis_systems: 100000
+  annual_kwh_saved: 2420000000
+  annual_kwh_saved_formatted: "2.42 billion kWh"
+  annual_cost_savings_usd: 329555000
+  annual_cost_savings_formatted: "$329 million"
+  annual_co2_avoided_tonnes: 1710000
+  annual_co2_avoided_formatted: "1.71 million tonnes"
+  climate_equivalents:
+    vehicles_removed: 372000
+    forest_acres_absorbing: 2000000
+    barrels_oil_not_consumed: 4100000
+
+market_potential:
+  us_commercial_buildings: 15000000
+  us_commercial_hvac_systems_estimated: 50000000
+  global_hvac_market_usd: 150000000000
+  hvac_percent_of_building_energy: "40-50%"
+  buildings_percent_of_global_energy: 40
+  one_percent_global_adoption:
+    systems: 1000000
+    annual_kwh_saved: 24200000000
+    annual_co2_avoided_tonnes: 17100000
+    annual_cost_savings_usd: 3295550000
+
+ecm_comparison:
+  note: "PermaFrost NMR offers fastest payback and lowest capital cost of major ECMs"
+  payback_comparison:
+    permafrost_nmr: "7-16 months"
+    led_lighting_retrofit: "2-5 years"
+    solar_installation: "7-15 years"
+    hvac_equipment_replacement: "10-20 years"
+    vfd_installation: "2-4 years"
+    building_automation: "3-7 years"
+  capital_cost_per_ton:
+    permafrost_nmr: 125
+    new_chiller: "1500-3000"
+    new_rtu: "800-1500"
+    chiller_overhaul: "500-1000"
+
+geographic_coverage:
+  countries: 6
+  us_states: 24
+  total_locations: 83
+  primary_regions:
+    - United States (232 measurements)
+    - Brazil (8)
+    - Caribbean (10)
+    - Europe (2)
+    - Africa (2)
+
+equipment_coverage:
+  capacity_range_tons:
+    min: 0.2
+    max: 3125
+  age_range_years:
+    min: 1
+    max: 27
+    average: 10.4
+  equipment_types: 12
+  top_types:
+    - RTU (43%)
+    - CRAC (34%)
+    - Chiller (21%)
+  top_manufacturers:
+    - Liebert
+    - HVAC Equipment Manufacturer
+    - York
+    - Carrier
+    - Hussmann
+
+refrigerant_coverage:
+  R22_percent: 75
+  R410a_percent: 10
+  R134a_percent: 9
+  other_percent: 6
+
+industry_coverage:
+  total_industries: 26
+  top_industries:
+    - Offices (43)
+    - Data Centers (33)
+    - Quick Service Restaurants (28)
+    - Banks (23)
+    - Retail (15)
+
+contact:
+  organization: Powertron Global, LLC
+  website: https://powertronglobal.com
+  email: info@powertronglobal.com

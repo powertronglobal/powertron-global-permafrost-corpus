@@ -1,0 +1,97 @@
+72        Appendix A Examples 
+ 
+%
+7.5
+48
+4.1
+96
+.1
+
+
+
+ 
+School board officials deemed this measurement precision adequate.   
+Before estimating values for all schools, it was decided to add 6 hours per week to classroom 
+hours because of plans to increase night school classes.  Considering that there are 39 school 
+weeks and 13.2 holiday weeks in an average year (with leap years), the estimated annual 
+operating hours were agreed to be as follows: 
+ 
+Location 
+Fraction of 
+Lighting 
+Load 
+Estimated Weekly Hours 
+Estimated 
+Annual Hours 
+39.0 
+school 
+weeks
+13.2 holiday 
+weeks 
+Locker rooms 
+5.00% 
+106 
+22 
+4,420 
+Offices 
+5.00% 
+83 
+21 
+3,480 
+Classrooms 
+61.00% 
+54 
+5 
+2,170 
+Auditorium
+10.00%
+31
+11
+1,350
+Gymnasium 
+10.00% 
+82 
+25 
+3,530 
+Corridors 
+9.00% 
+168 
+168 
+8,770 
+ 
+Since the lighting retrofit was applied uniformly to all fixtures, the load-weighted average 
+estimated annual operating hours for this school were determined to be 2,996, or 3,000 rounded 
+to 3 significant digits (a better representation of the result would be 3.00 × 103).  
+ 
+Baseline power measurements were made with a recently calibrated true rms watt meter of 
+the three-phase power draw on the 347-volt lighting circuits. From a thirty-second 
+measurement on the input side of two lighting transformers, it was found that with all fixtures 
+switched on, the total power draw was 288 kW. Seventy lamps (= 3 kW or 1%) were burned 
+out at the time of the test. It was determined that the fraction burned out at the time of this 
+measurement was normal. 
+ 
+Since lighting loads establish the building electrical peak at a time when all lights are on, 
+electrical demand savings will be estimated to be the same as the measured load reduction 
+on the lighting circuits. The utility bills showed a lower demand during the summer holidays, 
+and there was minimal use of the facility during these months. Also considering which other 
+equipment was used during the summer, it was assumed that the July and August lighting-
+circuit demand is only 50% of the peak measured circuit load. 
+ 
+The marginal utility prices at the time of contract signing was CDN$0.063/kWh, 
+CDN$10.85/kW-month, and CDN$0.255/m3 of gas. 
+Results  After installation of the ECM, the lighting circuit power was re-measured as in the 
+baseline test.  The power draw was 162 kW with all lights on and none burned out.  With the 
+same 1% burnout rate as in the base year, the post-retrofit period maximum power would be 
+160. kW (=162 x 0.990). Therefore the power reduction is 288. – 160. = 128 kW. 
+Energy savings (using Equation 1d) with no adjustments) are 128 kW x 3.00 × 103 hrs/year = 
+384,000 kWh/year.  
+Demand savings are 128 kW for 10.0 months and 64 kW for 2.0 months, for a total of 1,410 kW-
+months. 
+The value of the electrical savings estimated under IPMVP Option A is: 
+ 
+( 384,000 kWh  x  $0.0630 )  +  ( 1,410  x $10.85 )  =  CDN$39,500 
+ 
+Table A-3-2  
+Estimated 
+Operating Hours 
+ 

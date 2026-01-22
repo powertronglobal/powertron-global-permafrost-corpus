@@ -1,0 +1,28 @@
+®
+Energy Consumption & Financial Metrics for 25-Ton Pilot RTU
+The following are the final calculated average performance measurements and financial projections before and 
+after the ECM was installed in the 25-ton pilot RTU. These results may vary slightly from the tables listed earlier 
+in this report due to rounding only to the first decimal position for cooling tons and kW values.
+Average Baseline Energy Consumption
+Baseline Capacity:  10.97 tons
+Adjusted kW Baseline:  1.18 kW/ton * 14.04 tons = 16.57 kW
+Adjusted Baseline kWh:  16.57 kW * 6,132 Annual Operating Hours = 101,607 kWh   
+Revised Cost to Run Baseline: 101,607 kWh * $.105 = $10,669
+Average Post Energy Consumption
+kW Post:  0.87 kW/ton * 14.04 tons = 12.21 kW
+Annual kWh Post:  12.21 kW * 6,132 hours = 74,872 kWh
+Annual Cost Post:  74,872 kWh * $.105 cents = $7,862
+Average Savings per Year Per Unit
+Avoided Energy Cost (savings) Per Year:  $10,669 - $7,862 = $2,807
+Estimated Energy Savings per Month: $2,807 / 12 = $234
+Return on Investment
+Cost of PermaFrost NMR® installed in the 25-ton pilot RTU: $1,563
+Estimated ROI for Regional Telecom when treating the 25-ton pilot RTU: $1,563 / $234 = ~6.8 mos
+Annual Internal Rate of Return = 180%
+Return on Investment Over 5 Years = 898%
+15
+(*) The cost to treat the entire unit was $3,125, but since only 2 of the 4 compressors on the unit were operational 
+during the entire pilot and produced the savings, the cost to treat only that portion of the system ($1,563) was 
+used in the calculations. If the full cost of treatment was used the ROI expands to just over 13 months. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

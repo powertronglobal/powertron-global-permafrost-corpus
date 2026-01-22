@@ -1,0 +1,48 @@
+ 
+Definitions         55 
+ 
+CHAPTER 9   DEFINITIONS 
+ 
+Terms are italicized in the text to signify that they have the following meanings: 
+Adjusted-baseline energy:  The energy use of the baseline period, adjusted to a different set 
+of operating conditions. 
+Avoided energy use:  The reduction in energy use that occurred in the reporting period, 
+relative to what would have occurred if the facility had been equipped and operated as it was in 
+the baseline period but under reporting period operating conditions. (see Chapter 4.6.1). “Cost 
+avoidance” is the monetary equivalent of “avoided energy use.” Both are commonly called 
+savings. Normalized savings is another type of savings.  
+Baseline Adjustments: The non-routine adjustments (Chapters 4.6 and 8.2) arising during the 
+reporting period from changes in any energy governing characteristic of the facility within the 
+measurement boundary, except the named independent variables used for routine adjustments. 
+Baseline Energy: The energy use occurring during the baseline period without adjustments. 
+Baseline Period:  The period of time chosen to represent operation of the facility or system 
+before implementation of an ECM. This period may be as short as the time required for an 
+instantaneous measurement of a constant quantity, or long enough to reflect one full operating 
+cycle of a system or facility with variable operations. 
+Baseline:  Pertaining to the baseline period. 
+Confidence Level: The probability that any measured value will fall within a stated range of 
+precision. See Appendix B-1.1. 
+Constant:  A term used to describe a physical parameter which does not change during a 
+period of interest. Minor variations may be observed in the parameter while still describing it as 
+constant. The magnitude of variations that are deemed to be ‘minor’ must be reported in the 
+M&V Plan. 
+Commissioning:  A process for achieving, verifying and documenting the performance of 
+equipment to meet the operational needs of the facility within the capabilities of the design, and 
+to meet the design documentation and the owner's functional criteria, including preparation of 
+operating personnel. 
+CV(RMSE):  See Appendix B-2.2.2 
+Coefficient of Variance (cv):  See Appendix B-3.1  
+Cycle:  The period of time between the start of successive similar operating modes of a facility 
+or piece of equipment whose energy use varies in response to operating procedures or 
+independent variables. For example the cycle of most buildings is 12 months, since their energy 
+use responds to outdoor weather which varies on an annual basis. Another example is the 
+weekly cycle of an industrial process which operates differently on Sundays than during the rest 
+of the week. 
+Degree Day: A degree day is measure of the heating or cooling load on a facility created by 
+outdoor temperature. When the mean daily outdoor temperature is one degree below a stated 
+reference temperature such as 18oC, for one day, it is defined that there is one heating degree 
+day. If this temperature difference prevailed for ten days there would be ten heating degree 
+days counted for the total period. If the temperature difference were to be 12 degrees for 10 
+days, 120 heating degree days would be counted. When the ambient temperature is below the 
+reference temperature it is defined that heating degree days are counted. When ambient 
+temperatures are above the reference, cooling degree days are counted. Any reference 

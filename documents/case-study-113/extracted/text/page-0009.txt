@@ -1,0 +1,182 @@
+®
+Appendix A
+Data Center Provider HVAC Units - [Building Address]nue, NYC
+8
+SUITE #
+307
+307
+307
+307
+307
+307
+CRAC #
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+MAKE
+Liebert
+Liebert
+Liebert
+Liebert
+Liebert
+Liebert
+MODEL #
+UH290AUAAM
+UH290AUAAM
+VH290AUAAEIS601
+VH290AUAAEIS601
+VS070KDA000928A
+VS070KDA000928A
+SERIAL #
+355861-002
+355861-001
+C08K100062
+304392-001
+C10L8H0005
+C10L8H0006
+TONNAGE
+24
+24
+24
+24
+20
+20
+MFG DATE
+1998
+1998
+2008
+2008
+2010
+2010
+Refrig Type
+R-22
+R-22
+R-22
+R-22
+R-407c
+R-407c
+SUITE #
+804
+804
+804
+804
+CRAC #
+8.1
+8.2
+8.3
+8.4
+MAKE
+Liebert
+Liebert
+Liebert
+Liebert
+MODEL #
+VE240GUAAEI
+VE240GUAAEI
+VE240GUAAEIS992
+VE240GUAAEIS992
+SERIAL #
+518052-001
+518052-002
+941992-002
+941992-001
+TONNAGE
+24
+24
+24
+24
+MFG DATE
+2001
+2001
+2007
+2007
+Refrig Type
+R-22
+R-22
+R-22
+R-22
+SUITE #
+524
+524
+524
+524
+524
+524
+524
+524
+524
+CRAC #
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+5.8
+5.9
+MAKE
+Liebert
+Liebert
+Liebert
+Liebert
+Liebert
+Liebert
+Liebert
+Liebert
+Liebert
+MODEL #
+DS105KUA000742A
+DS105KUA0E1744A
+DS105KUA000742A
+DS105KUA0E1744A
+DS105KUA000742A
+DS105KUA000742A
+DS105KUA000742A
+DS105KUA0E1744A
+DS105KUA000742A
+SERIAL #
+C10D8H0039
+C10D8H0044
+C10D8H0042
+C10D8H0045
+C10D8H0040
+C10D8H0037
+C10D8H0038
+C10D8H0043
+C10D8H0041
+TONNAGE
+30
+30
+30
+30
+30
+30
+30
+30
+30
+MFG DATE
+2010
+2010
+2010
+2010
+2010
+2010
+2010
+2010
+2010
+Refrig Type
+R-407c
+R-407c
+R-407c
+R-407c
+R-407c
+R-407c
+R-407c
+R-407c
+R-407c
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

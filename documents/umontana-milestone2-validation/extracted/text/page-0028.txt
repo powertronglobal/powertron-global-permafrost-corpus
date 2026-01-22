@@ -1,0 +1,39 @@
+ 
+ 
+Page 20 of 38 
+ 
+Conclusion and Possible Use Case 
+ 
+We have shown that archetypal analysis applied the summary variables chosen can differentiate 
+between pre and post treatment days.  It also shows sensitivity to variation in outdoor temperature 
+and whether compressor 2 is on.  We speculate that it could capture a gradual change in operating 
+conditions through observations of the alpha’s.  If, over time, the data point drift from one condition 
+to another, the representation in terms of archetypes would shift from all in the first archetypal 
+condition, to all in the other, with points in between lying on the simplex boundary between the two.  
+Another possible use would be the detection of anomalies.  First, a set of archetypes representing 
+the usual operation of the machine is created, using a training set of the summary variables.  
+Additional days could be tested by projecting their data points onto the archetypal set (an 
+optimization problem with a nonlinear constraint).  If the error jumps up for the new data point, it 
+could be anomalous.   The daily calculation on board the machine would be the creation of the 
+summary variables, and a projection onto the archetypal set.  If an anomaly is detected, further 
+classification that day’s variables could be done to identify the source of the anomaly.   
+ 
+Lack of Test Data: An attempt to manually produce anomaly ridden data sets. 
+ 
+A theme throughout the testing of various methods was the lack of annotated data that would allow 
+the team to test each method against known anomalies in the data stemming from mechanical 
+failure. As such, an attempt was made to manually produce a training set of data and then plant 
+known anomalies or failures within the set.  
+ 
+The following section describes the methodology used to develop the simulated set for 
+documentation purposes only. The results from testing the methods described in previous sections 
+on the simulated set were inconclusive. Further examination would be needed to determine the 
+failure of the simulated data produced and modify the method accordingly. 
+ 
+Basis for Manual Calculations 
+ 
+From 25 fields of source data, 12 variables were used to produce 8 interim calculations, which then 
+were used to calculate 5 key performance indicators related to the efficiency of the device. Manual 
+replication of calculations was achieved via exploration of the relationships between all 
+measurements. Figure 26 outlines the relationship between all variables and was also included in 
+the team’s milestone 1 report. 

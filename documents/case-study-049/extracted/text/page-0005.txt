@@ -1,0 +1,35 @@
+4
+Energy Conservation Method (ECM)
+The content detailed in this report will first demonstrate the ability of the pilot chiller to perform prior to the 
+ECM being installed, as well as illustrate the amount of thermal degradation 
+within the heat exchangers.
+The following report produces the utilization of the IPMVP as the M&V plan. 
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+• kW = (Volts * Amps * Power Factor * Sq root of 3)/1000 (for 3-Phase) 
+ 
+• kW/Ton = kW / Actual Tonnage 
+ 
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+ 
+• Cooling Tons per Hr = (Evaporator GPM * 8.34 * 60 * CW Delta T) / 12,000 BTU 
+ 
+• Refrigerant Approach = CW Supply Temp – Saturated Evaporator Temp (CH) 
+Notes 
+Following a diagnostic examination of the pilot equipment to determine the operational condition of the systems was 
+satisfactory, Baseline M&V data was collected and recorded by the M&V team. 600+ hours after installation of the ECM, 
+the M&V team returned on a very similar weather day to the Baseline to take Post M&V measurements in the identical 
+fashion as in the Baseline. The delta of these measurements and associated calculations show the amount of capacity 
+restored.
+The following IPMVP data points were recorded on 5 May 2014 using recently calibrated devices by NIST (National 
+Institutes of Standards and Technology) to insure measurement accuracy. The chiller was then treated with PermaFrost 
+NMR® on the same day and allowed to run at greater than 70% load until 26 June 2014 to ensure the patented surface 
+science nanotechnology had ample time to seat into all the metal surfaces of the heat exchangers. All measurements were 
+taken at 70% load and at similar outdoor air temperatures. 
+The York chiller treated has a nominal capacity of 1,000 tons at 100% load and 2,400 gallons per minute (GPM) flow 
+through the evaporator.  The chiller used in this pilot was tested at 70% load with a GPM of 2,675. This scenario creates a 
+type of false-positive tonnage amount but since normal operations were not to be changed for the pilot, the emphasis here is 
+on the delta between baseline and post.
+The collection of the data in both the baseline and post periods was collected by Global Telecom Equipment Manufacturer with participation by Commercial Real Estate Services and Powertron Global. The measurements are listed below. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

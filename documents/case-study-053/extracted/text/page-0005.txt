@@ -1,0 +1,44 @@
+®
+4
+Key Performance Results 
+When comparing the three pilot RTUs before and after PermaFrost NMR® was installed, below are some of the 
+highlights of the study:
+ 
+• With PermaFrost NMR® all the benefits produced are directly linked to increasing capacity. When 
+ 
+    initially tested, the pilot RTUs together were producing 40.54 tons of cooling. Following installation, 
+ 
+    the cooling capacity jumped by 9.82 tons or 24.2% to 50.36 tons. 
+ 
+• The overall cost to produce each ton of cooling on the three RTUs dropped 22.8% from an average of 
+ 
+    1.14 kW/ton in the baseline to .88 kW/ton in the post. This means for every ton of cooling the pilot 
+ 
+    RTUs are asked to produce, Regional Telecom is spending 22.8% less to do so.
+ 
+• The projected annual kWh’s were reduced by 75,668 or 22.2%, from 340,510 to 264,842.
+ 
+• The average cost to operate the three pilot RTUs dropped 22.2% from a total of $35,754 in the baseline 
+ 
+    to $27,809 in the post. This reflects annual energy savings of $7,945.  
+ 
+• The average Coefficient of Performance (COP) of the three pilot RTUs increased from 3.12 in the 
+ 
+    baseline to 4.02 representing an improvement of 28.8%
+ 
+• When operating under nearly identical weather and building load conditions, the average discharge 
+ 
+    pressure across the three pilot RTUs decreased from 215.2 in the baseline to 197.8 in the post. This 
+ 
+    represents a reduction of 8.1%. This improvement in the ability of the RTUs to dissipate heat faster 
+ 
+    will work to extend compressor life when outside temperatures are elevated in the warmer months 
+ 
+    of the year.
+The three RTUs involved in the pilot are recorded as follows:
+Lennox RTU, Mfg date: 2004, R22, Nominal 30-tons full load, 210V/3Ph, Model LCA360
+Lennox RTU, Mfg date: 2000, R22, Nominal 25-tons full load, 210V/3Ph, Model LGA300
+Lennox RTU, Mfg date: 1998, R22, Nominal 20-tons full load, 210V/3Ph, Model LGA240 
+  
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

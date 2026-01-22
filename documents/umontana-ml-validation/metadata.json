@@ -1,0 +1,43 @@
+{
+  "doc_id": "umontana_001",
+  "slug": "umontana-ml-validation",
+  "title": "University of Montana Advanced Data Science ML Validation Study",
+  "category": "academic-validation",
+  "source": {
+    "institution": "University of Montana",
+    "department": "Advanced Data Science",
+    "course": "M567-467",
+    "semester": "Spring 2022",
+    "type": "Academic research report"
+  },
+  "authors": [
+    "[Student Researcher A]",
+    "[Student Researcher B]",
+    "[Student Researcher C]"
+  ],
+  "pages": 25,
+  "extraction_method": "python-docx text extraction",
+  "extraction_date": "2025-12-29",
+  "license": "proprietary_owned",
+  "pe_certified": false,
+  "validation_type": "Machine Learning Anomaly Detection",
+  "key_results": {
+    "post_treatment_r2": 0.998,
+    "pre_treatment_r2_range": "0.76-0.95",
+    "conclusion": "Treatment restored system to optimal performance"
+  },
+  "content_summary": "Machine learning-based validation study analyzing HVAC sensor data before and after PermaFrost NMR treatment. Uses Random Forest, Gradient Boosting, and clustering algorithms to quantify efficiency improvements. Concludes that treatment restores systems to expected optimal performance.",
+  "keywords": [
+    "machine learning",
+    "anomaly detection",
+    "gradient boosting",
+    "random forest",
+    "clustering",
+    "R-squared",
+    "kW/ton",
+    "COP",
+    "EER",
+    "HVAC efficiency",
+    "academic validation"
+  ]
+}

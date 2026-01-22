@@ -1,0 +1,54 @@
+®
+6
+ENERGY SAVINGS IN kW/TON
+Original Design
+Eﬃciency
+Baseline Cost to
+Operate Island Location A Arena
+Chiller As Is
+Post Cost to
+Operate Island Location A Arena
+Chiller after EMC
+Operational Cost %
+-40
+-20
+00
+20
+40
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+ 
+ 
+ 
+Age of Island Location A Arena
+Chiller
+20
+EXPECTED COST
+Age of Chiller
+AHealthcare System AEVED in
+Energy Savings
+19.5%
+Impact of Reversing Thermal Degradation
+With PermaFrost NMR® ECM
+Cost to Island Location A Arena for Lost Eﬃciency
+Left uncorrected, the chiller system with its reduced level of performance is costing (in money) an additional 
+22.6% or more than it would if it were running at the design specification. Extrapolated across the Island Location A Arena 
+inventory of chiller equipment, this adds up to a significant waste in money and energy resources.
+Island Location A Arena was wasting over $8,679 a year by not correcting this problem in this ice rink chiller.
+Additional kWh Wasted at Island Location A Arena per Year
+Additional Cost to Island Location A Arena per Year
+54,240 kWh  
+$8,679 /Year
+Cost of Waste
+Reduced level of Performance Causes 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

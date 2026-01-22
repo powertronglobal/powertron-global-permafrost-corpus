@@ -1,0 +1,32 @@
+Post
+Baseline
+Average kW
+REDUCTION
+13.9%
+Additional Results for CRAC Systems when Employing Both ECM’s
+143.02
+123.11
+Post
+Baseline
+Demand KVA
+REDUCTION
+13.9%
+168.43
+144.96
+Post
+Baseline
+Average Current
+REDUCTION
+13.9%
+205.42
+176.79
+Post
+Baseline
+Average Power Factor
+IMPROVEMENT
+15.9%
+.728
+.844
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+9

@@ -1,0 +1,56 @@
+ 
+Appendix A Examples         79 
+ 
+representing a range of boiler loads, from low to high, it was agreed that the test results will 
+adequately represent the annual improvement that the owner could expect.  
+Oil and thermal energy meter readings will be made daily by building maintenance staff through 
+winter months until three valid weeks of testing have been obtained for the old boiler. The same 
+process will be followed for the new boiler. The readings will be logged in the boiler room and 
+open for inspection at any time. The building-automation system measures and records ambient 
+temperature for the valid weeks. 
+A contract extra of €5,100 was accepted by the owner for the supply, installation and 
+commissioning of the oil and thermal-energy meters and for computing and reporting the 
+savings. Consideration was given to requiring demonstration of performance for a whole year. 
+However the contractor pointed out that the extra costs of meter calibration and data analysis 
+would add €3,000 to the fee. The owner decided that a short test period of 3 representative 
+weeks would be adequate. The owner also decided to maintain and calibrate the oil and thermal 
+energy meters himself after the contract, and to annually make his own boiler-efficiency 
+calculations. 
+Results  Baseline oil and thermal energy data was collected continuously over a five-week 
+period, until three were found where daily mean ambient temperatures stayed within the 
+specified range -5oC to +5oC. Dividing net thermal energy delivered by oil consumed, the 
+average efficiency readings for the old boiler during the three one-week periods were found to 
+be 65.2%.  
+After installation and commissioning of the boiler, the three-week reporting period was again 
+found with an average ambient temperature between -5oC to +5oC. Boiler efficiency test results 
+averaged 80.6%.  
+There were no other changes to the boiler plant between the time of the baseline-period tests 
+and reporting-period tests. Therefore non-routine adjustments were not needed. 
+Using IPMVP Equation 1d), annual savings using 239,200 liters as the estimated annual oil use 
+from the baseline period are: 
+ 
+ 
+Oil savings  
+= 239,200 liters x ( 1.000 – 0.652 / 0.806 ) 
+ 
+ 
+ 
+ 
+= 45,700 liters 
+The value of the savings is €0.70 x 45,700 = €31,900.28 
+These estimated annual savings from a short-term test validated that the contractor had met its 
+guaranteed performance. 
+A-7  Multiple ECM With Metered Baseline Data – Option C 
+Situation  An energy efficiency project was implemented in a high school in northern United 
+States. It involved ten ECMs spanning lighting, HVAC, pool heating, operator training and 
+occupant-awareness campaigns. The objectives of the project were to reduce energy costs. 
+Factors Affecting M&V Design  The owner wished to record annual cost avoidance relative to 
+the conditions and energy usage rate of 2005 as the baseline. The school contained a pool and 
+cafeteria.  The school is in use year round, though it closes for a total of 5 weeks a year 
+between sessions. The community uses the building most evenings. 
+The building’s energy requirement is significantly affected by ambient temperature. Temperature 
+data can be easily obtained from a nearby government weather office. No other significant 
+energy-governing variable could be quantified. 
+                                                  
+28 The annual oil and money savings are expressed conservatively with three significant digits, the lowest number of 
+digits used in the computations as found in the efficiency tests.   

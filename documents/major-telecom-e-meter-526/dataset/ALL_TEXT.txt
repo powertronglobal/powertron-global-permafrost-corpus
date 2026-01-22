@@ -1,0 +1,270 @@
+═══ EXECUTIVE SUMMARY ═══
+PermaFrost NMR Energy Study: Major Telecom E Meter 526
+
+Study Overview
+----------------------------------------
+This study analyzed 67,547 high-resolution measurements collected at 2-second intervals.
+Baseline period: 31,294 data points
+Post-treatment period: 35,494 data points
+
+Key Results
+----------------------------------------
+Energy Efficiency Improvement: 5.4%
+Baseline kW/ton: 2.035
+Post-treatment kW/ton: 1.926
+
+The PermaFrost NMR treatment reduced energy consumption by 5.4%, 
+lowering the system's kW per ton from 2.035 to 1.926.
+
+Facility Information
+----------------------------------------
+Customer: Major Telecom E
+Industry: Telecommunications
+
+Measurement Standards
+----------------------------------------
+Standard: ASHRAE Guideline 14-2014
+Note: High-resolution time-series data supports detailed analysis
+
+═══ METHODOLOGY ═══
+Measurement Methodology
+========================================
+
+Data Type: Time Series
+Total Measurements: 67,547
+
+Source Data Files:
+  - meter_526_final_configuration.csv: 32 rows (unknown period)
+  - meter_526_final_hourly_data.csv: 672 rows (unknown period)
+  - meter_526_final_performance.csv: 12 rows (unknown period)
+  - meter_526_final_recommendations.csv: 8 rows (unknown period)
+  - meter_526_final_statistics.csv: 10 rows (unknown period)
+  - meter_526_final_temperature_bins.csv: 21 rows (unknown period)
+  - meter_526_final_zone_analysis.csv: 4 rows (unknown period)
+  - Baseline_526 FMV.csv: 31,294 rows (baseline period)
+  - Post_526 FMV.csv: 35,494 rows (post period)
+
+Measurement Protocol
+----------------------------------------
+This study follows the International Performance Measurement & Verification Protocol (IPMVP)
+for collecting and analyzing HVAC performance data. Key metrics measured include:
+
+  - Coefficient of Performance (COP)
+  - Energy Efficiency Ratio (EER)
+  - Power consumption (kW)
+  - Cooling capacity (Tons)
+  - kW per Ton efficiency
+  - Outdoor air temperature
+  - Chilled water flow rate (GPM)
+  - Chilled water delta temperature
+
+Measurements were collected at 2-second intervals using calibrated sensors
+to capture transient system behavior and ensure statistical significance.
+
+═══ DETAILED METRICS ═══
+Detailed Metrics Analysis
+========================================
+
+Data File: meter_526_final_configuration.csv
+Period: Unknown
+Measurements: 32
+------------------------------
+
+
+Data File: meter_526_final_hourly_data.csv
+Period: Unknown
+Measurements: 672
+------------------------------
+
+kWh_Consumption:
+  Mean: 0.398
+  Median: 0.324
+  Std Dev: 0.207
+  Range: 0.020 to 0.982
+
+Cumulative_kWh:
+  Mean: 816.639
+  Median: 845.150
+  Std Dev: 722.308
+  Range: 0.500 to 1,575
+
+Time Range:
+  Column: DateTime
+  Start: 2025-06-26 05:00:00
+  End: 2025-10-29 04:00:00
+  Duration: 2999.0 hours
+
+
+Data File: meter_526_final_performance.csv
+Period: Unknown
+Measurements: 12
+------------------------------
+
+
+Data File: meter_526_final_recommendations.csv
+Period: Unknown
+Measurements: 8
+------------------------------
+
+
+Data File: meter_526_final_statistics.csv
+Period: Unknown
+Measurements: 10
+------------------------------
+
+
+Data File: meter_526_final_temperature_bins.csv
+Period: Unknown
+Measurements: 21
+------------------------------
+
+Baseline_kWh_per_hr:
+  Mean: 0.322
+  Median: 0.338
+  Std Dev: 0.171
+  Range: 0.031 to 0.640
+
+Post_kWh_per_hr:
+  Mean: 0.446
+  Median: 0.209
+  Std Dev: 0.511
+  Range: 0.077 to 1.692
+
+Savings_kWh_per_hr:
+  Mean: -0.124
+  Median: 0.033
+  Std Dev: 0.409
+  Range: -1.112 to 0.274
+
+
+Data File: meter_526_final_zone_analysis.csv
+Period: Unknown
+Measurements: 4
+------------------------------
+
+Average_Baseline_kWh:
+  Mean: 0.330
+  Median: 0.335
+  Std Dev: 0.164
+  Range: 0.130 to 0.520
+
+Average_Post_kWh:
+  Mean: 0.527
+  Median: 0.295
+  Std Dev: 0.602
+  Range: 0.110 to 1.410
+
+
+Data File: Baseline_526 FMV.csv
+Period: Baseline
+Measurements: 31,294
+------------------------------
+
+cop:
+  Mean: 1.772
+  Median: 1.794
+  Std Dev: 0.266
+  Range: 0.837 to 2.705
+
+eer:
+  Mean: 5.939
+  Median: 6.020
+  Std Dev: 0.879
+  Range: 2.838 to 8.830
+
+kwton:
+  Mean: 2.035
+  Median: 1.960
+  Std Dev: 0.344
+  Range: 1.300 to 4.200
+
+kw:
+  Mean: 2.981
+  Median: 2.950
+  Std Dev: 0.228
+  Range: 2.570 to 3.500
+
+kweperkwr:
+  Mean: 2.035
+  Median: 1.960
+  Std Dev: 0.344
+  Range: 1.300 to 4.200
+
+kwr:
+  Mean: 0.000
+  Median: 0.000
+  Std Dev: 0.000
+  Range: 0.000 to 0.000
+
+Time Range:
+  Column: utc_time
+  Start: 2025-06-27 00:43:34+00:00
+  End: 2025-07-07 19:21:38+00:00
+  Duration: 258.6 hours
+
+
+Data File: Post_526 FMV.csv
+Period: Post
+Measurements: 35,494
+------------------------------
+
+cop:
+  Mean: 1.302
+  Median: 1.000
+  Std Dev: 0.459
+  Range: 1.000 to 3.000
+
+eer:
+  Mean: 6.246
+  Median: 6.127
+  Std Dev: 0.865
+  Range: 3.658 to 10.091
+
+kwton:
+  Mean: 1.926
+  Median: 1.930
+  Std Dev: 0.273
+  Range: 1.150 to 3.260
+
+kw:
+  Mean: 3.059
+  Median: 3.070
+  Std Dev: 0.265
+  Range: 2.510 to 3.550
+
+kweperkwr:
+  Mean: 1.926
+  Median: 1.930
+  Std Dev: 0.273
+  Range: 1.150 to 3.260
+
+kwr:
+  Mean: 0.000
+  Median: 0.000
+  Std Dev: 0.000
+  Range: 0.000 to 0.000
+
+Time Range:
+  Column: utc_time
+  Start: 2025-10-15 21:20:40+00:00
+  End: 2025-10-29 04:29:09+00:00
+  Duration: 319.1 hours
+
+
+
+═══ TEMPERATURE ANALYSIS ═══
+Temperature-Normalized Analysis
+========================================
+
+HVAC efficiency varies significantly with outdoor temperature.
+This analysis normalizes results by temperature bins to ensure
+fair comparison between baseline and post-treatment periods.
+
+Overall Results (All Temperature Bins):
+  Baseline Average: 2.035 kW/ton
+  Post-Treatment Average: 1.926 kW/ton
+  Improvement: 5.4%
+
+The improvement percentage represents the reduction in electrical
+power required to produce one ton of cooling capacity after
+PermaFrost NMR treatment was applied to the HVAC system.

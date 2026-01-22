@@ -1,0 +1,50 @@
+ 
+Appendix B Uncertainty         87 
+ 
+APPENDIX B   UNCERTAINTY 
+B-1   Introduction 
+The objective of M&V is to reliably determine energy savings. In order for savings reports to be 
+reliable, they need to have a reasonable level of uncertainty. The uncertainty of a savings report 
+can be managed by controlling random errors and data bias. Random errors are affected by the 
+quality of the measurement equipment, the measurement techniques, and the design of the 
+sampling procedure. Data bias is affected by the quality of measurement data, assumptions and 
+analysis. Reducing errors usually increases M&V cost so the need for improved uncertainty 
+should be justified by the value of the improved information (see Chapter 8.5). 
+Energy savings computations involve a comparison of measured energy data, and a calculation 
+of “adjustments” to convert both measurements to the same set of operating conditions (see 
+Chapter 4.1, Equation 1). Both the measurements and the adjustments introduce error. Errors 
+may arise for example due to meter inaccuracy, sampling procedures or adjustment procedures. 
+These processes produce statistical “estimates” with reported or expected values, and some 
+level of variation. In other words, true values are not known, only estimates with some level of 
+uncertainty. All physical measurement and statistical analysis is based on estimation of central 
+tendencies, such as mean values, and quantification of variations such as range, standard 
+deviation, standard error, and variance.  
+Statistics is the body of mathematical methods that can be applied to data to help make 
+decisions in the face of uncertainty. For example, statistics provide ways of checking results to 
+see if the reported savings are “significant,” i.e. likely to be a real effect of the ECM rather than 
+random behavior.  
+Errors occur in three ways: modeling, sampling, and measurement:  
+ 
+Modeling.  Errors in mathematical modeling due to inappropriate functional form, inclusion of 
+irrelevant variables, exclusion of relevant variables, etc. See Appendix B-2. 
+ 
+Sampling.  Sampling error arises when only a portion of the population of actual values is 
+measured, or a biased sampling approach is used. Representation of only a portion of the 
+population may occur in either a physical sense (i.e., only 20 of 1,000 light fixtures are 
+metered), or in the time sense (metering occurring for only ten minutes out of every hour). 
+See Appendix B-3. 
+ 
+Measurement.  Measurement errors arise from the accuracy of sensors, data tracking 
+errors, drift since calibration, imprecise measurements, etc. The magnitude of such errors is 
+largely given by manufacturer's specifications and managed by periodic re-calibration. See 
+Appendix B-4, and Chapters 4.8.3 and 8.11. 
+This Appendix gives guidance on quantifying the uncertainties created by these three forms of 
+error. Appendix B-5 discusses methods of combining quantified elements of uncertainty. 
+Some sources of error are unknown and unquantifiable. Examples of such sources are poor 
+meter selection or placement, inaccurate estimates in Option A, or mis-estimation of interactive 
+effects in Options A or B. Unknown or unquantifiable uncertainties can only be managed by 
+following industry best practices. 
+An example of the use of uncertainty analysis is given in Appendix B-6. Also some of the 
+examples in Appendix A present uncertainty calculations: A-3, A-3-2, A-4 and A-7. EVO’s 
+subscriber website (www.evo-world.org) contains details of the uncertainty calculations in A-4 
+and A-7. 

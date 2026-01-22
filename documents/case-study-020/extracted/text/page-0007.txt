@@ -1,0 +1,83 @@
+Post
+Baseline
+Average kW
+REDUCTION
+10%
+Additional Results from Pilot Cooling System
+7
+4.72
+4.25
+Post
+Baseline
+Supply Air Temp Delta
+IMPROVEMENT
+19.9%
+19.1
+22.9
+Post
+Baseline
+Calculated kWh
+REDUCTION
+25.3%
+17,070
+12,750
+Post
+Baseline
+Enthalpy Delta (Coil Efficiency)
+IMPROVEMENT
+20.4%
+5.63
+6.78
+Summary of Performance Measurements in Treated Pilot Cooling System
+The chart below lists all of the measurements taken on the treated pilot Bard cooling system. 
+Type of Measurement
+Volts
+Amps
+Entering DB
+Leaving DB
+Entering WB
+Leaving WB
+Entering Enthalpy
+Leaving Enthalpy
+Enthalpy Delta
+CFM
+Outside Air Temperature
+Tons
+kW/Ton
+COP
+Regional Telecom
+Tower Unit #1
+Baseline
+239.2
+23.2
+71
+51.9
+57.9
+48.4
+25.06
+19.43
+5.63
+1,112
+75
+2.35
+2.01
+1.75
+Regional Telecom
+Tower Unit #1
+Baseline
+240.4
+20.8
+70.6
+47.7
+56.3
+44.2
+24.03
+17.25
+6.78
+1,112
+75
+2.83
+1.50
+2.34
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,846 @@
+================================================================================
+DOCUMENT: Case Study 005
+DOC_ID: pdf_015
+SHA256: 68c461979eede7ed26d2ce304ab65bb6d6924c29c1f3eaf1ae9814bfa78fc5e5
+================================================================================
+
+═══ PAGE 001 ═══
+
+Comprehensive HVAC/R Capacity Study
+Featuring the PermaFrost NMR® Energy Conservation Measure (ECM) 
+Energy Science Division
+®
+Major US Theater Chain [Location]
+Participants
+Study Date:
+     October 2013 - May 2014
+Participants: 
+      Major US Theater Chain
+      [Client Director of Utilities],
+      DIrector of Utilities
+      Powertron Global
+      [Senior Energy Engineer],
+      Director of Engineering
+      HVAC Services Provider/HVAC Equipment Manufacturer
+      [HVAC Field Technician],
+      Sr. Field Technician
+Location:
+      Major US Theater Chain Theater [Location],
+      [Texas City]
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 002 ═══
+
+1
+HVAC/R Eﬃciency Report
+Purpose of Energy Eﬃciency Study
+The purpose of this study is to verify the industry wide problem of efficiency loss in HVAC/R as projected by
+ASHRAE research and to quantify the amount of money wasted due to this loss. Many industry leading 
+organizations including ASHRAE project that all HVAC/R units degrade in capacity and efficiency as they age. 
+Thermal degradation is caused by a phenomenon that is present in all HVACR equipment that operates as a 
+vapor compression cycle associated with refrigerant and compressor lubricant. This thermal degradation is well 
+documented by the HVACR industry and the original equipment manufacturers (OEM’s). Thermal degradation 
+prevents units from operating at the original design efficiency, which leads to excessive run-times and 
+additional kWh consumption.
+The representative sample of equipment in this study is an agreed upon sampling that represents the portfolio 
+of equipment operated by ACM Theatres. If thermal degradation is present in these machines it is present in the 
+entire inventory of equipment. Energy waste can be calculated based on this equipment (portfolio 
+representation) and then accurately extrapolated across the entire inventory of equipment.
+[HVAC Field Technician] from HVAC Services Provider/HVAC Equipment Manufacturer prepares to manually 
+operate one of the units involved in the Major US Theater Chain pilot to collect all the 
+pertinent power data while all 6 compressors are running at 100%. 
+Above image is one of the seven HVAC Equipment Manufacturer Intellipak systems 
+supporting the Major US Theater Chain [Location] facility. Three of these 
+90-ton RTU’s were forensically tested using the IPMVP 
+methodology to determine their performance capabilities. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 003 ═══
+
+2
+Process
+This report contains specific information regarding the current performance profile of the large rooftop 
+packaged units (RTU’s) that support the Major US Theater Chain [Location] theater facility in [Texas City]. 
+Detailed performance testing (outlined later in this report) was performed on three of the units before and 
+after the installation of the ECM to determine the impact on the three key elements that greatly affect Major US Theater Chain’s 
+HVAC power bill as they relate to the original design specifications:
+ 
+1.  The cooling capacity the RTUs are capable of producing after 16 years in service. 
+2.  The actual cost of power required to produce the amount of cooling tons the RTUs are delivering as 
+     reflected in the kW/ton measurement. 
+3.  The thermal dynamic ability of the equipment to still perform at or close to operational design.
+Methodology
+The measurements used in the efficiency calculations were collected and compiled in accordance with the 
+IPMVP (International Measurement and Verification Protocol) framework. The team consisted of Powertron 
+Global’s Director of Engineering, [Senior Energy Engineer] and [HVAC Field Technician], Sr. Field Technician for [Virginia Location] 
+Services /HVAC Equipment Manufacturer. Under contract to maintain the equipment, HVAC Services Provider participated in the entire testing 
+process and was a tremendous help with their intricate knowledge of the nuances associated with each of the 
+pilot units. 
+Notes 
+The day chosen to test was the most common type of day in Houston of approximately 80 degrees according to national 
+BIN data. The weather conditions along with the moviegoers patronizing the theater provided an adequate heat load on 
+the facility to ensure all compressors would remain running during the actual data collection period required for each. 
+The boundary of the testing was each of the RTU’s and nothing else; therefore confidence in the accuracy of the 
+performance calculations is very high.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 004 ═══
+
+3
+Energy Conservation Method (ECM)
+The content detailed in this report will first demonstrate the ability of the three pilot RTUs to perform prior to 
+the ECM being installed, as well as illustrate the thermal degradation that naturally occurs in heat
+exchangers over time.
+ 
+The following report produces the utilization of the IPMVP as the M&V plan. 
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+• kW = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+• Ton = (Airflow * 4.5 * Enthalpy Delta) / 12,000 
+• kW/Ton = kW / Actual Tonnage 
+• Coefficient of Performance (COP) = (12 / kW per ton /3.412)
+Notes 
+Following a diagnostic examination of the pilot equipment to determine the operational condition of the systems was 
+satisfactory, Baseline M&V data was collected and recorded by the M&V team. Forty days after installation of the ECM, 
+the M&V team returned on a very similar weather day to the Baseline to take Post M&V measurements in the identical 
+fashion as in the Baseline. The delta of these measurements and associated calculations show the amount of capacity 
+restored.
+During the course of the testing, it was discovered that all 18 of the compressors in the three RTUs measured have been 
+replaced at least one time in the 16 years each of the RTUs has been in operation. In general though, the RTUs were 
+determined to be performing satisfactorily from a mechanical standpoint at the start of the testing period.
+The following IPMVP data points were recorded on 28 October 2013 using recently calibrated devices by NIST 
+(National Institutes of Standards and Technology) to insure measurement accuracy. The three RTUs were then treated 
+with PermaFrost NMR® on 4 April 2014 and allowed to run normally until 12 May 2014 to ensure the patented 
+surface science nanotechnology had ample time to seat into all the metal surfaces of the heat exchangers. All 
+measurements were taken at full load (all compressors running) and at identical outdoor air temperatures and similar 
+mid-day times and attendance.
+The collection of the data in both the baseline and post periods was assisted and witnessed by HVAC Services Provider/HVAC Equipment Manufacturer.  
+The measurements are listed below. Photographic evidence of each of the readings is also available under separate cover 
+to validate the accuracy of the data. 
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 005 ═══
+
+183.3 tons
+255.3 tons
+Baseline
+Tonnage
+Post ECM
+Tonnage
+• The RTUs should be operating @ 273.9 tons of cooling capacity
+• The RTUs were operating @ 183.3 tons of cooling capacity prior to
+   installing ECM
+• The RTUs now have 72 tons of restored cooling capacity after ECM
+• The RTUs should be operating @ 3 COP or higher
+• The RTUs were operating @ 2.01 COP prior to the ECM
+   and 2.87 following the ECM
+• The average COP of the RTUs was increased by 42.8%
+   following the ECM
+2.01
+Baseline COP
+COEFFICIENT
+OF
+PERFORMANCE
+(COP)
+183.3
+tons Baseline
+100%
+CAPACITY @
+100% LOAD
+Baseline
+COP
+Post ECM
+COP
+2.01
+2.87
+2.87
+Post ECM COP
+255.3
+tons Post ECM
+42.8%
+Improvement
+in COP
+72
+tons of
+Recovered
+Capacity
+TONNAGE
+COP
+Summary of HVAC/R Eﬃciency Study Results (across all 3 pilot units)
+RTU Eﬃciency with PermaFrost NMR® ECM
+Major US Theater Chain has the problem of thermal degradation in its HVAC/R units. The low operating tonnage & COP 
+ratings measured on site are in line with the ASHRAE loss of performance and cost to operate numbers. The 
+degraded equipment performance is costing Major US Theater Chain significant money and wasting energy. The equipment is 
+using significantly more kWh to operate then it used when it was new. The efficiency summary includes all 
+HVAC units measured, combining the current efficiency & tonnage of all units. This summary is the 
+cumulative impact of thermal degradation on the portfolio sampling.
+The implementation of PermaFrost NMR® ECM resulted in a restoration of 72 operating tons and an average 
+improvement of 42.8% in Coefficient of Performance (COP), significantly reducing the cost to operate.
+The three units evaluated and treated are HVAC Equipment Manufacturer DX units with a nominal tonnage of 91.3 tons per unit, totaling 
+273.9 tons.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 006 ═══
+
+Recovered
+Energy
+5
+Recovered Wasted Energy with ECM -  Chiller
+The chart to the right illustrates the performance
+restoration the ECM created in the treated RTUs.       . 
+The average cost to operate these RTUs before 
+they were treated with PermaFrost NMR® as 
+calculated in kW/ton was 1.78.
+The specific cost to operate these RTUs after they 
+were treated with PermaFrost NMR® as 
+calculated in kW/ton is currently 1.23.
+The high baseline kW/ton ratings measured in-situ 
+were expected when compared to the ASHRAE loss of 
+performance efficiency and cost to operate estimations 
+for 16 year old equipment. The post results are also in 
+line with the average improvement savings shown 
+over more than 120,000 installations globally.
+Cost Savings for Major US Theater Chain when Implementing ECM Portfolio-wide
+The implementation of PermaFrost NMR® ECM resulted in significant savings at [Location]. The annual 
+kWh reduction is 833,565 kWh resulting in $75,021 in savings. These improvements extrapolated across Major US Theater Chain's 
+entire portfolio, the estimated savings would be between 14M-16M.
+Notes
+The [Location] is one of the larger theaters in the portfolio with 650 tons of HVAC. The average amount of tonnage per 
+facility is closer to 350 tons or 54% of the [Location]’s tonnage.  
+Cost to Operate
+Baseline
+Post ECM
+kW/ton
+.55 kw/ton
+Annual kWh Savings for All of [Location]
+Annual Cost Savings for All of [Location]
+Annual Cost Savings for Major US Theater Chain USA Portfolio
+833,565
+$75,021
+$14,000,000 to $16,000,000
+Annual Savings Value
+Portfolio Eﬀects of ECM
+0.0
+0.5
+1.0
+1.5
+2.0
+1.78
+1.23
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 007 ═══
+
+HVAC/R Eﬃciency Study Results
+Calculated Eﬃciency of Major US Theater Chain HVAC RTUs Baseline and Post
+The chart below illustrates just how far off design the Major US Theater Chain pilot RTUs had degraded in terms of efficiency 
+over their 16 years of use. The three pilot RTUs (#2, #6 and #7) were performing at an average of 67% of the 
+original design efficiency when first installed. The actual design rated tonnage of each of these RTUs is 91.3 
+tons. In actuality however, the three RTUs were only producing an average of 61.1 tons at the start of the pilot. 
+The majority of this 33% efficiency loss was directly attributable to the thermal degradation of the heat 
+exchange surfaces. This is due in large part to thermal degradation creating an insulating barrier to heat transfer 
+through the tube walls. 
+After the ECM was installed, the average efficiency in each of the RTUs jumped up to 93% of design 
+specifications or 85.1 tons. This represents a 39% increase in efficiency over the baseline numbers.
+Original Design
+Eﬃciency
+ASHRAE Projected
+Eﬃciency Loss
+Over Time
+Actual Major US Theater Chain
+Design Eﬃciency as
+Measured In-Situ
+Actual Major US Theater Chain Theatres HVAC/R Operating Eﬃciency
+vs. ASHRAE Projected Eﬃciency Loss
+HVAC/R Eﬃciency %
+DESIGN EFFICIENCY
+20
+40
+60
+80
+100
+120
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Eﬃciency
+Improvement
+39%
+ 
+ 
+ 
+Age of HVAC/R Units
+Avg Age of Major US Theater Chain 
+Equipment
+16
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 008 ═══
+
+HVAC/R Eﬃciency Study Results
+Cost to Major US Theater Chain to Operate the [Location] HVAC RTUs Baseline vs Post
+The next chart illustrates the just how much money the efficiency performance loss in the pilot RTUs was 
+costing Major US Theater Chain in the way of wasted energy each and every day they were operating prior to the ECM. The 
+average cost to operate these three pilot RTUs as calculated in kW/ ton was 1.78 in the Baseline. When new, the 
+kW/ton rating for units like these usually ranges from 1.0 to 1.2 kW/ton. This means Major US Theater Chain was paying up to 
+48% more than design for energy to run the RTUs as a direct result of the baseline reduced level of 
+performance. The kW/ton ratings measured on site in Houston were very much in line with the ASHRAE loss 
+of performance and cost to operate numbers.
+  
+The restored average kW/ton rating following the ECM is now 1.23. This represents a 30.9% reduction in 
+energy costs from the baseline for every ton of cooling produced. It also brings down the Major US Theater Chain costs to operate 
+the RTUs to just 3% of design. This will result in an initial payback period to Major US Theater Chain of approximately 12-13 
+months. Over just a few years these accumulated savings will greatly reduce the eventual CapEx costs to 
+replace the RTUs when they finally reach the end of their useful life.   
+Original Design
+Eﬃciency
+ASHRAE Projected
+Cost to Operate
+Over Time
+Actual Cost to
+Operate Major US Theater Chain Theater
+Systems As Is
+Operational Cost %
+Actual Major US Theater Chain Theatres HVAC/R Operating Cost
+vs. ASHRAE Historical Performance
+-40
+-20
+00
+20
+40
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+ 
+ 
+ 
+Avg Age of Major US Theater Chain 
+Equipment
+16
+EXPECTED COST
+Age of HVAC/R Units
+31%
+in Energy
+Savings
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 009 ═══
+
+Return On Investment
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the three Major US Theater Chain Packaged RTUs.
+Baseline Energy Consumption
+Baseline Tonnage: 183.3 tons
+Adjusted kW Baseline: 1.78 kW/ton * 255.3 tons = 454.43 kW
+Adjusted Baseline kWh: 454.43 kW * 3,150 Annual Operating Hrs = 1,431,455 kWh
+Revised Cost to Run Baseline: 1,431,455 kWh * $.09 = $128,831
+Post Energy Consumption
+kW Post: 1.23 kW/ton * 255.3 tons = 314.02 kW
+Annual kWh Post: 314.02 kW * 3,150 hours = 989,163 kWh
+Annual Cost Post: 989,163 kWh * .09 cents = $89,025
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $128,831 - $89,025 = $39,806
+Estimated Energy Savings Per Month: $39,806 / 12 = $3,317
+Return On Investment
+Cost of PermaFrost NMR® installed in three pilot RTUs: $33,750
+Estimated ROI Period for Major US Theater Chain on three RTUs: $33,750 / $3,317 = 10.2 months
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period 
+for Major US Theater Chain for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true 
+energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended 
+in the Avoided Energy Reporting (Post) Analysis Period. ROI comes from determining what the cost to run the systems 
+was when operating at the original energy profile to produce the newly restored amount of available tonnage capacity 
+and then subtracting the revised cost to run the systems at the same restored tonnage after the PermaFrostNMR® 
+ECM was installed. This regression analysis is the most widely accepted method of accounting for the reduced number 
+of hours the systems will now operate due to the restored capacity. This restored capacity allows the systems to reach the 
+internal building set points with increased efficiency resulting in reduced compressor demand loading.
+8
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 010 ═══
+
+2.08
+POST
+BASELINE
+1.32
+kW/ton
+REDUCTION
+36.5%
+POST
+BASELINE
+COP
+IMPROVEMENT
+58%
+54.1%
+POST
+BASELINE
+Operating Tonnage
+IMPROVEMENT
+POST
+BASELINE
+17.10
+Refrigerant Approach
+IMPROVEMENT
+21.6%
+Results for Packaged RTUs with PermaFrost NMR® ECM
+Key Results for Unit #2 (91.3 ton design)
+9
+54.3
+1.69
+2.67
+HVAC Equipment Manufacturer
+SXHGC09040K75AD
+J97E71547
+R22
+91.3
+3,150
+1997
+Notes
+The three pilot RTUs provide cooling to opposite 
+sections of the Major US Theater Chain [Location] Theaters. 
+Given the weather BIN data of all hours over 55 
+degrees in Houston (7,086), the internal load of 
+the theaters combined with the hours of 
+operations, and the size and age of the RTUs, it 
+is estimated that the RTUs each run 
+approximately 3,150 hours or more annually 
+prior to the ECM being implemented.  
+System Description
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+481.6 V
+155.8 A 
+ 40.8
+ 97.5 F
+69.9 PSI
+189.2 PSI
+ 74.6 F
+ 64.7 F
+54.2 F
+51.7 F
+29.84
+21.26
+8.58
+13.4 F 
+ 83.7
+26,022***
+110.3
+1.32
+2.67
+386,046
+81 F
+Energy Usage
+BASELINE
+POST
+Voltage  
+Amperage  
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Suction Pressure (Avg)
+Discharge Pressure (Avg)
+Entering Air Temp DB (Return)
+Entering Air Temp WB (Return)
+Leaving Air Temp DB (Supply)
+Leaving Air Temp WB (Supply)
+Enthalpy of Entering WB
+Enthalpy of Leaving WB
+Enthalpy Delta
+Evaporator Approach
+Measured Tons Produced 
+Airﬂow (Ft3/Min)
+Total kW
+Calculated kW / Ton  
+Coeﬃcient of Performance (COP)
+kWh after Regression Analysis
+O.A.T.
+ 479.6 V
+160.1 A
+41.8 F
+71.2 F
+114.6 PSI
+241.5 PSI
+74.1 F
+63.3 F
+58.9 F
+55.3 F
+28.97
+23.41
+5.56
+17.1 F
+54.3
+26,022
+112.9
+2.08
+1.69
+548,415
+81 F
+13.40
+83.7
+*Measured AMPs were slightly lower than design as one condenser fan was having issues and was shut oﬀ
+**Low refrigerant temps seemed to indicate unit was low on refrigerant and techs did not have any on hand so it was left alone for test
+***Post CFM readings were within accepted tolerance of +/- 2% so the same reading was used as in the baseline
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 011 ═══
+
+Results for Packaged RTUs with PermaFrost NMR® ECM
+Key Results for Unit #6 (91.3 ton design)
+10
+System Description
+480.8 V
+133.1 A* 
+ 35 F**
+ 105.3 F
+62.3 PSI
+211.8 PSI
+ 74 F
+ 65.6 F
+55 F
+53.1 F
+30.52
+22.02
+8.5
+20 F 
+ 81.6
+25,590
+94.9
+1.16
+3.05
+296,382
+81 F 
+Energy Usage
+BASELINE
+POST
+Voltage  
+Amperage  
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Suction Pressure (Avg)
+Discharge Pressure (Avg)
+Entering Air Temp DB (Return)
+Entering Air Temp WB (Return)
+Leaving Air Temp DB (Supply)
+Leaving Air Temp WB (Supply)
+Enthalpy of Entering WB
+Enthalpy of Leaving WB
+Enthalpy Delta
+Evaporator Approach
+Measured Tons Produced 
+Airﬂow (Ft3/Min)
+Total kW
+Calculated kW / Ton  
+Coeﬃcient of Performance (COP)
+kWh after Regression Analysis
+O.A.T.
+480.6 V
+136.3 A* 
+ 31.7 F**
+ 120.7 F
+57.2 PSI
+262.9 PSI
+ 74 F
+ 64.5 F
+58.2 F
+55.9 F
+29.69
+23.78
+5.91
+26.5 F 
+ 58.2
+26,260
+96.3
+1.66
+2.13
+426,825
+80 F
+1.65
+POST
+BASELINE
+1.15
+kW/ton
+REDUCTION
+30.1%
+POST
+BASELINE
+COP
+IMPROVEMENT
+43.2%
+40.2%
+POST
+BASELINE
+Operating Tonnage
+IMPROVEMENT
+POST
+BASELINE
+26.50
+Refrigerant Approach
+IMPROVEMENT
+24.5%
+58.2
+2.13
+3.05
+20
+81.5
+Notes
+The three pilot RTUs provide cooling to opposite 
+sections of the Major US Theater Chain [Location] Theaters. 
+Given the weather BIN data of all hours over 55 
+degrees in Houston (7,086), the internal load of 
+the theaters combined with the hours of 
+operations, and the size and age of the RTUs, it 
+is estimated that the RTUs each run 
+approximately 3,150 hours or more annually 
+prior to the ECM being implemented.  
+*Measured AMPs were slightly lower than design as one condenser fan was having issues and was shut oﬀ
+**Low refrigerant temps seemed to indicate unit was low on refrigerant and techs did not have any on hand so it was left alone for test
+***Post CFM readings were within accepted tolerance of +/- 2% so the same reading was used as in the baseline
+HVAC Equipment Manufacturer
+SXHGC09040K75AD
+J97E71546
+R22
+91.3
+3,150
+1997
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 012 ═══
+
+Results for Packaged RTUs with PermaFrost NMR® ECM
+Key Results for Unit #7 (91.3 ton design)
+11
+System Description
+478.7 V
+155.5 A 
+ 39.8 F
+ 96 F
+68.4 PSI
+184.6 PSI
+ 75.1 F
+ 65.4 F
+56.9 F
+52.3 F
+30.37
+20.97
+9.4
+17.1 F 
+ 90.0
+27,300***
+109.4
+1.22
+2.89
+344,684
+81 F 
+Energy Usage
+BASELINE
+POST
+Voltage  
+Amperage  
+Suction Refrigerant Temp
+Discharge Refrigerant Temp
+Suction Pressure (Avg)
+Discharge Pressure (Avg)
+Entering Air Temp DB (Return)
+Entering Air Temp WB (Return)
+Leaving Air Temp DB (Supply)
+Leaving Air Temp WB (Supply)
+Enthalpy of Entering WB
+Enthalpy of Leaving WB
+Enthalpy Delta
+Evaporator Approach
+Measured Tons Produced 
+Airﬂow (Ft3/Min)
+Total kW
+Calculated kW / Ton  
+Coeﬃcient of Performance (COP)
+kWh after Regression Analysis
+O.A.T.
+479.3 V
+160.3 A 
+ 39.8 F
+ 112.1 F
+68.1 PSI
+233 PSI
+ 74.1 F
+ 64.7 F
+58.1 F
+54.5 F
+29.84
+22.92
+6.92
+18.3 F 
+ 70.8
+27,300
+112.9
+1.60
+2.21
+453,600
+81 F 
+1.60
+POST
+BASELINE
+1.22
+kW/ton
+REDUCTION
+23.8%
+POST
+BASELINE
+COP
+IMPROVEMENT
+30.8%
+27.1%
+POST
+BASELINE
+Operating Tonnage
+IMPROVEMENT
+POST
+BASELINE
+18.3
+Refrigerant Approach
+IMPROVEMENT
+6.6%
+70.8
+2.21
+2.89
+17.1
+90.0
+Notes
+The three pilot RTUs provide cooling to opposite 
+sections of the Major US Theater Chain [Location] Theaters. 
+Given the weather BIN data of all hours over 55 
+degrees in Houston (7,086), the internal load of 
+the theaters combined with the hours of 
+operations, and the size and age of the RTUs, it 
+is estimated that the RTUs each run 
+approximately 3,150 hours or more annually 
+prior to the ECM being implemented.  
+*Measured AMPs were slightly lower than design as one condenser fan was having issues and was shut oﬀ
+**Low refrigerant temps seemed to indicate unit was low on refrigerant and techs did not have any on hand so it was left alone for test
+***Post CFM readings were within accepted tolerance of +/- 2% so the same reading was used as in the baseline
+HVAC Equipment Manufacturer
+SXHGC09040K75AD
+J97E71548
+R22
+91.3
+3,150
+1997
+Make
+Model
+Serial Number
+Refrigerant Type
+Nominal Cooling
+Capacity in Tons  
+Average Annual
+Runtime Hours
+Date Installed
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+
+
+═══ PAGE 013 ═══
+
+121
+Passenger vehicles
+29.5
+Garbage trucks of waste sent to
+the landﬁll instead of recycled
+64,677
+Gallons of gasoline
+consumed
+617,385
+Pounds of coal burned
+annually
+1,337
+Barrels of oil
+consumed
+3.1
+Railcars worth
+of coal burned
+79.1
+Homes’ electricity use for
+one year
+12
+Major US Theater Chain is Saving More than just Energy
+By treating all seven [Location] RTUs with PermaFrost NMR®, based on the current manner Major US Theater Chain 
+operates these RTUs, it will save approximately 833,565 kWh per year and all the costs associated with those 
+savings. From an environmental impact standpoint, Major US Theater Chain is also benefitting the surrounding community. 
+Imagine how great the environmental impact will be when Major US Theater Chain moves forward with treating all their 
+HVAC equipment across the USA.
+The 833,565 kWh saved per year equates to preventing 575 metric tons of greenhouse gas emissions from 
+being released or any of the following:
+Annual greenhouse emissions from:
+CO2 emissions from:
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.
+

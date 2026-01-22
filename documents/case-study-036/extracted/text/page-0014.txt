@@ -1,0 +1,100 @@
+HVAC Performance Comparison: COP
+Kit 3 Caribbean Telecom Provider [Jamaica Site B] POST
+COP Comparison 
+OSA Temp.
+Base COP
+Post COP
+70 degF
+0.0
+0.0
+71 degF
+0.0
+0.0
+72 degF
+0.0
+0.0
+73 degF
+0.0
+0.0
+74 degF
+0.0
+0.0
+75 degF
+0.0
+0.0
+76 degF
+0.0
+4.93
+77 degF
+0.0
+4.92
+78 degF
+0.0
+4.97
+79 degF
+2.71
+4.81
+80 degF
+2.7
+4.69
+81 degF
+2.55
+4.61
+82 degF
+2.66
+4.5
+83 degF
+2.51
+4.36
+84 degF
+2.65
+4.32
+85 degF
+2.63
+4.11
+86 degF
+2.9
+4.07
+87 degF
+2.65
+3.87
+88 degF
+2.71
+3.65
+89 degF
+2.85
+3.63
+90 degF
+2.63
+3.59
+91 degF
+2.3
+3.57
+92 degF
+2.27
+3.49
+93 degF
+2.14
+3.45
+94 degF
+2.34
+3.39
+95 degF
+2.23
+3.37
+-----
+2.55
+4.11
+Report Parameters 
+OSA Range.
+RA Filter
+PF Filter
+Sampling Rate
+Total Base Samples
+Total Post Samples
+70 degF - 95 degF
+70.0 degF - 75.0 degF
+0.5 - 1.0
+15s
+5973 samples
+8205 samples

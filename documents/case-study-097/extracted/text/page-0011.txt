@@ -1,0 +1,318 @@
+®
+Cost to National Restaurant Chain to Operate the Control RTU
+The next chart illustrates how much the efficiency performance loss the pilot control RTU is already costing 
+National Restaurant Chain in wasted energy over the first 18 months it has been in service and what the projected 
+savings will be over its remaining useful life. If National Restaurant Chain chooses not to treat the unit, these future 
+avoided costs will hit operational costs instead of dropping to the bottom line.
+Kilowatt Hours (kWh) Loss/Gain With/Without PermaFrost NMR® Treatment
+Savings indicated inside red circle equates to a 36-37 Month Project Payback for National Restaurant Chain when 
+treating a new RTU in the mid-Atlantic region. This is determined by dividing the full turn-key rollout cost 
+of $1,100 for treating the RTU with PermaFrost NMR® by the anticipated third year cumulative savings of 
+$1,085 and then multiplying the result by 36 months. In just over a year in service, the newer control unit has 
+already cost National Restaurant Chain $106 in lost energy that can never be recovered.
+Savings indicated inside orange circle equates to an overall ROI for National Restaurant Chain of 1,486% over the 
+remaining 19 years of projected useful equipment life in the mid-Atlantic region. This is determined by 
+dividing the projected 19 years avoided cost savings of $16,343 by the $1,100 cost of treating the newer RTU 
+with PermaFrost NMR® and then multiplying the result by 100.
+10
+DX
+1
+11
+3000
+$0.120
+0.0%
+Unit Type
+Unit Age
+Input Power kWE
+Annual Run Time Hours
+Current kWh Cost
+Annual kWh Cost Increase
+33,000
+891
+181,401
+$21,768
+kWh per Year
+Total Wated kWh
+Total kWh Saved
+Total Savings
+-30.00%
+-25.00%
+-20.00%
+-15.00%
+-10.00%
+-5.00%
+0.00%
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+Wasted Energy
+Costs so far
+$106
+Future Avoided Energy Costs
+for Remaining 19 Years
+of Equipment Life
+$16,343
+Accumulated
+Savings
+238
+598
+1,085
+1,679
+2,356
+3,117
+3,944
+4,827
+5,762
+6,736
+7,742
+8,779
+9,841
+10,918
+12,003
+13,088
+14,173
+15,258
+16,343
+17,428
+18,513
+19,598
+20,683
+21,768 
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+Accumulated
+kWh Saved
+1,980
+4,983
+9,042
+13,992
+19,635
+25,971
+32,868
+40,227
+48,015
+56,133
+64,515
+73,161
+82,005
+90,981
+100,023
+109,065
+118,107
+127,149
+136,191
+145,233
+154,275
+163,317
+172,359
+181,401
+Cost
+Per kWh
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+0.120
+Saved Costs
+Saved kWh
+Wasted kWh
+891
+Eﬃciency
+Loss
+Unit Age
+2.7%
+6.0%
+9.1%
+12.3%
+15.0%
+17.1%
+19.2%
+20.9%
+22.3%
+23.6%
+24.6%
+25.4%
+26.2%
+26.8%
+27.2%
+27.4%
+27.4%
+27.4%
+27.4%
+27.4%
+27.4%
+27.4%
+27.4%
+27.4%
+27.4%
+1,980
+3,003
+4,059
+4,950
+5,643
+6,336
+6,897
+7,359
+7,788
+8,118
+8,382
+8,646
+8,844
+8,976
+9,042
+9,042
+9,042
+9,042
+9,042
+9,042
+9,042
+9,042
+9,042
+9,042
+238
+360
+487
+594
+677
+760
+828
+883
+935
+974
+1,006
+1,038
+1,061
+1,077
+1,085
+1,085
+1,085
+1,085
+1,085
+1,085
+1,085
+1,085
+1,085
+1,085
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

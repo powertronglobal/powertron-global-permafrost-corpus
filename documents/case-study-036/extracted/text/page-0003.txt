@@ -1,0 +1,78 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2018 Powertron Global, LLC. 
+ 
+ 
+ 
+Table 1 – Equipment Information 
+TYPE 
+Location 
+Manufacturer 
+ Model Number 
+Serial 
+Number 
+Type 
+Age 
+Refrig.   
+Type 
+Tonnage 
+DX 
+[Jamaica Site A] 
+Carrier 
+38AKS028-903 
+NA 
+SPLIT 
+13 
+yrs 
+22 
+25/20 
+DX 
+[Jamaica Site B] 
+Peake 
+PCC-36S335-STDM 
+NA 
+SPLIT 
+17 
+yrs 
+22 
+35 
+DX 
+Downtown 
+Liebert-
+Emerson 
+DS105AS30EI131A 
+NA 
+CRAC 
+5 yrs 
+407C 
+30 
+ 
+The testing included monitoring the operation before and after (PRE and POST) 
+PermaFrost NMR® treatment to verify the amount of cooling capacity (tons) 
+restoration and the resultant kW/ton energy savings improvement.  
+ 
+The Measurement and Verification (M&V) protocol defined the boundary by 
+isolating the entry and departure points of the medium being cooled to determine 
+cooling performance and comparing that with the power being used to quantify 
+the power costs per unit of cooling, kW/ton (kilowatt-per-ton), EER (Energy 
+Efficiency Ratio) and COP (Co-Efficient of Performance). 
+ 
+ 
+ 
+1. Method of Procedure for testing: 
+ 
+The objective of measuring the overall cooling production of HVAC/R systems 
+can be realized by measuring the total energy consumed by the specific unit 
+being tested and the total BTUH production of the system then calculating these 
+parameters to obtain current capacity, kW/ton, EER (energy efficient ratio) and 
+COP (coefficient of performance). Using that information the total BTUH of 
+cooling production can be realized. The objective of measuring overall power 
+consumed by an HVAC/R system can be realized by measuring voltage, 
+amperage and power factor.  
+ 
+For these HVAC/R systems parameters were measured every 5 seconds for a 
+period of seven (7) and four (4) days to develop a scientific baseline and to 
+capture post data measurements. Data was extracted from the same parameters 
+every fifteen (15) seconds during all operating hours.  
+ 
+ 

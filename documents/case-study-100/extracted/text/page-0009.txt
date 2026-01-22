@@ -1,0 +1,47 @@
+Energy Science Division
+Improvements
+Calculated kWh
+Cooling Capacity in Tons
+kW / Ton  
+COP
+Total Enthalpy Delta
+(26%)
+24%
+(21.4%)
+27.1%
+24.6%
+Post
+88,380
+29.96
+1.316
+2.67
+10.27
+Baseline
+119,435
+24.17 
+1.675 
+2.10
+8.24
+PermaFrost NMR®: Determining the Payback Period for Major University University
+Utilizing data in the above charts, to obtain a true avoided energy cost and subsequent payback period for Major University 
+for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in capacity. This greater capacity reduces the runtime hours and in turn 
+reduces the annual kWh expended in the Post. The true ROI comes from determining what the cost to run the system 
+was when operating at its original energy profile then subtracting the cost to operate the system at its newly restored 
+energy profile less the percentage of increased capacity. This regression calculation is the most scientific method of 
+accounting for the reduced number of hours the units will now run due to their increased capacity which allows the 
+units to reach set temperatures quicker and shut off sooner.   
+Baseline kWh        40.49 kW * 2,950 Annual Operating Hrs = 119,435 kWh
+Cost to Run Baseline        119,435 kWh * $.105 = $12,540.68
+Post ECM kWh        39.42 kW * 2,950 Annual Operating Hrs = 116,289 kWh
+Revised kWh (based on 24% restored capacity)        116,298 kWh * (1 - .24) = 88,380 kWh
+Revised Cost to Run Post        88,380 kWh * $.105 = $9,279.90
+Avoided Energy Costs (Savings) Per Month        ($12,540.68 - $9,279.90) / 12 = $271.73
+Cost of ECM        $3,450
+ROI        $3,450 / $271.73 = 12.7 
+ 
+ ROI = 13 months
+*Note – A cost of $.105 per kWh was used for this south campus calculation. If the true cost is above this amount then 
+the ROI will be even less.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

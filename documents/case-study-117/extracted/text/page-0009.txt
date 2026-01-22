@@ -1,0 +1,32 @@
+®
+Major US Telecom Return on Initial PermaFrost NMR® Investment
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the Major US Telecom pilot chiller.
+Baseline Energy Consumption without PermaFrost NMR®
+Baseline Tonnage: 193 tons
+kW Baseline (Adjusted): .65 kW/ton * 233 tons = 151.45 kW
+Annual kWh Baseline: 151.45 kW * 4,380 Annual Operating Hrs = 663,351 kWh
+Annual Cost Baseline: 663,351 kWh * $.14 = $92,869
+Post Energy Consumption with PermaFrost NMR®
+kW Post: .54 kW/ton * 233 tons = 125.82 kW
+Annual kWh Post: 125.82 kW * 4,380 hours = 551,092 kWh
+Annual Cost Post: 551,092 kWh * .14 cents = $77,153
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $92,869 - $77,153 = $15,716
+Estimated Energy Savings Per Month: $15,716 / 12 = $1,310
+Return On Investment
+Cost of PermaFrost NMR® installed in the pilot chiller: $12,000
+Estimated ROI Period for Chiller: $12,000 / $1,310 = 9.2 months
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period 
+for Major US Telecom for implementing the PermaFrost NMR®, a detailed Regression Analysis is used to calculate the true 
+energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended 
+in the Post Analysis Period by reducing the load. ROI comes from determining what the cost to run the chiller was 
+when operating at the original energy profile to produce the newly restored amount of available tonnage capacity and 
+then subtracting the revised cost to run the chiller at the same restored tonnage after the PermaFrostNMR® was 
+installed. 
+This regression analysis is the most widely accepted method of accounting for the reduced load the chiller will now 
+operate at due to the restored capacity. This restored capacity allows the chiller to maintain 48 degree leaving chilled 
+water with increased efficiency resulting in reduced compressor demand loading.
+8
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

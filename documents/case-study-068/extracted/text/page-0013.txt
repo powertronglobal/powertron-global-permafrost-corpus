@@ -1,0 +1,33 @@
+Energy Consumption & Financial Metrics for Pilot Split System
+The following are the final calculated average performance measurements and financial projections before and 
+after the ECM was installed in the pilot split system. These results may vary slightly from the tables listed 
+earlier in this report due to rounding only to the first decimal position for cooling tons and kW values.
+Average Baseline Energy Consumption
+Baseline Capacity:  7.74 tons
+Adjusted kW Baseline:  1.56 kW/ton * 10.56 tons = 16.5 kW
+Adjusted Baseline kWh:  16.5 kW * 4,370 Annual Operating Hours = 72,105 kWh
+Revised Cost to Run Baseline: 72,105 kWh * $.105 = $7,571
+Average Post Energy Consumption
+kW Post:  1.11 kW/ton * 10.56 tons = 11.7 kW
+Annual kWh Post:  11.7 kW * 4,370 hours = 51,129 kWh
+Annual Cost Post:  51,129 kWh * $.105 cents = $5,369
+Average Savings per Year Per System
+Avoided Energy Cost (savings) Per Year:  $7,571 - $5,369 = $2,202
+Estimated Energy Savings per Month: $2,202 / 12 = $184
+Return on Investment
+Cost of PermaFrost NMR® installed in the pilot split system: $1,250
+Estimated ROI for Space Center A Visitor Complex when treating the pilot split system: $1,250 / $184 = ~6.8 mos
+Annual Internal Rate of Return = 176%
+Return on Investment Over 5 Years = 881%
+Explanation of Regression Analysis
+To obtain a realistic avoided energy cost and subsequent payback period for Space Center A Visitor Complex for implementing the PermaFrost 
+NMR® ECM, a detailed Regression Analysis is used to calculate the true energy savings resulting from the improvement 
+in both capacity and efficiency utilizing data collected during the pilot study. These improvements reduce the annual kWh 
+expended in the Post Analysis Period. The ROI comes from determining what the cost to run the split system was when 
+operating at the original energy profile to produce the newly restored amount of available capacity before then subtracting 
+the revised cost to run the split system at the same restored capacity after the ECM was installed. This regression analysis 
+is the most widely accepted method of accounting for the reduced number of hours and/or load % at which the split system 
+will now operate due to the restored performance profile. 
+13
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

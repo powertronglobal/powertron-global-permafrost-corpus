@@ -1,0 +1,49 @@
+118        Appendix D Users of IPMVP 
+ 
+or the broader the boundary of measurement (Chapter 4.4), the more attention must be paid to 
+the possibility of baseline change after retrofit. This possibility requires good advance recording 
+of static factors in the M&V Plan and diligent monitoring of conditions after retrofit (Chapter 8.2). 
+The complexity of the M&V system’s meter design (Chapters 4.8.3 and 8.11) and computations 
+should also consider M&V costs, the expected magnitude of the savings, project economics and 
+desired accuracy of reporting (Chapters 8.3 - 8.5, and Appendix B). 
+The prices used for monetizing the energy/water/demand units saved should be those 
+established in the contract (Chapter 8.1). 
+Where an energy user feels it does not have the capability to review an M&V Plan or savings 
+report, it may hire a verifier, separate from the energy-performance contractor (Chapter 8.6). 
+Appendix A contains examples IPMVP applications to buildings (Sections A-7, A-8, A-9, while 
+A-2, A-3 and A-6 relate to technologies found in most buildings). 
+D-2   Energy-Performance Contractors and Their Industrial Customers  
+The primary purpose of M&V for industrial energy-performance contacts is usually to 
+demonstrate the short-term performance of a retrofit project. Following such demonstration the 
+plant management takes over responsibility for operation, and usually does not seek an ongoing 
+relationship with an ESCO. The M&V Plan becomes part of the energy performance contract 
+terms, and defines the measurements and computations to determine payments or demonstrate 
+compliance with any guaranteed level of performance. 
+Industrial processes often involve complex relationships between energy use and a wider range 
+of energy-governing variables than do buildings. In addition to weather, parameters such as 
+product type, raw material variations, production rate and shift scheduling may be considered. 
+Use caution selecting the independent variables to be used (Appendix B-2.1). The analysis 
+becomes very difficult if attempting to identify savings at the main plant energy meters, 
+especially if there is more than one product type being produced in the plant.  
+ECM-Isolation Options (Chapter 4.8) help to minimize the complications from production 
+variables that are usually unrelated to terms of the performance contract. Retrofit Isolation 
+narrows the measurement boundary to just those systems whose energy performance can be 
+easily compared to production variables. The installation of isolation meters for M&V may also 
+provide helpful feedback for process control.   
+M&V costs may be controlled by considering the responsibilities of all parties to the energy-
+performance contract. Where some parameters can be estimated with accuracy sufficient for all 
+parties, Option A (Chapter 4.8.1) may be most economical. For example, a contractor who 
+agrees to increase furnace efficiency may demonstrate the change in furnace energy use at 
+peak load after installation of a flue gas heat recovery device. He is not responsible for ongoing 
+energy use of the furnace, which is governed by production parameters beyond his control. 
+However, if the contractor agrees instead to reduce furnace energy use, retrofitted furnace 
+energy use is compared to the predicted energy requirements of the original furnace over a time 
+period. In this latter case Option B (Chapter 4.8.2) governs the agreement if a meter measures 
+the furnace’s fuel consumption. Option C (Chapter 4.9) governs the agreement if main plant 
+utility meters or departmental sub-meters measure total energy performance of the plant or a 
+department within the plant. 
+Take care when using ECM-Isolation techniques to consider all energy flows affected by the 
+ECM (Chapter 4.4), including interactive effects.  
+Energy-performance contracts in industrial plants often require measurements for a short 
+reporting period after retrofit. Longer reporting periods (Chapter 4.5.2), or broader boundaries of 
+measurement (Chapter 4.4), require more attention to possible baseline change after retrofit. 

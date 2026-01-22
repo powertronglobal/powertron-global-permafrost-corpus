@@ -1,0 +1,140 @@
+Phase I - Proven Sustainability
+In Phase I of the study, the IPMVP scientific testing methodologies proved the efficiency improvements in 
+2011 remain in 2013, two full years later. At the same time, the IPMVP testing data also shows how quickly 
+new equipment in the control group loses efficiency.
+Detailed Measurements
+Store 2 
+Kitchen RTU
+Store 4      
+RTU #1
+Store 4        
+RTU #2
+Store 10 
+Kitchen RTU
+Store 2
+Dining RTU
+2-Years Following Treatment PermaFrost NMR® Technology Savings Remain
+207.7 V
+22.5 A
+43.1 F
+125 PSI
+101.5 F
+326 PSI
+72 F
+56 F
+61.8 F
+52.7 F
+2,945
+7.5 Tons
+6.47 Tons
+5.86
+7.117 kW
+1.10
+2 yrs
+86.3%
+(Actual)
+Voltage
+Amperage
+Suction Refrigerant Temp
+Suction Refrigerant Pressure
+Discharge Refrigerant Temp
+Discharge Refrigerant Pressure
+Entering Air Temperature DB
+Leaving Air Temperature DB
+Entering Air Temperature WB
+Leaving Air Temperature WB
+Actual CFM Across the Coil
+Design Coil Capacity
+Actual Coil Capacity 
+Actual Enthalpy Delta
+Total kW
+Actual kW / Ton  
+Age of RTU Baseline / Post
+Estimated Historical Baseline RTU 
+Eﬃciency without PermaFrost NMR®
+Scientiﬁcally Tested Post RTU Eﬃciency 
+2-Years after PermaFrost NMR®
+213.2V
+26.2 A
+46.8 F
+78.7 PSI
+113 F
+240.5 PSI
+75 F
+49.1 F
+63.2 F
+47.4 F
+2,150
+7.75 Tons
+7.93 Tons
+9.83
+8.211 kW
+1.036
+ 7 yrs
+80.2%
+103.4%
+208.2 V 
+16.8 A 
+ 40 F
+ 112 PSI
+ 112 F
+240 PSI
+ 73.2 F
+ 56.1 F
+ 61.6 F
+ 49.5 F
+1,725
+5 Tons
+ 4.88 Tons
+7.54
+5.142 kW
+ 1.054
+3.5 yrs
+89.4%
+97.5%
+209 V
+16.5 A
+39.1 F
+107 PSI
+110 F
+235 PSI
+73 F
+55.6 F
+62.1 F
+49.9 F
+1,730
+5 Tons
+4.98 Tons
+7.67
+5.069 kW
+1.019  
+1.5 yrs / 3.5 yrs
+89.4%
+99.5%
+207.7 V
+46.5 A
+41.5 F
+70.8 PSI
+109.2 F
+223.6 PSI
+80.6 F
+52.3 F
+64.7 F
+45.9 F
+3,550
+15 Tons
+15.62 Tons
+11.73
+14.197 kW
+0.909
+7 yrs
+80.2%
+104.1%
+Treated 6/2011
+Treated 6/2011
+Treated 6/2011
+Treated 6/2011
+Control Group
+®
+4
+Property of Powertron Global®

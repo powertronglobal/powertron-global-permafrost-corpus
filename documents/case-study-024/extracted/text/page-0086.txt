@@ -1,0 +1,65 @@
+18
+CDD
+19
+CDD
+kWh
+kWh by CDD
+100.35 kWh
+100.35 kWh
+100.35 kWh
+57.74 kWh
+57.74 kWh
+57.74 kWh
+Baseline
+Post
+0
+1
+2
+0
+25
+50
+75
+100
+125
+kWh
+kWh by CDD
+108.25 kWh
+108.25 kWh
+108.25 kWh
+57.95 kWh
+57.95 kWh
+57.95 kWh
+Baseline
+Post
+0
+1
+0
+25
+50
+75
+100
+125
+kWh
+kWh by CDD
+99.88 kWh
+99.88 kWh
+99.88 kWh
+96.58 kWh
+96.58 kWh
+96.58 kWh
+Baseline
+Post
+0
+1
+0
+25
+50
+75
+100
+125
+-42.5
+Average 83.1 kWh
+5.14 kWh
+-93.8%
+16
+CDD

@@ -1,0 +1,48 @@
+Energy Science Division
+Results
+The following are the final calculated performance measurements following the PermaFrost NMR® Post 
+measurement period.
+Data Center Provider Avoided Energy Usage Analysis
+Utilizing the data in the above charts, the following steps were taken in accordance with IPMVP protocols 
+to determine the avoided energy usage and the annualized Return on Investment (ROI) Data Center Provider will realize by 
+implementing this ECM:
+Baseline kW         2.33 kW/ton * 41.7 tons = 97.2 kW
+Baseline Annual kWh         97.2 kW * 4,365 hours = 424,278 kWh
+Baseline Annual Cost         424,278 kWh * .07 cents = $29,699
+Regression Analysis is then used to account for amount of tonnage restored to Split System  
+Adjusted Baseline Tonnage         78.3 tons (equates to tonnage in ERP)
+Adjusted kW Baseline         2.33 kW/ton * 78.3 tons = 182.4 kW
+Adjusted Baseline kWh         182.4 kW * 4,365 Annual Operating Hrs = 796,176 kWh
+Revised Cost to Run Baseline         796,176 kWh * $.07 = $55,732
+kW Post         1.33kW/ton * 78.3 tons = 104 kW
+Annual kWh Post         104 kW * 4,365 hours = 453,960 kWh
+Annual Cost Post         453,960 kWh * $.07 = $31,777
+Eﬃciency Improvements
+Total kW
+kW / Ton or kWR
+System Capacity (tons / kWR)
+Net kW Reduction
+Calculated Enthaply Delta
+System Eﬃciency
+7.2%
+42.9%
+88.2%
+27.4%
+104.5%
+87.7%
+Energy Reporting Period
+104 kW
+1.33 / 0.38
+78.3 / (275)
+104 kW
+5.93
+59.1%
+Baseline
+97 kW
+2.33 / 0.66
+41.7 / (199)
+132.5 kW
+2.9
+31.5%
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

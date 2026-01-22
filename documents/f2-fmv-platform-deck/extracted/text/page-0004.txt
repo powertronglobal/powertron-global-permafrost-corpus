@@ -1,0 +1,52 @@
+3 BASE APPLICATIONS/CONFIGURATIONS:
+DX PACKAGE (RAW POINTS) 
+• Thermistor - Temp/Humidity x 2 (RA & SA)
+• Air Velocity
+• Outside Air Temp
+• Suction Refrigerant Pressure Transducer
+(1 per circuit)
+• Discharge Refrigerant Pressure Transducer
+(1 per circuit)
+• Saturated Evaporation Temp (1 per circuit)
+• Saturated Condenser Temp (1 per circuit)
+• Electrical Power Meter
+• CT's x 3
+• Current Switches 2-6 (compressor on/oﬀ)
+WATER OR AIR-COOLED Healthcare System ALLER (RAW POINTS)
+• Chilled Water Diﬀerential Pressure Transmitter
+• Condenser Water Diﬀerential Pressure Transmitter
+(water cooled only)
+• Refrigerant Discharge Pressure (1 per circuit)
+• Refrigerant Suction Pressure (1 per circuit)
+• Chilled Water Inlet Temp
+• Chilled Water Outlet Temp
+• Condenser Water Inlet Temp (water cooled only)
+• Condenser Water Outlet Temp (water cooled only)
+• Condensed Liquid Refrigerant Temp (1 per circuit)
+• Suction Refrigerant Temp (1 per circuit)
+• Compressor Inlet Temp (1 per circuit)
+• Refrigerant Inlet Temp (1 per circuit)
+• Compressor Discharge Temp (1 per circuit)
+• Outside Air Temp
+• Electrical Power Meter
+• CT's x 3
+• Current Switches 2-6 (compressor on/oﬀ) –
+air-cooled only
+AIR HANDLER (RAW POINTS)
+• Thermistor - Temp/Humidity  x 2 (RA & SA)
+• Ambient Air Temp
+• Chilled Water Diﬀerential Pressure Transmitter
+• Chilled Water Outlet Temp
+• Chilled Water Inlet Temp
+• Air Velocity
+• Electrical Power Meter
+• CT's x 3
+*Split System
+conﬁgurations
+are available.
+Call for pricing
+and availability.
+*Custom options
+are available.
+Call for pricing
+and availability.

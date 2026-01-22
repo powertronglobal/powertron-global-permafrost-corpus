@@ -1,0 +1,36 @@
+ 
+ 
+Page 4 of 38 
+ 
+this phone, so each row is labeled "buy" or "don't buy." 
+ 
+The basis for a machine running a random forest algorithm is the use of decision trees. Figure 1 
+represents an example of a simple decision tree based on the above data.1 
+ 
+Figure 1 - Simple Decision Tree 
+ 
+ 
+ 
+Decision trees are fast, easy to understand, and work well with both non-numeric data (e.g., color, 
+brand) and numerical data (price, internal storage etc.).  However, decision trees carry certain 
+limitations. They can be inflexible; for example, in the tree above, there is no option to allow for a 
+phone more than $500 to be purchased.  This inflexibility produces a bias in the characterization of 
+the data, though it may have simply occurred because no respondents represented in the provided 
+training set wanted to buy an expensive phone. Additionally, decision trees are very sensitive to 
+small differences in the training data provided 
+ 
+The random forest algorithm improves on decision trees, because it is an ensemble method. This 
+means it uses many methods or trials to make many (ideally) independent predictions and combines 
+them to form one prediction. The intuition here is that having many independent predictions reduces 
+the bias that can come from the training set (the one above is biased against expensive phones) and 
+copes better with the natural variability found in the real world. 
+ 
+The random forest algorithm uses smaller decision trees and then determines which outcome was 
+most common for its output.   
+ 
+In the example above, the smaller decision trees could be formed by random subsets of the original 
+tree. For example, one tree might be just a one node tree (Figure 2), that is one level deep; another 
+might be a two node, two level deep tree (Figure 3); the final subset represents a third tree (Figure 4) 
+that was included in Figure 3, as duplication of nodes between the trees poses no issue. 
+ 
+1 https://www.simplilearn.com/ice9/free_resources_article_thumb/phone-price.JPG 

@@ -1,0 +1,67 @@
+102        Appendix B Uncertainty 
+ 
+Where N is the number of savings results with the same Standard Error that are added together. 
+Once the standard error of the savings is determined from the above procedures, it is possible 
+to make appropriate concluding statements about the relative amount of uncertainty inherent in 
+the savings, using the mathematics of the standard normal distribution curve, Figure B-1, or 
+data in Table B-1. For example, one can compute three values:  
+1. the absolute or relative precision of the total saving, for a given level of confidence (e.g., 
+90%), computed using the relevant t value from Table B-1 and Equation B-7 or B-9, 
+respectively. 
+2. Probable Error (PE), defined as the 50% confidence range. Probable Error represents the 
+most likely amount of error. That is, it is equally likely that error will be larger or smaller than 
+the PE. (ASHRAE, 1997). Table B-1 shows that 50% confidence level is achieved at t = 0.67 
+for samples sizes larger than 120, or 0.67 standard errors from the mean value. So the 
+range of probable error in reported savings using Equation B-8 is ±0.67 x SE (Savings). 
+3. The 90% Confidence Limit (CL), defined as the range where we are 90% certain that 
+random effects did not produce the observed difference. From Table B-1 using Equation B-
+8, CL is ±1.64 x SE(Savings) for sample sizes larger than 120. 
+B-5.1 Assessing Interactions of Multiple Components of Uncertainty 
+Equations B-19 and B-20 for combining uncertainty components can be used to estimate how 
+errors in one component will affect the accuracy of the overall savings report. M&V resources 
+can then be designed to cost-effectively reduce error in reported savings. Such design 
+considerations would take into account the costs and the effects on savings precision of 
+possible improvements in the precision of each component.  
+Software applications written for common spreadsheet tools allow for easy assessment of the 
+net error associated with the combination of multiple components of uncertainty, using Monte 
+Carlo techniques. Monte Carlo analysis allows the assessment of multiple “what if” scenarios 
+revealing a range of possible outcomes, their probability of occurring, and which component has 
+the most effect on the final output. Such analysis identifies where resources need to be 
+allocated to control error. 
+A simple illustration of “what if” analysis is presented below for a lighting retrofit. A nominally 96 
+watt light fixture is replaced with a nominal 64-watt fixture. If the fixture operates for 10 hours 
+every day, the annual savings would be computed as: 
+ 
+ 
+ 
+ 
+kWh
+Savings
+Annual
+117
+000
+,1
+365
+10
+)
+64
+96
+(
+
+
+
+
+
+ 
+ 
+The new 64-watt fixture’s wattage is consistent and easily measured with accuracy. However 
+there is much variation among the old-fixture wattages and among the hours of use in different 
+locations. Old-fixture wattages and hours of use are not easily measured with certainty. 
+Therefore the savings will also not be known with certainty. The M&V design challenge is to 
+determine the impact on reported savings if the measurement of either of these uncertain 
+quantities is in error by plausible amounts. 
+Figure B2 shows a sensitivity analysis of the savings for the two parameters, old-fixture watts, 
+and hours of use. Each is varied by up to 30% and the impact on savings is shown. It can be 
+seen that savings are significantly more sensitive to variation in old-fixture wattage than to hours 
+of use. A 30% wattage error produces a 90% savings error, while a 30% error in operating 
+hours produces only a 30% savings error. 

@@ -1,0 +1,14 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+ 
+b. Unit 1 is a 5-ton system that was forced to run in place of unit 2 in the 
+post.  This unit is much larger and consumes almost twice the kW while 
+running, but we can still calculate the savings due to running it at a 
+much higher efficiency.  These two units used 23.25 % less energy than 
+the baseline consumption. 
+  
+ 
+ 
+ 

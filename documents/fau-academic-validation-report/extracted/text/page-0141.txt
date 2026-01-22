@@ -1,0 +1,52 @@
+ 
+Other Common M&V Issues       41 
+ 
+CHAPTER 8   OTHER COMMON M&V  Facilities Services ProviderUES 
+Beyond the basic framework described in Chapter 4, there are a number of issues which 
+commonly arise regardless of the IPMVP Option chosen. Each of these issues is discussed in 
+this Chapter.  
+8.1  Applying Energy Prices  
+Cost savings15 are determined by applying the appropriate price schedule in the following 
+equation: 
+ 
+Cost Savings = Cb – Cr 
+ 
+ 
+ 
+ 
+ 
+ 
+2) 
+ 
+Where: 
+ 
+Cb = Cost of the baseline energy plus any adjustments16  
+Cr = Cost of the reporting period energy plus any adjustments 
+ 
+Costs should be determined by applying the same price schedule in computing both Cb and Cr.  
+When the conditions of the reporting period are used as the basis for reporting energy savings 
+(i.e. avoided energy use Chapter 4.6.1), the price schedule of the reporting period is normally 
+used to compute “avoided cost.”  
+Examples of the application of energy prices are contained in the examples of Appendix A. 
+8.1.1 Price Schedules 
+The price schedule should be obtained from the energy supplier. This price schedule should 
+include all elements that are affected by metered amounts, such as consumption charges, 
+demand charges, transformer credits, power factor, demand ratchets, fuel price adjustments, 
+early payment discounts and taxes.  
+Price schedules may change at points in time different from meter reading dates. Therefore, Cb 
+and Cr in Equation 2) should be computed for periods exactly aligned with price change dates. 
+This alignment may require an estimated allocation of quantities to periods before and after the 
+price change date. The allocation methodology should be the same as that used by the energy 
+supplier. 
+The selected price schedule may be fixed at the date of ECM installation, or changed as prices 
+change. (Increasing prices will shorten the ECM payback period. Decreasing prices will 
+lengthen the payback period though total energy costs will drop when prices drop.) Where a 
+third party has invested in an owner’s facility, the price schedule for savings reporting is not 
+normally allowed to drop below that which prevailed at the time of commitment to the 
+investment. 
+                                                  
+15 See Chapter 9 for the definition of “savings.” See also Chapter 4.6 for discussion of the 
+difference between energy savings and avoided energy or normalized savings. The same 
+discussion applies to the difference between cost savings and cost avoidance or normalized cost 
+savings. 
+16 Adjustments are the appropriate ones described in Chapter 4. 

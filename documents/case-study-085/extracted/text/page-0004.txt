@@ -1,0 +1,33 @@
+®
+Energy Consumption & Financial Metrics
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the Major Botanical Garden chiller.
+Baseline Energy Consumption
+Baseline Tonnage: 273 tons
+Adjusted kW Baseline: .66 kW/ton * 334 tons = 220.4 kW
+Adjusted Baseline kWh: 220.4 kW * 960 Annual Operating Hrs = 211,584 kWh
+Revised Cost to Run Baseline: 211,584 kWh * $.16 = $33,853
+Post Energy Consumption
+kW Post: 0.54 kW/ton * 334 tons = 180.4 kW
+Annual kWh Post: 180.4 kW * 960 hours = 173,184 kWh
+Annual Cost Post: 173,184 kWh * $.16 cents = $27,709
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $33,853 - $27,709 = $6,144
+Estimated Energy Savings per Month: $6,144 / 12 = $512
+Initial Payback Period
+Cost of PermaFrost NMR® installed in the pilot chiller: $24,000
+Estimated ROI Period for Major Botanical Garden on the chiller: $24,000 / $512 = 3.9 Years
+Annual Internal Rate of Return = 25.6%
+Return on Investment Over 5 Years = 128%
+Utilizing data collected during the pilot study, to obtain a true avoided energy cost and subsequent payback period for 
+Major Botanical Garden for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in both capacity and efficiency. Working together, these improvements reduce the 
+annual kWh expended in the Post Analysis Period. The ROI comes from determining what the cost to run the chiller was 
+when operating at the original energy profile to produce the newly restored amount of available tonnage capacity and then 
+subtracting the revised cost to run the chiller at the same restored tonnage after the PermaFrostNMR® ECM was 
+installed. This regression analysis is the most widely accepted method of accounting for the reduced number of hours or 
+load % the chiller will now operate due to the restored performance profile. This restored performance profile allows the 
+chiller to satisfy the internal building load with increased efficiency resulting in reduced compressor demand loading.
+3
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

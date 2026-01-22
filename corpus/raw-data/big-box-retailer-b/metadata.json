@@ -1,0 +1,21 @@
+{
+  "source": "Big Box Retailer B",
+  "industry": "retail",
+  "location_obfuscated": "Southeast US, FL",
+  "processed_date": "2026-01-08T19:56:58.584467",
+  "description": "Control vs treated comparison study - identical units, one treated with PermaFrost NMR",
+  "files": [
+    {
+      "obfuscated_file": "treated_unit_data.parquet",
+      "rows": 92908,
+      "columns": 24,
+      "size_kb": 840.3
+    },
+    {
+      "obfuscated_file": "control_unit_data.parquet",
+      "rows": 85944,
+      "columns": 24,
+      "size_kb": 688.7
+    }
+  ]
+}

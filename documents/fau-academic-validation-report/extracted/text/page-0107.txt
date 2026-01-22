@@ -1,0 +1,54 @@
+ 
+IPMVP Framework and Options       7 
+ 
+CHAPTER 4   IPMVP FRAMEWORK AND OPTIONS  
+4.1  Introduction 
+Energy, water or demand savings6 cannot be directly measured, since savings represent the 
+absence of energy/water use or demand. Instead, savings are determined by comparing 
+measured use or demand before and after implementation of a program, making suitable 
+adjustments for changes in conditions.   
+ 
+Time
+Energy Use
+Reporting Period 
+Measured Energy
+Adjusted 
+Baseline 
+Energy
+ECM 
+Installation
+Baseline 
+Energy
+Reporting 
+Period
+Baseline 
+Period
+SavingS,  or 
+avoidEd EnErgy USE
+Inreased 
+Production
+ 
+As an example of savings determination process, Figure 2 shows the energy-usage history of  
+an industrial boiler before and after the addition of an energy conservation measure (ECM) to 
+recover heat from its flue gases. At about the time of ECM installation, plant production also 
+increased.  
+To properly document the impact of the ECM, its energy effect must be separated from the 
+energy effect of the increased production. The “baseline energy” use pattern before ECM 
+installation was studied to determine the relationship between energy use and production. 
+Following ECM installation, this baseline relationship was used to estimate how much energy 
+the plant would have used each month if there had been no ECM (called the “adjusted-baseline 
+energy”). The saving, or ‘avoided energy use’ is the difference between the adjusted-baseline 
+energy and the energy that was actually metered during the reporting period.  
+Without the adjustment for the change in production, the difference between baseline energy 
+and reporting period energy would have been much lower, under-reporting the effect of the heat 
+recovery. 
+It is necessary to segregate the energy effects of a savings program from the effects of other 
+simultaneous changes affecting the energy using systems. The comparison of before and after 
+energy use or demand should be made on a consistent basis, using the following general 
+Equation 1):  
+ 
+                                                  
+6 Words in italics have the special meanings defined in Chapter 9. 
+ 
+Figure 2  Example Energy 
+History 

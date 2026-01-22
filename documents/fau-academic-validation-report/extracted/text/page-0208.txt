@@ -1,0 +1,46 @@
+108        Appendix C Region Specific Materials 
+ 
+Addition to Chapter 4.7, last paragraph. 
+ASHRAE (2002) provides more technical details on a similar retrofit isolation method 
+Addition to Chapter 4.7 
+Specific applications of retrofit-isolation techniques to common ECMs chosen by the United 
+States Department of Energy are shown in Section III of FEMP (2000). Note however that 
+FEMP’s applications LE-A-01, LC-A-01 and CH-A-01 are not consistent with IPMVP because 
+they require no measurement. 
+ASHRAE (2002) provides more detailed specifications for a similar method.  
+Addition to Chapter 4.8.1 
+Chapter 2.2.1 of FEMP (2000) summarizes common duties borne by parties to an energy-
+performance contract. The United States Federal Energy Management Program has also 
+published Detailed Guidelines for FEMP M&V Option A (2002) giving further guidance on 
+estimation issues faced by U.S. federal agencies. (Note: the FEMP guidelines call estimated 
+values “stipulations.”) 
+ 
+Addition to Chapter 4.9 
+ 
+Resources that provide detailed methods for defining new construction baselines, include: 
+ASHRAE Standard 90.1 Appendix G – Performance Rating Method, the COMNET Commercial 
+Building Energy Modeling Guidelines and Procedures and the Title-24 Alternative Calculation 
+Manual. In addition, it is becoming more commonplace that commercially-available simulatioin 
+programs are capable of automatically generating a minimally-compliant baseline building 
+based on an as-designed building model per various rating methods.  
+ASHRAE (2002) provides more technical details on a similar method and on calibrating 
+simulation models to utility bills.  
+ 
+Addition to Chapter 4.9.1 
+Information on building simulation programs in common use in different parts of the world can 
+be found in Chapter 6.3 of ASHRAE (2002).  
+ 
+Addition to Chapter 4.9.2, Item 5. 
+ASHRAE (2002), Chapter 6.3, gives more information on calibration accuracy. 
+Addition to Chapter 4.9.1 
+Information on different types of building simulation models can be found in Chapter 32 of the 
+ASHRAE Handbook (2005). The United States Department of Energy (DOE) also maintains a 
+current list of public-domain software and proprietary building-energy-simulation programs at 
+www.eren.doe.gov/buildings/tools_directory. 
+ASHRAE’s simplified energy-analysis procedure may also be used if the building’s heat losses, 
+heat gains, internal loads, and HVAC systems are simple.  
+Other types of special-purpose programs are used to simulate energy use of HVAC 
+components. See  ASHRAE’s HVAC02 toolkit (Brandemuehl 1993), and for boiler/chiller 
+equipment HVAC01 toolkit (Bourdouxhe 1994a, 1994b, 1995). Simplified component air-side 
+HVAC models are also available in a report by Knebel (1983). Equations for numerous other 
+models have been identified as well (ASHRAE 1989, SEL 1996).  

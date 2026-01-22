@@ -1,0 +1,95 @@
+Energy Science Division
+CRAC Unit #2
+CRAC Unit #1
+BASELINE
+POST
+BASELINE
+POST
+485.6 V
+9.3 A
+34.7 F
+61.4 PSI
+102.7 F
+204.1 PSI
+72.1 F
+53.7 F
+58.6 F
+49.2 F
+2348
+4.98 Tons
+5.66
+6.64 kW
+1.33
+2.64
+67 F
+486.6 V 
+8.3 A 
+ 34.5 F
+ 61.2 PSI
+ 103.3 F
+205.1 PSI
+ 72.1 F
+ 52.7 F
+ 58.8 F
+ 47.9 F
+2348
+ 5.71 Tons
+6.49
+5.94 kW
+ 1.04
+3.39
+74 F
+Voltage  
+Amperage  
+Suction Refrigerant Temp
+Suction Refrigerant Pressure
+Discharge Refrigerant Temp
+Discharge Refrigerant Pressure
+Entering Air Temperature DB
+Leaving Air Temperature DB
+Entering Air Temperature WB
+Leaving Air Temperature WB
+Actual CFM Across the Coil
+Calculated Coil Capacity 
+Calculated Enthalpy Delta
+Total kW
+Calculated kW / Ton  
+Coeﬃcient of Performance (COP)
+O.A.T.
+485.7 V
+8.95 A
+33.1 F
+59 PSI
+107.6 F
+218.6 PSI
+72 F
+59.8 F
+58.8 F
+52.6 F
+2252.5
+3.26 Tons
+3.86
+6.39 kW
+1.96
+1.79
+67 F
+488.8 V 
+7.8 A 
+ 33.4 F
+ 59.6 PSI
+ 108.5 F
+221.5 PSI
+ 72 F
+ 55.4 F
+ 58.3 F
+ 49.9 F
+2252.5
+ 4.28 Tons
+5.07
+5.60 kW
+ 1.31
+2.69
+74 F
+MEASUREMENT
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

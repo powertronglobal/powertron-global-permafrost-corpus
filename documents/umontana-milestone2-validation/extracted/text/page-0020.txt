@@ -1,0 +1,30 @@
+ 
+ 
+Page 12 of 38 
+ 
+Figure 18 - kW/Ton against Outside Air Temperature 
+kW/Ton are measured on the y-axis; outdoor air temperature is measured on the x-axis; each point represents a day 
+in the data set and the color of the point indicates the assigned cluster 
+ 
+ 
+From Figure 17, a conclusion can be reached regarding the COP measurements for the clustered 
+data points in yellow. Simply stated, the COP represents the heat removed by the device and thus a 
+higher COP is better when the device is on. The yellow data points from October (pre-treatment) 
+manifest a low COP even when the temperature outside is measured near it’s highest i.e. the device 
+is not succeeding in removing large amounts of heat at high temperatures pre-treatment. Post-
+treatment the COP increases dramatically for the majority of the data points, with the exception of a 
+handful of outliers. This means that the algorithm proves the effectiveness and confirms the 
+expected positive impact that PowerTron’s treatment has on the device. The effect is sure enough 
+that even an algorithm that is fed unlabeled data picks up on the trend. 
+ 
+Figure 18 manifests a similar proof of expected treatment outcomes in the kW/Ton measurement. If 
+a treatment were intended to improve the efficiency of a device, one would expect the amount of 
+electricity used to supply a given amount of cooling to decrease. This is seen as the kW/Ton for 
+those pre-treatment October days is clustered in the upper right hand of Figure 18 where the 
+grouping of cluster 1, yellow dots are located. This indicates the majority of data post-treatment 
+shows less energy being used to provide the same amount cooling, despite high temperature 
+readings. The algorithm, despite not knowing which days were pre and post-treatment, has identified 
+the difference in pre and post-treatment data and once again proves the efficacy of PowerTron’s 
+PermaFrost treatment on the Macy’s unit. 
+An existing use of such findings is to use the data in advertising or marketing the treatment to 
+prospective clients. This is evident from a high-level exploration, but also overlooks certain potential 

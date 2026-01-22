@@ -1,0 +1,18 @@
+ 
+This document is proprietary and confidential to Powertron Global, LLC and is not to be modified, distributed all or in part to any third party 
+without prior written approval. © Copyright 2023 Powertron Global, LLC. 
+ 
+ 
+ 
+Cell Hut #2 located at Benfer Rd. 
+Node 509 (HVAC #1) & 510 (HVAC #2) demonstrated some anomalous HVAC 
+controls behavior in respect to their lead/lag schedule. It is most likely a controls 
+issue or malfunction that did not permit comparable runtime data.    Industry 
+standards data showed efficiency improvement which matched the data in larger 
+sample of sites.  
+ 
+a. Unit 2 is a 3-ton system that was not allowed to run much in the post. 
+This malfunction showed a false positive decrease in runtime which 
+overstated the reduction. The unit ran every other day as normal during 
+the baseline but did not operate that way in the post. Please see 
+Appendix E.   

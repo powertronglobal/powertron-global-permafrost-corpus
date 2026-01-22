@@ -1,0 +1,36 @@
+       UL 984A: Testing UL classified lubricant for use with compressor motor insulating materials and 
+refrigerants.
+UL has developed specifications to classify lubricant used in sealed motor compressors of air conditioning and 
+refrigeration equipment.  The UL program covers lubricants and the indicated refrigerants for all
+insulating materials used in industry-recognized hermetic refrigerant motor-compressors.
+       ASHRAE 86 - 1994: Completed Refrigeration oil floc point, °F.
+The temperature in which waxy materials in lubricating oil separate from a mixture of oil and refrigerant, giving a 
+cloudy appearance. This test is important in that it evaluates the tendency of refrigeration oils to plug expansion valves 
+or capillaries in refrigeration systems.
+Results: - 60°F
+       ASHRAE 99: Completed Refrigeration oil description.
+Refrigeration oils can be described as those that operate with certain values of different refrigerants. Separation, 
+temperature, and viscosity are a few examples. This test examines these parameters and defines
+oil as refrigerant compatible.
+Results: refrigerant compatible
+       ASTM D1500: Completed Color scale
+This test is used to compare a range of colors against the colors of other petroleum products. This is the most common 
+test, extensively used for industrial and process oils.
+Results: <.05
+Results: 2400ft/lbs@1 min before failure. Exceeds standards
+       ASTM D2783: Standard Test Method for Measurement of Extreme Pressure Properties of Lubricating Fluids
+(Four-Ball Method)
+5
+Test Descriptions and Results
+SINCE 1985 
+Quality Controlled Through Analysis 
+Certificate of Analysis 
+[Laboratory Address] 
+[Laboratory PO Box] 
+TEL: [redacted] 
+FAX: [redacted] 
+This test method, used for specification purposes, differentiates between lubricating fluids having low, medium, and high 
+level of extreme-pressure properties. In the Four-ball method, the anti-wear property is determined from the average 
+scar diameter on the stationary balls and is stated in terms of a load-wear index. The smaller the scar, the better the 
+load-wear index. The maximum load carrying capability is defined in terms of a weld point; i.e. the load at which 
+welding by frictional heat occurs.

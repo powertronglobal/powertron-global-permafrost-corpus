@@ -1,0 +1,38 @@
+Energy Conservation Method (ECM) Content
+The content within the following report will demonstrate the ability of PermaFrost NMR® to correct the 
+effects of thermal degradation and fouling on the heat exchange surfaces.
+ 
+Following a diagnostic examination of the pilot equipment to 
+determine the operational condition of the chiller was satisfactory, 
+Baseline M&V was recorded on both the evaporator and compressor 
+and then the proper amount and type of PermaFrost NMR® was 
+injected. The gestation period for the Global IT Services Provider pilot was seven 
+(7) weeks. Prior to taking AERP measurements, systems need to 
+achieve ~300 hours of runtime to ensure adequate performance 
+improvement time. At the end of this gestation period, AERP M&V 
+results were taken in the identical manner as in the baseline. When 
+analyzing all of the baseline and AERP data it was discovered that the 
+outside air temperature entering the condenser and affecting its 
+performance was 5.2 degrees C higher in the AERP so standard 
+adjustments were made to account for this common in-situ HVAC 
+testing situation. 
+The following report produces the utilization of the IPMVP as the 
+M&V plan. 
+The results were formulated by entering the data into the following thermodynamic engineering formulas:
+ 
+kWE = Volts * Amps * Power Factor of 1.47/1000 (for 3-Phase) 
+ 
+Tonnes = (LPM * 0.585 * 60 * Chilled Water Delta T) / 3520 (which equals 1 kWR) 
+ 
+kWE /Tonne = kWE / Actual Tonnage 
+ 
+Coeﬃcient of Performance (COP) = (12 / kWE per tonne /3.412)
+Energy Science Division
+The Redbase Service Manager (HVAC Equipment Manufacturer 
+Distributor) collects critical IPMVP 
+measurements using the latest, most 
+accurate digital NIST calibrated testing 
+equipment directly at the chiller as part of 
+the scientific PermaFrost NRM® pilot.
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

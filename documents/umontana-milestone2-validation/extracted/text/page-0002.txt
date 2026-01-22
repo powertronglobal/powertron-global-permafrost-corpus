@@ -1,0 +1,49 @@
+ 
+ 
+Page 2 of 38 
+ 
+Capacity was also examined as it has an implied value related compressor function. Capacity can be 
+considered as a measure of the ability of the device to provide a certain amount of cooling. Based on 
+manufacturing standards, there are expected values for capacity when one compressor is 
+functioning, two compressors are functioning, and so on. Also related to compressor function was 
+developing an understanding of extracting the amount of time one compressor, two compressors, 
+three compressors, and four compressors were running in a given time period. This can be 
+designated by either the total number of seconds a device was running during a day or by producing 
+the average cycle runtime, manifested as a percentage. 
+ 
+Outdoor air temperature has an expected relationship with certain key variables mentioned above, 
+such as the kW/ton used by the machine. When the temperature outside increases, the amount of 
+energy required to provide cooling capabilities increases.  
+ 
+Included in the determination of which features to extract is the exploration of statistical 
+representations of each measure over a given time period. Certain measurements are less impacted 
+by sensor errors or expected spikes (outliers) in calculated measurements due to the common 
+nature of equipment function.  
+ 
+For instance, kW/ton is expected to spike when a device cycles and compressors turn on or off. 
+When a device turns on, it’s capacity is close to zero, so the calculation results in the kW being 
+divided by a very small number, which results in a very large kW/ton measurement. An effective 
+statistical approach to handling spikes in calculated measurements is to take the median, as 
+opposed to the mean (average), as it is less impacted by outliers in very large data sets. Hence, 
+several features explored include the median kW/ton, COP, and the EER. 
+ 
+The variability of the data provided was also assessed during feature extraction.  Typical statistics 
+for the assessment of variability consist of the range, the interquartile range (the lower and upper 
+boundaries of the middle 50% of the data), and the standard deviation.  Unfortunately, the mean and 
+standard deviation (based on the mean) are impacted by ‘common’ outliers in this data set and were 
+discarded.  The range, which reflects the minimum and maximum values in a given data set, was 
+used.  The interquartile range was also used to calculate a useful feature known as "percentage of 
+outliers in a day" (calculated by dividing the number of datum categorized as outliers by the number 
+of points in the entire set under examination). 
+ 
+Outliers indicate unusual values, and a point is classified as an outlier if it is further than some 
+defined distance away from the median, known as thresholding. This is a categorical feature, which 
+allows for determining whether a datum is or is not an outlier.  Related to outliers and the creation of 
+thresholds, the median absolute deviation from the median (MAD) was calculated and used as a 
+feature.  Much like standard deviation, which portrays the average distance from the mean, MAD 
+illustrates the typical distance from the median of the data. 
+ 
+Finally, by exploring the relationship between data points, one can produce additional features 
+based on the identified relationships.  Particularly fruitful was the examination of the relationship 
+between outside air temperature and average cycle runtime. The expected relationship would model 
+an increase in cycle runtime with increases in temperature i.e. the device has to run for longer if it is 

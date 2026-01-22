@@ -1,0 +1,45 @@
+ 
+ 
+Page 6 of 38 
+ 
+Agglomerative Hierarchical Clustering 
+ 
+Overview 
+ 
+Hierarchical clustering is a type of clustering algorithm that takes input data and categorizes it into 
+groups known as clusters. To cluster data, the algorithm’s input data is assembled as objects, each 
+object being characterized by a series of variables. In clustering time series, measurement variables 
+are selected as features to represent a particular measurement period, each measurement period 
+representing an object to be clustered by the algorithm, grouped according to the similarity of its 
+features against other objects. 
+ 
+For this exploration, pre-treatment of the data involved selecting an amount of time and then 
+extracting a handful of features to characterize that period of time. Ideally, the clusters produced by 
+the algorithm would classify the objects and produce groupings to show which objects were 
+anomalies and which represented those objects with standard measurements.  
+ 
+The team decided to build a data set of days (objects) that each had seven variable measurements 
+the algorithm then used to compare one day to the next. Characterizing each day were kW/Ton, 
+median COP, capacity in tons BTU when compressor 1 was running, capacity in tons BTU when 
+both compressors 1 and 2 were running, maximum outside air temperature, the time 1 compressor 
+was active, and the time when both compressors 1 and 2 were active. Thus, each day was defined 
+as an object by the above variables and then compared to the other days (objects) in the data set 
+based on the similarities and differences between the measured features of the given object. 
+ 
+For hierarchical clustering, the input data consisted of 8 days from the Macy’s data set in October 
+2019 and 30 days from the Macy’s data set in May 2020. The October data stood to characterize 
+device performance prior to PowerTron’s treatment of the device (pre-treatment) and the days in 
+May portray device performance post-treatment. These days were selected due to the implied 
+difference in the efficiency of the device pre and post-treatment that should be manifested in the 
+feature measurements collected for these days. The algorithm should cluster the days accordingly 
+and the success of the method’s output can be compared to the expectation that these sets of days 
+are different and should be classified as such. 
+ 
+Finally, an essential step for the pre-treatment of data is the normalizing of the input data set. If each 
+row of data represents a day and the columns are the characteristics measured and recorded for 
+that day, the features can be normalized to produce a percentage based on all other measurements 
+for that feature. The differences between raw and normalized data can be seen in Figures 11 and 12 
+below. 
+ 
+Figure 11 - Raw Department Store A Data 
+ 

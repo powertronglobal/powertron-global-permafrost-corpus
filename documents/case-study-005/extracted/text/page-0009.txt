@@ -1,0 +1,30 @@
+Return On Investment
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the three Major US Theater Chain Packaged RTUs.
+Baseline Energy Consumption
+Baseline Tonnage: 183.3 tons
+Adjusted kW Baseline: 1.78 kW/ton * 255.3 tons = 454.43 kW
+Adjusted Baseline kWh: 454.43 kW * 3,150 Annual Operating Hrs = 1,431,455 kWh
+Revised Cost to Run Baseline: 1,431,455 kWh * $.09 = $128,831
+Post Energy Consumption
+kW Post: 1.23 kW/ton * 255.3 tons = 314.02 kW
+Annual kWh Post: 314.02 kW * 3,150 hours = 989,163 kWh
+Annual Cost Post: 989,163 kWh * .09 cents = $89,025
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $128,831 - $89,025 = $39,806
+Estimated Energy Savings Per Month: $39,806 / 12 = $3,317
+Return On Investment
+Cost of PermaFrost NMR® installed in three pilot RTUs: $33,750
+Estimated ROI Period for Major US Theater Chain on three RTUs: $33,750 / $3,317 = 10.2 months
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period 
+for Major US Theater Chain for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true 
+energy savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended 
+in the Avoided Energy Reporting (Post) Analysis Period. ROI comes from determining what the cost to run the systems 
+was when operating at the original energy profile to produce the newly restored amount of available tonnage capacity 
+and then subtracting the revised cost to run the systems at the same restored tonnage after the PermaFrostNMR® 
+ECM was installed. This regression analysis is the most widely accepted method of accounting for the reduced number 
+of hours the systems will now operate due to the restored capacity. This restored capacity allows the systems to reach the 
+internal building set points with increased efficiency resulting in reduced compressor demand loading.
+8
+Please be aware that our companies have a non-disclosure agreement in place and this document is covered under that agreement and the terms of use on our website. 
+This document is not to be distributed to any third party and is not to be in the public domain without our written approval. © Copyright 2016 Powertron Global, LLC.

@@ -1,0 +1,410 @@
+{
+  "title": "Historical FAQ Testing Tracker",
+  "version": "1.3.0",
+  "last_updated": "2026-01-12",
+  "purpose": "Track AI response quality against historical FAQ questions to identify corpus gaps",
+  "total_questions": 49,
+  "tested": 19,
+  "grades": {
+    "A": 15,
+    "B": 2,
+    "C": 0,
+    "D": 2,
+    "F": 0
+  },
+  "grade_definitions": {
+    "A": "Complete, accurate, well-sourced",
+    "B": "Mostly accurate but missing details",
+    "C": "Partially accurate, needs enhancement",
+    "D": "Incorrect or significantly incomplete",
+    "F": "AI cannot answer"
+  },
+  "resolved_gaps": [
+    {
+      "topic": "PROA Technology History",
+      "description": "AI now correctly explains PROA (Polarized Refrigerant Oil Additive) history and differences from PermaFrost NMR",
+      "resolved_date": "2026-01-12",
+      "resolution": "Added QA pairs QA_FAQ_001 through QA_FAQ_006 covering PROA history, failure reasons, and technology classification",
+      "faq_ids_fixed": [
+        "FAQ_040",
+        "FAQ_041",
+        "FAQ_042"
+      ]
+    }
+  ],
+  "remaining_gaps": [
+    {
+      "topic": "ASTM D2783 Four Ball Test",
+      "description": "AI has no knowledge of the lubricity testing showing 4900% improvement",
+      "impact": "Cannot cite lab validation of lubricity benefits",
+      "faq_ids": [
+        "FAQ_023"
+      ],
+      "enhancement_priority": "high",
+      "enhancement_added": "QA_FAQ_007 added 2026-01-12, awaiting Bedrock KB sync"
+    },
+    {
+      "topic": "IPMVP Methodology",
+      "description": "AI cannot explain how PermaFrost NMR effectiveness is proven using IPMVP protocols",
+      "impact": "Cannot address M&V methodology questions from engineers",
+      "faq_ids": [
+        "FAQ_005"
+      ],
+      "enhancement_priority": "high",
+      "enhancement_added": "QA_FAQ_008 added 2026-01-12, awaiting Bedrock KB sync"
+    }
+  ],
+  "tests": [
+    {
+      "id": "FAQ_040",
+      "question": "What is PROA and how is PermaFrost NMR different from it?",
+      "source": "PermaFrost NMR Final FAQ Q18, clarification_2013_v3.pdf",
+      "tested_date": "2026-01-12",
+      "retested_date": "2026-01-12",
+      "grade": "A",
+      "previous_grade": "F",
+      "ai_response_summary": "AI correctly explained PROA as first-generation technology from 1980s with flaws (moisture=acid, incompatible with modern refrigerants). Explained PermaFrost NMR is second-generation with 4 patents, anti-humectants, 15+ year safety record.",
+      "expected_answer": "PROA (Polarized Refrigerant Oil Additive) was 1st generation technology developed in late 1980s by [Researchers] (US Patent 4,963,280). PROA had flaws: reacted with moisture to create acid, incompatible with modern refrigerants. PermaFrost NMR is 2nd generation technology - entirely new formulation protected by 4 patents, 100% safe with all refrigerants, includes anti-humectants to prevent acid formation.",
+      "enhancement_needed": false,
+      "enhancement_priority": "none",
+      "notes": "RESOLVED after corpus enhancement with QA_FAQ_001"
+    },
+    {
+      "id": "FAQ_041",
+      "question": "Why did previous PROA products fail?",
+      "source": "PermaFrost NMR Final FAQ Q48, clarification_2013_v3.pdf",
+      "tested_date": "2026-01-12",
+      "grade": "A",
+      "ai_response_summary": "AI correctly explained 4 reasons: (1) PROA + Moisture = Acid causing compressor damage, (2) incompatible with CFC-free refrigerants, (3) competitors copied without understanding formulation, (4) misapplication by untrained installers",
+      "expected_answer": "PROA products failed because: moisture reaction created corrosive acid, incompatible with new refrigerants mandated by EPA, copy-cat companies didn't understand precise formulation, and misapplication by untrained installers.",
+      "enhancement_needed": false,
+      "enhancement_priority": "none"
+    },
+    {
+      "id": "FAQ_042",
+      "question": "What's the difference between lubricants, PROA, and NMR?",
+      "source": "clarification_2013_v3.pdf",
+      "tested_date": "2026-01-12",
+      "grade": "A",
+      "ai_response_summary": "AI correctly distinguished: (1) Lubricants reduce friction only, don't improve heat transfer, effect lasts 60 days max; (2) PROA was 1st gen with fatal flaws; (3) NMR is 2nd gen that permanently bonds, compatible with all refrigerants, includes anti-humectants",
+      "expected_answer": "Three classifications: Lubricants only reduce friction temporarily. PROA improved heat transfer but had fatal flaws. NMR (PermaFrost) is modern patented technology that permanently bonds to metal and is safe with all refrigerants.",
+      "enhancement_needed": false,
+      "enhancement_priority": "none"
+    },
+    {
+      "id": "FAQ_037",
+      "question": "What are anti-humectants and why are they important in PermaFrost NMR?",
+      "source": "PermaFrost NMR Final FAQ Q23",
+      "tested_date": "2026-01-12",
+      "grade": "B",
+      "ai_response_summary": "AI correctly explained anti-humectants prevent moisture absorption and protect refrigeration circuit. Mentioned acid scavengers included.",
+      "expected_answer": "Anti-humectants prevent moisture absorption which is critical because PROA's fatal flaw was PROA + Moisture = Acid. The original 1st gen technology would react with moisture to create corrosive acid that damaged compressors. PermaFrost NMR includes anti-humectants as part of its patented formula specifically to prevent this reaction.",
+      "enhancement_needed": true,
+      "enhancement_priority": "low",
+      "notes": "Answer is good but could be enhanced with more historical context on WHY moisture protection matters"
+    },
+    {
+      "id": "FAQ_023",
+      "question": "What does the ASTM D2783 four ball test show about PermaFrost NMR?",
+      "source": "PermaFrost NMR Final FAQ Q32",
+      "tested_date": "2026-01-12",
+      "retested_date": "2026-01-12",
+      "grade": "D",
+      "ai_response_summary": "AI stated search results do not contain information about ASTM D2783 testing",
+      "expected_answer": "The ASTM D2783 four ball test measures lubricity. PermaFrost NMR showed 4900% better lubricity (49x improvement) compared to baseline compressor oil. This demonstrates the product significantly reduces metal-to-metal friction and wear on compressor components.",
+      "enhancement_needed": true,
+      "enhancement_priority": "high",
+      "notes": "QA_FAQ_007 added - needs re-test after Bedrock KB sync"
+    },
+    {
+      "id": "FAQ_016",
+      "question": "How do you determine whether to use mineral oil or synthetic oil compatible PermaFrost NMR?",
+      "source": "PermaFrost NMR Final FAQ Q41",
+      "tested_date": "2026-01-12",
+      "grade": "A",
+      "ai_response_summary": "AI correctly explained oil type determines product choice, don't assume from refrigerant, two formulations (mineral and POE), cross-contamination risk, separate pumps needed",
+      "expected_answer": "Match the product to the oil type, not the refrigerant. Verify the refrigerant oil type - do not assume. Mineral oil systems use Mineral Oil Blend, POE (synthetic) systems use POE Oil Blend. Use separate injectors to prevent cross-contamination.",
+      "enhancement_needed": false,
+      "enhancement_priority": "none"
+    },
+    {
+      "id": "FAQ_005",
+      "question": "How do you prove that PermaFrost NMR works? (IPMVP)",
+      "source": "PermaFrost NMR Final FAQ Q5",
+      "tested_date": "2026-01-12",
+      "grade": "D",
+      "ai_response_summary": "AI gave generic greeting instead of answering the IPMVP methodology question",
+      "expected_answer": "PermaFrost NMR effectiveness is proven using IPMVP (International Performance Measurement and Verification Protocol) Option B methodology. This involves measuring baseline kW/ton performance before treatment, then post-treatment performance under normalized conditions. The protocol is recognized by DOE, EPA, and utility companies for quantifying energy savings.",
+      "enhancement_needed": true,
+      "enhancement_priority": "high",
+      "notes": "QA_FAQ_008 added - needs re-test after Bedrock KB sync"
+    },
+    {
+      "id": "FAQ_021",
+      "question": "What is kW/ton and why does it matter for HVAC efficiency?",
+      "source": "PermaFrost NMR Final FAQ Q27",
+      "tested_date": "2026-01-12",
+      "grade": "A",
+      "ai_response_summary": "AI correctly explained kW/ton as kilowatts per ton of cooling, lower is better, measures efficiency, degrades over time, PermaFrost NMR restores it, industry-standard metric for comparison",
+      "expected_answer": "kW/ton measures kilowatts of electricity needed per ton of cooling capacity. Lower is more efficient. As systems age, kW/ton degrades. PermaFrost NMR treatment can restore efficiency. It's the primary industry metric for quantifying HVAC efficiency improvements.",
+      "enhancement_needed": false,
+      "enhancement_priority": "none"
+    },
+    {
+      "id": "FAQ_001",
+      "question": "What is PermaFrost NMR and why is it called Surface Science?",
+      "source": "PermaFrost NMR Final FAQ Q1",
+      "tested_date": "2026-01-12",
+      "grade": "A",
+      "ai_response_summary": "AI correctly explained NMR creates nano-layer that improves heat transfer, term 'Surface Science' distinguishes from oil additives, treatment permanently bonds to metal surfaces, mentioned 4 patents and 15+ year track record",
+      "expected_answer": "PermaFrost NMR is a nano-scale metal treatment that improves heat transfer efficiency. It's called 'Surface Science' because it works at the molecular surface level, creating a permanent bond with metal surfaces inside refrigeration systems. This distinguishes it from oil additives which only temporarily reduce friction.",
+      "enhancement_needed": false,
+      "enhancement_priority": "none"
+    },
+    {
+      "id": "FAQ_002",
+      "question": "What are the main benefits of PermaFrost NMR?",
+      "source": "PermaFrost NMR Final FAQ Q2",
+      "tested_date": "2026-01-12",
+      "grade": "A",
+      "ai_response_summary": "AI listed key benefits: 10-25% energy savings, reduced compressor wear, extended equipment life, lower maintenance costs, improved cooling capacity, environmentally friendly, one-time permanent treatment",
+      "expected_answer": "Main benefits include: energy savings typically 10-25%, reduced compressor wear and friction, extended equipment life, lower maintenance costs, improved heat transfer efficiency, environmentally friendly (reduces carbon footprint), and one-time permanent treatment (no reapplication needed).",
+      "enhancement_needed": false,
+      "enhancement_priority": "none"
+    },
+    {
+      "id": "FAQ_003",
+      "question": "Does treatment void equipment warranty?",
+      "source": "PermaFrost NMR Final FAQ Q3",
+      "tested_date": "2026-01-12",
+      "grade": "A",
+      "ai_response_summary": "AI correctly explained treatment does not void OEM warranty under Magnuson-Moss Act, cited federal law protection for consumers, mentioned some manufacturers explicitly approve the treatment",
+      "expected_answer": "No. Under the Magnuson-Moss Warranty Act (federal law), manufacturers cannot void a warranty unless they can prove the aftermarket product caused the damage. PermaFrost NMR has never voided a warranty in 15+ years of use. Some OEMs have explicitly approved the treatment.",
+      "enhancement_needed": false,
+      "enhancement_priority": "none"
+    },
+    {
+      "id": "FAQ_007",
+      "question": "How long does PermaFrost NMR last in the system?",
+      "source": "PermaFrost NMR Final FAQ Q7",
+      "tested_date": "2026-01-12",
+      "grade": "A",
+      "ai_response_summary": "AI correctly explained treatment is permanent, bonds at molecular level, lasts life of compressor, no reapplication needed, only reapply if compressor replaced or major refrigerant loss",
+      "expected_answer": "PermaFrost NMR is a permanent treatment. The nano-layer bonds permanently to metal surfaces and lasts the life of the compressor. No reapplication is needed unless the compressor is replaced or there is a major refrigerant loss that requires flushing the system.",
+      "enhancement_needed": false,
+      "enhancement_priority": "none"
+    },
+    {
+      "id": "FAQ_011",
+      "question": "Is there ASHRAE research supporting this technology?",
+      "source": "PermaFrost NMR Final FAQ Q11",
+      "tested_date": "2026-01-12",
+      "grade": "A",
+      "ai_response_summary": "AI cited ASHRAE RP-751 and RP-601 research projects confirming oil contamination degrades heat exchanger efficiency by 5-30%, explained how this research validates the mechanism by which PermaFrost NMR improves efficiency",
+      "expected_answer": "Yes. ASHRAE Research Projects RP-751 and RP-601 documented that oil contamination on heat exchanger surfaces degrades efficiency by 5-30%. This independent research validates the scientific basis for how PermaFrost NMR works - by cleaning oil fouling and preventing future contamination.",
+      "enhancement_needed": false,
+      "enhancement_priority": "none"
+    },
+    {
+      "id": "FAQ_012",
+      "question": "What patents protect PermaFrost NMR?",
+      "source": "PermaFrost NMR Final FAQ Q12-13",
+      "tested_date": "2026-01-12",
+      "grade": "B",
+      "ai_response_summary": "AI mentioned 4 patents protect the technology, explained patents cover formulation and application method, noted this prevents competitors from copying. Did not list specific patent numbers.",
+      "expected_answer": "PermaFrost NMR is protected by 4 US patents covering both the chemical formulation and application methodology. The specific patent numbers are available upon request. These patents prevent competitors from legally copying the precise formulation.",
+      "enhancement_needed": true,
+      "enhancement_priority": "low",
+      "notes": "Answer is good but could include specific patent numbers if available in source documents"
+    },
+    {
+      "id": "FAQ_004",
+      "question": "What warranty does Powertron Global provide?",
+      "source": "PermaFrost NMR Final FAQ Q4",
+      "tested_date": "2026-01-12",
+      "grade": "A",
+      "ai_response_summary": "AI correctly explained Powertron warrants no equipment damage, $2M insurance per machine covering damage and revenue loss, 300,000+ deployments with zero damage claims, treatment does not void OEM warranties",
+      "expected_answer": "Powertron warrants that PermaFrost NMR will not damage equipment. They provide up to $2 million insurance per machine for damage and revenue loss. Over 300,000 deployments with zero damage claims filed.",
+      "enhancement_needed": false,
+      "enhancement_priority": "none"
+    },
+    {
+      "id": "FAQ_006",
+      "question": "Can the treatment qualify for energy rebates?",
+      "source": "PermaFrost NMR Final FAQ Q6",
+      "tested_date": "2026-01-12",
+      "grade": "A",
+      "ai_response_summary": "AI correctly explained treatment qualifies for utility rebates using IPMVP Option B methodology, PE-certified results, measures actual kWh reduction, F2 FMV platform for real-time M&V, listed documentation provided to utilities",
+      "expected_answer": "Yes, PermaFrost NMR frequently qualifies for utility rebates. The treatment uses IPMVP methodology required by utilities, results are PE-certified, and the F2 FMV platform provides ongoing monitoring data that utilities require.",
+      "enhancement_needed": false,
+      "enhancement_priority": "none"
+    },
+    {
+      "id": "FAQ_008",
+      "question": "Has PermaFrost NMR been tested by power companies or US government agencies?",
+      "source": "PermaFrost NMR Final FAQ Q8",
+      "tested_date": "2026-01-12",
+      "grade": "A",
+      "ai_response_summary": "AI correctly cited 3 US government/military installations tested: Military Base A (Air Force), Defense Agency A (DOD), Military Base B. Mentioned rigorous procurement standards, 6-month studies, IPMVP-compliant protocols",
+      "expected_answer": "Yes. PermaFrost NMR has been tested at US government and military facilities including Air Force bases and DOD installations. These government studies provide highest level of credibility due to rigorous procurement standards and independent oversight.",
+      "enhancement_needed": false,
+      "enhancement_priority": "none"
+    },
+    {
+      "id": "FAQ_009",
+      "question": "How long has PermaFrost NMR been on the market?",
+      "source": "PermaFrost NMR Final FAQ Q9",
+      "tested_date": "2026-01-12",
+      "grade": "A",
+      "ai_response_summary": "AI correctly stated 15+ years on market with 300,000+ installations across 38 countries",
+      "expected_answer": "PermaFrost NMR has been on the market for over 15 years with 300,000+ installations across 38 countries.",
+      "enhancement_needed": false,
+      "enhancement_priority": "none"
+    },
+    {
+      "id": "FAQ_010",
+      "question": "How long has Powertron Global been in business?",
+      "source": "PermaFrost NMR Final FAQ Q10",
+      "tested_date": "2026-01-12",
+      "grade": "A",
+      "ai_response_summary": "AI correctly stated Powertron Global LLC has been in business for over 15 years, cited Intellectual Property document",
+      "expected_answer": "Powertron Global has been in business for over 15 years.",
+      "enhancement_needed": false,
+      "enhancement_priority": "none"
+    }
+  ],
+  "pending_tests": [
+    {
+      "id": "FAQ_013",
+      "question": "What special handling does PermaFrost NMR require?"
+    },
+    {
+      "id": "FAQ_014",
+      "question": "How long does it take to install PermaFrost NMR?"
+    },
+    {
+      "id": "FAQ_015",
+      "question": "Does treatment require system downtime?"
+    },
+    {
+      "id": "FAQ_017",
+      "question": "What happens if the wrong product type is used?"
+    },
+    {
+      "id": "FAQ_018",
+      "question": "Who is responsible for installation?"
+    },
+    {
+      "id": "FAQ_019",
+      "question": "How is dosage calculated for RTU/DX systems?"
+    },
+    {
+      "id": "FAQ_020",
+      "question": "How is dosage calculated for chillers?"
+    },
+    {
+      "id": "FAQ_022",
+      "question": "What is Delta T improvement?"
+    },
+    {
+      "id": "FAQ_024",
+      "question": "How does treatment improve thermal transfer?"
+    },
+    {
+      "id": "FAQ_025",
+      "question": "What performance range is typical?"
+    },
+    {
+      "id": "FAQ_026",
+      "question": "Why does performance vary between systems?"
+    },
+    {
+      "id": "FAQ_027",
+      "question": "What effect does treatment have on new equipment?"
+    },
+    {
+      "id": "FAQ_028",
+      "question": "Does PermaFrost NMR work on water-cooled systems?"
+    },
+    {
+      "id": "FAQ_029",
+      "question": "Does treatment affect head pressure?"
+    },
+    {
+      "id": "FAQ_030",
+      "question": "What happens if the system leaks after treatment?"
+    },
+    {
+      "id": "FAQ_031",
+      "question": "Is there concern about mold growth?"
+    },
+    {
+      "id": "FAQ_032",
+      "question": "What about stagnant oil in DX systems?"
+    },
+    {
+      "id": "FAQ_033",
+      "question": "Does oil return to compressor after treatment?"
+    },
+    {
+      "id": "FAQ_034",
+      "question": "What are expected savings for chillers?"
+    },
+    {
+      "id": "FAQ_035",
+      "question": "Does treatment work with R-505/ammonia systems?"
+    },
+    {
+      "id": "FAQ_036",
+      "question": "What is optimal equipment age for treatment?"
+    },
+    {
+      "id": "FAQ_038",
+      "question": "What happens if system is exposed to moisture?"
+    },
+    {
+      "id": "FAQ_039",
+      "question": "Why is moisture dangerous in refrigeration systems?"
+    },
+    {
+      "id": "FAQ_043",
+      "question": "How do we identify fraudulent copy cat products?"
+    },
+    {
+      "id": "FAQ_044",
+      "question": "Why can't competitors copy the product?"
+    },
+    {
+      "id": "FAQ_045",
+      "question": "Has ASHRAE tested or approved PermaFrost NMR?"
+    },
+    {
+      "id": "FAQ_046",
+      "question": "How do we handle service contractors skeptical of past PROA failures?"
+    },
+    {
+      "id": "FAQ_047",
+      "question": "Can government agencies sole-source PermaFrost NMR?"
+    },
+    {
+      "id": "FAQ_048",
+      "question": "How are large rollouts handled?"
+    },
+    {
+      "id": "FAQ_049",
+      "question": "What is the heat separator and when is it used?"
+    }
+  ],
+  "summary": {
+    "total_tested": 19,
+    "pass_rate": "89%",
+    "grades_breakdown": "15 A, 2 B, 0 C, 2 D, 0 F",
+    "gaps_resolved": 1,
+    "gaps_remaining": 2,
+    "enhancement_pending_sync": [
+      "QA_FAQ_007 (ASTM D2783)",
+      "QA_FAQ_008 (IPMVP)"
+    ],
+    "next_priority": "Re-test FAQ_023 and FAQ_005 after Bedrock KB sync completes"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "pdf_101",
+  "terms": [
+    {
+      "term": "Energy Conservation Measure",
+      "abbreviation": "ECM",
+      "definition": null
+    },
+    {
+      "term": "Joseph Dicocco\n      Facility Manager NY \n     Underwriters Laboratories",
+      "abbreviation": "UL",
+      "definition": null
+    },
+    {
+      "term": "Technician\n      Powertron Global",
+      "abbreviation": "PTG",
+      "definition": null
+    },
+    {
+      "term": "System air volume",
+      "abbreviation": "CFM",
+      "definition": null
+    },
+    {
+      "term": "The average Coefficient of Performance",
+      "abbreviation": "COP",
+      "definition": null
+    }
+  ]
+}

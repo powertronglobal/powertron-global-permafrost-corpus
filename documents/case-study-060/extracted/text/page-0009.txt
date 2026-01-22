@@ -1,0 +1,34 @@
+Energy Consumption & Financial Metrics
+The following are the final calculated average performance measurements following the PermaFrost NMR® 
+Post measurement period for the Major Technology Company CRAC systems.
+Baseline Energy Consumption
+Baseline Tonnage: 40.7 tons
+Adjusted kW Baseline: 1.50 kW/ton * 47.8 tons = 71.7 kW
+Adjusted Baseline kWh: 71.7 kW * 6045 Annual Operating Hrs = 433,427 kWh
+Revised Cost to Run Baseline: 433,427 kWh * $.054 = $23,405
+Post Energy Consumption
+kW Post: 1.24 kW/ton * 47.8 tons = 59.3 kW
+Annual kWh Post: 59.3 kW * 6045 hours = 358,469 kWh
+Annual Cost Post: 358,469 kWh * $.054 = $19,357
+Savings Per Year
+Avoided Energy Cost (savings) Per Year: $23,405 - $19,357 = $4,048
+Estimated Energy Savings Per Month: $4,048 / 12 = $337
+Initial Payback Period (IPP)
+Cost of PermaFrost NMR® installed in the pilot systems: $5,500
+Estimated IPP: $5,500 / $337 = 16.3 months
+Annual Rate of Return = 73.6%
+Return on Investment Over 5 Years = 368%
+Utilizing data in the charts on the previous pages, to obtain a true avoided energy cost and subsequent payback period for 
+Major Technology Company for implementing the PermaFrost NMR® ECM, a detailed Regression Analysis is used to calculate the true energy 
+savings resulting from the improvement in capacity. This increased capacity reduces the annual kWh expended in the Post 
+Analysis Period. ROI comes from determining what the cost to run the CRAC systems were when operating at the 
+original energy profile to produce the newly restored amount of available tonnage capacity and then subtracting the 
+revised cost to run the systems at the same restored tonnage after the PermaFrost NMR® ECM was installed. This 
+regression analysis is the most widely accepted method of accounting for the reduced number of hours or load the CRACs 
+will now operate due to the restored capacity. This restored capacity allows the systems to reach the set points with 
+increased efficiency resulting in reduced compressor demand loading.
+8
+®
+This report is provided to Tech Company A. It is confidential and proprietary to Powertron Global®, LLC. 
+Its contents are subject to a non-disclosure agreement in place and this document is covered under that agreement. 
+The terms of use are available at www.powertronglobal.com. The report is not to be distributed to any third party without written consent of Powertron Global®, LLC.

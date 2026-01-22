@@ -1,0 +1,52 @@
+ 
+IPMVP Framework and Options       11 
+ 
+Some of the energy requirements of the systems or equipment being assessed may arise 
+outside a practical measurement boundary. Nevertheless, all energy effects of the ECM(s) 
+should be considered. Those energy effects that are significant should be determined from 
+measurements, the rest being estimated or ignored.  
+Any energy effects occurring beyond the notional measurement boundary are called ‘interactive 
+effects’8. Find a way to estimate the magnitude of these interactive effects in order to determine 
+savings. Alternatively they may be ignored as long as the M&V Plan includes discussion of each 
+effect and its likely magnitude. 
+4.5.2  Measurement Period Selection 
+Care should be taken in selecting the period of time to be used as the baseline period and the 
+reporting period. Strategies for each are discussed below. 
+Baseline Period 
+The baseline period should be established to: 
+ 
+Represent all operating modes of the facility. This period should span a full operating cycle 
+from maximum energy use to minimum.   
+ 
+ 
+ 
+ 
+Fairly represent all operating conditions of a normal operating cycle. For example, though a 
+year may be chosen as the baseline period, if data is missing during the selected year for 
+one month, comparable data for the same month in a different year should be used to 
+ensure the baseline record does not under represent operating conditions of the missing 
+month.   
+ 
+Include only time periods for which all fixed and variable energy-governing facts are known 
+about the facility. Extension of baseline periods backwards in time to include multiple cycles 
+of operation requires equal knowledge of all energy-governing factors throughout the longer 
+baseline period in order to properly derive routine and non-routine adjustments (see Chapter 
+4.6) after ECM installation. 
+ 
+Coincide with the period immediately before commitment to undertake the retrofit. Periods 
+further back in time would not reflect the conditions existing before retrofit and may therefore 
+not provide a proper baseline for measuring the effect of just the ECM. 
+ECM planning may require study of a longer time period than is chosen for the baseline period. 
+Longer study periods assist the planner in understanding facility performance and determining 
+what the normal cycle length actually is. 
+                                                  
+8 These interactive effects are sometimes called ‘leakages.’ 
+ 
+Whole-building energy use can be significantly affected by weather conditions. 
+Typically, a whole year of baseline data is needed to define a full operating 
+cycle. 
+ 
+ 
+The energy use of a compressed air system may only be governed by plant 
+production levels, which vary on a weekly cycle. So one week’s data may be 
+all that is needed to define baseline performance. 

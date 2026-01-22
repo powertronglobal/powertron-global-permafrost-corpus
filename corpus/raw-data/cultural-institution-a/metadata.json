@@ -1,0 +1,90 @@
+{
+  "source": "Cultural Institution A",
+  "industry": "cultural",
+  "location_obfuscated": "Major Northeast City, NY",
+  "processed_date": "2026-01-08T19:55:26.825904",
+  "data_type": "Temperature sweep analysis PDFs",
+  "description": "Baseline and post-treatment measurements at various outdoor temperatures (80-94\u00b0F)",
+  "files": [
+    {
+      "original_folder": "Kit 1 Baseline Data",
+      "obfuscated_file": "unit1_baseline_80f.pdf",
+      "size_kb": 429.0
+    },
+    {
+      "original_folder": "Kit 1 Baseline Data",
+      "obfuscated_file": "unit1_baseline_85f.pdf",
+      "size_kb": 630.8
+    },
+    {
+      "original_folder": "Kit 1 Baseline Data",
+      "obfuscated_file": "unit1_baseline_90f.pdf",
+      "size_kb": 287.4
+    },
+    {
+      "original_folder": "Kit 1 Baseline Data",
+      "obfuscated_file": "unit1_baseline_94f.pdf",
+      "size_kb": 109.1
+    },
+    {
+      "original_folder": "Kit 1 Post Data",
+      "obfuscated_file": "unit1_post_80f.pdf",
+      "size_kb": 493.5
+    },
+    {
+      "original_folder": "Kit 1 Post Data",
+      "obfuscated_file": "unit1_post_85f.pdf",
+      "size_kb": 270.9
+    },
+    {
+      "original_folder": "Kit 1 Post Data",
+      "obfuscated_file": "unit1_post_90f.pdf",
+      "size_kb": 503.3
+    },
+    {
+      "original_folder": "Kit 1 Post Data",
+      "obfuscated_file": "unit1_post_94f.pdf",
+      "size_kb": 104.5
+    },
+    {
+      "original_folder": "Kit 2 Baseline Data",
+      "obfuscated_file": "unit2_baseline_80f.pdf",
+      "size_kb": 775.4
+    },
+    {
+      "original_folder": "Kit 2 Baseline Data",
+      "obfuscated_file": "unit2_baseline_85f.pdf",
+      "size_kb": 536.5
+    },
+    {
+      "original_folder": "Kit 2 Baseline Data",
+      "obfuscated_file": "unit2_baseline_90f.pdf",
+      "size_kb": 101.0
+    },
+    {
+      "original_folder": "Kit 2 Baseline Data",
+      "obfuscated_file": "unit2_baseline_93f.pdf",
+      "size_kb": 101.8
+    },
+    {
+      "original_folder": "Kit 2 Post Data",
+      "obfuscated_file": "unit2_post_80f.pdf",
+      "size_kb": 489.7
+    },
+    {
+      "original_folder": "Kit 2 Post Data",
+      "obfuscated_file": "unit2_post_85f.pdf",
+      "size_kb": 292.0
+    },
+    {
+      "original_folder": "Kit 2 Post Data",
+      "obfuscated_file": "unit2_post_90f.pdf",
+      "size_kb": 166.3
+    },
+    {
+      "original_folder": "Kit 2 Post Data",
+      "obfuscated_file": "unit2_post_93f.pdf",
+      "size_kb": 237.0
+    }
+  ]
+}

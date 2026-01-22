@@ -1,0 +1,16 @@
+ 
+ 
+Page 21 of 38 
+ 
+Figure 26 - Matrix Identifying Relationships Between Variables  
+Variables marked in red font were not used in the calculation of the efficiency KPIs 
+ 
+Within the source data for Department Store A, 15 months of complete or partial data was presented, captured in 
+1 second intervals. The result of this measurement frequency was an extremely large dataset only 
+representative of a single year of data potentially impacted by seasonal weather variances.  
+Methodology for Producing Simulated Data 
+After examining and constructing the above table representing the relationship between source and 
+calculated variables, development of simulated data began. Initially to ensure accurate construction 
+of a dataset, the period and timing of source data, average relative humidity and high/low 
+temperatures for Denton, Texas were gathered and used to create relevant values for the 15 month 
+period in the source data.  Average monthly low temperature was set for 6:00 AM on the 15th day of 
