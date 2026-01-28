@@ -1,0 +1,287 @@
+{
+  "title": "Corpus Data Integrity and Validation Pipeline",
+  "version": "1.0.0",
+  "last_updated": "2026-01-28",
+  "purpose": "Documents the data pipeline, validation gates, quality controls, and transparency measures that govern how this corpus was built and maintained. Intended as the primary document for answering questions about dataset credibility, methodology, and data integrity.",
+
+  "data_pipeline": {
+    "description": "Six-stage pipeline from source PDF to training-ready dataset. Each stage has a validation gate that must pass before proceeding.",
+    "stages": [
+      {
+        "stage": 1,
+        "name": "Inventory and Deduplication",
+        "description": "Recursive scan of source directory for PDF files. SHA-256 hash computed per file. Duplicates flagged by matching hash. Encrypted and corrupted files identified.",
+        "outputs": ["inventory.json with per-file SHA-256 hash, byte size, and page count"],
+        "validation_gate": "All PDFs accounted for: processed + duplicate + skipped + failed = discovered. No file left unclassified."
+      },
+      {
+        "stage": 2,
+        "name": "Text Extraction",
+        "description": "Text extracted using tool priority chain: marker-pdf, pymupdf, pdfplumber, then OCR via pytesseract as fallback. Image-only pages sent to OCR if tesseract is available. Documents over 500 pages processed in 100-page batches.",
+        "outputs": ["Per-page text files (page-0001.txt through page-NNNN.txt)", "Consolidated markdown (document.md)"],
+        "validation_gate": "Every processed document has page-level text files and a document.md file."
+      },
+      {
+        "stage": 3,
+        "name": "PII Obfuscation",
+        "description": "Customer company names replaced with industry-category labels (e.g., 'Major Global Bank A'). Personnel names replaced with role titles (e.g., '[Facility Manager]'). Locations redacted to state level. Contact information removed entirely. Public figures, standards authors, and published researchers are not obfuscated.",
+        "outputs": ["Obfuscated text across all output file types: .txt, .md, .jsonl, .json"],
+        "verification": "Automated grep scan for known customer names across all output files. Zero matches required.",
+        "scope": {
+          "customers_mapped": 178,
+          "industry_categories": 13,
+          "obfuscation_layers": 4
+        }
+      },
+      {
+        "stage": 4,
+        "name": "Study Quality Screening",
+        "description": "Source studies screened for methodology flaws before inclusion in the corpus. Studies with execution problems are excluded to protect corpus integrity. Exclusions reflect flawed study methodology, not treatment limitations.",
+        "exclusion_criteria": [
+          "Insufficient gestation runtime (less than 200 hours per circuit)",
+          "Mechanical failure during study period (compressor capacity loss, equipment malfunction)",
+          "Seasonal mismatch between baseline and post-treatment measurement periods",
+          "Original study author explicitly excluded specific units with documented reasons",
+          "Data logger failures, invalid readings, or calibration issues",
+          "Documented airflow problems affecting measurement validity"
+        ],
+        "validation_gate": "Every exclusion documented in manifest.json with the specific reason. No silent omissions.",
+        "source_reference": "Exclusion categories defined in screening_and_limitations.json"
+      },
+      {
+        "stage": 5,
+        "name": "Chunking and Tokenization",
+        "description": "Full text split into training-ready chunks using cl100k_base tokenizer. Nominal chunk size: 800 tokens (minimum 400, maximum 1200). Overlap: 50 tokens. Split hierarchy: section boundaries, then paragraph, then sentence, then hard token limit. Output files split at 25 MB.",
+        "outputs": ["ALL_TEXT.txt with page markers", "chunks-NNNN.jsonl files"],
+        "validation_gate": "Chunk chain valid: all prev/next IDs resolve. All chunks within token bounds. Deterministic: same input produces identical chunk IDs.",
+        "determinism_note": "Same source documents always produce identical chunk output. No randomness in the pipeline."
+      },
+      {
+        "stage": 6,
+        "name": "Indexing and Publishing",
+        "description": "BM25Okapi search index built (k1=1.5, b=0.75). Corpus manifest generated with document counts, chunk counts, and token counts. Git history scanned for leaked secrets. Published to GitHub (full corpus) and HuggingFace (text-only tier).",
+        "outputs": ["corpus/manifest.json", "corpus/indexes/bm25_index.json", "corpus/docs.json"],
+        "validation_gate": "No tokens or secrets found in git history (scanned for ghp_, github_pat_, sk-, hf_ patterns). Manifest document count matches actual file count. All docs.json paths resolve to existing files."
+      }
+    ]
+  },
+
+  "record_accounting": {
+    "principle": "Zero silent omissions. Every source document reaches one of four terminal states.",
+    "invariant": "discovered == processed + duplicate + skipped + failed",
+    "terminal_states": {
+      "processed": "Successfully extracted, obfuscated, chunked, and indexed",
+      "duplicate": "SHA-256 hash matched another document. First occurrence kept.",
+      "skipped": "Excluded with documented reason (quality screening failure, encryption without password, image-only without OCR)",
+      "failed": "Extraction failed after all fallback methods. Error logged with stack trace."
+    },
+    "current_stats": {
+      "total_measurements": 254,
+      "usable_measurements": 192,
+      "unusable_records": 62,
+      "unusable_percentage": 24.4,
+      "pe_certified_case_studies": 125,
+      "failed": 0
+    },
+    "unusable_record_categories": [
+      "Incomplete baseline data (measurement interrupted or incomplete)",
+      "Measurement equipment calibration issues discovered during analysis",
+      "Equipment mechanical issues discovered during testing (compressor failures, refrigerant leaks, motor issues)",
+      "Client site access restrictions (post-measurement access denied or limited)"
+    ],
+    "source_reference": "Statistics from methodology_notes.json overview section"
+  },
+
+  "obfuscation_process": {
+    "description": "Four-layer obfuscation protects customer privacy without compromising data utility for AI training.",
+    "layers": [
+      {
+        "layer": "Company Names",
+        "method": "Replaced with industry-category labels following consistent patterns",
+        "pattern_examples": ["Major Global Bank A", "Regional Telecom B", "Hotel Chain C", "Data Center D"],
+        "registry_size": 178,
+        "industry_categories": 13,
+        "categories_list": ["telecom", "banking", "retail", "hospitality", "healthcare", "education", "government", "real_estate", "manufacturing", "data_centers", "entertainment", "cultural", "other"]
+      },
+      {
+        "layer": "Personnel Names",
+        "method": "Replaced with role titles in brackets",
+        "pattern_examples": ["[Facility Manager]", "[VP Operations]", "[Engineer, P.E.]"],
+        "exception": "Public figures are not obfuscated: ASHRAE committee members, published academic authors, standards contributors, equipment manufacturers"
+      },
+      {
+        "layer": "Locations",
+        "method": "City names and street addresses redacted. State or country retained for geographic analysis.",
+        "pattern_examples": ["[LOCATION REDACTED]", "[Texas Location]", "[Connecticut Location]"]
+      },
+      {
+        "layer": "Contact Information",
+        "method": "Phone numbers, email addresses, fax numbers, and mailing addresses removed entirely"
+      }
+    ],
+    "verification_method": "Automated grep scan for all known customer names across every output file after every build. Build fails if any match found.",
+    "registry_location": "Private local file (customer_obfuscation_registry.json). Never published to GitHub or HuggingFace.",
+    "source_reference": "Obfuscation patterns defined in name_obfuscation_reference.md and customer_obfuscation_registry.json"
+  },
+
+  "validation_independence": {
+    "description": "Four independent layers validate different aspects of the data. No single entity controls the full validation chain.",
+    "layers": [
+      {
+        "role": "Field Measurement",
+        "who": "125 PE-certified case studies validated by Licensed Professional Engineers",
+        "total_engineers": "113 case studies with before/after PE-certified measurements",
+        "independence": "Professional Engineers stake their licenses on measurement accuracy. License revocation is the penalty for fraud under state engineering boards.",
+        "methodology": "IPMVP Option B (Retrofit Isolation: All Parameter Measurement) with NIST-traceable calibration"
+      },
+      {
+        "role": "Laboratory Validation",
+        "who": "8 independent laboratories across 2 countries, plus 2 academic institutions",
+        "organizations": [
+          "NSF International (Michigan)",
+          "Underwriters Laboratories (Texas)",
+          "Florida Atlantic University (Florida) - 225-page study, 61 tests, 38 sites",
+          "University of Montana (2 studies: 2021 capstone, 2022 advanced data science)",
+          "China National Lab (China National Testing Authority)",
+          "Major OEM Electronics A (Major OEM manufacturer, China)",
+          "Major Appliance Mfg A (OEM testing, South Carolina)"
+        ],
+        "independence": "Labs have no financial relationship with treatment outcomes. Academic studies supervised by faculty with no commercial interest.",
+        "source_reference": "Full lab report details in third_party_validation.json"
+      },
+      {
+        "role": "Machine Learning Validation",
+        "who": "University of Montana, Department of Mathematical Sciences",
+        "studies": [
+          {
+            "year": 2021,
+            "title": "Incorporating Machine Learning with Cloud Based HVAC Monitoring Systems",
+            "data_points": "39 training days",
+            "algorithms": ["Random Forest", "MAD Thresholding", "Hierarchical Clustering", "Archetypes Analysis"],
+            "conclusion": "Algorithm proves treatment efficacy on Department Store A unit"
+          },
+          {
+            "year": 2022,
+            "title": "Advanced Data Science - HVAC Anomaly Detection",
+            "data_points": 241029,
+            "algorithms": ["Random Forest Regressor", "Gradient Boosting Regressor", "Light Gradient Boosting", "K-Means", "DBScan", "Agglomerative Clustering", "Local Outlier Factor"],
+            "key_result": "R-squared = 0.998 post-treatment (99.8% predictability)",
+            "conclusion": "System returned to optimal performance after treatment"
+          }
+        ],
+        "independence": "9 different ML algorithms (supervised and unsupervised) all reached the same conclusion. Students had no financial relationship with Powertron Global. Algorithms have no financial incentive or preconceptions."
+      },
+      {
+        "role": "Methodology Verification",
+        "who": "Underwriters Laboratories (UL LLC)",
+        "scope": "UL verified the entire IPMVP Option B testing methodology, not just individual test results",
+        "what_was_verified": [
+          "System air volume (CFM) measurements",
+          "Return and supply air temperature measurements",
+          "Total equipment voltage and amperage measurements",
+          "Refrigerant suction and discharge pressures",
+          "Outdoor air temperature measurements"
+        ],
+        "significance": "UL signed off on the testing PROCEDURES themselves. This validates the M&V methodology used across all 125 PE-certified field studies.",
+        "source_reference": "UL methodology verification details in third_party_validation.json ul_methodology_verification section"
+      }
+    ]
+  },
+
+  "transparency_markers": {
+    "description": "What this corpus discloses that most datasets do not. Each disclosure references the specific file where the data lives.",
+    "disclosures": [
+      {
+        "marker": "Full Performance Distribution Published",
+        "detail": "24 case studies with less than 15% improvement are included in the corpus and surfaced in edge_cases.json. The lowest result is 3.8% (Naval Vessel A). Results range from 3.8% to 61%. Lower performers are not hidden.",
+        "file": "edge_cases.json, screening_and_limitations.json"
+      },
+      {
+        "marker": "All Exclusions Documented with Reasons",
+        "detail": "62 records (24.4%) excluded from statistical analysis. Each exclusion categorized: incomplete baseline data, calibration issues, mechanical failures discovered during testing, site access restrictions. Exclusion rate and categories published.",
+        "file": "methodology_notes.json unusable_records section"
+      },
+      {
+        "marker": "PE Screening Logic Published",
+        "detail": "The minimum requirements and disqualifying conditions that PEs use to screen systems are documented. Minimum: system must be operational, compressor within rated amperage, refrigerant charge acceptable. Disqualifying: compressor failure, severe undercharge, blocked coils, failed expansion valve.",
+        "file": "screening_and_limitations.json pe_screening_criteria section"
+      },
+      {
+        "marker": "AI Negative Constraint Training Included",
+        "detail": "The corpus includes ai_honesty_guide.json with 'honey pot' tests designed to train the AI to say NO when the product is not appropriate. Tests cover scenarios like oil-free compressors, titanium heat exchangers, and equipment under 3 years old. Both fail and pass responses are documented.",
+        "file": "ai_honesty_guide.json honey_pot_test_library section"
+      },
+      {
+        "marker": "Known Limitations Published",
+        "detail": "Equipment types with limited data (VRF, ammonia, CO2), conditions affecting results (new equipment, recent service, well-maintained systems), and inappropriate applications (oil-free compressors, titanium exchangers) are documented.",
+        "file": "screening_and_limitations.json known_limitations and inappropriate_applications sections"
+      },
+      {
+        "marker": "Measurement Methodology and Patent Published",
+        "detail": "The exact IPMVP Option B protocol is documented. The M&V patent (US11062404B2) is cited. NIST-traceable calibration standards, ASHRAE 37 and AHRI 340/360 compliance, and weather normalization methodology are described. The measurement methodology is auditable.",
+        "file": "methodology_notes.json measurement_methodology section"
+      },
+      {
+        "marker": "Vendor-Commissioned Studies Disclosed",
+        "detail": "All 192 usable studies were vendor-commissioned. This is stated explicitly in the corpus. PE certification and independent lab validation provide methodology independence despite vendor commissioning.",
+        "file": "training_intent.json ai_guidance.key_facts (TRANSPARENCY markers)"
+      }
+    ]
+  },
+
+  "data_tiering": {
+    "description": "The corpus is distributed across two platforms with different content scopes.",
+    "tiers": [
+      {
+        "platform": "HuggingFace",
+        "content": "Training-ready text: chunks (JSONL), metadata (JSON), ALL_TEXT.txt, summaries",
+        "approximate_size": "5 MB",
+        "purpose": "LLM training and RAG indexing",
+        "excluded": ["Parquet time-series data", "PDF source files", "PNG images", "CSV files", "Raw data directories"]
+      },
+      {
+        "platform": "GitHub",
+        "content": "Full corpus including raw Parquet time-series data (3.8 million rows via Git LFS)",
+        "approximate_size": "85 MB",
+        "purpose": "Full research access including energy data for ML analysis"
+      }
+    ],
+    "files_excluded_from_all_public_platforms": [
+      {
+        "file": "customer_obfuscation_registry.json",
+        "reason": "Contains real customer names mapped to obfuscated names (PII)"
+      },
+      {
+        "file": "ai_directives.json",
+        "reason": "Internal AI behavior configuration"
+      },
+      {
+        "file": "bedrock_config.json",
+        "reason": "System prompt and response rules for the AI assistant"
+      }
+    ]
+  },
+
+  "corpus_statistics": {
+    "case_studies": 174,
+    "total_measurements": 254,
+    "usable_measurements": 192,
+    "pe_certified_studies": 125,
+    "independent_labs": 8,
+    "academic_institutions": 2,
+    "academic_studies": 3,
+    "countries_with_labs": 2,
+    "government_military_facilities": 5,
+    "government_studies": 7,
+    "customers_obfuscated": 178,
+    "industry_categories": 13,
+    "us_states_covered": 24,
+    "countries_covered": 6,
+    "training_json_files": 71,
+    "lower_performers_documented": 24,
+    "lowest_result_percent": 3.8,
+    "average_improvement_percent": 23.2,
+    "total_documented_kwh_saved": 12311219,
+    "standards_referenced": ["IPMVP Option B", "ASHRAE Guideline 14", "ASHRAE 37", "AHRI 340/360", "AHAM HRF-1-2008", "GB/T7725-2004", "ISO 5151"]
+  }
+}
