@@ -24,6 +24,15 @@
         ]
       },
       {
+        "id": "QA_BASIC_004",
+        "question": "Can PermaFrost NMR be removed from a system after it has been applied?",
+        "answer": "No. PermaFrost NMR cannot be removed from the system once applied. The treatment creates a permanent molecular bond with the metal heat exchanger surfaces that is irreversible under normal operating conditions.\n\nThe only theoretical way to remove PermaFrost NMR would be an acid flush of the entire refrigerant circuit. However, this is not a practical consideration because: (1) acid flushes are never performed on HVAC equipment in normal service, (2) removing the treatment would immediately restart the thermal degradation process — oil would begin re-fouling the now-unprotected metal surfaces as soon as the system runs again, and (3) there is no benefit to removal since the permanent bond is what provides lasting efficiency restoration.\n\nThis irreversibility is by design. The permanent molecular bond ensures that oil cannot re-coat the heat exchanger surfaces, which is why the treatment lasts the life of the equipment with zero maintenance or reapplication. It is effectively irreversible for the entire service life of the equipment.",
+        "sources": [
+          "mechanism_of_action.json",
+          "product-longevity-overview"
+        ]
+      },
+      {
         "id": "QA_BASIC_003",
         "question": "Is PermaFrost NMR a one-time treatment or does it need to be reapplied?",
         "answer": "PermaFrost NMR is a one-time treatment that lasts the lifetime of the equipment. The molecular bonding to metal surfaces and its higher molecular weight keep it permanently in place. This is validated by the 6+ year Major Global Bank A longevity study showing 17.76% COP improvement sustained over the entire period with no reapplication.",

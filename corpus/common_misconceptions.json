@@ -97,6 +97,17 @@
       },
       "key_distinction": "Refrigerant flows through the system but does not remove oil films bonded to metal surfaces. This internal fouling cannot be reached by external cleaning - only chemical treatment (PermaFrost NMR) can displace it."
     },
+    "treatment_can_be_removed": {
+      "id": "MISC_014",
+      "myth": "PermaFrost NMR can be removed or reversed if needed",
+      "reality": "PermaFrost NMR creates an irreversible molecular bond with metal heat exchanger surfaces. Once applied, the treatment cannot be removed under normal circumstances. The only theoretical removal method — an acid flush of the refrigerant circuit — is never performed on HVAC equipment in practice, and doing so would immediately restart the thermal degradation cycle as oil re-fouls the now-unprotected surfaces.",
+      "why_this_is_wrong": {
+        "old_thinking": "If we don't like the results, we can remove it or reverse it",
+        "correct_thinking": "The permanent bond IS the mechanism of action. Removing it would undo all efficiency gains and restart degradation. There is no scenario where removal benefits the equipment owner."
+      },
+      "evidence": "300,000+ installations across 38 countries — none have required or requested removal. The permanent molecular bond is validated by the Major Global Bank A 6+ year longevity study showing sustained 17.76% COP improvement with zero degradation.",
+      "key_insight": "Irreversibility is a feature, not a limitation. It means zero maintenance, zero reapplication, and permanent efficiency restoration for the life of the equipment."
+    },
     "ashrae_estimates_are_accurate": {
       "id": "MISC_011",
       "myth": "ASHRAE degradation estimates accurately predict real-world efficiency loss",
