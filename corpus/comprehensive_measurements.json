@@ -1,7 +1,7 @@
 {
   "title": "Comprehensive Case Study Database (Obfuscated)",
-  "version": "1.3.3",
-  "last_updated": "2026-01-10",
+  "version": "1.3.4",
+  "last_updated": "2026-07-25",
   "total_records": 143,
   "quality_breakdown": {
     "complete": 55,
@@ -6394,15 +6394,15 @@
       "source_file": "Regional Telecom A Tower Cell",
       "extraction_quality": "complete",
       "site": {
-        "industry": "data_center",
+        "industry": "telecommunications",
         "state": "AZ"
       },
       "equipment": [
         {
           "type": "Refrigeration",
           "age_years": 14,
-          "manufacturer": "York",
-          "capacity_tons": 500.0
+          "manufacturer": "Bard",
+          "capacity_tons": 2.83
         }
       ],
       "measurements": {
@@ -6638,7 +6638,7 @@
           "type": "Refrigeration",
           "age_years": 14,
           "manufacturer": "Bard",
-          "capacity_tons": 408.0
+          "capacity_tons": 2.83
         }
       ],
       "measurements": {
@@ -6744,7 +6744,7 @@
         "methodology": "IPMVP Option B",
         "pe_name": "[Mechanical Engineer]"
       },
-      "test_date": "July 21 – 10 Sept 2014",
+      "test_date": "July 21 \u2013 10 Sept 2014",
       "pe_name": "[Mechanical Engineer]",
       "record_category": "field_study",
       "tableau_dataset_validation": {
