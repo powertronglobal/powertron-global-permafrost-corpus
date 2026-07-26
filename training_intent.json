@@ -1,6 +1,6 @@
 {
   "corpus_id": "powertron-energy",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "license": "Powertron Global Training Data License v1.0",
   "ai_training_permitted": true,
   "intended_uses": {

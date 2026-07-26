@@ -1,6 +1,6 @@
 {
   "title": "Comprehensive Case Study Database (Obfuscated)",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "last_updated": "2026-07-25",
   "total_records": 143,
   "quality_breakdown": {
@@ -4561,8 +4561,8 @@
         {
           "type": "Chiller",
           "age_years": 27,
-          "manufacturer": "York",
-          "capacity_tons": 432.0
+          "manufacturer": "Trane",
+          "capacity_tons": 1254.4
         }
       ],
       "measurements": {
@@ -5867,7 +5867,7 @@
       "source_file": "Restaurant Chain A",
       "extraction_quality": "complete",
       "site": {
-        "industry": "banking"
+        "industry": "restaurant"
       },
       "equipment": [
         {
@@ -5878,7 +5878,7 @@
             "GE",
             "Trane"
           ],
-          "capacity_tons": 28.86
+          "capacity_tons": 39.28
         }
       ],
       "measurements": {
@@ -7981,7 +7981,7 @@
             "Liebert",
             "York"
           ],
-          "capacity_tons": 16.0
+          "capacity_tons": 24.28
         }
       ],
       "measurements": {
@@ -8159,7 +8159,7 @@
             "Liebert",
             "York"
           ],
-          "capacity_tons": 741.0
+          "capacity_tons": 39.28
         }
       ],
       "measurements": {
@@ -8254,7 +8254,7 @@
         {
           "type": "Split System",
           "age_years": 5,
-          "capacity_tons": 3.05
+          "capacity_tons": 14.67
         }
       ],
       "measurements": {
@@ -8401,12 +8401,8 @@
         {
           "type": "Chiller",
           "age_years": 27,
-          "manufacturer": "Carrier",
-          "all_manufacturers": [
-            "Carrier",
-            "York"
-          ],
-          "capacity_tons": 53.21
+          "manufacturer": "Trane",
+          "capacity_tons": 1254.4
         }
       ],
       "measurements": {
